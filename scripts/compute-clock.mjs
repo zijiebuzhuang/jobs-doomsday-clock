@@ -9,8 +9,8 @@ const avgExposure = weightedExposure / totalJobs
 const replacementRate = avgExposure * 10
 
 const minutesToMidnight = Math.round((50 - replacementRate) * 14.4)
-const totalMinutes = 720 + minutesToMidnight
-const hours = Math.floor(totalMinutes / 60) % 12
+const totalMinutes = 720 - minutesToMidnight
+const hours = Math.floor(totalMinutes / 60)
 const minutes = totalMinutes % 60
 const displayTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`
 
