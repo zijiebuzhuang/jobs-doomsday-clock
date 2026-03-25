@@ -1,0 +1,176 @@
+.app-shell {
+  min-height: 100vh;
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  padding: 26px;
+}
+
+.clock-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  margin-bottom: 40px;
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-family: var(--font-ui);
+}
+
+.clock-stage {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.clock-face {
+  width: min(60vh, 500px);
+  aspect-ratio: 1;
+}
+
+.clock-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.clock-ring {
+  fill: #f5f1e8;
+}
+
+.clock-mark {
+  fill: #050505;
+}
+
+.clock-hour-hand {
+  fill: #050505;
+}
+
+.clock-minute-hand {
+  fill: none;
+  stroke: #050505;
+  stroke-width: 2.4;
+}
+
+.clock-readout {
+  text-align: center;
+}
+
+.clock-readout h1 {
+  margin: 0;
+  font-size: clamp(64px, 9vw, 120px);
+  font-weight: 400;
+  line-height: 0.92;
+  letter-spacing: -0.04em;
+}
+
+.time-context {
+  margin-top: 12px;
+  font-family: var(--font-ui);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin: 40px 0;
+  padding-top: 40px;
+  border-top: 1px solid var(--line);
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-label {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.stat-value {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.occupation-section {
+  margin-top: 40px;
+  padding-top: 40px;
+  border-top: 1px solid var(--line);
+}
+
+.section-title {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin: 0 0 20px;
+}
+
+.occupation-list {
+  display: grid;
+  gap: 0;
+}
+
+.occupation-item {
+  padding: 20px 0;
+  border-top: 1px solid var(--line);
+}
+
+.occupation-item h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.occupation-item h3 a {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 4px;
+  transition: text-decoration-color 120ms ease;
+}
+
+.occupation-item h3 a:hover {
+  text-decoration-color: var(--text);
+  opacity: 1;
+}
+
+.occupation-meta {
+  display: flex;
+  gap: 16px;
+  font-family: var(--font-ui);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+@media (max-width: 768px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .clock-face {
+    width: min(70vw, 400px);
+  }
+}

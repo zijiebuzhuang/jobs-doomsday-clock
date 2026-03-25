@@ -1,0 +1,100 @@
+{
+  "displayTime": "06:07",
+  "minutesToMidnight": 367,
+  "replacementRate": 49.1,
+  "totalJobs": 143066500,
+  "occupationCount": 341,
+  "topExposures": [
+    {
+      "title": "Medical transcriptionists",
+      "exposure": 10,
+      "jobs": 43900,
+      "url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm"
+    },
+    {
+      "title": "Bill and account collectors",
+      "exposure": 9,
+      "jobs": 166900,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bill-and-account-collectors.htm"
+    },
+    {
+      "title": "Bookkeeping, accounting, and auditing clerks",
+      "exposure": 9,
+      "jobs": 1613400,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bookkeeping-accounting-and-auditing-clerks.htm"
+    },
+    {
+      "title": "Computer and information research scientists",
+      "exposure": 9,
+      "jobs": 40300,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm"
+    },
+    {
+      "title": "Computer programmers",
+      "exposure": 9,
+      "jobs": 121200,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm"
+    },
+    {
+      "title": "Court reporters and simultaneous captioners",
+      "exposure": 9,
+      "jobs": 17700,
+      "url": "https://www.bls.gov/ooh/legal/court-reporters.htm"
+    },
+    {
+      "title": "Customer service representatives",
+      "exposure": 9,
+      "jobs": 2814000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm"
+    },
+    {
+      "title": "Data scientists",
+      "exposure": 9,
+      "jobs": 245900,
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+    },
+    {
+      "title": "Database administrators and architects",
+      "exposure": 9,
+      "jobs": 144900,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm"
+    },
+    {
+      "title": "Desktop publishers",
+      "exposure": 9,
+      "jobs": 5000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm"
+    },
+    {
+      "title": "Drafters",
+      "exposure": 9,
+      "jobs": 192100,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/drafters.htm"
+    },
+    {
+      "title": "Economists",
+      "exposure": 9,
+      "jobs": 17600,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm"
+    },
+    {
+      "title": "Editors",
+      "exposure": 9,
+      "jobs": 115800,
+      "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm"
+    },
+    {
+      "title": "Financial analysts",
+      "exposure": 9,
+      "jobs": 429000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm"
+    },
+    {
+      "title": "Financial clerks",
+      "exposure": 9,
+      "jobs": 1193000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm"
+    }
+  ],
+  "generatedAt": "2026-03-25T15:41:13.033Z"
+}
