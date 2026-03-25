@@ -1,6 +1,6 @@
 {
-  "displayTime": "06:07",
-  "minutesToMidnight": 367,
+  "displayTime": "00:13",
+  "minutesToMidnight": 13,
   "replacementRate": 49.1,
   "totalJobs": 143066500,
   "occupationCount": 341,
@@ -96,5 +96,5 @@
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm"
     }
   ],
-  "generatedAt": "2026-03-25T15:41:13.033Z"
+  "generatedAt": "2026-03-25T15:46:54.079Z"
 }
