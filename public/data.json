@@ -1,100 +1,3210 @@
 {
-  "displayTime": "11:47",
+  "displayTime": "23:47",
   "minutesToMidnight": 13,
   "replacementRate": 49.1,
   "totalJobs": 143066500,
   "occupationCount": 341,
-  "topExposures": [
+  "occupations": [
     {
       "title": "Medical transcriptionists",
       "exposure": 10,
       "jobs": 43900,
-      "url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm"
-    },
-    {
-      "title": "Bill and account collectors",
-      "exposure": 9,
-      "jobs": 166900,
-      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bill-and-account-collectors.htm"
-    },
-    {
-      "title": "Bookkeeping, accounting, and auditing clerks",
-      "exposure": 9,
-      "jobs": 1613400,
-      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bookkeeping-accounting-and-auditing-clerks.htm"
-    },
-    {
-      "title": "Computer and information research scientists",
-      "exposure": 9,
-      "jobs": 40300,
-      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm"
-    },
-    {
-      "title": "Computer programmers",
-      "exposure": 9,
-      "jobs": 121200,
-      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm"
-    },
-    {
-      "title": "Court reporters and simultaneous captioners",
-      "exposure": 9,
-      "jobs": 17700,
-      "url": "https://www.bls.gov/ooh/legal/court-reporters.htm"
+      "url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
+      "category": "healthcare",
+      "outlook": -5,
+      "outlookDesc": "Decline"
     },
     {
       "title": "Customer service representatives",
       "exposure": 9,
       "jobs": 2814000,
-      "url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm"
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -5,
+      "outlookDesc": "Decline"
     },
     {
-      "title": "Data scientists",
+      "title": "General office clerks",
       "exposure": 9,
-      "jobs": 245900,
-      "url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+      "jobs": 2646000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/general-office-clerks.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -7,
+      "outlookDesc": "Decline"
     },
     {
-      "title": "Database administrators and architects",
+      "title": "Software developers, quality assurance analysts, and testers",
       "exposure": 9,
-      "jobs": 144900,
-      "url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm"
+      "jobs": 1895500,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
     },
     {
-      "title": "Desktop publishers",
+      "title": "Bookkeeping, accounting, and auditing clerks",
       "exposure": 9,
-      "jobs": 5000,
-      "url": "https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm"
-    },
-    {
-      "title": "Drafters",
-      "exposure": 9,
-      "jobs": 192100,
-      "url": "https://www.bls.gov/ooh/architecture-and-engineering/drafters.htm"
-    },
-    {
-      "title": "Economists",
-      "exposure": 9,
-      "jobs": 17600,
-      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm"
-    },
-    {
-      "title": "Editors",
-      "exposure": 9,
-      "jobs": 115800,
-      "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm"
-    },
-    {
-      "title": "Financial analysts",
-      "exposure": 9,
-      "jobs": 429000,
-      "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm"
+      "jobs": 1613400,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bookkeeping-accounting-and-auditing-clerks.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -6,
+      "outlookDesc": "Decline"
     },
     {
       "title": "Financial clerks",
       "exposure": 9,
       "jobs": 1193000,
-      "url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm"
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Market research analysts",
+      "exposure": 9,
+      "jobs": 941700,
+      "url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+      "category": "business-and-financial",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Financial analysts",
+      "exposure": 9,
+      "jobs": 429000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
+      "category": "business-and-financial",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Paralegals and legal assistants",
+      "exposure": 9,
+      "jobs": 376200,
+      "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
+      "category": "legal",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Graphic designers",
+      "exposure": 9,
+      "jobs": 265900,
+      "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
+      "category": "arts-and-design",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Data scientists",
+      "exposure": 9,
+      "jobs": 245900,
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+      "category": "math",
+      "outlook": 34,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Web developers and digital designers",
+      "exposure": 9,
+      "jobs": 214900,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Medical records specialists",
+      "exposure": 9,
+      "jobs": 194800,
+      "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
+      "category": "healthcare",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Drafters",
+      "exposure": 9,
+      "jobs": 192100,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/drafters.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Bill and account collectors",
+      "exposure": 9,
+      "jobs": 166900,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/bill-and-account-collectors.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -10,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Database administrators and architects",
+      "exposure": 9,
+      "jobs": 144900,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Writers and authors",
+      "exposure": 9,
+      "jobs": 135400,
+      "url": "https://www.bls.gov/ooh/media-and-communication/writers-and-authors.htm",
+      "category": "media-and-communication",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Insurance underwriters",
+      "exposure": 9,
+      "jobs": 127000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/insurance-underwriters.htm",
+      "category": "business-and-financial",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Computer programmers",
+      "exposure": 9,
+      "jobs": 121200,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm",
+      "category": "computer-and-information-technology",
+      "outlook": -6,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Editors",
+      "exposure": 9,
+      "jobs": 115800,
+      "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm",
+      "category": "media-and-communication",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Operations research analysts",
+      "exposure": 9,
+      "jobs": 112100,
+      "url": "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
+      "category": "math",
+      "outlook": 21,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Interpreters and translators",
+      "exposure": 9,
+      "jobs": 75300,
+      "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
+      "category": "media-and-communication",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Travel agents",
+      "exposure": 9,
+      "jobs": 65700,
+      "url": "https://www.bls.gov/ooh/sales/travel-agents.htm",
+      "category": "sales",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Special effects artists and animators",
+      "exposure": 9,
+      "jobs": 57100,
+      "url": "https://www.bls.gov/ooh/arts-and-design/multimedia-artists-and-animators.htm",
+      "category": "arts-and-design",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Technical writers",
+      "exposure": 9,
+      "jobs": 56400,
+      "url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm",
+      "category": "media-and-communication",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Computer and information research scientists",
+      "exposure": 9,
+      "jobs": 40300,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 20,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Mathematicians and statisticians",
+      "exposure": 9,
+      "jobs": 34600,
+      "url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+      "category": "math",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Court reporters and simultaneous captioners",
+      "exposure": 9,
+      "jobs": 17700,
+      "url": "https://www.bls.gov/ooh/legal/court-reporters.htm",
+      "category": "legal",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Economists",
+      "exposure": 9,
+      "jobs": 17600,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Survey researchers",
+      "exposure": 9,
+      "jobs": 8800,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/survey-researchers.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Desktop publishers",
+      "exposure": 9,
+      "jobs": 5000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -12,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Secretaries and administrative assistants",
+      "exposure": 8,
+      "jobs": 3453100,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/secretaries-and-administrative-assistants.htm",
+      "category": "office-and-administrative-support",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Accountants and auditors",
+      "exposure": 8,
+      "jobs": 1579800,
+      "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
+      "category": "business-and-financial",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Computer support specialists",
+      "exposure": 8,
+      "jobs": 882300,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm",
+      "category": "computer-and-information-technology",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Lawyers",
+      "exposure": 8,
+      "jobs": 864800,
+      "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
+      "category": "legal",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Computer systems analysts",
+      "exposure": 8,
+      "jobs": 521100,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Securities, commodities, and financial services sales agents",
+      "exposure": 8,
+      "jobs": 514500,
+      "url": "https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm",
+      "category": "sales",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Advertising, promotions, and marketing managers",
+      "exposure": 8,
+      "jobs": 434000,
+      "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
+      "category": "management",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Compliance officers",
+      "exposure": 8,
+      "jobs": 418000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/compliance-officers.htm",
+      "category": "business-and-financial",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Network and computer systems administrators",
+      "exposure": 8,
+      "jobs": 331500,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm",
+      "category": "computer-and-information-technology",
+      "outlook": -4,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Public relations specialists",
+      "exposure": 8,
+      "jobs": 315900,
+      "url": "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm",
+      "category": "media-and-communication",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Loan officers",
+      "exposure": 8,
+      "jobs": 301400,
+      "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
+      "category": "business-and-financial",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Cost estimators",
+      "exposure": 8,
+      "jobs": 221400,
+      "url": "https://www.bls.gov/ooh/business-and-financial/cost-estimators.htm",
+      "category": "business-and-financial",
+      "outlook": -4,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Information security analysts",
+      "exposure": 8,
+      "jobs": 182800,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 29,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Computer network architects",
+      "exposure": 8,
+      "jobs": 179200,
+      "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm",
+      "category": "computer-and-information-technology",
+      "outlook": 12,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Art directors",
+      "exposure": 8,
+      "jobs": 135000,
+      "url": "https://www.bls.gov/ooh/arts-and-design/art-directors.htm",
+      "category": "arts-and-design",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Compensation, benefits, and job analysis specialists",
+      "exposure": 8,
+      "jobs": 107000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/compensation-benefits-and-job-analysis-specialists.htm",
+      "category": "business-and-financial",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Computer hardware engineers",
+      "exposure": 8,
+      "jobs": 76800,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Financial examiners",
+      "exposure": 8,
+      "jobs": 65100,
+      "url": "https://www.bls.gov/ooh/business-and-financial/financial-examiners.htm",
+      "category": "business-and-financial",
+      "outlook": 19,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Tax examiners and collectors, and revenue agents",
+      "exposure": 8,
+      "jobs": 57600,
+      "url": "https://www.bls.gov/ooh/business-and-financial/tax-examiners-and-collectors-and-revenue-agents.htm",
+      "category": "business-and-financial",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Budget analysts",
+      "exposure": 8,
+      "jobs": 50400,
+      "url": "https://www.bls.gov/ooh/business-and-financial/budget-analysts.htm",
+      "category": "business-and-financial",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Health information technologists and medical registrars",
+      "exposure": 8,
+      "jobs": 41900,
+      "url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
+      "category": "healthcare",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Actuaries",
+      "exposure": 8,
+      "jobs": 33600,
+      "url": "https://www.bls.gov/ooh/math/actuaries.htm",
+      "category": "math",
+      "outlook": 22,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Industrial designers",
+      "exposure": 8,
+      "jobs": 30600,
+      "url": "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm",
+      "category": "arts-and-design",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Cartographers and photogrammetrists",
+      "exposure": 8,
+      "jobs": 13400,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/cartographers-and-photogrammetrists.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Atmospheric scientists, including meteorologists",
+      "exposure": 8,
+      "jobs": 9400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Models",
+      "exposure": 8,
+      "jobs": 6700,
+      "url": "https://www.bls.gov/ooh/sales/models.htm",
+      "category": "sales",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Political scientists",
+      "exposure": 8,
+      "jobs": 6500,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/political-scientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Medical dosimetrists",
+      "exposure": 8,
+      "jobs": 4800,
+      "url": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Geographers",
+      "exposure": 8,
+      "jobs": 1500,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geographers.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Cashiers",
+      "exposure": 7,
+      "jobs": 3157200,
+      "url": "https://www.bls.gov/ooh/sales/cashiers.htm",
+      "category": "sales",
+      "outlook": -10,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Wholesale and manufacturing sales representatives",
+      "exposure": 7,
+      "jobs": 1613600,
+      "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
+      "category": "sales",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Postsecondary teachers",
+      "exposure": 7,
+      "jobs": 1415600,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Information clerks",
+      "exposure": 7,
+      "jobs": 1336600,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/information-clerks.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Material recording clerks",
+      "exposure": 7,
+      "jobs": 1300800,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/material-recording-clerks.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -6,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "High school teachers",
+      "exposure": 7,
+      "jobs": 1094500,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/high-school-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Management analysts",
+      "exposure": 7,
+      "jobs": 1075100,
+      "url": "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm",
+      "category": "business-and-financial",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Project management specialists",
+      "exposure": 7,
+      "jobs": 1046300,
+      "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
+      "category": "business-and-financial",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Receptionists",
+      "exposure": 7,
+      "jobs": 1007200,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/receptionists.htm",
+      "category": "office-and-administrative-support",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Human resources specialists",
+      "exposure": 7,
+      "jobs": 944300,
+      "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm",
+      "category": "business-and-financial",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Financial managers",
+      "exposure": 7,
+      "jobs": 868600,
+      "url": "https://www.bls.gov/ooh/management/financial-managers.htm",
+      "category": "management",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Computer and information systems managers",
+      "exposure": 7,
+      "jobs": 667100,
+      "url": "https://www.bls.gov/ooh/management/computer-and-information-systems-managers.htm",
+      "category": "management",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Sales managers",
+      "exposure": 7,
+      "jobs": 619500,
+      "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
+      "category": "management",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Purchasing managers, buyers, and purchasing agents",
+      "exposure": 7,
+      "jobs": 605600,
+      "url": "https://www.bls.gov/ooh/business-and-financial/purchasing-managers-buyers-and-purchasing-agents.htm",
+      "category": "business-and-financial",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Insurance sales agents",
+      "exposure": 7,
+      "jobs": 568800,
+      "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
+      "category": "sales",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Training and development specialists",
+      "exposure": 7,
+      "jobs": 452300,
+      "url": "https://www.bls.gov/ooh/business-and-financial/training-and-development-specialists.htm",
+      "category": "business-and-financial",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Claims adjusters, appraisers, examiners, and investigators",
+      "exposure": 7,
+      "jobs": 365300,
+      "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm",
+      "category": "business-and-financial",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Industrial engineers",
+      "exposure": 7,
+      "jobs": 351100,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Tellers",
+      "exposure": 7,
+      "jobs": 347400,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/tellers.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -13,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Personal financial advisors",
+      "exposure": 7,
+      "jobs": 326000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/personal-financial-advisors.htm",
+      "category": "business-and-financial",
+      "outlook": 10,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Mechanical engineers",
+      "exposure": 7,
+      "jobs": 293100,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Electrical and electronics engineers",
+      "exposure": 7,
+      "jobs": 287900,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Logisticians",
+      "exposure": 7,
+      "jobs": 241000,
+      "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
+      "category": "business-and-financial",
+      "outlook": 17,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Instructional coordinators",
+      "exposure": 7,
+      "jobs": 232600,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm",
+      "category": "education-training-and-library",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Postsecondary education administrators",
+      "exposure": 7,
+      "jobs": 226600,
+      "url": "https://www.bls.gov/ooh/management/postsecondary-education-administrators.htm",
+      "category": "management",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Human resources managers",
+      "exposure": 7,
+      "jobs": 221900,
+      "url": "https://www.bls.gov/ooh/management/human-resources-managers.htm",
+      "category": "management",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Tutors",
+      "exposure": 7,
+      "jobs": 215500,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/tutors.htm",
+      "category": "education-training-and-library",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Architectural and engineering managers",
+      "exposure": 7,
+      "jobs": 212500,
+      "url": "https://www.bls.gov/ooh/management/architectural-and-engineering-managers.htm",
+      "category": "management",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Producers and directors",
+      "exposure": 7,
+      "jobs": 167000,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/producers-and-directors.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Medical scientists",
+      "exposure": 7,
+      "jobs": 165300,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Library technicians and assistants",
+      "exposure": 7,
+      "jobs": 163100,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/library-technicians-and-assistants.htm",
+      "category": "education-training-and-library",
+      "outlook": -7,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Photographers",
+      "exposure": 7,
+      "jobs": 151200,
+      "url": "https://www.bls.gov/ooh/media-and-communication/photographers.htm",
+      "category": "media-and-communication",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Librarians and library media specialists",
+      "exposure": 7,
+      "jobs": 142100,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
+      "category": "education-training-and-library",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Fundraisers",
+      "exposure": 7,
+      "jobs": 134400,
+      "url": "https://www.bls.gov/ooh/business-and-financial/fundraisers.htm",
+      "category": "business-and-financial",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Public relations and fundraising managers",
+      "exposure": 7,
+      "jobs": 128900,
+      "url": "https://www.bls.gov/ooh/management/public-relations-managers.htm",
+      "category": "management",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Architects",
+      "exposure": 7,
+      "jobs": 123600,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Public safety telecommunicators",
+      "exposure": 7,
+      "jobs": 105200,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/police-fire-and-ambulance-dispatchers.htm",
+      "category": "office-and-administrative-support",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Natural sciences managers",
+      "exposure": 7,
+      "jobs": 104300,
+      "url": "https://www.bls.gov/ooh/management/natural-sciences-managers.htm",
+      "category": "management",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Advertising sales agents",
+      "exposure": 7,
+      "jobs": 103700,
+      "url": "https://www.bls.gov/ooh/sales/advertising-sales-agents.htm",
+      "category": "sales",
+      "outlook": -6,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Chemists and materials scientists",
+      "exposure": 7,
+      "jobs": 95500,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Interior designers",
+      "exposure": 7,
+      "jobs": 87100,
+      "url": "https://www.bls.gov/ooh/arts-and-design/interior-designers.htm",
+      "category": "arts-and-design",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Film and video editors and camera operators",
+      "exposure": 7,
+      "jobs": 79900,
+      "url": "https://www.bls.gov/ooh/media-and-communication/film-and-video-editors-and-camera-operators.htm",
+      "category": "media-and-communication",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Property appraisers and assessors",
+      "exposure": 7,
+      "jobs": 77300,
+      "url": "https://www.bls.gov/ooh/business-and-financial/appraisers-and-assessors-of-real-estate.htm",
+      "category": "business-and-financial",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Aerospace engineers",
+      "exposure": 7,
+      "jobs": 71600,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Labor relations specialists",
+      "exposure": 7,
+      "jobs": 65400,
+      "url": "https://www.bls.gov/ooh/business-and-financial/labor-relations-specialists.htm",
+      "category": "business-and-financial",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Actors",
+      "exposure": 7,
+      "jobs": 57000,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/actors.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Sales engineers",
+      "exposure": 7,
+      "jobs": 56800,
+      "url": "https://www.bls.gov/ooh/sales/sales-engineers.htm",
+      "category": "sales",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "News analysts, reporters, and journalists",
+      "exposure": 7,
+      "jobs": 49300,
+      "url": "https://www.bls.gov/ooh/media-and-communication/reporters-correspondents-and-broadcast-news-analysts.htm",
+      "category": "media-and-communication",
+      "outlook": -4,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Music directors and composers",
+      "exposure": 7,
+      "jobs": 47300,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/music-directors-and-composers.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Training and development managers",
+      "exposure": 7,
+      "jobs": 46400,
+      "url": "https://www.bls.gov/ooh/management/training-and-development-managers.htm",
+      "category": "management",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Judges and hearing officers",
+      "exposure": 7,
+      "jobs": 44800,
+      "url": "https://www.bls.gov/ooh/legal/judges-and-hearing-officers.htm",
+      "category": "legal",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Urban and regional planners",
+      "exposure": 7,
+      "jobs": 44700,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Adult basic and secondary education and ESL teachers",
+      "exposure": 7,
+      "jobs": 40900,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/adult-literacy-and-ged-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -14,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Announcers and DJs",
+      "exposure": 7,
+      "jobs": 39500,
+      "url": "https://www.bls.gov/ooh/media-and-communication/announcers.htm",
+      "category": "media-and-communication",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Biochemists and biophysicists",
+      "exposure": 7,
+      "jobs": 35600,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Credit counselors",
+      "exposure": 7,
+      "jobs": 31800,
+      "url": "https://www.bls.gov/ooh/business-and-financial/credit-counselors.htm",
+      "category": "business-and-financial",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Set and exhibit designers",
+      "exposure": 7,
+      "jobs": 31300,
+      "url": "https://www.bls.gov/ooh/arts-and-design/set-and-exhibit-designers.htm",
+      "category": "arts-and-design",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Physicists and astronomers",
+      "exposure": 7,
+      "jobs": 26400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Fashion designers",
+      "exposure": 7,
+      "jobs": 25700,
+      "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
+      "category": "arts-and-design",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Air traffic controllers",
+      "exposure": 7,
+      "jobs": 24100,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/air-traffic-controllers.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Materials engineers",
+      "exposure": 7,
+      "jobs": 23000,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Bioengineers and biomedical engineers",
+      "exposure": 7,
+      "jobs": 22200,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Landscape architects",
+      "exposure": 7,
+      "jobs": 21800,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/landscape-architects.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Compensation and benefits managers",
+      "exposure": 7,
+      "jobs": 20900,
+      "url": "https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm",
+      "category": "management",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Nuclear engineers",
+      "exposure": 7,
+      "jobs": 15400,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Epidemiologists",
+      "exposure": 7,
+      "jobs": 12300,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 16,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Arbitrators, mediators, and conciliators",
+      "exposure": 7,
+      "jobs": 9100,
+      "url": "https://www.bls.gov/ooh/legal/arbitrators-mediators-and-conciliators.htm",
+      "category": "legal",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Marine engineers and naval architects",
+      "exposure": 7,
+      "jobs": 8500,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/marine-engineers-and-naval-architects.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Historians",
+      "exposure": 7,
+      "jobs": 3400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/historians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Sociologists",
+      "exposure": 7,
+      "jobs": 3400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/sociologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Top executives",
+      "exposure": 6,
+      "jobs": 4022200,
+      "url": "https://www.bls.gov/ooh/management/top-executives.htm",
+      "category": "management",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Kindergarten and elementary school teachers",
+      "exposure": 6,
+      "jobs": 1539800,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Middle school teachers",
+      "exposure": 6,
+      "jobs": 633700,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/middle-school-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Medical and health services managers",
+      "exposure": 6,
+      "jobs": 616200,
+      "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
+      "category": "management",
+      "outlook": 23,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Real estate brokers and sales agents",
+      "exposure": 6,
+      "jobs": 532200,
+      "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
+      "category": "sales",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Property, real estate, and community association managers",
+      "exposure": 6,
+      "jobs": 466100,
+      "url": "https://www.bls.gov/ooh/management/property-real-estate-and-community-association-managers.htm",
+      "category": "management",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "School and career counselors and advisors",
+      "exposure": 6,
+      "jobs": 376300,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm",
+      "category": "community-and-social-service",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Civil engineers",
+      "exposure": 6,
+      "jobs": 368900,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Elementary, middle, and high school principals",
+      "exposure": 6,
+      "jobs": 333300,
+      "url": "https://www.bls.gov/ooh/management/elementary-middle-and-high-school-principals.htm",
+      "category": "management",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Industrial production managers",
+      "exposure": 6,
+      "jobs": 241900,
+      "url": "https://www.bls.gov/ooh/management/industrial-production-managers.htm",
+      "category": "management",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Social and community service managers",
+      "exposure": 6,
+      "jobs": 219800,
+      "url": "https://www.bls.gov/ooh/management/social-and-community-service-managers.htm",
+      "category": "management",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Transportation, storage, and distribution managers",
+      "exposure": 6,
+      "jobs": 216700,
+      "url": "https://www.bls.gov/ooh/management/transportation-storage-and-distribution-managers.htm",
+      "category": "management",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Psychologists",
+      "exposure": 6,
+      "jobs": 204300,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Meeting, convention, and event planners",
+      "exposure": 6,
+      "jobs": 155800,
+      "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
+      "category": "business-and-financial",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Broadcast, sound, and video technicians",
+      "exposure": 6,
+      "jobs": 146100,
+      "url": "https://www.bls.gov/ooh/media-and-communication/broadcast-and-sound-engineering-technicians.htm",
+      "category": "media-and-communication",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Probation officers and correctional treatment specialists",
+      "exposure": 6,
+      "jobs": 92300,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/probation-officers-and-correctional-treatment-specialists.htm",
+      "category": "community-and-social-service",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Dietitians and nutritionists",
+      "exposure": 6,
+      "jobs": 90900,
+      "url": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm",
+      "category": "healthcare",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Environmental scientists and specialists",
+      "exposure": 6,
+      "jobs": 90300,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Industrial engineering technologists and technicians",
+      "exposure": 6,
+      "jobs": 74600,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineering-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Health education specialists",
+      "exposure": 6,
+      "jobs": 71800,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
+      "category": "community-and-social-service",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Civil engineering technologists and technicians",
+      "exposure": 6,
+      "jobs": 64900,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineering-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Craft and fine artists",
+      "exposure": 6,
+      "jobs": 52000,
+      "url": "https://www.bls.gov/ooh/arts-and-design/craft-and-fine-artists.htm",
+      "category": "arts-and-design",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Power plant operators, distributors, and dispatchers",
+      "exposure": 6,
+      "jobs": 46600,
+      "url": "https://www.bls.gov/ooh/production/power-plant-operators-distributors-and-dispatchers.htm",
+      "category": "production",
+      "outlook": -10,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Private detectives and investigators",
+      "exposure": 6,
+      "jobs": 43600,
+      "url": "https://www.bls.gov/ooh/protective-service/private-detectives-and-investigators.htm",
+      "category": "protective-service",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Archivists, curators, and museum workers",
+      "exposure": 6,
+      "jobs": 40200,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/curators-museum-technicians-and-conservators.htm",
+      "category": "education-training-and-library",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Environmental engineers",
+      "exposure": 6,
+      "jobs": 39400,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Agricultural and food scientists",
+      "exposure": 6,
+      "jobs": 38700,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-scientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Chemical engineers",
+      "exposure": 6,
+      "jobs": 21600,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Microbiologists",
+      "exposure": 6,
+      "jobs": 20700,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Petroleum engineers",
+      "exposure": 6,
+      "jobs": 19600,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/petroleum-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Emergency management directors",
+      "exposure": 6,
+      "jobs": 13200,
+      "url": "https://www.bls.gov/ooh/management/emergency-management-directors.htm",
+      "category": "management",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Mining and geological engineers",
+      "exposure": 6,
+      "jobs": 7000,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/mining-and-geological-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Hydrologists",
+      "exposure": 6,
+      "jobs": 6300,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/hydrologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Genetic counselors",
+      "exposure": 6,
+      "jobs": 4000,
+      "url": "https://www.bls.gov/ooh/healthcare/genetic-counselors.htm",
+      "category": "healthcare",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Agricultural engineers",
+      "exposure": 6,
+      "jobs": 1700,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/agricultural-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Heavy and tractor-trailer truck drivers",
+      "exposure": 5,
+      "jobs": 2235100,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Security guards and gambling surveillance officers",
+      "exposure": 5,
+      "jobs": 1272400,
+      "url": "https://www.bls.gov/ooh/protective-service/security-guards.htm",
+      "category": "protective-service",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Physicians and surgeons",
+      "exposure": 5,
+      "jobs": 839000,
+      "url": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Quality control inspectors",
+      "exposure": 5,
+      "jobs": 598000,
+      "url": "https://www.bls.gov/ooh/production/quality-control-inspectors.htm",
+      "category": "production",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Special education teachers",
+      "exposure": 5,
+      "jobs": 559500,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/special-education-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Construction managers",
+      "exposure": 5,
+      "jobs": 550300,
+      "url": "https://www.bls.gov/ooh/management/construction-managers.htm",
+      "category": "management",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Substance abuse, behavioral disorder, and mental health counselors",
+      "exposure": 5,
+      "jobs": 483500,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
+      "category": "community-and-social-service",
+      "outlook": 17,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Social and human service assistants",
+      "exposure": 5,
+      "jobs": 449600,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/social-and-human-service-assistants.htm",
+      "category": "community-and-social-service",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Taxi drivers, shuttle drivers, and chauffeurs",
+      "exposure": 5,
+      "jobs": 447900,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/taxi-drivers-and-chauffeurs.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Administrative services and facilities managers",
+      "exposure": 5,
+      "jobs": 422600,
+      "url": "https://www.bls.gov/ooh/management/administrative-services-managers.htm",
+      "category": "management",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Nurse anesthetists, nurse midwives, and nurse practitioners",
+      "exposure": 5,
+      "jobs": 382700,
+      "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
+      "category": "healthcare",
+      "outlook": 35,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Clinical laboratory technologists and technicians",
+      "exposure": 5,
+      "jobs": 351200,
+      "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
+      "category": "healthcare",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Pharmacists",
+      "exposure": 5,
+      "jobs": 335100,
+      "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
+      "category": "healthcare",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Speech-language pathologists",
+      "exposure": 5,
+      "jobs": 187400,
+      "url": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
+      "category": "healthcare",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Occupational health and safety specialists and technicians",
+      "exposure": 5,
+      "jobs": 163700,
+      "url": "https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm",
+      "category": "healthcare",
+      "outlook": 12,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Physician assistants",
+      "exposure": 5,
+      "jobs": 162700,
+      "url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
+      "category": "healthcare",
+      "outlook": 20,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Airline and commercial pilots",
+      "exposure": 5,
+      "jobs": 155400,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/airline-and-commercial-pilots.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Construction and building inspectors",
+      "exposure": 5,
+      "jobs": 147600,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-and-building-inspectors.htm",
+      "category": "construction-and-extraction",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Water and wastewater treatment plant and system operators",
+      "exposure": 5,
+      "jobs": 132400,
+      "url": "https://www.bls.gov/ooh/production/water-and-wastewater-treatment-plant-and-system-operators.htm",
+      "category": "production",
+      "outlook": -7,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Electrical and electronic engineering technologists and technicians",
+      "exposure": 5,
+      "jobs": 93700,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineering-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Rehabilitation counselors",
+      "exposure": 5,
+      "jobs": 91900,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm",
+      "category": "community-and-social-service",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Preschool and childcare center directors",
+      "exposure": 5,
+      "jobs": 90200,
+      "url": "https://www.bls.gov/ooh/management/preschool-and-childcare-center-directors.htm",
+      "category": "management",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Diagnostic medical sonographers",
+      "exposure": 5,
+      "jobs": 90000,
+      "url": "https://www.bls.gov/ooh/healthcare/diagnostic-medical-sonographers.htm",
+      "category": "healthcare",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Biological technicians",
+      "exposure": 5,
+      "jobs": 82700,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Marriage and family therapists",
+      "exposure": 5,
+      "jobs": 77800,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/marriage-and-family-therapists.htm",
+      "category": "community-and-social-service",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+      "exposure": 5,
+      "jobs": 66800,
+      "url": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm",
+      "category": "production",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Surveying and mapping technicians",
+      "exposure": 5,
+      "jobs": 59400,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/surveying-and-mapping-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Chemical technicians",
+      "exposure": 5,
+      "jobs": 57000,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemical-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Surveyors",
+      "exposure": 5,
+      "jobs": 56100,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/surveyors.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Lodging managers",
+      "exposure": 5,
+      "jobs": 52000,
+      "url": "https://www.bls.gov/ooh/management/lodging-managers.htm",
+      "category": "management",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Concierges",
+      "exposure": 5,
+      "jobs": 45600,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/concierges.htm",
+      "category": "personal-care-and-service",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Entertainment and recreation managers",
+      "exposure": 5,
+      "jobs": 43200,
+      "url": "https://www.bls.gov/ooh/management/entertainment-and-recreation-managers.htm",
+      "category": "management",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Mechanical engineering technologists and technicians",
+      "exposure": 5,
+      "jobs": 38300,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineering-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Geoscientists",
+      "exposure": 5,
+      "jobs": 25100,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Health and safety engineers",
+      "exposure": 5,
+      "jobs": 23800,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Forensic science technicians",
+      "exposure": 5,
+      "jobs": 20700,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Umpires, referees, and other sports officials",
+      "exposure": 5,
+      "jobs": 19300,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/umpires-referees-and-other-sports-officials.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Zoologists and wildlife biologists",
+      "exposure": 5,
+      "jobs": 18200,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/zoologists-and-wildlife-biologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Environmental engineering technologists and technicians",
+      "exposure": 5,
+      "jobs": 12900,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineering-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Geological and hydrologic technicians",
+      "exposure": 5,
+      "jobs": 12900,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geological-and-petroleum-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Aerospace engineering and operations technologists and technicians",
+      "exposure": 5,
+      "jobs": 9300,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineering-and-operations-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Anthropologists and archeologists",
+      "exposure": 5,
+      "jobs": 8800,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/anthropologists-and-archeologists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Nuclear technicians",
+      "exposure": 5,
+      "jobs": 6000,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/nuclear-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": -8,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Retail sales workers",
+      "exposure": 4,
+      "jobs": 4208800,
+      "url": "https://www.bls.gov/ooh/sales/retail-sales-workers.htm",
+      "category": "sales",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Registered nurses",
+      "exposure": 4,
+      "jobs": 3391000,
+      "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
+      "category": "healthcare",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Teacher assistants",
+      "exposure": 4,
+      "jobs": 1422800,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/teacher-assistants.htm",
+      "category": "education-training-and-library",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Metal and plastic machine workers",
+      "exposure": 4,
+      "jobs": 1000700,
+      "url": "https://www.bls.gov/ooh/production/metal-and-plastic-machine-workers.htm",
+      "category": "production",
+      "outlook": -7,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Material moving machine operators",
+      "exposure": 4,
+      "jobs": 867700,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/material-moving-machine-operators.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Farmers, ranchers, and other agricultural managers",
+      "exposure": 4,
+      "jobs": 836100,
+      "url": "https://www.bls.gov/ooh/management/farmers-ranchers-and-other-agricultural-managers.htm",
+      "category": "management",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Police and detectives",
+      "exposure": 4,
+      "jobs": 826800,
+      "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
+      "category": "protective-service",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Medical assistants",
+      "exposure": 4,
+      "jobs": 811000,
+      "url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
+      "category": "healthcare",
+      "outlook": 12,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Social workers",
+      "exposure": 4,
+      "jobs": 810900,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
+      "category": "community-and-social-service",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Licensed practical and licensed vocational nurses",
+      "exposure": 4,
+      "jobs": 651400,
+      "url": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Bus drivers",
+      "exposure": 4,
+      "jobs": 546100,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/bus-drivers.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Pharmacy technicians",
+      "exposure": 4,
+      "jobs": 490400,
+      "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
+      "category": "healthcare",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Machinists and tool and die makers",
+      "exposure": 4,
+      "jobs": 354800,
+      "url": "https://www.bls.gov/ooh/production/machinists-and-tool-and-die-makers.htm",
+      "category": "production",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Food service managers",
+      "exposure": 4,
+      "jobs": 352800,
+      "url": "https://www.bls.gov/ooh/management/food-service-managers.htm",
+      "category": "management",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Coaches and scouts",
+      "exposure": 4,
+      "jobs": 306500,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Radiologic and MRI technologists",
+      "exposure": 4,
+      "jobs": 272000,
+      "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
+      "category": "healthcare",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Career and technical education teachers",
+      "exposure": 4,
+      "jobs": 239600,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/career-and-technical-education-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Musicians and singers",
+      "exposure": 4,
+      "jobs": 169800,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Gambling services workers",
+      "exposure": 4,
+      "jobs": 150600,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/gaming-services-occupations.htm",
+      "category": "personal-care-and-service",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Respiratory therapists",
+      "exposure": 4,
+      "jobs": 139600,
+      "url": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
+      "category": "healthcare",
+      "outlook": 12,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Veterinary technologists and technicians",
+      "exposure": 4,
+      "jobs": 134200,
+      "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
+      "category": "healthcare",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Veterinarians",
+      "exposure": 4,
+      "jobs": 86400,
+      "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
+      "category": "healthcare",
+      "outlook": 10,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Opticians",
+      "exposure": 4,
+      "jobs": 79900,
+      "url": "https://www.bls.gov/ooh/healthcare/opticians-dispensing.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Railroad workers",
+      "exposure": 4,
+      "jobs": 77900,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/railroad-occupations.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Cardiovascular technologists and technicians",
+      "exposure": 4,
+      "jobs": 64700,
+      "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Tour and travel guides",
+      "exposure": 4,
+      "jobs": 55800,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/tour-and-travel-guides.htm",
+      "category": "personal-care-and-service",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Optometrists",
+      "exposure": 4,
+      "jobs": 47800,
+      "url": "https://www.bls.gov/ooh/healthcare/optometrists.htm",
+      "category": "healthcare",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Conservation scientists and foresters",
+      "exposure": 4,
+      "jobs": 42400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Environmental science and protection technicians",
+      "exposure": 4,
+      "jobs": 40400,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-science-and-protection-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Agricultural and food science technicians",
+      "exposure": 4,
+      "jobs": 38900,
+      "url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-science-technicians.htm",
+      "category": "life-physical-and-social-science",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Jewelers and precious stone and metal workers",
+      "exposure": 4,
+      "jobs": 35100,
+      "url": "https://www.bls.gov/ooh/production/jewelers-and-precious-stone-and-metal-workers.htm",
+      "category": "production",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Semiconductor processing technicians",
+      "exposure": 4,
+      "jobs": 31900,
+      "url": "https://www.bls.gov/ooh/production/semiconductor-processing-technicians.htm",
+      "category": "production",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Exercise physiologists",
+      "exposure": 4,
+      "jobs": 23900,
+      "url": "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm",
+      "category": "healthcare",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Nuclear medicine technologists",
+      "exposure": 4,
+      "jobs": 20000,
+      "url": "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Radiation therapists",
+      "exposure": 4,
+      "jobs": 19200,
+      "url": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
+      "category": "healthcare",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Fire inspectors",
+      "exposure": 4,
+      "jobs": 17600,
+      "url": "https://www.bls.gov/ooh/protective-service/fire-inspectors-and-investigators.htm",
+      "category": "protective-service",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Audiologists",
+      "exposure": 4,
+      "jobs": 15800,
+      "url": "https://www.bls.gov/ooh/healthcare/audiologists.htm",
+      "category": "healthcare",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Calibration technologists and technicians",
+      "exposure": 4,
+      "jobs": 15800,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/calibration-technologists-and-technicians.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Electro-mechanical and mechatronics technologists and technicians",
+      "exposure": 4,
+      "jobs": 15000,
+      "url": "https://www.bls.gov/ooh/architecture-and-engineering/electro-mechanical-technicians.htm",
+      "category": "architecture-and-engineering",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Orthotists and prosthetists",
+      "exposure": 4,
+      "jobs": 10100,
+      "url": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
+      "category": "healthcare",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Podiatrists",
+      "exposure": 4,
+      "jobs": 9700,
+      "url": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
+      "category": "healthcare",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Food and beverage serving and related workers",
+      "exposure": 3,
+      "jobs": 5030600,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-and-beverage-serving-and-related-workers.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Cooks",
+      "exposure": 3,
+      "jobs": 2805100,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/cooks.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Waiters and waitresses",
+      "exposure": 3,
+      "jobs": 2329700,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/waiters-and-waitresses.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Assemblers and fabricators",
+      "exposure": 3,
+      "jobs": 1885400,
+      "url": "https://www.bls.gov/ooh/production/assemblers-and-fabricators.htm",
+      "category": "production",
+      "outlook": -1,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Delivery truck drivers and driver/sales workers",
+      "exposure": 3,
+      "jobs": 1531300,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/delivery-truck-drivers-and-driver-sales-workers.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Agricultural workers",
+      "exposure": 3,
+      "jobs": 812600,
+      "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
+      "category": "farming-fishing-and-forestry",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Automotive service technicians and mechanics",
+      "exposure": 3,
+      "jobs": 805600,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Preschool teachers",
+      "exposure": 3,
+      "jobs": 555100,
+      "url": "https://www.bls.gov/ooh/education-training-and-library/preschool-teachers.htm",
+      "category": "education-training-and-library",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Construction equipment operators",
+      "exposure": 3,
+      "jobs": 539500,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Industrial machinery mechanics, machinery maintenance workers, and millwrights",
+      "exposure": 3,
+      "jobs": 538300,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/industrial-machinery-mechanics-and-maintenance-workers-and-millwrights.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Postal service workers",
+      "exposure": 3,
+      "jobs": 500000,
+      "url": "https://www.bls.gov/ooh/office-and-administrative-support/postal-service-workers.htm",
+      "category": "office-and-administrative-support",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Correctional officers and bailiffs",
+      "exposure": 3,
+      "jobs": 406500,
+      "url": "https://www.bls.gov/ooh/protective-service/correctional-officers.htm",
+      "category": "protective-service",
+      "outlook": -7,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Dental assistants",
+      "exposure": 3,
+      "jobs": 381900,
+      "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
+      "category": "healthcare",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Fitness trainers and instructors",
+      "exposure": 3,
+      "jobs": 370100,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
+      "category": "personal-care-and-service",
+      "outlook": 12,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Firefighters",
+      "exposure": 3,
+      "jobs": 344900,
+      "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
+      "category": "protective-service",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Recreation workers",
+      "exposure": 3,
+      "jobs": 327700,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/recreation-workers.htm",
+      "category": "personal-care-and-service",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Diesel service technicians and mechanics",
+      "exposure": 3,
+      "jobs": 319900,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "EMTs and paramedics",
+      "exposure": 3,
+      "jobs": 282900,
+      "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
+      "category": "healthcare",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Food processing equipment workers",
+      "exposure": 3,
+      "jobs": 282600,
+      "url": "https://www.bls.gov/ooh/production/food-and-tobacco-processing-workers.htm",
+      "category": "production",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Telecommunications technicians",
+      "exposure": 3,
+      "jobs": 268500,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/telecommunications-equipment-installers-and-repairers-except-line-installers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Physical therapists",
+      "exposure": 3,
+      "jobs": 267200,
+      "url": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
+      "category": "healthcare",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Heavy vehicle and mobile equipment service technicians",
+      "exposure": 3,
+      "jobs": 245600,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heavy-vehicle-and-mobile-equipment-service-technicians.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Woodworkers",
+      "exposure": 3,
+      "jobs": 214600,
+      "url": "https://www.bls.gov/ooh/production/woodworkers.htm",
+      "category": "production",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Chefs and head cooks",
+      "exposure": 3,
+      "jobs": 197300,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Psychiatric technicians and aides",
+      "exposure": 3,
+      "jobs": 182900,
+      "url": "https://www.bls.gov/ooh/healthcare/psychiatric-technicians-and-aides.htm",
+      "category": "healthcare",
+      "outlook": 16,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Painting and coating workers",
+      "exposure": 3,
+      "jobs": 174300,
+      "url": "https://www.bls.gov/ooh/production/painting-and-coating-workers.htm",
+      "category": "production",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Aircraft and avionics equipment mechanics and technicians",
+      "exposure": 3,
+      "jobs": 160800,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/aircraft-and-avionics-equipment-mechanics-and-technicians.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Occupational therapists",
+      "exposure": 3,
+      "jobs": 160000,
+      "url": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
+      "category": "healthcare",
+      "outlook": 14,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Physical therapist assistants and aides",
+      "exposure": 3,
+      "jobs": 157100,
+      "url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
+      "category": "healthcare",
+      "outlook": 16,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Dentists",
+      "exposure": 3,
+      "jobs": 149300,
+      "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+      "category": "healthcare",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Surgical assistants and technologists",
+      "exposure": 3,
+      "jobs": 141000,
+      "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
+      "category": "healthcare",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Flight attendants",
+      "exposure": 3,
+      "jobs": 130800,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Sheet metal workers",
+      "exposure": 3,
+      "jobs": 127000,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/sheet-metal-workers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Electrical and electronics installers and repairers",
+      "exposure": 3,
+      "jobs": 118800,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/electrical-and-electronics-installers-and-repairers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 0,
+      "outlookDesc": "Little or no change"
+    },
+    {
+      "title": "Oil and gas workers",
+      "exposure": 3,
+      "jobs": 115900,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/oil-and-gas-workers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Skincare specialists",
+      "exposure": 3,
+      "jobs": 97400,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
+      "category": "personal-care-and-service",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Water transportation workers",
+      "exposure": 3,
+      "jobs": 84300,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/water-transportation-occupations.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Medical equipment repairers",
+      "exposure": 3,
+      "jobs": 68000,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 13,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Community health workers",
+      "exposure": 3,
+      "jobs": 65100,
+      "url": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
+      "category": "community-and-social-service",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Funeral service workers",
+      "exposure": 3,
+      "jobs": 59600,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm",
+      "category": "personal-care-and-service",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Chiropractors",
+      "exposure": 3,
+      "jobs": 57200,
+      "url": "https://www.bls.gov/ooh/healthcare/chiropractors.htm",
+      "category": "healthcare",
+      "outlook": 10,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Occupational therapy assistants and aides",
+      "exposure": 3,
+      "jobs": 54400,
+      "url": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
+      "category": "healthcare",
+      "outlook": 18,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Floral designers",
+      "exposure": 3,
+      "jobs": 43800,
+      "url": "https://www.bls.gov/ooh/arts-and-design/floral-designers.htm",
+      "category": "arts-and-design",
+      "outlook": -6,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Athletic trainers",
+      "exposure": 3,
+      "jobs": 33900,
+      "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
+      "category": "healthcare",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Stationary engineers and boiler operators",
+      "exposure": 3,
+      "jobs": 33300,
+      "url": "https://www.bls.gov/ooh/production/stationary-engineers-and-boiler-operators.htm",
+      "category": "production",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Elevator and escalator installers and repairers",
+      "exposure": 3,
+      "jobs": 24200,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/elevator-installers-and-repairers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Recreational therapists",
+      "exposure": 3,
+      "jobs": 16100,
+      "url": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm",
+      "category": "healthcare",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Hand laborers and material movers",
+      "exposure": 2,
+      "jobs": 6950000,
+      "url": "https://www.bls.gov/ooh/transportation-and-material-moving/hand-laborers-and-material-movers.htm",
+      "category": "transportation-and-material-moving",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Home health and personal care aides",
+      "exposure": 2,
+      "jobs": 4347700,
+      "url": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
+      "category": "healthcare",
+      "outlook": 17,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "General maintenance and repair workers",
+      "exposure": 2,
+      "jobs": 1629700,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/general-maintenance-and-repair-workers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Nursing assistants and orderlies",
+      "exposure": 2,
+      "jobs": 1495400,
+      "url": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
+      "category": "healthcare",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Childcare workers",
+      "exposure": 2,
+      "jobs": 991600,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/childcare-workers.htm",
+      "category": "personal-care-and-service",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Carpenters",
+      "exposure": 2,
+      "jobs": 959000,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Food preparation workers",
+      "exposure": 2,
+      "jobs": 902700,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-preparation-workers.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": -3,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Electricians",
+      "exposure": 2,
+      "jobs": 818700,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
+      "category": "construction-and-extraction",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Bartenders",
+      "exposure": 2,
+      "jobs": 756700,
+      "url": "https://www.bls.gov/ooh/food-preparation-and-serving/bartenders.htm",
+      "category": "food-preparation-and-serving",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Barbers, hairstylists, and cosmetologists",
+      "exposure": 2,
+      "jobs": 651200,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+      "category": "personal-care-and-service",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Plumbers, pipefitters, and steamfitters",
+      "exposure": 2,
+      "jobs": 504500,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Welders, cutters, solderers, and brazers",
+      "exposure": 2,
+      "jobs": 457300,
+      "url": "https://www.bls.gov/ooh/production/welders-cutters-solderers-and-brazers.htm",
+      "category": "production",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Animal care and service workers",
+      "exposure": 2,
+      "jobs": 439400,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
+      "category": "personal-care-and-service",
+      "outlook": 11,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Heating, air conditioning, and refrigeration mechanics and installers",
+      "exposure": 2,
+      "jobs": 425200,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 8,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Masonry workers",
+      "exposure": 2,
+      "jobs": 294300,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm",
+      "category": "construction-and-extraction",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Bakers",
+      "exposure": 2,
+      "jobs": 249100,
+      "url": "https://www.bls.gov/ooh/production/bakers.htm",
+      "category": "production",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Dental hygienists",
+      "exposure": 2,
+      "jobs": 221600,
+      "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
+      "category": "healthcare",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Manicurists and pedicurists",
+      "exposure": 2,
+      "jobs": 210100,
+      "url": "https://www.bls.gov/ooh/personal-care-and-service/manicurists-and-pedicurists.htm",
+      "category": "personal-care-and-service",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Automotive body and glass repairers",
+      "exposure": 2,
+      "jobs": 193000,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-body-and-glass-repairers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Massage therapists",
+      "exposure": 2,
+      "jobs": 168000,
+      "url": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm",
+      "category": "healthcare",
+      "outlook": 15,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Butchers",
+      "exposure": 2,
+      "jobs": 143100,
+      "url": "https://www.bls.gov/ooh/production/butchers-and-meat-cutters.htm",
+      "category": "production",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Phlebotomists",
+      "exposure": 2,
+      "jobs": 139700,
+      "url": "https://www.bls.gov/ooh/healthcare/phlebotomists.htm",
+      "category": "healthcare",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Electrical power-line installers and repairers",
+      "exposure": 2,
+      "jobs": 127400,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/line-installers-and-repairers.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Veterinary assistants and laboratory animal caretakers",
+      "exposure": 2,
+      "jobs": 117800,
+      "url": "https://www.bls.gov/ooh/healthcare/veterinary-assistants-and-laboratory-animal-caretakers.htm",
+      "category": "healthcare",
+      "outlook": 9,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Pest control workers",
+      "exposure": 2,
+      "jobs": 102400,
+      "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/pest-control-workers.htm",
+      "category": "building-and-grounds-cleaning",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Small engine mechanics",
+      "exposure": 2,
+      "jobs": 78000,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/small-engine-mechanics.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Insulation workers",
+      "exposure": 2,
+      "jobs": 67400,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/insulation-workers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Glaziers",
+      "exposure": 2,
+      "jobs": 60500,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/glaziers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 3,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Hazardous materials removal workers",
+      "exposure": 2,
+      "jobs": 51300,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/hazardous-materials-removal-workers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 1,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Logging workers",
+      "exposure": 2,
+      "jobs": 44300,
+      "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/logging-workers.htm",
+      "category": "farming-fishing-and-forestry",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Solar photovoltaic installers",
+      "exposure": 2,
+      "jobs": 28600,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/solar-photovoltaic-installers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 42,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Fishing and hunting workers",
+      "exposure": 2,
+      "jobs": 21900,
+      "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/fishers-and-related-fishing-workers.htm",
+      "category": "farming-fishing-and-forestry",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Dancers and choreographers",
+      "exposure": 2,
+      "jobs": 17000,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Wind turbine technicians",
+      "exposure": 2,
+      "jobs": 13600,
+      "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/wind-turbine-technicians.htm",
+      "category": "installation-maintenance-and-repair",
+      "outlook": 50,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Forest and conservation workers",
+      "exposure": 2,
+      "jobs": 10800,
+      "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/forest-and-conservation-workers.htm",
+      "category": "farming-fishing-and-forestry",
+      "outlook": -5,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Boilermakers",
+      "exposure": 2,
+      "jobs": 10400,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/boilermakers.htm",
+      "category": "construction-and-extraction",
+      "outlook": -2,
+      "outlookDesc": "Decline"
+    },
+    {
+      "title": "Janitors and building cleaners",
+      "exposure": 1,
+      "jobs": 2447700,
+      "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/janitors-and-building-cleaners.htm",
+      "category": "building-and-grounds-cleaning",
+      "outlook": 2,
+      "outlookDesc": "Slower than average"
+    },
+    {
+      "title": "Construction laborers and helpers",
+      "exposure": 1,
+      "jobs": 1649100,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-laborers-and-helpers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 7,
+      "outlookDesc": "Much faster than average"
+    },
+    {
+      "title": "Grounds maintenance workers",
+      "exposure": 1,
+      "jobs": 1296400,
+      "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/grounds-maintenance-workers.htm",
+      "category": "building-and-grounds-cleaning",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Painters, construction and maintenance",
+      "exposure": 1,
+      "jobs": 342200,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/painters-construction-and-maintenance.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Roofers",
+      "exposure": 1,
+      "jobs": 166700,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/roofers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Drywall installers, ceiling tile installers, and tapers",
+      "exposure": 1,
+      "jobs": 118600,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/drywall-and-ceiling-tile-installers-and-tapers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Flooring installers and tile and stone setters",
+      "exposure": 1,
+      "jobs": 112300,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/tile-and-marble-setters.htm",
+      "category": "construction-and-extraction",
+      "outlook": 6,
+      "outlookDesc": "Faster than average"
+    },
+    {
+      "title": "Ironworkers",
+      "exposure": 1,
+      "jobs": 85100,
+      "url": "https://www.bls.gov/ooh/construction-and-extraction/structural-iron-and-steel-workers.htm",
+      "category": "construction-and-extraction",
+      "outlook": 4,
+      "outlookDesc": "As fast as average"
+    },
+    {
+      "title": "Athletes and sports competitors",
+      "exposure": 1,
+      "jobs": 19100,
+      "url": "https://www.bls.gov/ooh/entertainment-and-sports/athletes-and-sports-competitors.htm",
+      "category": "entertainment-and-sports",
+      "outlook": 5,
+      "outlookDesc": "Faster than average"
     }
   ],
-  "generatedAt": "2026-03-25T15:47:47.010Z"
+  "referenceNews": [
+    {
+      "id": "signal-capability-2026-03-25",
+      "title": "Model capability",
+      "summary": "Public benchmark and model ecosystem updates continue to improve on reasoning, computer-use, and general knowledge-work tasks.",
+      "date": "2026-03-25",
+      "source": "Stanford AI Index / ARC Prize Leaderboard / OSWorld / Alphabet Investor Relations / Our World in Data: Artificial Intelligence",
+      "sourceUrl": "https://hai.stanford.edu/ai-index",
+      "effect": "advance",
+      "contributionType": "slow_variable",
+      "impactLabel": "+ capability",
+      "tags": [
+        "capability",
+        "agent"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "signal-adoption-2026-03-25",
+      "title": "Enterprise adoption",
+      "summary": "AI is continuing to move from experimentation into real workflows and enterprise operating systems.",
+      "date": "2026-03-25",
+      "source": "Stanford AI Index / OECD AI Policy Observatory / Our World in Data: Artificial Intelligence / IBM Investor Relations",
+      "sourceUrl": "https://hai.stanford.edu/ai-index",
+      "effect": "advance",
+      "contributionType": "slow_variable",
+      "impactLabel": "+ adoption",
+      "tags": [
+        "adoption",
+        "enterprise"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "signal-labor-2026-03-25",
+      "title": "Labor displacement",
+      "summary": "Public labor and enterprise sources continue to show workflow substitution pressure and more explicit workforce efficiency narratives.",
+      "date": "2026-03-25",
+      "source": "Layoffs.fyi / International Labour Organization / World Bank Open Data / National Bureau of Economic Research / Brookings Artificial Intelligence / IBM Investor Relations / US Job Market Visualizer",
+      "sourceUrl": "https://layoffs.fyi/",
+      "effect": "advance",
+      "contributionType": "slow_variable",
+      "impactLabel": "+ labor",
+      "tags": [
+        "labor",
+        "employment"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "signal-policy-2026-03-25",
+      "title": "Policy support",
+      "summary": "Policy remains mixed, but public frameworks still leave room for broad AI deployment rather than fully closing the lane.",
+      "date": "2026-03-25",
+      "source": "OECD AI Policy Observatory / EUR-Lex AI Act / Brookings Artificial Intelligence / Eurostat",
+      "sourceUrl": "https://oecd.ai/en/",
+      "effect": "advance",
+      "contributionType": "slow_variable",
+      "impactLabel": "+ policy",
+      "tags": [
+        "policy",
+        "governance"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "signal-sentiment-2026-03-25",
+      "title": "Corporate intent",
+      "summary": "Public company and research language still points toward scaling output with AI without proportional headcount growth.",
+      "date": "2026-03-25",
+      "source": "Stanford AI Index / Brookings Artificial Intelligence / National Bureau of Economic Research / Alphabet Investor Relations / US Job Market Visualizer",
+      "sourceUrl": "https://hai.stanford.edu/ai-index",
+      "effect": "advance",
+      "contributionType": "slow_variable",
+      "impactLabel": "+ intent",
+      "tags": [
+        "corporate",
+        "intent"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "signal-friction-2026-03-25",
+      "title": "Institutional friction",
+      "summary": "Regulation, compliance, trust, and institutional drag still keep the clock from moving as quickly as raw capability headlines suggest.",
+      "date": "2026-03-25",
+      "source": "OECD AI Policy Observatory / EUR-Lex AI Act / International Labour Organization / Brookings Artificial Intelligence",
+      "sourceUrl": "https://oecd.ai/en/",
+      "effect": "delay",
+      "contributionType": "slow_variable",
+      "impactLabel": "- friction",
+      "tags": [
+        "policy",
+        "friction"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "eu-ai-act-first-obligations-apply",
+      "title": "First EU AI Act obligations begin applying",
+      "summary": "The first operative obligations under the EU AI Act start to apply, adding compliance and governance friction to some workplace AI deployments across the European market.",
+      "date": "2025-02-02",
+      "source": "EUR-Lex AI Act / OECD AI Policy Observatory",
+      "sourceUrl": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "effect": "delay",
+      "contributionType": "shock",
+      "impactLabel": "- friction",
+      "tags": [
+        "policy",
+        "eu"
+      ],
+      "reviewStatus": "accepted"
+    },
+    {
+      "id": "ibm-pause-hiring-replaceable-back-office-roles",
+      "title": "IBM says AI may replace work tied to 7,800 back-office roles",
+      "summary": "Reuters reported IBM would pause hiring for back-office functions that the company believed AI and automation could absorb over time, making labor substitution pressure explicit rather than implied.",
+      "date": "2023-05-01",
+      "source": "Reuters AI and labor reporting / Stanford AI Index",
+      "sourceUrl": "https://www.reuters.com/technology/ibm-ceo-says-ai-may-replace-7800-jobs-paused-hiring-2023-05-01/",
+      "effect": "advance",
+      "contributionType": "shock",
+      "impactLabel": "+ milestone",
+      "tags": [
+        "labor",
+        "us",
+        "global"
+      ],
+      "reviewStatus": "accepted"
+    }
+  ],
+  "generatedAt": "2026-03-26T01:35:45.265Z"
 }

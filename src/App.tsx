@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import ClockPanel from './components/ClockPanel'
 import OccupationList from './components/OccupationList'
+import ReferenceNewsList from './components/ReferenceNewsList'
 import type { ClockData } from './types'
 
 export default function App() {
@@ -20,7 +21,8 @@ export default function App() {
   return (
     <main className="app-shell">
       <ClockPanel data={data} />
-      <OccupationList occupations={data.topExposures} />
+      <OccupationList occupations={data.occupations} />
+      <ReferenceNewsList items={data.referenceNews} />
     </main>
   )
 }

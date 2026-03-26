@@ -1,28 +1,37 @@
-import type { ClockData } from '../types'
+import type { OccupationItem } from '../types'
 
 type OccupationListProps = {
-  occupations: ClockData['topExposures']
+  occupations: OccupationItem[]
 }
 
 export default function OccupationList({ occupations }: OccupationListProps) {
   return (
-    <div className="occupation-section">
-      <h2 className="section-title">Highest AI Exposure Occupations</h2>
-      <div className="occupation-list">
+    <section className="occupation-section">
+      <h2 className="section-title">Occupational Exposure</h2>
+      <div className="occupation-grid">
         {occupations.map((occ) => (
-          <div key={occ.title} className="occupation-item">
+          <article key={occ.title} className="occupation-card">
+            <div className="occupation-card-header">
+              <span className="occupation-exposure">Exposure {occ.exposure}/10</span>
+              <span className="occupation-jobs">{occ.jobs.toLocaleString()} jobs</span>
+            </div>
             <h3>
               <a href={occ.url} target="_blank" rel="noopener noreferrer">
                 {occ.title}
               </a>
             </h3>
-            <div className="occupation-meta">
-              <span>Exposure: {occ.exposure}/10</span>
-              <span>Jobs: {(occ.jobs / 1000).toFixed(0)}K</span>
+            <p className="occupation-source">Source: Bureau of Labor Statistics</p>
+            <div className="occupation-tertiary">
+              {occ.category ? <span className="occupation-badge">{occ.category}</span> : null}
+              {occ.outlook !== undefined ? (
+                <span className={`occupation-badge ${occ.outlook < 0 ? 'occupation-badge-negative' : 'occupation-badge-muted'}`}>
+                  {occ.outlook}%
+                </span>
+              ) : null}
             </div>
-          </div>
+          </article>
         ))}
       </div>
-    </div>
+    </section>
   )
 }
