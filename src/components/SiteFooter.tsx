@@ -47,13 +47,13 @@ export default function SiteFooter() {
 
         <div className="footer-links">
           <a href="https://github.com/zijiebuzhuang/jobs-doomsday-clock" target="_blank" rel="noreferrer">
-            Source Code <span aria-hidden="true" className="external-arrow">↗</span>
+            Source Code <span aria-hidden="true" className="external-arrow">→</span>
           </a>
           <a href="https://karpathy.ai/jobs/" target="_blank" rel="noreferrer">
-            Jobs Dataset <span aria-hidden="true" className="external-arrow">↗</span>
+            Jobs Dataset <span aria-hidden="true" className="external-arrow">→</span>
           </a>
           <a href="https://thebulletin.org/doomsday-clock/" target="_blank" rel="noreferrer">
-            Original Doomsday Clock <span aria-hidden="true" className="external-arrow">↗</span>
+            Original Doomsday Clock <span aria-hidden="true" className="external-arrow">→</span>
           </a>
         </div>
       </div>
