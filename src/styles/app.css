@@ -639,6 +639,7 @@ body::-webkit-scrollbar-thumb:hover,
   align-items: center;
   gap: 24px;
   border-top: 1px solid rgba(245, 241, 232, 0.06);
+  padding-top: 24px;
 }
 
 .footer-links a {
@@ -664,7 +665,7 @@ body::-webkit-scrollbar-thumb:hover,
 }
 
 .external-arrow {
-  font-family: sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 12px;
   font-weight: 300;
   text-decoration: none;
