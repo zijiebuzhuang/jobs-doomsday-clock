@@ -80,6 +80,7 @@ export default function ClockPanel({ data }: ClockPanelProps) {
           <div className="time-context">
             {data.minutesToMidnight} minutes to midnight
           </div>
+          <div className="time-threshold-tag">MIDNIGHT: Job Replacement &gt; 50</div>
         </div>
       </div>
 
@@ -134,6 +135,12 @@ export default function ClockPanel({ data }: ClockPanelProps) {
                 <p>
                   This page is generated from precomputed local data and rendered as a static site.
                   The frontend does not recompute labor exposure in the browser; it reads generated JSON output.
+                </p>
+                <p>
+                  Replacement rate is computed as a jobs-weighted mean exposure multiplied by 10.
+                  The clock mapping is linear over 24 hours: minutesToMidnight = round((50 - replacementRate) * 14.4),
+                  then displayTime is the 24-hour time for (1440 - minutesToMidnight) mod 1440.
+                  Under this scale, 50% maps to 00:00 and each 1 percentage point shifts 14.4 minutes.
                 </p>
               </section>
 

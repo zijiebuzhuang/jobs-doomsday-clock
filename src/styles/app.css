@@ -296,6 +296,20 @@ body::-webkit-scrollbar-thumb:hover,
   color: var(--muted);
 }
 
+.time-threshold-tag {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(245, 241, 232, 0.06);
+  border: 1px solid rgba(245, 241, 232, 0.12);
+  font-family: var(--font-ui);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--text);
+  opacity: 0.8;
+}
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

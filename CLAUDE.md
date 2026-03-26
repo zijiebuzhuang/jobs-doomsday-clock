@@ -4,56 +4,53 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a small Vite + React + TypeScript site that renders a single "AI Jobs Doomsday Clock" view from precomputed JSON data. It is built for GitHub Pages under `/jobs-doomsday-clock/`, not for a root-path deployment. It combines Andrej Karpathy's jobs dataset exposures with the reference doomsday-clock's news/evidence cards.
+This is a Vite + React + TypeScript static site that renders an "AI Jobs Doomsday Clock." It is deployed to Vercel at the root path (`/`) via the `https://jobdoomsday.tech/` domain. It's a completely independent, English-first, open-source project featuring a minimalist, black-and-white, humanistic/retro visual style.
 
-## Commands
+The site combines:
+1. Andrej Karpathy's jobs dataset exposures (calculating an aggregate replacement rate).
+2. The reference Doomsday Clock's news/evidence cards (milestone events).
 
-- Install dependencies: `npm install`
-- Start local dev server: `npm run dev`
-- Recompute the dataset used by the UI: `npm run compute`
-- Production build: `npm run build`
-- Preview the production build locally: `npm run preview`
+The architecture is built around precomputed data. The frontend does not calculate exposure metrics; it simply renders what is found in `public/data.json`.
 
-## Testing and linting
+## Common Commands
 
-- There is currently no test runner configured in `package.json`.
-- There is currently no lint script configured in `package.json`.
-- There is no single-test command because no test framework is installed.
+- **Start local dev server**: `npm run dev`
+- **Recompute data**: `npm run compute` (Calculates the replacement rate, formats the clock time, and bundles occupations + news into `public/data.json`)
+- **Production build**: `npm run build`
+- **Preview production build**: `npm run preview`
 
-## Architecture
+**Important Note on Data Updates:**
+The `npm run compute` script reads from two local absolute paths:
+1. Karpathy jobs dataset: `/Users/zijiechen/Downloads/jobs-master/site/data.json`
+2. Doomsday clock evidence: `/Users/zijiechen/Library/Mobile Documents/com~apple~CloudDocs/AI/doomsday-clock/data/generated/evidence.json`
 
-### Runtime flow
+Because of these local path dependencies, `npm run compute` MUST be run locally before committing if data changes. Vercel CI will not rebuild `data.json`; it only runs `npm run build`.
 
-- `src/main.tsx` bootstraps the React app and loads the global styles.
-- `src/App.tsx` is the top-level container. It fetches the generated dataset from `/jobs-doomsday-clock/data.json`, keeps it in local state, and renders three main UI sections.
-- `src/components/ClockPanel.tsx` is a pure presentation component that turns `displayTime` into SVG hand rotations and renders the headline stats.
-- `src/components/OccupationList.tsx` renders the ranked occupation card grid.
-- `src/components/ReferenceNewsList.tsx` renders the reference project's news/evidence feed.
-- `src/types.ts` defines the shape of the generated JSON contract shared by the compute script and the UI.
+## Architecture & Data Flow
 
-### Data pipeline
+### 1. Data Generation (`scripts/compute-clock.mjs`)
+- Reads the raw datasets.
+- Calculates the `replacementRate` = (jobs-weighted average exposure) * 10.
+- Maps this to a 24-hour clock where 50% replacement = 00:00 (midnight). Every 1% change shifts the clock by 14.4 minutes.
+- Combines the clock math, sorted occupation list, and formatted news feed.
+- Writes everything to `public/data.json`.
 
-- The UI does not compute exposure metrics in-browser.
-- `scripts/compute-clock.mjs` reads data from two local filesystem paths:
-  1. The upstream Karpathy jobs dataset (`/Users/zijiechen/Downloads/jobs-master/site/data.json`)
-  2. The doomsday-clock reference evidence (`/Users/zijiechen/Library/Mobile Documents/com~apple~CloudDocs/AI/doomsday-clock/data/generated/evidence.json`)
-- That script filters valid occupations, computes weighted average exposure across all jobs, converts it into a replacement rate and 24-hour clock reading, and writes the combined payload (occupations + news) to `public/data.json`.
-- `public/data.json` is therefore a generated artifact that the frontend consumes directly.
+### 2. Frontend Application (`src/`)
+- `src/App.tsx`: Fetches `/data.json` on mount, holds it in state, and renders the page in three vertical sections.
+- `src/components/ClockPanel.tsx`: A pure presentation component. It takes the `displayTime` (e.g., "23:47") and uses modulo math to position the SVG clock hands. Also handles the "About this page" modal.
+- `src/components/OccupationList.tsx`: Renders the jobs dataset as a responsive 2-column card grid.
+- `src/components/ReferenceNewsList.tsx`: Renders the milestone/news events below the occupations.
+- `src/types.ts`: The contract for the JSON payload (types like `ClockData`, `OccupationItem`, `ReferenceNewsItem`).
 
-### Deployment assumptions
+### 3. Styling
+- Uses plain CSS, completely custom.
+- `src/styles/tokens.css`: Core design tokens (dark theme, typography, color variables).
+- `src/styles/app.css`: Layouts and component styles. Focuses on a responsive CSS grid, 5% white background treatments for cards, and subtle hover states for links.
 
-- `vite.config.ts` sets `base: '/jobs-doomsday-clock/'` for GitHub Pages.
-- `src/App.tsx` also hardcodes the same base when fetching `data.json`.
-- When changing the repo name, site path, or hosting target, update both the Vite base path and the fetch URL together.
-- `.github/workflows/deploy.yml` deploys on pushes to `main`. It ONLY runs `npm install` and `npm run build` (it does NOT run `npm run compute` because the GitHub runner cannot access the local absolute file paths).
+## Development Guidelines
 
-## Styling
-
-- `src/styles/tokens.css` defines the small set of global design tokens: dark background, serif display typography, sans-serif UI typography, and shared color variables.
-- `src/styles/app.css` contains the full page layout and component styling. It uses a responsive 2-column grid for both the occupation cards and the news reference cards.
-
-## Important implementation details
-
-- The displayed time comes from the generated data payload (`displayTime` in 24h format), not live recalculation in React.
-- The clock math in `ClockPanel.tsx` uses modulo math to ensure the analog hands position identically whether the digital display reads e.g., "11:47" or "23:47".
-- The compute step (`npm run compute`) MUST be run locally before committing/pushing if data changes. The CI pipeline will not rebuild `data.json`.
+- **UI Updates:** If modifying the UI, wait for the user to confirm the visual result locally in their browser before pushing changes.
+- **Styling:** Adhere to the minimalist, dark-mode, black-and-white visual system. Preserve the typography choices defined in `tokens.css`.
+- **Precomputed Data:** Do not add complex data processing or filtering to the React components. If the data structure needs to change, modify `scripts/compute-clock.mjs` and update `src/types.ts`.
+- **Analog Clock:** The math in `ClockPanel.tsx` is carefully tuned to handle 24-hour `displayTime` strings and map them correctly to the 12-hour SVG face. Avoid altering the `angleForMinutes` logic unless specifically requested.
+- **Reporting:** Keep any generated local reports or analysis markdown files out of the repository unless the user explicitly asks to commit them.
