@@ -249,10 +249,10 @@ body::-webkit-scrollbar-thumb:hover,
 
 .clock-edge-ripple {
   fill: none;
-  stroke: rgba(245, 241, 232, 0.48);
-  stroke-width: 1.5;
+  stroke: rgba(245, 241, 232, 0.7);
+  stroke-width: 2;
   transform-origin: 200px 200px;
-  animation: clock-edge-ripple 1s ease-out infinite;
+  animation: clock-edge-ripple 1.5s ease-out infinite;
   pointer-events: none;
 }
 
@@ -301,7 +301,7 @@ body::-webkit-scrollbar-thumb:hover,
   margin-top: 12px;
   padding: 4px 10px;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(245, 241, 232, 0.12);
   font-family: var(--font-ui);
   font-size: 11px;
@@ -677,19 +677,19 @@ body::-webkit-scrollbar-thumb:hover,
     transform: scale(1);
     opacity: 0;
   }
-  8% {
-    opacity: 0.72;
+  15% {
+    opacity: 0.9;
   }
-  32% {
-    transform: scale(1.05);
-    opacity: 0.32;
-  }
-  48% {
+  40% {
     transform: scale(1.08);
+    opacity: 0.4;
+  }
+  60% {
+    transform: scale(1.12);
     opacity: 0;
   }
   100% {
-    transform: scale(1.08);
+    transform: scale(1.12);
     opacity: 0;
   }
 }
