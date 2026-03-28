@@ -5,7 +5,8 @@ type ClockPanelProps = {
   data: ClockData
 }
 
-const marks = Array.from({ length: 12 }, (_, index) => {
+const markIndices = [9, 10, 11, 0]
+const marks = markIndices.map((index) => {
   const angle = (index / 12) * Math.PI * 2 - Math.PI / 2
   const x = 200 + Math.cos(angle) * 162
   const y = 200 + Math.sin(angle) * 162
