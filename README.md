@@ -4,9 +4,9 @@ A simplified doomsday clock visualization based on AI exposure data from [karpat
 
 ## About
 
-This clock maps the weighted average AI exposure across 342 US occupations to a 12-hour clock face, where 50% replacement rate equals midnight (00:00).
+This clock maps the weighted average AI exposure across 342 US occupations to a 24-hour clock face, where 50% replacement rate equals midnight (00:00).
 
-**Current reading: 06:07 (49.1% replacement rate)**
+**Current reading: 23:47 (49.1% replacement rate)**
 
 ## Data Source
 
@@ -14,7 +14,7 @@ All data comes from Andrej Karpathy's jobs project, which analyzes Bureau of Lab
 
 ## Live Site
 
-Visit: https://zijiebuzhuang.github.io/jobs-doomsday-clock/
+Visit: https://jobdoomsday.tech/
 
 ## Local Development
 
