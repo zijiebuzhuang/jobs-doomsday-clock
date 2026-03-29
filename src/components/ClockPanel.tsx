@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react'
-import type { ClockData } from '../types'
+import { useEffect, useState, useRef } from 'react'
+import type { ClockData, OccupationItem } from '../types'
 
 type ClockPanelProps = {
   data: ClockData
+  onOccupationSelect: (occupation: OccupationItem) => void
 }
 
 const markIndices = [9, 10, 11, 0]
@@ -19,8 +20,13 @@ function angleForMinutes(totalMinutes: number, divisor: number) {
 
 type InfoModalType = 'about' | 'rate' | 'jobs' | 'occupations' | 'threshold' | null
 
-export default function ClockPanel({ data }: ClockPanelProps) {
+export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps) {
   const [openModal, setOpenModal] = useState<InfoModalType>(null)
+  const [searchQuery, setSearchQuery] = useState('')
+  const [searchResults, setSearchResults] = useState<OccupationItem[]>([])
+  const [showResults, setShowResults] = useState(false)
+  const [searchExpanded, setSearchExpanded] = useState(false)
+  const searchContainerRef = useRef<HTMLDivElement>(null)
   const [hours, minutes] = data.displayTime.split(':').map(Number)
   const totalMinutes = hours * 60 + minutes
   const minuteAngle = (angleForMinutes(totalMinutes, 60) * 180) / Math.PI
@@ -42,8 +48,27 @@ export default function ClockPanel({ data }: ClockPanelProps) {
     }
   }, [openModal])
 
+  useEffect(() => {
+    if (searchQuery.trim().length < 2) {
+      setSearchResults([])
+      setShowResults(false)
+      return
+    }
+    const query = searchQuery.toLowerCase()
+    const results = data.occupations.filter(occ =>
+      occ.title.toLowerCase().includes(query)
+    ).slice(0, 8)
+    setSearchResults(results)
+    setShowResults(results.length > 0)
+  }, [searchQuery, data.occupations])
+
   return (
     <section className="panel">
+      {searchExpanded && <div className="search-backdrop" onClick={() => {
+        setSearchExpanded(false)
+        setSearchQuery('')
+        setShowResults(false)
+      }}></div>}
       <div className="clock-hero">
         <div className="clock-heading-row">
           <button
@@ -57,6 +82,53 @@ export default function ClockPanel({ data }: ClockPanelProps) {
             <span className="eyebrow">AI Jobs Doomsday Clock</span>
             <span className="clock-title-action" aria-hidden="true">→</span>
           </button>
+          <div ref={searchContainerRef} className={`search-container ${searchExpanded ? 'search-expanded' : ''}`} style={searchExpanded && window.innerWidth <= 580 && searchContainerRef.current ? {
+            top: `${searchContainerRef.current.getBoundingClientRect().top}px`
+          } : undefined}>
+            <button
+              className="search-toggle-btn"
+              onClick={() => setSearchExpanded(true)}
+              aria-label="Open search"
+            >
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <circle cx="7" cy="7" r="5.5" stroke="currentColor" strokeWidth="1.5"/>
+                <path d="M11 11L14 14" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+              </svg>
+            </button>
+            <input
+              type="text"
+              className="search-input"
+              placeholder="Search occupations..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              onFocus={() => {
+                setSearchExpanded(true)
+                searchResults.length > 0 && setShowResults(true)
+              }}
+              onBlur={() => setTimeout(() => {
+                setShowResults(false)
+                if (!searchQuery) setSearchExpanded(false)
+              }, 200)}
+            />
+            {showResults && (
+              <div className="search-results">
+                {searchResults.map((occ) => (
+                  <button
+                    key={occ.title}
+                    className="search-result-item"
+                    onClick={() => {
+                      onOccupationSelect(occ)
+                      setSearchQuery('')
+                      setShowResults(false)
+                    }}
+                  >
+                    <span className="search-result-title">{occ.title}</span>
+                    <span className="search-result-exposure">{occ.exposure * 10}%</span>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
         </div>
 
         <div className="clock-stage">

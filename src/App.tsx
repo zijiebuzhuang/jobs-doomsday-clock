@@ -3,10 +3,12 @@ import ClockPanel from './components/ClockPanel'
 import OccupationList from './components/OccupationList'
 import ReferenceNewsList from './components/ReferenceNewsList'
 import SiteFooter from './components/SiteFooter'
-import type { ClockData } from './types'
+import OccupationCard from './components/OccupationCard'
+import type { ClockData, OccupationItem } from './types'
 
 export default function App() {
   const [data, setData] = useState<ClockData | null>(null)
+  const [selectedOccupation, setSelectedOccupation] = useState<OccupationItem | null>(null)
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data.json`)
@@ -21,10 +23,13 @@ export default function App() {
 
   return (
     <main className="app-shell">
-      <ClockPanel data={data} />
+      <ClockPanel data={data} onOccupationSelect={setSelectedOccupation} />
       <OccupationList occupations={data.occupations} />
       <ReferenceNewsList items={data.referenceNews} />
       <SiteFooter />
+      {selectedOccupation && (
+        <OccupationCard occupation={selectedOccupation} onClose={() => setSelectedOccupation(null)} />
+      )}
     </main>
   )
 }
