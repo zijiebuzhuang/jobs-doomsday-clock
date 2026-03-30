@@ -43,10 +43,10 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
     try {
       await new Promise(resolve => setTimeout(resolve, 50))
 
-      const isMobile = window.innerWidth <= 580
+      const hasTouchScreen = 'ontouchstart' in window || navigator.maxTouchPoints > 0
       const canvas = await html2canvas(captureArea, {
         backgroundColor: '#0c0c0c',
-        scale: isMobile ? 2 : 4,
+        scale: hasTouchScreen ? 2 : 4,
         logging: false,
         useCORS: true,
         windowWidth: captureArea.scrollWidth,
@@ -55,19 +55,8 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
 
       const dataUrl = canvas.toDataURL('image/png')
 
-      if (isMobile) {
-        // On mobile: show the image inline so user can long-press to save
-        setPreviewUrl(dataUrl)
-      } else {
-        // On desktop: trigger direct download
-        const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
-        const link = document.createElement('a')
-        link.download = fileName
-        link.href = dataUrl
-        document.body.appendChild(link)
-        link.click()
-        document.body.removeChild(link)
-      }
+      // Always show preview first — user clicks download button (real gesture)
+      setPreviewUrl(dataUrl)
     } catch (error) {
       console.error('Failed to save image:', error)
       alert('Failed to generate image. Please try again.')
@@ -82,16 +71,22 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
   }
 
   if (previewUrl) {
+    const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
     return (
       <div className="occupation-card-backdrop" onClick={() => setPreviewUrl(null)}>
         <div className="occupation-card-preview" onClick={(e) => e.stopPropagation()}>
           <div className="occupation-card-preview-header">
-            <p className="eyebrow">Long press image to save</p>
+            <p className="eyebrow">Image Preview</p>
             <button type="button" className="definition-modal-close" aria-label="Close" onClick={() => setPreviewUrl(null)}>
               <span aria-hidden="true">×</span>
             </button>
           </div>
           <img src={previewUrl} alt={occupation.title} className="occupation-card-preview-img" />
+          <div className="occupation-card-preview-actions">
+            <a href={previewUrl} download={fileName} className="occupation-card-btn">Download</a>
+            <button type="button" className="occupation-card-btn" onClick={() => setPreviewUrl(null)}>Close</button>
+          </div>
+          <p className="occupation-card-preview-hint">Or long press the image to save</p>
         </div>
       </div>
     )

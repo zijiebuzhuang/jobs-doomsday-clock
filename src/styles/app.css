@@ -388,6 +388,23 @@
   border: 1px solid var(--line);
 }
 
+.occupation-card-preview-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.occupation-card-preview-hint {
+  margin: 10px 0 0;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
 .clock-title-trigger:hover .clock-title-action,
 .clock-title-trigger:focus-visible .clock-title-action,
 .definition-modal-close:hover,
