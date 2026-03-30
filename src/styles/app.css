@@ -1145,8 +1145,7 @@ body::-webkit-scrollbar-thumb:hover,
   }
 
   .search-expanded .search-toggle-btn {
-    display: flex;
-    pointer-events: auto;
+    display: none;
   }
 
   .search-expanded .search-input {
