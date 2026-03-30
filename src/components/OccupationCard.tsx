@@ -10,6 +10,7 @@ type OccupationCardProps = {
 export default function OccupationCard({ occupation, onClose }: OccupationCardProps) {
   const cardRef = useRef<HTMLDivElement>(null)
   const [saving, setSaving] = useState(false)
+  const [previewUrl, setPreviewUrl] = useState<string | null>(null)
 
   const replacementRate = occupation.exposure * 10
   const minutesToMidnight = Math.round((50 - replacementRate) * 14.4)
@@ -30,7 +31,6 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
     const footerUrl = captureArea.querySelector('.occupation-card-footer-url') as HTMLElement
     const headerClose = captureArea.querySelector('.definition-modal-close') as HTMLElement
 
-    // Prepare for capture
     const originalMaxHeight = captureArea.style.maxHeight
     const originalOverflow = captureArea.style.overflow
     captureArea.style.maxHeight = 'none'
@@ -53,38 +53,25 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
         windowHeight: captureArea.scrollHeight
       })
 
-      const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
-      const blob = await new Promise<Blob | null>(resolve => canvas.toBlob(resolve, 'image/png'))
-      if (!blob) throw new Error('Failed to generate image')
+      const dataUrl = canvas.toDataURL('image/png')
 
-      // Try Web Share API first (works well on mobile)
-      if (navigator.share && navigator.canShare) {
-        const file = new File([blob], fileName, { type: 'image/png' })
-        const shareData = { files: [file] }
-        if (navigator.canShare(shareData)) {
-          try {
-            await navigator.share(shareData)
-            return
-          } catch {
-            // User cancelled or share failed, fall through to download
-          }
-        }
+      if (isMobile) {
+        // On mobile: show the image inline so user can long-press to save
+        setPreviewUrl(dataUrl)
+      } else {
+        // On desktop: trigger direct download
+        const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
+        const link = document.createElement('a')
+        link.download = fileName
+        link.href = dataUrl
+        document.body.appendChild(link)
+        link.click()
+        document.body.removeChild(link)
       }
-
-      // Fallback: blob URL download
-      const url = URL.createObjectURL(blob)
-      const link = document.createElement('a')
-      link.download = fileName
-      link.href = url
-      document.body.appendChild(link)
-      link.click()
-      document.body.removeChild(link)
-      URL.revokeObjectURL(url)
     } catch (error) {
       console.error('Failed to save image:', error)
-      alert('Failed to save image. Please try again.')
+      alert('Failed to generate image. Please try again.')
     } finally {
-      // Always restore UI
       captureArea.style.maxHeight = originalMaxHeight
       captureArea.style.overflow = originalOverflow
       if (actions) actions.style.display = ''
@@ -92,6 +79,22 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
       if (headerClose) headerClose.style.display = ''
       setSaving(false)
     }
+  }
+
+  if (previewUrl) {
+    return (
+      <div className="occupation-card-backdrop" onClick={() => setPreviewUrl(null)}>
+        <div className="occupation-card-preview" onClick={(e) => e.stopPropagation()}>
+          <div className="occupation-card-preview-header">
+            <p className="eyebrow">Long press image to save</p>
+            <button type="button" className="definition-modal-close" aria-label="Close" onClick={() => setPreviewUrl(null)}>
+              <span aria-hidden="true">×</span>
+            </button>
+          </div>
+          <img src={previewUrl} alt={occupation.title} className="occupation-card-preview-img" />
+        </div>
+      </div>
+    )
   }
 
   return (

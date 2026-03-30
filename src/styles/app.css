@@ -360,6 +360,34 @@
   pointer-events: none;
 }
 
+.occupation-card-preview {
+  width: min(100%, 560px);
+  max-height: 90vh;
+  overflow-y: auto;
+  background: linear-gradient(180deg, rgba(14, 14, 14, 0.98), rgba(8, 8, 8, 0.98));
+  border: 1px solid var(--line);
+  padding: 16px;
+}
+
+.occupation-card-preview-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.occupation-card-preview-header .eyebrow {
+  margin-bottom: 0;
+}
+
+.occupation-card-preview-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+}
+
 .clock-title-trigger:hover .clock-title-action,
 .clock-title-trigger:focus-visible .clock-title-action,
 .definition-modal-close:hover,
