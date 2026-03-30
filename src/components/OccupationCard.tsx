@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useRef, useState } from 'react'
 import html2canvas from 'html2canvas'
 import type { OccupationItem } from '../types'
 
@@ -9,6 +9,7 @@ type OccupationCardProps = {
 
 export default function OccupationCard({ occupation, onClose }: OccupationCardProps) {
   const cardRef = useRef<HTMLDivElement>(null)
+  const [saving, setSaving] = useState(false)
 
   const replacementRate = occupation.exposure * 10
   const minutesToMidnight = Math.round((50 - replacementRate) * 14.4)
@@ -21,48 +22,40 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
   const minuteAngle = ((totalMinutes % 60) / 60) * 360
 
   const handleSave = async () => {
-    if (!cardRef.current) return
+    if (!cardRef.current || saving) return
+    setSaving(true)
+
+    const captureArea = cardRef.current
+    const actions = captureArea.querySelector('.occupation-card-actions') as HTMLElement
+    const footerUrl = captureArea.querySelector('.occupation-card-footer-url') as HTMLElement
+    const headerClose = captureArea.querySelector('.definition-modal-close') as HTMLElement
+
+    // Prepare for capture
+    const originalMaxHeight = captureArea.style.maxHeight
+    const originalOverflow = captureArea.style.overflow
+    captureArea.style.maxHeight = 'none'
+    captureArea.style.overflow = 'visible'
+
+    if (actions) actions.style.display = 'none'
+    if (footerUrl) footerUrl.style.display = 'block'
+    if (headerClose) headerClose.style.display = 'none'
 
     try {
-      const captureArea = cardRef.current
-      const actions = captureArea.querySelector('.occupation-card-actions') as HTMLElement
-      const footerUrl = captureArea.querySelector('.occupation-card-footer-url') as HTMLElement
-      const headerClose = captureArea.querySelector('.definition-modal-close') as HTMLElement
-
-      // Prepare for capture
-      const originalMaxHeight = captureArea.style.maxHeight
-      const originalOverflow = captureArea.style.overflow
-      captureArea.style.maxHeight = 'none'
-      captureArea.style.overflow = 'visible'
-
-      if (actions) actions.style.display = 'none'
-      if (footerUrl) footerUrl.style.display = 'block'
-      if (headerClose) headerClose.style.display = 'none'
-
-      // Add a slight delay to ensure DOM updates are rendered
       await new Promise(resolve => setTimeout(resolve, 50))
 
+      const isMobile = window.innerWidth <= 580
       const canvas = await html2canvas(captureArea, {
         backgroundColor: '#0c0c0c',
-        scale: 4,
+        scale: isMobile ? 2 : 4,
         logging: false,
         useCORS: true,
         windowWidth: captureArea.scrollWidth,
         windowHeight: captureArea.scrollHeight
       })
 
-      // Restore styles
-      captureArea.style.maxHeight = originalMaxHeight
-      captureArea.style.overflow = originalOverflow
-      if (actions) actions.style.display = ''
-      if (footerUrl) footerUrl.style.display = 'none'
-      if (headerClose) headerClose.style.display = ''
-
       const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
-
-      // Convert canvas to blob
       const blob = await new Promise<Blob | null>(resolve => canvas.toBlob(resolve, 'image/png'))
-      if (!blob) return
+      if (!blob) throw new Error('Failed to generate image')
 
       // Try Web Share API first (works well on mobile)
       if (navigator.share && navigator.canShare) {
@@ -89,6 +82,15 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
       URL.revokeObjectURL(url)
     } catch (error) {
       console.error('Failed to save image:', error)
+      alert('Failed to save image. Please try again.')
+    } finally {
+      // Always restore UI
+      captureArea.style.maxHeight = originalMaxHeight
+      captureArea.style.overflow = originalOverflow
+      if (actions) actions.style.display = ''
+      if (footerUrl) footerUrl.style.display = 'none'
+      if (headerClose) headerClose.style.display = ''
+      setSaving(false)
     }
   }
 
@@ -151,7 +153,9 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
         </div>
         </div>
         <div className="occupation-card-actions">
-          <button onClick={handleSave} className="occupation-card-btn">Save as Image</button>
+          <button onClick={handleSave} className="occupation-card-btn" disabled={saving}>
+            {saving ? 'Generating...' : 'Save as Image'}
+          </button>
           {occupation.url && (
             <a href={occupation.url} target="_blank" rel="noopener noreferrer" className="occupation-card-btn">View BLS Data</a>
           )}

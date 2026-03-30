@@ -354,6 +354,12 @@
   border-color: var(--text);
 }
 
+.occupation-card-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+  pointer-events: none;
+}
+
 .clock-title-trigger:hover .clock-title-action,
 .clock-title-trigger:focus-visible .clock-title-action,
 .definition-modal-close:hover,
