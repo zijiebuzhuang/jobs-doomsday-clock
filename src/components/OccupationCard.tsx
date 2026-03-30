@@ -10,7 +10,6 @@ type OccupationCardProps = {
 export default function OccupationCard({ occupation, onClose }: OccupationCardProps) {
   const cardRef = useRef<HTMLDivElement>(null)
   const [saving, setSaving] = useState(false)
-  const [previewUrl, setPreviewUrl] = useState<string | null>(null)
 
   const replacementRate = occupation.exposure * 10
   const minutesToMidnight = Math.round((50 - replacementRate) * 14.4)
@@ -43,20 +42,26 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
     try {
       await new Promise(resolve => setTimeout(resolve, 50))
 
-      const hasTouchScreen = 'ontouchstart' in window || navigator.maxTouchPoints > 0
       const canvas = await html2canvas(captureArea, {
         backgroundColor: '#0c0c0c',
-        scale: hasTouchScreen ? 2 : 4,
+        scale: 2,
         logging: false,
         useCORS: true,
         windowWidth: captureArea.scrollWidth,
         windowHeight: captureArea.scrollHeight
       })
 
-      const dataUrl = canvas.toDataURL('image/png')
+      const blob = await new Promise<Blob | null>(resolve => canvas.toBlob(resolve, 'image/png'))
+      if (!blob) throw new Error('Failed to generate image')
 
-      // Always show preview first — user clicks download button (real gesture)
-      setPreviewUrl(dataUrl)
+      const url = URL.createObjectURL(blob)
+      const link = document.createElement('a')
+      link.download = `${occupation.title.replace(/\s+/g, '-')}.png`
+      link.href = url
+      document.body.appendChild(link)
+      link.click()
+      document.body.removeChild(link)
+      setTimeout(() => URL.revokeObjectURL(url), 1000)
     } catch (error) {
       console.error('Failed to save image:', error)
       alert('Failed to generate image. Please try again.')
@@ -68,28 +73,6 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
       if (headerClose) headerClose.style.display = ''
       setSaving(false)
     }
-  }
-
-  if (previewUrl) {
-    const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
-    return (
-      <div className="occupation-card-backdrop" onClick={() => setPreviewUrl(null)}>
-        <div className="occupation-card-preview" onClick={(e) => e.stopPropagation()}>
-          <div className="occupation-card-preview-header">
-            <p className="eyebrow">Image Preview</p>
-            <button type="button" className="definition-modal-close" aria-label="Close" onClick={() => setPreviewUrl(null)}>
-              <span aria-hidden="true">×</span>
-            </button>
-          </div>
-          <img src={previewUrl} alt={occupation.title} className="occupation-card-preview-img" />
-          <div className="occupation-card-preview-actions">
-            <a href={previewUrl} download={fileName} className="occupation-card-btn">Download</a>
-            <button type="button" className="occupation-card-btn" onClick={() => setPreviewUrl(null)}>Close</button>
-          </div>
-          <p className="occupation-card-preview-hint">Or long press the image to save</p>
-        </div>
-      </div>
-    )
   }
 
   return (
