@@ -268,41 +268,30 @@
 }
 
 .occupation-card-clock-svg {
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
 }
 
-.occupation-card-time {
-  font-size: 32px;
-  font-weight: 400;
-  line-height: 1;
-}
-
-.occupation-card-time-label {
+.occupation-card-time-inline {
   font-family: var(--font-ui);
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--muted);
-}
-
-.occupation-card-divider {
-  width: 60px;
-  height: 1px;
-  background: rgba(245, 241, 232, 0.2);
-  margin: 24px auto;
+  text-align: center;
+  margin-bottom: 24px;
 }
 
 .occupation-card-exposure {
-  font-size: 72px;
+  font-size: 64px;
   font-weight: 400;
   line-height: 1;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   text-align: center;
 }
 
 .occupation-card-label {
-  margin: 0 0 24px;
+  margin: 0 0 8px;
   font-family: var(--font-ui);
   font-size: 11px;
   text-transform: uppercase;
@@ -1058,7 +1047,12 @@ body::-webkit-scrollbar-thumb:hover,
   }
 
   .occupation-card-exposure {
-    font-size: 56px;
+    font-size: 48px;
+  }
+
+  .occupation-card-clock-svg {
+    width: 64px;
+    height: 64px;
   }
 
   .occupation-card-stats {
@@ -1108,6 +1102,7 @@ body::-webkit-scrollbar-thumb:hover,
 
   .search-input {
     display: none;
+    font-size: 16px;
   }
 
   .search-expanded {

@@ -58,10 +58,35 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
       if (footerUrl) footerUrl.style.display = 'none'
       if (headerClose) headerClose.style.display = ''
 
+      const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
+
+      // Convert canvas to blob
+      const blob = await new Promise<Blob | null>(resolve => canvas.toBlob(resolve, 'image/png'))
+      if (!blob) return
+
+      // Try Web Share API first (works well on mobile)
+      if (navigator.share && navigator.canShare) {
+        const file = new File([blob], fileName, { type: 'image/png' })
+        const shareData = { files: [file] }
+        if (navigator.canShare(shareData)) {
+          try {
+            await navigator.share(shareData)
+            return
+          } catch {
+            // User cancelled or share failed, fall through to download
+          }
+        }
+      }
+
+      // Fallback: blob URL download
+      const url = URL.createObjectURL(blob)
       const link = document.createElement('a')
-      link.download = `${occupation.title.replace(/\s+/g, '-')}.png`
-      link.href = canvas.toDataURL()
+      link.download = fileName
+      link.href = url
+      document.body.appendChild(link)
       link.click()
+      document.body.removeChild(link)
+      URL.revokeObjectURL(url)
     } catch (error) {
       console.error('Failed to save image:', error)
     }
@@ -92,17 +117,15 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
               </g>
               <circle cx="60" cy="60" r="2" fill="#050505" />
             </svg>
-            <div className="occupation-card-time">{displayTime}</div>
-            <div className="occupation-card-time-label">
-              {minutesToMidnight >= 0
-                ? `${minutesToMidnight} min to midnight`
-                : `${Math.abs(minutesToMidnight)} min past midnight`}
-            </div>
           </div>
 
-          <div className="occupation-card-divider"></div>
           <div className="occupation-card-exposure">{replacementRate}%</div>
           <p className="occupation-card-label">AI Replacement Rate</p>
+          <div className="occupation-card-time-inline">
+            {displayTime} · {minutesToMidnight >= 0
+              ? `${minutesToMidnight} min to midnight`
+              : `${Math.abs(minutesToMidnight)} min past midnight`}
+          </div>
 
           <div className="occupation-card-stats">
             <div>
