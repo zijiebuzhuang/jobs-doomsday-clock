@@ -52,8 +52,9 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
 
       const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
 
-      // Try Web Share API first (best mobile support)
-      if (navigator.share && navigator.canShare) {
+      // Mobile: use Web Share API
+      const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent)
+      if (isMobile && navigator.share && navigator.canShare) {
         const file = new File([blob], fileName, { type: 'image/png' })
         if (navigator.canShare({ files: [file] })) {
           try {
@@ -65,10 +66,13 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
         }
       }
 
-      // Fallback: open image in new tab (works on all browsers)
+      // Desktop: direct download
       const url = URL.createObjectURL(blob)
-      window.open(url, '_blank')
-      setTimeout(() => URL.revokeObjectURL(url), 60000)
+      const a = document.createElement('a')
+      a.href = url
+      a.download = fileName
+      a.click()
+      URL.revokeObjectURL(url)
     } catch (error) {
       console.error('Failed to save image:', error)
       alert('Failed to generate image. Please try again.')
