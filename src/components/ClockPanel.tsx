@@ -88,10 +88,6 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
           } : undefined}>
             <button
               className="search-toggle-btn"
-              onClick={() => {
-                setSearchExpanded(true)
-                searchInputRef.current?.click()
-              }}
               aria-label="Open search"
             >
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
