@@ -27,6 +27,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
   const [showResults, setShowResults] = useState(false)
   const [searchExpanded, setSearchExpanded] = useState(false)
   const searchContainerRef = useRef<HTMLDivElement>(null)
+  const searchInputRef = useRef<HTMLInputElement>(null)
   const [hours, minutes] = data.displayTime.split(':').map(Number)
   const totalMinutes = hours * 60 + minutes
   const minuteAngle = (angleForMinutes(totalMinutes, 60) * 180) / Math.PI
@@ -87,7 +88,10 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
           } : undefined}>
             <button
               className="search-toggle-btn"
-              onClick={() => setSearchExpanded(true)}
+              onClick={() => {
+                setSearchExpanded(true)
+                setTimeout(() => searchInputRef.current?.focus(), 0)
+              }}
               aria-label="Open search"
             >
               <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -96,6 +100,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
               </svg>
             </button>
             <input
+              ref={searchInputRef}
               type="text"
               className="search-input"
               placeholder="Search occupations..."
