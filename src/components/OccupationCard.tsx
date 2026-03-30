@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react'
-import html2canvas from 'html2canvas'
+import { toBlob } from 'html-to-image'
 import type { OccupationItem } from '../types'
 
 type OccupationCardProps = {
@@ -42,26 +42,33 @@ export default function OccupationCard({ occupation, onClose }: OccupationCardPr
     try {
       await new Promise(resolve => setTimeout(resolve, 50))
 
-      const canvas = await html2canvas(captureArea, {
+      const blob = await toBlob(captureArea, {
+        pixelRatio: 2,
+        cacheBust: true,
         backgroundColor: '#0c0c0c',
-        scale: 2,
-        logging: false,
-        useCORS: true,
-        windowWidth: captureArea.scrollWidth,
-        windowHeight: captureArea.scrollHeight
       })
 
-      const blob = await new Promise<Blob | null>(resolve => canvas.toBlob(resolve, 'image/png'))
       if (!blob) throw new Error('Failed to generate image')
 
+      const fileName = `${occupation.title.replace(/\s+/g, '-')}.png`
+
+      // Try Web Share API first (best mobile support)
+      if (navigator.share && navigator.canShare) {
+        const file = new File([blob], fileName, { type: 'image/png' })
+        if (navigator.canShare({ files: [file] })) {
+          try {
+            await navigator.share({ files: [file], title: occupation.title })
+            return
+          } catch {
+            // User cancelled share, fall through
+          }
+        }
+      }
+
+      // Fallback: open image in new tab (works on all browsers)
       const url = URL.createObjectURL(blob)
-      const link = document.createElement('a')
-      link.download = `${occupation.title.replace(/\s+/g, '-')}.png`
-      link.href = url
-      document.body.appendChild(link)
-      link.click()
-      document.body.removeChild(link)
-      setTimeout(() => URL.revokeObjectURL(url), 1000)
+      window.open(url, '_blank')
+      setTimeout(() => URL.revokeObjectURL(url), 60000)
     } catch (error) {
       console.error('Failed to save image:', error)
       alert('Failed to generate image. Please try again.')
