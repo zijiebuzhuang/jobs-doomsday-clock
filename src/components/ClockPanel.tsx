@@ -50,6 +50,17 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
   }, [openModal])
 
   useEffect(() => {
+    if (searchExpanded) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = ''
+    }
+    return () => {
+      document.body.style.overflow = ''
+    }
+  }, [searchExpanded])
+
+  useEffect(() => {
     if (searchQuery.trim().length < 2) {
       setSearchResults([])
       setShowResults(false)
