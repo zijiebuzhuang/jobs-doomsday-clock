@@ -90,11 +90,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
               className="search-toggle-btn"
               onClick={() => {
                 setSearchExpanded(true)
-                requestAnimationFrame(() => {
-                  requestAnimationFrame(() => {
-                    searchInputRef.current?.focus()
-                  })
-                })
+                searchInputRef.current?.click()
               }}
               aria-label="Open search"
             >
