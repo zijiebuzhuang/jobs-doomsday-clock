@@ -34,10 +34,16 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
   const hourAngle = (angleForMinutes(totalMinutes, 720) * 180) / Math.PI
 
   useEffect(() => {
-    if (!openModal) return
+    const shouldLock = !!openModal || searchExpanded
+    if (!shouldLock) return
 
     const onKeyDown = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') setOpenModal(null)
+      if (event.key === 'Escape') {
+        setOpenModal(null)
+        setSearchExpanded(false)
+        setSearchQuery('')
+        setShowResults(false)
+      }
     }
 
     document.body.style.overflow = 'hidden'
@@ -47,18 +53,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
       document.body.style.overflow = ''
       window.removeEventListener('keydown', onKeyDown)
     }
-  }, [openModal])
-
-  useEffect(() => {
-    if (searchExpanded) {
-      document.body.style.overflow = 'hidden'
-    } else {
-      document.body.style.overflow = ''
-    }
-    return () => {
-      document.body.style.overflow = ''
-    }
-  }, [searchExpanded])
+  }, [openModal, searchExpanded])
 
   useEffect(() => {
     if (searchQuery.trim().length < 2) {
