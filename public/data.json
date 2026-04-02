@@ -1,8 +1,8 @@
 {
-  "displayTime": "23:48",
-  "minutesToMidnight": 12,
+  "displayTime": "23:50",
+  "minutesToMidnight": 10,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -1.5,
+  "newsAdjustment": -2.6,
   "replacementRate": 49.1,
   "totalJobs": 143066500,
   "occupationCount": 341,
@@ -3079,6 +3079,22 @@
   ],
   "newsFeed": [
     {
+      "id": "ai-can-push-your-stream-deck-buttons-for-you",
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "AI assistants can now automate interactions with Stream Deck devices, potentially reducing the need for manual input in certain workflows.",
+      "date": "2026-04-01",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI automation",
+        "job replacement",
+        "software integration"
+      ],
+      "fetchedAt": "2026-04-02T11:10:51.470Z"
+    },
+    {
       "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
       "title": "OpenAI Releases GPT-5 with Autonomous Agent Capabilities",
       "summary": "GPT-5 can now autonomously complete multi-step work tasks, significantly increasing AI's ability to replace routine knowledge work.",
@@ -3093,6 +3109,22 @@
         "knowledge work"
       ],
       "fetchedAt": "2026-04-02T00:00:00.000Z"
+    },
+    {
+      "id": "the-download-ai-health-tools-and-the-pentagon-s-anthropic-culture-war",
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "summary": "The increasing development of AI health tools by major tech companies suggests a growing trend of AI integration into the healthcare sector, potentially leading to job displacement in that field.",
+      "date": "2026-03-31",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI health tools",
+        "job displacement",
+        "tech adoption"
+      ],
+      "fetchedAt": "2026-04-02T11:10:49.713Z"
     },
     {
       "id": "eu-passes-ai-workplace-protection-act",
@@ -3111,6 +3143,23 @@
       "fetchedAt": "2026-04-02T00:00:00.000Z"
     },
     {
+      "id": "all-the-latest-in-ai-8216-music-8217-",
+      "title": "All the latest in AI &#8216;music&#8217;",
+      "summary": "The article highlights challenges and ethical concerns around AI-generated music, suggesting potential delays in its widespread adoption and impact on human jobs.",
+      "date": "2026-03-30",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI in music",
+        "job displacement",
+        "ethical concerns",
+        "industry challenges"
+      ],
+      "fetchedAt": "2026-04-02T11:10:53.992Z"
+    },
+    {
       "id": "google-automates-40-percent-of-code-review",
       "title": "Google Automates 40% of Internal Code Review with AI",
       "summary": "Google reports that AI now handles 40% of code reviews internally, reducing the need for junior developer roles in QA.",
@@ -3125,6 +3174,22 @@
         "Google"
       ],
       "fetchedAt": "2026-04-02T00:00:00.000Z"
+    },
+    {
+      "id": "bluesky-s-new-app-is-an-ai-for-customizing-your-feed",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "summary": "An AI tool that allows users to customize their social media feed may contribute to the broader adoption of AI in personal and professional workflows, potentially accelerating AI's role in replacing certain job functions.",
+      "date": "2026-03-29",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI customization",
+        "social media",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-02T11:10:55.193Z"
     },
     {
       "id": "study-shows-ai-creates-more-jobs-than-it-displaces",
@@ -3175,5 +3240,5 @@
       "fetchedAt": "2026-04-02T00:00:00.000Z"
     }
   ],
-  "generatedAt": "2026-04-02T10:39:00.606Z"
+  "generatedAt": "2026-04-02T11:11:15.781Z"
 }

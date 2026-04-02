@@ -1,6 +1,5 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import Parser from 'rss-parser'
-import { GoogleGenAI } from '@google/genai'
 
 const RSS_FEEDS = [
   { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
@@ -72,7 +71,28 @@ async function fetchRSSFeeds() {
   return allItems
 }
 
-async function classifyWithGemini(ai, articles) {
+async function callLLM(apiKey, prompt) {
+  const res = await fetch('https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: 'qwen-turbo',
+      messages: [{ role: 'user', content: prompt }],
+      response_format: { type: 'json_object' },
+    }),
+  })
+  if (!res.ok) {
+    const body = await res.text()
+    throw new Error(`${res.status} ${body}`)
+  }
+  const data = await res.json()
+  return data.choices[0].message.content
+}
+
+async function classifyArticles(apiKey, articles) {
   const classified = []
 
   for (const article of articles) {
@@ -91,15 +111,7 @@ Respond with ONLY valid JSON (no markdown):
   "tags": ["tag1", "tag2"]
 }`
 
-      const response = await ai.models.generateContent({
-        model: 'gemini-2.0-flash',
-        contents: prompt,
-        config: {
-          responseMimeType: 'application/json',
-        }
-      })
-
-      const text = response.text.trim()
+      const text = (await callLLM(apiKey, prompt)).trim()
       const parsed = JSON.parse(text)
 
       if (!parsed.relevant) {
@@ -154,16 +166,15 @@ async function main() {
     return
   }
 
-  // 4. Classify with Gemini
-  const apiKey = process.env.GEMINI_API_KEY
+  // 4. Classify with Dashscope (Qwen)
+  const apiKey = process.env.DASHSCOPE_API_KEY
   if (!apiKey) {
-    console.error('Error: GEMINI_API_KEY environment variable is required')
+    console.error('Error: DASHSCOPE_API_KEY environment variable is required')
     process.exit(1)
   }
 
-  console.log('Step 2: Classifying with Gemini API...')
-  const ai = new GoogleGenAI({ apiKey })
-  const classified = await classifyWithGemini(ai, fresh.slice(0, 15))
+  console.log('Step 2: Classifying with Qwen API...')
+  const classified = await classifyArticles(apiKey, fresh.slice(0, 15))
   console.log(`\nClassified: ${classified.length} articles`)
 
   // 5. Merge with existing feed
