@@ -8,7 +8,7 @@ export type OccupationItem = {
   outlookDesc?: string
 }
 
-export type ReferenceNewsItem = {
+export type NewsFeedItem = {
   id: string
   title: string
   summary: string
@@ -16,19 +16,20 @@ export type ReferenceNewsItem = {
   source: string
   sourceUrl: string
   effect: 'advance' | 'delay'
-  contributionType: 'slow_variable' | 'shock'
-  impactLabel: string
+  impactScore: number
   tags: string[]
-  reviewStatus?: string
+  fetchedAt: string
 }
 
 export type ClockData = {
   displayTime: string
   minutesToMidnight: number
+  baseMinutesToMidnight: number
+  newsAdjustment: number
   replacementRate: number
   totalJobs: number
   occupationCount: number
   occupations: OccupationItem[]
-  referenceNews: ReferenceNewsItem[]
+  newsFeed: NewsFeedItem[]
   generatedAt: string
 }

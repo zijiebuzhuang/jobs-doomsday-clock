@@ -1,0 +1,74 @@
+[
+  {
+    "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
+    "title": "OpenAI Releases GPT-5 with Autonomous Agent Capabilities",
+    "summary": "GPT-5 can now autonomously complete multi-step work tasks, significantly increasing AI's ability to replace routine knowledge work.",
+    "date": "2026-04-01",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/example",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": ["AI capability", "agents", "knowledge work"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "eu-passes-ai-workplace-protection-act",
+    "title": "EU Passes AI Workplace Protection Act Requiring Human Oversight",
+    "summary": "New EU regulation mandates human oversight for AI systems used in hiring and workplace decisions, slowing automated replacement.",
+    "date": "2026-03-31",
+    "source": "Ars Technica - AI",
+    "sourceUrl": "https://arstechnica.com/example",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": ["regulation", "EU", "worker protection"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "google-automates-40-percent-of-code-review",
+    "title": "Google Automates 40% of Internal Code Review with AI",
+    "summary": "Google reports that AI now handles 40% of code reviews internally, reducing the need for junior developer roles in QA.",
+    "date": "2026-03-30",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://technologyreview.com/example",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": ["software engineering", "automation", "Google"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "study-shows-ai-creates-more-jobs-than-it-displaces",
+    "title": "Stanford Study: AI Creates 1.2 Jobs for Every Job It Displaces",
+    "summary": "New research suggests AI is creating new job categories faster than it eliminates existing ones, particularly in AI oversight roles.",
+    "date": "2026-03-29",
+    "source": "Google News - AI Jobs",
+    "sourceUrl": "https://news.example.com",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": ["research", "job creation", "Stanford"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "amazon-replaces-customer-service-team-with-ai",
+    "title": "Amazon Replaces 2,000 Customer Service Roles with AI Chatbots",
+    "summary": "Amazon transitions customer service operations to AI, affecting 2,000 positions across North American fulfillment centers.",
+    "date": "2026-03-28",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://theverge.com/example",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": ["layoffs", "customer service", "Amazon"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "anthropic-claude-passes-bar-exam-with-top-scores",
+    "title": "Anthropic's Claude Passes Bar Exam with Top 1% Score",
+    "summary": "Claude achieves a top 1% score on the bar examination, raising questions about the future of legal research and junior associate roles.",
+    "date": "2026-03-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/example2",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": ["legal", "benchmarks", "Anthropic"],
+    "fetchedAt": "2026-04-02T00:00:00.000Z"
+  }
+]

@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import type { OccupationItem } from '../types'
 
 type OccupationListProps = {
@@ -5,11 +6,20 @@ type OccupationListProps = {
 }
 
 export default function OccupationList({ occupations }: OccupationListProps) {
+  const [visibleCount, setVisibleCount] = useState(9)
+
+  const visibleOccupations = occupations.slice(0, visibleCount)
+  const hasMore = visibleCount < occupations.length
+
+  const handleShowMore = () => {
+    setVisibleCount(prev => Math.min(prev + 9, occupations.length))
+  }
+
   return (
     <section className="occupation-section">
       <h2 className="section-title">Occupational Exposure</h2>
       <div className="occupation-grid">
-        {occupations.map((occ) => (
+        {visibleOccupations.map((occ) => (
           <article key={occ.title} className="occupation-card">
             <div className="occupation-card-header">
               <span className="occupation-exposure">Exposure {occ.exposure}/10</span>
@@ -32,6 +42,16 @@ export default function OccupationList({ occupations }: OccupationListProps) {
           </article>
         ))}
       </div>
+      {hasMore && (
+        <div className="news-feed-more">
+          <button
+            className="news-feed-more-btn"
+            onClick={handleShowMore}
+          >
+            Show more occupations ({occupations.length - visibleCount} hidden)
+          </button>
+        </div>
+      )}
     </section>
   )
 }

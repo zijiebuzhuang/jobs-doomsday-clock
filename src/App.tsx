@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import ClockPanel from './components/ClockPanel'
+import NewsFeed from './components/NewsFeed'
 import OccupationList from './components/OccupationList'
-import ReferenceNewsList from './components/ReferenceNewsList'
 import SiteFooter from './components/SiteFooter'
 import OccupationCard from './components/OccupationCard'
 import type { ClockData, OccupationItem } from './types'
@@ -24,8 +24,10 @@ export default function App() {
   return (
     <main className="app-shell">
       <ClockPanel data={data} onOccupationSelect={setSelectedOccupation} />
+      {data.newsFeed && data.newsFeed.length > 0 && (
+        <NewsFeed items={data.newsFeed} newsAdjustment={data.newsAdjustment} generatedAt={data.generatedAt} />
+      )}
       <OccupationList occupations={data.occupations} />
-      <ReferenceNewsList items={data.referenceNews} />
       <SiteFooter />
       {selectedOccupation && (
         <OccupationCard occupation={selectedOccupation} onClose={() => setSelectedOccupation(null)} />
