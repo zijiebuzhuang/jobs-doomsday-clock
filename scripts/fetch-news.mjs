@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import Parser from 'rss-parser'
-import Anthropic from '@anthropic-ai/sdk'
+import { GoogleGenAI } from '@google/genai'
 
 const RSS_FEEDS = [
   { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
@@ -72,17 +72,12 @@ async function fetchRSSFeeds() {
   return allItems
 }
 
-async function classifyWithClaude(client, articles) {
+async function classifyWithGemini(ai, articles) {
   const classified = []
 
   for (const article of articles) {
     try {
-      const response = await client.messages.create({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 300,
-        messages: [{
-          role: 'user',
-          content: `You are an AI labor market analyst. Analyze this news headline and snippet, then classify its impact on "AI replacing human jobs".
+      const prompt = `You are an AI labor market analyst. Analyze this news headline and snippet, then classify its impact on "AI replacing human jobs".
 
 Title: ${article.title}
 Snippet: ${article.contentSnippet?.slice(0, 500) || 'N/A'}
@@ -95,10 +90,16 @@ Respond with ONLY valid JSON (no markdown):
   "summary": "One sentence summary of the impact",
   "tags": ["tag1", "tag2"]
 }`
-        }]
+
+      const response = await ai.models.generateContent({
+        model: 'gemini-1.5-flash',
+        contents: prompt,
+        config: {
+          responseMimeType: 'application/json',
+        }
       })
 
-      const text = response.content[0].text.trim()
+      const text = response.text.trim()
       const parsed = JSON.parse(text)
 
       if (!parsed.relevant) {
@@ -153,16 +154,16 @@ async function main() {
     return
   }
 
-  // 4. Classify with Claude
-  const apiKey = process.env.ANTHROPIC_API_KEY
+  // 4. Classify with Gemini
+  const apiKey = process.env.GEMINI_API_KEY
   if (!apiKey) {
-    console.error('Error: ANTHROPIC_API_KEY environment variable is required')
+    console.error('Error: GEMINI_API_KEY environment variable is required')
     process.exit(1)
   }
 
-  console.log('Step 2: Classifying with Claude API...')
-  const client = new Anthropic({ apiKey })
-  const classified = await classifyWithClaude(client, fresh.slice(0, 15))
+  console.log('Step 2: Classifying with Gemini API...')
+  const ai = new GoogleGenAI({ apiKey })
+  const classified = await classifyWithGemini(ai, fresh.slice(0, 15))
   console.log(`\nClassified: ${classified.length} articles`)
 
   // 5. Merge with existing feed
