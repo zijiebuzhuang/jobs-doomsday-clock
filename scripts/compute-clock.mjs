@@ -40,9 +40,18 @@ if (isCI) {
 }
 
 const replacementRate = baseData.replacementRate
+
+// Map replacement rate to minutes-to-midnight.
+// 14.4 = 720 / 50: maps 0–50% range evenly onto a 12-hour clock face.
+// At current ~49.1% rate → ~13 min to midnight → 23:47.
 const baseMinutesToMidnight = baseData.baseMinutesToMidnight ?? Math.round((50 - replacementRate) * 14.4)
 
 // --- News-based clock adjustment ---
+// Each day's news can shift the clock by a small amount.
+// With impactScore 1-5, factor 0.01, decay over 30 days, and
+// a ±0.5 min cap, the clock oscillates gently around its base.
+// 13 min base ÷ 0.5 cap = 26 full news cycles (~2+ years) to
+// theoretically reach midnight under sustained max-advance pressure.
 let newsAdjustment = 0
 let newsFeed = []
 
@@ -59,7 +68,7 @@ if (existsSync(newsFeedPath)) {
   for (const item of recentNews) {
     const daysSince = (now - new Date(item.date)) / (1000 * 60 * 60 * 24)
     const decay = Math.max(0, 1 - daysSince / 30)
-    const impact = (item.impactScore || 1) * 0.2 * decay
+    const impact = (item.impactScore || 1) * 0.01 * decay
 
     if (item.effect === 'advance') {
       newsAdjustment -= impact
@@ -68,16 +77,19 @@ if (existsSync(newsFeedPath)) {
     }
   }
 
-  newsAdjustment = Math.max(-3, Math.min(3, newsAdjustment))
-  newsAdjustment = Math.round(newsAdjustment * 10) / 10
+  newsAdjustment = Math.max(-0.5, Math.min(0.5, newsAdjustment))
+  // Keep 3 decimal places so seconds are meaningful
+  newsAdjustment = Math.round(newsAdjustment * 1000) / 1000
 }
 
 // --- Compute final clock ---
-const minutesToMidnight = Math.round(baseMinutesToMidnight + newsAdjustment)
-const wallClockMinutes = (1440 - minutesToMidnight + 1440) % 1440
-const hours = Math.floor(wallClockMinutes / 60)
-const minutes = wallClockMinutes % 60
-const displayTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}`
+const exactMinutesToMidnight = baseMinutesToMidnight + newsAdjustment
+const minutesToMidnight = Math.round(exactMinutesToMidnight)
+const wallClockTotalSeconds = Math.round((1440 - exactMinutesToMidnight) * 60)
+const hours = Math.floor((wallClockTotalSeconds / 3600) % 24)
+const minutes = Math.floor((wallClockTotalSeconds % 3600) / 60)
+const seconds = wallClockTotalSeconds % 60
+const displayTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`
 
 // --- Output ---
 const output = {

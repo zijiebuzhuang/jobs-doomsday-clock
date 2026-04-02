@@ -1,8 +1,8 @@
 {
-  "displayTime": "23:50",
-  "minutesToMidnight": 10,
+  "displayTime": "23:47:10",
+  "minutesToMidnight": 13,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3,
+  "newsAdjustment": -0.162,
   "replacementRate": 49.1,
   "totalJobs": 143066500,
   "occupationCount": 341,
@@ -3321,5 +3321,5 @@
       "fetchedAt": "2026-04-02T11:37:19.788Z"
     }
   ],
-  "generatedAt": "2026-04-02T11:37:23.465Z"
+  "generatedAt": "2026-04-02T12:24:04.291Z"
 }

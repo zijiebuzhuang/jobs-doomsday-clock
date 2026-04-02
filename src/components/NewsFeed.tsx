@@ -33,8 +33,10 @@ function timeAgo(dateStr: string): string {
 
 function formatAdjustment(adj: number): string {
   if (adj === 0) return 'No change'
-  const sign = adj > 0 ? '+' : ''
-  return `${sign}${adj.toFixed(1)} min`
+  const totalSeconds = Math.round(adj * 60)
+  if (totalSeconds === 0) return 'No change'
+  const sign = totalSeconds > 0 ? '+' : ''
+  return `${sign}${totalSeconds} sec`
 }
 
 const IMPACT_LABELS = ['', 'Minor signal', 'Moderate signal', 'Notable signal', 'Major signal', 'Critical signal']

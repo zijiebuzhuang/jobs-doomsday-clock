@@ -552,6 +552,12 @@ body::-webkit-scrollbar-thumb:hover,
   fill: #050505;
 }
 
+.clock-second-hand {
+  stroke: #c0392b;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+}
+
 .clock-readout {
   text-align: center;
 }
