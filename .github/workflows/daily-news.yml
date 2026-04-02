@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch and classify news
         env:
-          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
         run: node scripts/fetch-news.mjs
 
       - name: Recompute clock with news adjustment
