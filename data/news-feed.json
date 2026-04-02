@@ -8,7 +8,11 @@
     "sourceUrl": "https://techcrunch.com/example",
     "effect": "advance",
     "impactScore": 4,
-    "tags": ["AI capability", "agents", "knowledge work"],
+    "tags": [
+      "AI capability",
+      "agents",
+      "knowledge work"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -20,7 +24,11 @@
     "sourceUrl": "https://arstechnica.com/example",
     "effect": "delay",
     "impactScore": 3,
-    "tags": ["regulation", "EU", "worker protection"],
+    "tags": [
+      "regulation",
+      "EU",
+      "worker protection"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -32,7 +40,11 @@
     "sourceUrl": "https://technologyreview.com/example",
     "effect": "advance",
     "impactScore": 3,
-    "tags": ["software engineering", "automation", "Google"],
+    "tags": [
+      "software engineering",
+      "automation",
+      "Google"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -44,7 +56,11 @@
     "sourceUrl": "https://news.example.com",
     "effect": "delay",
     "impactScore": 2,
-    "tags": ["research", "job creation", "Stanford"],
+    "tags": [
+      "research",
+      "job creation",
+      "Stanford"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -56,7 +72,11 @@
     "sourceUrl": "https://theverge.com/example",
     "effect": "advance",
     "impactScore": 4,
-    "tags": ["layoffs", "customer service", "Amazon"],
+    "tags": [
+      "layoffs",
+      "customer service",
+      "Amazon"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -68,7 +88,11 @@
     "sourceUrl": "https://techcrunch.com/example2",
     "effect": "advance",
     "impactScore": 3,
-    "tags": ["legal", "benchmarks", "Anthropic"],
+    "tags": [
+      "legal",
+      "benchmarks",
+      "Anthropic"
+    ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   }
 ]
