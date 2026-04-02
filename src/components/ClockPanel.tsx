@@ -32,10 +32,12 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
   const hours = timeParts[0]
   const minutes = timeParts[1]
   const seconds = timeParts[2] || 0
+  const totalSecondsToMidnight = (24 * 3600) - (hours * 3600 + minutes * 60 + seconds)
+  const minsToMidnight = Math.floor(totalSecondsToMidnight / 60)
+  const secsToMidnight = totalSecondsToMidnight % 60
   const totalMinutes = hours * 60 + minutes + seconds / 60
   const minuteAngle = (angleForMinutes(totalMinutes, 60) * 180) / Math.PI
   const hourAngle = (angleForMinutes(totalMinutes, 720) * 180) / Math.PI
-  const secondAngle = (seconds / 60) * 360
 
   useEffect(() => {
     const shouldLock = !!openModal || searchExpanded
@@ -156,7 +158,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
               <g transform={`rotate(${minuteAngle} 200 200)`}>
                 <polygon points="196,52 204,52 209,214 191,214" className="clock-minute-hand" />
               </g>
-              <g transform={`rotate(${secondAngle} 200 200)`}>
+              <g transform={`rotate(${(seconds / 60) * 360} 200 200)`}>
                 <line x1="200" y1="60" x2="200" y2="220" className="clock-second-hand" />
               </g>
               <circle cx="200" cy="200" r="5" className="clock-center-hub" />
@@ -167,7 +169,7 @@ export default function ClockPanel({ data, onOccupationSelect }: ClockPanelProps
         <div className="clock-readout">
           <h1>{data.displayTime}</h1>
           <div className="time-context">
-            {data.minutesToMidnight} min {seconds > 0 ? `${seconds} sec ` : ''}to midnight
+            {minsToMidnight} min {secsToMidnight > 0 ? `${secsToMidnight} sec ` : ''}to midnight
           </div>
           <button
             type="button"
