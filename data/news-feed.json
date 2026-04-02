@@ -32,6 +32,38 @@
     "fetchedAt": "2026-04-02T00:00:00.000Z"
   },
   {
+    "id": "anthropic-is-having-a-month",
+    "title": "Anthropic is having a month",
+    "summary": "A human error at Anthropic suggests that AI is not yet fully reliable, potentially slowing the replacement of human jobs by AI.",
+    "date": "2026-03-31",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "AI reliability",
+      "human error",
+      "job replacement"
+    ],
+    "fetchedAt": "2026-04-02T11:37:22.536Z"
+  },
+  {
+    "id": "openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise",
+    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "summary": "This funding round indicates growing investment in AI, which could accelerate the development of AI technologies that may replace human jobs.",
+    "date": "2026-03-31",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI funding",
+      "job displacement",
+      "technological advancement"
+    ],
+    "fetchedAt": "2026-04-02T11:37:23.416Z"
+  },
+  {
     "id": "the-download-ai-health-tools-and-the-pentagon-s-anthropic-culture-war",
     "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
     "summary": "The increasing development of AI health tools by major tech companies suggests a growing trend of AI integration into the healthcare sector, potentially leading to job displacement in that field.",
@@ -159,5 +191,54 @@
       "Anthropic"
     ],
     "fetchedAt": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "id": "anthropic-identifies-the-jobs-most-exposed-to-ai-risks-is-your-occupation-affect",
+    "title": "Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected? - Investopedia",
+    "summary": "The article highlights jobs at risk of AI replacement, increasing awareness and accelerating the conversation around AI's impact on labor.",
+    "date": "2026-03-10",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWpJZ0tROEtLVzZ0V0EtUTBuV2ZwY1otMnV4RjlYd2xTZmtnTHBfTkhoc1dZOUFjOF9fNDhZd1pXNTAxNUYtZF9Eb3F5Tm5XcEp2SHJkcmdPT2ZmdUcxNUQ5UkxlbFBJMUk4SmlxZzF1NS15eUdRdzJiWG12a0tTX1ZFQlQ4ZmdraWpXWG1LWWhOOXlvTFNVeGdLV0p6YWQ5dklMS1dNOUhfNkJpNWJucVRkRFBqaUE?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI job risks",
+      "labor market impact",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-02T11:37:18.883Z"
+  },
+  {
+    "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
+    "title": "Labor market impacts of AI: A new measure and early evidence - Anthropic",
+    "summary": "The research from Anthropic provides new insights into how AI is affecting the labor market, suggesting a growing impact of AI on jobs.",
+    "date": "2026-03-05",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI labor market",
+      "job displacement",
+      "research"
+    ],
+    "fetchedAt": "2026-04-02T11:37:17.168Z"
+  },
+  {
+    "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
+    "title": "Labor market impacts of AI: A new measure and early evidence - Anthropic",
+    "summary": "The research from Anthropic provides new insights into how AI affects the labor market, suggesting a significant advancement in understanding AI's role in job replacement.",
+    "date": "2026-03-05",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI impact",
+      "labor market",
+      "job displacement",
+      "research"
+    ],
+    "fetchedAt": "2026-04-02T11:37:19.788Z"
   }
 ]
