@@ -1,5 +1,53 @@
 [
   {
+    "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
+    "title": "It’s not easy to get depression-detecting AI through the FDA",
+    "summary": "The failure of a depression-detecting AI to gain FDA approval may slow the adoption of AI in healthcare, potentially delaying its impact on jobs in that sector.",
+    "date": "2026-04-02",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "healthcare technology",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-03T02:06:17.637Z"
+  },
+  {
+    "id": "microsoft-s-new-superintelligence-game-plan-is-all-about-business",
+    "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+    "summary": "Microsoft's focus on superintelligence suggests increased investment in advanced AI, potentially accelerating AI's role in replacing human jobs.",
+    "date": "2026-04-02",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI Development",
+      "Job Displacement",
+      "Corporate Strategy"
+    ],
+    "fetchedAt": "2026-04-03T02:06:18.853Z"
+  },
+  {
+    "id": "google-home-s-latest-update-makes-gemini-better-at-understanding-your-commands",
+    "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+    "summary": "Improved AI understanding of natural language could lead to more efficient automation, potentially replacing human roles in smart home management and customer service.",
+    "date": "2026-04-02",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI advancement",
+      "automation",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-03T02:06:20.135Z"
+  },
+  {
     "id": "ai-can-push-your-stream-deck-buttons-for-you",
     "title": "AI can push your Stream Deck buttons for you",
     "summary": "AI assistants can now automate interactions with Stream Deck devices, potentially reducing the need for manual input in certain workflows.",
@@ -207,6 +255,37 @@
       "job displacement"
     ],
     "fetchedAt": "2026-04-02T11:37:18.883Z"
+  },
+  {
+    "id": "ai-jobs-vs-human-jobs-anthropic-study-reveals-roles-ai-could-replace-and-jobs-al",
+    "title": "AI Jobs vs Human Jobs: Anthropic Study Reveals Roles AI Could Replace and Jobs Already Automated - sundayguardianlive.com",
+    "summary": "A study by Anthropic highlights the roles AI can replace and jobs already automated, indicating progress in AI's impact on labor markets.",
+    "date": "2026-03-09",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHVuS0xaZW1yaWk4ZnA4YktKQWgtUDBXcWJ6aXZCTktrdTJpVDN3RFd3ZnBrdmtYTXYtOUh5VWxlZkxQVFQyZ0M3LU14YXVtV2ZSU0xwaXctSnpNYU81Wm1FT0tCMFBkTmdPQzB3ZEw0ODFDaDFrR2xlYWl4dWYyQURZLVlQY243UTRTSTZ4OXE0c3RCQk1yRGhVWGl0SG9pcndIaEdGLWdFYkFsT2tHOUZzT0k0NzhFc0dVd0E1czlQanlzWUdUdGJUWEVVWW9UMXJDT1hXT05QUEgy?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI job replacement",
+      "labor market analysis",
+      "automation trends"
+    ],
+    "fetchedAt": "2026-04-03T02:06:12.742Z"
+  },
+  {
+    "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
+    "title": "Anthropic finally reveals which jobs AI cannot replace - thestreet.com",
+    "summary": "The article highlights jobs that AI cannot replace, suggesting limitations in AI's ability to take over certain roles.",
+    "date": "2026-03-08",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXZuMFBoQnNjblhlenQ3c0pqN3FuSzZrNlpfcVN0YkN5TTJGOGEwRGoycWVCLWJSSHhWYTlaWWwySmJLSjhRNHVpR042a3lUa1l2a0twYThTN1QtVkNnZTdYaEZXNlpjVi1qTFplRENKYzYtZGloZDBsT0xpMmR0amxBVXNFWURCQk52blRmd1BHdw?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI limitations",
+      "job replacement"
+    ],
+    "fetchedAt": "2026-04-03T02:06:11.218Z"
   },
   {
     "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
