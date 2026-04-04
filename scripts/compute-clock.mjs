@@ -1,6 +1,19 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 
 const isCI = process.env.CI === 'true'
+const MS_PER_DAY = 24 * 60 * 60 * 1000
+const ADVANCE_IMPACT_FACTOR = 0.01
+const DELAY_IMPACT_FACTOR = 0.0095
+
+function startOfShanghaiDay(value) {
+  const date = new Date(value)
+  const shifted = new Date(date.getTime() + 8 * 60 * 60 * 1000)
+  return Date.UTC(
+    shifted.getUTCFullYear(),
+    shifted.getUTCMonth(),
+    shifted.getUTCDate()
+  )
+}
 
 // --- Load base data ---
 let baseData
@@ -47,11 +60,10 @@ const replacementRate = baseData.replacementRate
 const baseMinutesToMidnight = baseData.baseMinutesToMidnight ?? Math.round((50 - replacementRate) * 14.4)
 
 // --- News-based clock adjustment ---
-// Each day's news can shift the clock by a small amount.
-// With impactScore 1-5, factor 0.01, decay over 30 days, and
-// a ±0.5 min cap, the clock oscillates gently around its base.
-// 13 min base ÷ 0.5 cap = 26 full news cycles (~2+ years) to
-// theoretically reach midnight under sustained max-advance pressure.
+// News impact decays by whole day in Asia/Shanghai so the clock does not
+// drift within the same day. Delay signals are weighted slightly lower than
+// advance signals so repeated mixed news does not steadily pull the clock
+// away from midnight.
 let newsAdjustment = 0
 let newsFeed = []
 
@@ -59,16 +71,15 @@ const newsFeedPath = 'data/news-feed.json'
 if (existsSync(newsFeedPath)) {
   newsFeed = JSON.parse(readFileSync(newsFeedPath, 'utf-8'))
 
-  const now = new Date()
-  const thirtyDaysAgo = new Date()
-  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30)
+  const today = startOfShanghaiDay(new Date())
 
-  const recentNews = newsFeed.filter(item => new Date(item.date) >= thirtyDaysAgo)
+  for (const item of newsFeed) {
+    const daysSince = (today - startOfShanghaiDay(item.date)) / MS_PER_DAY
+    if (daysSince < 0 || daysSince > 30) continue
 
-  for (const item of recentNews) {
-    const daysSince = (now - new Date(item.date)) / (1000 * 60 * 60 * 24)
     const decay = Math.max(0, 1 - daysSince / 30)
-    const impact = (item.impactScore || 1) * 0.01 * decay
+    const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
+    const impact = (item.impactScore || 1) * factor * decay
 
     if (item.effect === 'advance') {
       newsAdjustment -= impact
@@ -78,7 +89,6 @@ if (existsSync(newsFeedPath)) {
   }
 
   newsAdjustment = Math.max(-0.5, Math.min(0.5, newsAdjustment))
-  // Keep 3 decimal places so seconds are meaningful
   newsAdjustment = Math.round(newsAdjustment * 1000) / 1000
 }
 
