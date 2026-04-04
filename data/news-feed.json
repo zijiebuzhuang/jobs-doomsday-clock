@@ -1,5 +1,54 @@
 [
   {
+    "id": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "summary": "The acquisition of Coefficient Bio by Anthropic indicates growing investment in AI-driven biotech, potentially accelerating AI's role in job replacement across the sector.",
+    "date": "2026-04-03",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI investment",
+      "job replacement",
+      "biotech",
+      "acquisition"
+    ],
+    "fetchedAt": "2026-04-04T00:00:38.857Z"
+  },
+  {
+    "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
+    "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
+    "summary": "The initiative aims to prepare the workforce for AI, potentially slowing the replacement of human jobs by focusing on upskilling and accessibility.",
+    "date": "2026-04-02",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI workforce development",
+      "labor policy",
+      "job training"
+    ],
+    "fetchedAt": "2026-04-04T00:00:34.646Z"
+  },
+  {
+    "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
+    "title": "MIT study challenges AI job apocalypse narrative - Axios",
+    "summary": "The MIT study challenges the idea that AI will cause a significant loss of human jobs, suggesting a more nuanced impact on labor markets.",
+    "date": "2026-04-02",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVG94Sjk3b25lay1GODE5a1AzdmdnbzU5dDhKSloxbkU1N0N0czBvdGcxYWdjcEF3aU1XSU8tU2l0X1BvS213ZW16cVJXQV9yV3FoRGVMX0NMc2g1Z1h2aEJ4SFZQQWJGQzBTd3lmaXl4ZFpIOFE?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI job impact",
+      "labor market analysis",
+      "MIT study"
+    ],
+    "fetchedAt": "2026-04-04T00:00:35.767Z"
+  },
+  {
     "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
     "title": "It’s not easy to get depression-detecting AI through the FDA",
     "summary": "The failure of a depression-detecting AI to gain FDA approval may slow the adoption of AI in healthcare, potentially delaying its impact on jobs in that sector.",
@@ -286,38 +335,5 @@
       "job replacement"
     ],
     "fetchedAt": "2026-04-03T02:06:11.218Z"
-  },
-  {
-    "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
-    "title": "Labor market impacts of AI: A new measure and early evidence - Anthropic",
-    "summary": "The research from Anthropic provides new insights into how AI is affecting the labor market, suggesting a growing impact of AI on jobs.",
-    "date": "2026-03-05",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI labor market",
-      "job displacement",
-      "research"
-    ],
-    "fetchedAt": "2026-04-02T11:37:17.168Z"
-  },
-  {
-    "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
-    "title": "Labor market impacts of AI: A new measure and early evidence - Anthropic",
-    "summary": "The research from Anthropic provides new insights into how AI affects the labor market, suggesting a significant advancement in understanding AI's role in job replacement.",
-    "date": "2026-03-05",
-    "source": "AI Workforce",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI impact",
-      "labor market",
-      "job displacement",
-      "research"
-    ],
-    "fetchedAt": "2026-04-02T11:37:19.788Z"
   }
 ]
