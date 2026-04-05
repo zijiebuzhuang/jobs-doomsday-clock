@@ -1,8 +1,8 @@
 {
-  "displayTime": "23:47:10",
+  "displayTime": "23:47:08",
   "minutesToMidnight": 13,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -0.16,
+  "newsAdjustment": -0.134,
   "replacementRate": 49.1,
   "totalJobs": 143066500,
   "occupationCount": 341,
@@ -3079,6 +3079,22 @@
   ],
   "newsFeed": [
     {
+      "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
+      "date": "2026-04-04",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "effect": "delay",
+      "impactScore": 2,
+      "tags": [
+        "AI costs",
+        "job replacement",
+        "coding tools"
+      ],
+      "fetchedAt": "2026-04-05T00:00:26.956Z"
+    },
+    {
       "id": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
       "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
       "summary": "The acquisition of Coefficient Bio by Anthropic indicates growing investment in AI-driven biotech, potentially accelerating AI's role in job replacement across the sector.",
@@ -3383,23 +3399,7 @@
         "job displacement"
       ],
       "fetchedAt": "2026-04-02T11:37:18.883Z"
-    },
-    {
-      "id": "ai-jobs-vs-human-jobs-anthropic-study-reveals-roles-ai-could-replace-and-jobs-al",
-      "title": "AI Jobs vs Human Jobs: Anthropic Study Reveals Roles AI Could Replace and Jobs Already Automated - sundayguardianlive.com",
-      "summary": "A study by Anthropic highlights the roles AI can replace and jobs already automated, indicating progress in AI's impact on labor markets.",
-      "date": "2026-03-09",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHVuS0xaZW1yaWk4ZnA4YktKQWgtUDBXcWJ6aXZCTktrdTJpVDN3RFd3ZnBrdmtYTXYtOUh5VWxlZkxQVFQyZ0M3LU14YXVtV2ZSU0xwaXctSnpNYU81Wm1FT0tCMFBkTmdPQzB3ZEw0ODFDaDFrR2xlYWl4dWYyQURZLVlQY243UTRTSTZ4OXE0c3RCQk1yRGhVWGl0SG9pcndIaEdGLWdFYkFsT2tHOUZzT0k0NzhFc0dVd0E1czlQanlzWUdUdGJUWEVVWW9UMXJDT1hXT05QUEgy?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI job replacement",
-        "labor market analysis",
-        "automation trends"
-      ],
-      "fetchedAt": "2026-04-03T02:06:12.742Z"
     }
   ],
-  "generatedAt": "2026-04-04T06:38:30.524Z"
+  "generatedAt": "2026-04-05T00:00:28.374Z"
 }

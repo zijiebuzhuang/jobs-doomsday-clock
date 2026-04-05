@@ -1,5 +1,21 @@
 [
   {
+    "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
+    "date": "2026-04-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "AI costs",
+      "job replacement",
+      "coding tools"
+    ],
+    "fetchedAt": "2026-04-05T00:00:26.956Z"
+  },
+  {
     "id": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
     "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
     "summary": "The acquisition of Coefficient Bio by Anthropic indicates growing investment in AI-driven biotech, potentially accelerating AI's role in job replacement across the sector.",
