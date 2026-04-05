@@ -22,6 +22,20 @@ const AI_JOBS_KEYWORDS = [
   'openai', 'anthropic', 'google ai', 'deepmind', 'claude', 'gemini',
 ]
 
+const BLS_CATEGORIES = [
+  'healthcare', 'life-physical-and-social-science', 'architecture-and-engineering',
+  'management', 'business-and-financial', 'construction-and-extraction', 'production',
+  'installation-maintenance-and-repair', 'education-training-and-library',
+  'office-and-administrative-support', 'transportation-and-material-moving',
+  'personal-care-and-service', 'sales', 'media-and-communication',
+  'computer-and-information-technology', 'community-and-social-service',
+  'arts-and-design', 'entertainment-and-sports', 'protective-service',
+  'food-preparation-and-serving', 'legal', 'math', 'farming-fishing-and-forestry',
+  'building-and-grounds-cleaning',
+]
+
+const VALID_CATEGORIES = new Set([...BLS_CATEGORIES, '_all'])
+
 const HISTORY_PATH = 'data/news-history.json'
 const FEED_PATH = 'data/news-feed.json'
 
@@ -102,13 +116,16 @@ async function classifyArticles(apiKey, articles) {
 Title: ${article.title}
 Snippet: ${article.contentSnippet?.slice(0, 500) || 'N/A'}
 
+Here are the BLS occupation categories: ${BLS_CATEGORIES.join(', ')}
+
 Respond with ONLY valid JSON (no markdown):
 {
   "relevant": true/false (is this actually about AI's impact on jobs/labor?),
   "effect": "advance" or "delay" (advance = AI replacing jobs faster, delay = slowing AI job replacement),
   "impactScore": 1-5 (1=minor, 5=major milestone),
   "summary": "One sentence summary of the impact",
-  "tags": ["tag1", "tag2"]
+  "tags": ["tag1", "tag2"],
+  "affectedCategories": ["category-slug-1", "category-slug-2"] (which BLS categories above are most affected by this news? Use "_all" if the article broadly affects all categories. Pick 1-3 most relevant.)
 }`
 
       const text = (await callLLM(apiKey, prompt)).trim()
@@ -118,6 +135,10 @@ Respond with ONLY valid JSON (no markdown):
         console.log(`  ⊘ Not relevant: ${article.title.slice(0, 60)}`)
         continue
       }
+
+      const rawCategories = Array.isArray(parsed.affectedCategories) ? parsed.affectedCategories : ['_all']
+      const affectedCategories = rawCategories.filter(c => VALID_CATEGORIES.has(c))
+      if (affectedCategories.length === 0) affectedCategories.push('_all')
 
       classified.push({
         id: makeId(article.title),
@@ -129,6 +150,7 @@ Respond with ONLY valid JSON (no markdown):
         effect: parsed.effect,
         impactScore: Math.min(5, Math.max(1, parsed.impactScore)),
         tags: parsed.tags || [],
+        affectedCategories,
         fetchedAt: new Date().toISOString(),
       })
 

@@ -27,11 +27,14 @@ jobs:
       - name: Recompute clock with news adjustment
         run: node scripts/compute-clock.mjs
 
+      - name: Save daily history snapshot
+        run: node scripts/save-history.mjs
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ public/data.json
+          git add data/ public/data.json public/clock-history.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

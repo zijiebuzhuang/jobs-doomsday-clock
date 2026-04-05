@@ -92,6 +92,45 @@ if (existsSync(newsFeedPath)) {
   newsAdjustment = Math.round(newsAdjustment * 1000) / 1000
 }
 
+// --- Per-category news adjustments ---
+const BLS_CATEGORIES = [
+  'healthcare', 'life-physical-and-social-science', 'architecture-and-engineering',
+  'management', 'business-and-financial', 'construction-and-extraction', 'production',
+  'installation-maintenance-and-repair', 'education-training-and-library',
+  'office-and-administrative-support', 'transportation-and-material-moving',
+  'personal-care-and-service', 'sales', 'media-and-communication',
+  'computer-and-information-technology', 'community-and-social-service',
+  'arts-and-design', 'entertainment-and-sports', 'protective-service',
+  'food-preparation-and-serving', 'legal', 'math', 'farming-fishing-and-forestry',
+  'building-and-grounds-cleaning',
+]
+
+const categoryAdjustments = {}
+
+if (newsFeed.length > 0) {
+  const today = startOfShanghaiDay(new Date())
+
+  for (const category of BLS_CATEGORIES) {
+    let adj = 0
+    for (const item of newsFeed) {
+      const cats = item.affectedCategories || ['_all']
+      if (!cats.includes(category) && !cats.includes('_all')) continue
+
+      const daysSince = (today - startOfShanghaiDay(item.date)) / MS_PER_DAY
+      if (daysSince < 0 || daysSince > 30) continue
+
+      const decay = Math.max(0, 1 - daysSince / 30)
+      const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
+      const impact = (item.impactScore || 1) * factor * decay
+
+      if (item.effect === 'advance') adj -= impact
+      else if (item.effect === 'delay') adj += impact
+    }
+    adj = Math.max(-0.5, Math.min(0.5, adj))
+    categoryAdjustments[category] = Math.round(adj * 1000) / 1000
+  }
+}
+
 // --- Compute final clock ---
 const exactMinutesToMidnight = baseMinutesToMidnight + newsAdjustment
 const minutesToMidnight = Math.round(exactMinutesToMidnight)
@@ -107,6 +146,7 @@ const output = {
   minutesToMidnight,
   baseMinutesToMidnight,
   newsAdjustment,
+  categoryAdjustments,
   replacementRate,
   totalJobs: baseData.totalJobs,
   occupationCount: baseData.occupationCount,

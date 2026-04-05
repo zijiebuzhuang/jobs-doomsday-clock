@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2026-04-05",
+    "minutesToMidnight": 13,
+    "newsAdjustment": -0.134,
+    "categoryAdjustments": {
+      "healthcare": -0.134,
+      "life-physical-and-social-science": -0.134,
+      "architecture-and-engineering": -0.134,
+      "management": -0.134,
+      "business-and-financial": -0.134,
+      "construction-and-extraction": -0.134,
+      "production": -0.134,
+      "installation-maintenance-and-repair": -0.134,
+      "education-training-and-library": -0.134,
+      "office-and-administrative-support": -0.134,
+      "transportation-and-material-moving": -0.134,
+      "personal-care-and-service": -0.134,
+      "sales": -0.134,
+      "media-and-communication": -0.134,
+      "computer-and-information-technology": -0.134,
+      "community-and-social-service": -0.134,
+      "arts-and-design": -0.134,
+      "entertainment-and-sports": -0.134,
+      "protective-service": -0.134,
+      "food-preparation-and-serving": -0.134,
+      "legal": -0.134,
+      "math": -0.134,
+      "farming-fishing-and-forestry": -0.134,
+      "building-and-grounds-cleaning": -0.134
+    }
+  }
+]
