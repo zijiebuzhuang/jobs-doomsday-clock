@@ -19,6 +19,8 @@ export type NewsFeedItem = {
   impactScore: number
   tags: string[]
   fetchedAt: string
+  categories?: string[]
+  occupationIDs?: string[]
 }
 
 export type ClockData = {
@@ -26,6 +28,7 @@ export type ClockData = {
   minutesToMidnight: number
   baseMinutesToMidnight: number
   newsAdjustment: number
+  categoryAdjustments: Record<string, number>
   replacementRate: number
   totalJobs: number
   occupationCount: number

@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "compute": "node scripts/compute-clock.mjs",
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "save-history": "node scripts/save-history.mjs",
+    "backfill-news": "node scripts/backfill-news.mjs"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",

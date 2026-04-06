@@ -1,5 +1,17 @@
-import { readFileSync, writeFileSync, existsSync } from 'fs'
+import { writeFileSync } from 'fs'
 import Parser from 'rss-parser'
+import { pathToFileURL } from 'url'
+import {
+  BLS_CATEGORIES,
+  HISTORY_WINDOW_DAYS,
+  fetchJSON,
+  loadFeedItems,
+  loadHistorySet,
+  makeId,
+  mergeFeedItems,
+  normalizeFeedItem,
+  saveHistorySet,
+} from './news-pipeline.mjs'
 
 const RSS_FEEDS = [
   { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
@@ -22,40 +34,11 @@ const AI_JOBS_KEYWORDS = [
   'openai', 'anthropic', 'google ai', 'deepmind', 'claude', 'gemini',
 ]
 
-const BLS_CATEGORIES = [
-  'healthcare', 'life-physical-and-social-science', 'architecture-and-engineering',
-  'management', 'business-and-financial', 'construction-and-extraction', 'production',
-  'installation-maintenance-and-repair', 'education-training-and-library',
-  'office-and-administrative-support', 'transportation-and-material-moving',
-  'personal-care-and-service', 'sales', 'media-and-communication',
-  'computer-and-information-technology', 'community-and-social-service',
-  'arts-and-design', 'entertainment-and-sports', 'protective-service',
-  'food-preparation-and-serving', 'legal', 'math', 'farming-fishing-and-forestry',
-  'building-and-grounds-cleaning',
-]
-
-const VALID_CATEGORIES = new Set([...BLS_CATEGORIES, '_all'])
-
-const HISTORY_PATH = 'data/news-history.json'
 const FEED_PATH = 'data/news-feed.json'
 
-function loadHistory() {
-  if (!existsSync(HISTORY_PATH)) return new Set()
-  const data = JSON.parse(readFileSync(HISTORY_PATH, 'utf-8'))
-  return new Set(data)
-}
-
-function saveHistory(history) {
-  writeFileSync(HISTORY_PATH, JSON.stringify([...history], null, 2))
-}
-
-function isRelevant(title, contentSnippet) {
+export function isRelevant(title, contentSnippet) {
   const text = `${title} ${contentSnippet || ''}`.toLowerCase()
-  return AI_JOBS_KEYWORDS.some(kw => text.includes(kw))
-}
-
-function makeId(title) {
-  return title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
+  return AI_JOBS_KEYWORDS.some(keyword => text.includes(keyword))
 }
 
 async function fetchRSSFeeds() {
@@ -86,7 +69,7 @@ async function fetchRSSFeeds() {
 }
 
 async function callLLM(apiKey, prompt) {
-  const res = await fetch('https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions', {
+  const data = await fetchJSON('https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -98,15 +81,15 @@ async function callLLM(apiKey, prompt) {
       response_format: { type: 'json_object' },
     }),
   })
-  if (!res.ok) {
-    const body = await res.text()
-    throw new Error(`${res.status} ${body}`)
+
+  if (!data.choices?.[0]?.message?.content) {
+    throw new Error(data.error?.message || 'Missing completion content')
   }
-  const data = await res.json()
+
   return data.choices[0].message.content
 }
 
-async function classifyArticles(apiKey, articles) {
+export async function classifyArticles(apiKey, articles) {
   const classified = []
 
   for (const article of articles) {
@@ -128,31 +111,25 @@ Respond with ONLY valid JSON (no markdown):
   "affectedCategories": ["category-slug-1", "category-slug-2"] (which BLS categories above are most affected by this news? Use "_all" if the article broadly affects all categories. Pick 1-3 most relevant.)
 }`
 
-      const text = (await callLLM(apiKey, prompt)).trim()
-      const parsed = JSON.parse(text)
-
+      const parsed = JSON.parse((await callLLM(apiKey, prompt)).trim())
       if (!parsed.relevant) {
         console.log(`  ⊘ Not relevant: ${article.title.slice(0, 60)}`)
         continue
       }
 
-      const rawCategories = Array.isArray(parsed.affectedCategories) ? parsed.affectedCategories : ['_all']
-      const affectedCategories = rawCategories.filter(c => VALID_CATEGORIES.has(c))
-      if (affectedCategories.length === 0) affectedCategories.push('_all')
-
-      classified.push({
+      classified.push(normalizeFeedItem({
         id: makeId(article.title),
         title: article.title,
         summary: parsed.summary,
-        date: new Date(article.pubDate || Date.now()).toISOString().split('T')[0],
+        date: article.pubDate || Date.now(),
         source: article.source.replace(/^Google News - /, ''),
         sourceUrl: article.link,
         effect: parsed.effect,
-        impactScore: Math.min(5, Math.max(1, parsed.impactScore)),
+        impactScore: parsed.impactScore,
         tags: parsed.tags || [],
-        affectedCategories,
+        categories: parsed.affectedCategories,
         fetchedAt: new Date().toISOString(),
-      })
+      }))
 
       console.log(`  ✓ ${parsed.effect === 'advance' ? '⚡' : '🛡'} [${parsed.impactScore}] ${article.title.slice(0, 60)}`)
     } catch (err) {
@@ -166,21 +143,15 @@ Respond with ONLY valid JSON (no markdown):
 async function main() {
   console.log('=== AI Jobs Doomsday Clock — News Fetcher ===\n')
 
-  // 1. Fetch RSS feeds
   console.log('Step 1: Fetching RSS feeds...')
   const rawItems = await fetchRSSFeeds()
   console.log(`\nTotal raw items: ${rawItems.length}`)
 
-  // 2. Keyword filter
   const relevant = rawItems.filter(item => isRelevant(item.title, item.contentSnippet))
   console.log(`After keyword filter: ${relevant.length}`)
 
-  // 3. Deduplicate against history
-  const history = loadHistory()
-  const fresh = relevant.filter(item => {
-    const id = makeId(item.title)
-    return !history.has(id)
-  })
+  const history = loadHistorySet()
+  const fresh = relevant.filter(item => !history.has(makeId(item.title)))
   console.log(`After dedup: ${fresh.length} new items\n`)
 
   if (fresh.length === 0) {
@@ -188,7 +159,6 @@ async function main() {
     return
   }
 
-  // 4. Classify with Dashscope (Qwen)
   const apiKey = process.env.DASHSCOPE_API_KEY
   if (!apiKey) {
     console.error('Error: DASHSCOPE_API_KEY environment variable is required')
@@ -199,41 +169,27 @@ async function main() {
   const classified = await classifyArticles(apiKey, fresh.slice(0, 15))
   console.log(`\nClassified: ${classified.length} articles`)
 
-  // 5. Merge with existing feed
-  let existingFeed = []
-  if (existsSync(FEED_PATH)) {
-    existingFeed = JSON.parse(readFileSync(FEED_PATH, 'utf-8'))
-  }
-
-  const thirtyDaysAgo = new Date()
-  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30)
-
-  const merged = [...classified, ...existingFeed]
-    .filter(item => new Date(item.date) >= thirtyDaysAgo)
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 50)
+  const merged = mergeFeedItems(loadFeedItems(FEED_PATH), classified, new Date())
 
   writeFileSync(FEED_PATH, JSON.stringify(merged, null, 2))
-  console.log(`\nSaved ${merged.length} items to ${FEED_PATH}`)
+  console.log(`\nSaved ${merged.length} items from the last ${HISTORY_WINDOW_DAYS} days to ${FEED_PATH}`)
 
-  // 6. Update history
-  for (const item of classified) {
-    history.add(item.id)
-  }
-  for (const item of rawItems) {
-    history.add(makeId(item.title))
-  }
-  saveHistory(history)
+  for (const item of classified) history.add(item.id)
+  for (const item of rawItems) history.add(makeId(item.title))
+  saveHistorySet(history)
 
-  // 7. Summary
-  const advances = classified.filter(i => i.effect === 'advance').length
-  const delays = classified.filter(i => i.effect === 'delay').length
-  console.log(`\n=== Summary ===`)
+  const advances = classified.filter(item => item.effect === 'advance').length
+  const delays = classified.filter(item => item.effect === 'delay').length
+  console.log('\n=== Summary ===')
   console.log(`New signals: ${advances} advance, ${delays} delay`)
   console.log(`Total feed size: ${merged.length}`)
 }
 
-main().catch(err => {
-  console.error('Fatal error:', err)
-  process.exit(1)
-})
+const isDirectRun = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href
+
+if (isDirectRun) {
+  main().catch(err => {
+    console.error('Fatal error:', err)
+    process.exit(1)
+  })
+}

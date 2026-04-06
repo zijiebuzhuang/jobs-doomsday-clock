@@ -1,164 +1,156 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
+import { pathToFileURL } from 'url'
+import {
+  BLS_CATEGORIES,
+  HISTORY_WINDOW_DAYS,
+  feedItemsForDate,
+  filterFeedWindow,
+  loadFeedItems,
+  resolveAsOfDate,
+  startOfShanghaiDay,
+} from './news-pipeline.mjs'
 
 const isCI = process.env.CI === 'true'
 const MS_PER_DAY = 24 * 60 * 60 * 1000
 const ADVANCE_IMPACT_FACTOR = 0.01
 const DELAY_IMPACT_FACTOR = 0.0095
+const DATA_OUTPUT_PATH = 'public/data.json'
 
-function startOfShanghaiDay(value) {
-  const date = new Date(value)
-  const shifted = new Date(date.getTime() + 8 * 60 * 60 * 1000)
-  return Date.UTC(
-    shifted.getUTCFullYear(),
-    shifted.getUTCMonth(),
-    shifted.getUTCDate()
-  )
-}
+let cachedBaseData
 
-// --- Load base data ---
-let baseData
-if (isCI) {
-  // In CI: read existing data.json as base (Karpathy data already baked in)
-  baseData = JSON.parse(readFileSync('public/data.json', 'utf-8'))
-} else {
-  // Local: compute from source data
+function loadBaseData() {
+  if (cachedBaseData) return cachedBaseData
+
+  if (isCI) {
+    if (!existsSync(DATA_OUTPUT_PATH)) {
+      throw new Error(`Missing ${DATA_OUTPUT_PATH} in CI mode`)
+    }
+    cachedBaseData = JSON.parse(readFileSync(DATA_OUTPUT_PATH, 'utf-8'))
+    return cachedBaseData
+  }
+
   const sourceData = JSON.parse(readFileSync('/Users/zijiechen/Downloads/jobs-master/site/data.json', 'utf-8'))
-
-  const valid = sourceData.filter(d => d.jobs && d.exposure !== null && d.exposure !== undefined)
-  const totalJobs = valid.reduce((sum, d) => sum + d.jobs, 0)
-  const weightedExposure = valid.reduce((sum, d) => sum + d.jobs * d.exposure, 0)
-  const avgExposure = weightedExposure / totalJobs
-  const replacementRate = avgExposure * 10
+  const valid = sourceData.filter(item => item.jobs && item.exposure !== null && item.exposure !== undefined)
+  const totalJobs = valid.reduce((sum, item) => sum + item.jobs, 0)
+  const weightedExposure = valid.reduce((sum, item) => sum + item.jobs * item.exposure, 0)
+  const replacementRate = weightedExposure / totalJobs * 10
   const baseMinutesToMidnight = Math.round((50 - replacementRate) * 14.4)
 
-  const occupations = [...valid]
-    .sort((a, b) => b.exposure - a.exposure || b.jobs - a.jobs)
-    .map(d => ({
-      title: d.title,
-      exposure: d.exposure,
-      jobs: d.jobs,
-      url: d.url,
-      category: d.category,
-      outlook: d.outlook,
-      outlookDesc: d.outlook_desc
-    }))
-
-  baseData = {
+  cachedBaseData = {
     replacementRate: Math.round(replacementRate * 10) / 10,
     baseMinutesToMidnight,
     totalJobs,
     occupationCount: valid.length,
-    occupations,
+    occupations: [...valid]
+      .sort((a, b) => b.exposure - a.exposure || b.jobs - a.jobs)
+      .map(item => ({
+        title: item.title,
+        exposure: item.exposure,
+        jobs: item.jobs,
+        url: item.url,
+        category: item.category,
+        outlook: item.outlook,
+        outlookDesc: item.outlook_desc,
+      })),
   }
+
+  return cachedBaseData
 }
 
-const replacementRate = baseData.replacementRate
+function decayedImpact(item, asOfDate) {
+  const daysSince = (startOfShanghaiDay(asOfDate) - startOfShanghaiDay(item.date)) / MS_PER_DAY
+  if (daysSince < 0 || daysSince >= HISTORY_WINDOW_DAYS) return 0
+  const decay = Math.max(0, 1 - daysSince / HISTORY_WINDOW_DAYS)
+  const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
+  return (item.impactScore || 1) * factor * decay
+}
 
-// Map replacement rate to minutes-to-midnight.
-// 14.4 = 720 / 50: maps 0–50% range evenly onto a 12-hour clock face.
-// At current ~49.1% rate → ~13 min to midnight → 23:47.
-const baseMinutesToMidnight = baseData.baseMinutesToMidnight ?? Math.round((50 - replacementRate) * 14.4)
-
-// --- News-based clock adjustment ---
-// News impact decays by whole day in Asia/Shanghai so the clock does not
-// drift within the same day. Delay signals are weighted slightly lower than
-// advance signals so repeated mixed news does not steadily pull the clock
-// away from midnight.
-let newsAdjustment = 0
-let newsFeed = []
-
-const newsFeedPath = 'data/news-feed.json'
-if (existsSync(newsFeedPath)) {
-  newsFeed = JSON.parse(readFileSync(newsFeedPath, 'utf-8'))
-
-  const today = startOfShanghaiDay(new Date())
+function computeNewsAdjustment(newsFeed, asOfDate) {
+  let newsAdjustment = 0
 
   for (const item of newsFeed) {
-    const daysSince = (today - startOfShanghaiDay(item.date)) / MS_PER_DAY
-    if (daysSince < 0 || daysSince > 30) continue
-
-    const decay = Math.max(0, 1 - daysSince / 30)
-    const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
-    const impact = (item.impactScore || 1) * factor * decay
-
-    if (item.effect === 'advance') {
-      newsAdjustment -= impact
-    } else if (item.effect === 'delay') {
-      newsAdjustment += impact
-    }
+    const impact = decayedImpact(item, asOfDate)
+    if (!impact) continue
+    if (item.effect === 'advance') newsAdjustment -= impact
+    if (item.effect === 'delay') newsAdjustment += impact
   }
 
-  newsAdjustment = Math.max(-0.5, Math.min(0.5, newsAdjustment))
-  newsAdjustment = Math.round(newsAdjustment * 1000) / 1000
+  return Math.round(Math.max(-0.5, Math.min(0.5, newsAdjustment)) * 1000) / 1000
 }
 
-// --- Per-category news adjustments ---
-const BLS_CATEGORIES = [
-  'healthcare', 'life-physical-and-social-science', 'architecture-and-engineering',
-  'management', 'business-and-financial', 'construction-and-extraction', 'production',
-  'installation-maintenance-and-repair', 'education-training-and-library',
-  'office-and-administrative-support', 'transportation-and-material-moving',
-  'personal-care-and-service', 'sales', 'media-and-communication',
-  'computer-and-information-technology', 'community-and-social-service',
-  'arts-and-design', 'entertainment-and-sports', 'protective-service',
-  'food-preparation-and-serving', 'legal', 'math', 'farming-fishing-and-forestry',
-  'building-and-grounds-cleaning',
-]
+function computeCategoryAdjustments(newsFeed, asOfDate) {
+  const categoryAdjustments = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
 
-const categoryAdjustments = {}
+  for (const item of newsFeed) {
+    const categories = item.categories || item.affectedCategories
+    if (!Array.isArray(categories) || categories.length === 0) continue
 
-if (newsFeed.length > 0) {
-  const today = startOfShanghaiDay(new Date())
+    const impact = decayedImpact(item, asOfDate)
+    if (!impact) continue
+
+    const delta = item.effect === 'delay' ? impact : -impact
+    const affectedCategories = categories.includes('_all') ? BLS_CATEGORIES : categories
+
+    for (const category of affectedCategories) {
+      if (!(category in categoryAdjustments)) continue
+      categoryAdjustments[category] += delta
+    }
+  }
 
   for (const category of BLS_CATEGORIES) {
-    let adj = 0
-    for (const item of newsFeed) {
-      const cats = item.affectedCategories || ['_all']
-      if (!cats.includes(category) && !cats.includes('_all')) continue
+    categoryAdjustments[category] = Math.round(Math.max(-0.5, Math.min(0.5, categoryAdjustments[category])) * 1000) / 1000
+  }
 
-      const daysSince = (today - startOfShanghaiDay(item.date)) / MS_PER_DAY
-      if (daysSince < 0 || daysSince > 30) continue
+  return categoryAdjustments
+}
 
-      const decay = Math.max(0, 1 - daysSince / 30)
-      const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
-      const impact = (item.impactScore || 1) * factor * decay
+export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', newsFeedLimit = 20, newsFeed } = {}) {
+  const baseData = loadBaseData()
+  const feedWindow = filterFeedWindow(newsFeed ?? loadFeedItems(), asOfDate)
+  const newsAdjustment = computeNewsAdjustment(feedWindow, asOfDate)
+  const categoryAdjustments = computeCategoryAdjustments(feedWindow, asOfDate)
+  const baseMinutesToMidnight = baseData.baseMinutesToMidnight ?? Math.round((50 - baseData.replacementRate) * 14.4)
+  const exactMinutesToMidnight = baseMinutesToMidnight + newsAdjustment
+  const minutesToMidnight = Math.round(exactMinutesToMidnight)
+  const wallClockTotalSeconds = Math.round((1440 - exactMinutesToMidnight) * 60)
+  const hours = Math.floor((wallClockTotalSeconds / 3600) % 24)
+  const minutes = Math.floor((wallClockTotalSeconds % 3600) / 60)
+  const seconds = wallClockTotalSeconds % 60
 
-      if (item.effect === 'advance') adj -= impact
-      else if (item.effect === 'delay') adj += impact
-    }
-    adj = Math.max(-0.5, Math.min(0.5, adj))
-    categoryAdjustments[category] = Math.round(adj * 1000) / 1000
+  return {
+    displayTime: `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`,
+    minutesToMidnight,
+    baseMinutesToMidnight,
+    newsAdjustment,
+    categoryAdjustments,
+    replacementRate: baseData.replacementRate,
+    totalJobs: baseData.totalJobs,
+    occupationCount: baseData.occupationCount,
+    occupations: baseData.occupations,
+    newsFeed: feedMode === 'daily' ? feedItemsForDate(feedWindow, asOfDate, true) : feedWindow.slice(0, newsFeedLimit),
+    generatedAt: asOfDate.toISOString(),
   }
 }
 
-// --- Compute final clock ---
-const exactMinutesToMidnight = baseMinutesToMidnight + newsAdjustment
-const minutesToMidnight = Math.round(exactMinutesToMidnight)
-const wallClockTotalSeconds = Math.round((1440 - exactMinutesToMidnight) * 60)
-const hours = Math.floor((wallClockTotalSeconds / 3600) % 24)
-const minutes = Math.floor((wallClockTotalSeconds % 3600) / 60)
-const seconds = wallClockTotalSeconds % 60
-const displayTime = `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`
+async function main() {
+  const cliDate = process.argv.find(arg => arg.startsWith('--date='))?.split('=')[1]
+  const asOfDate = resolveAsOfDate(cliDate)
+  const output = buildClockData({ asOfDate })
 
-// --- Output ---
-const output = {
-  displayTime,
-  minutesToMidnight,
-  baseMinutesToMidnight,
-  newsAdjustment,
-  categoryAdjustments,
-  replacementRate,
-  totalJobs: baseData.totalJobs,
-  occupationCount: baseData.occupationCount,
-  occupations: baseData.occupations,
-  newsFeed: newsFeed.slice(0, 20),
-  generatedAt: new Date().toISOString()
+  writeFileSync(DATA_OUTPUT_PATH, JSON.stringify(output, null, 2))
+  console.log(
+    `Generated data.json for ${asOfDate.toISOString().split('T')[0]}: ${output.displayTime} (base: ${output.baseMinutesToMidnight}min, adj: ${output.newsAdjustment > 0 ? '+' : ''}${output.newsAdjustment}min → ${output.minutesToMidnight}min to midnight)`
+  )
+  console.log(
+    `  ${output.replacementRate.toFixed(1)}% replacement rate, ${output.occupationCount} occupations, ${output.newsFeed.length} recent feed items from the last ${HISTORY_WINDOW_DAYS} days`
+  )
 }
 
-writeFileSync('public/data.json', JSON.stringify(output, null, 2))
-console.log(
-  `Generated data.json: ${displayTime} (base: ${baseMinutesToMidnight}min, adj: ${newsAdjustment > 0 ? '+' : ''}${newsAdjustment}min → ${minutesToMidnight}min to midnight)`
-)
-console.log(
-  `  ${replacementRate.toFixed(1)}% replacement rate, ${baseData.occupations.length} occupations, ${newsFeed.length} feed items`
-)
+const isDirectRun = process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href
+
+if (isDirectRun) {
+  main().catch(err => {
+    console.error('Fatal error:', err)
+    process.exit(1)
+  })
+}

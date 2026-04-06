@@ -15,7 +15,10 @@ The architecture is built around precomputed data. The frontend does not calcula
 ## Common Commands
 
 - **Start local dev server**: `npm run dev`
-- **Recompute data**: `npm run compute` (Calculates the replacement rate, formats the clock time, and bundles occupations + news into `public/data.json`)
+- **Recompute current clock data**: `npm run compute`
+- **Fetch and classify latest news**: `npm run fetch-news`
+- **Save or rebuild 90-day history**: `npm run save-history` (`node scripts/save-history.mjs --rebuild --date=YYYY-MM-DD` for a full rebuild)
+- **Backfill 90-day historical news**: `npm run backfill-news`
 - **Production build**: `npm run build`
 - **Preview production build**: `npm run preview`
 
@@ -28,12 +31,12 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 
 ## Architecture & Data Flow
 
-### 1. Data Generation (`scripts/compute-clock.mjs`)
-- Reads the raw datasets.
-- Calculates the `replacementRate` = (jobs-weighted average exposure) * 10.
-- Maps this to a 24-hour clock where 50% replacement = 00:00 (midnight). Every 1% change shifts the clock by 14.4 minutes.
-- Combines the clock math, sorted occupation list, and formatted news feed.
-- Writes everything to `public/data.json`.
+### 1. Data Pipeline (`scripts/*.mjs`)
+- `scripts/news-pipeline.mjs` is the shared layer for feed normalization, 90-day windowing, history IO, category metadata, and proxy-aware JSON fetches.
+- `scripts/fetch-news.mjs` pulls the latest RSS items, filters AI/jobs relevance, classifies them with DashScope/Qwen, and merges them into `data/news-feed.json`.
+- `scripts/backfill-news.mjs` queries News API for a 90-day range, runs the same classifier path, merges historical items into `data/news-feed.json`, then regenerates `public/data.json` and `public/clock-history.json`.
+- `scripts/compute-clock.mjs` reads the raw datasets plus the retained news feed, calculates the `replacementRate` = (jobs-weighted average exposure) * 10, maps it to a 24-hour clock where 50% replacement = 00:00, applies decayed news/category adjustments, and writes `public/data.json`.
+- `scripts/save-history.mjs` writes daily snapshots to `public/clock-history.json`; each snapshot includes per-day `newsFeed` and category adjustments. Quiet days are valid and should keep `newsFeed: []`.
 
 ### 2. Frontend Application (`src/`)
 - `src/App.tsx`: Fetches `/data.json` on mount, holds it in state, and renders the page in three vertical sections.
@@ -51,6 +54,8 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 
 - **UI Updates:** If modifying the UI, wait for the user to confirm the visual result locally in their browser before pushing changes.
 - **Styling:** Adhere to the minimalist, dark-mode, black-and-white visual system. Preserve the typography choices defined in `tokens.css`.
-- **Precomputed Data:** Do not add complex data processing or filtering to the React components. If the data structure needs to change, modify `scripts/compute-clock.mjs` and update `src/types.ts`.
+- **Precomputed Data:** Do not add complex data processing or filtering to the React components. If the data structure needs to change, modify the scripts under `scripts/` and update `src/types.ts`.
+- **Proxy-dependent network work:** Historical backfill and classifier calls may require local proxy env vars (`HTTP_PROXY` / `HTTPS_PROXY` / `ALL_PROXY`). The scripts now support this path directly.
+- **Category metadata matters:** `data/news-feed.json` should retain `categories` on each classified item. Rebuilds depend on that metadata for category-level history; do not strip it.
 - **Analog Clock:** The math in `ClockPanel.tsx` is carefully tuned to handle 24-hour `displayTime` strings and map them correctly to the 12-hour SVG face. Avoid altering the `angleForMinutes` logic unless specifically requested.
 - **Reporting:** Keep any generated local reports or analysis markdown files out of the repository unless the user explicitly asks to commit them.
