@@ -1,33 +1,33 @@
 {
-  "displayTime": "23:47:08",
+  "displayTime": "23:47:09",
   "minutesToMidnight": 13,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -0.134,
+  "newsAdjustment": -0.146,
   "categoryAdjustments": {
-    "healthcare": -0.134,
-    "life-physical-and-social-science": -0.134,
-    "architecture-and-engineering": -0.134,
-    "management": -0.134,
-    "business-and-financial": -0.134,
-    "construction-and-extraction": -0.134,
-    "production": -0.134,
-    "installation-maintenance-and-repair": -0.134,
-    "education-training-and-library": -0.134,
-    "office-and-administrative-support": -0.134,
-    "transportation-and-material-moving": -0.134,
-    "personal-care-and-service": -0.134,
-    "sales": -0.134,
-    "media-and-communication": -0.134,
-    "computer-and-information-technology": -0.134,
-    "community-and-social-service": -0.134,
-    "arts-and-design": -0.134,
-    "entertainment-and-sports": -0.134,
-    "protective-service": -0.134,
-    "food-preparation-and-serving": -0.134,
-    "legal": -0.134,
-    "math": -0.134,
-    "farming-fishing-and-forestry": -0.134,
-    "building-and-grounds-cleaning": -0.134
+    "healthcare": -0.146,
+    "life-physical-and-social-science": -0.146,
+    "architecture-and-engineering": -0.146,
+    "management": -0.146,
+    "business-and-financial": -0.146,
+    "construction-and-extraction": -0.146,
+    "production": -0.146,
+    "installation-maintenance-and-repair": -0.146,
+    "education-training-and-library": -0.146,
+    "office-and-administrative-support": -0.146,
+    "transportation-and-material-moving": -0.146,
+    "personal-care-and-service": -0.146,
+    "sales": -0.146,
+    "media-and-communication": -0.146,
+    "computer-and-information-technology": -0.146,
+    "community-and-social-service": -0.146,
+    "arts-and-design": -0.146,
+    "entertainment-and-sports": -0.146,
+    "protective-service": -0.146,
+    "food-preparation-and-serving": -0.146,
+    "legal": -0.146,
+    "math": -0.146,
+    "farming-fishing-and-forestry": -0.146,
+    "building-and-grounds-cleaning": -0.146
   },
   "replacementRate": 49.1,
   "totalJobs": 143066500,
@@ -3105,6 +3105,27 @@
   ],
   "newsFeed": [
     {
+      "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
+      "date": "2026-04-05",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "effect": "advance",
+      "impactScore": 2,
+      "tags": [
+        "AI integration",
+        "personal productivity",
+        "job automation"
+      ],
+      "affectedCategories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "fetchedAt": "2026-04-06T00:00:28.362Z"
+    },
+    {
       "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
       "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
       "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
@@ -3409,23 +3430,7 @@
         "Anthropic"
       ],
       "fetchedAt": "2026-04-02T00:00:00.000Z"
-    },
-    {
-      "id": "anthropic-identifies-the-jobs-most-exposed-to-ai-risks-is-your-occupation-affect",
-      "title": "Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected? - Investopedia",
-      "summary": "The article highlights jobs at risk of AI replacement, increasing awareness and accelerating the conversation around AI's impact on labor.",
-      "date": "2026-03-10",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWpJZ0tROEtLVzZ0V0EtUTBuV2ZwY1otMnV4RjlYd2xTZmtnTHBfTkhoc1dZOUFjOF9fNDhZd1pXNTAxNUYtZF9Eb3F5Tm5XcEp2SHJkcmdPT2ZmdUcxNUQ5UkxlbFBJMUk4SmlxZzF1NS15eUdRdzJiWG12a0tTX1ZFQlQ4ZmdraWpXWG1LWWhOOXlvTFNVeGdLV0p6YWQ5dklMS1dNOUhfNkJpNWJucVRkRFBqaUE?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI job risks",
-        "labor market impact",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-02T11:37:18.883Z"
     }
   ],
-  "generatedAt": "2026-04-05T08:49:48.459Z"
+  "generatedAt": "2026-04-06T00:00:28.472Z"
 }

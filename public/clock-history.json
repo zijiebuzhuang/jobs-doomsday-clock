@@ -1,5 +1,36 @@
 [
   {
+    "date": "2026-04-06",
+    "minutesToMidnight": 13,
+    "newsAdjustment": -0.146,
+    "categoryAdjustments": {
+      "healthcare": -0.146,
+      "life-physical-and-social-science": -0.146,
+      "architecture-and-engineering": -0.146,
+      "management": -0.146,
+      "business-and-financial": -0.146,
+      "construction-and-extraction": -0.146,
+      "production": -0.146,
+      "installation-maintenance-and-repair": -0.146,
+      "education-training-and-library": -0.146,
+      "office-and-administrative-support": -0.146,
+      "transportation-and-material-moving": -0.146,
+      "personal-care-and-service": -0.146,
+      "sales": -0.146,
+      "media-and-communication": -0.146,
+      "computer-and-information-technology": -0.146,
+      "community-and-social-service": -0.146,
+      "arts-and-design": -0.146,
+      "entertainment-and-sports": -0.146,
+      "protective-service": -0.146,
+      "food-preparation-and-serving": -0.146,
+      "legal": -0.146,
+      "math": -0.146,
+      "farming-fishing-and-forestry": -0.146,
+      "building-and-grounds-cleaning": -0.146
+    }
+  },
+  {
     "date": "2026-04-05",
     "minutesToMidnight": 13,
     "newsAdjustment": -0.134,

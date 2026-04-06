@@ -1,5 +1,26 @@
 [
   {
+    "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
+    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+    "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
+    "date": "2026-04-05",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "effect": "advance",
+    "impactScore": 2,
+    "tags": [
+      "AI integration",
+      "personal productivity",
+      "job automation"
+    ],
+    "affectedCategories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "fetchedAt": "2026-04-06T00:00:28.362Z"
+  },
+  {
     "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
