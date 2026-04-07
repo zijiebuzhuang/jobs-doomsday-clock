@@ -1,5 +1,68 @@
 [
   {
+    "id": "the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai",
+    "title": "The one piece of data that could actually shed light on your job and AI",
+    "summary": "The article highlights concerns about AI's impact on jobs but suggests that the extent of job replacement is still unclear and debated.",
+    "date": "2026-04-06",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI impact",
+      "job displacement",
+      "workforce analysis"
+    ],
+    "fetchedAt": "2026-04-07T00:00:39.852Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "openai-s-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-da",
+    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+    "summary": "The proposal for AI taxes and public wealth funds aims to mitigate job loss from AI, suggesting measures to slow AI's replacement of human jobs.",
+    "date": "2026-04-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "job displacement",
+      "economic policy"
+    ],
+    "fetchedAt": "2026-04-07T00:00:38.460Z",
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund-",
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+    "summary": "A new $100M fund backed by OpenAI alumni could accelerate AI development and potentially increase job displacement through AI innovation.",
+    "date": "2026-04-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI investment",
+      "job displacement",
+      "venture capital"
+    ],
+    "fetchedAt": "2026-04-07T00:00:36.813Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
     "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
     "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
@@ -13,12 +76,12 @@
       "personal productivity",
       "job automation"
     ],
-    "affectedCategories": [
+    "fetchedAt": "2026-04-06T00:00:28.362Z",
+    "categories": [
       "office-and-administrative-support",
       "computer-and-information-technology",
       "_all"
-    ],
-    "fetchedAt": "2026-04-06T00:00:28.362Z"
+    ]
   },
   {
     "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
