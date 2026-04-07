@@ -10,6 +10,8 @@ function snapshotForDate(asOfDate, newsFeed) {
   return {
     date: toISODate(asOfDate),
     minutesToMidnight: data.minutesToMidnight,
+    exactMinutesToMidnight: data.exactMinutesToMidnight,
+    macroReplacementRate: data.macroReplacementRate,
     newsAdjustment: data.newsAdjustment,
     categoryAdjustments: data.categoryAdjustments || {},
     newsFeed: data.newsFeed,

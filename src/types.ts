@@ -26,10 +26,12 @@ export type NewsFeedItem = {
 export type ClockData = {
   displayTime: string
   minutesToMidnight: number
+  exactMinutesToMidnight: number
   baseMinutesToMidnight: number
   newsAdjustment: number
   categoryAdjustments: Record<string, number>
   replacementRate: number
+  macroReplacementRate: number
   totalJobs: number
   occupationCount: number
   occupations: OccupationItem[]

@@ -8,15 +8,28 @@ import {
   loadFeedItems,
   resolveAsOfDate,
   startOfShanghaiDay,
+  toISODate,
 } from './news-pipeline.mjs'
 
 const isCI = process.env.CI === 'true'
 const MS_PER_DAY = 24 * 60 * 60 * 1000
-const ADVANCE_IMPACT_FACTOR = 0.01
-const DELAY_IMPACT_FACTOR = 0.0095
+const SHORT_TERM_WINDOW_DAYS = 7
+const PRESSURE_CARRY = 0.996
+const ADVANCE_PRESSURE_FACTOR = 0.03
+const DELAY_PRESSURE_FACTOR = 0.018
+const DELAY_RELIEF_FACTOR = 0.012
+const CATEGORY_ADVANCE_PRESSURE_FACTOR = 0.015
+const CATEGORY_DELAY_PRESSURE_FACTOR = 0.009
+const CATEGORY_DELAY_RELIEF_FACTOR = 0.006
+const MAX_NEWS_ADJUSTMENT = 1.5
+const MAX_CATEGORY_ADJUSTMENT = 0.5
 const DATA_OUTPUT_PATH = 'public/data.json'
 
 let cachedBaseData
+
+function baseMinutesPerReplacementRatePoint(baseData) {
+  return baseData.baseMinutesToMidnight / (50 - baseData.replacementRate)
+}
 
 function loadBaseData() {
   if (cachedBaseData) return cachedBaseData
@@ -57,48 +70,133 @@ function loadBaseData() {
   return cachedBaseData
 }
 
-function decayedImpact(item, asOfDate) {
-  const daysSince = (startOfShanghaiDay(asOfDate) - startOfShanghaiDay(item.date)) / MS_PER_DAY
-  if (daysSince < 0 || daysSince >= HISTORY_WINDOW_DAYS) return 0
-  const decay = Math.max(0, 1 - daysSince / HISTORY_WINDOW_DAYS)
-  const factor = item.effect === 'delay' ? DELAY_IMPACT_FACTOR : ADVANCE_IMPACT_FACTOR
-  return (item.impactScore || 1) * factor * decay
+function clamp(value, min, max) {
+  return Math.max(min, Math.min(max, value))
 }
 
-function computeNewsAdjustment(newsFeed, asOfDate) {
-  let newsAdjustment = 0
+function round3(value) {
+  return Math.round(value * 1000) / 1000
+}
 
-  for (const item of newsFeed) {
-    const impact = decayedImpact(item, asOfDate)
-    if (!impact) continue
-    if (item.effect === 'advance') newsAdjustment -= impact
-    if (item.effect === 'delay') newsAdjustment += impact
+function impactScore(item) {
+  return item.impactScore || 1
+}
+
+function shortTermDecay(item, asOfDate) {
+  const daysSince = (startOfShanghaiDay(asOfDate) - startOfShanghaiDay(item.date)) / MS_PER_DAY
+  if (daysSince < 0 || daysSince >= SHORT_TERM_WINDOW_DAYS) return 0
+  return Math.max(0, 1 - daysSince / SHORT_TERM_WINDOW_DAYS)
+}
+
+function buildDailyBuckets(newsFeed, asOfDate) {
+  const days = []
+  const buckets = new Map()
+
+  for (let offset = HISTORY_WINDOW_DAYS - 1; offset >= 0; offset -= 1) {
+    const date = new Date(asOfDate)
+    date.setUTCDate(date.getUTCDate() - offset)
+    const isoDate = toISODate(date)
+    days.push(isoDate)
+    buckets.set(isoDate, [])
   }
 
-  return Math.round(Math.max(-0.5, Math.min(0.5, newsAdjustment)) * 1000) / 1000
+  for (const item of newsFeed) {
+    const isoDate = toISODate(item.date)
+    if (buckets.has(isoDate)) {
+      buckets.get(isoDate).push(item)
+    }
+  }
+
+  return { days, buckets }
+}
+
+function buildMacroPressureSeries(newsFeed, asOfDate) {
+  const { days, buckets } = buildDailyBuckets(newsFeed, asOfDate)
+  const pressureByDay = new Map()
+  let pressure = 0
+
+  for (const day of days) {
+    const items = buckets.get(day) || []
+    let advanceImpulse = 0
+    let delayImpulse = 0
+
+    for (const item of items) {
+      const score = impactScore(item)
+      if (item.effect === 'advance') advanceImpulse += score * ADVANCE_PRESSURE_FACTOR
+      if (item.effect === 'delay') delayImpulse += score * DELAY_PRESSURE_FACTOR
+    }
+
+    pressure = Math.max(0, pressure * PRESSURE_CARRY + advanceImpulse - delayImpulse)
+    pressureByDay.set(day, pressure)
+  }
+
+  return pressureByDay
+}
+
+function computeNewsAdjustment(newsFeed, asOfDate, pressureByDay = buildMacroPressureSeries(newsFeed, asOfDate)) {
+  const pressure = pressureByDay.get(toISODate(asOfDate)) ?? 0
+  let shortTermRelief = 0
+
+  for (const item of newsFeed) {
+    if (item.effect !== 'delay') continue
+    const decay = shortTermDecay(item, asOfDate)
+    if (!decay) continue
+    shortTermRelief += impactScore(item) * DELAY_RELIEF_FACTOR * decay
+  }
+
+  return round3(clamp(-pressure + shortTermRelief, -MAX_NEWS_ADJUSTMENT, MAX_NEWS_ADJUSTMENT))
 }
 
 function computeCategoryAdjustments(newsFeed, asOfDate) {
-  const categoryAdjustments = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
+  const { days, buckets } = buildDailyBuckets(newsFeed, asOfDate)
+  const pressureByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
+  const latestByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
+
+  for (const day of days) {
+    const advanceImpulseByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
+    const delayImpulseByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
+
+    for (const item of buckets.get(day) || []) {
+      const categories = item.categories || item.affectedCategories
+      if (!Array.isArray(categories) || categories.length === 0) continue
+      const affectedCategories = categories.includes('_all') ? BLS_CATEGORIES : categories
+      const score = impactScore(item)
+
+      for (const category of affectedCategories) {
+        if (!(category in pressureByCategory)) continue
+        if (item.effect === 'advance') advanceImpulseByCategory[category] += score * CATEGORY_ADVANCE_PRESSURE_FACTOR
+        if (item.effect === 'delay') delayImpulseByCategory[category] += score * CATEGORY_DELAY_PRESSURE_FACTOR
+      }
+    }
+
+    for (const category of BLS_CATEGORIES) {
+      pressureByCategory[category] = Math.max(
+        0,
+        pressureByCategory[category] * PRESSURE_CARRY + advanceImpulseByCategory[category] - delayImpulseByCategory[category]
+      )
+      latestByCategory[category] = pressureByCategory[category]
+    }
+  }
+
+  const categoryAdjustments = Object.fromEntries(BLS_CATEGORIES.map(category => [category, -latestByCategory[category]]))
 
   for (const item of newsFeed) {
+    if (item.effect !== 'delay') continue
     const categories = item.categories || item.affectedCategories
     if (!Array.isArray(categories) || categories.length === 0) continue
-
-    const impact = decayedImpact(item, asOfDate)
-    if (!impact) continue
-
-    const delta = item.effect === 'delay' ? impact : -impact
+    const decay = shortTermDecay(item, asOfDate)
+    if (!decay) continue
     const affectedCategories = categories.includes('_all') ? BLS_CATEGORIES : categories
+    const relief = impactScore(item) * CATEGORY_DELAY_RELIEF_FACTOR * decay
 
     for (const category of affectedCategories) {
       if (!(category in categoryAdjustments)) continue
-      categoryAdjustments[category] += delta
+      categoryAdjustments[category] += relief
     }
   }
 
   for (const category of BLS_CATEGORIES) {
-    categoryAdjustments[category] = Math.round(Math.max(-0.5, Math.min(0.5, categoryAdjustments[category])) * 1000) / 1000
+    categoryAdjustments[category] = round3(clamp(categoryAdjustments[category], -MAX_CATEGORY_ADJUSTMENT, MAX_CATEGORY_ADJUSTMENT))
   }
 
   return categoryAdjustments
@@ -107,7 +205,8 @@ function computeCategoryAdjustments(newsFeed, asOfDate) {
 export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', newsFeedLimit = 20, newsFeed } = {}) {
   const baseData = loadBaseData()
   const feedWindow = filterFeedWindow(newsFeed ?? loadFeedItems(), asOfDate)
-  const newsAdjustment = computeNewsAdjustment(feedWindow, asOfDate)
+  const pressureByDay = buildMacroPressureSeries(feedWindow, asOfDate)
+  const newsAdjustment = computeNewsAdjustment(feedWindow, asOfDate, pressureByDay)
   const categoryAdjustments = computeCategoryAdjustments(feedWindow, asOfDate)
   const baseMinutesToMidnight = baseData.baseMinutesToMidnight ?? Math.round((50 - baseData.replacementRate) * 14.4)
   const exactMinutesToMidnight = baseMinutesToMidnight + newsAdjustment
@@ -120,10 +219,12 @@ export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', new
   return {
     displayTime: `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`,
     minutesToMidnight,
+    exactMinutesToMidnight: Math.round(exactMinutesToMidnight * 1000) / 1000,
     baseMinutesToMidnight,
     newsAdjustment,
     categoryAdjustments,
     replacementRate: baseData.replacementRate,
+    macroReplacementRate: Math.round((50 - (exactMinutesToMidnight / baseMinutesPerReplacementRatePoint(baseData))) * 1000) / 1000,
     totalJobs: baseData.totalJobs,
     occupationCount: baseData.occupationCount,
     occupations: baseData.occupations,
