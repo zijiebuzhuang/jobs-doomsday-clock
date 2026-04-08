@@ -1,5 +1,128 @@
 [
   {
+    "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
+    "title": "Gemini is making it faster for distressed users to reach mental health resources ",
+    "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
+    "date": "2026-04-07",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "safety concerns",
+      "regulatory impact"
+    ],
+    "fetchedAt": "2026-04-08T00:00:43.615Z",
+    "categories": [
+      "community-and-social-service",
+      "computer-and-information-technology",
+      "legal"
+    ]
+  },
+  {
+    "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
+    "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+    "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
+    "date": "2026-04-07",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "ai-development",
+      "automation"
+    ],
+    "fetchedAt": "2026-04-08T00:00:41.906Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-maps-can-now-write-captions-for-your-photos-using-ai",
+    "title": "Google Maps can now write captions for your photos using AI",
+    "summary": "AI's ability to generate captions for photos may contribute to automation in content creation and media roles, potentially affecting jobs in media and communication.",
+    "date": "2026-04-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+    "effect": "advance",
+    "impactScore": 2,
+    "tags": [
+      "AI capabilities",
+      "content creation",
+      "automation"
+    ],
+    "fetchedAt": "2026-04-08T00:00:40.408Z",
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
+    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+    "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
+    "date": "2026-04-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "compute infrastructure",
+      "business growth"
+    ],
+    "fetchedAt": "2026-04-08T00:00:38.846Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybersecurity-in",
+    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "summary": "The introduction of a new AI model for cybersecurity work signals AI's growing role in job functions that require technical expertise, potentially accelerating AI's impact on certain roles.",
+    "date": "2026-04-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "cybersecurity",
+      "AI development",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-08T00:00:37.499Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service"
+    ]
+  },
+  {
+    "id": "ai-job-replacement-fear-why-ai-creates-new-work-pakistan-today",
+    "title": "AI Job Replacement Fear: Why AI Creates New Work - Pakistan Today",
+    "summary": "The article suggests that AI creates new jobs, which may delay concerns about AI replacing human jobs.",
+    "date": "2026-04-07",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNm5uWlRUOU04N1h2X3hqNGlQMFlXUEQ2bjBKWVpGcVFucUNyeGFpcEd4YXgxOHJKeVA3TzMwM1BGQk5KNWdMM0EydG9hdW9mZ2oyMlp5NDhSMWZDc2FWYjZUM1YxMFl2NWpkSTlEazhvcEpHSnpORnA4M2VvS1Z1T0JaVXFtWGI1THRVbkxIUjRuQQ?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI job creation",
+      "labor market"
+    ],
+    "fetchedAt": "2026-04-08T00:00:35.776Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai",
     "title": "The one piece of data that could actually shed light on your job and AI",
     "summary": "The article highlights concerns about AI's impact on jobs but suggests that the extent of job replacement is still unclear and debated.",
@@ -540,6 +663,25 @@
       "personal-care-and-service",
       "education-training-and-library",
       "community-and-social-service"
+    ]
+  },
+  {
+    "id": "what-jobs-will-ai-replace-snhu-edu",
+    "title": "What Jobs Will AI Replace? - snhu.edu",
+    "summary": "The article raises awareness about AI's potential to replace jobs but does not provide specific insights or developments that would accelerate or delay the process significantly.",
+    "date": "2026-02-13",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jOFFkLVhGdFd3aUZ1dDBhOFlyVGtFUGVBUXQ0OEM2eUhJTlVwQVJWQjFoTHZyaW1URWhaSUlQX1pWLWptakVXenpDOFlRUmxVVUxPbUd1RUF1U1Q3Z2tNbGhiNnJ0amZxbW9UT01kRkRsLU5mdjhCblFrOA?oc=5",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "AI impact",
+      "job replacement",
+      "awareness"
+    ],
+    "fetchedAt": "2026-04-08T00:00:34.277Z",
+    "categories": [
+      "_all"
     ]
   }
 ]
