@@ -46,6 +46,15 @@ export default function SiteFooter() {
         </div>
 
         <div className="footer-links">
+          <a href="/support.html">
+            Support
+          </a>
+          <a href="/privacy.html">
+            Privacy Policy
+          </a>
+          <a href="/terms.html">
+            Terms of Use
+          </a>
           <a href="https://github.com/zijiebuzhuang/jobs-doomsday-clock" target="_blank" rel="noreferrer">
             Source Code <span aria-hidden="true" className="external-arrow">→</span>
           </a>
