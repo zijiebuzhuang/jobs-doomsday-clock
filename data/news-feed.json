@@ -1,5 +1,26 @@
 [
   {
+    "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
+    "title": "Meta is reentering the AI race with a new model called Muse Spark",
+    "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
+    "date": "2026-04-08",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "job displacement",
+      "tech integration"
+    ],
+    "fetchedAt": "2026-04-09T00:00:40.789Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
     "title": "Gemini is making it faster for distressed users to reach mental health resources ",
     "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
