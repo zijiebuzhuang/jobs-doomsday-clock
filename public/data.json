@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:48:11",
+  "displayTime": "23:48:13",
   "minutesToMidnight": 12,
-  "exactMinutesToMidnight": 11.814,
+  "exactMinutesToMidnight": 11.777,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -1.186,
+  "newsAdjustment": -1.223,
   "categoryAdjustments": {
-    "healthcare": -0.208,
-    "life-physical-and-social-science": -0.191,
-    "architecture-and-engineering": -0.191,
-    "management": -0.255,
-    "business-and-financial": -0.382,
-    "construction-and-extraction": -0.147,
-    "production": -0.2,
-    "installation-maintenance-and-repair": -0.147,
-    "education-training-and-library": -0.131,
-    "office-and-administrative-support": -0.377,
-    "transportation-and-material-moving": -0.204,
-    "personal-care-and-service": -0.191,
-    "sales": -0.204,
-    "media-and-communication": -0.131,
+    "healthcare": -0.105,
+    "life-physical-and-social-science": -0.147,
+    "architecture-and-engineering": -0.147,
+    "management": -0.213,
+    "business-and-financial": -0.339,
+    "construction-and-extraction": -0.044,
+    "production": -0.097,
+    "installation-maintenance-and-repair": -0.044,
+    "education-training-and-library": -0.027,
+    "office-and-administrative-support": -0.272,
+    "transportation-and-material-moving": -0.101,
+    "personal-care-and-service": -0.088,
+    "sales": -0.101,
+    "media-and-communication": -0.027,
     "computer-and-information-technology": -0.5,
-    "community-and-social-service": -0.108,
-    "arts-and-design": -0.131,
-    "entertainment-and-sports": -0.147,
-    "protective-service": -0.192,
-    "food-preparation-and-serving": -0.147,
-    "legal": -0.15,
-    "math": -0.147,
-    "farming-fishing-and-forestry": -0.147,
-    "building-and-grounds-cleaning": -0.147
+    "community-and-social-service": -0.007,
+    "arts-and-design": -0.027,
+    "entertainment-and-sports": -0.044,
+    "protective-service": -0.088,
+    "food-preparation-and-serving": -0.044,
+    "legal": -0.05,
+    "math": -0.044,
+    "farming-fishing-and-forestry": -0.044,
+    "building-and-grounds-cleaning": -0.044
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.182,
+  "macroReplacementRate": 49.185,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3107,6 +3107,110 @@
   ],
   "newsFeed": [
     {
+      "id": "gemini-gets-notebooks-to-help-you-organize-projects",
+      "title": "Gemini gets notebooks to help you organize projects",
+      "summary": "The introduction of notebooks in Gemini enhances AI's ability to organize and manage project-related information, potentially increasing efficiency and reducing the need for human coordination in certain tasks.",
+      "date": "2026-04-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "productivity tools",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-10T00:00:45.576Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
+      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and technical modeling, potentially impacting jobs in design, engineering, and simulation fields.",
+      "date": "2026-04-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "technical modeling",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-10T00:00:42.880Z",
+      "categories": [
+        "architecture-and-engineering",
+        "computer-and-information-technology",
+        "life-physical-and-social-science"
+      ]
+    },
+    {
+      "id": "florida-launches-investigation-into-openai",
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+      "date": "2026-04-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "ai-ethics",
+        "policy"
+      ],
+      "fetchedAt": "2026-04-10T00:00:40.448Z",
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
+      "date": "2026-04-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "cybersecurity",
+        "AI regulation",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-10T00:00:38.737Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
+      "date": "2026-04-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "legal",
+        "AI ethics",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-10T00:00:37.353Z",
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
       "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
       "title": "Meta is reentering the AI race with a new model called Muse Spark",
       "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
@@ -3248,6 +3352,27 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ]
+    },
+    {
+      "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
+      "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
+      "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
+      "date": "2026-04-06",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI job displacement",
+        "expert predictions",
+        "labor market"
+      ],
+      "fetchedAt": "2026-04-10T00:00:34.917Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
       ]
     },
     {
@@ -3397,131 +3522,7 @@
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
-      "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
-      "summary": "The initiative aims to prepare the workforce for AI, potentially slowing the replacement of human jobs by focusing on upskilling and accessibility.",
-      "date": "2026-04-02",
-      "source": "AI Workforce",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI workforce development",
-        "labor policy",
-        "job training"
-      ],
-      "fetchedAt": "2026-04-04T00:00:34.646Z",
-      "categories": [
-        "computer-and-information-technology",
-        "education-training-and-library",
-        "management"
-      ]
-    },
-    {
-      "id": "google-home-s-latest-update-makes-gemini-better-at-understanding-your-commands",
-      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-      "summary": "Improved AI understanding of natural language could lead to more efficient automation, potentially replacing human roles in smart home management and customer service.",
-      "date": "2026-04-02",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI advancement",
-        "automation",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-03T02:06:20.135Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "personal-care-and-service"
-      ]
-    },
-    {
-      "id": "microsoft-s-new-superintelligence-game-plan-is-all-about-business",
-      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-      "summary": "Microsoft's focus on superintelligence suggests increased investment in advanced AI, potentially accelerating AI's role in replacing human jobs.",
-      "date": "2026-04-02",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI Development",
-        "Job Displacement",
-        "Corporate Strategy"
-      ],
-      "fetchedAt": "2026-04-03T02:06:18.853Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "management"
-      ]
-    },
-    {
-      "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
-      "title": "It’s not easy to get depression-detecting AI through the FDA",
-      "summary": "The failure of a depression-detecting AI to gain FDA approval may slow the adoption of AI in healthcare, potentially delaying its impact on jobs in that sector.",
-      "date": "2026-04-02",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI regulation",
-        "healthcare technology",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-03T02:06:17.637Z",
-      "categories": [
-        "healthcare"
-      ]
-    },
-    {
-      "id": "ai-can-push-your-stream-deck-buttons-for-you",
-      "title": "AI can push your Stream Deck buttons for you",
-      "summary": "AI assistants can now automate interactions with Stream Deck devices, potentially reducing the need for manual input in certain workflows.",
-      "date": "2026-04-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI automation",
-        "job replacement",
-        "software integration"
-      ],
-      "fetchedAt": "2026-04-02T11:10:51.470Z",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
-      "title": "OpenAI Releases GPT-5 with Autonomous Agent Capabilities",
-      "summary": "GPT-5 can now autonomously complete multi-step work tasks, significantly increasing AI's ability to replace routine knowledge work.",
-      "date": "2026-04-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/example",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capability",
-        "agents",
-        "knowledge work"
-      ],
-      "fetchedAt": "2026-04-02T00:00:00.000Z",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "business-and-financial"
-      ]
     }
   ],
-  "generatedAt": "2026-04-09T00:00:41.602Z"
+  "generatedAt": "2026-04-10T00:00:45.621Z"
 }

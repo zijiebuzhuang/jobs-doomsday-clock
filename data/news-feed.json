@@ -1,5 +1,109 @@
 [
   {
+    "id": "gemini-gets-notebooks-to-help-you-organize-projects",
+    "title": "Gemini gets notebooks to help you organize projects",
+    "summary": "The introduction of notebooks in Gemini enhances AI's ability to organize and manage project-related information, potentially increasing efficiency and reducing the need for human coordination in certain tasks.",
+    "date": "2026-04-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "productivity tools",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-10T00:00:45.576Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
+    "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+    "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and technical modeling, potentially impacting jobs in design, engineering, and simulation fields.",
+    "date": "2026-04-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capabilities",
+      "technical modeling",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-10T00:00:42.880Z",
+    "categories": [
+      "architecture-and-engineering",
+      "computer-and-information-technology",
+      "life-physical-and-social-science"
+    ]
+  },
+  {
+    "id": "florida-launches-investigation-into-openai",
+    "title": "Florida launches investigation into OpenAI",
+    "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+    "date": "2026-04-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "ai-ethics",
+      "policy"
+    ],
+    "fetchedAt": "2026-04-10T00:00:40.448Z",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
+    "date": "2026-04-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "AI regulation",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-10T00:00:38.737Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
+    "date": "2026-04-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "legal",
+      "AI ethics",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-10T00:00:37.353Z",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
     "title": "Meta is reentering the AI race with a new model called Muse Spark",
     "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
@@ -141,6 +245,27 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ]
+  },
+  {
+    "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
+    "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
+    "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
+    "date": "2026-04-06",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI job displacement",
+      "expert predictions",
+      "labor market"
+    ],
+    "fetchedAt": "2026-04-10T00:00:34.917Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
     ]
   },
   {
