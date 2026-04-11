@@ -133,6 +133,10 @@ export function normalizeFeedItem(item) {
     normalized.occupationIDs = item.occupationIDs
   }
 
+  if (item.imageUrl) {
+    normalized.imageUrl = item.imageUrl
+  }
+
   return normalized
 }
 
