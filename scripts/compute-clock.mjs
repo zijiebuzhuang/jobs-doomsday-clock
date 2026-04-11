@@ -11,18 +11,20 @@ import {
   toISODate,
 } from './news-pipeline.mjs'
 
+const JOBS_MASTER_SITE_DATA_PATH = '/Users/zijiechen/Downloads/jobs-master/site/data.json'
+
 const isCI = process.env.CI === 'true'
 const MS_PER_DAY = 24 * 60 * 60 * 1000
 const SHORT_TERM_WINDOW_DAYS = 7
 const PRESSURE_CARRY = 0.996
-const ADVANCE_PRESSURE_FACTOR = 0.03
-const DELAY_PRESSURE_FACTOR = 0.018
-const DELAY_RELIEF_FACTOR = 0.012
-const CATEGORY_ADVANCE_PRESSURE_FACTOR = 0.015
-const CATEGORY_DELAY_PRESSURE_FACTOR = 0.009
-const CATEGORY_DELAY_RELIEF_FACTOR = 0.006
-const MAX_NEWS_ADJUSTMENT = 1.5
-const MAX_CATEGORY_ADJUSTMENT = 0.5
+const ADVANCE_PRESSURE_FACTOR = 0.022
+const DELAY_PRESSURE_FACTOR = 0.013
+const DELAY_RELIEF_FACTOR = 0.009
+const CATEGORY_ADVANCE_PRESSURE_FACTOR = 0.011
+const CATEGORY_DELAY_PRESSURE_FACTOR = 0.007
+const CATEGORY_DELAY_RELIEF_FACTOR = 0.0045
+const MAX_NEWS_ADJUSTMENT = 1.1
+const MAX_CATEGORY_ADJUSTMENT = 0.35
 const DATA_OUTPUT_PATH = 'public/data.json'
 
 let cachedBaseData
@@ -42,7 +44,7 @@ function loadBaseData() {
     return cachedBaseData
   }
 
-  const sourceData = JSON.parse(readFileSync('/Users/zijiechen/Downloads/jobs-master/site/data.json', 'utf-8'))
+  const sourceData = JSON.parse(readFileSync(JOBS_MASTER_SITE_DATA_PATH, 'utf-8'))
   const valid = sourceData.filter(item => item.jobs && item.exposure !== null && item.exposure !== undefined)
   const totalJobs = valid.reduce((sum, item) => sum + item.jobs, 0)
   const weightedExposure = valid.reduce((sum, item) => sum + item.jobs * item.exposure, 0)
