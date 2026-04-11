@@ -1,5 +1,7 @@
 export type OccupationItem = {
   title: string
+  slug?: string
+  socCode?: string
   exposure: number
   jobs: number
   url: string
@@ -21,6 +23,7 @@ export type NewsFeedItem = {
   fetchedAt: string
   categories?: string[]
   occupationIDs?: string[]
+  imageUrl?: string
 }
 
 export type ClockData = {

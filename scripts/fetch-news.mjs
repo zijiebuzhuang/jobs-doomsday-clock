@@ -51,12 +51,35 @@ async function fetchRSSFeeds() {
       const result = await parser.parseURL(feed.url)
       const items = (result.items || []).slice(0, 20)
       for (const item of items) {
+        let imageUrl = null
+
+        // Try enclosure first (common in RSS feeds)
+        if (item.enclosure?.url) {
+          imageUrl = item.enclosure.url
+        }
+        // Try media:content or media:thumbnail
+        else if (item['media:content']?.$?.url) {
+          imageUrl = item['media:content'].$.url
+        }
+        else if (item['media:thumbnail']?.$?.url) {
+          imageUrl = item['media:thumbnail'].$.url
+        }
+        // Try to extract from content
+        else if (item.content || item['content:encoded']) {
+          const content = item.content || item['content:encoded']
+          const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i)
+          if (imgMatch) {
+            imageUrl = imgMatch[1]
+          }
+        }
+
         allItems.push({
           title: item.title || '',
           link: item.link || '',
           contentSnippet: item.contentSnippet || item.content || '',
           pubDate: item.pubDate || item.isoDate || '',
           source: feed.name,
+          imageUrl,
         })
       }
       console.log(`  → Got ${items.length} items`)
@@ -129,6 +152,7 @@ Respond with ONLY valid JSON (no markdown):
         tags: parsed.tags || [],
         categories: parsed.affectedCategories,
         fetchedAt: new Date().toISOString(),
+        imageUrl: article.imageUrl,
       }))
 
       console.log(`  ✓ ${parsed.effect === 'advance' ? '⚡' : '🛡'} [${parsed.impactScore}] ${article.title.slice(0, 60)}`)
