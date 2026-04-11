@@ -1,5 +1,68 @@
 [
   {
+    "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "summary": "The lawsuit against OpenAI highlights risks of AI misuse, potentially slowing adoption of AI in sensitive roles due to increased scrutiny and liability concerns.",
+    "date": "2026-04-10",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "liability",
+      "misuse"
+    ],
+    "fetchedAt": "2026-04-11T00:00:31.603Z",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
+    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
+    "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and interactive analysis, potentially impacting jobs in technical and design fields.",
+    "date": "2026-04-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capabilities",
+      "interactive simulations",
+      "technical automation"
+    ],
+    "fetchedAt": "2026-04-11T00:00:36.604Z",
+    "categories": [
+      "architecture-and-engineering",
+      "computer-and-information-technology",
+      "math"
+    ]
+  },
+  {
+    "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
+    "title": "ChatGPT has a new $100 per month Pro subscription",
+    "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
+    "date": "2026-04-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "coding tools",
+      "subscription model"
+    ],
+    "fetchedAt": "2026-04-11T00:00:34.986Z",
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
     "id": "gemini-gets-notebooks-to-help-you-organize-projects",
     "title": "Gemini gets notebooks to help you organize projects",
     "summary": "The introduction of notebooks in Gemini enhances AI's ability to organize and manage project-related information, potentially increasing efficiency and reducing the need for human coordination in certain tasks.",
