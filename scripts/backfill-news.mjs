@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs'
 import { pathToFileURL } from 'url'
 import { classifyArticles, isRelevant } from './fetch-news.mjs'
-import { buildClockData } from './compute-clock.mjs'
+import { buildClockData, generateSignalSummaries } from './compute-clock.mjs'
 import { buildHistory } from './save-history.mjs'
 import {
   HISTORY_WINDOW_DAYS,
@@ -67,7 +67,7 @@ async function main() {
   const fromDate = toISODate(startDate)
 
   const newsApiKey = process.env.NEWS_API_KEY
-  const dashscopeApiKey = process.env.DASHSCOPE_API_KEY
+  const dashscopeApiKey = process.env.DASHSCOPE_API_KEY || process.env.ALIYUN
   if (!newsApiKey) {
     console.error('Error: NEWS_API_KEY environment variable is required')
     process.exit(1)
@@ -101,7 +101,21 @@ async function main() {
   writeFileSync(FEED_PATH, JSON.stringify(mergedFeed, null, 2))
   console.log(`Saved ${mergedFeed.length} feed items to ${FEED_PATH}`)
 
-  const currentData = buildClockData({ asOfDate, newsFeed: mergedFeed })
+  const preliminaryData = buildClockData({ asOfDate, newsFeed: mergedFeed })
+  let signalSummaries
+
+  try {
+    signalSummaries = await generateSignalSummaries({
+      feedWindow: preliminaryData.newsFeed,
+      generatedAt: preliminaryData.generatedAt,
+      macroReplacementRate: preliminaryData.macroReplacementRate,
+      newsAdjustment: preliminaryData.newsAdjustment,
+    })
+  } catch (err) {
+    console.warn(`Signal summary generation failed: ${err.message}`)
+  }
+
+  const currentData = buildClockData({ asOfDate, newsFeed: mergedFeed, signalSummaries })
   writeFileSync(DATA_PATH, JSON.stringify(currentData, null, 2))
   console.log(`Updated ${DATA_PATH} for ${endDate}`)
 

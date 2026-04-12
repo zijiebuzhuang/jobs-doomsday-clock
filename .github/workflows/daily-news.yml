@@ -25,6 +25,8 @@ jobs:
         run: node scripts/fetch-news.mjs
 
       - name: Recompute clock with news adjustment
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
         run: node scripts/compute-clock.mjs
 
       - name: Save daily history snapshot

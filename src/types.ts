@@ -26,6 +26,12 @@ export type NewsFeedItem = {
   imageUrl?: string
 }
 
+export type SignalSummaryPayload = {
+  title: string
+  preview: string
+  body: string
+}
+
 export type ClockData = {
   displayTime: string
   minutesToMidnight: number
@@ -40,4 +46,7 @@ export type ClockData = {
   occupations: OccupationItem[]
   newsFeed: NewsFeedItem[]
   generatedAt: string
+  signalSummaries?: {
+    dailyPulse?: SignalSummaryPayload
+  }
 }

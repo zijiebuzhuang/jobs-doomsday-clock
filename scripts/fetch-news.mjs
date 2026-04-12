@@ -91,7 +91,7 @@ async function fetchRSSFeeds() {
   return allItems
 }
 
-async function callLLM(apiKey, prompt) {
+export async function callLLM(apiKey, prompt) {
   const data = await fetchJSON('https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -183,7 +183,7 @@ async function main() {
     return
   }
 
-  const apiKey = process.env.DASHSCOPE_API_KEY
+  const apiKey = process.env.DASHSCOPE_API_KEY || process.env.ALIYUN
   if (!apiKey) {
     console.error('Error: DASHSCOPE_API_KEY environment variable is required')
     process.exit(1)

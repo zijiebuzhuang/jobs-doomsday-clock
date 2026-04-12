@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "compute": "node scripts/compute-clock.mjs",
+    "refresh-data": "npm run fetch-news && npm run compute",
     "generate-guidance": "node scripts/generate-occupation-guidance.mjs",
     "fetch-news": "node scripts/fetch-news.mjs",
     "save-history": "node scripts/save-history.mjs",

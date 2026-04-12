@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { pathToFileURL } from 'url'
+import { callLLM } from './fetch-news.mjs'
 import {
   BLS_CATEGORIES,
   HISTORY_WINDOW_DAYS,
@@ -25,6 +26,7 @@ const CATEGORY_DELAY_PRESSURE_FACTOR = 0.007
 const CATEGORY_DELAY_RELIEF_FACTOR = 0.0045
 const MAX_NEWS_ADJUSTMENT = 1.1
 const MAX_CATEGORY_ADJUSTMENT = 0.35
+const SIGNAL_SUMMARY_MAX_ITEMS = 8
 const DATA_OUTPUT_PATH = 'public/data.json'
 
 let cachedBaseData
@@ -204,7 +206,101 @@ function computeCategoryAdjustments(newsFeed, asOfDate) {
   return categoryAdjustments
 }
 
-export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', newsFeedLimit = 20, newsFeed } = {}) {
+function summaryPayloadSchema() {
+  return `{
+  "dailyPulse": {
+    "title": "string under 70 chars",
+    "preview": "1 short sentence under 140 chars",
+    "body": "2-4 sentences, clear and readable"
+  }
+}`
+}
+
+function summaryPrompt({ items, generatedAt, macroReplacementRate, newsAdjustment }) {
+  const topItems = items
+    .slice(0, SIGNAL_SUMMARY_MAX_ITEMS)
+    .map(item => ({
+      title: item.title,
+      source: item.source,
+      date: item.date,
+      effect: item.effect,
+      impactScore: item.impactScore,
+      summary: item.summary,
+    }))
+
+  return `You are writing a single daily summary for AI Jobs Clock, an English-language product that tracks how current news affects AI job replacement pressure.
+
+Write one concise but thoughtful daily summary that synthesizes the latest signal mix into a readable product surface.
+
+Rules:
+- Return ONLY valid JSON.
+- Follow this exact schema: ${summaryPayloadSchema()}
+- Only produce dailyPulse. Do not include accelerators or delays.
+- The writing should feel like a short analyst note, not marketing copy.
+- Use plain English.
+- Do not mention being an AI.
+- Do not invent facts beyond the provided items.
+- The preview should be a tight teaser.
+- The body should be deeper than the preview and mention the overall balance of the feed.
+- It is okay to reference one or two standout headlines by title.
+
+Context:
+- Updated at: ${generatedAt}
+- Macro replacement rate: ${macroReplacementRate}
+- News adjustment in minutes: ${newsAdjustment}
+- Signal count: ${items.length}
+
+Signals:
+${JSON.stringify(topItems, null, 2)}`
+}
+
+function normalizeSignalSummaryPayload(payload) {
+  if (!payload || typeof payload !== 'object') return undefined
+  const dailyPulse = payload.dailyPulse
+  if (!dailyPulse || typeof dailyPulse !== 'object') return undefined
+  if (typeof dailyPulse.title !== 'string' || typeof dailyPulse.preview !== 'string' || typeof dailyPulse.body !== 'string') {
+    return undefined
+  }
+
+  const title = dailyPulse.title.trim()
+  const preview = dailyPulse.preview.trim()
+  const body = dailyPulse.body.trim()
+
+  if (!title || !preview || !body) return undefined
+
+  return {
+    dailyPulse: {
+      title,
+      preview,
+      body,
+    },
+  }
+}
+
+export async function generateSignalSummaries({ feedWindow, generatedAt, macroReplacementRate, newsAdjustment }) {
+  if (feedWindow.length === 0) return undefined
+
+  const apiKey = process.env.DASHSCOPE_API_KEY || process.env.ALIYUN
+  if (!apiKey) return undefined
+
+  const prompt = summaryPrompt({
+    items: feedWindow,
+    generatedAt,
+    macroReplacementRate,
+    newsAdjustment,
+  })
+
+  const content = await callLLM(apiKey, prompt)
+  return normalizeSignalSummaryPayload(JSON.parse(content.trim()))
+}
+
+export function buildClockData({
+  asOfDate = new Date(),
+  feedMode = 'recent',
+  newsFeedLimit = 20,
+  newsFeed,
+  signalSummaries,
+} = {}) {
   const baseData = loadBaseData()
   const feedWindow = filterFeedWindow(newsFeed ?? loadFeedItems(), asOfDate)
   const pressureByDay = buildMacroPressureSeries(feedWindow, asOfDate)
@@ -217,6 +313,7 @@ export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', new
   const hours = Math.floor((wallClockTotalSeconds / 3600) % 24)
   const minutes = Math.floor((wallClockTotalSeconds % 3600) / 60)
   const seconds = wallClockTotalSeconds % 60
+  const macroReplacementRate = Math.round((50 - (exactMinutesToMidnight / baseMinutesPerReplacementRatePoint(baseData))) * 1000) / 1000
 
   return {
     displayTime: `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`,
@@ -226,19 +323,34 @@ export function buildClockData({ asOfDate = new Date(), feedMode = 'recent', new
     newsAdjustment,
     categoryAdjustments,
     replacementRate: baseData.replacementRate,
-    macroReplacementRate: Math.round((50 - (exactMinutesToMidnight / baseMinutesPerReplacementRatePoint(baseData))) * 1000) / 1000,
+    macroReplacementRate,
     totalJobs: baseData.totalJobs,
     occupationCount: baseData.occupationCount,
     occupations: baseData.occupations,
     newsFeed: feedMode === 'daily' ? feedItemsForDate(feedWindow, asOfDate, true) : feedWindow.slice(0, newsFeedLimit),
     generatedAt: asOfDate.toISOString(),
+    ...(signalSummaries ? { signalSummaries } : {}),
   }
 }
 
 async function main() {
   const cliDate = process.argv.find(arg => arg.startsWith('--date='))?.split('=')[1]
   const asOfDate = resolveAsOfDate(cliDate)
-  const output = buildClockData({ asOfDate })
+  const preliminaryOutput = buildClockData({ asOfDate })
+  let signalSummaries
+
+  try {
+    signalSummaries = await generateSignalSummaries({
+      feedWindow: preliminaryOutput.newsFeed,
+      generatedAt: preliminaryOutput.generatedAt,
+      macroReplacementRate: preliminaryOutput.macroReplacementRate,
+      newsAdjustment: preliminaryOutput.newsAdjustment,
+    })
+  } catch (err) {
+    console.warn(`Signal summary generation failed: ${err.message}`)
+  }
+
+  const output = buildClockData({ asOfDate, signalSummaries })
 
   writeFileSync(DATA_OUTPUT_PATH, JSON.stringify(output, null, 2))
   console.log(

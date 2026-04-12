@@ -16,6 +16,7 @@ The architecture is built around precomputed data. The frontend does not calcula
 
 - **Start local dev server**: `npm run dev`
 - **Recompute current clock data**: `npm run compute`
+- **Refresh latest news + regenerate daily summary**: `npm run refresh-data`
 - **Fetch and classify latest news**: `npm run fetch-news`
 - **Save or rebuild 90-day history**: `npm run save-history` (`node scripts/save-history.mjs --rebuild --date=YYYY-MM-DD` for a full rebuild)
 - **Backfill 90-day historical news**: `npm run backfill-news`
@@ -33,9 +34,9 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 
 ### 1. Data Pipeline (`scripts/*.mjs`)
 - `scripts/news-pipeline.mjs` is the shared layer for feed normalization, 90-day windowing, history IO, category metadata, and proxy-aware JSON fetches.
-- `scripts/fetch-news.mjs` pulls the latest RSS items, filters AI/jobs relevance, classifies them with DashScope/Qwen, and merges them into `data/news-feed.json`.
+- `scripts/fetch-news.mjs` pulls the latest RSS items, filters AI/jobs relevance, classifies them with DashScope/Qwen, and merges them into `data/news-feed.json`. It accepts either `DASHSCOPE_API_KEY` or `ALIYUN` for the model key.
 - `scripts/backfill-news.mjs` queries News API for a 90-day range, runs the same classifier path, merges historical items into `data/news-feed.json`, then regenerates `public/data.json` and `public/clock-history.json`.
-- `scripts/compute-clock.mjs` reads the raw datasets plus the retained news feed, calculates the `replacementRate` = (jobs-weighted average exposure) * 10, maps it to a 24-hour clock where 50% replacement = 00:00, applies decayed news/category adjustments, and writes `public/data.json`.
+- `scripts/compute-clock.mjs` reads the raw datasets plus the retained news feed, calculates the `replacementRate` = (jobs-weighted average exposure) * 10, maps it to a 24-hour clock where 50% replacement = 00:00, applies decayed news/category adjustments, generates the single daily signal summary when `DASHSCOPE_API_KEY` or `ALIYUN` is available, and writes `public/data.json`.
 - `scripts/save-history.mjs` writes daily snapshots to `public/clock-history.json`; each snapshot includes per-day `newsFeed` and category adjustments. Quiet days are valid and should keep `newsFeed: []`.
 
 ### 2. Frontend Application (`src/`)
