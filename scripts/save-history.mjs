@@ -1,20 +1,46 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { pathToFileURL } from 'url'
-import { buildClockData } from './compute-clock.mjs'
+import { buildClockData, buildDeterministicSignalSummaries, generateSignalSummaries } from './compute-clock.mjs'
 import { HISTORY_WINDOW_DAYS, loadFeedItems, resolveAsOfDate, toISODate } from './news-pipeline.mjs'
 
 const HISTORY_PATH = 'public/clock-history.json'
+const MODEL_HISTORY_START_DATE = '2026-03-26'
 
-function snapshotForDate(asOfDate, newsFeed) {
+async function snapshotForDate(asOfDate, newsFeed) {
   const data = buildClockData({ asOfDate, feedMode: 'daily', newsFeed })
+  const dateKey = toISODate(asOfDate)
+  const shouldUseModel = dateKey >= MODEL_HISTORY_START_DATE && data.newsFeed.length > 0
+  let signalSummaries
+
+  if (shouldUseModel) {
+    try {
+      signalSummaries = await generateSignalSummaries({
+        feedWindow: data.newsFeed,
+        generatedAt: data.generatedAt,
+        macroReplacementRate: data.macroReplacementRate,
+        newsAdjustment: data.newsAdjustment,
+      })
+    } catch (err) {
+      console.warn(`Signal summary generation failed for ${dateKey}: ${err.message}`)
+    }
+  }
+
+  signalSummaries ??= buildDeterministicSignalSummaries({
+    feedWindow: data.newsFeed,
+    generatedAt: data.generatedAt,
+    macroReplacementRate: data.macroReplacementRate,
+    newsAdjustment: data.newsAdjustment,
+  })
+
   return {
-    date: toISODate(asOfDate),
+    date: dateKey,
     minutesToMidnight: data.minutesToMidnight,
     exactMinutesToMidnight: data.exactMinutesToMidnight,
     macroReplacementRate: data.macroReplacementRate,
     newsAdjustment: data.newsAdjustment,
     categoryAdjustments: data.categoryAdjustments || {},
     newsFeed: data.newsFeed,
+    signalSummaries,
   }
 }
 
@@ -26,15 +52,14 @@ function buildDateRange(endDate) {
   })
 }
 
-export function buildHistory({ rebuild = false, endDate = new Date(), newsFeed = loadFeedItems() } = {}) {
+export async function buildHistory({ rebuild = false, endDate = new Date(), newsFeed = loadFeedItems() } = {}) {
   if (rebuild) {
-    return buildDateRange(endDate)
-      .map(date => snapshotForDate(date, newsFeed))
-      .sort((a, b) => b.date.localeCompare(a.date))
+    const snapshots = await Promise.all(buildDateRange(endDate).map(date => snapshotForDate(date, newsFeed)))
+    return snapshots.sort((a, b) => b.date.localeCompare(a.date))
   }
 
   const today = toISODate(endDate)
-  const snapshot = snapshotForDate(endDate, newsFeed)
+  const snapshot = await snapshotForDate(endDate, newsFeed)
   const history = existsSync(HISTORY_PATH)
     ? JSON.parse(readFileSync(HISTORY_PATH, 'utf-8'))
     : []
@@ -55,7 +80,7 @@ async function main() {
   const cliDate = process.argv.find(arg => arg.startsWith('--date='))?.split('=')[1]
   const rebuild = process.argv.includes('--rebuild') || process.env.REBUILD_HISTORY === 'true'
   const endDate = resolveAsOfDate(cliDate)
-  const history = buildHistory({ rebuild, endDate })
+  const history = await buildHistory({ rebuild, endDate })
 
   writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2))
   console.log(`${rebuild ? 'Rebuilt' : 'Saved'} history: ${history.length} entries saved to ${HISTORY_PATH}`)

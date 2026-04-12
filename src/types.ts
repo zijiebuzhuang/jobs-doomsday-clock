@@ -32,6 +32,10 @@ export type SignalSummaryPayload = {
   body: string
 }
 
+export type SignalSummaries = {
+  dailyPulse?: SignalSummaryPayload
+}
+
 export type ClockData = {
   displayTime: string
   minutesToMidnight: number
@@ -46,7 +50,16 @@ export type ClockData = {
   occupations: OccupationItem[]
   newsFeed: NewsFeedItem[]
   generatedAt: string
-  signalSummaries?: {
-    dailyPulse?: SignalSummaryPayload
-  }
+  signalSummaries?: SignalSummaries
+}
+
+export type ClockHistoryEntry = {
+  date: string
+  minutesToMidnight: number
+  exactMinutesToMidnight: number
+  macroReplacementRate?: number
+  newsAdjustment: number
+  categoryAdjustments?: Record<string, number>
+  newsFeed: NewsFeedItem[]
+  signalSummaries?: SignalSummaries
 }

@@ -2,108 +2,145 @@
   {
     "date": "2026-04-12",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.983,
-    "macroReplacementRate": 49.17,
-    "newsAdjustment": -1.017,
+    "exactMinutesToMidnight": 11.9,
+    "macroReplacementRate": 49.176,
+    "newsAdjustment": -1.1,
     "categoryAdjustments": {
-      "healthcare": -0.067,
-      "life-physical-and-social-science": -0.099,
-      "architecture-and-engineering": -0.142,
-      "management": -0.166,
-      "business-and-financial": -0.239,
-      "construction-and-extraction": -0.024,
-      "production": -0.062,
-      "installation-maintenance-and-repair": -0.024,
-      "education-training-and-library": -0.005,
-      "office-and-administrative-support": -0.189,
-      "transportation-and-material-moving": -0.065,
-      "personal-care-and-service": -0.037,
-      "sales": -0.065,
-      "media-and-communication": -0.004,
+      "healthcare": -0.132,
+      "life-physical-and-social-science": -0.164,
+      "architecture-and-engineering": -0.207,
+      "management": -0.211,
+      "business-and-financial": -0.304,
+      "construction-and-extraction": -0.089,
+      "production": -0.127,
+      "installation-maintenance-and-repair": -0.089,
+      "education-training-and-library": -0.08,
+      "office-and-administrative-support": -0.254,
+      "transportation-and-material-moving": -0.13,
+      "personal-care-and-service": -0.121,
+      "sales": -0.13,
+      "media-and-communication": -0.08,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": 0.019,
-      "arts-and-design": -0.004,
-      "entertainment-and-sports": -0.024,
-      "protective-service": -0.056,
-      "food-preparation-and-serving": -0.024,
-      "legal": -0.03,
-      "math": -0.067,
-      "farming-fishing-and-forestry": -0.024,
-      "building-and-grounds-cleaning": -0.024
+      "community-and-social-service": -0.065,
+      "arts-and-design": -0.08,
+      "entertainment-and-sports": -0.089,
+      "protective-service": -0.121,
+      "food-preparation-and-serving": -0.089,
+      "legal": -0.095,
+      "math": -0.132,
+      "farming-fishing-and-forestry": -0.089,
+      "building-and-grounds-cleaning": -0.089
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-04-12T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
+      }
+    }
   },
   {
     "date": "2026-04-11",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.977,
-    "macroReplacementRate": 49.171,
-    "newsAdjustment": -1.023,
+    "exactMinutesToMidnight": 11.9,
+    "macroReplacementRate": 49.176,
+    "newsAdjustment": -1.1,
     "categoryAdjustments": {
-      "healthcare": -0.077,
-      "life-physical-and-social-science": -0.109,
-      "architecture-and-engineering": -0.152,
-      "management": -0.154,
-      "business-and-financial": -0.248,
-      "construction-and-extraction": -0.033,
-      "production": -0.072,
-      "installation-maintenance-and-repair": -0.033,
-      "education-training-and-library": -0.024,
-      "office-and-administrative-support": -0.199,
-      "transportation-and-material-moving": -0.075,
-      "personal-care-and-service": -0.065,
-      "sales": -0.075,
-      "media-and-communication": -0.024,
+      "healthcare": -0.12,
+      "life-physical-and-social-science": -0.152,
+      "architecture-and-engineering": -0.195,
+      "management": -0.197,
+      "business-and-financial": -0.291,
+      "construction-and-extraction": -0.077,
+      "production": -0.115,
+      "installation-maintenance-and-repair": -0.077,
+      "education-training-and-library": -0.068,
+      "office-and-administrative-support": -0.242,
+      "transportation-and-material-moving": -0.118,
+      "personal-care-and-service": -0.108,
+      "sales": -0.118,
+      "media-and-communication": -0.068,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.007,
-      "arts-and-design": -0.024,
-      "entertainment-and-sports": -0.033,
-      "protective-service": -0.066,
-      "food-preparation-and-serving": -0.033,
-      "legal": -0.038,
-      "math": -0.077,
-      "farming-fishing-and-forestry": -0.033,
-      "building-and-grounds-cleaning": -0.033
+      "community-and-social-service": -0.05,
+      "arts-and-design": -0.068,
+      "entertainment-and-sports": -0.077,
+      "protective-service": -0.109,
+      "food-preparation-and-serving": -0.077,
+      "legal": -0.081,
+      "math": -0.12,
+      "farming-fishing-and-forestry": -0.077,
+      "building-and-grounds-cleaning": -0.077
     },
-    "newsFeed": []
+    "newsFeed": [
+      {
+        "id": "your-article-about-ai-doesn-t-need-ai-art",
+        "title": "Your article about AI doesn’t need AI art",
+        "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
+        "date": "2026-04-11",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI art",
+          "creative industries",
+          "job replacement"
+        ],
+        "fetchedAt": "2026-04-12T10:12:30.157Z",
+        "categories": [
+          "arts-and-design",
+          "media-and-communication",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI Advances in Creative Industries Signal Shift",
+        "preview": "New developments show AI's growing role in creative fields.",
+        "body": "A recent article highlights the increasing use of AI in creating illustrations, reflecting broader automation trends in design and artistic roles. The signal suggests a continued push toward AI integration in non-traditional tech sectors. Overall, the feed shows a balanced view of AI's evolving impact on job markets."
+      }
+    }
   },
   {
     "date": "2026-04-10",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.01,
-    "macroReplacementRate": 49.169,
-    "newsAdjustment": -0.99,
+    "exactMinutesToMidnight": 11.989,
+    "macroReplacementRate": 49.17,
+    "newsAdjustment": -1.011,
     "categoryAdjustments": {
-      "healthcare": -0.062,
-      "life-physical-and-social-science": -0.095,
-      "architecture-and-engineering": -0.138,
-      "management": -0.138,
-      "business-and-financial": -0.232,
-      "construction-and-extraction": -0.019,
-      "production": -0.058,
-      "installation-maintenance-and-repair": -0.019,
-      "education-training-and-library": -0.01,
-      "office-and-administrative-support": -0.185,
-      "transportation-and-material-moving": -0.061,
-      "personal-care-and-service": -0.051,
-      "sales": -0.061,
-      "media-and-communication": -0.01,
+      "healthcare": -0.073,
+      "life-physical-and-social-science": -0.106,
+      "architecture-and-engineering": -0.149,
+      "management": -0.149,
+      "business-and-financial": -0.243,
+      "construction-and-extraction": -0.03,
+      "production": -0.069,
+      "installation-maintenance-and-repair": -0.03,
+      "education-training-and-library": -0.021,
+      "office-and-administrative-support": -0.196,
+      "transportation-and-material-moving": -0.072,
+      "personal-care-and-service": -0.062,
+      "sales": -0.072,
+      "media-and-communication": -0.021,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": 0.009,
-      "arts-and-design": -0.01,
-      "entertainment-and-sports": -0.019,
-      "protective-service": -0.052,
-      "food-preparation-and-serving": -0.019,
-      "legal": -0.022,
-      "math": -0.063,
-      "farming-fishing-and-forestry": -0.019,
-      "building-and-grounds-cleaning": -0.019
+      "community-and-social-service": -0.001,
+      "arts-and-design": -0.021,
+      "entertainment-and-sports": -0.03,
+      "protective-service": -0.062,
+      "food-preparation-and-serving": -0.03,
+      "legal": -0.033,
+      "math": -0.074,
+      "farming-fishing-and-forestry": -0.03,
+      "building-and-grounds-cleaning": -0.03
     },
     "newsFeed": [
       {
         "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
         "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-        "summary": "The lawsuit against OpenAI highlights risks of AI misuse, potentially slowing adoption of AI in sensitive roles due to increased scrutiny and liability concerns.",
+        "summary": "This news highlights potential risks of AI systems, which may slow public and regulatory acceptance of AI in sensitive roles, potentially delaying AI job replacement efforts.",
         "date": "2026-04-10",
         "source": "TechCrunch - AI",
         "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
@@ -111,51 +148,144 @@
         "impactScore": 3,
         "tags": [
           "AI ethics",
-          "liability",
-          "misuse"
+          "AI accountability",
+          "legal implications"
         ],
-        "fetchedAt": "2026-04-11T00:00:31.603Z",
+        "fetchedAt": "2026-04-12T10:12:26.060Z",
+        "categories": [
+          "computer-and-information-technology",
+          "community-and-social-service",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI job replacement faces new regulatory scrutiny",
+        "preview": "A lawsuit against OpenAI raises concerns about AI risks.",
+        "body": "A recent lawsuit alleging that ChatGPT exacerbated a victim's abuse highlights growing concerns about AI accountability. This development may slow progress in adopting AI for sensitive roles, affecting job replacement timelines. The overall sentiment remains cautious as regulatory pressures increase."
+      }
+    }
+  },
+  {
+    "date": "2026-04-09",
+    "minutesToMidnight": 12,
+    "exactMinutesToMidnight": 11.95,
+    "macroReplacementRate": 49.173,
+    "newsAdjustment": -1.05,
+    "categoryAdjustments": {
+      "healthcare": -0.096,
+      "life-physical-and-social-science": -0.129,
+      "architecture-and-engineering": -0.172,
+      "management": -0.171,
+      "business-and-financial": -0.265,
+      "construction-and-extraction": -0.053,
+      "production": -0.091,
+      "installation-maintenance-and-repair": -0.053,
+      "education-training-and-library": -0.044,
+      "office-and-administrative-support": -0.22,
+      "transportation-and-material-moving": -0.095,
+      "personal-care-and-service": -0.085,
+      "sales": -0.095,
+      "media-and-communication": -0.044,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.022,
+      "arts-and-design": -0.044,
+      "entertainment-and-sports": -0.053,
+      "protective-service": -0.085,
+      "food-preparation-and-serving": -0.053,
+      "legal": -0.053,
+      "math": -0.097,
+      "farming-fishing-and-forestry": -0.053,
+      "building-and-grounds-cleaning": -0.053
+    },
+    "newsFeed": [
+      {
+        "id": "florida-launches-investigation-into-openai",
+        "title": "Florida launches investigation into OpenAI",
+        "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+        "date": "2026-04-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "ai-ethics",
+          "policy"
+        ],
+        "fetchedAt": "2026-04-12T10:12:32.960Z",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
+        "title": "ChatGPT has a new $100 per month Pro subscription",
+        "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
+        "date": "2026-04-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "coding",
+          "subscription model"
+        ],
+        "fetchedAt": "2026-04-12T10:12:32.172Z",
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      },
+      {
+        "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+        "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
+        "date": "2026-04-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI ethics",
+          "cybersecurity",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-12T10:12:28.474Z",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service",
+          "_all"
+        ]
+      },
+      {
+        "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "summary": "This news could slow AI job replacement efforts due to increased scrutiny and legal risks associated with AI use.",
+        "date": "2026-04-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "legal liability",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-04-12T10:12:27.637Z",
         "categories": [
           "computer-and-information-technology",
           "legal",
           "_all"
         ]
-      }
-    ]
-  },
-  {
-    "date": "2026-04-09",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.972,
-    "macroReplacementRate": 49.171,
-    "newsAdjustment": -1.028,
-    "categoryAdjustments": {
-      "healthcare": -0.085,
-      "life-physical-and-social-science": -0.117,
-      "architecture-and-engineering": -0.161,
-      "management": -0.159,
-      "business-and-financial": -0.253,
-      "construction-and-extraction": -0.041,
-      "production": -0.08,
-      "installation-maintenance-and-repair": -0.041,
-      "education-training-and-library": -0.032,
-      "office-and-administrative-support": -0.208,
-      "transportation-and-material-moving": -0.083,
-      "personal-care-and-service": -0.073,
-      "sales": -0.083,
-      "media-and-communication": -0.032,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.011,
-      "arts-and-design": -0.032,
-      "entertainment-and-sports": -0.041,
-      "protective-service": -0.074,
-      "food-preparation-and-serving": -0.041,
-      "legal": -0.042,
-      "math": -0.085,
-      "farming-fishing-and-forestry": -0.041,
-      "building-and-grounds-cleaning": -0.041
-    },
-    "newsFeed": [
+      },
       {
         "id": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
         "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
@@ -175,28 +305,8 @@
           "architecture-and-engineering",
           "computer-and-information-technology",
           "math"
-        ]
-      },
-      {
-        "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
-        "title": "ChatGPT has a new $100 per month Pro subscription",
-        "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "coding tools",
-          "subscription model"
         ],
-        "fetchedAt": "2026-04-11T00:00:34.986Z",
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
       },
       {
         "id": "gemini-gets-notebooks-to-help-you-organize-projects",
@@ -239,70 +349,15 @@
           "computer-and-information-technology",
           "life-physical-and-social-science"
         ]
-      },
-      {
-        "id": "florida-launches-investigation-into-openai",
-        "title": "Florida launches investigation into OpenAI",
-        "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "ai-ethics",
-          "policy"
-        ],
-        "fetchedAt": "2026-04-10T00:00:40.448Z",
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
-        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-        "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
-        "date": "2026-04-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "cybersecurity",
-          "AI regulation",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-10T00:00:38.737Z",
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-        "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
-        "date": "2026-04-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "legal",
-          "AI ethics",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-10T00:00:37.353Z",
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI regulatory scrutiny and new features shape job replacement dynamics",
+        "preview": "Regulatory actions and advanced AI tools create mixed signals for job replacement.",
+        "body": "Recent news shows a balance between regulatory delays and technological advances. Florida's investigation into OpenAI and Anthropic's cautious release of Mythos suggest growing legal and ethical concerns, potentially slowing AI adoption. Meanwhile, Google's Gemini updates and ChatGPT Pro highlight ongoing improvements in AI capabilities, which could accelerate job displacement in technical fields. Overall, the mix reflects cautious progress with increasing oversight."
+      }
+    }
   },
   {
     "date": "2026-04-08",
@@ -358,7 +413,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Meta's Muse Spark signals continued AI progress",
+        "preview": "New AI model from Meta raises concerns about job replacement trends.",
+        "body": "A single signal highlights Meta's reentry into the AI race with Muse Spark, which could accelerate job replacement in tech sectors. The overall feed shows a balanced but cautiously rising pressure from AI advancements."
+      }
+    }
   },
   {
     "date": "2026-04-07",
@@ -516,7 +578,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI job replacement pressure remains stable with mixed signals",
+        "preview": "New AI advancements and ethical concerns balance out today's news.",
+        "body": "Today's news shows a mix of progress and caution, with AI advances in cybersecurity and content creation offset by ethical concerns and discussions about job creation. Key headlines like 'A new Anthropic model found security problems' and 'AI Job Replacement Fear: Why AI Creates New Work' highlight the ongoing tension between automation and human roles. The overall balance suggests no major shift in job replacement pressure."
+      }
+    }
   },
   {
     "date": "2026-04-06",
@@ -635,7 +704,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI job replacement concerns persist with mixed signals",
+        "preview": "Expert predictions and new AI funding suggest ongoing pressure, but uncertainty remains.",
+        "body": "The latest news shows a mix of advancing and delaying factors. Expert predictions from AIMultiple highlight growing concerns about AI job loss, while MIT Tech Review emphasizes the unclear extent of replacement. OpenAI's proposals for AI taxes aim to slow displacement, but a new $100M fund by OpenAI alumni could accelerate it. Overall, the balance remains tense between innovation and mitigation efforts."
+      }
+    }
   },
   {
     "date": "2026-04-05",
@@ -691,7 +767,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI Integration in Daily Planning Signals Job Market Shifts",
+        "preview": "New AI tools in everyday apps hint at growing job displacement risks.",
+        "body": "The integration of Gemini into Google Maps highlights AI's expanding role in personal planning, raising concerns about potential job displacement in service and administrative sectors. This development aligns with broader trends suggesting increased pressure on traditional roles. Overall, the feed reflects a cautious outlook as AI capabilities continue to evolve."
+      }
+    }
   },
   {
     "date": "2026-04-04",
@@ -747,7 +830,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Cost Hike for AI Coding Tools May Slow Job Replacement",
+        "preview": "New pricing could delay AI-driven job changes in coding.",
+        "body": "A recent announcement from Anthropic that Claude Code subscribers will face extra charges for OpenClaw usage may slow the adoption of AI in coding tasks. This cost increase could act as a barrier to broader implementation, suggesting a temporary delay in AI-driven job replacement pressures. The overall signal points to cautious progress in AI integration."
+      }
+    }
   },
   {
     "date": "2026-04-03",
@@ -804,7 +894,14 @@
           "computer-and-information-technology"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI investment in biotech signals growing job replacement pressure",
+        "preview": "Anthropic's $400M acquisition of Coefficient Bio highlights AI's expanding influence.",
+        "body": "The acquisition of Coefficient Bio by Anthropic underscores increasing AI investment in biotech, which could accelerate job replacement trends in the sector. This single signal suggests a forward-looking shift in AI adoption, with limited immediate impact on broader job markets. Overall, the feed shows cautious momentum in AI-driven labor changes."
+      }
+    }
   },
   {
     "date": "2026-04-02",
@@ -942,7 +1039,14 @@
           "healthcare"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Mixed signals on AI job impact as studies and policies push back",
+        "preview": "New studies and initiatives suggest slower AI job replacement.",
+        "body": "Recent news shows a mixed outlook, with some reports indicating delays in AI-driven job displacement. A MIT study questions the severity of AI's impact on jobs, while a U.S. government initiative focuses on upskilling workers. However, advancements from Google and Microsoft suggest ongoing progress in AI capabilities that could still lead to job changes. Overall, the balance of signals leans slightly toward slower replacement pressure."
+      }
+    }
   },
   {
     "date": "2026-04-01",
@@ -1019,7 +1123,14 @@
           "business-and-financial"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI advances drive continued job replacement pressure",
+        "preview": "New AI tools show growing capability to automate tasks.",
+        "body": "Two major AI advancements were reported today, with both highlighting increased automation potential. 'OpenAI Releases GPT-5 with Autonomous Agent Capabilities' and 'AI can push your Stream Deck buttons for you' indicate a trend toward more efficient task execution by AI, adding to the ongoing pressure on jobs requiring routine knowledge or input tasks. The overall feed reflects a balanced but slightly upward shift in replacement concerns."
+      }
+    }
   },
   {
     "date": "2026-03-31",
@@ -1136,7 +1247,14 @@
           "office-and-administrative-support"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI job replacement pressure stabilizes with mixed signals",
+        "preview": "New regulations and funding boosts create a balanced outlook.",
+        "body": "The latest news shows a mix of progress and caution, with OpenAI's major funding round and AI health tool development indicating continued AI advancement, while human errors at Anthropic and new EU regulations suggest delays in job replacement. Overall, the balance remains stable."
+      }
+    }
   },
   {
     "date": "2026-03-30",
@@ -1214,7 +1332,14 @@
           "office-and-administrative-support"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI job pressure shows mixed signals today",
+        "preview": "Two key stories highlight both delays and advances in AI adoption.",
+        "body": "One story notes ethical concerns around AI-generated music, suggesting potential delays in its impact on jobs. Another reports that Google is automating 40% of code reviews with AI, advancing efficiency and reducing the need for junior developers. The mix of these signals suggests a balanced but evolving landscape."
+      }
+    }
   },
   {
     "date": "2026-03-29",
@@ -1291,7 +1416,14 @@
           "business-and-financial"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI Tools and Job Creation Trends Shape Daily Dynamics",
+        "preview": "New AI features and job growth studies influence current trends.",
+        "body": "Two key signals today highlight the evolving AI landscape: one about AI-driven social media customization and another about AI's net job creation. The overall feed shows a balanced mix of acceleration and delay, with new tools potentially increasing AI adoption while studies suggest growing job opportunities in oversight roles."
+      }
+    }
   },
   {
     "date": "2026-03-28",
@@ -1347,7 +1479,14 @@
           "transportation-and-material-moving"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Amazon shifts customer service to AI, boosting replacement pressure",
+        "preview": "Amazon's AI rollout adds to rising job replacement trends.",
+        "body": "A major signal emerged today as Amazon replaced 2,000 customer service roles with AI chatbots, reflecting ongoing automation efforts. This development contributes to a slight upward trend in replacement pressure. The overall feed shows a balanced but cautiously increasing risk for affected roles."
+      }
+    }
   },
   {
     "date": "2026-03-27",
@@ -1403,7 +1542,14 @@
           "business-and-financial"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "AI Advances in Legal Proficiency Signal Shifts",
+        "preview": "Claude's top 1% bar exam score highlights growing AI capabilities.",
+        "body": "A single notable signal emerged today, with Claude achieving a top 1% score on the bar exam, suggesting increasing AI proficiency in legal domains. This development adds to ongoing discussions about AI's role in professional fields. The overall feed remains cautiously balanced, with no major shifts in replacement pressure indicators."
+      }
+    }
   },
   {
     "date": "2026-03-26",
@@ -1437,7 +1583,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-26T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-25",
@@ -1471,7 +1624,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-25T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-24",
@@ -1505,7 +1665,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-23",
@@ -1539,7 +1706,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-22",
@@ -1573,7 +1747,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-21",
@@ -1607,7 +1788,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-20",
@@ -1641,7 +1829,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-19",
@@ -1675,7 +1870,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-18",
@@ -1709,7 +1911,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-17",
@@ -1743,7 +1952,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-17T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-16",
@@ -1777,7 +1993,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-15",
@@ -1811,7 +2034,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-14",
@@ -1845,7 +2075,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-13",
@@ -1879,7 +2116,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-13T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-12",
@@ -1913,7 +2157,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-12T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-11",
@@ -1947,7 +2198,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-11T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-10",
@@ -2003,7 +2261,14 @@
           "business-and-financial"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected? - Investopedia.",
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected? - Investopedia\" (AI Jobs), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -0.156 minutes. Updated 2026-03-10T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-09",
@@ -2059,7 +2324,14 @@
           "production"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by AI Jobs vs Human Jobs: Anthropic Study Reveals Roles AI Could Replace and Jobs Already Automated - sundayguardianlive.com.",
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"AI Jobs vs Human Jobs: Anthropic Study Reveals Roles AI Could Replace and Jobs Already Automated - sundayguardianlive.com\" (AI Jobs), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -0.065 minutes. Updated 2026-03-09T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-08",
@@ -2114,7 +2386,14 @@
           "community-and-social-service"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic finally reveals which jobs AI cannot replace - thestreet.com.",
+        "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"Anthropic finally reveals which jobs AI cannot replace - thestreet.com\" (AI Jobs), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. Updated 2026-03-08T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-07",
@@ -2148,7 +2427,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-07T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-06",
@@ -2182,7 +2468,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-06T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-05",
@@ -2216,7 +2509,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-05T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-04",
@@ -2250,7 +2550,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-04T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-03",
@@ -2284,7 +2591,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-03T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-02",
@@ -2318,7 +2632,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-02T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-03-01",
@@ -2352,7 +2673,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-03-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-28",
@@ -2386,7 +2714,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-28T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-27",
@@ -2420,7 +2755,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-27T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-26",
@@ -2454,7 +2796,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-26T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-25",
@@ -2488,7 +2837,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-25T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-24",
@@ -2522,7 +2878,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-23",
@@ -2556,7 +2919,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-22",
@@ -2590,7 +2960,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-21",
@@ -2624,7 +3001,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-20",
@@ -2658,7 +3042,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-19",
@@ -2692,7 +3083,14 @@
       "farming-fishing-and-forestry": 0.001,
       "building-and-grounds-cleaning": 0.001
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-18",
@@ -2726,7 +3124,14 @@
       "farming-fishing-and-forestry": 0.003,
       "building-and-grounds-cleaning": 0.003
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-17",
@@ -2760,7 +3165,14 @@
       "farming-fishing-and-forestry": 0.004,
       "building-and-grounds-cleaning": 0.004
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-17T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-16",
@@ -2794,7 +3206,14 @@
       "farming-fishing-and-forestry": 0.005,
       "building-and-grounds-cleaning": 0.005
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-15",
@@ -2828,7 +3247,14 @@
       "farming-fishing-and-forestry": 0.006,
       "building-and-grounds-cleaning": 0.006
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-14",
@@ -2862,7 +3288,14 @@
       "farming-fishing-and-forestry": 0.008,
       "building-and-grounds-cleaning": 0.008
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-13",
@@ -2916,7 +3349,14 @@
           "_all"
         ]
       }
-    ]
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by What Jobs Will AI Replace? - snhu.edu.",
+        "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"What Jobs Will AI Replace? - snhu.edu\" (AI Jobs), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. Updated 2026-02-13T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-12",
@@ -2950,7 +3390,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-12T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-11",
@@ -2984,7 +3431,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-11T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-10",
@@ -3018,7 +3472,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-10T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-09",
@@ -3052,7 +3513,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-09T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-08",
@@ -3086,7 +3554,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-08T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-07",
@@ -3120,7 +3595,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-07T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-06",
@@ -3154,7 +3636,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-06T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-05",
@@ -3188,7 +3677,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-05T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-04",
@@ -3222,7 +3718,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-04T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-03",
@@ -3256,7 +3759,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-03T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-02",
@@ -3290,7 +3800,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-02T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-02-01",
@@ -3324,7 +3841,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-02-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-31",
@@ -3358,7 +3882,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-31T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-30",
@@ -3392,7 +3923,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-30T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-29",
@@ -3426,7 +3964,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-29T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-28",
@@ -3460,7 +4005,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-28T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-27",
@@ -3494,7 +4046,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-27T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-26",
@@ -3528,7 +4087,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-26T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-25",
@@ -3562,7 +4128,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-25T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-24",
@@ -3596,7 +4169,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-23",
@@ -3630,7 +4210,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-22",
@@ -3664,7 +4251,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-21",
@@ -3698,7 +4292,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-20",
@@ -3732,7 +4333,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-19",
@@ -3766,7 +4374,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-18",
@@ -3800,7 +4415,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-17",
@@ -3834,7 +4456,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-17T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-16",
@@ -3868,7 +4497,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-15",
@@ -3902,7 +4538,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-14",
@@ -3936,7 +4579,14 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   },
   {
     "date": "2026-01-13",
@@ -3970,6 +4620,13 @@
       "farming-fishing-and-forestry": 0,
       "building-and-grounds-cleaning": 0
     },
-    "newsFeed": []
+    "newsFeed": [],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
+        "body": "No new qualifying signals were retained for 2026-01-13T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+      }
+    }
   }
 ]

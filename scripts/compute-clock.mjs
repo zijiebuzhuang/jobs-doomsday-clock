@@ -277,6 +277,63 @@ function normalizeSignalSummaryPayload(payload) {
   }
 }
 
+export function buildDeterministicSignalSummaries({ feedWindow, generatedAt, macroReplacementRate, newsAdjustment }) {
+  const topItems = [...feedWindow]
+    .sort((lhs, rhs) => impactScore(rhs) - impactScore(lhs))
+    .slice(0, 3)
+  const advances = feedWindow.filter(item => item.effect === 'advance').length
+  const delays = feedWindow.length - advances
+  const strongestAdvance = feedWindow
+    .filter(item => item.effect === 'advance')
+    .sort((lhs, rhs) => impactScore(rhs) - impactScore(lhs))[0]
+  const strongestDelay = feedWindow
+    .filter(item => item.effect === 'delay')
+    .sort((lhs, rhs) => impactScore(rhs) - impactScore(lhs))[0]
+
+  if (feedWindow.length === 0) {
+    return {
+      dailyPulse: {
+        title: 'Daily signal pulse',
+        preview: 'A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.',
+        body: `No new qualifying signals were retained for ${generatedAt}, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break.${typeof macroReplacementRate === 'number' ? ` The latest macro replacement estimate remains ${macroReplacementRate.toFixed(1)}%.` : ''}`,
+      },
+    }
+  }
+
+  const preview = topItems[0]
+    ? `A quick read on the latest pulse, led by ${topItems[0].title}.`
+    : 'A quick read on the latest signal pulse.'
+
+  let body
+  if (strongestAdvance && strongestDelay) {
+    body = `This update is split between ${advances} advances and ${delays} delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from "${strongestAdvance.title}" (${strongestAdvance.source}), while the clearest drag comes from "${strongestDelay.title}" (${strongestDelay.source}). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once.`
+  } else if (strongestAdvance) {
+    body = `This update leans forward, with ${advances} advances against ${delays} delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from "${strongestAdvance.title}" (${strongestAdvance.source}), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction.`
+  } else if (strongestDelay) {
+    body = `This update leans defensive, with ${delays} delays against ${advances} advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from "${strongestDelay.title}" (${strongestDelay.source}), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause.`
+  } else {
+    body = `This update includes ${feedWindow.length} signals but no single standout force clearly pulling the feed in one direction. The overall impression is scattered movement rather than a dominant narrative, so the value is in the mix itself more than any one headline. That leaves the clock reading as steady but watchful.`
+  }
+
+  if (typeof newsAdjustment === 'number' && Math.abs(newsAdjustment) >= 0.05) {
+    body += ` The latest news adjustment stands at ${newsAdjustment > 0 ? '+' : ''}${newsAdjustment.toFixed(3)} minutes.`
+  }
+
+  if (typeof macroReplacementRate === 'number') {
+    body += ` Updated ${generatedAt}, with the macro replacement estimate at ${macroReplacementRate.toFixed(1)}%.`
+  } else {
+    body += ` Updated ${generatedAt}.`
+  }
+
+  return {
+    dailyPulse: {
+      title: 'Daily signal pulse',
+      preview,
+      body,
+    },
+  }
+}
+
 export async function generateSignalSummaries({ feedWindow, generatedAt, macroReplacementRate, newsAdjustment }) {
   if (feedWindow.length === 0) return undefined
 
@@ -350,7 +407,15 @@ async function main() {
     console.warn(`Signal summary generation failed: ${err.message}`)
   }
 
-  const output = buildClockData({ asOfDate, signalSummaries })
+  const output = buildClockData({
+    asOfDate,
+    signalSummaries: signalSummaries ?? buildDeterministicSignalSummaries({
+      feedWindow: preliminaryOutput.newsFeed,
+      generatedAt: preliminaryOutput.generatedAt,
+      macroReplacementRate: preliminaryOutput.macroReplacementRate,
+      newsAdjustment: preliminaryOutput.newsAdjustment,
+    }),
+  })
 
   writeFileSync(DATA_OUTPUT_PATH, JSON.stringify(output, null, 2))
   console.log(

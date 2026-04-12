@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs'
 import { pathToFileURL } from 'url'
 import { classifyArticles, isRelevant } from './fetch-news.mjs'
-import { buildClockData, generateSignalSummaries } from './compute-clock.mjs'
+import { buildClockData, buildDeterministicSignalSummaries, generateSignalSummaries } from './compute-clock.mjs'
 import { buildHistory } from './save-history.mjs'
 import {
   HISTORY_WINDOW_DAYS,
@@ -115,11 +115,20 @@ async function main() {
     console.warn(`Signal summary generation failed: ${err.message}`)
   }
 
-  const currentData = buildClockData({ asOfDate, newsFeed: mergedFeed, signalSummaries })
+  const currentData = buildClockData({
+    asOfDate,
+    newsFeed: mergedFeed,
+    signalSummaries: signalSummaries ?? buildDeterministicSignalSummaries({
+      feedWindow: preliminaryData.newsFeed,
+      generatedAt: preliminaryData.generatedAt,
+      macroReplacementRate: preliminaryData.macroReplacementRate,
+      newsAdjustment: preliminaryData.newsAdjustment,
+    }),
+  })
   writeFileSync(DATA_PATH, JSON.stringify(currentData, null, 2))
   console.log(`Updated ${DATA_PATH} for ${endDate}`)
 
-  const rebuiltHistory = buildHistory({ rebuild: true, endDate: asOfDate, newsFeed: mergedFeed })
+  const rebuiltHistory = await buildHistory({ rebuild: true, endDate: asOfDate, newsFeed: mergedFeed })
   writeFileSync(HISTORY_OUTPUT_PATH, JSON.stringify(rebuiltHistory, null, 2))
   console.log(`Rebuilt ${HISTORY_OUTPUT_PATH} with ${rebuiltHistory.length} daily snapshots`)
 }
