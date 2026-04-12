@@ -2,7 +2,7 @@
   {
     "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "The lawsuit against OpenAI highlights risks of AI misuse, potentially slowing adoption of AI in sensitive roles due to increased scrutiny and liability concerns.",
+    "summary": "This news highlights AI safety concerns, potentially slowing AI adoption and job replacement efforts due to increased scrutiny and regulation.",
     "date": "2026-04-10",
     "source": "TechCrunch - AI",
     "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
@@ -10,10 +10,73 @@
     "impactScore": 3,
     "tags": [
       "AI ethics",
-      "liability",
-      "misuse"
+      "job displacement",
+      "regulation"
     ],
-    "fetchedAt": "2026-04-11T00:00:31.603Z",
+    "fetchedAt": "2026-04-12T00:00:45.518Z",
+    "categories": [
+      "computer-and-information-technology",
+      "community-and-social-service",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-backs-14-bipartisan-bills-to-shield-us-workers-from-ai-job-disruption-ppc",
+    "title": "Google backs 14 bipartisan bills to shield US workers from AI job disruption - PPC Land",
+    "summary": "Google supporting bipartisan bills to protect workers from AI job disruption suggests efforts to slow or mitigate the replacement of human jobs by AI.",
+    "date": "2026-04-10",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWZYa0ZUdG0wX0hyVzRMdVIyTGhhei1HLXp1SEdrSWZZNWhMYjFwU3lNY3pFU3REdGdWRVFwTFh4clBwVUJyek5VTE94aVJJdUoxLXJnbmY0YnIwWWdSQUh4WTJ1RWlrbkdwZjZSUVVwODllTk0zSzVpalVHMXhMU3pSM1ZQNEdtaVF5b3pyZk01RDhNZWZ3WWtR?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "labor protection",
+      "policy"
+    ],
+    "fetchedAt": "2026-04-12T00:00:39.389Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "summary": "The decision to limit the release of a highly capable AI model raises concerns about AI's potential to disrupt cybersecurity roles and may slow AI job replacement efforts due to safety concerns.",
+    "date": "2026-04-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "cybersecurity",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-12T00:00:49.584Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ]
+  },
+  {
+    "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
+    "date": "2026-04-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "legal",
+      "AI ethics",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-12T00:00:47.878Z",
     "categories": [
       "computer-and-information-technology",
       "legal",
@@ -127,47 +190,6 @@
       "_all"
     ],
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-    "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
-    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-    "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
-    "date": "2026-04-09",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "cybersecurity",
-      "AI regulation",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-10T00:00:38.737Z",
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
-    "date": "2026-04-09",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "legal",
-      "AI ethics",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-10T00:00:37.353Z",
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
   },
   {
     "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
@@ -316,7 +338,7 @@
   {
     "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
     "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
-    "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
+    "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns and potential acceleration in AI replacing human jobs.",
     "date": "2026-04-06",
     "source": "AI Jobs",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
@@ -325,9 +347,9 @@
     "tags": [
       "AI job displacement",
       "expert predictions",
-      "labor market"
+      "labor market trends"
     ],
-    "fetchedAt": "2026-04-10T00:00:34.917Z",
+    "fetchedAt": "2026-04-12T00:00:34.171Z",
     "categories": [
       "computer-and-information-technology",
       "management",
@@ -462,6 +484,27 @@
     ]
   },
   {
+    "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
+    "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
+    "summary": "The collaboration between the US Department of Labor and National Science Foundation aims to address AI workforce challenges, potentially slowing AI job replacement by focusing on training and accessibility.",
+    "date": "2026-04-02",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "workforce-development",
+      "policy",
+      "AI-impact"
+    ],
+    "fetchedAt": "2026-04-12T00:00:37.990Z",
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ]
+  },
+  {
     "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
     "title": "MIT study challenges AI job apocalypse narrative - Axios",
     "summary": "The MIT study challenges the idea that AI will cause a significant loss of human jobs, suggesting a more nuanced impact on labor markets.",
@@ -480,27 +523,6 @@
       "computer-and-information-technology",
       "management",
       "_all"
-    ]
-  },
-  {
-    "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
-    "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
-    "summary": "The initiative aims to prepare the workforce for AI, potentially slowing the replacement of human jobs by focusing on upskilling and accessibility.",
-    "date": "2026-04-02",
-    "source": "AI Workforce",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI workforce development",
-      "labor policy",
-      "job training"
-    ],
-    "fetchedAt": "2026-04-04T00:00:34.646Z",
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "management"
     ]
   },
   {
@@ -878,6 +900,27 @@
     ]
   },
   {
+    "id": "labor-market-impacts-of-ai-a-new-measure-and-early-evidence-anthropic",
+    "title": "Labor market impacts of AI: A new measure and early evidence - Anthropic",
+    "summary": "A new measure and early evidence on AI's labor market impacts suggest increased awareness and potential acceleration of AI's role in job replacement.",
+    "date": "2026-03-05",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KTkM5U1RQMnVZS29QR3BLTzQyOHJYSHFZY253LXd2RTNyZlNOZjdxMFB5ZkV4SVNJcGtaSkJIQkdma21jS0tvWWdGQ3BDZ1ZMQjFIU09Xb2FaUl9JSlcxY1lVazhUQQ?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI impact",
+      "labor market",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-12T00:00:42.321Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "what-jobs-will-ai-replace-snhu-edu",
     "title": "What Jobs Will AI Replace? - snhu.edu",
     "summary": "The article raises awareness about AI's potential to replace jobs but does not provide specific insights or developments that would accelerate or delay the process significantly.",
@@ -892,6 +935,25 @@
       "awareness"
     ],
     "fetchedAt": "2026-04-08T00:00:34.277Z",
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement-brookings",
+    "title": "Measuring US workers’ capacity to adapt to AI-driven job displacement - Brookings",
+    "summary": "The Brookings study assesses how well US workers can adapt to AI-driven job displacement, suggesting that workforce readiness may slow the pace of AI replacing human jobs.",
+    "date": "2026-01-21",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3NiT2l0ZzJRQUVqaEdwamxIZUJSZTROUkRkeWdGNy0wUVhQRmczZFc4YnVURzNaSTJOYkxwY3M2ODU5N2lyM19wamw2TmZFeFFvUXoyRUNsVlgzMmkxcnJBdTROUkZQR0U5TGVUbEg0TUlGZkZzY1g2WlpHWnVHdl9rQS1SSjN1UE9ySVI1Ull1b0lIc0NxX19xejlCem1EeEo4X01pTQ?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI impact",
+      "workforce adaptation",
+      "labor market"
+    ],
+    "fetchedAt": "2026-04-12T00:00:40.812Z",
     "categories": [
       "_all"
     ]

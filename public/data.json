@@ -1,37 +1,37 @@
 {
   "displayTime": "23:48:01",
   "minutesToMidnight": 12,
-  "exactMinutesToMidnight": 11.977,
+  "exactMinutesToMidnight": 11.983,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -1.023,
+  "newsAdjustment": -1.017,
   "categoryAdjustments": {
-    "healthcare": -0.077,
-    "life-physical-and-social-science": -0.109,
-    "architecture-and-engineering": -0.152,
-    "management": -0.154,
-    "business-and-financial": -0.248,
-    "construction-and-extraction": -0.033,
-    "production": -0.072,
-    "installation-maintenance-and-repair": -0.033,
-    "education-training-and-library": -0.024,
-    "office-and-administrative-support": -0.199,
-    "transportation-and-material-moving": -0.075,
-    "personal-care-and-service": -0.065,
-    "sales": -0.075,
-    "media-and-communication": -0.024,
+    "healthcare": -0.067,
+    "life-physical-and-social-science": -0.099,
+    "architecture-and-engineering": -0.142,
+    "management": -0.166,
+    "business-and-financial": -0.239,
+    "construction-and-extraction": -0.024,
+    "production": -0.062,
+    "installation-maintenance-and-repair": -0.024,
+    "education-training-and-library": -0.005,
+    "office-and-administrative-support": -0.189,
+    "transportation-and-material-moving": -0.065,
+    "personal-care-and-service": -0.037,
+    "sales": -0.065,
+    "media-and-communication": -0.004,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.007,
-    "arts-and-design": -0.024,
-    "entertainment-and-sports": -0.033,
-    "protective-service": -0.066,
-    "food-preparation-and-serving": -0.033,
-    "legal": -0.038,
-    "math": -0.077,
-    "farming-fishing-and-forestry": -0.033,
-    "building-and-grounds-cleaning": -0.033
+    "community-and-social-service": 0.019,
+    "arts-and-design": -0.004,
+    "entertainment-and-sports": -0.024,
+    "protective-service": -0.056,
+    "food-preparation-and-serving": -0.024,
+    "legal": -0.03,
+    "math": -0.067,
+    "farming-fishing-and-forestry": -0.024,
+    "building-and-grounds-cleaning": -0.024
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.171,
+  "macroReplacementRate": 49.17,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3109,7 +3109,7 @@
     {
       "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
       "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-      "summary": "The lawsuit against OpenAI highlights risks of AI misuse, potentially slowing adoption of AI in sensitive roles due to increased scrutiny and liability concerns.",
+      "summary": "This news highlights AI safety concerns, potentially slowing AI adoption and job replacement efforts due to increased scrutiny and regulation.",
       "date": "2026-04-10",
       "source": "TechCrunch - AI",
       "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
@@ -3117,10 +3117,73 @@
       "impactScore": 3,
       "tags": [
         "AI ethics",
-        "liability",
-        "misuse"
+        "job displacement",
+        "regulation"
       ],
-      "fetchedAt": "2026-04-11T00:00:31.603Z",
+      "fetchedAt": "2026-04-12T00:00:45.518Z",
+      "categories": [
+        "computer-and-information-technology",
+        "community-and-social-service",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-backs-14-bipartisan-bills-to-shield-us-workers-from-ai-job-disruption-ppc",
+      "title": "Google backs 14 bipartisan bills to shield US workers from AI job disruption - PPC Land",
+      "summary": "Google supporting bipartisan bills to protect workers from AI job disruption suggests efforts to slow or mitigate the replacement of human jobs by AI.",
+      "date": "2026-04-10",
+      "source": "AI Workforce",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWZYa0ZUdG0wX0hyVzRMdVIyTGhhei1HLXp1SEdrSWZZNWhMYjFwU3lNY3pFU3REdGdWRVFwTFh4clBwVUJyek5VTE94aVJJdUoxLXJnbmY0YnIwWWdSQUh4WTJ1RWlrbkdwZjZSUVVwODllTk0zSzVpalVHMXhMU3pSM1ZQNEdtaVF5b3pyZk01RDhNZWZ3WWtR?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI regulation",
+        "labor protection",
+        "policy"
+      ],
+      "fetchedAt": "2026-04-12T00:00:39.389Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+      "summary": "The decision to limit the release of a highly capable AI model raises concerns about AI's potential to disrupt cybersecurity roles and may slow AI job replacement efforts due to safety concerns.",
+      "date": "2026-04-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "cybersecurity",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-12T00:00:49.584Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ]
+    },
+    {
+      "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+      "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
+      "date": "2026-04-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "legal",
+        "AI ethics",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-12T00:00:47.878Z",
       "categories": [
         "computer-and-information-technology",
         "legal",
@@ -3234,47 +3297,6 @@
         "_all"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
-      "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-      "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
-      "date": "2026-04-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "AI regulation",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-10T00:00:38.737Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "This news could slow the adoption of AI in certain sectors due to increased legal and ethical scrutiny, potentially delaying AI's impact on jobs.",
-      "date": "2026-04-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "legal",
-        "AI ethics",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-10T00:00:37.353Z",
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
     },
     {
       "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
@@ -3423,7 +3445,7 @@
     {
       "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
       "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
-      "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
+      "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns and potential acceleration in AI replacing human jobs.",
       "date": "2026-04-06",
       "source": "AI Jobs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
@@ -3432,9 +3454,9 @@
       "tags": [
         "AI job displacement",
         "expert predictions",
-        "labor market"
+        "labor market trends"
       ],
-      "fetchedAt": "2026-04-10T00:00:34.917Z",
+      "fetchedAt": "2026-04-12T00:00:34.171Z",
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3503,28 +3525,7 @@
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
-      "date": "2026-04-05",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "effect": "advance",
-      "impactScore": 2,
-      "tags": [
-        "AI integration",
-        "personal productivity",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-06T00:00:28.362Z",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-11T06:29:59.791Z"
+  "generatedAt": "2026-04-12T00:00:50.637Z"
 }
