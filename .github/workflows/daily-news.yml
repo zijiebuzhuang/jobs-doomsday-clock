@@ -32,14 +32,62 @@ jobs:
       - name: Save daily history snapshot
         run: node scripts/save-history.mjs
 
+      - name: Detect dataset changes
+        id: dataset
+        run: |
+          git add data/ public/data.json public/clock-history.json
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          node <<'EOF' >> "$GITHUB_OUTPUT"
+          const fs = require('fs')
+          const crypto = require('crypto')
+          const data = JSON.parse(fs.readFileSync('public/data.json', 'utf8'))
+          const newsIDs = Array.isArray(data.newsFeed) ? data.newsFeed.map((item) => item.id).sort().join(',') : ''
+          const fingerprint = crypto.createHash('sha1').update(newsIDs || data.generatedAt || '').digest('hex').slice(0, 12)
+          const headline = data.newsFeed?.[0]?.title || 'The latest AI Jobs Clock data is live.'
+          const body = (data.newsFeed?.length || 0) <= 1
+            ? headline
+            : `${data.newsFeed.length} signals are live. ${headline}`
+          console.log(`dataset_id=${data.generatedAt}:${fingerprint}`)
+          console.log(`generated_at=${data.generatedAt}`)
+          console.log(`title=Daily Signals Updated`)
+          console.log(`body=${body.replace(/\n/g, ' ').trim()}`)
+          EOF
+
       - name: Commit and push if changed
+        if: steps.dataset.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ public/data.json public/clock-history.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
-            git push
-          fi
+          git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Trigger daily push relay
+        if: steps.dataset.outputs.changed == 'true'
+        env:
+          RELAY_BASE_URL: ${{ secrets.JOBS_PUSH_RELAY_URL }}
+          RELAY_SHARED_SECRET: ${{ secrets.JOBS_PUSH_RELAY_SECRET }}
+          DATASET_ID: ${{ steps.dataset.outputs.dataset_id }}
+          GENERATED_AT: ${{ steps.dataset.outputs.generated_at }}
+          PUSH_TITLE: ${{ steps.dataset.outputs.title }}
+          PUSH_BODY: ${{ steps.dataset.outputs.body }}
+        run: |
+          curl --fail --show-error --silent \
+            -X POST "$RELAY_BASE_URL/api/push/daily-news" \
+            -H "Authorization: Bearer $RELAY_SHARED_SECRET" \
+            -H "Content-Type: application/json" \
+            --data "$(node <<'EOF'
+          const payload = {
+            environment: 'production',
+            datasetId: process.env.DATASET_ID,
+            generatedAt: process.env.GENERATED_AT,
+            title: process.env.PUSH_TITLE,
+            body: process.env.PUSH_BODY,
+            url: 'https://jobdoomsday.tech/'
+          }
+          process.stdout.write(JSON.stringify(payload))
+          EOF
+          )"
