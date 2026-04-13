@@ -5,30 +5,30 @@
   "baseMinutesToMidnight": 13,
   "newsAdjustment": -1.1,
   "categoryAdjustments": {
-    "healthcare": -0.132,
-    "life-physical-and-social-science": -0.164,
-    "architecture-and-engineering": -0.207,
-    "management": -0.211,
-    "business-and-financial": -0.304,
-    "construction-and-extraction": -0.089,
-    "production": -0.127,
-    "installation-maintenance-and-repair": -0.089,
-    "education-training-and-library": -0.08,
-    "office-and-administrative-support": -0.254,
-    "transportation-and-material-moving": -0.13,
-    "personal-care-and-service": -0.121,
-    "sales": -0.13,
-    "media-and-communication": -0.08,
+    "healthcare": -0.21,
+    "life-physical-and-social-science": -0.242,
+    "architecture-and-engineering": -0.285,
+    "management": -0.291,
+    "business-and-financial": -0.35,
+    "construction-and-extraction": -0.167,
+    "production": -0.205,
+    "installation-maintenance-and-repair": -0.167,
+    "education-training-and-library": -0.158,
+    "office-and-administrative-support": -0.331,
+    "transportation-and-material-moving": -0.208,
+    "personal-care-and-service": -0.199,
+    "sales": -0.208,
+    "media-and-communication": -0.158,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.065,
-    "arts-and-design": -0.08,
-    "entertainment-and-sports": -0.089,
-    "protective-service": -0.121,
-    "food-preparation-and-serving": -0.089,
-    "legal": -0.095,
-    "math": -0.132,
-    "farming-fishing-and-forestry": -0.089,
-    "building-and-grounds-cleaning": -0.089
+    "community-and-social-service": -0.145,
+    "arts-and-design": -0.158,
+    "entertainment-and-sports": -0.167,
+    "protective-service": -0.199,
+    "food-preparation-and-serving": -0.167,
+    "legal": -0.175,
+    "math": -0.21,
+    "farming-fishing-and-forestry": -0.167,
+    "building-and-grounds-cleaning": -0.167
   },
   "replacementRate": 49.1,
   "macroReplacementRate": 49.176,
@@ -3107,6 +3107,47 @@
   ],
   "newsFeed": [
     {
+      "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
+      "date": "2026-04-12",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "conference",
+        "technology adoption"
+      ],
+      "fetchedAt": "2026-04-13T00:00:41.622Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
+      "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+      "summary": "Government interest in AI models like Anthropic's Mythos may accelerate AI adoption, potentially increasing job replacement in tech and financial sectors.",
+      "date": "2026-04-12",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "government influence",
+        "financial technology"
+      ],
+      "fetchedAt": "2026-04-13T00:00:40.451Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
       "id": "your-article-about-ai-doesn-t-need-ai-art",
       "title": "Your article about AI doesn’t need AI art",
       "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
@@ -3484,56 +3525,14 @@
         "management",
         "business-and-financial"
       ]
-    },
-    {
-      "id": "openai-s-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-da",
-      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-      "summary": "The proposal for AI taxes and public wealth funds aims to mitigate job loss from AI, suggesting measures to slow AI's replacement of human jobs.",
-      "date": "2026-04-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI regulation",
-        "job displacement",
-        "economic policy"
-      ],
-      "fetchedAt": "2026-04-07T00:00:38.460Z",
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund-",
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
-      "summary": "A new $100M fund backed by OpenAI alumni could accelerate AI development and potentially increase job displacement through AI innovation.",
-      "date": "2026-04-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI investment",
-        "job displacement",
-        "venture capital"
-      ],
-      "fetchedAt": "2026-04-07T00:00:36.813Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-12T10:13:22.379Z",
+  "generatedAt": "2026-04-13T00:00:42.423Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job replacement shows mixed signals",
-      "preview": "Advances in AI tools and delays from legal scrutiny shape today's landscape.",
-      "body": "Recent news highlights both progress and setbacks in AI's impact on jobs. Advances like Google's Gemini AI and ChatGPT Pro suggest growing capabilities in creative and technical fields, while investigations into OpenAI and concerns over AI misuse indicate ongoing regulatory and ethical challenges. The overall balance reflects a complex interplay between innovation and caution."
+      "title": "AI adoption advances despite regulatory headwinds",
+      "preview": "Major AI developments contrast with growing legal scrutiny.",
+      "body": "Recent signals show continued progress in AI integration, with notable mentions of Anthropic's Claude and Mythos models. However, regulatory investigations and legal concerns, such as those involving OpenAI, may slow broader adoption. The balance between innovation and oversight remains critical."
     }
   }
 }

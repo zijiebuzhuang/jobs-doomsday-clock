@@ -1,5 +1,46 @@
 [
   {
+    "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
+    "date": "2026-04-12",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "conference",
+      "technology adoption"
+    ],
+    "fetchedAt": "2026-04-13T00:00:41.622Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "summary": "Government interest in AI models like Anthropic's Mythos may accelerate AI adoption, potentially increasing job replacement in tech and financial sectors.",
+    "date": "2026-04-12",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "government influence",
+      "financial technology"
+    ],
+    "fetchedAt": "2026-04-13T00:00:40.451Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "your-article-about-ai-doesn-t-need-ai-art",
     "title": "Your article about AI doesn’t need AI art",
     "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
