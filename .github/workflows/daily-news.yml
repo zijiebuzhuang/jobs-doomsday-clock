@@ -2,6 +2,12 @@ name: Daily News Fetch
 
 on:
   workflow_dispatch: # 手动触发（由 cron-job.org 定时调用）
+    inputs:
+      send_push:
+        description: Trigger remote push after publishing changed data
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   fetch-and-deploy:
@@ -19,17 +25,53 @@ jobs:
 
       - run: npm ci
 
+      - name: Resolve publish date
+        id: publish_date
+        run: echo "as_of_date=$(TZ=Asia/Shanghai date +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Check current daily snapshot
+        id: snapshot
+        env:
+          AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
+        run: |
+          node <<'EOF' >> "$GITHUB_OUTPUT"
+          const fs = require('fs')
+          const targetDate = process.env.AS_OF_DATE
+
+          const readJSON = (path) => {
+            try {
+              return JSON.parse(fs.readFileSync(path, 'utf8'))
+            } catch {
+              return null
+            }
+          }
+
+          const currentData = readJSON('public/data.json')
+          const history = readJSON('public/clock-history.json')
+          const generatedDate = currentData?.generatedAt?.split('T')[0] ?? ''
+          const historyDate = Array.isArray(history) ? history[0]?.date ?? '' : ''
+          const published = generatedDate === targetDate && historyDate === targetDate
+
+          console.log(`published=${published}`)
+          EOF
+
       - name: Fetch and classify news
+        if: steps.snapshot.outputs.published != 'true'
         env:
           DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
         run: node scripts/fetch-news.mjs
 
       - name: Recompute clock with news adjustment
+        if: steps.snapshot.outputs.published != 'true'
         env:
+          AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
           DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
         run: node scripts/compute-clock.mjs
 
       - name: Save daily history snapshot
+        if: steps.snapshot.outputs.published != 'true'
+        env:
+          AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
         run: node scripts/save-history.mjs
 
       - name: Detect dataset changes
@@ -59,14 +101,16 @@ jobs:
 
       - name: Commit and push if changed
         if: steps.dataset.outputs.changed == 'true'
+        env:
+          AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
+          git commit -m "chore: daily news update $AS_OF_DATE"
           git push
 
       - name: Trigger daily push relay
-        if: steps.dataset.outputs.changed == 'true'
+        if: steps.dataset.outputs.changed == 'true' && inputs.send_push == true
         env:
           RELAY_BASE_URL: ${{ secrets.JOBS_PUSH_RELAY_URL }}
           RELAY_SHARED_SECRET: ${{ secrets.JOBS_PUSH_RELAY_SECRET }}
