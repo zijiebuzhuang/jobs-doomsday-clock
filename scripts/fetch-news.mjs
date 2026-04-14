@@ -20,6 +20,8 @@ const RSS_FEEDS = [
   { name: 'Ars Technica - AI', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab' },
   { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/' },
   { name: 'The Verge - AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
+  { name: 'Wired', url: 'https://www.wired.com/feed/rss' },
+  { name: 'Bloomberg Technology', url: 'https://feeds.bloomberg.com/technology/news.rss' },
 ]
 
 const AI_JOBS_KEYWORDS = [
@@ -73,7 +75,7 @@ async function fetchRSSFeeds() {
           }
         }
 
-        allItems.push({
+            allItems.push({
           title: item.title || '',
           link: item.link || '',
           contentSnippet: item.contentSnippet || item.content || '',
