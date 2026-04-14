@@ -1,5 +1,27 @@
 [
   {
+    "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
+    "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+    "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
+    "date": "2026-04-13",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI competition",
+      "enterprise adoption",
+      "user retention"
+    ],
+    "fetchedAt": "2026-04-14T00:00:32.731Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
     "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
     "title": "At the HumanX conference, everyone was talking about Claude",
     "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
