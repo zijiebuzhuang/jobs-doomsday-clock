@@ -110,7 +110,7 @@ jobs:
           git push
 
       - name: Trigger daily push relay
-        if: steps.dataset.outputs.changed == 'true' && inputs.send_push == true
+        if: steps.dataset.outputs.changed == 'true' && inputs.send_push == 'true'
         env:
           RELAY_BASE_URL: ${{ secrets.JOBS_PUSH_RELAY_URL }}
           RELAY_SHARED_SECRET: ${{ secrets.JOBS_PUSH_RELAY_SECRET }}
