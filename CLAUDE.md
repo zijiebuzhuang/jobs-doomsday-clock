@@ -38,6 +38,7 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 - `scripts/backfill-news.mjs` queries News API for a 90-day range, runs the same classifier path, merges historical items into `data/news-feed.json`, then regenerates `public/data.json` and `public/clock-history.json`.
 - `scripts/compute-clock.mjs` reads the raw datasets plus the retained news feed, calculates the `replacementRate` = (jobs-weighted average exposure) * 10, maps it to a 24-hour clock where 50% replacement = 00:00, applies decayed news/category adjustments, generates the single daily signal summary when `DASHSCOPE_API_KEY` or `ALIYUN` is available, and writes `public/data.json`.
 - `scripts/save-history.mjs` writes daily snapshots to `public/clock-history.json`; each snapshot includes per-day `newsFeed` and category adjustments. Quiet days are valid and should keep `newsFeed: []`.
+- `.github/workflows/daily-news.yml` is now the publish gate for the product's fixed daily edition: the first successful run for the Shanghai day defines that day's snapshot; later reruns are recovery-only and should not pull newer headlines into the same day.
 
 ### 2. Frontend Application (`src/`)
 - `src/App.tsx`: Fetches `/data.json` on mount, holds it in state, and renders the page in three vertical sections.
@@ -58,5 +59,7 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 - **Precomputed Data:** Do not add complex data processing or filtering to the React components. If the data structure needs to change, modify the scripts under `scripts/` and update `src/types.ts`.
 - **Proxy-dependent network work:** Historical backfill and classifier calls may require local proxy env vars (`HTTP_PROXY` / `HTTPS_PROXY` / `ALL_PROXY`). The scripts now support this path directly.
 - **Category metadata matters:** `data/news-feed.json` should retain `categories` on each classified item. Rebuilds depend on that metadata for category-level history; do not strip it.
+- **Daily edition rule:** Treat the first successful `Daily News Fetch` publish for a Shanghai day as the canonical edition for that day. Later manual reruns are for recovery only and must not introduce later headlines into the already-published day.
+- **Push trigger rule:** `Daily News Fetch` only triggers the relay when `workflow_dispatch.inputs.send_push` is true. cron-job.org's official morning call should send `{"ref":"main","inputs":{"send_push":"true"}}`; ordinary manual runs in GitHub should leave the input false.
 - **Analog Clock:** The math in `ClockPanel.tsx` is carefully tuned to handle 24-hour `displayTime` strings and map them correctly to the 12-hour SVG face. Avoid altering the `angleForMinutes` logic unless specifically requested.
 - **Reporting:** Keep any generated local reports or analysis markdown files out of the repository unless the user explicitly asks to commit them.

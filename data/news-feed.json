@@ -82,7 +82,7 @@
       "media-and-communication",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
@@ -125,7 +125,7 @@
       "legal",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
@@ -147,7 +147,7 @@
       "architecture-and-engineering",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
@@ -211,7 +211,7 @@
       "computer-and-information-technology",
       "math"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "gemini-gets-notebooks-to-help-you-organize-projects",
@@ -236,7 +236,7 @@
   },
   {
     "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-    "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
     "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and technical modeling, potentially impacting jobs in design, engineering, and simulation fields.",
     "date": "2026-04-09",
     "source": "The Verge - AI",
@@ -278,7 +278,7 @@
   },
   {
     "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
-    "title": "Gemini is making it faster for distressed users to reach mental health resources ",
+    "title": "Gemini is making it faster for distressed users to reach mental health resources",
     "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
     "date": "2026-04-07",
     "source": "The Verge - AI",
@@ -299,7 +299,7 @@
   },
   {
     "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
-    "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+    "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
     "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
     "date": "2026-04-07",
     "source": "The Verge - AI",
@@ -340,7 +340,7 @@
   },
   {
     "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
-    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
     "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
     "date": "2026-04-07",
     "source": "TechCrunch - AI",
@@ -464,7 +464,7 @@
   },
   {
     "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund-",
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
     "summary": "A new $100M fund backed by OpenAI alumni could accelerate AI development and potentially increase job displacement through AI innovation.",
     "date": "2026-04-06",
     "source": "TechCrunch - AI",
@@ -776,7 +776,7 @@
   },
   {
     "id": "all-the-latest-in-ai-8216-music-8217-",
-    "title": "All the latest in AI &#8216;music&#8217;",
+    "title": "All the latest in AI ‘music’",
     "summary": "The article highlights challenges and ethical concerns around AI-generated music, suggesting potential delays in its widespread adoption and impact on human jobs.",
     "date": "2026-03-30",
     "source": "The Verge - AI",

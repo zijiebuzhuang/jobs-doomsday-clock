@@ -5,30 +5,30 @@
   "baseMinutesToMidnight": 13,
   "newsAdjustment": -1.1,
   "categoryAdjustments": {
-    "healthcare": -0.252,
-    "life-physical-and-social-science": -0.284,
-    "architecture-and-engineering": -0.327,
-    "management": -0.333,
+    "healthcare": -0.219,
+    "life-physical-and-social-science": -0.251,
+    "architecture-and-engineering": -0.294,
+    "management": -0.3,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.209,
-    "production": -0.247,
-    "installation-maintenance-and-repair": -0.209,
-    "education-training-and-library": -0.2,
-    "office-and-administrative-support": -0.35,
-    "transportation-and-material-moving": -0.25,
-    "personal-care-and-service": -0.241,
-    "sales": -0.25,
-    "media-and-communication": -0.2,
+    "construction-and-extraction": -0.177,
+    "production": -0.215,
+    "installation-maintenance-and-repair": -0.177,
+    "education-training-and-library": -0.168,
+    "office-and-administrative-support": -0.34,
+    "transportation-and-material-moving": -0.218,
+    "personal-care-and-service": -0.208,
+    "sales": -0.218,
+    "media-and-communication": -0.168,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.189,
-    "arts-and-design": -0.2,
-    "entertainment-and-sports": -0.209,
-    "protective-service": -0.241,
-    "food-preparation-and-serving": -0.209,
-    "legal": -0.22,
-    "math": -0.253,
-    "farming-fishing-and-forestry": -0.209,
-    "building-and-grounds-cleaning": -0.209
+    "community-and-social-service": -0.156,
+    "arts-and-design": -0.168,
+    "entertainment-and-sports": -0.177,
+    "protective-service": -0.209,
+    "food-preparation-and-serving": -0.177,
+    "legal": -0.187,
+    "math": -0.22,
+    "farming-fishing-and-forestry": -0.177,
+    "building-and-grounds-cleaning": -0.177
   },
   "replacementRate": 49.1,
   "macroReplacementRate": 49.176,
@@ -3107,28 +3107,6 @@
   ],
   "newsFeed": [
     {
-      "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
-      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
-      "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
-      "date": "2026-04-13",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI competition",
-        "enterprise adoption",
-        "user retention"
-      ],
-      "fetchedAt": "2026-04-14T00:00:32.731Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-    },
-    {
       "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
       "title": "At the HumanX conference, everyone was talking about Claude",
       "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
@@ -3189,7 +3167,7 @@
         "media-and-communication",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
@@ -3232,7 +3210,7 @@
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
@@ -3254,7 +3232,7 @@
         "architecture-and-engineering",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
@@ -3318,7 +3296,7 @@
         "computer-and-information-technology",
         "math"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "gemini-gets-notebooks-to-help-you-organize-projects",
@@ -3343,7 +3321,7 @@
     },
     {
       "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
       "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and technical modeling, potentially impacting jobs in design, engineering, and simulation fields.",
       "date": "2026-04-09",
       "source": "The Verge - AI",
@@ -3385,7 +3363,7 @@
     },
     {
       "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
-      "title": "Gemini is making it faster for distressed users to reach mental health resources ",
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
       "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
       "date": "2026-04-07",
       "source": "The Verge - AI",
@@ -3406,7 +3384,7 @@
     },
     {
       "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
-      "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
+      "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
       "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
       "date": "2026-04-07",
       "source": "The Verge - AI",
@@ -3447,7 +3425,7 @@
     },
     {
       "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
       "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
       "date": "2026-04-07",
       "source": "TechCrunch - AI",
@@ -3526,14 +3504,35 @@
         "management",
         "business-and-financial"
       ]
+    },
+    {
+      "id": "the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "The article highlights concerns about AI's impact on jobs but suggests that the extent of job replacement is still unclear and debated.",
+      "date": "2026-04-06",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI impact",
+        "job displacement",
+        "workforce analysis"
+      ],
+      "fetchedAt": "2026-04-07T00:00:39.852Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
     }
   ],
-  "generatedAt": "2026-04-14T12:00:00.000Z",
+  "generatedAt": "2026-04-14T02:20:06.732Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates despite regulatory concerns",
-      "preview": "Advances in AI tools and government interest contrast with growing scrutiny.",
-      "body": "Recent signals show strong momentum in AI development, with OpenAI and Anthropic leading efforts to expand their platforms. However, regulatory investigations and ethical concerns may slow broader implementation. The balance between innovation and oversight remains critical."
+      "title": "Daily signal pulse",
+      "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
+      "body": "This update is split between 13 advances and 7 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-14T02:20:06.732Z, with the macro replacement estimate at 49.2%."
     }
   }
 }

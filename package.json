@@ -21,10 +21,11 @@
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
+    "@types/node": "^24.12.2",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^5.0.4",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.3",
     "vite": "^7.1.7"
   }
 }

@@ -58,8 +58,47 @@ export function saveHistorySet(history, path = HISTORY_PATH) {
   writeFileSync(path, JSON.stringify([...history], null, 2))
 }
 
+const NAMED_HTML_ENTITIES = {
+  amp: '&',
+  lt: '<',
+  gt: '>',
+  quot: '"',
+  apos: "'",
+  nbsp: ' ',
+}
+
+export function decodeHTMLEntities(value) {
+  if (typeof value !== 'string' || !value.includes('&')) {
+    return value || ''
+  }
+
+  return value.replace(/&(#x?[0-9a-f]+|[a-z]+);/gi, (match, entity) => {
+    const normalized = entity.toLowerCase()
+
+    if (normalized.startsWith('#x')) {
+      const codePoint = Number.parseInt(normalized.slice(2), 16)
+      return Number.isFinite(codePoint) ? String.fromCodePoint(codePoint) : match
+    }
+
+    if (normalized.startsWith('#')) {
+      const codePoint = Number.parseInt(normalized.slice(1), 10)
+      return Number.isFinite(codePoint) ? String.fromCodePoint(codePoint) : match
+    }
+
+    return NAMED_HTML_ENTITIES[normalized] ?? match
+  })
+}
+
+export function sanitizeNewsText(value) {
+  return decodeHTMLEntities(value || '').replace(/\u00a0/g, ' ').trim()
+}
+
+export function sanitizeNewsUrl(value) {
+  return decodeHTMLEntities(value || '').trim()
+}
+
 export function makeId(title) {
-  return (title || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
+  return sanitizeNewsText(title).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
 }
 
 function proxyEnv() {
@@ -112,16 +151,17 @@ export function normalizeCategories(rawCategories) {
 
 export function normalizeFeedItem(item) {
   const categories = normalizeCategories(item.categories ?? item.affectedCategories)
+  const normalizedTitle = sanitizeNewsText(item.title)
   const normalized = {
-    id: item.id || makeId(item.title),
-    title: item.title || '',
-    summary: item.summary || '',
+    id: makeId(item.id || normalizedTitle),
+    title: normalizedTitle,
+    summary: sanitizeNewsText(item.summary),
     date: toISODate(item.date || item.publishedAt || item.pubDate || Date.now()),
-    source: item.source || '',
-    sourceUrl: item.sourceUrl || item.link || '',
+    source: sanitizeNewsText(item.source),
+    sourceUrl: sanitizeNewsUrl(item.sourceUrl || item.link),
     effect: item.effect === 'delay' ? 'delay' : 'advance',
     impactScore: Math.min(5, Math.max(1, Math.round(Number(item.impactScore) || 1))),
-    tags: Array.isArray(item.tags) ? item.tags : [],
+    tags: Array.isArray(item.tags) ? item.tags.map(sanitizeNewsText).filter(Boolean) : [],
     fetchedAt: item.fetchedAt || item.date || item.publishedAt || item.pubDate || '',
   }
 
@@ -134,7 +174,7 @@ export function normalizeFeedItem(item) {
   }
 
   if (item.imageUrl) {
-    normalized.imageUrl = item.imageUrl
+    normalized.imageUrl = sanitizeNewsUrl(item.imageUrl)
   }
 
   return normalized
