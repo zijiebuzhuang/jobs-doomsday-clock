@@ -384,7 +384,7 @@ export function buildClockData({
     totalJobs: baseData.totalJobs,
     occupationCount: baseData.occupationCount,
     occupations: baseData.occupations,
-    newsFeed: feedMode === 'daily' ? feedItemsForDate(feedWindow, asOfDate, true) : feedWindow.slice(0, newsFeedLimit),
+    newsFeed: feedMode === 'daily' ? feedItemsForDate(feedWindow, asOfDate, true, true) : feedWindow.slice(0, newsFeedLimit),
     generatedAt: asOfDate.toISOString(),
     ...(signalSummaries ? { signalSummaries } : {}),
   }

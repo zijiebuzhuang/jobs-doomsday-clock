@@ -47,37 +47,60 @@
     "macroReplacementRate": 49.176,
     "newsAdjustment": -1.1,
     "categoryAdjustments": {
-      "healthcare": -0.219,
-      "life-physical-and-social-science": -0.251,
-      "architecture-and-engineering": -0.294,
-      "management": -0.3,
+      "healthcare": -0.252,
+      "life-physical-and-social-science": -0.284,
+      "architecture-and-engineering": -0.327,
+      "management": -0.333,
       "business-and-financial": -0.35,
-      "construction-and-extraction": -0.177,
-      "production": -0.215,
-      "installation-maintenance-and-repair": -0.177,
-      "education-training-and-library": -0.168,
-      "office-and-administrative-support": -0.34,
-      "transportation-and-material-moving": -0.218,
-      "personal-care-and-service": -0.208,
-      "sales": -0.218,
-      "media-and-communication": -0.168,
+      "construction-and-extraction": -0.209,
+      "production": -0.247,
+      "installation-maintenance-and-repair": -0.209,
+      "education-training-and-library": -0.2,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.25,
+      "personal-care-and-service": -0.241,
+      "sales": -0.25,
+      "media-and-communication": -0.2,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.156,
-      "arts-and-design": -0.168,
-      "entertainment-and-sports": -0.177,
-      "protective-service": -0.209,
-      "food-preparation-and-serving": -0.177,
-      "legal": -0.187,
-      "math": -0.22,
-      "farming-fishing-and-forestry": -0.177,
-      "building-and-grounds-cleaning": -0.177
+      "community-and-social-service": -0.189,
+      "arts-and-design": -0.2,
+      "entertainment-and-sports": -0.209,
+      "protective-service": -0.241,
+      "food-preparation-and-serving": -0.209,
+      "legal": -0.22,
+      "math": -0.253,
+      "farming-fishing-and-forestry": -0.209,
+      "building-and-grounds-cleaning": -0.209
     },
-    "newsFeed": [],
+    "newsFeed": [
+      {
+        "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
+        "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+        "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
+        "date": "2026-04-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI competition",
+          "enterprise adoption",
+          "user retention"
+        ],
+        "fetchedAt": "2026-04-14T00:00:32.731Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
     "signalSummaries": {
       "dailyPulse": {
         "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-14T02:20:06.908Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
+        "preview": "A quick read on the latest pulse, led by Read OpenAI’s latest internal memo about beating the competition — including Anthropic.",
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Read OpenAI’s latest internal memo about beating the competition — including Anthropic\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-14T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
@@ -88,37 +111,79 @@
     "macroReplacementRate": 49.176,
     "newsAdjustment": -1.1,
     "categoryAdjustments": {
-      "healthcare": -0.21,
-      "life-physical-and-social-science": -0.242,
-      "architecture-and-engineering": -0.285,
-      "management": -0.291,
+      "healthcare": -0.243,
+      "life-physical-and-social-science": -0.275,
+      "architecture-and-engineering": -0.318,
+      "management": -0.324,
       "business-and-financial": -0.35,
-      "construction-and-extraction": -0.167,
-      "production": -0.205,
-      "installation-maintenance-and-repair": -0.167,
-      "education-training-and-library": -0.158,
-      "office-and-administrative-support": -0.331,
-      "transportation-and-material-moving": -0.208,
-      "personal-care-and-service": -0.199,
-      "sales": -0.208,
-      "media-and-communication": -0.158,
+      "construction-and-extraction": -0.2,
+      "production": -0.238,
+      "installation-maintenance-and-repair": -0.2,
+      "education-training-and-library": -0.191,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.241,
+      "personal-care-and-service": -0.232,
+      "sales": -0.241,
+      "media-and-communication": -0.191,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.145,
-      "arts-and-design": -0.158,
-      "entertainment-and-sports": -0.167,
-      "protective-service": -0.199,
-      "food-preparation-and-serving": -0.167,
-      "legal": -0.175,
-      "math": -0.21,
-      "farming-fishing-and-forestry": -0.167,
-      "building-and-grounds-cleaning": -0.167
+      "community-and-social-service": -0.178,
+      "arts-and-design": -0.191,
+      "entertainment-and-sports": -0.2,
+      "protective-service": -0.232,
+      "food-preparation-and-serving": -0.2,
+      "legal": -0.208,
+      "math": -0.243,
+      "farming-fishing-and-forestry": -0.2,
+      "building-and-grounds-cleaning": -0.2
     },
-    "newsFeed": [],
+    "newsFeed": [
+      {
+        "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
+        "title": "At the HumanX conference, everyone was talking about Claude",
+        "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
+        "date": "2026-04-12",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "conference",
+          "technology adoption"
+        ],
+        "fetchedAt": "2026-04-13T00:00:41.622Z",
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
+        "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+        "summary": "Government interest in AI models like Anthropic's Mythos may accelerate AI adoption, potentially increasing job replacement in tech and financial sectors.",
+        "date": "2026-04-12",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "government influence",
+          "financial technology"
+        ],
+        "fetchedAt": "2026-04-13T00:00:40.451Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
     "signalSummaries": {
       "dailyPulse": {
         "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-13T00:00:44.610Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
+        "preview": "A quick read on the latest pulse, led by At the HumanX conference, everyone was talking about Claude.",
+        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"At the HumanX conference, everyone was talking about Claude\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-13T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
@@ -129,37 +194,167 @@
     "macroReplacementRate": 49.176,
     "newsAdjustment": -1.1,
     "categoryAdjustments": {
-      "healthcare": -0.132,
-      "life-physical-and-social-science": -0.164,
-      "architecture-and-engineering": -0.207,
-      "management": -0.211,
-      "business-and-financial": -0.304,
-      "construction-and-extraction": -0.089,
-      "production": -0.127,
-      "installation-maintenance-and-repair": -0.089,
-      "education-training-and-library": -0.08,
-      "office-and-administrative-support": -0.254,
-      "transportation-and-material-moving": -0.13,
-      "personal-care-and-service": -0.121,
-      "sales": -0.13,
-      "media-and-communication": -0.08,
+      "healthcare": -0.198,
+      "life-physical-and-social-science": -0.23,
+      "architecture-and-engineering": -0.273,
+      "management": -0.277,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.155,
+      "production": -0.193,
+      "installation-maintenance-and-repair": -0.155,
+      "education-training-and-library": -0.146,
+      "office-and-administrative-support": -0.32,
+      "transportation-and-material-moving": -0.196,
+      "personal-care-and-service": -0.187,
+      "sales": -0.196,
+      "media-and-communication": -0.146,
       "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.065,
-      "arts-and-design": -0.08,
-      "entertainment-and-sports": -0.089,
-      "protective-service": -0.121,
-      "food-preparation-and-serving": -0.089,
-      "legal": -0.095,
-      "math": -0.132,
-      "farming-fishing-and-forestry": -0.089,
-      "building-and-grounds-cleaning": -0.089
+      "community-and-social-service": -0.131,
+      "arts-and-design": -0.146,
+      "entertainment-and-sports": -0.155,
+      "protective-service": -0.187,
+      "food-preparation-and-serving": -0.155,
+      "legal": -0.161,
+      "math": -0.198,
+      "farming-fishing-and-forestry": -0.155,
+      "building-and-grounds-cleaning": -0.155
     },
-    "newsFeed": [],
+    "newsFeed": [
+      {
+        "id": "your-article-about-ai-doesn-t-need-ai-art",
+        "title": "Your article about AI doesn’t need AI art",
+        "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
+        "date": "2026-04-11",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI art",
+          "creative industries",
+          "job replacement"
+        ],
+        "fetchedAt": "2026-04-12T10:12:30.157Z",
+        "categories": [
+          "arts-and-design",
+          "media-and-communication",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+        "summary": "This news highlights potential risks of AI systems, which may slow public and regulatory acceptance of AI in sensitive roles, potentially delaying AI job replacement efforts.",
+        "date": "2026-04-10",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "AI accountability",
+          "legal implications"
+        ],
+        "fetchedAt": "2026-04-12T10:12:26.060Z",
+        "categories": [
+          "computer-and-information-technology",
+          "community-and-social-service",
+          "_all"
+        ]
+      },
+      {
+        "id": "florida-launches-investigation-into-openai",
+        "title": "Florida launches investigation into OpenAI",
+        "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+        "date": "2026-04-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "ai-ethics",
+          "policy"
+        ],
+        "fetchedAt": "2026-04-12T10:12:32.960Z",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
+        "title": "ChatGPT has a new $100 per month Pro subscription",
+        "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
+        "date": "2026-04-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "coding",
+          "subscription model"
+        ],
+        "fetchedAt": "2026-04-12T10:12:32.172Z",
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+        "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
+        "date": "2026-04-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI ethics",
+          "cybersecurity",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-12T10:12:28.474Z",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service",
+          "_all"
+        ]
+      },
+      {
+        "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "summary": "This news could slow AI job replacement efforts due to increased scrutiny and legal risks associated with AI use.",
+        "date": "2026-04-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "legal liability",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-04-12T10:12:27.637Z",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
     "signalSummaries": {
       "dailyPulse": {
         "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-12T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
+        "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
+        "body": "This update is split between 2 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Your article about AI doesn’t need AI art\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-12T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },

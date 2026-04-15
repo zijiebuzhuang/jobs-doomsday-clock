@@ -193,10 +193,13 @@ export function filterFeedWindow(items = [], asOfDate = new Date(), normalized =
   return sortFeedItems(normalizedItems.filter(item => isWithinHistoryWindow(item.date, asOfDate)))
 }
 
-export function feedItemsForDate(items = [], targetDate, normalized = false) {
+export function feedItemsForDate(items = [], targetDate, normalized = false, useFetchedAt = false) {
   const date = toISODate(targetDate)
   const normalizedItems = normalized ? items : normalizeFeedItems(items)
-  return sortFeedItems(normalizedItems.filter(item => item.date === date))
+  return sortFeedItems(normalizedItems.filter(item => {
+    const itemDate = useFetchedAt ? toISODate(item.fetchedAt) : item.date
+    return itemDate === date
+  }))
 }
 
 export function mergeFeedItems(existingFeed = [], incomingFeed = [], asOfDate = new Date()) {
