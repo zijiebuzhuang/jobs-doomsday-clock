@@ -1,7 +1,259 @@
 [
   {
+    "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
+    "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
+    "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
+    "date": "2026-04-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "investment",
+      "AI development",
+      "startup"
+    ],
+    "fetchedAt": "2026-04-15T00:00:58.671Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
+    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+    "summary": "The opposition to the AI liability bill may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+    "date": "2026-04-14",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "liability",
+      "policy"
+    ],
+    "fetchedAt": "2026-04-15T00:00:57.268Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
+    "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
+    "summary": "New AI-powered features in Google Chrome may help users perform tasks more efficiently, potentially reducing the need for certain job functions.",
+    "date": "2026-04-14",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+    "effect": "advance",
+    "impactScore": 2,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-15T00:00:55.729Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "in-the-wake-of-anthropic-s-mythos-openai-has-a-new-cybersecurity-model-and-strat",
+    "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+    "summary": "New cybersecurity AI models may increase reliance on AI for security tasks, potentially replacing some human roles in IT and cybersecurity.",
+    "date": "2026-04-14",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "cybersecurity",
+      "AI development",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-15T00:00:54.049Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "has-google-s-ai-watermarking-system-been-reverse-engineered-",
+    "title": "Has Google’s AI watermarking system been reverse-engineered?",
+    "summary": "The potential reverse-engineering of Google's AI watermarking system could slow the adoption of AI content verification, potentially delaying efforts to manage AI-generated content in creative and professional fields.",
+    "date": "2026-04-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "content verification",
+      "technology security"
+    ],
+    "fetchedAt": "2026-04-15T00:00:49.630Z",
+    "categories": [
+      "computer-and-information-technology",
+      "media-and-communication",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
+    "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
+    "summary": "This feature accelerates AI's ability to automate repetitive tasks, increasing the potential for job replacement in administrative and technical roles.",
+    "date": "2026-04-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "automation",
+      "productivity",
+      "AI tools"
+    ],
+    "fetchedAt": "2026-04-15T00:00:48.154Z",
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
+    "title": "The attacks on Sam Altman are a warning for the AI world",
+    "summary": "The attacks on Sam Altman highlight growing public fear about AI's impact, potentially slowing its adoption and job replacement efforts.",
+    "date": "2026-04-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "public perception",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-04-15T00:00:46.479Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-has-bought-ai-personal-finance-startup-hiro",
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "summary": "OpenAI's acquisition of Hiro suggests increased integration of AI in financial planning, potentially automating tasks in the business and financial sectors.",
+    "date": "2026-04-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "financial technology",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-15T00:00:45.078Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "google-brings-its-gemini-personal-intelligence-feature-to-india",
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "summary": "Google's Gemini Personal Intelligence feature in India could lead to more automation in personal and administrative tasks, potentially affecting jobs in office and administrative support.",
+    "date": "2026-04-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "personalization",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-15T00:00:43.611Z",
+    "categories": [
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "summary": "Google's AI-powered Chrome Skills feature could increase efficiency in task automation, potentially reducing the need for certain manual or repetitive job tasks.",
+    "date": "2026-04-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI integration",
+      "productivity tools",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-15T00:00:42.291Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-future-of-work-how-ai-automation-is-transforming-jobs-and-careers-worldwide-",
+    "title": "The Future of Work: How AI Automation Is Transforming Jobs and Careers Worldwide - Tech Times",
+    "summary": "The article highlights how AI automation is significantly transforming jobs and careers globally, suggesting increased replacement of human roles by AI.",
+    "date": "2026-04-14",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkFDb2N3QTN5UVI3RGt1ZGRlTVNwTFlBMzktTjNkVE1PMTZ4UkNqZ2w3aGRCc3JOVUE5bUwxUV9Cc0M1b0J1dS00R0hJNmQtR05haklsS1V1cmNMdnNOcGp5NjhZUWFVamoyNlFUYTJmbVlkTzkzSklWZjRyU1R3b1VUQ1FnQ2dGX3FCY0hDMnVHbVFmVl9ROVUta2Q0QUV5eFNQUHVIQXRubVRzQmZ5XzdWNGc2eEhhY1Brdw?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI impact",
+      "automation",
+      "future of work"
+    ],
+    "fetchedAt": "2026-04-15T00:00:38.443Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthr",
+    "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+    "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
+    "date": "2026-04-13",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI competition",
+      "enterprise adoption",
+      "user retention"
+    ],
+    "fetchedAt": "2026-04-15T00:00:52.742Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
-    "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+    "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
     "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
     "date": "2026-04-13",
     "source": "The Verge - AI",
@@ -19,7 +271,7 @@
       "business-and-financial",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
@@ -550,18 +802,18 @@
   {
     "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
     "title": "MIT study challenges AI job apocalypse narrative - Axios",
-    "summary": "The MIT study challenges the idea that AI will cause a significant loss of human jobs, suggesting a more nuanced impact on labor markets.",
+    "summary": "A MIT study challenges the idea that AI will cause a major job apocalypse, suggesting it may slow down the pace of AI-driven job replacement.",
     "date": "2026-04-02",
     "source": "AI Workforce",
     "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVG94Sjk3b25lay1GODE5a1AzdmdnbzU5dDhKSloxbkU1N0N0czBvdGcxYWdjcEF3aU1XSU8tU2l0X1BvS213ZW16cVJXQV9yV3FoRGVMX0NMc2g1Z1h2aEJ4SFZQQWJGQzBTd3lmaXl4ZFpIOFE?oc=5",
     "effect": "delay",
-    "impactScore": 4,
+    "impactScore": 3,
     "tags": [
-      "AI job impact",
-      "labor market analysis",
-      "MIT study"
+      "AI",
+      "job market",
+      "research"
     ],
-    "fetchedAt": "2026-04-04T00:00:35.767Z",
+    "fetchedAt": "2026-04-15T00:00:39.900Z",
     "categories": [
       "computer-and-information-technology",
       "management",

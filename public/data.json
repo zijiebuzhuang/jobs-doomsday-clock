@@ -5,30 +5,30 @@
   "baseMinutesToMidnight": 13,
   "newsAdjustment": -1.1,
   "categoryAdjustments": {
-    "healthcare": -0.219,
-    "life-physical-and-social-science": -0.251,
-    "architecture-and-engineering": -0.294,
-    "management": -0.3,
+    "healthcare": -0.35,
+    "life-physical-and-social-science": -0.35,
+    "architecture-and-engineering": -0.35,
+    "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.177,
-    "production": -0.215,
-    "installation-maintenance-and-repair": -0.177,
-    "education-training-and-library": -0.168,
-    "office-and-administrative-support": -0.34,
-    "transportation-and-material-moving": -0.218,
-    "personal-care-and-service": -0.208,
-    "sales": -0.218,
-    "media-and-communication": -0.168,
+    "construction-and-extraction": -0.334,
+    "production": -0.35,
+    "installation-maintenance-and-repair": -0.334,
+    "education-training-and-library": -0.319,
+    "office-and-administrative-support": -0.35,
+    "transportation-and-material-moving": -0.35,
+    "personal-care-and-service": -0.35,
+    "sales": -0.35,
+    "media-and-communication": -0.319,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.156,
-    "arts-and-design": -0.168,
-    "entertainment-and-sports": -0.177,
-    "protective-service": -0.209,
-    "food-preparation-and-serving": -0.177,
-    "legal": -0.187,
-    "math": -0.22,
-    "farming-fishing-and-forestry": -0.177,
-    "building-and-grounds-cleaning": -0.177
+    "community-and-social-service": -0.314,
+    "arts-and-design": -0.319,
+    "entertainment-and-sports": -0.334,
+    "protective-service": -0.35,
+    "food-preparation-and-serving": -0.334,
+    "legal": -0.344,
+    "math": -0.35,
+    "farming-fishing-and-forestry": -0.334,
+    "building-and-grounds-cleaning": -0.334
   },
   "replacementRate": 49.1,
   "macroReplacementRate": 49.176,
@@ -3107,6 +3107,280 @@
   ],
   "newsFeed": [
     {
+      "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
+      "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
+      "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
+      "date": "2026-04-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "investment",
+        "AI development",
+        "startup"
+      ],
+      "fetchedAt": "2026-04-15T00:00:58.671Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "summary": "The opposition to the AI liability bill may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
+      "date": "2026-04-14",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI regulation",
+        "liability",
+        "policy"
+      ],
+      "fetchedAt": "2026-04-15T00:00:57.268Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
+      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
+      "summary": "New AI-powered features in Google Chrome may help users perform tasks more efficiently, potentially reducing the need for certain job functions.",
+      "date": "2026-04-14",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
+      "effect": "advance",
+      "impactScore": 2,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-15T00:00:55.729Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "in-the-wake-of-anthropic-s-mythos-openai-has-a-new-cybersecurity-model-and-strat",
+      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+      "summary": "New cybersecurity AI models may increase reliance on AI for security tasks, potentially replacing some human roles in IT and cybersecurity.",
+      "date": "2026-04-14",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "cybersecurity",
+        "AI development",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-15T00:00:54.049Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "has-google-s-ai-watermarking-system-been-reverse-engineered-",
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "summary": "The potential reverse-engineering of Google's AI watermarking system could slow the adoption of AI content verification, potentially delaying efforts to manage AI-generated content in creative and professional fields.",
+      "date": "2026-04-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "content verification",
+        "technology security"
+      ],
+      "fetchedAt": "2026-04-15T00:00:49.630Z",
+      "categories": [
+        "computer-and-information-technology",
+        "media-and-communication",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
+      "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
+      "summary": "This feature accelerates AI's ability to automate repetitive tasks, increasing the potential for job replacement in administrative and technical roles.",
+      "date": "2026-04-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "automation",
+        "productivity",
+        "AI tools"
+      ],
+      "fetchedAt": "2026-04-15T00:00:48.154Z",
+      "categories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
+      "title": "The attacks on Sam Altman are a warning for the AI world",
+      "summary": "The attacks on Sam Altman highlight growing public fear about AI's impact, potentially slowing its adoption and job replacement efforts.",
+      "date": "2026-04-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "public perception",
+        "AI safety"
+      ],
+      "fetchedAt": "2026-04-15T00:00:46.479Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-has-bought-ai-personal-finance-startup-hiro",
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "summary": "OpenAI's acquisition of Hiro suggests increased integration of AI in financial planning, potentially automating tasks in the business and financial sectors.",
+      "date": "2026-04-14",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "financial technology",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-15T00:00:45.078Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "google-brings-its-gemini-personal-intelligence-feature-to-india",
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "summary": "Google's Gemini Personal Intelligence feature in India could lead to more automation in personal and administrative tasks, potentially affecting jobs in office and administrative support.",
+      "date": "2026-04-14",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "personalization",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-15T00:00:43.611Z",
+      "categories": [
+        "office-and-administrative-support"
+      ]
+    },
+    {
+      "id": "google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "summary": "Google's AI-powered Chrome Skills feature could increase efficiency in task automation, potentially reducing the need for certain manual or repetitive job tasks.",
+      "date": "2026-04-14",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI integration",
+        "productivity tools",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-15T00:00:42.291Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-future-of-work-how-ai-automation-is-transforming-jobs-and-careers-worldwide-",
+      "title": "The Future of Work: How AI Automation Is Transforming Jobs and Careers Worldwide - Tech Times",
+      "summary": "The article highlights how AI automation is significantly transforming jobs and careers globally, suggesting increased replacement of human roles by AI.",
+      "date": "2026-04-14",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkFDb2N3QTN5UVI3RGt1ZGRlTVNwTFlBMzktTjNkVE1PMTZ4UkNqZ2w3aGRCc3JOVUE5bUwxUV9Cc0M1b0J1dS00R0hJNmQtR05haklsS1V1cmNMdnNOcGp5NjhZUWFVamoyNlFUYTJmbVlkTzkzSklWZjRyU1R3b1VUQ1FnQ2dGX3FCY0hDMnVHbVFmVl9ROVUta2Q0QUV5eFNQUHVIQXRubVRzQmZ5XzdWNGc2eEhhY1Brdw?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI impact",
+        "automation",
+        "future of work"
+      ],
+      "fetchedAt": "2026-04-15T00:00:38.443Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "office-and-administrative-support"
+      ]
+    },
+    {
+      "id": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthr",
+      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+      "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
+      "date": "2026-04-13",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI competition",
+        "enterprise adoption",
+        "user retention"
+      ],
+      "fetchedAt": "2026-04-15T00:00:52.742Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
+      "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+      "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
+      "date": "2026-04-13",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI competition",
+        "enterprise adoption",
+        "user retention"
+      ],
+      "fetchedAt": "2026-04-14T00:00:32.731Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
       "title": "At the HumanX conference, everyone was talking about Claude",
       "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
@@ -3254,285 +3528,14 @@
         "protective-service",
         "_all"
       ]
-    },
-    {
-      "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "summary": "This news could slow AI job replacement efforts due to increased scrutiny and legal risks associated with AI use.",
-      "date": "2026-04-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI regulation",
-        "legal liability",
-        "AI ethics"
-      ],
-      "fetchedAt": "2026-04-12T10:12:27.637Z",
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-      "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and interactive analysis, potentially impacting jobs in technical and design fields.",
-      "date": "2026-04-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capabilities",
-        "interactive simulations",
-        "technical automation"
-      ],
-      "fetchedAt": "2026-04-11T00:00:36.604Z",
-      "categories": [
-        "architecture-and-engineering",
-        "computer-and-information-technology",
-        "math"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "gemini-gets-notebooks-to-help-you-organize-projects",
-      "title": "Gemini gets notebooks to help you organize projects",
-      "summary": "The introduction of notebooks in Gemini enhances AI's ability to organize and manage project-related information, potentially increasing efficiency and reducing the need for human coordination in certain tasks.",
-      "date": "2026-04-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "productivity tools",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-10T00:00:45.576Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-      "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-      "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and technical modeling, potentially impacting jobs in design, engineering, and simulation fields.",
-      "date": "2026-04-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capabilities",
-        "technical modeling",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-10T00:00:42.880Z",
-      "categories": [
-        "architecture-and-engineering",
-        "computer-and-information-technology",
-        "life-physical-and-social-science"
-      ]
-    },
-    {
-      "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
-      "title": "Meta is reentering the AI race with a new model called Muse Spark",
-      "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
-      "date": "2026-04-08",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "job displacement",
-        "tech integration"
-      ],
-      "fetchedAt": "2026-04-09T00:00:40.789Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
-      "date": "2026-04-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "safety concerns",
-        "regulatory impact"
-      ],
-      "fetchedAt": "2026-04-08T00:00:43.615Z",
-      "categories": [
-        "community-and-social-service",
-        "computer-and-information-technology",
-        "legal"
-      ]
-    },
-    {
-      "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
-      "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-      "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
-      "date": "2026-04-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "ai-development",
-        "automation"
-      ],
-      "fetchedAt": "2026-04-08T00:00:41.906Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-maps-can-now-write-captions-for-your-photos-using-ai",
-      "title": "Google Maps can now write captions for your photos using AI",
-      "summary": "AI's ability to generate captions for photos may contribute to automation in content creation and media roles, potentially affecting jobs in media and communication.",
-      "date": "2026-04-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-      "effect": "advance",
-      "impactScore": 2,
-      "tags": [
-        "AI capabilities",
-        "content creation",
-        "automation"
-      ],
-      "fetchedAt": "2026-04-08T00:00:40.408Z",
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
-      "date": "2026-04-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "compute infrastructure",
-        "business growth"
-      ],
-      "fetchedAt": "2026-04-08T00:00:38.846Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybersecurity-in",
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "summary": "The introduction of a new AI model for cybersecurity work signals AI's growing role in job functions that require technical expertise, potentially accelerating AI's impact on certain roles.",
-      "date": "2026-04-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "cybersecurity",
-        "AI development",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-08T00:00:37.499Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service"
-      ]
-    },
-    {
-      "id": "ai-job-replacement-fear-why-ai-creates-new-work-pakistan-today",
-      "title": "AI Job Replacement Fear: Why AI Creates New Work - Pakistan Today",
-      "summary": "The article suggests that AI creates new jobs, which may delay concerns about AI replacing human jobs.",
-      "date": "2026-04-07",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNm5uWlRUOU04N1h2X3hqNGlQMFlXUEQ2bjBKWVpGcVFucUNyeGFpcEd4YXgxOHJKeVA3TzMwM1BGQk5KNWdMM0EydG9hdW9mZ2oyMlp5NDhSMWZDc2FWYjZUM1YxMFl2NWpkSTlEazhvcEpHSnpORnA4M2VvS1Z1T0JaVXFtWGI1THRVbkxIUjRuQQ?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI job creation",
-        "labor market"
-      ],
-      "fetchedAt": "2026-04-08T00:00:35.776Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
-      "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
-      "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
-      "date": "2026-04-06",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI job displacement",
-        "expert predictions",
-        "labor market"
-      ],
-      "fetchedAt": "2026-04-10T00:00:34.917Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "The article highlights concerns about AI's impact on jobs but suggests that the extent of job replacement is still unclear and debated.",
-      "date": "2026-04-06",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI impact",
-        "job displacement",
-        "workforce analysis"
-      ],
-      "fetchedAt": "2026-04-07T00:00:39.852Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
     }
   ],
-  "generatedAt": "2026-04-14T02:20:06.732Z",
+  "generatedAt": "2026-04-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Daily signal pulse",
-      "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
-      "body": "This update is split between 13 advances and 7 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-14T02:20:06.732Z, with the macro replacement estimate at 49.2%."
+      "title": "AI Investment and Regulation Shape Job Replacement Outlook",
+      "preview": "Positive AI developments contrast with regulatory concerns.",
+      "body": "Recent news shows a mix of AI advancement and regulatory hesitation. Anthropic's high valuation and new AI features in Google Chrome signal growing AI adoption, while opposition to liability bills and cybersecurity concerns suggest potential delays. Overall, the balance remains cautiously optimistic."
     }
   }
 }
