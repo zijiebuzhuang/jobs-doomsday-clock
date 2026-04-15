@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:48:06",
-  "minutesToMidnight": 12,
-  "exactMinutesToMidnight": 11.9,
+  "displayTime": "23:50:17",
+  "minutesToMidnight": 10,
+  "exactMinutesToMidnight": 9.719,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -1.1,
+  "newsAdjustment": -3.281,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.334
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.176,
+  "macroReplacementRate": 49.327,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3530,12 +3530,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-15T12:00:00.000Z",
+  "generatedAt": "2026-04-15T01:16:32.275Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Investment and Regulation Shape Job Replacement Outlook",
-      "preview": "Positive AI developments contrast with regulatory concerns.",
-      "body": "Recent news shows a mix of AI advancement and regulatory hesitation. Anthropic's high valuation and new AI features in Google Chrome signal growing AI adoption, while opposition to liability bills and cybersecurity concerns suggest potential delays. Overall, the balance remains cautiously optimistic."
+      "title": "Daily signal pulse",
+      "preview": "A quick read on the latest pulse, led by Anthropic Attracts Investor Offers at an $800 Billion Valuation.",
+      "body": "This update is split between 14 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic Attracts Investor Offers at an $800 Billion Valuation\" (Bloomberg Technology), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.281 minutes. Updated 2026-04-15T01:16:32.275Z, with the macro replacement estimate at 49.3%."
     }
   }
 }

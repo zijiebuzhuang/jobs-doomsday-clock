@@ -1,10 +1,10 @@
 [
   {
     "date": "2026-04-15",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.9,
-    "macroReplacementRate": 49.176,
-    "newsAdjustment": -1.1,
+    "minutesToMidnight": 10,
+    "exactMinutesToMidnight": 9.719,
+    "macroReplacementRate": 49.327,
+    "newsAdjustment": -3.281,
     "categoryAdjustments": {
       "healthcare": -0.35,
       "life-physical-and-social-science": -0.35,
@@ -310,16 +310,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic Attracts Investor Offers at an $800 Billion Valuation.",
-        "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic Attracts Investor Offers at an $800 Billion Valuation\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-15T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic Attracts Investor Offers at an $800 Billion Valuation\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.281 minutes. Updated 2026-04-15T12:00:00.000Z, with the macro replacement estimate at 49.3%."
       }
     }
   },
   {
     "date": "2026-04-14",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.9,
-    "macroReplacementRate": 49.176,
-    "newsAdjustment": -1.1,
+    "minutesToMidnight": 10,
+    "exactMinutesToMidnight": 9.762,
+    "macroReplacementRate": 49.324,
+    "newsAdjustment": -3.238,
     "categoryAdjustments": {
       "healthcare": -0.35,
       "life-physical-and-social-science": -0.35,
@@ -374,16 +374,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Read OpenAI’s latest internal memo about beating the competition — including Anthropic.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Read OpenAI’s latest internal memo about beating the competition — including Anthropic\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-14T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Read OpenAI’s latest internal memo about beating the competition — including Anthropic\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -3.238 minutes. Updated 2026-04-14T12:00:00.000Z, with the macro replacement estimate at 49.3%."
       }
     }
   },
   {
     "date": "2026-04-13",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.9,
-    "macroReplacementRate": 49.176,
-    "newsAdjustment": -1.1,
+    "minutesToMidnight": 10,
+    "exactMinutesToMidnight": 10.453,
+    "macroReplacementRate": 49.276,
+    "newsAdjustment": -2.547,
     "categoryAdjustments": {
       "healthcare": -0.283,
       "life-physical-and-social-science": -0.315,
@@ -457,16 +457,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by At the HumanX conference, everyone was talking about Claude.",
-        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"At the HumanX conference, everyone was talking about Claude\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-13T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"At the HumanX conference, everyone was talking about Claude\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -2.547 minutes. Updated 2026-04-13T12:00:00.000Z, with the macro replacement estimate at 49.3%."
       }
     }
   },
   {
     "date": "2026-04-12",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.9,
-    "macroReplacementRate": 49.176,
-    "newsAdjustment": -1.1,
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 10.75,
+    "macroReplacementRate": 49.256,
+    "newsAdjustment": -2.25,
     "categoryAdjustments": {
       "healthcare": -0.205,
       "life-physical-and-social-science": -0.237,
@@ -628,16 +628,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
-        "body": "This update is split between 2 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Your article about AI doesn’t need AI art\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-12T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update is split between 2 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Your article about AI doesn’t need AI art\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.250 minutes. Updated 2026-04-12T12:00:00.000Z, with the macro replacement estimate at 49.3%."
       }
     }
   },
   {
     "date": "2026-04-11",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.9,
-    "macroReplacementRate": 49.176,
-    "newsAdjustment": -1.1,
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 11.048,
+    "macroReplacementRate": 49.235,
+    "newsAdjustment": -1.952,
     "categoryAdjustments": {
       "healthcare": -0.127,
       "life-physical-and-social-science": -0.159,
@@ -692,16 +692,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Google’s Gemini AI can answer your questions with 3D models and simulations.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.100 minutes. Updated 2026-04-11T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.952 minutes. Updated 2026-04-11T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-10",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.976,
-    "macroReplacementRate": 49.171,
-    "newsAdjustment": -1.024,
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 11.232,
+    "macroReplacementRate": 49.222,
+    "newsAdjustment": -1.768,
     "categoryAdjustments": {
       "healthcare": -0.08,
       "life-physical-and-social-science": -0.113,
@@ -797,16 +797,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Google’s Gemini AI can answer your questions with 3D models and simulations.",
-        "body": "This update leans forward, with 3 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.024 minutes. Updated 2026-04-10T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update leans forward, with 3 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.768 minutes. Updated 2026-04-10T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-09",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.938,
-    "macroReplacementRate": 49.174,
-    "newsAdjustment": -1.062,
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 11.158,
+    "macroReplacementRate": 49.228,
+    "newsAdjustment": -1.842,
     "categoryAdjustments": {
       "healthcare": -0.103,
       "life-physical-and-social-science": -0.136,
@@ -860,16 +860,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Meta is reentering the AI race with a new model called Muse Spark.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Meta is reentering the AI race with a new model called Muse Spark\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.062 minutes. Updated 2026-04-09T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Meta is reentering the AI race with a new model called Muse Spark\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.842 minutes. Updated 2026-04-09T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-08",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.052,
-    "macroReplacementRate": 49.166,
-    "newsAdjustment": -0.948,
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 11.342,
+    "macroReplacementRate": 49.215,
+    "newsAdjustment": -1.658,
     "categoryAdjustments": {
       "healthcare": -0.143,
       "life-physical-and-social-science": -0.134,
@@ -1044,16 +1044,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by A new Anthropic model found security problems ‘in every major operating system and web browser’.",
-        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"A new Anthropic model found security problems ‘in every major operating system and web browser’\" (The Verge - AI), while the clearest drag comes from \"Gemini is making it faster for distressed users to reach mental health resources\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.948 minutes. Updated 2026-04-08T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"A new Anthropic model found security problems ‘in every major operating system and web browser’\" (The Verge - AI), while the clearest drag comes from \"Gemini is making it faster for distressed users to reach mental health resources\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.658 minutes. Updated 2026-04-08T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-07",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.167,
-    "macroReplacementRate": 49.158,
-    "newsAdjustment": -0.833,
+    "exactMinutesToMidnight": 11.557,
+    "macroReplacementRate": 49.2,
+    "newsAdjustment": -1.443,
     "categoryAdjustments": {
       "healthcare": -0.09,
       "life-physical-and-social-science": -0.082,
@@ -1149,16 +1149,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek.",
-        "body": "This update is split between 1 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI alums have been quietly investing from a new, potentially $100M fund\" (TechCrunch - AI), while the clearest drag comes from \"OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.833 minutes. Updated 2026-04-07T12:00:00.000Z, with the macro replacement estimate at 49.2%."
+        "body": "This update is split between 1 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI alums have been quietly investing from a new, potentially $100M fund\" (TechCrunch - AI), while the clearest drag comes from \"OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.443 minutes. Updated 2026-04-07T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-06",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.326,
-    "macroReplacementRate": 49.147,
-    "newsAdjustment": -0.674,
+    "exactMinutesToMidnight": 11.833,
+    "macroReplacementRate": 49.181,
+    "newsAdjustment": -1.167,
     "categoryAdjustments": {
       "healthcare": -0.05,
       "life-physical-and-social-science": -0.044,
@@ -1212,16 +1212,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by I let Gemini in Google Maps plan my day and it went surprisingly well.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"I let Gemini in Google Maps plan my day and it went surprisingly well\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -0.674 minutes. Updated 2026-04-06T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"I let Gemini in Google Maps plan my day and it went surprisingly well\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.167 minutes. Updated 2026-04-06T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-05",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.347,
-    "macroReplacementRate": 49.145,
-    "newsAdjustment": -0.653,
+    "exactMinutesToMidnight": 11.855,
+    "macroReplacementRate": 49.179,
+    "newsAdjustment": -1.145,
     "categoryAdjustments": {
       "healthcare": -0.057,
       "life-physical-and-social-science": -0.053,
@@ -1275,16 +1275,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage.",
-        "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\" (TechCrunch - AI), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. The latest news adjustment stands at -0.653 minutes. Updated 2026-04-05T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+        "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\" (TechCrunch - AI), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. The latest news adjustment stands at -1.145 minutes. Updated 2026-04-05T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-04",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.415,
-    "macroReplacementRate": 49.141,
-    "newsAdjustment": -0.585,
+    "exactMinutesToMidnight": 11.984,
+    "macroReplacementRate": 49.17,
+    "newsAdjustment": -1.016,
     "categoryAdjustments": {
       "healthcare": -0.029,
       "life-physical-and-social-science": -0.027,
@@ -1360,16 +1360,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports.",
-        "body": "This update is split between 1 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports\" (TechCrunch - AI), while the clearest drag comes from \"US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)\" (AI Workforce). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.585 minutes. Updated 2026-04-04T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+        "body": "This update is split between 1 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports\" (TechCrunch - AI), while the clearest drag comes from \"US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)\" (AI Workforce). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.016 minutes. Updated 2026-04-04T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-03",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.393,
-    "macroReplacementRate": 49.142,
-    "newsAdjustment": -0.607,
+    "exactMinutesToMidnight": 11.942,
+    "macroReplacementRate": 49.173,
+    "newsAdjustment": -1.058,
     "categoryAdjustments": {
       "healthcare": -0.047,
       "life-physical-and-social-science": -0.047,
@@ -1504,16 +1504,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Microsoft’s new ‘superintelligence’ game plan is all about business.",
-        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Microsoft’s new ‘superintelligence’ game plan is all about business\" (The Verge - AI), while the clearest drag comes from \"It’s not easy to get depression-detecting AI through the FDA\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.607 minutes. Updated 2026-04-03T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Microsoft’s new ‘superintelligence’ game plan is all about business\" (The Verge - AI), while the clearest drag comes from \"It’s not easy to get depression-detecting AI through the FDA\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.058 minutes. Updated 2026-04-03T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-02",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.481,
-    "macroReplacementRate": 49.136,
-    "newsAdjustment": -0.519,
+    "exactMinutesToMidnight": 12.106,
+    "macroReplacementRate": 49.162,
+    "newsAdjustment": -0.894,
     "categoryAdjustments": {
       "healthcare": -0.009,
       "life-physical-and-social-science": -0.011,
@@ -1818,16 +1818,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI Releases GPT-5 with Autonomous Agent Capabilities.",
-        "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI Releases GPT-5 with Autonomous Agent Capabilities\" (TechCrunch - AI), while the clearest drag comes from \"EU Passes AI Workplace Protection Act Requiring Human Oversight\" (Ars Technica - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.519 minutes. Updated 2026-04-02T12:00:00.000Z, with the macro replacement estimate at 49.1%."
+        "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI Releases GPT-5 with Autonomous Agent Capabilities\" (TechCrunch - AI), while the clearest drag comes from \"EU Passes AI Workplace Protection Act Requiring Human Oversight\" (Ars Technica - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.894 minutes. Updated 2026-04-02T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   },
   {
     "date": "2026-04-01",
     "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.447,
-    "macroReplacementRate": 49.138,
-    "newsAdjustment": -0.553,
+    "exactMinutesToMidnight": 12.021,
+    "macroReplacementRate": 49.168,
+    "newsAdjustment": -0.979,
     "categoryAdjustments": {
       "healthcare": -0.077,
       "life-physical-and-social-science": -0.044,
@@ -1859,16 +1859,16 @@
       "dailyPulse": {
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
+        "body": "No new qualifying signals were retained for 2026-04-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
       }
     }
   },
   {
     "date": "2026-03-31",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.612,
-    "macroReplacementRate": 49.127,
-    "newsAdjustment": -0.388,
+    "minutesToMidnight": 12,
+    "exactMinutesToMidnight": 12.323,
+    "macroReplacementRate": 49.147,
+    "newsAdjustment": -0.677,
     "categoryAdjustments": {
       "healthcare": -0.043,
       "life-physical-and-social-science": -0.01,
@@ -1906,10 +1906,10 @@
   },
   {
     "date": "2026-03-30",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.661,
-    "macroReplacementRate": 49.123,
-    "newsAdjustment": -0.339,
+    "minutesToMidnight": 12,
+    "exactMinutesToMidnight": 12.398,
+    "macroReplacementRate": 49.142,
+    "newsAdjustment": -0.602,
     "categoryAdjustments": {
       "healthcare": -0.033,
       "life-physical-and-social-science": -0.033,
@@ -1947,10 +1947,10 @@
   },
   {
     "date": "2026-03-29",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.662,
-    "macroReplacementRate": 49.123,
-    "newsAdjustment": -0.338,
+    "minutesToMidnight": 12,
+    "exactMinutesToMidnight": 12.392,
+    "macroReplacementRate": 49.142,
+    "newsAdjustment": -0.608,
     "categoryAdjustments": {
       "healthcare": -0.033,
       "life-physical-and-social-science": -0.033,
@@ -1988,10 +1988,10 @@
   },
   {
     "date": "2026-03-28",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.683,
-    "macroReplacementRate": 49.122,
-    "newsAdjustment": -0.317,
+    "minutesToMidnight": 12,
+    "exactMinutesToMidnight": 12.423,
+    "macroReplacementRate": 49.14,
+    "newsAdjustment": -0.577,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2030,9 +2030,9 @@
   {
     "date": "2026-03-27",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.77,
-    "macroReplacementRate": 49.116,
-    "newsAdjustment": -0.23,
+    "exactMinutesToMidnight": 12.582,
+    "macroReplacementRate": 49.129,
+    "newsAdjustment": -0.418,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2071,9 +2071,9 @@
   {
     "date": "2026-03-26",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.835,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.165,
+    "exactMinutesToMidnight": 12.7,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.3,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2112,9 +2112,9 @@
   {
     "date": "2026-03-25",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.835,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.165,
+    "exactMinutesToMidnight": 12.699,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.301,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2153,9 +2153,9 @@
   {
     "date": "2026-03-24",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.834,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.166,
+    "exactMinutesToMidnight": 12.698,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.302,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2194,9 +2194,9 @@
   {
     "date": "2026-03-23",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.833,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.167,
+    "exactMinutesToMidnight": 12.697,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.303,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2235,9 +2235,9 @@
   {
     "date": "2026-03-22",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.833,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.167,
+    "exactMinutesToMidnight": 12.696,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.304,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2276,9 +2276,9 @@
   {
     "date": "2026-03-21",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.832,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.168,
+    "exactMinutesToMidnight": 12.694,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.306,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2317,9 +2317,9 @@
   {
     "date": "2026-03-20",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.831,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.169,
+    "exactMinutesToMidnight": 12.693,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.307,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2358,9 +2358,9 @@
   {
     "date": "2026-03-19",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.831,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.169,
+    "exactMinutesToMidnight": 12.692,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.308,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2399,9 +2399,9 @@
   {
     "date": "2026-03-18",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.83,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.17,
+    "exactMinutesToMidnight": 12.691,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.309,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2440,9 +2440,9 @@
   {
     "date": "2026-03-17",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.829,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.171,
+    "exactMinutesToMidnight": 12.689,
+    "macroReplacementRate": 49.122,
+    "newsAdjustment": -0.311,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2481,9 +2481,9 @@
   {
     "date": "2026-03-16",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.829,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.171,
+    "exactMinutesToMidnight": 12.688,
+    "macroReplacementRate": 49.122,
+    "newsAdjustment": -0.312,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2522,9 +2522,9 @@
   {
     "date": "2026-03-15",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.828,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.172,
+    "exactMinutesToMidnight": 12.687,
+    "macroReplacementRate": 49.122,
+    "newsAdjustment": -0.313,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2563,9 +2563,9 @@
   {
     "date": "2026-03-14",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.831,
-    "macroReplacementRate": 49.112,
-    "newsAdjustment": -0.169,
+    "exactMinutesToMidnight": 12.693,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.307,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2604,9 +2604,9 @@
   {
     "date": "2026-03-13",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.834,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.166,
+    "exactMinutesToMidnight": 12.7,
+    "macroReplacementRate": 49.121,
+    "newsAdjustment": -0.3,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2645,9 +2645,9 @@
   {
     "date": "2026-03-12",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.837,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.163,
+    "exactMinutesToMidnight": 12.706,
+    "macroReplacementRate": 49.12,
+    "newsAdjustment": -0.294,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2686,9 +2686,9 @@
   {
     "date": "2026-03-11",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.84,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.16,
+    "exactMinutesToMidnight": 12.713,
+    "macroReplacementRate": 49.12,
+    "newsAdjustment": -0.287,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2727,9 +2727,9 @@
   {
     "date": "2026-03-10",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.844,
-    "macroReplacementRate": 49.111,
-    "newsAdjustment": -0.156,
+    "exactMinutesToMidnight": 12.719,
+    "macroReplacementRate": 49.119,
+    "newsAdjustment": -0.281,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2768,9 +2768,9 @@
   {
     "date": "2026-03-09",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.935,
-    "macroReplacementRate": 49.105,
-    "newsAdjustment": -0.065,
+    "exactMinutesToMidnight": 12.886,
+    "macroReplacementRate": 49.108,
+    "newsAdjustment": -0.114,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -2809,9 +2809,9 @@
   {
     "date": "2026-03-08",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.027,
-    "macroReplacementRate": 49.098,
-    "newsAdjustment": 0.027,
+    "exactMinutesToMidnight": 13.054,
+    "macroReplacementRate": 49.096,
+    "newsAdjustment": 0.054,
     "categoryAdjustments": {
       "healthcare": 0,
       "life-physical-and-social-science": 0,
@@ -3506,9 +3506,9 @@
   {
     "date": "2026-02-19",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.003,
+    "exactMinutesToMidnight": 13.005,
     "macroReplacementRate": 49.1,
-    "newsAdjustment": 0.003,
+    "newsAdjustment": 0.005,
     "categoryAdjustments": {
       "healthcare": 0.001,
       "life-physical-and-social-science": 0.001,
@@ -3547,9 +3547,9 @@
   {
     "date": "2026-02-18",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.005,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0.005,
+    "exactMinutesToMidnight": 13.01,
+    "macroReplacementRate": 49.099,
+    "newsAdjustment": 0.01,
     "categoryAdjustments": {
       "healthcare": 0.003,
       "life-physical-and-social-science": 0.003,
@@ -3588,9 +3588,9 @@
   {
     "date": "2026-02-17",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.008,
+    "exactMinutesToMidnight": 13.015,
     "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.008,
+    "newsAdjustment": 0.015,
     "categoryAdjustments": {
       "healthcare": 0.004,
       "life-physical-and-social-science": 0.004,
@@ -3629,9 +3629,9 @@
   {
     "date": "2026-02-16",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.01,
+    "exactMinutesToMidnight": 13.021,
     "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.01,
+    "newsAdjustment": 0.021,
     "categoryAdjustments": {
       "healthcare": 0.005,
       "life-physical-and-social-science": 0.005,
@@ -3670,9 +3670,9 @@
   {
     "date": "2026-02-15",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.013,
-    "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.013,
+    "exactMinutesToMidnight": 13.026,
+    "macroReplacementRate": 49.098,
+    "newsAdjustment": 0.026,
     "categoryAdjustments": {
       "healthcare": 0.006,
       "life-physical-and-social-science": 0.006,
@@ -3711,9 +3711,9 @@
   {
     "date": "2026-02-14",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.015,
-    "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.015,
+    "exactMinutesToMidnight": 13.031,
+    "macroReplacementRate": 49.098,
+    "newsAdjustment": 0.031,
     "categoryAdjustments": {
       "healthcare": 0.008,
       "life-physical-and-social-science": 0.008,
@@ -3752,9 +3752,9 @@
   {
     "date": "2026-02-13",
     "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.018,
-    "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.018,
+    "exactMinutesToMidnight": 13.036,
+    "macroReplacementRate": 49.098,
+    "newsAdjustment": 0.036,
     "categoryAdjustments": {
       "healthcare": 0.009,
       "life-physical-and-social-science": 0.009,
