@@ -1,5 +1,110 @@
 [
   {
+    "id": "anthropic-s-mythos-to-be-available-to-uk-banks-within-next-week-",
+    "title": "Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'",
+    "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased adoption of advanced AI in financial institutions, potentially accelerating job replacement in finance and related sectors.",
+    "date": "2026-04-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-16/anthropic-s-mythos-available-to-uk-banks-in-next-week-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial technology",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-04-16T11:00:37.812Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
+    "title": "Anthropic Plans to Bring Mythos to UK Banks Within the Next Week",
+    "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased AI adoption in the financial sector, potentially accelerating job replacement in that industry.",
+    "date": "2026-04-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial sector",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-16T11:00:36.717Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "google-launches-a-gemini-ai-app-on-mac",
+    "title": "Google launches a Gemini AI app on Mac",
+    "summary": "The launch of the Gemini AI app on Mac may increase AI's integration into daily workflows, potentially accelerating its role in replacing certain job functions.",
+    "date": "2026-04-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workplace technology"
+    ],
+    "fetchedAt": "2026-04-16T11:00:35.675Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-rolls-out-a-native-gemini-app-for-mac",
+    "title": "Google rolls out a native Gemini app for Mac",
+    "summary": "The introduction of a native Gemini app for Mac could enhance AI's role in assisting with tasks, potentially increasing AI's integration into work processes and accelerating job replacement in certain areas.",
+    "date": "2026-04-15",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workplace automation"
+    ],
+    "fetchedAt": "2026-04-16T11:00:33.250Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "management"
+    ]
+  },
+  {
+    "id": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agent",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "summary": "OpenAI's update to its Agents SDK enhances AI capabilities, potentially accelerating AI's role in replacing human jobs by making it easier for enterprises to build more advanced agents.",
+    "date": "2026-04-15",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "enterprise adoption",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-16T11:00:32.105Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
     "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
     "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
