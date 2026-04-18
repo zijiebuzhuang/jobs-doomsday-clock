@@ -18,14 +18,15 @@ const isCI = process.env.CI === 'true'
 const MS_PER_DAY = 24 * 60 * 60 * 1000
 const SHORT_TERM_WINDOW_DAYS = 7
 const PRESSURE_CARRY = 0.996
-const ADVANCE_PRESSURE_FACTOR = 0.04
-const DELAY_PRESSURE_FACTOR = 0.025
-const DELAY_RELIEF_FACTOR = 0.018
-const CATEGORY_ADVANCE_PRESSURE_FACTOR = 0.011
-const CATEGORY_DELAY_PRESSURE_FACTOR = 0.007
-const CATEGORY_DELAY_RELIEF_FACTOR = 0.0045
+const ADVANCE_PRESSURE_FACTOR = 0.025
+const DELAY_PRESSURE_FACTOR = 0.016
+const DELAY_RELIEF_FACTOR = 0.011
+const CATEGORY_ADVANCE_PRESSURE_FACTOR = 0.007
+const CATEGORY_DELAY_PRESSURE_FACTOR = 0.0045
+const CATEGORY_DELAY_RELIEF_FACTOR = 0.003
 const MAX_NEWS_ADJUSTMENT = 100
 const MAX_CATEGORY_ADJUSTMENT = 0.35
+const SIGNAL_DENSITY_BASELINE = 5
 const SIGNAL_SUMMARY_MAX_ITEMS = 8
 const DATA_OUTPUT_PATH = 'public/data.json'
 
@@ -130,6 +131,14 @@ function buildMacroPressureSeries(newsFeed, asOfDate) {
       if (item.effect === 'delay') delayImpulse += score * DELAY_PRESSURE_FACTOR
     }
 
+    // Signal density normalization: keep effective impulse stable regardless of source count
+    const signalCount = items.length
+    if (signalCount > SIGNAL_DENSITY_BASELINE) {
+      const densityFactor = SIGNAL_DENSITY_BASELINE / signalCount
+      advanceImpulse *= densityFactor
+      delayImpulse *= densityFactor
+    }
+
     pressure = Math.max(0, pressure * PRESSURE_CARRY + advanceImpulse - delayImpulse)
     pressureByDay.set(day, pressure)
   }
@@ -160,7 +169,8 @@ function computeCategoryAdjustments(newsFeed, asOfDate) {
     const advanceImpulseByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
     const delayImpulseByCategory = Object.fromEntries(BLS_CATEGORIES.map(category => [category, 0]))
 
-    for (const item of buckets.get(day) || []) {
+    const dayItems = buckets.get(day) || []
+    for (const item of dayItems) {
       const categories = item.categories || item.affectedCategories
       if (!Array.isArray(categories) || categories.length === 0) continue
       const affectedCategories = categories.includes('_all') ? BLS_CATEGORIES : categories
@@ -170,6 +180,16 @@ function computeCategoryAdjustments(newsFeed, asOfDate) {
         if (!(category in pressureByCategory)) continue
         if (item.effect === 'advance') advanceImpulseByCategory[category] += score * CATEGORY_ADVANCE_PRESSURE_FACTOR
         if (item.effect === 'delay') delayImpulseByCategory[category] += score * CATEGORY_DELAY_PRESSURE_FACTOR
+      }
+    }
+
+    // Signal density normalization for category adjustments
+    const signalCount = dayItems.length
+    if (signalCount > SIGNAL_DENSITY_BASELINE) {
+      const densityFactor = SIGNAL_DENSITY_BASELINE / signalCount
+      for (const category of BLS_CATEGORIES) {
+        advanceImpulseByCategory[category] *= densityFactor
+        delayImpulseByCategory[category] *= densityFactor
       }
     }
 
