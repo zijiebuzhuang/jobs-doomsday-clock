@@ -63,6 +63,7 @@ function loadBaseData() {
       .sort((a, b) => b.exposure - a.exposure || b.jobs - a.jobs)
       .map(item => ({
         title: item.title,
+        slug: item.slug,
         exposure: item.exposure,
         jobs: item.jobs,
         url: item.url,

@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs'
+import { readFileSync, writeFileSync, existsSync } from 'fs'
 import Parser from 'rss-parser'
 import { pathToFileURL } from 'url'
 import {
@@ -12,6 +12,43 @@ import {
   normalizeFeedItem,
   saveHistorySet,
 } from './news-pipeline.mjs'
+
+const JOBS_MASTER_SITE_DATA_PATH = '/Users/zijiechen/Downloads/jobs-master/site/data.json'
+
+let cachedOccupationIndex
+
+export function loadOccupationIndex() {
+  if (cachedOccupationIndex) return cachedOccupationIndex
+
+  if (!existsSync(JOBS_MASTER_SITE_DATA_PATH)) {
+    console.warn('Occupation dataset not found — occupationIDs tagging disabled')
+    cachedOccupationIndex = { byCategory: {}, allSlugs: new Set() }
+    return cachedOccupationIndex
+  }
+
+  const sourceData = JSON.parse(readFileSync(JOBS_MASTER_SITE_DATA_PATH, 'utf-8'))
+  const valid = sourceData.filter(item => item.jobs && item.slug && item.exposure !== null && item.exposure !== undefined)
+  const byCategory = {}
+  const allSlugs = new Set()
+
+  for (const item of valid) {
+    const cat = item.category || '_uncategorized'
+    if (!byCategory[cat]) byCategory[cat] = []
+    byCategory[cat].push(item.slug)
+    allSlugs.add(item.slug)
+  }
+
+  cachedOccupationIndex = { byCategory, allSlugs }
+  return cachedOccupationIndex
+}
+
+function occupationReferenceBlock(occupationIndex) {
+  if (!occupationIndex.allSlugs.size) return ''
+  const lines = Object.entries(occupationIndex.byCategory)
+    .map(([cat, slugs]) => `${cat}: ${slugs.join(', ')}`)
+    .join('\n')
+  return `\nHere are specific occupations grouped by category (use their exact slug when tagging):\n${lines}\n`
+}
 
 const RSS_FEEDS = [
   { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
@@ -114,8 +151,10 @@ export async function callLLM(apiKey, prompt) {
   return data.choices[0].message.content
 }
 
-export async function classifyArticles(apiKey, articles) {
+export async function classifyArticles(apiKey, articles, occupationIndex = loadOccupationIndex()) {
   const classified = []
+  const hasOccupations = occupationIndex.allSlugs.size > 0
+  const occupationBlock = hasOccupations ? occupationReferenceBlock(occupationIndex) : ''
 
   for (const article of articles) {
     try {
@@ -125,7 +164,7 @@ Title: ${article.title}
 Snippet: ${article.contentSnippet?.slice(0, 500) || 'N/A'}
 
 Here are the BLS occupation categories: ${BLS_CATEGORIES.join(', ')}
-
+${occupationBlock}
 Respond with ONLY valid JSON (no markdown):
 {
   "relevant": true/false (is this actually about AI's impact on jobs/labor?),
@@ -133,13 +172,21 @@ Respond with ONLY valid JSON (no markdown):
   "impactScore": 1-5 (1=minor, 5=major milestone),
   "summary": "One sentence summary of the impact",
   "tags": ["tag1", "tag2"],
-  "affectedCategories": ["category-slug-1", "category-slug-2"] (which BLS categories above are most affected by this news? Use "_all" if the article broadly affects all categories. Pick 1-3 most relevant.)
+  "affectedCategories": ["category-slug-1", "category-slug-2"] (which BLS categories above are most affected by this news? Use "_all" if the article broadly affects all categories. Pick 1-3 most relevant.)${hasOccupations ? `,
+  "occupationIDs": ["slug-1", "slug-2"] (which specific occupations from the list above are most directly affected? Pick 1-5 most relevant. Use exact slugs. Omit or leave empty if the news is too broad to pinpoint specific occupations.)` : ''}
 }`
 
       const parsed = JSON.parse((await callLLM(apiKey, prompt)).trim())
       if (!parsed.relevant) {
         console.log(`  ⊘ Not relevant: ${article.title.slice(0, 60)}`)
         continue
+      }
+
+      // Validate occupationIDs against known slugs
+      let validOccupationIDs
+      if (hasOccupations && Array.isArray(parsed.occupationIDs)) {
+        validOccupationIDs = parsed.occupationIDs.filter(id => occupationIndex.allSlugs.has(id))
+        if (validOccupationIDs.length === 0) validOccupationIDs = undefined
       }
 
       classified.push(normalizeFeedItem({
@@ -153,11 +200,13 @@ Respond with ONLY valid JSON (no markdown):
         impactScore: parsed.impactScore,
         tags: parsed.tags || [],
         categories: parsed.affectedCategories,
+        occupationIDs: validOccupationIDs,
         fetchedAt: new Date().toISOString(),
         imageUrl: article.imageUrl,
       }))
 
-      console.log(`  ✓ ${parsed.effect === 'advance' ? '⚡' : '🛡'} [${parsed.impactScore}] ${article.title.slice(0, 60)}`)
+      const occTag = validOccupationIDs ? ` → ${validOccupationIDs.join(', ')}` : ''
+      console.log(`  ✓ ${parsed.effect === 'advance' ? '⚡' : '🛡'} [${parsed.impactScore}] ${article.title.slice(0, 60)}${occTag}`)
     } catch (err) {
       console.warn(`  ✗ Classification failed: ${article.title.slice(0, 40)}... - ${err.message}`)
     }

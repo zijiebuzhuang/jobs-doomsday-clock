@@ -17,6 +17,13 @@
     "categories": [
       "business-and-financial",
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "loan-officers",
+      "financial-examiners",
+      "credit-counselors",
+      "budget-analysts"
     ]
   },
   {
@@ -38,6 +45,13 @@
       "business-and-financial",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "personal-financial-advisors",
+      "software-developers",
+      "data-scientists",
+      "computer-systems-analysts"
     ]
   },
   {
@@ -59,6 +73,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "data-scientists",
+      "project-management-specialists",
+      "management-analysts"
     ]
   },
   {
@@ -80,6 +101,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "data-scientists",
+      "computer-programmers",
+      "information-security-analysts"
     ]
   },
   {
@@ -102,7 +130,14 @@
       "management",
       "business-and-financial"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts",
+      "web-developers"
+    ]
   },
   {
     "id": "gemini-can-now-pull-from-google-photos-to-generate-personalized-images",
@@ -124,7 +159,14 @@
       "computer-and-information-technology",
       "media-and-communication"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "graphic-designers",
+      "multimedia-artists-and-animators",
+      "photographers",
+      "set-and-exhibit-designers",
+      "fashion-designers"
+    ]
   },
   {
     "id": "openai-s-big-codex-update-is-a-direct-shot-at-claude-code",
@@ -145,7 +187,14 @@
       "computer-and-information-technology",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486",
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-programmers",
+      "database-administrators",
+      "information-security-analysts"
+    ]
   },
   {
     "id": "why-having-humans-in-the-loop-in-an-ai-war-is-an-illusion",
@@ -166,6 +215,13 @@
       "protective-service",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "firefighters",
+      "police-and-detectives",
+      "security-guards",
+      "computer-systems-analysts",
+      "information-security-analysts"
     ]
   },
   {
@@ -187,6 +243,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "database-administrators",
+      "information-security-analysts",
+      "network-and-computer-systems-administrators"
     ]
   },
   {
@@ -208,6 +271,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -227,6 +297,13 @@
     "fetchedAt": "2026-04-17T11:00:45.693Z",
     "categories": [
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-programmers",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -248,6 +325,13 @@
       "computer-and-information-technology",
       "production",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-programmers",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -269,6 +353,13 @@
       "business-and-financial",
       "computer-and-information-technology",
       "management"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "credit-counselors",
+      "loan-officers",
+      "management-analysts",
+      "financial-examiners"
     ]
   },
   {
@@ -289,6 +380,13 @@
     "categories": [
       "business-and-financial",
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "loan-officers",
+      "credit-counselors",
+      "compliance-officers",
+      "accountants-and-auditors"
     ]
   },
   {
@@ -311,7 +409,14 @@
       "office-and-administrative-support",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts"
+    ]
   },
   {
     "id": "google-rolls-out-a-native-gemini-app-for-mac",
@@ -332,6 +437,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "management"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts",
+      "web-developers"
     ]
   },
   {
@@ -353,6 +465,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts",
+      "network-and-computer-systems-administrators"
     ]
   },
   {
@@ -374,6 +493,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "data-scientists",
+      "computer-programmers",
+      "information-security-analysts"
     ]
   },
   {
@@ -416,6 +542,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-support-specialists",
+      "software-developers",
+      "web-developers",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -436,6 +569,13 @@
     "categories": [
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "information-security-analysts",
+      "network-and-computer-systems-administrators",
+      "computer-support-specialists",
+      "software-developers",
+      "database-administrators"
     ]
   },
   {
@@ -458,7 +598,14 @@
       "media-and-communication",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-support-specialists",
+      "information-security-analysts",
+      "database-administrators"
+    ]
   },
   {
     "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
@@ -480,7 +627,14 @@
       "computer-and-information-technology",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "secretaries-and-administrative-assistants",
+      "customer-service-representatives",
+      "bookkeeping-accounting-and-auditing-clerks",
+      "receptionists",
+      "financial-clerks"
+    ]
   },
   {
     "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
@@ -502,7 +656,14 @@
       "management",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "data-scientists",
+      "information-security-analysts",
+      "computer-programmers"
+    ]
   },
   {
     "id": "openai-has-bought-ai-personal-finance-startup-hiro",
@@ -522,6 +683,13 @@
     "categories": [
       "business-and-financial",
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "personal-financial-advisors",
+      "financial-analysts",
+      "loan-officers",
+      "budget-analysts",
+      "credit-counselors"
     ]
   },
   {
@@ -541,6 +709,13 @@
     "fetchedAt": "2026-04-15T00:00:43.611Z",
     "categories": [
       "office-and-administrative-support"
+    ],
+    "occupationIDs": [
+      "receptionists",
+      "secretaries-and-administrative-assistants",
+      "customer-service-representatives",
+      "general-office-clerks",
+      "financial-clerks"
     ]
   },
   {
@@ -562,6 +737,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-support-specialists",
+      "software-developers",
+      "web-developers",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -583,6 +765,13 @@
       "computer-and-information-technology",
       "management",
       "office-and-administrative-support"
+    ],
+    "occupationIDs": [
+      "management-analysts",
+      "financial-analysts",
+      "project-management-specialists",
+      "computer-systems-analysts",
+      "software-developers"
     ]
   },
   {
@@ -605,7 +794,14 @@
       "business-and-financial",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "financial-analysts",
+      "management-analysts",
+      "project-management-specialists",
+      "software-developers",
+      "data-scientists"
+    ]
   },
   {
     "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
@@ -627,7 +823,14 @@
       "business-and-financial",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "financial-analysts",
+      "management-analysts",
+      "project-management-specialists",
+      "software-developers",
+      "data-scientists"
+    ]
   },
   {
     "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
@@ -647,6 +850,13 @@
     "categories": [
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "data-scientists",
+      "information-security-analysts",
+      "web-developers"
     ]
   },
   {
@@ -668,6 +878,13 @@
       "computer-and-information-technology",
       "business-and-financial",
       "_all"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "software-developers",
+      "computer-systems-analysts",
+      "data-scientists",
+      "information-security-analysts"
     ]
   },
   {
@@ -690,7 +907,13 @@
       "media-and-communication",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "graphic-designers",
+      "multimedia-artists-and-animators",
+      "set-and-exhibit-designers",
+      "art-directors"
+    ]
   },
   {
     "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
@@ -711,6 +934,13 @@
       "computer-and-information-technology",
       "community-and-social-service",
       "_all"
+    ],
+    "occupationIDs": [
+      "social-workers",
+      "probation-officers-and-correctional-treatment-specialists",
+      "community-health-workers",
+      "rehabilitation-counselors",
+      "substance-abuse-behavioral-disorder-and-mental-health-counselors"
     ]
   },
   {
@@ -733,7 +963,14 @@
       "legal",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "information-security-analysts",
+      "database-administrators",
+      "network-and-computer-systems-administrators"
+    ]
   },
   {
     "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
@@ -755,7 +992,14 @@
       "architecture-and-engineering",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-programmers",
+      "database-administrators",
+      "information-security-analysts"
+    ]
   },
   {
     "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
@@ -776,6 +1020,13 @@
       "computer-and-information-technology",
       "protective-service",
       "_all"
+    ],
+    "occupationIDs": [
+      "information-security-analysts",
+      "network-and-computer-systems-administrators",
+      "software-developers",
+      "computer-support-specialists",
+      "computer-network-architects"
     ]
   },
   {
@@ -797,6 +1048,13 @@
       "computer-and-information-technology",
       "legal",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "information-security-analysts",
+      "database-administrators",
+      "network-and-computer-systems-administrators"
     ]
   },
   {
@@ -819,7 +1077,14 @@
       "computer-and-information-technology",
       "math"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "occupationIDs": [
+      "drafters",
+      "architects",
+      "civil-engineers",
+      "industrial-engineers",
+      "computer-hardware-engineers"
+    ]
   },
   {
     "id": "gemini-gets-notebooks-to-help-you-organize-projects",
@@ -840,6 +1105,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "_all"
+    ],
+    "occupationIDs": [
+      "project-management-specialists",
+      "administrative-services-managers",
+      "software-developers",
+      "computer-systems-analysts",
+      "database-administrators"
     ]
   },
   {
@@ -861,6 +1133,13 @@
       "architecture-and-engineering",
       "computer-and-information-technology",
       "life-physical-and-social-science"
+    ],
+    "occupationIDs": [
+      "drafters",
+      "civil-engineers",
+      "mechanical-engineers",
+      "architects",
+      "industrial-engineers"
     ]
   },
   {
@@ -882,6 +1161,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "database-administrators",
+      "information-security-analysts",
+      "web-developers"
     ]
   },
   {
@@ -903,6 +1189,13 @@
       "community-and-social-service",
       "computer-and-information-technology",
       "legal"
+    ],
+    "occupationIDs": [
+      "social-workers",
+      "rehabilitation-counselors",
+      "substance-abuse-behavioral-disorder-and-mental-health-counselors",
+      "community-health-workers",
+      "school-and-career-counselors"
     ]
   },
   {
@@ -923,6 +1216,13 @@
     "categories": [
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "information-security-analysts",
+      "network-and-computer-systems-administrators",
+      "software-developers",
+      "computer-support-specialists",
+      "database-administrators"
     ]
   },
   {
@@ -944,6 +1244,13 @@
       "media-and-communication",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "photographers",
+      "technical-writers",
+      "editors",
+      "writers-and-authors",
+      "public-relations-specialists"
     ]
   },
   {
@@ -965,6 +1272,13 @@
       "computer-and-information-technology",
       "management",
       "business-and-financial"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "software-developers",
+      "data-scientists",
+      "network-and-computer-systems-administrators",
+      "database-administrators"
     ]
   },
   {
@@ -985,6 +1299,13 @@
     "categories": [
       "computer-and-information-technology",
       "protective-service"
+    ],
+    "occupationIDs": [
+      "information-security-analysts",
+      "network-and-computer-systems-administrators",
+      "software-developers",
+      "computer-systems-analysts",
+      "computer-network-architects"
     ]
   },
   {
@@ -1026,6 +1347,13 @@
       "computer-and-information-technology",
       "management",
       "business-and-financial"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "management-analysts",
+      "project-management-specialists",
+      "computer-systems-analysts",
+      "software-developers"
     ]
   },
   {
@@ -1068,6 +1396,13 @@
       "computer-and-information-technology",
       "production",
       "_all"
+    ],
+    "occupationIDs": [
+      "assemblers-and-fabricators",
+      "bakers",
+      "butchers-and-meat-cutters",
+      "welders-cutters-solderers-and-brazers",
+      "machinists-and-tool-and-die-makers"
     ]
   },
   {
@@ -1089,6 +1424,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "data-scientists",
+      "information-security-analysts",
+      "computer-network-architects"
     ]
   },
   {
@@ -1110,6 +1452,13 @@
       "office-and-administrative-support",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "receptionists",
+      "secretaries-and-administrative-assistants",
+      "customer-service-representatives",
+      "meeting-convention-and-event-planners",
+      "project-management-specialists"
     ]
   },
   {
@@ -1131,6 +1480,13 @@
       "computer-and-information-technology",
       "architecture-and-engineering",
       "_all"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "web-developers",
+      "computer-programmers",
+      "database-administrators",
+      "information-security-analysts"
     ]
   },
   {
@@ -1153,6 +1509,13 @@
       "life-physical-and-social-science",
       "healthcare",
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "biochemists-and-biophysicists",
+      "biomedical-engineers",
+      "medical-scientists",
+      "data-scientists",
+      "software-developers"
     ]
   },
   {
@@ -1195,6 +1558,13 @@
       "computer-and-information-technology",
       "education-training-and-library",
       "management"
+    ],
+    "occupationIDs": [
+      "computer-systems-analysts",
+      "software-developers",
+      "data-scientists",
+      "information-security-analysts",
+      "training-and-development-specialists"
     ]
   },
   {
@@ -1216,6 +1586,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "personal-care-and-service"
+    ],
+    "occupationIDs": [
+      "customer-service-representatives",
+      "computer-support-specialists",
+      "software-developers",
+      "web-developers",
+      "information-security-analysts"
     ]
   },
   {
@@ -1237,6 +1614,13 @@
       "computer-and-information-technology",
       "business-and-financial",
       "management"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "information-security-analysts",
+      "data-scientists",
+      "network-and-computer-systems-administrators"
     ]
   },
   {
@@ -1256,6 +1640,11 @@
     "fetchedAt": "2026-04-03T02:06:17.637Z",
     "categories": [
       "healthcare"
+    ],
+    "occupationIDs": [
+      "physicians-and-surgeons",
+      "registered-nurses",
+      "speech-language-pathologists"
     ]
   },
   {
@@ -1277,6 +1666,13 @@
       "office-and-administrative-support",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "secretaries-and-administrative-assistants",
+      "customer-service-representatives",
+      "receptionists",
+      "bookkeeping-accounting-and-auditing-clerks",
+      "information-clerks"
     ]
   },
   {
@@ -1298,6 +1694,13 @@
       "office-and-administrative-support",
       "computer-and-information-technology",
       "business-and-financial"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "management-analysts",
+      "project-management-specialists",
+      "budget-analysts",
+      "cost-estimators"
     ]
   },
   {
@@ -1319,6 +1722,13 @@
       "computer-and-information-technology",
       "business-and-financial",
       "management"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-systems-analysts",
+      "data-scientists",
+      "information-security-analysts",
+      "computer-network-architects"
     ]
   },
   {
@@ -1340,6 +1750,13 @@
       "computer-and-information-technology",
       "management",
       "_all"
+    ],
+    "occupationIDs": [
+      "computer-systems-analysts",
+      "software-developers",
+      "data-scientists",
+      "information-security-analysts",
+      "network-and-computer-systems-administrators"
     ]
   },
   {
@@ -1359,6 +1776,13 @@
     "fetchedAt": "2026-04-02T11:10:49.713Z",
     "categories": [
       "healthcare"
+    ],
+    "occupationIDs": [
+      "medical-assistants",
+      "registered-nurses",
+      "pharmacists",
+      "physicians-and-surgeons",
+      "nurse-anesthetists-nurse-midwives-and-nurse-practitioners"
     ]
   },
   {
@@ -1380,6 +1804,12 @@
       "management",
       "business-and-financial",
       "office-and-administrative-support"
+    ],
+    "occupationIDs": [
+      "human-resources-specialists",
+      "management-analysts",
+      "financial-analysts",
+      "compliance-officers"
     ]
   },
   {
@@ -1401,6 +1831,13 @@
       "computer-and-information-technology",
       "production",
       "office-and-administrative-support"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "software-developers",
+      "database-administrators",
+      "information-security-analysts",
+      "project-management-specialists"
     ]
   },
   {
@@ -1423,6 +1860,13 @@
       "arts-and-design",
       "media-and-communication",
       "computer-and-information-technology"
+    ],
+    "occupationIDs": [
+      "music-directors-and-composers",
+      "musicians-and-singers",
+      "producers-and-directors",
+      "graphic-designers",
+      "multimedia-artists-and-animators"
     ]
   },
   {
@@ -1444,6 +1888,13 @@
       "computer-and-information-technology",
       "architecture-and-engineering",
       "office-and-administrative-support"
+    ],
+    "occupationIDs": [
+      "software-developers",
+      "computer-programmers",
+      "database-administrators",
+      "web-developers",
+      "computer-systems-analysts"
     ]
   },
   {
@@ -1465,6 +1916,13 @@
       "media-and-communication",
       "computer-and-information-technology",
       "_all"
+    ],
+    "occupationIDs": [
+      "technical-writers",
+      "editors",
+      "writers-and-authors",
+      "public-relations-specialists",
+      "film-and-video-editors-and-camera-operators"
     ]
   },
   {
@@ -1486,6 +1944,13 @@
       "computer-and-information-technology",
       "management",
       "business-and-financial"
+    ],
+    "occupationIDs": [
+      "computer-and-information-systems-managers",
+      "data-scientists",
+      "financial-analysts",
+      "management-analysts",
+      "project-management-specialists"
     ]
   },
   {
@@ -1507,6 +1972,9 @@
       "office-and-administrative-support",
       "sales",
       "transportation-and-material-moving"
+    ],
+    "occupationIDs": [
+      "customer-service-representatives"
     ]
   },
   {
@@ -1528,6 +1996,10 @@
       "legal",
       "computer-and-information-technology",
       "business-and-financial"
+    ],
+    "occupationIDs": [
+      "lawyers",
+      "paralegals-and-legal-assistants"
     ]
   },
   {
@@ -1570,6 +2042,13 @@
       "computer-and-information-technology",
       "office-and-administrative-support",
       "production"
+    ],
+    "occupationIDs": [
+      "financial-analysts",
+      "accountants-and-auditors",
+      "software-developers",
+      "database-administrators",
+      "computer-support-specialists"
     ]
   },
   {
@@ -1590,6 +2069,13 @@
       "personal-care-and-service",
       "education-training-and-library",
       "community-and-social-service"
+    ],
+    "occupationIDs": [
+      "social-workers",
+      "rehabilitation-counselors",
+      "probation-officers-and-correctional-treatment-specialists",
+      "community-health-workers",
+      "school-and-career-counselors"
     ]
   },
   {

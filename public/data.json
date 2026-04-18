@@ -37,6 +37,7 @@
   "occupations": [
     {
       "title": "Medical transcriptionists",
+      "slug": "medical-transcriptionists",
       "exposure": 10,
       "jobs": 43900,
       "url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm",
@@ -46,6 +47,7 @@
     },
     {
       "title": "Customer service representatives",
+      "slug": "customer-service-representatives",
       "exposure": 9,
       "jobs": 2814000,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm",
@@ -55,6 +57,7 @@
     },
     {
       "title": "General office clerks",
+      "slug": "general-office-clerks",
       "exposure": 9,
       "jobs": 2646000,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/general-office-clerks.htm",
@@ -64,6 +67,7 @@
     },
     {
       "title": "Software developers, quality assurance analysts, and testers",
+      "slug": "software-developers",
       "exposure": 9,
       "jobs": 1895500,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
@@ -73,6 +77,7 @@
     },
     {
       "title": "Bookkeeping, accounting, and auditing clerks",
+      "slug": "bookkeeping-accounting-and-auditing-clerks",
       "exposure": 9,
       "jobs": 1613400,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/bookkeeping-accounting-and-auditing-clerks.htm",
@@ -82,6 +87,7 @@
     },
     {
       "title": "Financial clerks",
+      "slug": "financial-clerks",
       "exposure": 9,
       "jobs": 1193000,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm",
@@ -91,6 +97,7 @@
     },
     {
       "title": "Market research analysts",
+      "slug": "market-research-analysts",
       "exposure": 9,
       "jobs": 941700,
       "url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
@@ -100,6 +107,7 @@
     },
     {
       "title": "Financial analysts",
+      "slug": "financial-analysts",
       "exposure": 9,
       "jobs": 429000,
       "url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm",
@@ -109,6 +117,7 @@
     },
     {
       "title": "Paralegals and legal assistants",
+      "slug": "paralegals-and-legal-assistants",
       "exposure": 9,
       "jobs": 376200,
       "url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm",
@@ -118,6 +127,7 @@
     },
     {
       "title": "Graphic designers",
+      "slug": "graphic-designers",
       "exposure": 9,
       "jobs": 265900,
       "url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm",
@@ -127,6 +137,7 @@
     },
     {
       "title": "Data scientists",
+      "slug": "data-scientists",
       "exposure": 9,
       "jobs": 245900,
       "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
@@ -136,6 +147,7 @@
     },
     {
       "title": "Web developers and digital designers",
+      "slug": "web-developers",
       "exposure": 9,
       "jobs": 214900,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm",
@@ -145,6 +157,7 @@
     },
     {
       "title": "Medical records specialists",
+      "slug": "medical-records-and-health-information-technicians",
       "exposure": 9,
       "jobs": 194800,
       "url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm",
@@ -154,6 +167,7 @@
     },
     {
       "title": "Drafters",
+      "slug": "drafters",
       "exposure": 9,
       "jobs": 192100,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/drafters.htm",
@@ -163,6 +177,7 @@
     },
     {
       "title": "Bill and account collectors",
+      "slug": "bill-and-account-collectors",
       "exposure": 9,
       "jobs": 166900,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/bill-and-account-collectors.htm",
@@ -172,6 +187,7 @@
     },
     {
       "title": "Database administrators and architects",
+      "slug": "database-administrators",
       "exposure": 9,
       "jobs": 144900,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm",
@@ -181,6 +197,7 @@
     },
     {
       "title": "Writers and authors",
+      "slug": "writers-and-authors",
       "exposure": 9,
       "jobs": 135400,
       "url": "https://www.bls.gov/ooh/media-and-communication/writers-and-authors.htm",
@@ -190,6 +207,7 @@
     },
     {
       "title": "Insurance underwriters",
+      "slug": "insurance-underwriters",
       "exposure": 9,
       "jobs": 127000,
       "url": "https://www.bls.gov/ooh/business-and-financial/insurance-underwriters.htm",
@@ -199,6 +217,7 @@
     },
     {
       "title": "Computer programmers",
+      "slug": "computer-programmers",
       "exposure": 9,
       "jobs": 121200,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm",
@@ -208,6 +227,7 @@
     },
     {
       "title": "Editors",
+      "slug": "editors",
       "exposure": 9,
       "jobs": 115800,
       "url": "https://www.bls.gov/ooh/media-and-communication/editors.htm",
@@ -217,6 +237,7 @@
     },
     {
       "title": "Operations research analysts",
+      "slug": "operations-research-analysts",
       "exposure": 9,
       "jobs": 112100,
       "url": "https://www.bls.gov/ooh/math/operations-research-analysts.htm",
@@ -226,6 +247,7 @@
     },
     {
       "title": "Interpreters and translators",
+      "slug": "interpreters-and-translators",
       "exposure": 9,
       "jobs": 75300,
       "url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm",
@@ -235,6 +257,7 @@
     },
     {
       "title": "Travel agents",
+      "slug": "travel-agents",
       "exposure": 9,
       "jobs": 65700,
       "url": "https://www.bls.gov/ooh/sales/travel-agents.htm",
@@ -244,6 +267,7 @@
     },
     {
       "title": "Special effects artists and animators",
+      "slug": "multimedia-artists-and-animators",
       "exposure": 9,
       "jobs": 57100,
       "url": "https://www.bls.gov/ooh/arts-and-design/multimedia-artists-and-animators.htm",
@@ -253,6 +277,7 @@
     },
     {
       "title": "Technical writers",
+      "slug": "technical-writers",
       "exposure": 9,
       "jobs": 56400,
       "url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm",
@@ -262,6 +287,7 @@
     },
     {
       "title": "Computer and information research scientists",
+      "slug": "computer-and-information-research-scientists",
       "exposure": 9,
       "jobs": 40300,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm",
@@ -271,6 +297,7 @@
     },
     {
       "title": "Mathematicians and statisticians",
+      "slug": "mathematicians-and-statisticians",
       "exposure": 9,
       "jobs": 34600,
       "url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
@@ -280,6 +307,7 @@
     },
     {
       "title": "Court reporters and simultaneous captioners",
+      "slug": "court-reporters",
       "exposure": 9,
       "jobs": 17700,
       "url": "https://www.bls.gov/ooh/legal/court-reporters.htm",
@@ -289,6 +317,7 @@
     },
     {
       "title": "Economists",
+      "slug": "economists",
       "exposure": 9,
       "jobs": 17600,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm",
@@ -298,6 +327,7 @@
     },
     {
       "title": "Survey researchers",
+      "slug": "survey-researchers",
       "exposure": 9,
       "jobs": 8800,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/survey-researchers.htm",
@@ -307,6 +337,7 @@
     },
     {
       "title": "Desktop publishers",
+      "slug": "desktop-publishers",
       "exposure": 9,
       "jobs": 5000,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm",
@@ -316,6 +347,7 @@
     },
     {
       "title": "Secretaries and administrative assistants",
+      "slug": "secretaries-and-administrative-assistants",
       "exposure": 8,
       "jobs": 3453100,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/secretaries-and-administrative-assistants.htm",
@@ -325,6 +357,7 @@
     },
     {
       "title": "Accountants and auditors",
+      "slug": "accountants-and-auditors",
       "exposure": 8,
       "jobs": 1579800,
       "url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm",
@@ -334,6 +367,7 @@
     },
     {
       "title": "Computer support specialists",
+      "slug": "computer-support-specialists",
       "exposure": 8,
       "jobs": 882300,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm",
@@ -343,6 +377,7 @@
     },
     {
       "title": "Lawyers",
+      "slug": "lawyers",
       "exposure": 8,
       "jobs": 864800,
       "url": "https://www.bls.gov/ooh/legal/lawyers.htm",
@@ -352,6 +387,7 @@
     },
     {
       "title": "Computer systems analysts",
+      "slug": "computer-systems-analysts",
       "exposure": 8,
       "jobs": 521100,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm",
@@ -361,6 +397,7 @@
     },
     {
       "title": "Securities, commodities, and financial services sales agents",
+      "slug": "securities-commodities-and-financial-services-sales-agents",
       "exposure": 8,
       "jobs": 514500,
       "url": "https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm",
@@ -370,6 +407,7 @@
     },
     {
       "title": "Advertising, promotions, and marketing managers",
+      "slug": "advertising-promotions-and-marketing-managers",
       "exposure": 8,
       "jobs": 434000,
       "url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm",
@@ -379,6 +417,7 @@
     },
     {
       "title": "Compliance officers",
+      "slug": "compliance-officers",
       "exposure": 8,
       "jobs": 418000,
       "url": "https://www.bls.gov/ooh/business-and-financial/compliance-officers.htm",
@@ -388,6 +427,7 @@
     },
     {
       "title": "Network and computer systems administrators",
+      "slug": "network-and-computer-systems-administrators",
       "exposure": 8,
       "jobs": 331500,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm",
@@ -397,6 +437,7 @@
     },
     {
       "title": "Public relations specialists",
+      "slug": "public-relations-specialists",
       "exposure": 8,
       "jobs": 315900,
       "url": "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm",
@@ -406,6 +447,7 @@
     },
     {
       "title": "Loan officers",
+      "slug": "loan-officers",
       "exposure": 8,
       "jobs": 301400,
       "url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm",
@@ -415,6 +457,7 @@
     },
     {
       "title": "Cost estimators",
+      "slug": "cost-estimators",
       "exposure": 8,
       "jobs": 221400,
       "url": "https://www.bls.gov/ooh/business-and-financial/cost-estimators.htm",
@@ -424,6 +467,7 @@
     },
     {
       "title": "Information security analysts",
+      "slug": "information-security-analysts",
       "exposure": 8,
       "jobs": 182800,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm",
@@ -433,6 +477,7 @@
     },
     {
       "title": "Computer network architects",
+      "slug": "computer-network-architects",
       "exposure": 8,
       "jobs": 179200,
       "url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm",
@@ -442,6 +487,7 @@
     },
     {
       "title": "Art directors",
+      "slug": "art-directors",
       "exposure": 8,
       "jobs": 135000,
       "url": "https://www.bls.gov/ooh/arts-and-design/art-directors.htm",
@@ -451,6 +497,7 @@
     },
     {
       "title": "Compensation, benefits, and job analysis specialists",
+      "slug": "compensation-benefits-and-job-analysis-specialists",
       "exposure": 8,
       "jobs": 107000,
       "url": "https://www.bls.gov/ooh/business-and-financial/compensation-benefits-and-job-analysis-specialists.htm",
@@ -460,6 +507,7 @@
     },
     {
       "title": "Computer hardware engineers",
+      "slug": "computer-hardware-engineers",
       "exposure": 8,
       "jobs": 76800,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm",
@@ -469,6 +517,7 @@
     },
     {
       "title": "Financial examiners",
+      "slug": "financial-examiners",
       "exposure": 8,
       "jobs": 65100,
       "url": "https://www.bls.gov/ooh/business-and-financial/financial-examiners.htm",
@@ -478,6 +527,7 @@
     },
     {
       "title": "Tax examiners and collectors, and revenue agents",
+      "slug": "tax-examiners-and-collectors-and-revenue-agents",
       "exposure": 8,
       "jobs": 57600,
       "url": "https://www.bls.gov/ooh/business-and-financial/tax-examiners-and-collectors-and-revenue-agents.htm",
@@ -487,6 +537,7 @@
     },
     {
       "title": "Budget analysts",
+      "slug": "budget-analysts",
       "exposure": 8,
       "jobs": 50400,
       "url": "https://www.bls.gov/ooh/business-and-financial/budget-analysts.htm",
@@ -496,6 +547,7 @@
     },
     {
       "title": "Health information technologists and medical registrars",
+      "slug": "health-information-technologists-and-medical-registrars",
       "exposure": 8,
       "jobs": 41900,
       "url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm",
@@ -505,6 +557,7 @@
     },
     {
       "title": "Actuaries",
+      "slug": "actuaries",
       "exposure": 8,
       "jobs": 33600,
       "url": "https://www.bls.gov/ooh/math/actuaries.htm",
@@ -514,6 +567,7 @@
     },
     {
       "title": "Industrial designers",
+      "slug": "industrial-designers",
       "exposure": 8,
       "jobs": 30600,
       "url": "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm",
@@ -523,6 +577,7 @@
     },
     {
       "title": "Cartographers and photogrammetrists",
+      "slug": "cartographers-and-photogrammetrists",
       "exposure": 8,
       "jobs": 13400,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/cartographers-and-photogrammetrists.htm",
@@ -532,6 +587,7 @@
     },
     {
       "title": "Atmospheric scientists, including meteorologists",
+      "slug": "atmospheric-scientists-including-meteorologists",
       "exposure": 8,
       "jobs": 9400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm",
@@ -541,6 +597,7 @@
     },
     {
       "title": "Models",
+      "slug": "models",
       "exposure": 8,
       "jobs": 6700,
       "url": "https://www.bls.gov/ooh/sales/models.htm",
@@ -550,6 +607,7 @@
     },
     {
       "title": "Political scientists",
+      "slug": "political-scientists",
       "exposure": 8,
       "jobs": 6500,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/political-scientists.htm",
@@ -559,6 +617,7 @@
     },
     {
       "title": "Medical dosimetrists",
+      "slug": "medical-dosimetrists",
       "exposure": 8,
       "jobs": 4800,
       "url": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm",
@@ -568,6 +627,7 @@
     },
     {
       "title": "Geographers",
+      "slug": "geographers",
       "exposure": 8,
       "jobs": 1500,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geographers.htm",
@@ -577,6 +637,7 @@
     },
     {
       "title": "Cashiers",
+      "slug": "cashiers",
       "exposure": 7,
       "jobs": 3157200,
       "url": "https://www.bls.gov/ooh/sales/cashiers.htm",
@@ -586,6 +647,7 @@
     },
     {
       "title": "Wholesale and manufacturing sales representatives",
+      "slug": "wholesale-and-manufacturing-sales-representatives",
       "exposure": 7,
       "jobs": 1613600,
       "url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm",
@@ -595,6 +657,7 @@
     },
     {
       "title": "Postsecondary teachers",
+      "slug": "postsecondary-teachers",
       "exposure": 7,
       "jobs": 1415600,
       "url": "https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm",
@@ -604,6 +667,7 @@
     },
     {
       "title": "Information clerks",
+      "slug": "information-clerks",
       "exposure": 7,
       "jobs": 1336600,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/information-clerks.htm",
@@ -613,6 +677,7 @@
     },
     {
       "title": "Material recording clerks",
+      "slug": "material-recording-clerks",
       "exposure": 7,
       "jobs": 1300800,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/material-recording-clerks.htm",
@@ -622,6 +687,7 @@
     },
     {
       "title": "High school teachers",
+      "slug": "high-school-teachers",
       "exposure": 7,
       "jobs": 1094500,
       "url": "https://www.bls.gov/ooh/education-training-and-library/high-school-teachers.htm",
@@ -631,6 +697,7 @@
     },
     {
       "title": "Management analysts",
+      "slug": "management-analysts",
       "exposure": 7,
       "jobs": 1075100,
       "url": "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm",
@@ -640,6 +707,7 @@
     },
     {
       "title": "Project management specialists",
+      "slug": "project-management-specialists",
       "exposure": 7,
       "jobs": 1046300,
       "url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm",
@@ -649,6 +717,7 @@
     },
     {
       "title": "Receptionists",
+      "slug": "receptionists",
       "exposure": 7,
       "jobs": 1007200,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/receptionists.htm",
@@ -658,6 +727,7 @@
     },
     {
       "title": "Human resources specialists",
+      "slug": "human-resources-specialists",
       "exposure": 7,
       "jobs": 944300,
       "url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm",
@@ -667,6 +737,7 @@
     },
     {
       "title": "Financial managers",
+      "slug": "financial-managers",
       "exposure": 7,
       "jobs": 868600,
       "url": "https://www.bls.gov/ooh/management/financial-managers.htm",
@@ -676,6 +747,7 @@
     },
     {
       "title": "Computer and information systems managers",
+      "slug": "computer-and-information-systems-managers",
       "exposure": 7,
       "jobs": 667100,
       "url": "https://www.bls.gov/ooh/management/computer-and-information-systems-managers.htm",
@@ -685,6 +757,7 @@
     },
     {
       "title": "Sales managers",
+      "slug": "sales-managers",
       "exposure": 7,
       "jobs": 619500,
       "url": "https://www.bls.gov/ooh/management/sales-managers.htm",
@@ -694,6 +767,7 @@
     },
     {
       "title": "Purchasing managers, buyers, and purchasing agents",
+      "slug": "purchasing-managers-buyers-and-purchasing-agents",
       "exposure": 7,
       "jobs": 605600,
       "url": "https://www.bls.gov/ooh/business-and-financial/purchasing-managers-buyers-and-purchasing-agents.htm",
@@ -703,6 +777,7 @@
     },
     {
       "title": "Insurance sales agents",
+      "slug": "insurance-sales-agents",
       "exposure": 7,
       "jobs": 568800,
       "url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm",
@@ -712,6 +787,7 @@
     },
     {
       "title": "Training and development specialists",
+      "slug": "training-and-development-specialists",
       "exposure": 7,
       "jobs": 452300,
       "url": "https://www.bls.gov/ooh/business-and-financial/training-and-development-specialists.htm",
@@ -721,6 +797,7 @@
     },
     {
       "title": "Claims adjusters, appraisers, examiners, and investigators",
+      "slug": "claims-adjusters-appraisers-examiners-and-investigators",
       "exposure": 7,
       "jobs": 365300,
       "url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm",
@@ -730,6 +807,7 @@
     },
     {
       "title": "Industrial engineers",
+      "slug": "industrial-engineers",
       "exposure": 7,
       "jobs": 351100,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineers.htm",
@@ -739,6 +817,7 @@
     },
     {
       "title": "Tellers",
+      "slug": "tellers",
       "exposure": 7,
       "jobs": 347400,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/tellers.htm",
@@ -748,6 +827,7 @@
     },
     {
       "title": "Personal financial advisors",
+      "slug": "personal-financial-advisors",
       "exposure": 7,
       "jobs": 326000,
       "url": "https://www.bls.gov/ooh/business-and-financial/personal-financial-advisors.htm",
@@ -757,6 +837,7 @@
     },
     {
       "title": "Mechanical engineers",
+      "slug": "mechanical-engineers",
       "exposure": 7,
       "jobs": 293100,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm",
@@ -766,6 +847,7 @@
     },
     {
       "title": "Electrical and electronics engineers",
+      "slug": "electrical-and-electronics-engineers",
       "exposure": 7,
       "jobs": 287900,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm",
@@ -775,6 +857,7 @@
     },
     {
       "title": "Logisticians",
+      "slug": "logisticians",
       "exposure": 7,
       "jobs": 241000,
       "url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm",
@@ -784,6 +867,7 @@
     },
     {
       "title": "Instructional coordinators",
+      "slug": "instructional-coordinators",
       "exposure": 7,
       "jobs": 232600,
       "url": "https://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm",
@@ -793,6 +877,7 @@
     },
     {
       "title": "Postsecondary education administrators",
+      "slug": "postsecondary-education-administrators",
       "exposure": 7,
       "jobs": 226600,
       "url": "https://www.bls.gov/ooh/management/postsecondary-education-administrators.htm",
@@ -802,6 +887,7 @@
     },
     {
       "title": "Human resources managers",
+      "slug": "human-resources-managers",
       "exposure": 7,
       "jobs": 221900,
       "url": "https://www.bls.gov/ooh/management/human-resources-managers.htm",
@@ -811,6 +897,7 @@
     },
     {
       "title": "Tutors",
+      "slug": "tutors",
       "exposure": 7,
       "jobs": 215500,
       "url": "https://www.bls.gov/ooh/education-training-and-library/tutors.htm",
@@ -820,6 +907,7 @@
     },
     {
       "title": "Architectural and engineering managers",
+      "slug": "architectural-and-engineering-managers",
       "exposure": 7,
       "jobs": 212500,
       "url": "https://www.bls.gov/ooh/management/architectural-and-engineering-managers.htm",
@@ -829,6 +917,7 @@
     },
     {
       "title": "Producers and directors",
+      "slug": "producers-and-directors",
       "exposure": 7,
       "jobs": 167000,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/producers-and-directors.htm",
@@ -838,6 +927,7 @@
     },
     {
       "title": "Medical scientists",
+      "slug": "medical-scientists",
       "exposure": 7,
       "jobs": 165300,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm",
@@ -847,6 +937,7 @@
     },
     {
       "title": "Library technicians and assistants",
+      "slug": "library-technicians-and-assistants",
       "exposure": 7,
       "jobs": 163100,
       "url": "https://www.bls.gov/ooh/education-training-and-library/library-technicians-and-assistants.htm",
@@ -856,6 +947,7 @@
     },
     {
       "title": "Photographers",
+      "slug": "photographers",
       "exposure": 7,
       "jobs": 151200,
       "url": "https://www.bls.gov/ooh/media-and-communication/photographers.htm",
@@ -865,6 +957,7 @@
     },
     {
       "title": "Librarians and library media specialists",
+      "slug": "librarians",
       "exposure": 7,
       "jobs": 142100,
       "url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm",
@@ -874,6 +967,7 @@
     },
     {
       "title": "Fundraisers",
+      "slug": "fundraisers",
       "exposure": 7,
       "jobs": 134400,
       "url": "https://www.bls.gov/ooh/business-and-financial/fundraisers.htm",
@@ -883,6 +977,7 @@
     },
     {
       "title": "Public relations and fundraising managers",
+      "slug": "public-relations-managers",
       "exposure": 7,
       "jobs": 128900,
       "url": "https://www.bls.gov/ooh/management/public-relations-managers.htm",
@@ -892,6 +987,7 @@
     },
     {
       "title": "Architects",
+      "slug": "architects",
       "exposure": 7,
       "jobs": 123600,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm",
@@ -901,6 +997,7 @@
     },
     {
       "title": "Public safety telecommunicators",
+      "slug": "police-fire-and-ambulance-dispatchers",
       "exposure": 7,
       "jobs": 105200,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/police-fire-and-ambulance-dispatchers.htm",
@@ -910,6 +1007,7 @@
     },
     {
       "title": "Natural sciences managers",
+      "slug": "natural-sciences-managers",
       "exposure": 7,
       "jobs": 104300,
       "url": "https://www.bls.gov/ooh/management/natural-sciences-managers.htm",
@@ -919,6 +1017,7 @@
     },
     {
       "title": "Advertising sales agents",
+      "slug": "advertising-sales-agents",
       "exposure": 7,
       "jobs": 103700,
       "url": "https://www.bls.gov/ooh/sales/advertising-sales-agents.htm",
@@ -928,6 +1027,7 @@
     },
     {
       "title": "Chemists and materials scientists",
+      "slug": "chemists-and-materials-scientists",
       "exposure": 7,
       "jobs": 95500,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm",
@@ -937,6 +1037,7 @@
     },
     {
       "title": "Interior designers",
+      "slug": "interior-designers",
       "exposure": 7,
       "jobs": 87100,
       "url": "https://www.bls.gov/ooh/arts-and-design/interior-designers.htm",
@@ -946,6 +1047,7 @@
     },
     {
       "title": "Film and video editors and camera operators",
+      "slug": "film-and-video-editors-and-camera-operators",
       "exposure": 7,
       "jobs": 79900,
       "url": "https://www.bls.gov/ooh/media-and-communication/film-and-video-editors-and-camera-operators.htm",
@@ -955,6 +1057,7 @@
     },
     {
       "title": "Property appraisers and assessors",
+      "slug": "appraisers-and-assessors-of-real-estate",
       "exposure": 7,
       "jobs": 77300,
       "url": "https://www.bls.gov/ooh/business-and-financial/appraisers-and-assessors-of-real-estate.htm",
@@ -964,6 +1067,7 @@
     },
     {
       "title": "Aerospace engineers",
+      "slug": "aerospace-engineers",
       "exposure": 7,
       "jobs": 71600,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm",
@@ -973,6 +1077,7 @@
     },
     {
       "title": "Labor relations specialists",
+      "slug": "labor-relations-specialists",
       "exposure": 7,
       "jobs": 65400,
       "url": "https://www.bls.gov/ooh/business-and-financial/labor-relations-specialists.htm",
@@ -982,6 +1087,7 @@
     },
     {
       "title": "Actors",
+      "slug": "actors",
       "exposure": 7,
       "jobs": 57000,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/actors.htm",
@@ -991,6 +1097,7 @@
     },
     {
       "title": "Sales engineers",
+      "slug": "sales-engineers",
       "exposure": 7,
       "jobs": 56800,
       "url": "https://www.bls.gov/ooh/sales/sales-engineers.htm",
@@ -1000,6 +1107,7 @@
     },
     {
       "title": "News analysts, reporters, and journalists",
+      "slug": "reporters-correspondents-and-broadcast-news-analysts",
       "exposure": 7,
       "jobs": 49300,
       "url": "https://www.bls.gov/ooh/media-and-communication/reporters-correspondents-and-broadcast-news-analysts.htm",
@@ -1009,6 +1117,7 @@
     },
     {
       "title": "Music directors and composers",
+      "slug": "music-directors-and-composers",
       "exposure": 7,
       "jobs": 47300,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/music-directors-and-composers.htm",
@@ -1018,6 +1127,7 @@
     },
     {
       "title": "Training and development managers",
+      "slug": "training-and-development-managers",
       "exposure": 7,
       "jobs": 46400,
       "url": "https://www.bls.gov/ooh/management/training-and-development-managers.htm",
@@ -1027,6 +1137,7 @@
     },
     {
       "title": "Judges and hearing officers",
+      "slug": "judges-and-hearing-officers",
       "exposure": 7,
       "jobs": 44800,
       "url": "https://www.bls.gov/ooh/legal/judges-and-hearing-officers.htm",
@@ -1036,6 +1147,7 @@
     },
     {
       "title": "Urban and regional planners",
+      "slug": "urban-and-regional-planners",
       "exposure": 7,
       "jobs": 44700,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm",
@@ -1045,6 +1157,7 @@
     },
     {
       "title": "Adult basic and secondary education and ESL teachers",
+      "slug": "adult-literacy-and-ged-teachers",
       "exposure": 7,
       "jobs": 40900,
       "url": "https://www.bls.gov/ooh/education-training-and-library/adult-literacy-and-ged-teachers.htm",
@@ -1054,6 +1167,7 @@
     },
     {
       "title": "Announcers and DJs",
+      "slug": "announcers",
       "exposure": 7,
       "jobs": 39500,
       "url": "https://www.bls.gov/ooh/media-and-communication/announcers.htm",
@@ -1063,6 +1177,7 @@
     },
     {
       "title": "Biochemists and biophysicists",
+      "slug": "biochemists-and-biophysicists",
       "exposure": 7,
       "jobs": 35600,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm",
@@ -1072,6 +1187,7 @@
     },
     {
       "title": "Credit counselors",
+      "slug": "credit-counselors",
       "exposure": 7,
       "jobs": 31800,
       "url": "https://www.bls.gov/ooh/business-and-financial/credit-counselors.htm",
@@ -1081,6 +1197,7 @@
     },
     {
       "title": "Set and exhibit designers",
+      "slug": "set-and-exhibit-designers",
       "exposure": 7,
       "jobs": 31300,
       "url": "https://www.bls.gov/ooh/arts-and-design/set-and-exhibit-designers.htm",
@@ -1090,6 +1207,7 @@
     },
     {
       "title": "Physicists and astronomers",
+      "slug": "physicists-and-astronomers",
       "exposure": 7,
       "jobs": 26400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm",
@@ -1099,6 +1217,7 @@
     },
     {
       "title": "Fashion designers",
+      "slug": "fashion-designers",
       "exposure": 7,
       "jobs": 25700,
       "url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm",
@@ -1108,6 +1227,7 @@
     },
     {
       "title": "Air traffic controllers",
+      "slug": "air-traffic-controllers",
       "exposure": 7,
       "jobs": 24100,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/air-traffic-controllers.htm",
@@ -1117,6 +1237,7 @@
     },
     {
       "title": "Materials engineers",
+      "slug": "materials-engineers",
       "exposure": 7,
       "jobs": 23000,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm",
@@ -1126,6 +1247,7 @@
     },
     {
       "title": "Bioengineers and biomedical engineers",
+      "slug": "biomedical-engineers",
       "exposure": 7,
       "jobs": 22200,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm",
@@ -1135,6 +1257,7 @@
     },
     {
       "title": "Landscape architects",
+      "slug": "landscape-architects",
       "exposure": 7,
       "jobs": 21800,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/landscape-architects.htm",
@@ -1144,6 +1267,7 @@
     },
     {
       "title": "Compensation and benefits managers",
+      "slug": "compensation-and-benefits-managers",
       "exposure": 7,
       "jobs": 20900,
       "url": "https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm",
@@ -1153,6 +1277,7 @@
     },
     {
       "title": "Nuclear engineers",
+      "slug": "nuclear-engineers",
       "exposure": 7,
       "jobs": 15400,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm",
@@ -1162,6 +1287,7 @@
     },
     {
       "title": "Epidemiologists",
+      "slug": "epidemiologists",
       "exposure": 7,
       "jobs": 12300,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm",
@@ -1171,6 +1297,7 @@
     },
     {
       "title": "Arbitrators, mediators, and conciliators",
+      "slug": "arbitrators-mediators-and-conciliators",
       "exposure": 7,
       "jobs": 9100,
       "url": "https://www.bls.gov/ooh/legal/arbitrators-mediators-and-conciliators.htm",
@@ -1180,6 +1307,7 @@
     },
     {
       "title": "Marine engineers and naval architects",
+      "slug": "marine-engineers-and-naval-architects",
       "exposure": 7,
       "jobs": 8500,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/marine-engineers-and-naval-architects.htm",
@@ -1189,6 +1317,7 @@
     },
     {
       "title": "Historians",
+      "slug": "historians",
       "exposure": 7,
       "jobs": 3400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/historians.htm",
@@ -1198,6 +1327,7 @@
     },
     {
       "title": "Sociologists",
+      "slug": "sociologists",
       "exposure": 7,
       "jobs": 3400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/sociologists.htm",
@@ -1207,6 +1337,7 @@
     },
     {
       "title": "Top executives",
+      "slug": "top-executives",
       "exposure": 6,
       "jobs": 4022200,
       "url": "https://www.bls.gov/ooh/management/top-executives.htm",
@@ -1216,6 +1347,7 @@
     },
     {
       "title": "Kindergarten and elementary school teachers",
+      "slug": "kindergarten-and-elementary-school-teachers",
       "exposure": 6,
       "jobs": 1539800,
       "url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm",
@@ -1225,6 +1357,7 @@
     },
     {
       "title": "Middle school teachers",
+      "slug": "middle-school-teachers",
       "exposure": 6,
       "jobs": 633700,
       "url": "https://www.bls.gov/ooh/education-training-and-library/middle-school-teachers.htm",
@@ -1234,6 +1367,7 @@
     },
     {
       "title": "Medical and health services managers",
+      "slug": "medical-and-health-services-managers",
       "exposure": 6,
       "jobs": 616200,
       "url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm",
@@ -1243,6 +1377,7 @@
     },
     {
       "title": "Real estate brokers and sales agents",
+      "slug": "real-estate-brokers-and-sales-agents",
       "exposure": 6,
       "jobs": 532200,
       "url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm",
@@ -1252,6 +1387,7 @@
     },
     {
       "title": "Property, real estate, and community association managers",
+      "slug": "property-real-estate-and-community-association-managers",
       "exposure": 6,
       "jobs": 466100,
       "url": "https://www.bls.gov/ooh/management/property-real-estate-and-community-association-managers.htm",
@@ -1261,6 +1397,7 @@
     },
     {
       "title": "School and career counselors and advisors",
+      "slug": "school-and-career-counselors",
       "exposure": 6,
       "jobs": 376300,
       "url": "https://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm",
@@ -1270,6 +1407,7 @@
     },
     {
       "title": "Civil engineers",
+      "slug": "civil-engineers",
       "exposure": 6,
       "jobs": 368900,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm",
@@ -1279,6 +1417,7 @@
     },
     {
       "title": "Elementary, middle, and high school principals",
+      "slug": "elementary-middle-and-high-school-principals",
       "exposure": 6,
       "jobs": 333300,
       "url": "https://www.bls.gov/ooh/management/elementary-middle-and-high-school-principals.htm",
@@ -1288,6 +1427,7 @@
     },
     {
       "title": "Industrial production managers",
+      "slug": "industrial-production-managers",
       "exposure": 6,
       "jobs": 241900,
       "url": "https://www.bls.gov/ooh/management/industrial-production-managers.htm",
@@ -1297,6 +1437,7 @@
     },
     {
       "title": "Social and community service managers",
+      "slug": "social-and-community-service-managers",
       "exposure": 6,
       "jobs": 219800,
       "url": "https://www.bls.gov/ooh/management/social-and-community-service-managers.htm",
@@ -1306,6 +1447,7 @@
     },
     {
       "title": "Transportation, storage, and distribution managers",
+      "slug": "transportation-storage-and-distribution-managers",
       "exposure": 6,
       "jobs": 216700,
       "url": "https://www.bls.gov/ooh/management/transportation-storage-and-distribution-managers.htm",
@@ -1315,6 +1457,7 @@
     },
     {
       "title": "Psychologists",
+      "slug": "psychologists",
       "exposure": 6,
       "jobs": 204300,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm",
@@ -1324,6 +1467,7 @@
     },
     {
       "title": "Meeting, convention, and event planners",
+      "slug": "meeting-convention-and-event-planners",
       "exposure": 6,
       "jobs": 155800,
       "url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm",
@@ -1333,6 +1477,7 @@
     },
     {
       "title": "Broadcast, sound, and video technicians",
+      "slug": "broadcast-and-sound-engineering-technicians",
       "exposure": 6,
       "jobs": 146100,
       "url": "https://www.bls.gov/ooh/media-and-communication/broadcast-and-sound-engineering-technicians.htm",
@@ -1342,6 +1487,7 @@
     },
     {
       "title": "Probation officers and correctional treatment specialists",
+      "slug": "probation-officers-and-correctional-treatment-specialists",
       "exposure": 6,
       "jobs": 92300,
       "url": "https://www.bls.gov/ooh/community-and-social-service/probation-officers-and-correctional-treatment-specialists.htm",
@@ -1351,6 +1497,7 @@
     },
     {
       "title": "Dietitians and nutritionists",
+      "slug": "dietitians-and-nutritionists",
       "exposure": 6,
       "jobs": 90900,
       "url": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm",
@@ -1360,6 +1507,7 @@
     },
     {
       "title": "Environmental scientists and specialists",
+      "slug": "environmental-scientists-and-specialists",
       "exposure": 6,
       "jobs": 90300,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm",
@@ -1369,6 +1517,7 @@
     },
     {
       "title": "Industrial engineering technologists and technicians",
+      "slug": "industrial-engineering-technicians",
       "exposure": 6,
       "jobs": 74600,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineering-technicians.htm",
@@ -1378,6 +1527,7 @@
     },
     {
       "title": "Health education specialists",
+      "slug": "health-educators",
       "exposure": 6,
       "jobs": 71800,
       "url": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm",
@@ -1387,6 +1537,7 @@
     },
     {
       "title": "Civil engineering technologists and technicians",
+      "slug": "civil-engineering-technicians",
       "exposure": 6,
       "jobs": 64900,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineering-technicians.htm",
@@ -1396,6 +1547,7 @@
     },
     {
       "title": "Craft and fine artists",
+      "slug": "craft-and-fine-artists",
       "exposure": 6,
       "jobs": 52000,
       "url": "https://www.bls.gov/ooh/arts-and-design/craft-and-fine-artists.htm",
@@ -1405,6 +1557,7 @@
     },
     {
       "title": "Power plant operators, distributors, and dispatchers",
+      "slug": "power-plant-operators-distributors-and-dispatchers",
       "exposure": 6,
       "jobs": 46600,
       "url": "https://www.bls.gov/ooh/production/power-plant-operators-distributors-and-dispatchers.htm",
@@ -1414,6 +1567,7 @@
     },
     {
       "title": "Private detectives and investigators",
+      "slug": "private-detectives-and-investigators",
       "exposure": 6,
       "jobs": 43600,
       "url": "https://www.bls.gov/ooh/protective-service/private-detectives-and-investigators.htm",
@@ -1423,6 +1577,7 @@
     },
     {
       "title": "Archivists, curators, and museum workers",
+      "slug": "curators-museum-technicians-and-conservators",
       "exposure": 6,
       "jobs": 40200,
       "url": "https://www.bls.gov/ooh/education-training-and-library/curators-museum-technicians-and-conservators.htm",
@@ -1432,6 +1587,7 @@
     },
     {
       "title": "Environmental engineers",
+      "slug": "environmental-engineers",
       "exposure": 6,
       "jobs": 39400,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineers.htm",
@@ -1441,6 +1597,7 @@
     },
     {
       "title": "Agricultural and food scientists",
+      "slug": "agricultural-and-food-scientists",
       "exposure": 6,
       "jobs": 38700,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-scientists.htm",
@@ -1450,6 +1607,7 @@
     },
     {
       "title": "Chemical engineers",
+      "slug": "chemical-engineers",
       "exposure": 6,
       "jobs": 21600,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm",
@@ -1459,6 +1617,7 @@
     },
     {
       "title": "Microbiologists",
+      "slug": "microbiologists",
       "exposure": 6,
       "jobs": 20700,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm",
@@ -1468,6 +1627,7 @@
     },
     {
       "title": "Petroleum engineers",
+      "slug": "petroleum-engineers",
       "exposure": 6,
       "jobs": 19600,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/petroleum-engineers.htm",
@@ -1477,6 +1637,7 @@
     },
     {
       "title": "Emergency management directors",
+      "slug": "emergency-management-directors",
       "exposure": 6,
       "jobs": 13200,
       "url": "https://www.bls.gov/ooh/management/emergency-management-directors.htm",
@@ -1486,6 +1647,7 @@
     },
     {
       "title": "Mining and geological engineers",
+      "slug": "mining-and-geological-engineers",
       "exposure": 6,
       "jobs": 7000,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/mining-and-geological-engineers.htm",
@@ -1495,6 +1657,7 @@
     },
     {
       "title": "Hydrologists",
+      "slug": "hydrologists",
       "exposure": 6,
       "jobs": 6300,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/hydrologists.htm",
@@ -1504,6 +1667,7 @@
     },
     {
       "title": "Genetic counselors",
+      "slug": "genetic-counselors",
       "exposure": 6,
       "jobs": 4000,
       "url": "https://www.bls.gov/ooh/healthcare/genetic-counselors.htm",
@@ -1513,6 +1677,7 @@
     },
     {
       "title": "Agricultural engineers",
+      "slug": "agricultural-engineers",
       "exposure": 6,
       "jobs": 1700,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/agricultural-engineers.htm",
@@ -1522,6 +1687,7 @@
     },
     {
       "title": "Heavy and tractor-trailer truck drivers",
+      "slug": "heavy-and-tractor-trailer-truck-drivers",
       "exposure": 5,
       "jobs": 2235100,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm",
@@ -1531,6 +1697,7 @@
     },
     {
       "title": "Security guards and gambling surveillance officers",
+      "slug": "security-guards",
       "exposure": 5,
       "jobs": 1272400,
       "url": "https://www.bls.gov/ooh/protective-service/security-guards.htm",
@@ -1540,6 +1707,7 @@
     },
     {
       "title": "Physicians and surgeons",
+      "slug": "physicians-and-surgeons",
       "exposure": 5,
       "jobs": 839000,
       "url": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm",
@@ -1549,6 +1717,7 @@
     },
     {
       "title": "Quality control inspectors",
+      "slug": "quality-control-inspectors",
       "exposure": 5,
       "jobs": 598000,
       "url": "https://www.bls.gov/ooh/production/quality-control-inspectors.htm",
@@ -1558,6 +1727,7 @@
     },
     {
       "title": "Special education teachers",
+      "slug": "special-education-teachers",
       "exposure": 5,
       "jobs": 559500,
       "url": "https://www.bls.gov/ooh/education-training-and-library/special-education-teachers.htm",
@@ -1567,6 +1737,7 @@
     },
     {
       "title": "Construction managers",
+      "slug": "construction-managers",
       "exposure": 5,
       "jobs": 550300,
       "url": "https://www.bls.gov/ooh/management/construction-managers.htm",
@@ -1576,6 +1747,7 @@
     },
     {
       "title": "Substance abuse, behavioral disorder, and mental health counselors",
+      "slug": "substance-abuse-behavioral-disorder-and-mental-health-counselors",
       "exposure": 5,
       "jobs": 483500,
       "url": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm",
@@ -1585,6 +1757,7 @@
     },
     {
       "title": "Social and human service assistants",
+      "slug": "social-and-human-service-assistants",
       "exposure": 5,
       "jobs": 449600,
       "url": "https://www.bls.gov/ooh/community-and-social-service/social-and-human-service-assistants.htm",
@@ -1594,6 +1767,7 @@
     },
     {
       "title": "Taxi drivers, shuttle drivers, and chauffeurs",
+      "slug": "taxi-drivers-and-chauffeurs",
       "exposure": 5,
       "jobs": 447900,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/taxi-drivers-and-chauffeurs.htm",
@@ -1603,6 +1777,7 @@
     },
     {
       "title": "Administrative services and facilities managers",
+      "slug": "administrative-services-managers",
       "exposure": 5,
       "jobs": 422600,
       "url": "https://www.bls.gov/ooh/management/administrative-services-managers.htm",
@@ -1612,6 +1787,7 @@
     },
     {
       "title": "Nurse anesthetists, nurse midwives, and nurse practitioners",
+      "slug": "nurse-anesthetists-nurse-midwives-and-nurse-practitioners",
       "exposure": 5,
       "jobs": 382700,
       "url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm",
@@ -1621,6 +1797,7 @@
     },
     {
       "title": "Clinical laboratory technologists and technicians",
+      "slug": "clinical-laboratory-technologists-and-technicians",
       "exposure": 5,
       "jobs": 351200,
       "url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm",
@@ -1630,6 +1807,7 @@
     },
     {
       "title": "Pharmacists",
+      "slug": "pharmacists",
       "exposure": 5,
       "jobs": 335100,
       "url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm",
@@ -1639,6 +1817,7 @@
     },
     {
       "title": "Speech-language pathologists",
+      "slug": "speech-language-pathologists",
       "exposure": 5,
       "jobs": 187400,
       "url": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm",
@@ -1648,6 +1827,7 @@
     },
     {
       "title": "Occupational health and safety specialists and technicians",
+      "slug": "occupational-health-and-safety-specialists-and-technicians",
       "exposure": 5,
       "jobs": 163700,
       "url": "https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm",
@@ -1657,6 +1837,7 @@
     },
     {
       "title": "Physician assistants",
+      "slug": "physician-assistants",
       "exposure": 5,
       "jobs": 162700,
       "url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm",
@@ -1666,6 +1847,7 @@
     },
     {
       "title": "Airline and commercial pilots",
+      "slug": "airline-and-commercial-pilots",
       "exposure": 5,
       "jobs": 155400,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/airline-and-commercial-pilots.htm",
@@ -1675,6 +1857,7 @@
     },
     {
       "title": "Construction and building inspectors",
+      "slug": "construction-and-building-inspectors",
       "exposure": 5,
       "jobs": 147600,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-and-building-inspectors.htm",
@@ -1684,6 +1867,7 @@
     },
     {
       "title": "Water and wastewater treatment plant and system operators",
+      "slug": "water-and-wastewater-treatment-plant-and-system-operators",
       "exposure": 5,
       "jobs": 132400,
       "url": "https://www.bls.gov/ooh/production/water-and-wastewater-treatment-plant-and-system-operators.htm",
@@ -1693,6 +1877,7 @@
     },
     {
       "title": "Electrical and electronic engineering technologists and technicians",
+      "slug": "electrical-and-electronics-engineering-technicians",
       "exposure": 5,
       "jobs": 93700,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineering-technicians.htm",
@@ -1702,6 +1887,7 @@
     },
     {
       "title": "Rehabilitation counselors",
+      "slug": "rehabilitation-counselors",
       "exposure": 5,
       "jobs": 91900,
       "url": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm",
@@ -1711,6 +1897,7 @@
     },
     {
       "title": "Preschool and childcare center directors",
+      "slug": "preschool-and-childcare-center-directors",
       "exposure": 5,
       "jobs": 90200,
       "url": "https://www.bls.gov/ooh/management/preschool-and-childcare-center-directors.htm",
@@ -1720,6 +1907,7 @@
     },
     {
       "title": "Diagnostic medical sonographers",
+      "slug": "diagnostic-medical-sonographers",
       "exposure": 5,
       "jobs": 90000,
       "url": "https://www.bls.gov/ooh/healthcare/diagnostic-medical-sonographers.htm",
@@ -1729,6 +1917,7 @@
     },
     {
       "title": "Biological technicians",
+      "slug": "biological-technicians",
       "exposure": 5,
       "jobs": 82700,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm",
@@ -1738,6 +1927,7 @@
     },
     {
       "title": "Marriage and family therapists",
+      "slug": "marriage-and-family-therapists",
       "exposure": 5,
       "jobs": 77800,
       "url": "https://www.bls.gov/ooh/community-and-social-service/marriage-and-family-therapists.htm",
@@ -1747,6 +1937,7 @@
     },
     {
       "title": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+      "slug": "dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians",
       "exposure": 5,
       "jobs": 66800,
       "url": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm",
@@ -1756,6 +1947,7 @@
     },
     {
       "title": "Surveying and mapping technicians",
+      "slug": "surveying-and-mapping-technicians",
       "exposure": 5,
       "jobs": 59400,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/surveying-and-mapping-technicians.htm",
@@ -1765,6 +1957,7 @@
     },
     {
       "title": "Chemical technicians",
+      "slug": "chemical-technicians",
       "exposure": 5,
       "jobs": 57000,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemical-technicians.htm",
@@ -1774,6 +1967,7 @@
     },
     {
       "title": "Surveyors",
+      "slug": "surveyors",
       "exposure": 5,
       "jobs": 56100,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/surveyors.htm",
@@ -1783,6 +1977,7 @@
     },
     {
       "title": "Lodging managers",
+      "slug": "lodging-managers",
       "exposure": 5,
       "jobs": 52000,
       "url": "https://www.bls.gov/ooh/management/lodging-managers.htm",
@@ -1792,6 +1987,7 @@
     },
     {
       "title": "Concierges",
+      "slug": "concierges",
       "exposure": 5,
       "jobs": 45600,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/concierges.htm",
@@ -1801,6 +1997,7 @@
     },
     {
       "title": "Entertainment and recreation managers",
+      "slug": "entertainment-and-recreation-managers",
       "exposure": 5,
       "jobs": 43200,
       "url": "https://www.bls.gov/ooh/management/entertainment-and-recreation-managers.htm",
@@ -1810,6 +2007,7 @@
     },
     {
       "title": "Mechanical engineering technologists and technicians",
+      "slug": "mechanical-engineering-technicians",
       "exposure": 5,
       "jobs": 38300,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineering-technicians.htm",
@@ -1819,6 +2017,7 @@
     },
     {
       "title": "Geoscientists",
+      "slug": "geoscientists",
       "exposure": 5,
       "jobs": 25100,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm",
@@ -1828,6 +2027,7 @@
     },
     {
       "title": "Health and safety engineers",
+      "slug": "health-and-safety-engineers",
       "exposure": 5,
       "jobs": 23800,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm",
@@ -1837,6 +2037,7 @@
     },
     {
       "title": "Forensic science technicians",
+      "slug": "forensic-science-technicians",
       "exposure": 5,
       "jobs": 20700,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm",
@@ -1846,6 +2047,7 @@
     },
     {
       "title": "Umpires, referees, and other sports officials",
+      "slug": "umpires-referees-and-other-sports-officials",
       "exposure": 5,
       "jobs": 19300,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/umpires-referees-and-other-sports-officials.htm",
@@ -1855,6 +2057,7 @@
     },
     {
       "title": "Zoologists and wildlife biologists",
+      "slug": "zoologists-and-wildlife-biologists",
       "exposure": 5,
       "jobs": 18200,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/zoologists-and-wildlife-biologists.htm",
@@ -1864,6 +2067,7 @@
     },
     {
       "title": "Environmental engineering technologists and technicians",
+      "slug": "environmental-engineering-technicians",
       "exposure": 5,
       "jobs": 12900,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineering-technicians.htm",
@@ -1873,6 +2077,7 @@
     },
     {
       "title": "Geological and hydrologic technicians",
+      "slug": "geological-and-petroleum-technicians",
       "exposure": 5,
       "jobs": 12900,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/geological-and-petroleum-technicians.htm",
@@ -1882,6 +2087,7 @@
     },
     {
       "title": "Aerospace engineering and operations technologists and technicians",
+      "slug": "aerospace-engineering-and-operations-technicians",
       "exposure": 5,
       "jobs": 9300,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineering-and-operations-technicians.htm",
@@ -1891,6 +2097,7 @@
     },
     {
       "title": "Anthropologists and archeologists",
+      "slug": "anthropologists-and-archeologists",
       "exposure": 5,
       "jobs": 8800,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/anthropologists-and-archeologists.htm",
@@ -1900,6 +2107,7 @@
     },
     {
       "title": "Nuclear technicians",
+      "slug": "nuclear-technicians",
       "exposure": 5,
       "jobs": 6000,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/nuclear-technicians.htm",
@@ -1909,6 +2117,7 @@
     },
     {
       "title": "Retail sales workers",
+      "slug": "retail-sales-workers",
       "exposure": 4,
       "jobs": 4208800,
       "url": "https://www.bls.gov/ooh/sales/retail-sales-workers.htm",
@@ -1918,6 +2127,7 @@
     },
     {
       "title": "Registered nurses",
+      "slug": "registered-nurses",
       "exposure": 4,
       "jobs": 3391000,
       "url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm",
@@ -1927,6 +2137,7 @@
     },
     {
       "title": "Teacher assistants",
+      "slug": "teacher-assistants",
       "exposure": 4,
       "jobs": 1422800,
       "url": "https://www.bls.gov/ooh/education-training-and-library/teacher-assistants.htm",
@@ -1936,6 +2147,7 @@
     },
     {
       "title": "Metal and plastic machine workers",
+      "slug": "metal-and-plastic-machine-workers",
       "exposure": 4,
       "jobs": 1000700,
       "url": "https://www.bls.gov/ooh/production/metal-and-plastic-machine-workers.htm",
@@ -1945,6 +2157,7 @@
     },
     {
       "title": "Material moving machine operators",
+      "slug": "material-moving-machine-operators",
       "exposure": 4,
       "jobs": 867700,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/material-moving-machine-operators.htm",
@@ -1954,6 +2167,7 @@
     },
     {
       "title": "Farmers, ranchers, and other agricultural managers",
+      "slug": "farmers-ranchers-and-other-agricultural-managers",
       "exposure": 4,
       "jobs": 836100,
       "url": "https://www.bls.gov/ooh/management/farmers-ranchers-and-other-agricultural-managers.htm",
@@ -1963,6 +2177,7 @@
     },
     {
       "title": "Police and detectives",
+      "slug": "police-and-detectives",
       "exposure": 4,
       "jobs": 826800,
       "url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm",
@@ -1972,6 +2187,7 @@
     },
     {
       "title": "Medical assistants",
+      "slug": "medical-assistants",
       "exposure": 4,
       "jobs": 811000,
       "url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm",
@@ -1981,6 +2197,7 @@
     },
     {
       "title": "Social workers",
+      "slug": "social-workers",
       "exposure": 4,
       "jobs": 810900,
       "url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm",
@@ -1990,6 +2207,7 @@
     },
     {
       "title": "Licensed practical and licensed vocational nurses",
+      "slug": "licensed-practical-and-licensed-vocational-nurses",
       "exposure": 4,
       "jobs": 651400,
       "url": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm",
@@ -1999,6 +2217,7 @@
     },
     {
       "title": "Bus drivers",
+      "slug": "bus-drivers",
       "exposure": 4,
       "jobs": 546100,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/bus-drivers.htm",
@@ -2008,6 +2227,7 @@
     },
     {
       "title": "Pharmacy technicians",
+      "slug": "pharmacy-technicians",
       "exposure": 4,
       "jobs": 490400,
       "url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm",
@@ -2017,6 +2237,7 @@
     },
     {
       "title": "Machinists and tool and die makers",
+      "slug": "machinists-and-tool-and-die-makers",
       "exposure": 4,
       "jobs": 354800,
       "url": "https://www.bls.gov/ooh/production/machinists-and-tool-and-die-makers.htm",
@@ -2026,6 +2247,7 @@
     },
     {
       "title": "Food service managers",
+      "slug": "food-service-managers",
       "exposure": 4,
       "jobs": 352800,
       "url": "https://www.bls.gov/ooh/management/food-service-managers.htm",
@@ -2035,6 +2257,7 @@
     },
     {
       "title": "Coaches and scouts",
+      "slug": "coaches-and-scouts",
       "exposure": 4,
       "jobs": 306500,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm",
@@ -2044,6 +2267,7 @@
     },
     {
       "title": "Radiologic and MRI technologists",
+      "slug": "radiologic-technologists",
       "exposure": 4,
       "jobs": 272000,
       "url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm",
@@ -2053,6 +2277,7 @@
     },
     {
       "title": "Career and technical education teachers",
+      "slug": "career-and-technical-education-teachers",
       "exposure": 4,
       "jobs": 239600,
       "url": "https://www.bls.gov/ooh/education-training-and-library/career-and-technical-education-teachers.htm",
@@ -2062,6 +2287,7 @@
     },
     {
       "title": "Musicians and singers",
+      "slug": "musicians-and-singers",
       "exposure": 4,
       "jobs": 169800,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm",
@@ -2071,6 +2297,7 @@
     },
     {
       "title": "Gambling services workers",
+      "slug": "gaming-services-occupations",
       "exposure": 4,
       "jobs": 150600,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/gaming-services-occupations.htm",
@@ -2080,6 +2307,7 @@
     },
     {
       "title": "Respiratory therapists",
+      "slug": "respiratory-therapists",
       "exposure": 4,
       "jobs": 139600,
       "url": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm",
@@ -2089,6 +2317,7 @@
     },
     {
       "title": "Veterinary technologists and technicians",
+      "slug": "veterinary-technologists-and-technicians",
       "exposure": 4,
       "jobs": 134200,
       "url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm",
@@ -2098,6 +2327,7 @@
     },
     {
       "title": "Veterinarians",
+      "slug": "veterinarians",
       "exposure": 4,
       "jobs": 86400,
       "url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm",
@@ -2107,6 +2337,7 @@
     },
     {
       "title": "Opticians",
+      "slug": "opticians-dispensing",
       "exposure": 4,
       "jobs": 79900,
       "url": "https://www.bls.gov/ooh/healthcare/opticians-dispensing.htm",
@@ -2116,6 +2347,7 @@
     },
     {
       "title": "Railroad workers",
+      "slug": "railroad-occupations",
       "exposure": 4,
       "jobs": 77900,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/railroad-occupations.htm",
@@ -2125,6 +2357,7 @@
     },
     {
       "title": "Cardiovascular technologists and technicians",
+      "slug": "cardiovascular-technologists-and-technicians",
       "exposure": 4,
       "jobs": 64700,
       "url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm",
@@ -2134,6 +2367,7 @@
     },
     {
       "title": "Tour and travel guides",
+      "slug": "tour-and-travel-guides",
       "exposure": 4,
       "jobs": 55800,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/tour-and-travel-guides.htm",
@@ -2143,6 +2377,7 @@
     },
     {
       "title": "Optometrists",
+      "slug": "optometrists",
       "exposure": 4,
       "jobs": 47800,
       "url": "https://www.bls.gov/ooh/healthcare/optometrists.htm",
@@ -2152,6 +2387,7 @@
     },
     {
       "title": "Conservation scientists and foresters",
+      "slug": "conservation-scientists",
       "exposure": 4,
       "jobs": 42400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists.htm",
@@ -2161,6 +2397,7 @@
     },
     {
       "title": "Environmental science and protection technicians",
+      "slug": "environmental-science-and-protection-technicians",
       "exposure": 4,
       "jobs": 40400,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-science-and-protection-technicians.htm",
@@ -2170,6 +2407,7 @@
     },
     {
       "title": "Agricultural and food science technicians",
+      "slug": "agricultural-and-food-science-technicians",
       "exposure": 4,
       "jobs": 38900,
       "url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-science-technicians.htm",
@@ -2179,6 +2417,7 @@
     },
     {
       "title": "Jewelers and precious stone and metal workers",
+      "slug": "jewelers-and-precious-stone-and-metal-workers",
       "exposure": 4,
       "jobs": 35100,
       "url": "https://www.bls.gov/ooh/production/jewelers-and-precious-stone-and-metal-workers.htm",
@@ -2188,6 +2427,7 @@
     },
     {
       "title": "Semiconductor processing technicians",
+      "slug": "semiconductor-processing-technicians",
       "exposure": 4,
       "jobs": 31900,
       "url": "https://www.bls.gov/ooh/production/semiconductor-processing-technicians.htm",
@@ -2197,6 +2437,7 @@
     },
     {
       "title": "Exercise physiologists",
+      "slug": "exercise-physiologists",
       "exposure": 4,
       "jobs": 23900,
       "url": "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm",
@@ -2206,6 +2447,7 @@
     },
     {
       "title": "Nuclear medicine technologists",
+      "slug": "nuclear-medicine-technologists",
       "exposure": 4,
       "jobs": 20000,
       "url": "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm",
@@ -2215,6 +2457,7 @@
     },
     {
       "title": "Radiation therapists",
+      "slug": "radiation-therapists",
       "exposure": 4,
       "jobs": 19200,
       "url": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm",
@@ -2224,6 +2467,7 @@
     },
     {
       "title": "Fire inspectors",
+      "slug": "fire-inspectors-and-investigators",
       "exposure": 4,
       "jobs": 17600,
       "url": "https://www.bls.gov/ooh/protective-service/fire-inspectors-and-investigators.htm",
@@ -2233,6 +2477,7 @@
     },
     {
       "title": "Audiologists",
+      "slug": "audiologists",
       "exposure": 4,
       "jobs": 15800,
       "url": "https://www.bls.gov/ooh/healthcare/audiologists.htm",
@@ -2242,6 +2487,7 @@
     },
     {
       "title": "Calibration technologists and technicians",
+      "slug": "calibration-technologists-and-technicians",
       "exposure": 4,
       "jobs": 15800,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/calibration-technologists-and-technicians.htm",
@@ -2251,6 +2497,7 @@
     },
     {
       "title": "Electro-mechanical and mechatronics technologists and technicians",
+      "slug": "electro-mechanical-technicians",
       "exposure": 4,
       "jobs": 15000,
       "url": "https://www.bls.gov/ooh/architecture-and-engineering/electro-mechanical-technicians.htm",
@@ -2260,6 +2507,7 @@
     },
     {
       "title": "Orthotists and prosthetists",
+      "slug": "orthotists-and-prosthetists",
       "exposure": 4,
       "jobs": 10100,
       "url": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm",
@@ -2269,6 +2517,7 @@
     },
     {
       "title": "Podiatrists",
+      "slug": "podiatrists",
       "exposure": 4,
       "jobs": 9700,
       "url": "https://www.bls.gov/ooh/healthcare/podiatrists.htm",
@@ -2278,6 +2527,7 @@
     },
     {
       "title": "Food and beverage serving and related workers",
+      "slug": "food-and-beverage-serving-and-related-workers",
       "exposure": 3,
       "jobs": 5030600,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-and-beverage-serving-and-related-workers.htm",
@@ -2287,6 +2537,7 @@
     },
     {
       "title": "Cooks",
+      "slug": "cooks",
       "exposure": 3,
       "jobs": 2805100,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/cooks.htm",
@@ -2296,6 +2547,7 @@
     },
     {
       "title": "Waiters and waitresses",
+      "slug": "waiters-and-waitresses",
       "exposure": 3,
       "jobs": 2329700,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/waiters-and-waitresses.htm",
@@ -2305,6 +2557,7 @@
     },
     {
       "title": "Assemblers and fabricators",
+      "slug": "assemblers-and-fabricators",
       "exposure": 3,
       "jobs": 1885400,
       "url": "https://www.bls.gov/ooh/production/assemblers-and-fabricators.htm",
@@ -2314,6 +2567,7 @@
     },
     {
       "title": "Delivery truck drivers and driver/sales workers",
+      "slug": "delivery-truck-drivers-and-driver-sales-workers",
       "exposure": 3,
       "jobs": 1531300,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/delivery-truck-drivers-and-driver-sales-workers.htm",
@@ -2323,6 +2577,7 @@
     },
     {
       "title": "Agricultural workers",
+      "slug": "agricultural-workers",
       "exposure": 3,
       "jobs": 812600,
       "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm",
@@ -2332,6 +2587,7 @@
     },
     {
       "title": "Automotive service technicians and mechanics",
+      "slug": "automotive-service-technicians-and-mechanics",
       "exposure": 3,
       "jobs": 805600,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm",
@@ -2341,6 +2597,7 @@
     },
     {
       "title": "Preschool teachers",
+      "slug": "preschool-teachers",
       "exposure": 3,
       "jobs": 555100,
       "url": "https://www.bls.gov/ooh/education-training-and-library/preschool-teachers.htm",
@@ -2350,6 +2607,7 @@
     },
     {
       "title": "Construction equipment operators",
+      "slug": "construction-equipment-operators",
       "exposure": 3,
       "jobs": 539500,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm",
@@ -2359,6 +2617,7 @@
     },
     {
       "title": "Industrial machinery mechanics, machinery maintenance workers, and millwrights",
+      "slug": "industrial-machinery-mechanics-and-maintenance-workers-and-millwrights",
       "exposure": 3,
       "jobs": 538300,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/industrial-machinery-mechanics-and-maintenance-workers-and-millwrights.htm",
@@ -2368,6 +2627,7 @@
     },
     {
       "title": "Postal service workers",
+      "slug": "postal-service-workers",
       "exposure": 3,
       "jobs": 500000,
       "url": "https://www.bls.gov/ooh/office-and-administrative-support/postal-service-workers.htm",
@@ -2377,6 +2637,7 @@
     },
     {
       "title": "Correctional officers and bailiffs",
+      "slug": "correctional-officers",
       "exposure": 3,
       "jobs": 406500,
       "url": "https://www.bls.gov/ooh/protective-service/correctional-officers.htm",
@@ -2386,6 +2647,7 @@
     },
     {
       "title": "Dental assistants",
+      "slug": "dental-assistants",
       "exposure": 3,
       "jobs": 381900,
       "url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm",
@@ -2395,6 +2657,7 @@
     },
     {
       "title": "Fitness trainers and instructors",
+      "slug": "fitness-trainers-and-instructors",
       "exposure": 3,
       "jobs": 370100,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm",
@@ -2404,6 +2667,7 @@
     },
     {
       "title": "Firefighters",
+      "slug": "firefighters",
       "exposure": 3,
       "jobs": 344900,
       "url": "https://www.bls.gov/ooh/protective-service/firefighters.htm",
@@ -2413,6 +2677,7 @@
     },
     {
       "title": "Recreation workers",
+      "slug": "recreation-workers",
       "exposure": 3,
       "jobs": 327700,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/recreation-workers.htm",
@@ -2422,6 +2687,7 @@
     },
     {
       "title": "Diesel service technicians and mechanics",
+      "slug": "diesel-service-technicians-and-mechanics",
       "exposure": 3,
       "jobs": 319900,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm",
@@ -2431,6 +2697,7 @@
     },
     {
       "title": "EMTs and paramedics",
+      "slug": "emts-and-paramedics",
       "exposure": 3,
       "jobs": 282900,
       "url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm",
@@ -2440,6 +2707,7 @@
     },
     {
       "title": "Food processing equipment workers",
+      "slug": "food-and-tobacco-processing-workers",
       "exposure": 3,
       "jobs": 282600,
       "url": "https://www.bls.gov/ooh/production/food-and-tobacco-processing-workers.htm",
@@ -2449,6 +2717,7 @@
     },
     {
       "title": "Telecommunications technicians",
+      "slug": "telecommunications-equipment-installers-and-repairers-except-line-installers",
       "exposure": 3,
       "jobs": 268500,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/telecommunications-equipment-installers-and-repairers-except-line-installers.htm",
@@ -2458,6 +2727,7 @@
     },
     {
       "title": "Physical therapists",
+      "slug": "physical-therapists",
       "exposure": 3,
       "jobs": 267200,
       "url": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm",
@@ -2467,6 +2737,7 @@
     },
     {
       "title": "Heavy vehicle and mobile equipment service technicians",
+      "slug": "heavy-vehicle-and-mobile-equipment-service-technicians",
       "exposure": 3,
       "jobs": 245600,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heavy-vehicle-and-mobile-equipment-service-technicians.htm",
@@ -2476,6 +2747,7 @@
     },
     {
       "title": "Woodworkers",
+      "slug": "woodworkers",
       "exposure": 3,
       "jobs": 214600,
       "url": "https://www.bls.gov/ooh/production/woodworkers.htm",
@@ -2485,6 +2757,7 @@
     },
     {
       "title": "Chefs and head cooks",
+      "slug": "chefs-and-head-cooks",
       "exposure": 3,
       "jobs": 197300,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm",
@@ -2494,6 +2767,7 @@
     },
     {
       "title": "Psychiatric technicians and aides",
+      "slug": "psychiatric-technicians-and-aides",
       "exposure": 3,
       "jobs": 182900,
       "url": "https://www.bls.gov/ooh/healthcare/psychiatric-technicians-and-aides.htm",
@@ -2503,6 +2777,7 @@
     },
     {
       "title": "Painting and coating workers",
+      "slug": "painting-and-coating-workers",
       "exposure": 3,
       "jobs": 174300,
       "url": "https://www.bls.gov/ooh/production/painting-and-coating-workers.htm",
@@ -2512,6 +2787,7 @@
     },
     {
       "title": "Aircraft and avionics equipment mechanics and technicians",
+      "slug": "aircraft-and-avionics-equipment-mechanics-and-technicians",
       "exposure": 3,
       "jobs": 160800,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/aircraft-and-avionics-equipment-mechanics-and-technicians.htm",
@@ -2521,6 +2797,7 @@
     },
     {
       "title": "Occupational therapists",
+      "slug": "occupational-therapists",
       "exposure": 3,
       "jobs": 160000,
       "url": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm",
@@ -2530,6 +2807,7 @@
     },
     {
       "title": "Physical therapist assistants and aides",
+      "slug": "physical-therapist-assistants-and-aides",
       "exposure": 3,
       "jobs": 157100,
       "url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm",
@@ -2539,6 +2817,7 @@
     },
     {
       "title": "Dentists",
+      "slug": "dentists",
       "exposure": 3,
       "jobs": 149300,
       "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
@@ -2548,6 +2827,7 @@
     },
     {
       "title": "Surgical assistants and technologists",
+      "slug": "surgical-technologists",
       "exposure": 3,
       "jobs": 141000,
       "url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm",
@@ -2557,6 +2837,7 @@
     },
     {
       "title": "Flight attendants",
+      "slug": "flight-attendants",
       "exposure": 3,
       "jobs": 130800,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm",
@@ -2566,6 +2847,7 @@
     },
     {
       "title": "Sheet metal workers",
+      "slug": "sheet-metal-workers",
       "exposure": 3,
       "jobs": 127000,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/sheet-metal-workers.htm",
@@ -2575,6 +2857,7 @@
     },
     {
       "title": "Electrical and electronics installers and repairers",
+      "slug": "electrical-and-electronics-installers-and-repairers",
       "exposure": 3,
       "jobs": 118800,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/electrical-and-electronics-installers-and-repairers.htm",
@@ -2584,6 +2867,7 @@
     },
     {
       "title": "Oil and gas workers",
+      "slug": "oil-and-gas-workers",
       "exposure": 3,
       "jobs": 115900,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/oil-and-gas-workers.htm",
@@ -2593,6 +2877,7 @@
     },
     {
       "title": "Skincare specialists",
+      "slug": "skincare-specialists",
       "exposure": 3,
       "jobs": 97400,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm",
@@ -2602,6 +2887,7 @@
     },
     {
       "title": "Water transportation workers",
+      "slug": "water-transportation-occupations",
       "exposure": 3,
       "jobs": 84300,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/water-transportation-occupations.htm",
@@ -2611,6 +2897,7 @@
     },
     {
       "title": "Medical equipment repairers",
+      "slug": "medical-equipment-repairers",
       "exposure": 3,
       "jobs": 68000,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm",
@@ -2620,6 +2907,7 @@
     },
     {
       "title": "Community health workers",
+      "slug": "community-health-workers",
       "exposure": 3,
       "jobs": 65100,
       "url": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm",
@@ -2629,6 +2917,7 @@
     },
     {
       "title": "Funeral service workers",
+      "slug": "funeral-service-occupations",
       "exposure": 3,
       "jobs": 59600,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm",
@@ -2638,6 +2927,7 @@
     },
     {
       "title": "Chiropractors",
+      "slug": "chiropractors",
       "exposure": 3,
       "jobs": 57200,
       "url": "https://www.bls.gov/ooh/healthcare/chiropractors.htm",
@@ -2647,6 +2937,7 @@
     },
     {
       "title": "Occupational therapy assistants and aides",
+      "slug": "occupational-therapy-assistants-and-aides",
       "exposure": 3,
       "jobs": 54400,
       "url": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm",
@@ -2656,6 +2947,7 @@
     },
     {
       "title": "Floral designers",
+      "slug": "floral-designers",
       "exposure": 3,
       "jobs": 43800,
       "url": "https://www.bls.gov/ooh/arts-and-design/floral-designers.htm",
@@ -2665,6 +2957,7 @@
     },
     {
       "title": "Athletic trainers",
+      "slug": "athletic-trainers",
       "exposure": 3,
       "jobs": 33900,
       "url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm",
@@ -2674,6 +2967,7 @@
     },
     {
       "title": "Stationary engineers and boiler operators",
+      "slug": "stationary-engineers-and-boiler-operators",
       "exposure": 3,
       "jobs": 33300,
       "url": "https://www.bls.gov/ooh/production/stationary-engineers-and-boiler-operators.htm",
@@ -2683,6 +2977,7 @@
     },
     {
       "title": "Elevator and escalator installers and repairers",
+      "slug": "elevator-installers-and-repairers",
       "exposure": 3,
       "jobs": 24200,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/elevator-installers-and-repairers.htm",
@@ -2692,6 +2987,7 @@
     },
     {
       "title": "Recreational therapists",
+      "slug": "recreational-therapists",
       "exposure": 3,
       "jobs": 16100,
       "url": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm",
@@ -2701,6 +2997,7 @@
     },
     {
       "title": "Hand laborers and material movers",
+      "slug": "hand-laborers-and-material-movers",
       "exposure": 2,
       "jobs": 6950000,
       "url": "https://www.bls.gov/ooh/transportation-and-material-moving/hand-laborers-and-material-movers.htm",
@@ -2710,6 +3007,7 @@
     },
     {
       "title": "Home health and personal care aides",
+      "slug": "home-health-aides-and-personal-care-aides",
       "exposure": 2,
       "jobs": 4347700,
       "url": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm",
@@ -2719,6 +3017,7 @@
     },
     {
       "title": "General maintenance and repair workers",
+      "slug": "general-maintenance-and-repair-workers",
       "exposure": 2,
       "jobs": 1629700,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/general-maintenance-and-repair-workers.htm",
@@ -2728,6 +3027,7 @@
     },
     {
       "title": "Nursing assistants and orderlies",
+      "slug": "nursing-assistants",
       "exposure": 2,
       "jobs": 1495400,
       "url": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm",
@@ -2737,6 +3037,7 @@
     },
     {
       "title": "Childcare workers",
+      "slug": "childcare-workers",
       "exposure": 2,
       "jobs": 991600,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/childcare-workers.htm",
@@ -2746,6 +3047,7 @@
     },
     {
       "title": "Carpenters",
+      "slug": "carpenters",
       "exposure": 2,
       "jobs": 959000,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm",
@@ -2755,6 +3057,7 @@
     },
     {
       "title": "Food preparation workers",
+      "slug": "food-preparation-workers",
       "exposure": 2,
       "jobs": 902700,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-preparation-workers.htm",
@@ -2764,6 +3067,7 @@
     },
     {
       "title": "Electricians",
+      "slug": "electricians",
       "exposure": 2,
       "jobs": 818700,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm",
@@ -2773,6 +3077,7 @@
     },
     {
       "title": "Bartenders",
+      "slug": "bartenders",
       "exposure": 2,
       "jobs": 756700,
       "url": "https://www.bls.gov/ooh/food-preparation-and-serving/bartenders.htm",
@@ -2782,6 +3087,7 @@
     },
     {
       "title": "Barbers, hairstylists, and cosmetologists",
+      "slug": "barbers-hairstylists-and-cosmetologists",
       "exposure": 2,
       "jobs": 651200,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
@@ -2791,6 +3097,7 @@
     },
     {
       "title": "Plumbers, pipefitters, and steamfitters",
+      "slug": "plumbers-pipefitters-and-steamfitters",
       "exposure": 2,
       "jobs": 504500,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm",
@@ -2800,6 +3107,7 @@
     },
     {
       "title": "Welders, cutters, solderers, and brazers",
+      "slug": "welders-cutters-solderers-and-brazers",
       "exposure": 2,
       "jobs": 457300,
       "url": "https://www.bls.gov/ooh/production/welders-cutters-solderers-and-brazers.htm",
@@ -2809,6 +3117,7 @@
     },
     {
       "title": "Animal care and service workers",
+      "slug": "animal-care-and-service-workers",
       "exposure": 2,
       "jobs": 439400,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm",
@@ -2818,6 +3127,7 @@
     },
     {
       "title": "Heating, air conditioning, and refrigeration mechanics and installers",
+      "slug": "heating-air-conditioning-and-refrigeration-mechanics-and-installers",
       "exposure": 2,
       "jobs": 425200,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
@@ -2827,6 +3137,7 @@
     },
     {
       "title": "Masonry workers",
+      "slug": "brickmasons-blockmasons-and-stonemasons",
       "exposure": 2,
       "jobs": 294300,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm",
@@ -2836,6 +3147,7 @@
     },
     {
       "title": "Bakers",
+      "slug": "bakers",
       "exposure": 2,
       "jobs": 249100,
       "url": "https://www.bls.gov/ooh/production/bakers.htm",
@@ -2845,6 +3157,7 @@
     },
     {
       "title": "Dental hygienists",
+      "slug": "dental-hygienists",
       "exposure": 2,
       "jobs": 221600,
       "url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm",
@@ -2854,6 +3167,7 @@
     },
     {
       "title": "Manicurists and pedicurists",
+      "slug": "manicurists-and-pedicurists",
       "exposure": 2,
       "jobs": 210100,
       "url": "https://www.bls.gov/ooh/personal-care-and-service/manicurists-and-pedicurists.htm",
@@ -2863,6 +3177,7 @@
     },
     {
       "title": "Automotive body and glass repairers",
+      "slug": "automotive-body-and-glass-repairers",
       "exposure": 2,
       "jobs": 193000,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-body-and-glass-repairers.htm",
@@ -2872,6 +3187,7 @@
     },
     {
       "title": "Massage therapists",
+      "slug": "massage-therapists",
       "exposure": 2,
       "jobs": 168000,
       "url": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm",
@@ -2881,6 +3197,7 @@
     },
     {
       "title": "Butchers",
+      "slug": "butchers-and-meat-cutters",
       "exposure": 2,
       "jobs": 143100,
       "url": "https://www.bls.gov/ooh/production/butchers-and-meat-cutters.htm",
@@ -2890,6 +3207,7 @@
     },
     {
       "title": "Phlebotomists",
+      "slug": "phlebotomists",
       "exposure": 2,
       "jobs": 139700,
       "url": "https://www.bls.gov/ooh/healthcare/phlebotomists.htm",
@@ -2899,6 +3217,7 @@
     },
     {
       "title": "Electrical power-line installers and repairers",
+      "slug": "line-installers-and-repairers",
       "exposure": 2,
       "jobs": 127400,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/line-installers-and-repairers.htm",
@@ -2908,6 +3227,7 @@
     },
     {
       "title": "Veterinary assistants and laboratory animal caretakers",
+      "slug": "veterinary-assistants-and-laboratory-animal-caretakers",
       "exposure": 2,
       "jobs": 117800,
       "url": "https://www.bls.gov/ooh/healthcare/veterinary-assistants-and-laboratory-animal-caretakers.htm",
@@ -2917,6 +3237,7 @@
     },
     {
       "title": "Pest control workers",
+      "slug": "pest-control-workers",
       "exposure": 2,
       "jobs": 102400,
       "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/pest-control-workers.htm",
@@ -2926,6 +3247,7 @@
     },
     {
       "title": "Small engine mechanics",
+      "slug": "small-engine-mechanics",
       "exposure": 2,
       "jobs": 78000,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/small-engine-mechanics.htm",
@@ -2935,6 +3257,7 @@
     },
     {
       "title": "Insulation workers",
+      "slug": "insulation-workers",
       "exposure": 2,
       "jobs": 67400,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/insulation-workers.htm",
@@ -2944,6 +3267,7 @@
     },
     {
       "title": "Glaziers",
+      "slug": "glaziers",
       "exposure": 2,
       "jobs": 60500,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/glaziers.htm",
@@ -2953,6 +3277,7 @@
     },
     {
       "title": "Hazardous materials removal workers",
+      "slug": "hazardous-materials-removal-workers",
       "exposure": 2,
       "jobs": 51300,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/hazardous-materials-removal-workers.htm",
@@ -2962,6 +3287,7 @@
     },
     {
       "title": "Logging workers",
+      "slug": "logging-workers",
       "exposure": 2,
       "jobs": 44300,
       "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/logging-workers.htm",
@@ -2971,6 +3297,7 @@
     },
     {
       "title": "Solar photovoltaic installers",
+      "slug": "solar-photovoltaic-installers",
       "exposure": 2,
       "jobs": 28600,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/solar-photovoltaic-installers.htm",
@@ -2980,6 +3307,7 @@
     },
     {
       "title": "Fishing and hunting workers",
+      "slug": "fishers-and-related-fishing-workers",
       "exposure": 2,
       "jobs": 21900,
       "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/fishers-and-related-fishing-workers.htm",
@@ -2989,6 +3317,7 @@
     },
     {
       "title": "Dancers and choreographers",
+      "slug": "dancers-and-choreographers",
       "exposure": 2,
       "jobs": 17000,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm",
@@ -2998,6 +3327,7 @@
     },
     {
       "title": "Wind turbine technicians",
+      "slug": "wind-turbine-technicians",
       "exposure": 2,
       "jobs": 13600,
       "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/wind-turbine-technicians.htm",
@@ -3007,6 +3337,7 @@
     },
     {
       "title": "Forest and conservation workers",
+      "slug": "forest-and-conservation-workers",
       "exposure": 2,
       "jobs": 10800,
       "url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/forest-and-conservation-workers.htm",
@@ -3016,6 +3347,7 @@
     },
     {
       "title": "Boilermakers",
+      "slug": "boilermakers",
       "exposure": 2,
       "jobs": 10400,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/boilermakers.htm",
@@ -3025,6 +3357,7 @@
     },
     {
       "title": "Janitors and building cleaners",
+      "slug": "janitors-and-building-cleaners",
       "exposure": 1,
       "jobs": 2447700,
       "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/janitors-and-building-cleaners.htm",
@@ -3034,6 +3367,7 @@
     },
     {
       "title": "Construction laborers and helpers",
+      "slug": "construction-laborers-and-helpers",
       "exposure": 1,
       "jobs": 1649100,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/construction-laborers-and-helpers.htm",
@@ -3043,6 +3377,7 @@
     },
     {
       "title": "Grounds maintenance workers",
+      "slug": "grounds-maintenance-workers",
       "exposure": 1,
       "jobs": 1296400,
       "url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/grounds-maintenance-workers.htm",
@@ -3052,6 +3387,7 @@
     },
     {
       "title": "Painters, construction and maintenance",
+      "slug": "painters-construction-and-maintenance",
       "exposure": 1,
       "jobs": 342200,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/painters-construction-and-maintenance.htm",
@@ -3061,6 +3397,7 @@
     },
     {
       "title": "Roofers",
+      "slug": "roofers",
       "exposure": 1,
       "jobs": 166700,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/roofers.htm",
@@ -3070,6 +3407,7 @@
     },
     {
       "title": "Drywall installers, ceiling tile installers, and tapers",
+      "slug": "drywall-and-ceiling-tile-installers-and-tapers",
       "exposure": 1,
       "jobs": 118600,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/drywall-and-ceiling-tile-installers-and-tapers.htm",
@@ -3079,6 +3417,7 @@
     },
     {
       "title": "Flooring installers and tile and stone setters",
+      "slug": "tile-and-marble-setters",
       "exposure": 1,
       "jobs": 112300,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/tile-and-marble-setters.htm",
@@ -3088,6 +3427,7 @@
     },
     {
       "title": "Ironworkers",
+      "slug": "structural-iron-and-steel-workers",
       "exposure": 1,
       "jobs": 85100,
       "url": "https://www.bls.gov/ooh/construction-and-extraction/structural-iron-and-steel-workers.htm",
@@ -3097,6 +3437,7 @@
     },
     {
       "title": "Athletes and sports competitors",
+      "slug": "athletes-and-sports-competitors",
       "exposure": 1,
       "jobs": 19100,
       "url": "https://www.bls.gov/ooh/entertainment-and-sports/athletes-and-sports-competitors.htm",
@@ -3124,6 +3465,13 @@
       "categories": [
         "business-and-financial",
         "computer-and-information-technology"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "loan-officers",
+        "financial-examiners",
+        "credit-counselors",
+        "budget-analysts"
       ]
     },
     {
@@ -3145,6 +3493,13 @@
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "personal-financial-advisors",
+        "software-developers",
+        "data-scientists",
+        "computer-systems-analysts"
       ]
     },
     {
@@ -3166,6 +3521,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "computer-and-information-systems-managers",
+        "software-developers",
+        "data-scientists",
+        "project-management-specialists",
+        "management-analysts"
       ]
     },
     {
@@ -3187,6 +3549,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "computer-and-information-systems-managers",
+        "software-developers",
+        "data-scientists",
+        "computer-programmers",
+        "information-security-analysts"
       ]
     },
     {
@@ -3208,6 +3577,13 @@
         "computer-and-information-technology",
         "management",
         "business-and-financial"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "computer-systems-analysts",
+        "database-administrators",
+        "information-security-analysts",
+        "web-developers"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
@@ -3231,6 +3607,13 @@
         "computer-and-information-technology",
         "media-and-communication"
       ],
+      "occupationIDs": [
+        "graphic-designers",
+        "multimedia-artists-and-animators",
+        "photographers",
+        "set-and-exhibit-designers",
+        "fashion-designers"
+      ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
@@ -3251,6 +3634,13 @@
       "categories": [
         "computer-and-information-technology",
         "_all"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "web-developers",
+        "computer-programmers",
+        "database-administrators",
+        "information-security-analysts"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486"
     },
@@ -3273,6 +3663,13 @@
         "protective-service",
         "computer-and-information-technology",
         "_all"
+      ],
+      "occupationIDs": [
+        "firefighters",
+        "police-and-detectives",
+        "security-guards",
+        "computer-systems-analysts",
+        "information-security-analysts"
       ]
     },
     {
@@ -3294,6 +3691,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "computer-and-information-systems-managers",
+        "software-developers",
+        "database-administrators",
+        "information-security-analysts",
+        "network-and-computer-systems-administrators"
       ]
     },
     {
@@ -3315,6 +3719,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "web-developers",
+        "computer-systems-analysts",
+        "database-administrators",
+        "information-security-analysts"
       ]
     },
     {
@@ -3334,6 +3745,13 @@
       "fetchedAt": "2026-04-17T11:00:45.693Z",
       "categories": [
         "computer-and-information-technology"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "web-developers",
+        "computer-programmers",
+        "database-administrators",
+        "information-security-analysts"
       ]
     },
     {
@@ -3355,6 +3773,13 @@
         "computer-and-information-technology",
         "production",
         "_all"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "web-developers",
+        "computer-programmers",
+        "database-administrators",
+        "information-security-analysts"
       ]
     },
     {
@@ -3376,6 +3801,13 @@
         "business-and-financial",
         "computer-and-information-technology",
         "management"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "credit-counselors",
+        "loan-officers",
+        "management-analysts",
+        "financial-examiners"
       ]
     },
     {
@@ -3396,6 +3828,13 @@
       "categories": [
         "business-and-financial",
         "computer-and-information-technology"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "loan-officers",
+        "credit-counselors",
+        "compliance-officers",
+        "accountants-and-auditors"
       ]
     },
     {
@@ -3418,6 +3857,13 @@
         "office-and-administrative-support",
         "_all"
       ],
+      "occupationIDs": [
+        "software-developers",
+        "web-developers",
+        "computer-systems-analysts",
+        "database-administrators",
+        "information-security-analysts"
+      ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
@@ -3439,6 +3885,13 @@
         "computer-and-information-technology",
         "office-and-administrative-support",
         "management"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "computer-systems-analysts",
+        "database-administrators",
+        "information-security-analysts",
+        "web-developers"
       ]
     },
     {
@@ -3460,6 +3913,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "software-developers",
+        "computer-systems-analysts",
+        "database-administrators",
+        "information-security-analysts",
+        "network-and-computer-systems-administrators"
       ]
     },
     {
@@ -3481,6 +3941,13 @@
         "computer-and-information-technology",
         "management",
         "_all"
+      ],
+      "occupationIDs": [
+        "computer-and-information-systems-managers",
+        "software-developers",
+        "data-scientists",
+        "computer-programmers",
+        "information-security-analysts"
       ]
     },
     {
@@ -3523,15 +3990,22 @@
         "computer-and-information-technology",
         "office-and-administrative-support",
         "_all"
+      ],
+      "occupationIDs": [
+        "computer-support-specialists",
+        "software-developers",
+        "web-developers",
+        "database-administrators",
+        "information-security-analysts"
       ]
     }
   ],
-  "generatedAt": "2026-04-18T06:30:26.412Z",
+  "generatedAt": "2026-04-18T15:03:17.122Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Daily signal pulse",
-      "preview": "A quick read on the latest pulse, led by Nervous Indian Fintechs Push Anthropic for Access to Mythos.",
-      "body": "This update is split between 16 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nervous Indian Fintechs Push Anthropic for Access to Mythos\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic Plots Major London Expansion\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.416 minutes. Updated 2026-04-18T06:30:26.412Z, with the macro replacement estimate at 49.3%."
+      "title": "AI Adoption Accelerates Amid Industry Shifts",
+      "preview": "New AI advancements and corporate investments signal rising job replacement pressure.",
+      "body": "Recent news shows a mix of acceleration and delay in AI adoption, with major developments like Anthropic's model releases and OpenAI's Codex update pushing AI capabilities forward. However, some expansions and legal battles suggest slower progress in certain areas. Overall, the trend leans toward increased AI integration and potential job displacement."
     }
   }
 }
