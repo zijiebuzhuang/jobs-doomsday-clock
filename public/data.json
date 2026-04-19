@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:49:25",
-  "minutesToMidnight": 11,
-  "exactMinutesToMidnight": 10.584,
+  "displayTime": "23:49:32",
+  "minutesToMidnight": 10,
+  "exactMinutesToMidnight": 10.461,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -2.416,
+  "newsAdjustment": -2.539,
   "categoryAdjustments": {
-    "healthcare": -0.282,
-    "life-physical-and-social-science": -0.295,
-    "architecture-and-engineering": -0.314,
+    "healthcare": -0.304,
+    "life-physical-and-social-science": -0.316,
+    "architecture-and-engineering": -0.35,
     "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.256,
-    "production": -0.299,
-    "installation-maintenance-and-repair": -0.256,
-    "education-training-and-library": -0.246,
+    "construction-and-extraction": -0.277,
+    "production": -0.341,
+    "installation-maintenance-and-repair": -0.277,
+    "education-training-and-library": -0.268,
     "office-and-administrative-support": -0.35,
-    "transportation-and-material-moving": -0.282,
-    "personal-care-and-service": -0.275,
-    "sales": -0.282,
-    "media-and-communication": -0.255,
+    "transportation-and-material-moving": -0.303,
+    "personal-care-and-service": -0.297,
+    "sales": -0.303,
+    "media-and-communication": -0.276,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.245,
-    "arts-and-design": -0.255,
-    "entertainment-and-sports": -0.256,
-    "protective-service": -0.273,
-    "food-preparation-and-serving": -0.256,
-    "legal": -0.264,
-    "math": -0.275,
-    "farming-fishing-and-forestry": -0.256,
-    "building-and-grounds-cleaning": -0.256
+    "community-and-social-service": -0.266,
+    "arts-and-design": -0.286,
+    "entertainment-and-sports": -0.277,
+    "protective-service": -0.294,
+    "food-preparation-and-serving": -0.277,
+    "legal": -0.286,
+    "math": -0.296,
+    "farming-fishing-and-forestry": -0.277,
+    "building-and-grounds-cleaning": -0.277
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.267,
+  "macroReplacementRate": 49.276,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,235 @@
   ],
   "newsFeed": [
     {
+      "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
+      "date": "2026-04-18",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "automation",
+        "hardware coding"
+      ],
+      "fetchedAt": "2026-04-19T11:00:42.966Z",
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "production"
+      ]
+    },
+    {
+      "id": "ai-chip-startup-cerebras-files-for-ipo",
+      "title": "AI chip startup Cerebras files for IPO",
+      "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
+      "date": "2026-04-18",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "corporate investment",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-19T11:00:34.227Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
+      "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
+      "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
+      "date": "2026-04-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "government policy",
+        "corporate collaboration"
+      ],
+      "fetchedAt": "2026-04-19T11:00:44.933Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-executive-kevin-weil-is-leaving-the-company",
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
+      "date": "2026-04-17",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "effect": "delay",
+      "impactScore": 2,
+      "tags": [
+        "executive-changes",
+        "ai-development"
+      ],
+      "fetchedAt": "2026-04-19T11:00:43.906Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
+      "date": "2026-04-17",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "government contracts",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-04-19T11:00:41.961Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-s-former-sora-boss-is-leaving",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
+      "date": "2026-04-17",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "job market",
+        "company restructuring"
+      ],
+      "fetchedAt": "2026-04-19T11:00:40.038Z",
+      "categories": [
+        "computer-and-information-technology",
+        "media-and-communication",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "corporate strategy",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-19T11:00:38.959Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "automation",
+        "design"
+      ],
+      "fetchedAt": "2026-04-19T11:00:37.890Z",
+      "categories": [
+        "arts-and-design",
+        "computer-and-information-technology",
+        "management"
+      ]
+    },
+    {
+      "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "job displacement",
+        "industry trends"
+      ],
+      "fetchedAt": "2026-04-19T11:00:36.936Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "organizational change",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-04-19T11:00:35.923Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
+      "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
+      "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
+      "date": "2026-04-17",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "universal-basic-income",
+        "AI-employment-impact",
+        "policy-response"
+      ],
+      "fetchedAt": "2026-04-19T11:00:33.153Z",
+      "categories": [
+        "_all"
+      ]
+    },
+    {
       "id": "nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
       "title": "Nervous Indian Fintechs Push Anthropic for Access to Mythos",
       "summary": "Indian fintech companies seeking early access to a powerful AI model may accelerate AI adoption in financial services, increasing the risk of job displacement in the sector.",
@@ -3699,313 +3928,14 @@
         "information-security-analysts",
         "network-and-computer-systems-administrators"
       ]
-    },
-    {
-      "id": "anthropic-cpo-leaves-figma-s-board-after-reports-he-will-offer-a-competing-produ",
-      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-      "summary": "The departure of a key executive from Figma and potential competition from AI-driven design tools signal growing concerns about AI's impact on software industries, accelerating fears of job displacement.",
-      "date": "2026-04-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI competition",
-        "software industry",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-17T11:00:46.785Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "web-developers",
-        "computer-systems-analysts",
-        "database-administrators",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over",
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "summary": "OpenAI's enhanced coding tool could accelerate AI's ability to replace certain programming and software development roles.",
-      "date": "2026-04-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "coding tools",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-17T11:00:45.693Z",
-      "categories": [
-        "computer-and-information-technology"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "web-developers",
-        "computer-programmers",
-        "database-administrators",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises",
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "summary": "A startup building AI coding tools for enterprises could accelerate the replacement of human jobs in software development and related fields.",
-      "date": "2026-04-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "job automation",
-        "enterprise technology"
-      ],
-      "fetchedAt": "2026-04-17T11:00:44.789Z",
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "web-developers",
-        "computer-programmers",
-        "database-administrators",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "anthropic-s-mythos-to-be-available-to-uk-banks-within-next-week-",
-      "title": "Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'",
-      "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased adoption of advanced AI in financial institutions, potentially accelerating job replacement in finance and related sectors.",
-      "date": "2026-04-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-16/anthropic-s-mythos-available-to-uk-banks-in-next-week-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial technology",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-04-16T11:00:37.812Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "credit-counselors",
-        "loan-officers",
-        "management-analysts",
-        "financial-examiners"
-      ]
-    },
-    {
-      "id": "anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-      "title": "Anthropic Plans to Bring Mythos to UK Banks Within the Next Week",
-      "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased AI adoption in the financial sector, potentially accelerating job replacement in that industry.",
-      "date": "2026-04-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial sector",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-16T11:00:36.717Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "loan-officers",
-        "credit-counselors",
-        "compliance-officers",
-        "accountants-and-auditors"
-      ]
-    },
-    {
-      "id": "google-launches-a-gemini-ai-app-on-mac",
-      "title": "Google launches a Gemini AI app on Mac",
-      "summary": "The launch of the Gemini AI app on Mac may increase AI's integration into daily workflows, potentially accelerating its role in replacing certain job functions.",
-      "date": "2026-04-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "workplace technology"
-      ],
-      "fetchedAt": "2026-04-16T11:00:35.675Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "web-developers",
-        "computer-systems-analysts",
-        "database-administrators",
-        "information-security-analysts"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-rolls-out-a-native-gemini-app-for-mac",
-      "title": "Google rolls out a native Gemini app for Mac",
-      "summary": "The introduction of a native Gemini app for Mac could enhance AI's role in assisting with tasks, potentially increasing AI's integration into work processes and accelerating job replacement in certain areas.",
-      "date": "2026-04-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "workplace automation"
-      ],
-      "fetchedAt": "2026-04-16T11:00:33.250Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "management"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "computer-systems-analysts",
-        "database-administrators",
-        "information-security-analysts",
-        "web-developers"
-      ]
-    },
-    {
-      "id": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agent",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "summary": "OpenAI's update to its Agents SDK enhances AI capabilities, potentially accelerating AI's role in replacing human jobs by making it easier for enterprises to build more advanced agents.",
-      "date": "2026-04-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "enterprise adoption",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-16T11:00:32.105Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "computer-systems-analysts",
-        "database-administrators",
-        "information-security-analysts",
-        "network-and-computer-systems-administrators"
-      ]
-    },
-    {
-      "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
-      "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
-      "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
-      "date": "2026-04-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "investment",
-        "AI development",
-        "startup"
-      ],
-      "fetchedAt": "2026-04-15T00:00:58.671Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "computer-and-information-systems-managers",
-        "software-developers",
-        "data-scientists",
-        "computer-programmers",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
-      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-      "summary": "The opposition to the AI liability bill may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-      "date": "2026-04-14",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI regulation",
-        "liability",
-        "policy"
-      ],
-      "fetchedAt": "2026-04-15T00:00:57.268Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
-      "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-      "summary": "New AI-powered features in Google Chrome may help users perform tasks more efficiently, potentially reducing the need for certain job functions.",
-      "date": "2026-04-14",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-      "effect": "advance",
-      "impactScore": 2,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-15T00:00:55.729Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "occupationIDs": [
-        "computer-support-specialists",
-        "software-developers",
-        "web-developers",
-        "database-administrators",
-        "information-security-analysts"
-      ]
     }
   ],
-  "generatedAt": "2026-04-18T15:03:17.122Z",
+  "generatedAt": "2026-04-19T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Amid Industry Shifts",
-      "preview": "New AI advancements and corporate investments signal rising job replacement pressure.",
-      "body": "Recent news shows a mix of acceleration and delay in AI adoption, with major developments like Anthropic's model releases and OpenAI's Codex update pushing AI capabilities forward. However, some expansions and legal battles suggest slower progress in certain areas. Overall, the trend leans toward increased AI integration and potential job displacement."
+      "title": "AI Advances Continue to Outpace Job Market Adjustments",
+      "preview": "New AI tools and corporate moves signal growing replacement pressure.",
+      "body": "Recent developments, including Cerebras' IPO and Anthropic's new cybersecurity model, highlight continued AI progress that could accelerate job displacement. However, some leadership changes at OpenAI may slow specific areas of development. Overall, the trend remains tilted toward advancement."
     }
   }
 }

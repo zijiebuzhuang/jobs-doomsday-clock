@@ -1,5 +1,276 @@
 [
   {
+    "date": "2026-04-19",
+    "minutesToMidnight": 10,
+    "exactMinutesToMidnight": 10.461,
+    "macroReplacementRate": 49.276,
+    "newsAdjustment": -2.539,
+    "categoryAdjustments": {
+      "healthcare": -0.304,
+      "life-physical-and-social-science": -0.316,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.277,
+      "production": -0.341,
+      "installation-maintenance-and-repair": -0.277,
+      "education-training-and-library": -0.268,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.303,
+      "personal-care-and-service": -0.297,
+      "sales": -0.303,
+      "media-and-communication": -0.276,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.266,
+      "arts-and-design": -0.286,
+      "entertainment-and-sports": -0.277,
+      "protective-service": -0.294,
+      "food-preparation-and-serving": -0.277,
+      "legal": -0.286,
+      "math": -0.296,
+      "farming-fishing-and-forestry": -0.277,
+      "building-and-grounds-cleaning": -0.277
+    },
+    "newsFeed": [
+      {
+        "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
+        "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+        "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
+        "date": "2026-04-18",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "automation",
+          "hardware coding"
+        ],
+        "fetchedAt": "2026-04-19T11:00:42.966Z",
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "production"
+        ]
+      },
+      {
+        "id": "ai-chip-startup-cerebras-files-for-ipo",
+        "title": "AI chip startup Cerebras files for IPO",
+        "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
+        "date": "2026-04-18",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "corporate investment",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-19T11:00:34.227Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
+        "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
+        "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
+        "date": "2026-04-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "government policy",
+          "corporate collaboration"
+        ],
+        "fetchedAt": "2026-04-19T11:00:44.933Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-executive-kevin-weil-is-leaving-the-company",
+        "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+        "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
+        "date": "2026-04-17",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+        "effect": "delay",
+        "impactScore": 2,
+        "tags": [
+          "executive-changes",
+          "ai-development"
+        ],
+        "fetchedAt": "2026-04-19T11:00:43.906Z",
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
+        "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+        "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
+        "date": "2026-04-17",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "government contracts",
+          "cybersecurity"
+        ],
+        "fetchedAt": "2026-04-19T11:00:41.961Z",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-s-former-sora-boss-is-leaving",
+        "title": "OpenAI’s former Sora boss is leaving",
+        "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
+        "date": "2026-04-17",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "job market",
+          "company restructuring"
+        ],
+        "fetchedAt": "2026-04-19T11:00:40.038Z",
+        "categories": [
+          "computer-and-information-technology",
+          "media-and-communication",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
+        "title": "Are we tokenmaxxing our way to nowhere?",
+        "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
+        "date": "2026-04-17",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "corporate strategy",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-19T11:00:38.959Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+        "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
+        "date": "2026-04-17",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "automation",
+          "design"
+        ],
+        "fetchedAt": "2026-04-19T11:00:37.890Z",
+        "categories": [
+          "arts-and-design",
+          "computer-and-information-technology",
+          "management"
+        ]
+      },
+      {
+        "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
+        "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+        "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
+        "date": "2026-04-17",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "job displacement",
+          "industry trends"
+        ],
+        "fetchedAt": "2026-04-19T11:00:36.936Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
+        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+        "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
+        "date": "2026-04-17",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "organizational change",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-04-19T11:00:35.923Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
+        "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
+        "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
+        "date": "2026-04-17",
+        "source": "AI Jobs",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "universal-basic-income",
+          "AI-employment-impact",
+          "policy-response"
+        ],
+        "fetchedAt": "2026-04-19T11:00:33.153Z",
+        "categories": [
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by AI chip startup Cerebras files for IPO.",
+        "body": "This update is split between 7 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"AI chip startup Cerebras files for IPO\" (TechCrunch - AI), while the clearest drag comes from \"OpenAI’s former Sora boss is leaving\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.539 minutes. Updated 2026-04-19T12:00:00.000Z, with the macro replacement estimate at 49.3%."
+      }
+    }
+  },
+  {
     "date": "2026-04-18",
     "minutesToMidnight": 11,
     "exactMinutesToMidnight": 10.584,
@@ -5759,47 +6030,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-20T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-19",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-19T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

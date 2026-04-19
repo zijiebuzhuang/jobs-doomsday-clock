@@ -1,5 +1,234 @@
 [
   {
+    "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
+    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+    "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
+    "date": "2026-04-18",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "automation",
+      "hardware coding"
+    ],
+    "fetchedAt": "2026-04-19T11:00:42.966Z",
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "production"
+    ]
+  },
+  {
+    "id": "ai-chip-startup-cerebras-files-for-ipo",
+    "title": "AI chip startup Cerebras files for IPO",
+    "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
+    "date": "2026-04-18",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "corporate investment",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-19T11:00:34.227Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
+    "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
+    "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
+    "date": "2026-04-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "government policy",
+      "corporate collaboration"
+    ],
+    "fetchedAt": "2026-04-19T11:00:44.933Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-executive-kevin-weil-is-leaving-the-company",
+    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+    "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
+    "date": "2026-04-17",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "executive-changes",
+      "ai-development"
+    ],
+    "fetchedAt": "2026-04-19T11:00:43.906Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
+    "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+    "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
+    "date": "2026-04-17",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "government contracts",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-04-19T11:00:41.961Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-s-former-sora-boss-is-leaving",
+    "title": "OpenAI’s former Sora boss is leaving",
+    "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
+    "date": "2026-04-17",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "job market",
+      "company restructuring"
+    ],
+    "fetchedAt": "2026-04-19T11:00:40.038Z",
+    "categories": [
+      "computer-and-information-technology",
+      "media-and-communication",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
+    "date": "2026-04-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "corporate strategy",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-19T11:00:38.959Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
+    "date": "2026-04-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "automation",
+      "design"
+    ],
+    "fetchedAt": "2026-04-19T11:00:37.890Z",
+    "categories": [
+      "arts-and-design",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
+    "date": "2026-04-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "job displacement",
+      "industry trends"
+    ],
+    "fetchedAt": "2026-04-19T11:00:36.936Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
+    "date": "2026-04-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "organizational change",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-04-19T11:00:35.923Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
+    "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
+    "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
+    "date": "2026-04-17",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "universal-basic-income",
+      "AI-employment-impact",
+      "policy-response"
+    ],
+    "fetchedAt": "2026-04-19T11:00:33.153Z",
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
     "title": "Nervous Indian Fintechs Push Anthropic for Access to Mythos",
     "summary": "Indian fintech companies seeking early access to a powerful AI model may accelerate AI adoption in financial services, increasing the risk of job displacement in the sector.",
@@ -130,14 +359,14 @@
       "management",
       "business-and-financial"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "software-developers",
       "computer-systems-analysts",
       "database-administrators",
       "information-security-analysts",
       "web-developers"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "gemini-can-now-pull-from-google-photos-to-generate-personalized-images",
@@ -159,14 +388,14 @@
       "computer-and-information-technology",
       "media-and-communication"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "graphic-designers",
       "multimedia-artists-and-animators",
       "photographers",
       "set-and-exhibit-designers",
       "fashion-designers"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "openai-s-big-codex-update-is-a-direct-shot-at-claude-code",
@@ -187,14 +416,14 @@
       "computer-and-information-technology",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486",
     "occupationIDs": [
       "software-developers",
       "web-developers",
       "computer-programmers",
       "database-administrators",
       "information-security-analysts"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486"
   },
   {
     "id": "why-having-humans-in-the-loop-in-an-ai-war-is-an-illusion",
@@ -409,14 +638,14 @@
       "office-and-administrative-support",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "software-developers",
       "web-developers",
       "computer-systems-analysts",
       "database-administrators",
       "information-security-analysts"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "google-rolls-out-a-native-gemini-app-for-mac",
@@ -598,14 +827,14 @@
       "media-and-communication",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "software-developers",
       "web-developers",
       "computer-support-specialists",
       "information-security-analysts",
       "database-administrators"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
@@ -627,14 +856,14 @@
       "computer-and-information-technology",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "secretaries-and-administrative-assistants",
       "customer-service-representatives",
       "bookkeeping-accounting-and-auditing-clerks",
       "receptionists",
       "financial-clerks"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
@@ -656,14 +885,14 @@
       "management",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "computer-and-information-systems-managers",
       "software-developers",
       "data-scientists",
       "information-security-analysts",
       "computer-programmers"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "openai-has-bought-ai-personal-finance-startup-hiro",
@@ -794,14 +1023,14 @@
       "business-and-financial",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "financial-analysts",
       "management-analysts",
       "project-management-specialists",
       "software-developers",
       "data-scientists"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "read-openai-8217-s-latest-internal-memo-about-beating-the-competition-including-",
@@ -823,14 +1052,14 @@
       "business-and-financial",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "financial-analysts",
       "management-analysts",
       "project-management-specialists",
       "software-developers",
       "data-scientists"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
@@ -907,13 +1136,13 @@
       "media-and-communication",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "graphic-designers",
       "multimedia-artists-and-animators",
       "set-and-exhibit-designers",
       "art-directors"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
@@ -963,14 +1192,14 @@
       "legal",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "software-developers",
       "computer-systems-analysts",
       "information-security-analysts",
       "database-administrators",
       "network-and-computer-systems-administrators"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
@@ -992,14 +1221,14 @@
       "architecture-and-engineering",
       "_all"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "software-developers",
       "web-developers",
       "computer-programmers",
       "database-administrators",
       "information-security-analysts"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
@@ -1077,14 +1306,14 @@
       "computer-and-information-technology",
       "math"
     ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
     "occupationIDs": [
       "drafters",
       "architects",
       "civil-engineers",
       "industrial-engineers",
       "computer-hardware-engineers"
-    ]
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "gemini-gets-notebooks-to-help-you-organize-projects",
