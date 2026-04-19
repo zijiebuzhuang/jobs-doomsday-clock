@@ -20,6 +20,8 @@ The architecture is built around precomputed data. The frontend does not calcula
 - **Fetch and classify latest news**: `npm run fetch-news`
 - **Save or rebuild 90-day history**: `npm run save-history` (`node scripts/save-history.mjs --rebuild --date=YYYY-MM-DD` for a full rebuild)
 - **Backfill 90-day historical news**: `npm run backfill-news`
+- **Generate occupation guidance (deterministic)**: `npm run generate-guidance`
+- **Enrich guidance with LLM (occupation-specific skills)**: `DASHSCOPE_API_KEY=... npm run enrich-guidance`
 - **Production build**: `npm run build`
 - **Preview production build**: `npm run preview`
 
@@ -38,6 +40,8 @@ Because of these local path dependencies, `npm run compute` MUST be run locally 
 - `scripts/backfill-news.mjs` queries News API for a 90-day range, runs the same classifier path, merges historical items into `data/news-feed.json`, then regenerates `public/data.json` and `public/clock-history.json`.
 - `scripts/compute-clock.mjs` reads the raw datasets plus the retained news feed, calculates the `replacementRate` = (jobs-weighted average exposure) * 10, maps it to a 24-hour clock where 50% replacement = 00:00, applies decayed news/category adjustments, generates the single daily signal summary when `DASHSCOPE_API_KEY` or `ALIYUN` is available, and writes `public/data.json`.
 - `scripts/save-history.mjs` writes daily snapshots to `public/clock-history.json`; each snapshot includes per-day `newsFeed` (matched by `fetchedAt`, not original publication `date`) and category adjustments. Quiet days are valid and should keep `newsFeed: []`.
+- `scripts/generate-occupation-guidance.mjs` is the deterministic career guidance pipeline. It reads O*NET TSV files from `/tmp/`, matches them to occupations, and generates `public/occupation-guidance.json` with generic O*NET skill names and category-level "add" skills. This is the stable foundation.
+- `scripts/enrich-guidance.mjs` is the LLM enrichment pass. It reads the deterministic guidance, sends each occupation to Qwen, and adds `specificLabel` (occupation-specific skill names) to each `currentSkill` and replaces generic `add` skills with occupation-tailored recommendations. Requires `DASHSCOPE_API_KEY`. See `ENRICHMENT_GUIDE.md` for details.
 - `.github/workflows/daily-news.yml` is the publish gate for the product's fixed daily edition. The workflow is triggered by cron-job.org at **19:00 Shanghai time (07:00 AM US Eastern)** to align with US morning news consumption. The first successful run for a given date defines that day's snapshot; later reruns are recovery-only and should not pull newer headlines into the same day.
 
 ### 2. Frontend Application (`src/`)

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "medical-transcriptionists",
+    "slug": "medical-transcriptionists",
+    "socCode": "31-9094",
+    "title": "Medical transcriptionists",
+    "pressureBand": "high",
+    "source": "exact",
+    "headline": "AI pressure is high for Medical transcriptionists. Differentiate through judgment, client trust, and workflow ownership.",
+    "explanation": "This chart compares the skills this role relies on today with the ones worth emphasizing as automation pressure rises. Prioritize client-facing judgment, quality control, and adjacent roles where the same domain knowledge stays valuable.",
+    "currentSkills": [
+      {
+        "name": "Active Listening",
+        "importance": 4.1,
+        "level": 4.1,
+        "bucket": "deepen",
+        "targetEmphasis": 5,
+        "specificLabel": "Medical dictation accuracy"
+      },
+      {
+        "name": "Reading Comprehension",
+        "importance": 4,
+        "level": 4,
+        "bucket": "deepen",
+        "targetEmphasis": 4.9,
+        "specificLabel": "Clinical terminology comprehension"
+      },
+      {
+        "name": "Writing",
+        "importance": 3.9,
+        "level": 3.6,
+        "bucket": "deepen",
+        "targetEmphasis": 4.8,
+        "specificLabel": "Medical documentation clarity"
+      },
+      {
+        "name": "Monitoring",
+        "importance": 3.1,
+        "level": 2.9,
+        "bucket": "deepen",
+        "targetEmphasis": 4,
+        "specificLabel": "Transcription quality monitoring"
+      },
+      {
+        "name": "Speaking",
+        "importance": 3,
+        "level": 3.1,
+        "bucket": "deepen",
+        "targetEmphasis": 3.9,
+        "specificLabel": "Clarification call execution"
+      },
+      {
+        "name": "Critical Thinking",
+        "importance": 3,
+        "level": 3.1,
+        "bucket": "deepen",
+        "targetEmphasis": 3.9,
+        "specificLabel": "Error pattern analysis"
+      }
+    ],
+    "deepen": [
+      "Active Listening",
+      "Reading Comprehension",
+      "Writing"
+    ],
+    "add": [
+      "AI output validation",
+      "Speech-to-text calibration",
+      "Clinical data verification",
+      "HIPAA-compliant AI integration"
+    ],
+    "pivot": [
+      "Phlebotomists",
+      "Medical assistants",
+      "Pharmacy technicians"
+    ]
+  },
+  {
+    "id": "customer-service-representatives",
+    "slug": "customer-service-representatives",
+    "socCode": "43-4051",
+    "title": "Customer service representatives",
+    "pressureBand": "high",
+    "source": "estimated",
+    "headline": "AI pressure is high for Customer service representatives. Differentiate through judgment, client trust, and workflow ownership.",
+    "explanation": "This chart compares the skills this role relies on today with the ones worth emphasizing as automation pressure rises. Prioritize client-facing judgment, quality control, and adjacent roles where the same domain knowledge stays valuable. This profile is estimated from adjacent roles in the same occupation family.",
+    "currentSkills": [
+      {
+        "name": "Active Listening",
+        "importance": 4,
+        "level": 4,
+        "bucket": "deepen",
+        "targetEmphasis": 4.9,
+        "specificLabel": "Customer concern interpretation"
+      },
+      {
+        "name": "Speaking",
+        "importance": 4,
+        "level": 4,
+        "bucket": "deepen",
+        "targetEmphasis": 4.9,
+        "specificLabel": "Clear problem explanation"
+      },
+      {
+        "name": "Persuasion",
+        "importance": 3.9,
+        "level": 3.8,
+        "bucket": "deepen",
+        "targetEmphasis": 4.8,
+        "specificLabel": "Issue resolution persuasion"
+      },
+      {
+        "name": "Negotiation",
+        "importance": 3.8,
+        "level": 3.7,
+        "bucket": "deepen",
+        "targetEmphasis": 4.7,
+        "specificLabel": "Complaint settlement negotiation"
+      },
+      {
+        "name": "Service Orientation",
+        "importance": 3.7,
+        "level": 3.6,
+        "bucket": "deepen",
+        "targetEmphasis": 4.6,
+        "specificLabel": "Service improvement advocacy"
+      },
+      {
+        "name": "Social Perceptiveness",
+        "importance": 3.6,
+        "level": 3.5,
+        "bucket": "deepen",
+        "targetEmphasis": 4.5,
+        "specificLabel": "Emotional tone recognition"
+      }
+    ],
+    "deepen": [
+      "Active Listening",
+      "Speaking",
+      "Persuasion"
+    ],
+    "add": [
+      "AI chatbot escalation handling",
+      "Sentiment analysis validation",
+      "Personalized support routing",
+      "Hybrid service coordination"
+    ],
+    "pivot": [
+      "Management analysts",
+      "Insurance sales agents",
+      "Receptionists"
+    ]
+  },
+  {
+    "id": "general-office-clerks",
+    "slug": "general-office-clerks",
+    "socCode": "43-9061",
+    "title": "General office clerks",
+    "pressureBand": "high",
+    "source": "estimated",
+    "headline": "AI pressure is high for General office clerks. Differentiate through judgment, client trust, and workflow ownership.",
+    "explanation": "This chart compares the skills this role relies on today with the ones worth emphasizing as automation pressure rises. Prioritize client-facing judgment, quality control, and adjacent roles where the same domain knowledge stays valuable. This profile is estimated from adjacent roles in the same occupation family.",
+    "currentSkills": [
+      {
+        "name": "Active Listening",
+        "importance": 3.9,
+        "level": 3.8,
+        "bucket": "deepen",
+        "targetEmphasis": 4.8,
+        "specificLabel": "Document data entry accuracy"
+      },
+      {
+        "name": "Reading Comprehension",
+        "importance": 3.8,
+        "level": 3.8,
+        "bucket": "deepen",
+        "targetEmphasis": 4.7,
+        "specificLabel": "Policy document interpretation"
+      },
+      {
+        "name": "Coordination",
+        "importance": 3.7,
+        "level": 3.6,
+        "bucket": "deepen",
+        "targetEmphasis": 4.6,
+        "specificLabel": "Team task synchronization"
+      },
+      {
+        "name": "Service Orientation",
+        "importance": 3.6,
+        "level": 3.5,
+        "bucket": "deepen",
+        "targetEmphasis": 4.5,
+        "specificLabel": "Client request prioritization"
+      },
+      {
+        "name": "Monitoring",
+        "importance": 3.5,
+        "level": 3.4,
+        "bucket": "deepen",
+        "targetEmphasis": 4.4,
+        "specificLabel": "Workflow performance tracking"
+      },
+      {
+        "name": "Operations Analysis",
+        "importance": 3.1,
+        "level": 3,
+        "bucket": "add",
+        "targetEmphasis": 4.4,
+        "specificLabel": "Process efficiency evaluation"
+      }
+    ],
+    "deepen": [
+      "Active Listening",
+      "Reading Comprehension",
+      "Coordination"
+    ],
+    "add": [
+      "AI form validation",
+      "Automated report auditing",
+      "Digital onboarding support",
+      "Chatbot interaction management"
+    ],
+    "pivot": [
+      "Management analysts",
+      "Receptionists",
+      "Medical records specialists"
+    ]
+  }
+]
