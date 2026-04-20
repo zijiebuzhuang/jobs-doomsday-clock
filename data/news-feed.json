@@ -1,5 +1,67 @@
 [
   {
+    "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
+    "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
+    "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
+    "date": "2026-04-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "cybersecurity",
+      "financial-systems"
+    ],
+    "fetchedAt": "2026-04-20T11:00:43.040Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+    "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia",
+    "summary": "Google's development of new AI chips could accelerate AI capabilities, potentially increasing the pace at which AI replaces human jobs in tech and related fields.",
+    "date": "2026-04-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "tech innovation",
+      "job replacement"
+    ],
+    "fetchedAt": "2026-04-20T11:00:42.055Z",
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "verizon-ceo-urges-transparency-about-ai-job-cuts-let-s-data-science",
+    "title": "Verizon CEO Urges Transparency About AI Job Cuts - Let's Data Science",
+    "summary": "Verizon CEO's call for transparency about AI job cuts suggests a cautious approach to AI implementation, potentially slowing the pace of AI-driven job replacement.",
+    "date": "2026-04-20",
+    "source": "AI Workforce",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjFwNHBCbXN5SlBNWkhZY292YmRwZG82Njgza3p5OWVxMlV0SjJKOWNKcGhtRTdMTkhnaU0zaHQya1lyandUR1BYSVVnd0Q3YmpvTkU2cWlTQmx3UGxoaHJ2MFR0anlleXNsOUlWZnZBMFVkNE1xYWdkLWd3dGlfajZWWExqUGdiRHUwOFd1d0pfUjhX?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "job displacement",
+      "corporate responsibility"
+    ],
+    "fetchedAt": "2026-04-20T11:00:40.258Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
     "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
     "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
     "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
@@ -35,6 +97,27 @@
       "job displacement"
     ],
     "fetchedAt": "2026-04-19T11:00:34.227Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-surprising-facts-will-ai-replace-human-jobs-or-make-new-ones-talentsprint",
+    "title": "The Surprising Facts: Will AI Replace Human Jobs or Make New Ones? - TalentSprint",
+    "summary": "The article questions whether AI will replace jobs or create new ones, suggesting a more nuanced view of AI's impact on employment.",
+    "date": "2026-04-17",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVlpXZXY5ZWs0STM4bzN0TkEyOW1ZU0kxODg5Q1RXSF9WOFVWVXo1YW5BMEJwZ0hLclNLS2wwVmRnTWQtdHU4SUFYeXpCNDVLMVhYMkRmMkYtU2lndmttcUZsS3NWYzEyMHBJZA?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI impact",
+      "job market",
+      "labor trends"
+    ],
+    "fetchedAt": "2026-04-20T11:00:38.176Z",
     "categories": [
       "computer-and-information-technology",
       "management",
@@ -2305,6 +2388,27 @@
       "probation-officers-and-correctional-treatment-specialists",
       "community-health-workers",
       "school-and-career-counselors"
+    ]
+  },
+  {
+    "id": "ai-job-loss-statistics-2026-who-s-losing-who-s-hiring-etc-sq-magazine",
+    "title": "AI Job Loss Statistics 2026: Who's Losing, Who’s Hiring, etc. - SQ Magazine",
+    "summary": "The article provides statistics on AI job losses and hiring trends in 2026, indicating AI is accelerating job replacement in specific sectors.",
+    "date": "2026-02-23",
+    "source": "AI Jobs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVZGtlaml6c2JCWldzYlJWcnZTY1hQMVI4eXZ6SnQ5Z3lLaU5QUDE2VkU0ZEdRWElzX0MzX1g3T21NTFBTMHZvcXBPNjRVeTlpOXQ4ZnMzVzFnNUhu?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI job displacement",
+      "labor market trends",
+      "employment statistics"
+    ],
+    "fetchedAt": "2026-04-20T11:00:39.220Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "production"
     ]
   },
   {

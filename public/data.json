@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:49:32",
-  "minutesToMidnight": 10,
-  "exactMinutesToMidnight": 10.461,
+  "displayTime": "23:49:28",
+  "minutesToMidnight": 11,
+  "exactMinutesToMidnight": 10.528,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -2.539,
+  "newsAdjustment": -2.472,
   "categoryAdjustments": {
-    "healthcare": -0.304,
-    "life-physical-and-social-science": -0.316,
+    "healthcare": -0.322,
+    "life-physical-and-social-science": -0.335,
     "architecture-and-engineering": -0.35,
     "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.277,
-    "production": -0.341,
-    "installation-maintenance-and-repair": -0.277,
-    "education-training-and-library": -0.268,
+    "construction-and-extraction": -0.296,
+    "production": -0.35,
+    "installation-maintenance-and-repair": -0.296,
+    "education-training-and-library": -0.287,
     "office-and-administrative-support": -0.35,
-    "transportation-and-material-moving": -0.303,
-    "personal-care-and-service": -0.297,
-    "sales": -0.303,
-    "media-and-communication": -0.276,
+    "transportation-and-material-moving": -0.322,
+    "personal-care-and-service": -0.316,
+    "sales": -0.322,
+    "media-and-communication": -0.295,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.266,
-    "arts-and-design": -0.286,
-    "entertainment-and-sports": -0.277,
-    "protective-service": -0.294,
-    "food-preparation-and-serving": -0.277,
-    "legal": -0.286,
-    "math": -0.296,
-    "farming-fishing-and-forestry": -0.277,
-    "building-and-grounds-cleaning": -0.277
+    "community-and-social-service": -0.285,
+    "arts-and-design": -0.304,
+    "entertainment-and-sports": -0.296,
+    "protective-service": -0.313,
+    "food-preparation-and-serving": -0.296,
+    "legal": -0.304,
+    "math": -0.315,
+    "farming-fishing-and-forestry": -0.296,
+    "building-and-grounds-cleaning": -0.296
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.276,
+  "macroReplacementRate": 49.271,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,68 @@
   ],
   "newsFeed": [
     {
+      "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
+      "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
+      "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
+      "date": "2026-04-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "cybersecurity",
+        "financial-systems"
+      ],
+      "fetchedAt": "2026-04-20T11:00:43.040Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+      "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia",
+      "summary": "Google's development of new AI chips could accelerate AI capabilities, potentially increasing the pace at which AI replaces human jobs in tech and related fields.",
+      "date": "2026-04-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "tech innovation",
+        "job replacement"
+      ],
+      "fetchedAt": "2026-04-20T11:00:42.055Z",
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ]
+    },
+    {
+      "id": "verizon-ceo-urges-transparency-about-ai-job-cuts-let-s-data-science",
+      "title": "Verizon CEO Urges Transparency About AI Job Cuts - Let's Data Science",
+      "summary": "Verizon CEO's call for transparency about AI job cuts suggests a cautious approach to AI implementation, potentially slowing the pace of AI-driven job replacement.",
+      "date": "2026-04-20",
+      "source": "AI Workforce",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjFwNHBCbXN5SlBNWkhZY292YmRwZG82Njgza3p5OWVxMlV0SjJKOWNKcGhtRTdMTkhnaU0zaHQya1lyandUR1BYSVVnd0Q3YmpvTkU2cWlTQmx3UGxoaHJ2MFR0anlleXNsOUlWZnZBMFVkNE1xYWdkLWd3dGlfajZWWExqUGdiRHUwOFd1d0pfUjhX?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "job displacement",
+        "corporate responsibility"
+      ],
+      "fetchedAt": "2026-04-20T11:00:40.258Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
       "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
       "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
       "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
@@ -3483,6 +3545,27 @@
         "job displacement"
       ],
       "fetchedAt": "2026-04-19T11:00:34.227Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-surprising-facts-will-ai-replace-human-jobs-or-make-new-ones-talentsprint",
+      "title": "The Surprising Facts: Will AI Replace Human Jobs or Make New Ones? - TalentSprint",
+      "summary": "The article questions whether AI will replace jobs or create new ones, suggesting a more nuanced view of AI's impact on employment.",
+      "date": "2026-04-17",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVlpXZXY5ZWs0STM4bzN0TkEyOW1ZU0kxODg5Q1RXSF9WOFVWVXo1YW5BMEJwZ0hLclNLS2wwVmRnTWQtdHU4SUFYeXpCNDVLMVhYMkRmMkYtU2lndmttcUZsS3NWYzEyMHBJZA?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI impact",
+        "job market",
+        "labor trends"
+      ],
+      "fetchedAt": "2026-04-20T11:00:38.176Z",
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3815,127 +3898,14 @@
         "web-developers"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "gemini-can-now-pull-from-google-photos-to-generate-personalized-images",
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "summary": "AI's ability to generate personalized images using user data may increase automation in creative and design fields, potentially replacing human roles.",
-      "date": "2026-04-16",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI-generated content",
-        "personalization",
-        "creative automation"
-      ],
-      "fetchedAt": "2026-04-17T11:00:51.057Z",
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "media-and-communication"
-      ],
-      "occupationIDs": [
-        "graphic-designers",
-        "multimedia-artists-and-animators",
-        "photographers",
-        "set-and-exhibit-designers",
-        "fashion-designers"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-s-big-codex-update-is-a-direct-shot-at-claude-code",
-      "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-      "summary": "OpenAI's Codex update enhances AI's ability to interact with desktop applications, increasing its potential to replace human coding and development tasks.",
-      "date": "2026-04-16",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "coding automation",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-17T11:00:50.006Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "web-developers",
-        "computer-programmers",
-        "database-administrators",
-        "information-security-analysts"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486"
-    },
-    {
-      "id": "why-having-humans-in-the-loop-in-an-ai-war-is-an-illusion",
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "summary": "The article highlights the increasing role of AI in warfare, suggesting that AI is moving beyond assisting humans to taking more autonomous roles, which could accelerate job displacement in military and related sectors.",
-      "date": "2026-04-16",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI in warfare",
-        "job displacement",
-        "military technology"
-      ],
-      "fetchedAt": "2026-04-17T11:00:49.010Z",
-      "categories": [
-        "protective-service",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "occupationIDs": [
-        "firefighters",
-        "police-and-detectives",
-        "security-guards",
-        "computer-systems-analysts",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "treating-enterprise-ai-as-an-operating-layer",
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "The article suggests that the structural control of AI operating layers may slow the widespread replacement of human jobs by focusing on governance and application rather than just model capabilities.",
-      "date": "2026-04-16",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI governance",
-        "enterprise AI",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-17T11:00:47.820Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "computer-and-information-systems-managers",
-        "software-developers",
-        "database-administrators",
-        "information-security-analysts",
-        "network-and-computer-systems-administrators"
-      ]
     }
   ],
-  "generatedAt": "2026-04-19T12:00:00.000Z",
+  "generatedAt": "2026-04-20T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Outpace Job Market Adjustments",
-      "preview": "New AI tools and corporate moves signal growing replacement pressure.",
-      "body": "Recent developments, including Cerebras' IPO and Anthropic's new cybersecurity model, highlight continued AI progress that could accelerate job displacement. However, some leadership changes at OpenAI may slow specific areas of development. Overall, the trend remains tilted toward advancement."
+      "title": "Regulatory Concerns and Tech Advances Shape AI Job Trends",
+      "preview": "Regulatory scrutiny and tech innovation both influence AI job replacement pressures.",
+      "body": "Today's news highlights a mix of regulatory caution and technological advancement. Bloomberg reports increased scrutiny of AI in banking, potentially delaying job replacement, while Google's new AI chips and Cerebras' IPO suggest accelerating AI capabilities. Verizon's call for transparency and discussions around AI's broader impact also signal a cautious approach to implementation."
     }
   }
 }

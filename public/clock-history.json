@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-04-20",
+    "minutesToMidnight": 11,
+    "exactMinutesToMidnight": 10.528,
+    "macroReplacementRate": 49.271,
+    "newsAdjustment": -2.472,
+    "categoryAdjustments": {
+      "healthcare": -0.322,
+      "life-physical-and-social-science": -0.335,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.296,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.296,
+      "education-training-and-library": -0.287,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.322,
+      "personal-care-and-service": -0.316,
+      "sales": -0.322,
+      "media-and-communication": -0.295,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.285,
+      "arts-and-design": -0.304,
+      "entertainment-and-sports": -0.296,
+      "protective-service": -0.313,
+      "food-preparation-and-serving": -0.296,
+      "legal": -0.304,
+      "math": -0.315,
+      "farming-fishing-and-forestry": -0.296,
+      "building-and-grounds-cleaning": -0.296
+    },
+    "newsFeed": [
+      {
+        "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
+        "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
+        "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
+        "date": "2026-04-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "cybersecurity",
+          "financial-systems"
+        ],
+        "fetchedAt": "2026-04-20T11:00:43.040Z",
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+        "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia",
+        "summary": "Google's development of new AI chips could accelerate AI capabilities, potentially increasing the pace at which AI replaces human jobs in tech and related fields.",
+        "date": "2026-04-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "tech innovation",
+          "job replacement"
+        ],
+        "fetchedAt": "2026-04-20T11:00:42.055Z",
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "verizon-ceo-urges-transparency-about-ai-job-cuts-let-s-data-science",
+        "title": "Verizon CEO Urges Transparency About AI Job Cuts - Let's Data Science",
+        "summary": "Verizon CEO's call for transparency about AI job cuts suggests a cautious approach to AI implementation, potentially slowing the pace of AI-driven job replacement.",
+        "date": "2026-04-20",
+        "source": "AI Workforce",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjFwNHBCbXN5SlBNWkhZY292YmRwZG82Njgza3p5OWVxMlV0SjJKOWNKcGhtRTdMTkhnaU0zaHQya1lyandUR1BYSVVnd0Q3YmpvTkU2cWlTQmx3UGxoaHJ2MFR0anlleXNsOUlWZnZBMFVkNE1xYWdkLWd3dGlfajZWWExqUGdiRHUwOFd1d0pfUjhX?oc=5",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "job displacement",
+          "corporate responsibility"
+        ],
+        "fetchedAt": "2026-04-20T11:00:40.258Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "the-surprising-facts-will-ai-replace-human-jobs-or-make-new-ones-talentsprint",
+        "title": "The Surprising Facts: Will AI Replace Human Jobs or Make New Ones? - TalentSprint",
+        "summary": "The article questions whether AI will replace jobs or create new ones, suggesting a more nuanced view of AI's impact on employment.",
+        "date": "2026-04-17",
+        "source": "AI Jobs",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVlpXZXY5ZWs0STM4bzN0TkEyOW1ZU0kxODg5Q1RXSF9WOFVWVXo1YW5BMEJwZ0hLclNLS2wwVmRnTWQtdHU4SUFYeXpCNDVLMVhYMkRmMkYtU2lndmttcUZsS3NWYzEyMHBJZA?oc=5",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI impact",
+          "job market",
+          "labor trends"
+        ],
+        "fetchedAt": "2026-04-20T11:00:38.176Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-job-loss-statistics-2026-who-s-losing-who-s-hiring-etc-sq-magazine",
+        "title": "AI Job Loss Statistics 2026: Who's Losing, Who’s Hiring, etc. - SQ Magazine",
+        "summary": "The article provides statistics on AI job losses and hiring trends in 2026, indicating AI is accelerating job replacement in specific sectors.",
+        "date": "2026-02-23",
+        "source": "AI Jobs",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVZGtlaml6c2JCWldzYlJWcnZTY1hQMVI4eXZ6SnQ5Z3lLaU5QUDE2VkU0ZEdRWElzX0MzX1g3T21NTFBTMHZvcXBPNjRVeTlpOXQ4ZnMzVzFnNUhu?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI job displacement",
+          "labor market trends",
+          "employment statistics"
+        ],
+        "fetchedAt": "2026-04-20T11:00:39.220Z",
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "production"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by AI Job Loss Statistics 2026: Who's Losing, Who’s Hiring, etc. - SQ Magazine.",
+        "body": "This update is split between 2 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"AI Job Loss Statistics 2026: Who's Losing, Who’s Hiring, etc. - SQ Magazine\" (AI Jobs), while the clearest drag comes from \"Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.472 minutes. Updated 2026-04-20T12:00:00.000Z, with the macro replacement estimate at 49.3%."
+      }
+    }
+  },
+  {
     "date": "2026-04-19",
     "minutesToMidnight": 10,
     "exactMinutesToMidnight": 10.461,
@@ -5989,47 +6135,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-21T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-20",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-20T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
