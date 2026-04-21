@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:49:28",
-  "minutesToMidnight": 11,
-  "exactMinutesToMidnight": 10.528,
+  "displayTime": "23:49:39",
+  "minutesToMidnight": 10,
+  "exactMinutesToMidnight": 10.349,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -2.472,
+  "newsAdjustment": -2.651,
   "categoryAdjustments": {
-    "healthcare": -0.322,
-    "life-physical-and-social-science": -0.335,
+    "healthcare": -0.349,
+    "life-physical-and-social-science": -0.35,
     "architecture-and-engineering": -0.35,
     "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.296,
+    "construction-and-extraction": -0.323,
     "production": -0.35,
-    "installation-maintenance-and-repair": -0.296,
-    "education-training-and-library": -0.287,
+    "installation-maintenance-and-repair": -0.323,
+    "education-training-and-library": -0.314,
     "office-and-administrative-support": -0.35,
-    "transportation-and-material-moving": -0.322,
-    "personal-care-and-service": -0.316,
-    "sales": -0.322,
-    "media-and-communication": -0.295,
+    "transportation-and-material-moving": -0.348,
+    "personal-care-and-service": -0.343,
+    "sales": -0.348,
+    "media-and-communication": -0.34,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.285,
-    "arts-and-design": -0.304,
-    "entertainment-and-sports": -0.296,
-    "protective-service": -0.313,
-    "food-preparation-and-serving": -0.296,
-    "legal": -0.304,
-    "math": -0.315,
-    "farming-fishing-and-forestry": -0.296,
-    "building-and-grounds-cleaning": -0.296
+    "community-and-social-service": -0.312,
+    "arts-and-design": -0.331,
+    "entertainment-and-sports": -0.323,
+    "protective-service": -0.34,
+    "food-preparation-and-serving": -0.323,
+    "legal": -0.331,
+    "math": -0.342,
+    "farming-fishing-and-forestry": -0.323,
+    "building-and-grounds-cleaning": -0.323
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.271,
+  "macroReplacementRate": 49.284,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,89 @@
   ],
   "newsFeed": [
     {
+      "id": "mythos-access-must-be-granted-on-level-playing-field-nagel-says",
+      "title": "Mythos Access Must Be Granted on Level Playing Field, Nagel Says",
+      "summary": "The call for equitable access to the Mythos AI model may slow the pace of AI job replacement by ensuring fair evaluation of its risks and benefits.",
+      "date": "2026-04-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-21/mythos-access-must-be-granted-on-level-playing-field-nagel-says",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "regulation",
+        "equity"
+      ],
+      "fetchedAt": "2026-04-21T11:00:41.308Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "summary": "NSA's use of Anthropic's AI model suggests increased adoption of advanced AI in sensitive sectors, potentially accelerating AI's role in job replacement.",
+      "date": "2026-04-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "government use",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-21T11:00:40.162Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "summary": "Google's expansion of Gemini in Chrome to new countries may increase AI's presence in everyday tasks, potentially affecting jobs that involve digital interaction and information processing.",
+      "date": "2026-04-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "technology rollout",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-21T11:00:39.158Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "media-and-communication"
+      ]
+    },
+    {
+      "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "summary": "This investment and cloud spending agreement between Amazon and Anthropic likely accelerates AI development, which could lead to increased automation and job replacement in tech and related fields.",
+      "date": "2026-04-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "cloud computing",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-21T11:00:38.088Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
       "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
       "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
       "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
@@ -3785,127 +3868,14 @@
         "credit-counselors",
         "budget-analysts"
       ]
-    },
-    {
-      "id": "iconiq-go-to-wealth-adviser-for-tech-s-elite-is-putting-billions-into-ai",
-      "title": "Iconiq, Go-To Wealth Adviser for Tech’s Elite, Is Putting Billions Into AI",
-      "summary": "Investment in AI by a major wealth adviser suggests growing confidence in AI's potential, which may accelerate its adoption and job replacement in various sectors.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/iconiq-advisor-to-tech-billionaires-emerges-as-major-ai-investor",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI investment",
-        "job replacement",
-        "wealth management"
-      ],
-      "fetchedAt": "2026-04-17T11:00:55.798Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "personal-financial-advisors",
-        "software-developers",
-        "data-scientists",
-        "computer-systems-analysts"
-      ]
-    },
-    {
-      "id": "anthropic-plots-major-london-expansion",
-      "title": "Anthropic Plots Major London Expansion",
-      "summary": "Anthropic's London expansion suggests growth in human workforce, potentially slowing AI-driven job replacement in the short term.",
-      "date": "2026-04-16",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "workforce growth",
-        "company expansion"
-      ],
-      "fetchedAt": "2026-04-17T11:00:54.749Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "computer-and-information-systems-managers",
-        "software-developers",
-        "data-scientists",
-        "project-management-specialists",
-        "management-analysts"
-      ]
-    },
-    {
-      "id": "the-battle-for-openai-s-soul",
-      "title": "The Battle for OpenAI’s Soul",
-      "summary": "The legal battle over OpenAI's mission may slow the development or deployment of AI, potentially delaying its impact on jobs.",
-      "date": "2026-04-16",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI governance",
-        "ethical AI",
-        "corporate conflict"
-      ],
-      "fetchedAt": "2026-04-17T11:00:53.775Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "occupationIDs": [
-        "computer-and-information-systems-managers",
-        "software-developers",
-        "data-scientists",
-        "computer-programmers",
-        "information-security-analysts"
-      ]
-    },
-    {
-      "id": "anthropic-releases-a-new-opus-model-amid-mythos-preview-buzz",
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-      "summary": "The release of Claude Opus 4.7 indicates improved AI capabilities in complex coding and creative tasks, potentially accelerating AI's role in replacing human jobs in tech and related fields.",
-      "date": "2026-04-16",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI advancement",
-        "software engineering",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-17T11:00:52.142Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ],
-      "occupationIDs": [
-        "software-developers",
-        "computer-systems-analysts",
-        "database-administrators",
-        "information-security-analysts",
-        "web-developers"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-04-20T12:00:00.000Z",
+  "generatedAt": "2026-04-21T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory Concerns and Tech Advances Shape AI Job Trends",
-      "preview": "Regulatory scrutiny and tech innovation both influence AI job replacement pressures.",
-      "body": "Today's news highlights a mix of regulatory caution and technological advancement. Bloomberg reports increased scrutiny of AI in banking, potentially delaying job replacement, while Google's new AI chips and Cerebras' IPO suggest accelerating AI capabilities. Verizon's call for transparency and discussions around AI's broader impact also signal a cautious approach to implementation."
+      "title": "AI Job Replacement Pressure Stabilizes Slightly",
+      "preview": "Mixed signals suggest a balanced but cautious trajectory in AI job replacement.",
+      "body": "Today's news shows a mix of advances and delays, with notable headlines like 'Mythos Access Must Be Granted on Level Playing Field' and 'NSA spies are reportedly using Anthropic’s Mythos' reflecting both regulatory caution and increased adoption. The overall balance suggests steady pressure without major acceleration or slowdown."
     }
   }
 }

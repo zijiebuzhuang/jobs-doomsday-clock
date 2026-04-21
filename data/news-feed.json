@@ -1,5 +1,88 @@
 [
   {
+    "id": "mythos-access-must-be-granted-on-level-playing-field-nagel-says",
+    "title": "Mythos Access Must Be Granted on Level Playing Field, Nagel Says",
+    "summary": "The call for equitable access to the Mythos AI model may slow the pace of AI job replacement by ensuring fair evaluation of its risks and benefits.",
+    "date": "2026-04-21",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-21/mythos-access-must-be-granted-on-level-playing-field-nagel-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "regulation",
+      "equity"
+    ],
+    "fetchedAt": "2026-04-21T11:00:41.308Z",
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud",
+    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+    "summary": "NSA's use of Anthropic's AI model suggests increased adoption of advanced AI in sensitive sectors, potentially accelerating AI's role in job replacement.",
+    "date": "2026-04-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "government use",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-21T11:00:40.162Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
+    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "summary": "Google's expansion of Gemini in Chrome to new countries may increase AI's presence in everyday tasks, potentially affecting jobs that involve digital interaction and information processing.",
+    "date": "2026-04-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "technology rollout",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-21T11:00:39.158Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "media-and-communication"
+    ]
+  },
+  {
+    "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "summary": "This investment and cloud spending agreement between Amazon and Anthropic likely accelerates AI development, which could lead to increased automation and job replacement in tech and related fields.",
+    "date": "2026-04-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "cloud computing",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-21T11:00:38.088Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
     "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
     "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
