@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:49:39",
+  "displayTime": "23:49:49",
   "minutesToMidnight": 10,
-  "exactMinutesToMidnight": 10.349,
+  "exactMinutesToMidnight": 10.19,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -2.651,
+  "newsAdjustment": -2.81,
   "categoryAdjustments": {
-    "healthcare": -0.349,
+    "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
     "architecture-and-engineering": -0.35,
     "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.323,
+    "construction-and-extraction": -0.341,
     "production": -0.35,
-    "installation-maintenance-and-repair": -0.323,
-    "education-training-and-library": -0.314,
+    "installation-maintenance-and-repair": -0.341,
+    "education-training-and-library": -0.332,
     "office-and-administrative-support": -0.35,
-    "transportation-and-material-moving": -0.348,
-    "personal-care-and-service": -0.343,
-    "sales": -0.348,
-    "media-and-communication": -0.34,
+    "transportation-and-material-moving": -0.35,
+    "personal-care-and-service": -0.35,
+    "sales": -0.35,
+    "media-and-communication": -0.35,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.312,
-    "arts-and-design": -0.331,
-    "entertainment-and-sports": -0.323,
-    "protective-service": -0.34,
-    "food-preparation-and-serving": -0.323,
-    "legal": -0.331,
-    "math": -0.342,
-    "farming-fishing-and-forestry": -0.323,
-    "building-and-grounds-cleaning": -0.323
+    "community-and-social-service": -0.331,
+    "arts-and-design": -0.35,
+    "entertainment-and-sports": -0.341,
+    "protective-service": -0.35,
+    "food-preparation-and-serving": -0.341,
+    "legal": -0.35,
+    "math": -0.35,
+    "farming-fishing-and-forestry": -0.341,
+    "building-and-grounds-cleaning": -0.341
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.284,
+  "macroReplacementRate": 49.295,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,177 @@
   ],
   "newsFeed": [
     {
+      "id": "anthropic-s-mythos-accessed-by-unauthorized-users",
+      "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
+      "summary": "Unauthorized access to a powerful AI model raises security concerns, potentially slowing AI adoption and job replacement efforts due to increased risk management needs.",
+      "date": "2026-04-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "cybersecurity",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-22T11:00:53.715Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "japan-top-officials-to-meet-banks-to-discuss-mythos-threat",
+      "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
+      "summary": "Concerns over AI technology prompt government discussion, potentially slowing its adoption in the workforce.",
+      "date": "2026-04-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "government-policy",
+        "AI-impact"
+      ],
+      "fetchedAt": "2026-04-22T11:00:51.982Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "management"
+      ]
+    },
+    {
+      "id": "openai-poaches-airbnb-executive-to-be-first-director-for-emea",
+      "title": "OpenAI Poaches Airbnb Executive to be First Director for EMEA",
+      "summary": "Hiring an executive to manage AI operations in Europe may indicate a focus on regulatory and political concerns, potentially slowing the rapid replacement of human jobs by AI.",
+      "date": "2026-04-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/openai-hires-airbnb-executive-as-first-director-for-europe-middle-east-africa",
+      "effect": "delay",
+      "impactScore": 2,
+      "tags": [
+        "AI expansion",
+        "regulation",
+        "labor market"
+      ],
+      "fetchedAt": "2026-04-22T11:00:51.003Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands",
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "summary": "A powerful AI cybersecurity tool was accessed by unauthorized users, raising concerns about security and potentially slowing the adoption of AI in critical sectors.",
+      "date": "2026-04-22",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "cybersecurity",
+        "unauthorized access"
+      ],
+      "fetchedAt": "2026-04-22T11:00:46.323Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-s-updated-image-generator-can-now-pull-information-from-the-web",
+      "title": "OpenAI’s updated image generator can now pull information from the web",
+      "summary": "Improved AI image generation capabilities may increase automation in design and creative fields, accelerating job displacement.",
+      "date": "2026-04-21",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI advancement",
+        "image generation",
+        "job replacement"
+      ],
+      "fetchedAt": "2026-04-22T11:00:48.366Z",
+      "categories": [
+        "arts-and-design",
+        "computer-and-information-technology",
+        "media-and-communication"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion",
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "summary": "SpaceX's potential $60 billion acquisition of Cursor highlights growing investment in AI coding tools, accelerating AI's role in replacing human jobs in tech and software development.",
+      "date": "2026-04-21",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "job displacement",
+        "tech industry"
+      ],
+      "fetchedAt": "2026-04-22T11:00:47.396Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "chatgpt-s-new-images-2-0-model-is-surprisingly-good-at-generating-text",
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "summary": "Improved AI image generation capabilities suggest advancing AI technology, potentially increasing future job displacement risks.",
+      "date": "2026-04-21",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "technological advancement",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-22T11:00:43.577Z",
+      "categories": [
+        "computer-and-information-technology",
+        "arts-and-design",
+        "_all"
+      ]
+    },
+    {
+      "id": "spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "summary": "The potential acquisition of Cursor by SpaceX could accelerate AI adoption in software development, increasing the likelihood of AI replacing human jobs in tech-related fields.",
+      "date": "2026-04-21",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "tech industry",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-22T11:00:42.639Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
       "id": "mythos-access-must-be-granted-on-level-playing-field-nagel-says",
       "title": "Mythos Access Must Be Granted on Level Playing Field, Nagel Says",
       "summary": "The call for equitable access to the Mythos AI model may slow the pace of AI job replacement by ensuring fair evaluation of its risks and benefits.",
@@ -3465,6 +3636,27 @@
       "categories": [
         "computer-and-information-technology",
         "_all"
+      ]
+    },
+    {
+      "id": "google-rolls-out-gemini-in-chrome-in-apac-countries",
+      "title": "Google rolls out Gemini in Chrome in APAC countries",
+      "summary": "Google's rollout of Gemini in Chrome across APAC countries accelerates AI integration into everyday tools, potentially impacting jobs that rely on digital workflows and automation.",
+      "date": "2026-04-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "automation",
+        "tech integration"
+      ],
+      "fetchedAt": "2026-04-22T11:00:45.296Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "management"
       ]
     },
     {
@@ -3675,207 +3867,14 @@
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "openai-executive-kevin-weil-is-leaving-the-company",
-      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-      "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
-      "date": "2026-04-17",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "effect": "delay",
-      "impactScore": 2,
-      "tags": [
-        "executive-changes",
-        "ai-development"
-      ],
-      "fetchedAt": "2026-04-19T11:00:43.906Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
-      "date": "2026-04-17",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "government contracts",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-04-19T11:00:41.961Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-s-former-sora-boss-is-leaving",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
-      "date": "2026-04-17",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "job market",
-        "company restructuring"
-      ],
-      "fetchedAt": "2026-04-19T11:00:40.038Z",
-      "categories": [
-        "computer-and-information-technology",
-        "media-and-communication",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "corporate strategy",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-19T11:00:38.959Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "automation",
-        "design"
-      ],
-      "fetchedAt": "2026-04-19T11:00:37.890Z",
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "job displacement",
-        "industry trends"
-      ],
-      "fetchedAt": "2026-04-19T11:00:36.936Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "organizational change",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-04-19T11:00:35.923Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
-      "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
-      "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
-      "date": "2026-04-17",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "universal-basic-income",
-        "AI-employment-impact",
-        "policy-response"
-      ],
-      "fetchedAt": "2026-04-19T11:00:33.153Z",
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
-      "title": "Nervous Indian Fintechs Push Anthropic for Access to Mythos",
-      "summary": "Indian fintech companies seeking early access to a powerful AI model may accelerate AI adoption in financial services, increasing the risk of job displacement in the sector.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "fintech",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-04-17T11:00:56.853Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "loan-officers",
-        "financial-examiners",
-        "credit-counselors",
-        "budget-analysts"
-      ]
     }
   ],
-  "generatedAt": "2026-04-21T12:00:00.000Z",
+  "generatedAt": "2026-04-22T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "Mixed signals suggest a balanced but cautious trajectory in AI job replacement.",
-      "body": "Today's news shows a mix of advances and delays, with notable headlines like 'Mythos Access Must Be Granted on Level Playing Field' and 'NSA spies are reportedly using Anthropic’s Mythos' reflecting both regulatory caution and increased adoption. The overall balance suggests steady pressure without major acceleration or slowdown."
+      "title": "Security Concerns and AI Investment Shape Today's Job Trends",
+      "preview": "Security breaches and major AI deals influence job replacement dynamics.",
+      "body": "Today's news shows a mix of delays and advances, with security concerns slowing adoption and major investments accelerating AI integration. Key headlines include unauthorized access to AI models and SpaceX's potential $60B deal for Cursor, highlighting both risks and growth in AI-driven job displacement."
     }
   }
 }

@@ -1,5 +1,176 @@
 [
   {
+    "id": "anthropic-s-mythos-accessed-by-unauthorized-users",
+    "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
+    "summary": "Unauthorized access to a powerful AI model raises security concerns, potentially slowing AI adoption and job replacement efforts due to increased risk management needs.",
+    "date": "2026-04-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "cybersecurity",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-22T11:00:53.715Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "japan-top-officials-to-meet-banks-to-discuss-mythos-threat",
+    "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
+    "summary": "Concerns over AI technology prompt government discussion, potentially slowing its adoption in the workforce.",
+    "date": "2026-04-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "government-policy",
+      "AI-impact"
+    ],
+    "fetchedAt": "2026-04-22T11:00:51.982Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "openai-poaches-airbnb-executive-to-be-first-director-for-emea",
+    "title": "OpenAI Poaches Airbnb Executive to be First Director for EMEA",
+    "summary": "Hiring an executive to manage AI operations in Europe may indicate a focus on regulatory and political concerns, potentially slowing the rapid replacement of human jobs by AI.",
+    "date": "2026-04-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/openai-hires-airbnb-executive-as-first-director-for-europe-middle-east-africa",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "AI expansion",
+      "regulation",
+      "labor market"
+    ],
+    "fetchedAt": "2026-04-22T11:00:51.003Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands",
+    "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+    "summary": "A powerful AI cybersecurity tool was accessed by unauthorized users, raising concerns about security and potentially slowing the adoption of AI in critical sectors.",
+    "date": "2026-04-22",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "cybersecurity",
+      "unauthorized access"
+    ],
+    "fetchedAt": "2026-04-22T11:00:46.323Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-s-updated-image-generator-can-now-pull-information-from-the-web",
+    "title": "OpenAI’s updated image generator can now pull information from the web",
+    "summary": "Improved AI image generation capabilities may increase automation in design and creative fields, accelerating job displacement.",
+    "date": "2026-04-21",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI advancement",
+      "image generation",
+      "job replacement"
+    ],
+    "fetchedAt": "2026-04-22T11:00:48.366Z",
+    "categories": [
+      "arts-and-design",
+      "computer-and-information-technology",
+      "media-and-communication"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion",
+    "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "summary": "SpaceX's potential $60 billion acquisition of Cursor highlights growing investment in AI coding tools, accelerating AI's role in replacing human jobs in tech and software development.",
+    "date": "2026-04-21",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "job displacement",
+      "tech industry"
+    ],
+    "fetchedAt": "2026-04-22T11:00:47.396Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "chatgpt-s-new-images-2-0-model-is-surprisingly-good-at-generating-text",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "summary": "Improved AI image generation capabilities suggest advancing AI technology, potentially increasing future job displacement risks.",
+    "date": "2026-04-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "technological advancement",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-22T11:00:43.577Z",
+    "categories": [
+      "computer-and-information-technology",
+      "arts-and-design",
+      "_all"
+    ]
+  },
+  {
+    "id": "spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b",
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "summary": "The potential acquisition of Cursor by SpaceX could accelerate AI adoption in software development, increasing the likelihood of AI replacing human jobs in tech-related fields.",
+    "date": "2026-04-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "tech industry",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-22T11:00:42.639Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "mythos-access-must-be-granted-on-level-playing-field-nagel-says",
     "title": "Mythos Access Must Be Granted on Level Playing Field, Nagel Says",
     "summary": "The call for equitable access to the Mythos AI model may slow the pace of AI job replacement by ensuring fair evaluation of its risks and benefits.",
@@ -17,6 +188,27 @@
     "categories": [
       "computer-and-information-technology",
       "_all"
+    ]
+  },
+  {
+    "id": "google-rolls-out-gemini-in-chrome-in-apac-countries",
+    "title": "Google rolls out Gemini in Chrome in APAC countries",
+    "summary": "Google's rollout of Gemini in Chrome across APAC countries accelerates AI integration into everyday tools, potentially impacting jobs that rely on digital workflows and automation.",
+    "date": "2026-04-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "automation",
+      "tech integration"
+    ],
+    "fetchedAt": "2026-04-22T11:00:45.296Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "management"
     ]
   },
   {
@@ -2449,28 +2641,20 @@
   {
     "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
     "title": "Anthropic finally reveals which jobs AI cannot replace - thestreet.com",
-    "summary": "The article highlights jobs that AI cannot replace, suggesting limitations in AI's ability to take over certain roles.",
+    "summary": "The article suggests certain jobs are resistant to AI replacement, potentially slowing the pace of AI-driven job displacement.",
     "date": "2026-03-08",
     "source": "AI Jobs",
     "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXZuMFBoQnNjblhlenQ3c0pqN3FuSzZrNlpfcVN0YkN5TTJGOGEwRGoycWVCLWJSSHhWYTlaWWwySmJLSjhRNHVpR042a3lUa1l2a0twYThTN1QtVkNnZTdYaEZXNlpjVi1qTFplRENKYzYtZGloZDBsT0xpMmR0amxBVXNFWURCQk52blRmd1BHdw?oc=5",
     "effect": "delay",
     "impactScore": 3,
     "tags": [
-      "AI limitations",
-      "job replacement"
+      "AI impact",
+      "job displacement",
+      "labor market"
     ],
-    "fetchedAt": "2026-04-03T02:06:11.218Z",
+    "fetchedAt": "2026-04-22T11:00:40.846Z",
     "categories": [
-      "personal-care-and-service",
-      "education-training-and-library",
-      "community-and-social-service"
-    ],
-    "occupationIDs": [
-      "social-workers",
-      "rehabilitation-counselors",
-      "probation-officers-and-correctional-treatment-specialists",
-      "community-health-workers",
-      "school-and-career-counselors"
+      "_all"
     ]
   },
   {
