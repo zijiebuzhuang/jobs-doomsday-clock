@@ -1,37 +1,37 @@
 {
-  "displayTime": "23:49:49",
+  "displayTime": "23:50:26",
   "minutesToMidnight": 10,
-  "exactMinutesToMidnight": 10.19,
+  "exactMinutesToMidnight": 9.562,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -2.81,
+  "newsAdjustment": -3.438,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
     "architecture-and-engineering": -0.35,
     "management": -0.35,
     "business-and-financial": -0.35,
-    "construction-and-extraction": -0.341,
+    "construction-and-extraction": -0.35,
     "production": -0.35,
-    "installation-maintenance-and-repair": -0.341,
-    "education-training-and-library": -0.332,
+    "installation-maintenance-and-repair": -0.35,
+    "education-training-and-library": -0.35,
     "office-and-administrative-support": -0.35,
     "transportation-and-material-moving": -0.35,
     "personal-care-and-service": -0.35,
     "sales": -0.35,
     "media-and-communication": -0.35,
     "computer-and-information-technology": -0.35,
-    "community-and-social-service": -0.331,
+    "community-and-social-service": -0.35,
     "arts-and-design": -0.35,
-    "entertainment-and-sports": -0.341,
+    "entertainment-and-sports": -0.35,
     "protective-service": -0.35,
-    "food-preparation-and-serving": -0.341,
+    "food-preparation-and-serving": -0.35,
     "legal": -0.35,
     "math": -0.35,
-    "farming-fishing-and-forestry": -0.341,
-    "building-and-grounds-cleaning": -0.341
+    "farming-fishing-and-forestry": -0.35,
+    "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.295,
+  "macroReplacementRate": 49.338,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,195 @@
   ],
   "newsFeed": [
     {
+      "id": "odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast-",
+      "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
+      "summary": "The shift from traditional search engines to AI models like Google's Gemini could accelerate AI's role in replacing human jobs by altering how information is accessed and processed.",
+      "date": "2026-04-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/audio/2026-04-23/odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "job displacement",
+        "tech disruption"
+      ],
+      "fetchedAt": "2026-04-23T11:00:44.420Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
+      "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
+      "summary": "The shift from traditional search engines to AI-driven information retrieval signals a growing role for AI in replacing human-driven online queries, impacting jobs related to search and advertising.",
+      "date": "2026-04-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-23/google-s-reid-on-who-will-own-search-in-a-world-of-ai-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "job displacement",
+        "search technology"
+      ],
+      "fetchedAt": "2026-04-23T11:00:43.313Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
+      "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire",
+      "summary": "Tencent's AI model upgrade signals increased competition in the AI sector, potentially accelerating AI-driven job replacement in tech and related fields.",
+      "date": "2026-04-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-23/tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "tech competition",
+        "job replacement"
+      ],
+      "fetchedAt": "2026-04-23T11:00:42.214Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-meet-will-take-ai-notes-for-in-person-meetings-too",
+      "title": "Google Meet will take AI notes for in-person meetings too",
+      "summary": "Google's expansion of AI meeting note-taking to in-person and other platforms increases the potential for AI to replace human roles in administrative and communication tasks.",
+      "date": "2026-04-22",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workplace automation",
+        "meeting technology"
+      ],
+      "fetchedAt": "2026-04-23T11:00:41.219Z",
+      "categories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-mythos-rollout-has-missed-america-s-cybersecurity-agency",
+      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+      "summary": "The exclusion of CISA from using Anthropic's AI cybersecurity tool may slow the adoption of AI in critical government roles, potentially delaying job replacement in cybersecurity.",
+      "date": "2026-04-22",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "cybersecurity",
+        "government",
+        "ai-adoption"
+      ],
+      "fetchedAt": "2026-04-23T11:00:40.054Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own",
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "summary": "OpenAI's new workspace agents enable automated task completion, accelerating AI's role in replacing human jobs in administrative and business roles.",
+      "date": "2026-04-22",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI automation",
+        "job displacement",
+        "business tasks"
+      ],
+      "fetchedAt": "2026-04-23T11:00:38.890Z",
+      "categories": [
+        "office-and-administrative-support",
+        "business-and-financial",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "summary": "The partnership between OpenAI and Infosys accelerates AI adoption in software development and IT operations, increasing the likelihood of AI replacing certain tech-related jobs.",
+      "date": "2026-04-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "software development",
+        "automation"
+      ],
+      "fetchedAt": "2026-04-23T11:00:37.774Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterpri",
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "summary": "Google's new enterprise agent tool may accelerate AI adoption in technical roles, potentially impacting job responsibilities in IT and related fields.",
+      "date": "2026-04-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "enterprise tools",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-23T11:00:36.743Z",
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-turns-chrome-into-an-ai-co-worker-for-the-workplace",
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "summary": "Google's AI-powered Chrome features enable workers to automate tasks, accelerating the replacement of human jobs in administrative and office roles.",
+      "date": "2026-04-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "job automation",
+        "enterprise technology"
+      ],
+      "fetchedAt": "2026-04-23T11:00:35.755Z",
+      "categories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "business-and-financial"
+      ]
+    },
+    {
       "id": "anthropic-s-mythos-accessed-by-unauthorized-users",
       "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
       "summary": "Unauthorized access to a powerful AI model raises security concerns, potentially slowing AI adoption and job replacement efforts due to increased risk management needs.",
@@ -3679,202 +3868,14 @@
         "protective-service",
         "_all"
       ]
-    },
-    {
-      "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
-      "summary": "Google's expansion of Gemini in Chrome to new countries may increase AI's presence in everyday tasks, potentially affecting jobs that involve digital interaction and information processing.",
-      "date": "2026-04-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "technology rollout",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-21T11:00:39.158Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "media-and-communication"
-      ]
-    },
-    {
-      "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "This investment and cloud spending agreement between Amazon and Anthropic likely accelerates AI development, which could lead to increased automation and job replacement in tech and related fields.",
-      "date": "2026-04-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "cloud computing",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-21T11:00:38.088Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "asia-regulators-raise-scrutiny-on-banks-amid-mythos-ai-fears",
-      "title": "Asia Regulators Raise Scrutiny on Banks Amid Mythos AI Fears",
-      "summary": "Increased regulatory scrutiny of AI in banking may slow the adoption of AI in financial systems, potentially delaying job replacement in that sector.",
-      "date": "2026-04-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "cybersecurity",
-        "financial-systems"
-      ],
-      "fetchedAt": "2026-04-20T11:00:43.040Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
-      "title": "Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia",
-      "summary": "Google's development of new AI chips could accelerate AI capabilities, potentially increasing the pace at which AI replaces human jobs in tech and related fields.",
-      "date": "2026-04-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "tech innovation",
-        "job replacement"
-      ],
-      "fetchedAt": "2026-04-20T11:00:42.055Z",
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "verizon-ceo-urges-transparency-about-ai-job-cuts-let-s-data-science",
-      "title": "Verizon CEO Urges Transparency About AI Job Cuts - Let's Data Science",
-      "summary": "Verizon CEO's call for transparency about AI job cuts suggests a cautious approach to AI implementation, potentially slowing the pace of AI-driven job replacement.",
-      "date": "2026-04-20",
-      "source": "AI Workforce",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjFwNHBCbXN5SlBNWkhZY292YmRwZG82Njgza3p5OWVxMlV0SjJKOWNKcGhtRTdMTkhnaU0zaHQya1lyandUR1BYSVVnd0Q3YmpvTkU2cWlTQmx3UGxoaHJ2MFR0anlleXNsOUlWZnZBMFVkNE1xYWdkLWd3dGlfajZWWExqUGdiRHUwOFd1d0pfUjhX?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "job displacement",
-        "corporate responsibility"
-      ],
-      "fetchedAt": "2026-04-20T11:00:40.258Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
-      "date": "2026-04-18",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "automation",
-        "hardware coding"
-      ],
-      "fetchedAt": "2026-04-19T11:00:42.966Z",
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "production"
-      ]
-    },
-    {
-      "id": "ai-chip-startup-cerebras-files-for-ipo",
-      "title": "AI chip startup Cerebras files for IPO",
-      "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
-      "date": "2026-04-18",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "corporate investment",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-19T11:00:34.227Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-surprising-facts-will-ai-replace-human-jobs-or-make-new-ones-talentsprint",
-      "title": "The Surprising Facts: Will AI Replace Human Jobs or Make New Ones? - TalentSprint",
-      "summary": "The article questions whether AI will replace jobs or create new ones, suggesting a more nuanced view of AI's impact on employment.",
-      "date": "2026-04-17",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVlpXZXY5ZWs0STM4bzN0TkEyOW1ZU0kxODg5Q1RXSF9WOFVWVXo1YW5BMEJwZ0hLclNLS2wwVmRnTWQtdHU4SUFYeXpCNDVLMVhYMkRmMkYtU2lndmttcUZsS3NWYzEyMHBJZA?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI impact",
-        "job market",
-        "labor trends"
-      ],
-      "fetchedAt": "2026-04-20T11:00:38.176Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
-      "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
-      "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "government policy",
-        "corporate collaboration"
-      ],
-      "fetchedAt": "2026-04-19T11:00:44.933Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-22T12:00:00.000Z",
+  "generatedAt": "2026-04-23T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Security Concerns and AI Investment Shape Today's Job Trends",
-      "preview": "Security breaches and major AI deals influence job replacement dynamics.",
-      "body": "Today's news shows a mix of delays and advances, with security concerns slowing adoption and major investments accelerating AI integration. Key headlines include unauthorized access to AI models and SpaceX's potential $60B deal for Cursor, highlighting both risks and growth in AI-driven job displacement."
+      "title": "AI job replacement pressure stabilizes slightly",
+      "preview": "Advances in AI tools continue to push job replacement pressure.",
+      "body": "The day's signals show a slight decline in job replacement pressure, with several AI advancements dominating the feed. Notable mentions include Google's AI-driven search and meeting note-taking tools, which highlight growing AI integration into work processes. However, one delay was noted with Anthropic's cybersecurity tool not being adopted by CISA, suggesting some slower adoption in critical sectors."
     }
   }
 }

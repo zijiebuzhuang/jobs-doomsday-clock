@@ -1,5 +1,236 @@
 [
   {
+    "date": "2026-04-23",
+    "minutesToMidnight": 10,
+    "exactMinutesToMidnight": 9.562,
+    "macroReplacementRate": 49.338,
+    "newsAdjustment": -3.438,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast-",
+        "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
+        "summary": "The shift from traditional search engines to AI models like Google's Gemini could accelerate AI's role in replacing human jobs by altering how information is accessed and processed.",
+        "date": "2026-04-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/audio/2026-04-23/odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "job displacement",
+          "tech disruption"
+        ],
+        "fetchedAt": "2026-04-23T11:00:44.420Z",
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
+        "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
+        "summary": "The shift from traditional search engines to AI-driven information retrieval signals a growing role for AI in replacing human-driven online queries, impacting jobs related to search and advertising.",
+        "date": "2026-04-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-23/google-s-reid-on-who-will-own-search-in-a-world-of-ai-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "job displacement",
+          "search technology"
+        ],
+        "fetchedAt": "2026-04-23T11:00:43.313Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
+        "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire",
+        "summary": "Tencent's AI model upgrade signals increased competition in the AI sector, potentially accelerating AI-driven job replacement in tech and related fields.",
+        "date": "2026-04-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-23/tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "tech competition",
+          "job replacement"
+        ],
+        "fetchedAt": "2026-04-23T11:00:42.214Z",
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-meet-will-take-ai-notes-for-in-person-meetings-too",
+        "title": "Google Meet will take AI notes for in-person meetings too",
+        "summary": "Google's expansion of AI meeting note-taking to in-person and other platforms increases the potential for AI to replace human roles in administrative and communication tasks.",
+        "date": "2026-04-22",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace automation",
+          "meeting technology"
+        ],
+        "fetchedAt": "2026-04-23T11:00:41.219Z",
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "business-and-financial"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-s-mythos-rollout-has-missed-america-s-cybersecurity-agency",
+        "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
+        "summary": "The exclusion of CISA from using Anthropic's AI cybersecurity tool may slow the adoption of AI in critical government roles, potentially delaying job replacement in cybersecurity.",
+        "date": "2026-04-22",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "cybersecurity",
+          "government",
+          "ai-adoption"
+        ],
+        "fetchedAt": "2026-04-23T11:00:40.054Z",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own",
+        "title": "OpenAI now lets teams make custom bots that can do work on their own",
+        "summary": "OpenAI's new workspace agents enable automated task completion, accelerating AI's role in replacing human jobs in administrative and business roles.",
+        "date": "2026-04-22",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI automation",
+          "job displacement",
+          "business tasks"
+        ],
+        "fetchedAt": "2026-04-23T11:00:38.890Z",
+        "categories": [
+          "office-and-administrative-support",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses",
+        "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+        "summary": "The partnership between OpenAI and Infosys accelerates AI adoption in software development and IT operations, increasing the likelihood of AI replacing certain tech-related jobs.",
+        "date": "2026-04-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "software development",
+          "automation"
+        ],
+        "fetchedAt": "2026-04-23T11:00:37.774Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterpri",
+        "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+        "summary": "Google's new enterprise agent tool may accelerate AI adoption in technical roles, potentially impacting job responsibilities in IT and related fields.",
+        "date": "2026-04-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "enterprise tools",
+          "job automation"
+        ],
+        "fetchedAt": "2026-04-23T11:00:36.743Z",
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-turns-chrome-into-an-ai-co-worker-for-the-workplace",
+        "title": "Google turns Chrome into an AI co-worker for the workplace",
+        "summary": "Google's AI-powered Chrome features enable workers to automate tasks, accelerating the replacement of human jobs in administrative and office roles.",
+        "date": "2026-04-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "job automation",
+          "enterprise technology"
+        ],
+        "fetchedAt": "2026-04-23T11:00:35.755Z",
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "business-and-financial"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast).",
+        "body": "This update is split between 8 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic’s Mythos rollout has missed America’s cybersecurity agency\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.438 minutes. Updated 2026-04-23T12:00:00.000Z, with the macro replacement estimate at 49.3%."
+      }
+    }
+  },
+  {
     "date": "2026-04-22",
     "minutesToMidnight": 10,
     "exactMinutesToMidnight": 10.19,
@@ -6390,47 +6621,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-24T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-23",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-23T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
