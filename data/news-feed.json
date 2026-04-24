@@ -1,5 +1,178 @@
 [
   {
+    "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
+    "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
+    "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",
+    "date": "2026-04-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "job displacement",
+      "technology advancement"
+    ],
+    "fetchedAt": "2026-04-24T11:00:45.168Z",
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
+    "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
+    "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+    "summary": "China's DeepSeek releases an advanced AI model that could accelerate AI's role in job replacement, particularly in tech and coding fields.",
+    "date": "2026-04-24",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "job displacement",
+      "technological advancement"
+    ],
+    "fetchedAt": "2026-04-24T11:00:37.996Z",
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "you-re-about-to-feel-the-ai-money-squeeze",
+    "title": "You’re about to feel the AI money squeeze",
+    "summary": "AI tools are becoming more expensive, which may accelerate their adoption by businesses seeking to optimize costs and potentially replace human roles.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "cost barriers",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-24T11:00:43.189Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
+    "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+    "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI advancement",
+      "coding",
+      "automation"
+    ],
+    "fetchedAt": "2026-04-24T11:00:41.466Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-s-mythos-breach-was-humiliating",
+    "title": "Anthropic’s Mythos breach was humiliating",
+    "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "cybersecurity",
+      "AI deployment"
+    ],
+    "fetchedAt": "2026-04-24T11:00:40.258Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
+    "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+    "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI integration",
+      "personal productivity",
+      "job automation"
+    ],
+    "fetchedAt": "2026-04-24T11:00:39.090Z",
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "personal-care-and-service"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "summary": "The release of GPT-5.5 represents a significant advancement in AI capabilities, potentially accelerating the replacement of human jobs across multiple industries.",
+    "date": "2026-04-23",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "job displacement",
+      "technological advancement"
+    ],
+    "fetchedAt": "2026-04-24T11:00:36.940Z",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
+    "date": "2026-04-23",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "startup acquisition",
+      "customer service"
+    ],
+    "fetchedAt": "2026-04-24T11:00:35.887Z",
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast-",
     "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
     "summary": "The shift from traditional search engines to AI models like Google's Gemini could accelerate AI's role in replacing human jobs by altering how information is accessed and processed.",

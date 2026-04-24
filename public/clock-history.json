@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-04-24",
+    "minutesToMidnight": 9,
+    "exactMinutesToMidnight": 9.161,
+    "macroReplacementRate": 49.366,
+    "newsAdjustment": -3.839,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
+        "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
+        "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",
+        "date": "2026-04-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "job displacement",
+          "technology advancement"
+        ],
+        "fetchedAt": "2026-04-24T11:00:45.168Z",
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      },
+      {
+        "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
+        "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+        "summary": "China's DeepSeek releases an advanced AI model that could accelerate AI's role in job replacement, particularly in tech and coding fields.",
+        "date": "2026-04-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "job displacement",
+          "technological advancement"
+        ],
+        "fetchedAt": "2026-04-24T11:00:37.996Z",
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "you-re-about-to-feel-the-ai-money-squeeze",
+        "title": "You’re about to feel the AI money squeeze",
+        "summary": "AI tools are becoming more expensive, which may accelerate their adoption by businesses seeking to optimize costs and potentially replace human roles.",
+        "date": "2026-04-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "cost barriers",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-24T11:00:43.189Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
+        "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+        "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
+        "date": "2026-04-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI advancement",
+          "coding",
+          "automation"
+        ],
+        "fetchedAt": "2026-04-24T11:00:41.466Z",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-s-mythos-breach-was-humiliating",
+        "title": "Anthropic’s Mythos breach was humiliating",
+        "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
+        "date": "2026-04-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI security",
+          "cybersecurity",
+          "AI deployment"
+        ],
+        "fetchedAt": "2026-04-24T11:00:40.258Z",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
+        "date": "2026-04-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI integration",
+          "personal productivity",
+          "job automation"
+        ],
+        "fetchedAt": "2026-04-24T11:00:39.090Z",
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "personal-care-and-service"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
+        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+        "summary": "The release of GPT-5.5 represents a significant advancement in AI capabilities, potentially accelerating the replacement of human jobs across multiple industries.",
+        "date": "2026-04-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "job displacement",
+          "technological advancement"
+        ],
+        "fetchedAt": "2026-04-24T11:00:36.940Z",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
+        "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+        "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
+        "date": "2026-04-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "startup acquisition",
+          "customer service"
+        ],
+        "fetchedAt": "2026-04-24T11:00:35.887Z",
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by DeepSeek Unveils Flagship AI Model a Year After Breakthrough.",
+        "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"DeepSeek Unveils Flagship AI Model a Year After Breakthrough\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -3.839 minutes. Updated 2026-04-24T12:00:00.000Z, with the macro replacement estimate at 49.4%."
+      }
+    }
+  },
+  {
     "date": "2026-04-23",
     "minutesToMidnight": 10,
     "exactMinutesToMidnight": 9.562,
@@ -6580,47 +6795,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-25T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-24",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-24T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:26",
-  "minutesToMidnight": 10,
-  "exactMinutesToMidnight": 9.562,
+  "displayTime": "23:50:50",
+  "minutesToMidnight": 9,
+  "exactMinutesToMidnight": 9.161,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.438,
+  "newsAdjustment": -3.839,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.338,
+  "macroReplacementRate": 49.366,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,179 @@
   ],
   "newsFeed": [
     {
+      "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
+      "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
+      "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",
+      "date": "2026-04-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "job displacement",
+        "technology advancement"
+      ],
+      "fetchedAt": "2026-04-24T11:00:45.168Z",
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "_all"
+      ]
+    },
+    {
+      "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "China's DeepSeek releases an advanced AI model that could accelerate AI's role in job replacement, particularly in tech and coding fields.",
+      "date": "2026-04-24",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "job displacement",
+        "technological advancement"
+      ],
+      "fetchedAt": "2026-04-24T11:00:37.996Z",
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "you-re-about-to-feel-the-ai-money-squeeze",
+      "title": "You’re about to feel the AI money squeeze",
+      "summary": "AI tools are becoming more expensive, which may accelerate their adoption by businesses seeking to optimize costs and potentially replace human roles.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "cost barriers",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-24T11:00:43.189Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI advancement",
+        "coding",
+        "automation"
+      ],
+      "fetchedAt": "2026-04-24T11:00:41.466Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-mythos-breach-was-humiliating",
+      "title": "Anthropic’s Mythos breach was humiliating",
+      "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "cybersecurity",
+        "AI deployment"
+      ],
+      "fetchedAt": "2026-04-24T11:00:40.258Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI integration",
+        "personal productivity",
+        "job automation"
+      ],
+      "fetchedAt": "2026-04-24T11:00:39.090Z",
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "personal-care-and-service"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "summary": "The release of GPT-5.5 represents a significant advancement in AI capabilities, potentially accelerating the replacement of human jobs across multiple industries.",
+      "date": "2026-04-23",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "job displacement",
+        "technological advancement"
+      ],
+      "fetchedAt": "2026-04-24T11:00:36.940Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
+      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+      "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
+      "date": "2026-04-23",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "startup acquisition",
+        "customer service"
+      ],
+      "fetchedAt": "2026-04-24T11:00:35.887Z",
+      "categories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
       "id": "odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast-",
       "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
       "summary": "The shift from traditional search engines to AI models like Google's Gemini could accelerate AI's role in replacing human jobs by altering how information is accessed and processed.",
@@ -3698,184 +3871,14 @@
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands",
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
-      "summary": "A powerful AI cybersecurity tool was accessed by unauthorized users, raising concerns about security and potentially slowing the adoption of AI in critical sectors.",
-      "date": "2026-04-22",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "cybersecurity",
-        "unauthorized access"
-      ],
-      "fetchedAt": "2026-04-22T11:00:46.323Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-s-updated-image-generator-can-now-pull-information-from-the-web",
-      "title": "OpenAI’s updated image generator can now pull information from the web",
-      "summary": "Improved AI image generation capabilities may increase automation in design and creative fields, accelerating job displacement.",
-      "date": "2026-04-21",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI advancement",
-        "image generation",
-        "job replacement"
-      ],
-      "fetchedAt": "2026-04-22T11:00:48.366Z",
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "media-and-communication"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion",
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "summary": "SpaceX's potential $60 billion acquisition of Cursor highlights growing investment in AI coding tools, accelerating AI's role in replacing human jobs in tech and software development.",
-      "date": "2026-04-21",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "job displacement",
-        "tech industry"
-      ],
-      "fetchedAt": "2026-04-22T11:00:47.396Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "chatgpt-s-new-images-2-0-model-is-surprisingly-good-at-generating-text",
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "summary": "Improved AI image generation capabilities suggest advancing AI technology, potentially increasing future job displacement risks.",
-      "date": "2026-04-21",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "technological advancement",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-22T11:00:43.577Z",
-      "categories": [
-        "computer-and-information-technology",
-        "arts-and-design",
-        "_all"
-      ]
-    },
-    {
-      "id": "spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "summary": "The potential acquisition of Cursor by SpaceX could accelerate AI adoption in software development, increasing the likelihood of AI replacing human jobs in tech-related fields.",
-      "date": "2026-04-21",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "tech industry",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-22T11:00:42.639Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "mythos-access-must-be-granted-on-level-playing-field-nagel-says",
-      "title": "Mythos Access Must Be Granted on Level Playing Field, Nagel Says",
-      "summary": "The call for equitable access to the Mythos AI model may slow the pace of AI job replacement by ensuring fair evaluation of its risks and benefits.",
-      "date": "2026-04-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-21/mythos-access-must-be-granted-on-level-playing-field-nagel-says",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "equity"
-      ],
-      "fetchedAt": "2026-04-21T11:00:41.308Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-rolls-out-gemini-in-chrome-in-apac-countries",
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "summary": "Google's rollout of Gemini in Chrome across APAC countries accelerates AI integration into everyday tools, potentially impacting jobs that rely on digital workflows and automation.",
-      "date": "2026-04-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "automation",
-        "tech integration"
-      ],
-      "fetchedAt": "2026-04-22T11:00:45.296Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "management"
-      ]
-    },
-    {
-      "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud",
-      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-      "summary": "NSA's use of Anthropic's AI model suggests increased adoption of advanced AI in sensitive sectors, potentially accelerating AI's role in job replacement.",
-      "date": "2026-04-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "government use",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-21T11:00:40.162Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-23T12:00:00.000Z",
+  "generatedAt": "2026-04-24T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job replacement pressure stabilizes slightly",
-      "preview": "Advances in AI tools continue to push job replacement pressure.",
-      "body": "The day's signals show a slight decline in job replacement pressure, with several AI advancements dominating the feed. Notable mentions include Google's AI-driven search and meeting note-taking tools, which highlight growing AI integration into work processes. However, one delay was noted with Anthropic's cybersecurity tool not being adopted by CISA, suggesting some slower adoption in critical sectors."
+      "title": "AI Advancements Drive Job Replacement Pressure",
+      "preview": "New AI models and integrations signal growing job replacement risks.",
+      "body": "Recent developments, including DeepSeek's new AI model and OpenAI's GPT-5.5, highlight continued progress in AI capabilities that could accelerate job replacement in tech and related fields. Integration of AI with personal apps and rising costs of AI tools also suggest increased adoption, potentially shifting workforce dynamics."
     }
   }
 }
