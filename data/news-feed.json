@@ -1,5 +1,88 @@
 [
   {
+    "id": "intel-delivers-strong-ai-fueled-outlook-bloomberg-tech-4-24-2026",
+    "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
+    "summary": "The news highlights increased AI investment and tech job cuts, indicating AI is accelerating its impact on the labor market.",
+    "date": "2026-04-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/bloomberg-tech-4-24-2026-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "job cuts",
+      "tech industry"
+    ],
+    "fetchedAt": "2026-04-25T11:00:41.492Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "wall-street-week-anthropic-cybersecurity-risk-byd-goes-global-the-billionaire-ne",
+    "title": "Wall Street Week | Anthropic Cybersecurity Risk, BYD Goes Global, The Billionaire Next Door",
+    "summary": "The development of an autonomous system by Anthropic highlights AI's growing role in cybersecurity, signaling potential job displacement in the field.",
+    "date": "2026-04-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/wall-street-week-anthropic-cyber-risk-byd-goes-global-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "automation"
+    ],
+    "fetchedAt": "2026-04-25T11:00:40.564Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
+    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+    "summary": "AI advancements in drug design may lead to increased automation in pharmaceutical research, potentially impacting jobs in life-physical-and-social-science and computer-and-information-technology sectors.",
+    "date": "2026-04-24",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI",
+      "healthcare",
+      "pharmaceuticals"
+    ],
+    "fetchedAt": "2026-04-25T11:00:39.626Z",
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "summary": "Google's $40B investment in Anthropic accelerates AI development, potentially increasing the pace of AI replacing human jobs in tech and related fields.",
+    "date": "2026-04-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "tech advancement",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-04-25T11:00:37.288Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
     "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
     "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",

@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:50",
+  "displayTime": "23:51:07",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.161,
+  "exactMinutesToMidnight": 8.884,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.839,
+  "newsAdjustment": -4.116,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.366,
+  "macroReplacementRate": 49.385,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,89 @@
   ],
   "newsFeed": [
     {
+      "id": "intel-delivers-strong-ai-fueled-outlook-bloomberg-tech-4-24-2026",
+      "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
+      "summary": "The news highlights increased AI investment and tech job cuts, indicating AI is accelerating its impact on the labor market.",
+      "date": "2026-04-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/bloomberg-tech-4-24-2026-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "job cuts",
+        "tech industry"
+      ],
+      "fetchedAt": "2026-04-25T11:00:41.492Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "wall-street-week-anthropic-cybersecurity-risk-byd-goes-global-the-billionaire-ne",
+      "title": "Wall Street Week | Anthropic Cybersecurity Risk, BYD Goes Global, The Billionaire Next Door",
+      "summary": "The development of an autonomous system by Anthropic highlights AI's growing role in cybersecurity, signaling potential job displacement in the field.",
+      "date": "2026-04-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/wall-street-week-anthropic-cyber-risk-byd-goes-global-video",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI",
+        "cybersecurity",
+        "automation"
+      ],
+      "fetchedAt": "2026-04-25T11:00:40.564Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "summary": "AI advancements in drug design may lead to increased automation in pharmaceutical research, potentially impacting jobs in life-physical-and-social-science and computer-and-information-technology sectors.",
+      "date": "2026-04-24",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI",
+        "healthcare",
+        "pharmaceuticals"
+      ],
+      "fetchedAt": "2026-04-25T11:00:39.626Z",
+      "categories": [
+        "life-physical-and-social-science",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "summary": "Google's $40B investment in Anthropic accelerates AI development, potentially increasing the pace of AI replacing human jobs in tech and related fields.",
+      "date": "2026-04-24",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "tech advancement",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-25T11:00:37.288Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
       "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
       "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
       "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",
@@ -3787,98 +3870,14 @@
         "computer-and-information-technology",
         "_all"
       ]
-    },
-    {
-      "id": "google-turns-chrome-into-an-ai-co-worker-for-the-workplace",
-      "title": "Google turns Chrome into an AI co-worker for the workplace",
-      "summary": "Google's AI-powered Chrome features enable workers to automate tasks, accelerating the replacement of human jobs in administrative and office roles.",
-      "date": "2026-04-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "job automation",
-        "enterprise technology"
-      ],
-      "fetchedAt": "2026-04-23T11:00:35.755Z",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "anthropic-s-mythos-accessed-by-unauthorized-users",
-      "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
-      "summary": "Unauthorized access to a powerful AI model raises security concerns, potentially slowing AI adoption and job replacement efforts due to increased risk management needs.",
-      "date": "2026-04-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "cybersecurity",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-22T11:00:53.715Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "japan-top-officials-to-meet-banks-to-discuss-mythos-threat",
-      "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
-      "summary": "Concerns over AI technology prompt government discussion, potentially slowing its adoption in the workforce.",
-      "date": "2026-04-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "government-policy",
-        "AI-impact"
-      ],
-      "fetchedAt": "2026-04-22T11:00:51.982Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "openai-poaches-airbnb-executive-to-be-first-director-for-emea",
-      "title": "OpenAI Poaches Airbnb Executive to be First Director for EMEA",
-      "summary": "Hiring an executive to manage AI operations in Europe may indicate a focus on regulatory and political concerns, potentially slowing the rapid replacement of human jobs by AI.",
-      "date": "2026-04-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-22/openai-hires-airbnb-executive-as-first-director-for-europe-middle-east-africa",
-      "effect": "delay",
-      "impactScore": 2,
-      "tags": [
-        "AI expansion",
-        "regulation",
-        "labor market"
-      ],
-      "fetchedAt": "2026-04-22T11:00:51.003Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-24T12:00:00.000Z",
+  "generatedAt": "2026-04-25T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advancements Drive Job Replacement Pressure",
-      "preview": "New AI models and integrations signal growing job replacement risks.",
-      "body": "Recent developments, including DeepSeek's new AI model and OpenAI's GPT-5.5, highlight continued progress in AI capabilities that could accelerate job replacement in tech and related fields. Integration of AI with personal apps and rising costs of AI tools also suggest increased adoption, potentially shifting workforce dynamics."
+      "title": "AI Advances Continue to Drive Job Market Shifts",
+      "preview": "Strong AI developments signal ongoing job displacement pressures.",
+      "body": "Recent news highlights significant AI advancements, with multiple reports indicating growing automation in tech and cybersecurity. Key developments include Intel's AI investment, Google's $40B stake in Anthropic, and new models from DeepSeek and OpenAI. These signals suggest a continued acceleration in AI-driven job replacement, particularly in technology and related fields."
     }
   }
 }
