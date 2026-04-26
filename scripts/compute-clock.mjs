@@ -396,6 +396,10 @@ export function buildClockData({
   const seconds = wallClockTotalSeconds % 60
   const macroReplacementRate = Math.round((50 - (exactMinutesToMidnight / baseMinutesPerReplacementRatePoint(baseData))) * 1000) / 1000
 
+  const retainedNewsFeed = feedMode === 'daily'
+    ? feedItemsForDate(feedWindow, asOfDate, true, true)
+    : feedItemsWithRichMediaSamples(feedWindow, newsFeedLimit)
+
   return {
     displayTime: `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`,
     minutesToMidnight,
@@ -408,10 +412,30 @@ export function buildClockData({
     totalJobs: baseData.totalJobs,
     occupationCount: baseData.occupationCount,
     occupations: baseData.occupations,
-    newsFeed: feedMode === 'daily' ? feedItemsForDate(feedWindow, asOfDate, true, true) : feedWindow.slice(0, newsFeedLimit),
+    newsFeed: retainedNewsFeed,
     generatedAt: asOfDate.toISOString(),
     ...(signalSummaries ? { signalSummaries } : {}),
   }
+}
+
+function feedItemsWithRichMediaSamples(feedWindow, limit) {
+  const retained = feedWindow.slice(0, limit)
+  const retainedTypes = new Set(retained.map(item => item.contentType || 'article'))
+
+  for (const contentType of ['podcast', 'video']) {
+    if (retainedTypes.has(contentType)) continue
+
+    const sample = feedWindow.find(item => (item.contentType || 'article') === contentType)
+    if (!sample) continue
+
+    const replaceIndex = retained.findLastIndex(item => (item.contentType || 'article') === 'article')
+    if (replaceIndex >= 0) {
+      retained[replaceIndex] = sample
+      retainedTypes.add(contentType)
+    }
+  }
+
+  return retained
 }
 
 async function main() {
