@@ -1,6 +1,5 @@
 import https from 'https';
 import mammoth from 'mammoth';
-import { PDFParse } from 'pdf-parse';
 
 const DASHSCOPE_API_KEY = process.env.DASHSCOPE_API_KEY || process.env.ALIYUN;
 const MODEL = 'qwen-plus';
@@ -144,6 +143,7 @@ async function fetchResumeURL(urlString) {
 }
 
 async function extractPDFText(buffer) {
+  const { PDFParse } = await import('pdf-parse');
   const parser = new PDFParse({ data: buffer });
   const result = await parser.getText();
   await parser.destroy();
