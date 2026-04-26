@@ -259,6 +259,9 @@ async function fetchRSSFeeds() {
           sourceUrl: link,
           mediaUrl,
         })
+        const resolvedMediaUrl = contentType === 'podcast'
+          ? await resolveFinalMediaURL(mediaUrl)
+          : mediaUrl
 
         allItems.push({
           title: item.title || '',
@@ -268,7 +271,7 @@ async function fetchRSSFeeds() {
           source: feed.name,
           imageUrl,
           contentType,
-          mediaUrl,
+          mediaUrl: resolvedMediaUrl,
           duration: formatDuration(item['itunes:duration'] || item.itunes?.duration),
         })
       }
@@ -279,6 +282,24 @@ async function fetchRSSFeeds() {
   }
 
   return allItems
+}
+
+async function resolveFinalMediaURL(url) {
+  if (!url) return url
+
+  try {
+    const response = await fetch(url, {
+      method: 'HEAD',
+      redirect: 'follow',
+      signal: AbortSignal.timeout(12000),
+      headers: {
+        'User-Agent': 'HowFarBot/1.0 (+https://jobdoomsday.tech)',
+      },
+    })
+    return response.url || url
+  } catch {
+    return url
+  }
 }
 
 function imageURLFromItunesImage(value) {

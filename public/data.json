@@ -3882,16 +3882,16 @@
         "_all"
       ],
       "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1807379045.mp3",
+      "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV1807379045.mp3?key=459125855e09d93dbfdad76830292d3a&request_event_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&session_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&timetoken=1777178613_9D1F024C96D7C4676CE93B17F7ABFD9B",
       "duration": "8 min"
     }
   ],
-  "generatedAt": "2026-04-26T01:40:10.714Z",
+  "generatedAt": "2026-04-26T02:43:41.629Z",
   "signalSummaries": {
     "dailyPulse": {
       "title": "Daily signal pulse",
       "preview": "A quick read on the latest pulse, led by China’s DeepSeek previews new AI model a year after jolting US rivals.",
-      "body": "This update is split between 16 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"China’s DeepSeek previews new AI model a year after jolting US rivals\" (The Verge - AI), while the clearest drag comes from \"OpenAI’s former Sora boss is leaving\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.251 minutes. Updated 2026-04-26T01:40:10.714Z, with the macro replacement estimate at 49.3%."
+      "body": "This update is split between 16 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"China’s DeepSeek previews new AI model a year after jolting US rivals\" (The Verge - AI), while the clearest drag comes from \"OpenAI’s former Sora boss is leaving\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.251 minutes. Updated 2026-04-26T02:43:41.629Z, with the macro replacement estimate at 49.3%."
     }
   }
 }
