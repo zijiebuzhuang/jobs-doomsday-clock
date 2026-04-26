@@ -19,6 +19,14 @@ for (const item of items) {
       updated += 1
     }
   }
+
+  if (contentType === 'podcast' && !item.imageUrl) {
+    const imageUrl = await fetchOpenGraphImage(item.sourceUrl) || defaultPodcastImageURL(item.source)
+    if (imageUrl) {
+      item.imageUrl = imageUrl
+      updated += 1
+    }
+  }
 }
 
 writeFileSync(path, JSON.stringify(items, null, 2))
@@ -53,4 +61,14 @@ function metaContent(html, attributeName, attributeValue) {
 
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+function defaultPodcastImageURL(source = '') {
+  const normalizedSource = source.toLowerCase()
+
+  if (normalizedSource.includes('techcrunch daily crunch')) {
+    return 'https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress'
+  }
+
+  return undefined
 }

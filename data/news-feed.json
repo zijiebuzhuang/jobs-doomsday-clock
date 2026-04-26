@@ -1550,7 +1550,8 @@
       "_all"
     ],
     "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1807379045.mp3",
-    "duration": "8 min"
+    "duration": "8 min",
+    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
   },
   {
     "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
@@ -1921,7 +1922,8 @@
       "_all"
     ],
     "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9624736069.mp3",
-    "duration": "7 min"
+    "duration": "7 min",
+    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
   },
   {
     "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",

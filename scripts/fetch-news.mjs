@@ -187,7 +187,8 @@ async function fetchRSSFeeds() {
   const parser = new Parser({
     timeout: 15000,
     customFields: {
-      item: ['itunes:duration'],
+      feed: [['itunes:image', 'itunesImage']],
+      item: ['itunes:duration', ['itunes:image', 'itunesImage']],
     },
   })
   const allItems = []
@@ -198,6 +199,9 @@ async function fetchRSSFeeds() {
     try {
       console.log(`Fetching: ${feed.name}...`)
       const result = await parser.parseURL(feed.url)
+      const feedImageUrl = imageURLFromItunesImage(result.itunesImage)
+        || result.image?.url
+        || result.image?.href
       const items = (result.items || []).slice(0, 20)
       for (const item of items) {
         let imageUrl = null
@@ -233,6 +237,11 @@ async function fetchRSSFeeds() {
         }
         if (!imageUrl && item['media:thumbnail']?.$?.url) {
           imageUrl = item['media:thumbnail'].$.url
+        }
+        if (!imageUrl) {
+          imageUrl = imageURLFromItunesImage(item.itunesImage)
+            || imageURLFromItunesImage(item.itunes?.image)
+            || feedImageUrl
         }
         // Try to extract from content
         if (!imageUrl && (item.content || item['content:encoded'])) {
@@ -270,6 +279,12 @@ async function fetchRSSFeeds() {
   }
 
   return allItems
+}
+
+function imageURLFromItunesImage(value) {
+  if (!value) return undefined
+  if (typeof value === 'string') return value
+  return value.href || value.url || value.$?.href || value.$?.url
 }
 
 export async function callLLM(apiKey, prompt) {
