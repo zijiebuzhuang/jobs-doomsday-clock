@@ -89,13 +89,13 @@ jobs:
           const data = JSON.parse(fs.readFileSync('public/data.json', 'utf8'))
           const newsIDs = Array.isArray(data.newsFeed) ? data.newsFeed.map((item) => item.id).sort().join(',') : ''
           const fingerprint = crypto.createHash('sha1').update(newsIDs || data.generatedAt || '').digest('hex').slice(0, 12)
-          const headline = data.newsFeed?.[0]?.title || 'The latest AI Jobs Clock data is live.'
-          const body = (data.newsFeed?.length || 0) <= 1
-            ? headline
-            : `${data.newsFeed.length} signals are live. ${headline}`
+          const count = data.newsFeed?.length || 0
+          const body = count <= 1
+            ? "Today's AI job signal is ready."
+            : `${count} AI job signals are ready. See what changed today.`
           console.log(`dataset_id=${data.generatedAt}:${fingerprint}`)
           console.log(`generated_at=${data.generatedAt}`)
-          console.log(`title=Daily Signals Updated`)
+          console.log(`title=Daily Signals Ready`)
           console.log(`body=${body.replace(/\n/g, ' ').trim()}`)
           EOF
 
