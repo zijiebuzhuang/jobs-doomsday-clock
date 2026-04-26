@@ -44,7 +44,7 @@ export default async function handler(req, res) {
       assessmentRiskScore: payload.assessmentRiskScore
     });
     const completion = await callQwen(prompt);
-    const profile = parseProfile(completion, payload.assessmentOccupation);
+    const profile = parseProfile(completion);
 
     return res.status(200).json(profile);
   } catch (error) {
@@ -159,15 +159,22 @@ Known app context:
 ${assessmentOccupation ? `- Existing assessment occupation: ${assessmentOccupation}` : ''}
 ${assessmentRiskScore ? `- Existing assessment risk score: ${assessmentRiskScore}` : ''}
 
+Important interpretation rules:
+- Treat the resume as the primary source of truth.
+- Use the existing assessment only as optional background when the resume is vague.
+- Do not force the resume into the assessment occupation if the resume points to a different target role.
+- If the resume suggests multiple tracks or a mixed skill profile, reflect that breadth in coreSkills, pressureAreas, resilienceSignals, and nextMoves.
+- Prefer concrete evidence from the resume over generic occupation assumptions.
+
 Resume text:
 ${resumeText}
 
 Generate ONLY valid JSON with this exact structure:
 {
-  "currentRole": "<most likely current role or target role>",
-  "summary": "<1-2 sentence profile summary>",
+  "currentRole": "<most likely current role, target role, or multi-track direction from the resume>",
+  "summary": "<1-2 sentence profile summary that captures the resume's actual skill mix>",
   "coreSkills": ["<skill/domain>", "<skill/domain>"],
-  "pressureAreas": ["<task/skill likely to face AI pressure>"],
+  "pressureAreas": ["<resume-backed task/skill likely to face AI pressure>"],
   "resilienceSignals": ["<reason this profile may be resilient>"],
   "nextMoves": ["<specific practical next move>"]
 }
@@ -267,7 +274,7 @@ async function callQwen(prompt) {
   });
 }
 
-function parseProfile(completion, fallbackRole) {
+function parseProfile(completion) {
   let jsonText = completion.trim();
   const jsonMatch = jsonText.match(/```(?:json)?\s*(\{[\s\S]*\})\s*```/);
   if (jsonMatch) {
@@ -278,7 +285,7 @@ function parseProfile(completion, fallbackRole) {
 
   return {
     createdAt: new Date().toISOString(),
-    currentRole: safeString(parsed.currentRole, fallbackRole || 'Career profile'),
+    currentRole: safeString(parsed.currentRole, 'Resume profile'),
     summary: safeString(
       parsed.summary,
       'Your resume adds more context to your career profile and recommendations.'
