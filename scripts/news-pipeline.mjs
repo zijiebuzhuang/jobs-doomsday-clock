@@ -97,6 +97,51 @@ export function sanitizeNewsUrl(value) {
   return decodeHTMLEntities(value || '').trim()
 }
 
+function mediaKindFromUrl(value) {
+  const normalized = sanitizeNewsUrl(value).toLowerCase()
+  if (!normalized) return undefined
+
+  if (
+    normalized.includes('youtube.com/') ||
+    normalized.includes('youtu.be/') ||
+    normalized.includes('/video/') ||
+    /\.(mp4|m4v|mov|webm|m3u8)(\?|#|$)/.test(normalized)
+  ) {
+    return 'video'
+  }
+
+  if (isPlayableAudioUrl(normalized)) {
+    return 'podcast'
+  }
+
+  return undefined
+}
+
+export function isPlayableAudioUrl(value) {
+  const normalized = sanitizeNewsUrl(value).toLowerCase()
+  if (!normalized) return false
+  if (
+    normalized.includes('youtube.com/') ||
+    normalized.includes('youtu.be/') ||
+    normalized.includes('/video/') ||
+    /\.(mp4|m4v|mov|webm|m3u8)(\?|#|$)/.test(normalized)
+  ) {
+    return false
+  }
+
+  return /\.(mp3|m4a|aac|wav|ogg)(\?|#|$)/.test(normalized)
+}
+
+export function normalizeContentType(item = {}) {
+  const rawType = sanitizeNewsText(item.contentType || item.mediaType).toLowerCase()
+  if (['video', 'youtube', 'youtube-video'].includes(rawType)) return 'video'
+  if (['podcast', 'audio'].includes(rawType) && isPlayableAudioUrl(item.mediaUrl)) return 'podcast'
+
+  return mediaKindFromUrl(item.mediaUrl)
+    || mediaKindFromUrl(item.sourceUrl || item.link)
+    || 'article'
+}
+
 export function makeId(title) {
   return sanitizeNewsText(title).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
 }
@@ -151,6 +196,7 @@ export function normalizeCategories(rawCategories) {
 
 export function normalizeFeedItem(item) {
   const categories = normalizeCategories(item.categories ?? item.affectedCategories)
+  const contentType = normalizeContentType(item)
   const normalizedTitle = sanitizeNewsText(item.title)
   const normalized = {
     id: makeId(item.id || normalizedTitle),
@@ -165,6 +211,10 @@ export function normalizeFeedItem(item) {
     fetchedAt: item.fetchedAt || item.date || item.publishedAt || item.pubDate || '',
   }
 
+  if (contentType !== 'article') {
+    normalized.contentType = contentType
+  }
+
   if (categories?.length) {
     normalized.categories = categories
   }
@@ -175,6 +225,14 @@ export function normalizeFeedItem(item) {
 
   if (item.imageUrl) {
     normalized.imageUrl = sanitizeNewsUrl(item.imageUrl)
+  }
+
+  if (item.mediaUrl) {
+    normalized.mediaUrl = sanitizeNewsUrl(item.mediaUrl)
+  }
+
+  if (item.duration) {
+    normalized.duration = sanitizeNewsText(item.duration)
   }
 
   return normalized

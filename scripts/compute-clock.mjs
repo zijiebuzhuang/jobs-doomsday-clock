@@ -39,9 +39,12 @@ function baseMinutesPerReplacementRatePoint(baseData) {
 function loadBaseData() {
   if (cachedBaseData) return cachedBaseData
 
-  if (isCI) {
+  if (isCI || !existsSync(JOBS_MASTER_SITE_DATA_PATH)) {
     if (!existsSync(DATA_OUTPUT_PATH)) {
-      throw new Error(`Missing ${DATA_OUTPUT_PATH} in CI mode`)
+      throw new Error(`Missing ${DATA_OUTPUT_PATH} base data fallback`)
+    }
+    if (!isCI) {
+      console.warn(`Base occupation dataset not found at ${JOBS_MASTER_SITE_DATA_PATH}; using ${DATA_OUTPUT_PATH} as fallback`)
     }
     cachedBaseData = JSON.parse(readFileSync(DATA_OUTPUT_PATH, 'utf-8'))
     return cachedBaseData

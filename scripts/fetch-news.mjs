@@ -10,6 +10,7 @@ import {
   makeId,
   mergeFeedItems,
   normalizeFeedItem,
+  normalizeContentType,
   saveHistorySet,
 } from './news-pipeline.mjs'
 
@@ -50,16 +51,68 @@ function occupationReferenceBlock(occupationIndex) {
   return `\nHere are specific occupations grouped by category (use their exact slug when tagging):\n${lines}\n`
 }
 
-const RSS_FEEDS = [
+const BASE_RSS_FEEDS = [
   { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
   { name: 'Google News - AI Workforce', url: 'https://news.google.com/rss/search?q=artificial+intelligence+workforce+impact&hl=en-US&gl=US&ceid=US:en' },
   { name: 'TechCrunch - AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+  { name: 'TechCrunch Daily Crunch', url: 'https://feeds.megaphone.fm/techcrunch-daily-crunch', contentType: 'podcast' },
   { name: 'Ars Technica - AI', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab' },
   { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/' },
   { name: 'The Verge - AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
   { name: 'Wired', url: 'https://www.wired.com/feed/rss' },
   { name: 'Bloomberg Technology', url: 'https://feeds.bloomberg.com/technology/news.rss' },
 ]
+
+const YOUTUBE_RSS_FEEDS = (process.env.YOUTUBE_CHANNEL_IDS || '')
+  .split(',')
+  .map(value => value.trim())
+  .filter(Boolean)
+  .map(channelID => ({
+    name: 'YouTube',
+    url: `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channelID)}`,
+    contentType: 'video',
+  }))
+
+const DEFAULT_APPLE_PODCAST_IDS = [
+  '1533115958', // Me, Myself, and AI
+  '1528594034', // Hard Fork
+  '1668002688', // No Priors
+  '1677184070', // Possible
+]
+
+function applePodcastIDs() {
+  const configuredIDs = (process.env.APPLE_PODCAST_IDS || '')
+    .split(',')
+    .map(value => value.trim())
+    .filter(Boolean)
+
+  return [...new Set([...DEFAULT_APPLE_PODCAST_IDS, ...configuredIDs])]
+}
+
+async function fetchApplePodcastFeeds() {
+  const feeds = []
+
+  for (const podcastID of applePodcastIDs()) {
+    try {
+      const data = await fetchJSON(`https://itunes.apple.com/lookup?id=${encodeURIComponent(podcastID)}`)
+      const result = data.results?.[0]
+      if (!result?.feedUrl) {
+        console.warn(`  ✗ Apple Podcasts ${podcastID}: missing feedUrl`)
+        continue
+      }
+
+      feeds.push({
+        name: result.collectionName ? `Apple Podcasts - ${result.collectionName}` : `Apple Podcasts - ${podcastID}`,
+        url: result.feedUrl,
+        contentType: 'podcast',
+      })
+    } catch (err) {
+      console.warn(`  ✗ Apple Podcasts ${podcastID}: ${err.message}`)
+    }
+  }
+
+  return feeds
+}
 
 const AI_JOBS_KEYWORDS = [
   'ai replace', 'ai replacing', 'ai job', 'ai worker', 'ai employ', 'ai layoff', 'ai hire',
@@ -80,31 +133,109 @@ export function isRelevant(title, contentSnippet) {
   return AI_JOBS_KEYWORDS.some(keyword => text.includes(keyword))
 }
 
-async function fetchRSSFeeds() {
-  const parser = new Parser({ timeout: 15000 })
-  const allItems = []
+function itemTimestamp(item) {
+  const value = new Date(item.pubDate || item.isoDate || 0).getTime()
+  return Number.isFinite(value) ? value : 0
+}
 
-  for (const feed of RSS_FEEDS) {
+function isRichMediaItem(item) {
+  return normalizeContentType({
+    contentType: item.contentType,
+    source: item.source,
+    sourceUrl: item.link,
+    mediaUrl: item.mediaUrl,
+  }) !== 'article'
+}
+
+function prioritizeFreshItems(items) {
+  return [...items].sort((a, b) => {
+    const richDelta = Number(isRichMediaItem(b)) - Number(isRichMediaItem(a))
+    if (richDelta !== 0) return richDelta
+    return itemTimestamp(b) - itemTimestamp(a)
+  })
+}
+
+function isImageMimeType(value = '') {
+  return value.toLowerCase().startsWith('image/')
+}
+
+function isAudioMimeType(value = '') {
+  return value.toLowerCase().startsWith('audio/')
+}
+
+function isVideoMimeType(value = '') {
+  return value.toLowerCase().startsWith('video/')
+}
+
+function formatDuration(value) {
+  if (!value) return undefined
+  const raw = String(value).trim()
+  if (!raw) return undefined
+  if (raw.includes(':')) return raw
+
+  const seconds = Number(raw)
+  if (!Number.isFinite(seconds) || seconds <= 0) return raw
+  const minutes = Math.max(1, Math.round(seconds / 60))
+  return `${minutes} min`
+}
+
+function urlLike(value) {
+  return /^https?:\/\//i.test(String(value || ''))
+}
+
+async function fetchRSSFeeds() {
+  const parser = new Parser({
+    timeout: 15000,
+    customFields: {
+      item: ['itunes:duration'],
+    },
+  })
+  const allItems = []
+  const applePodcastFeeds = await fetchApplePodcastFeeds()
+  const rssFeeds = [...BASE_RSS_FEEDS, ...applePodcastFeeds, ...YOUTUBE_RSS_FEEDS]
+
+  for (const feed of rssFeeds) {
     try {
       console.log(`Fetching: ${feed.name}...`)
       const result = await parser.parseURL(feed.url)
       const items = (result.items || []).slice(0, 20)
       for (const item of items) {
         let imageUrl = null
+        let mediaUrl = null
+        let mediaType = feed.contentType
 
         // Try enclosure first (common in RSS feeds)
         if (item.enclosure?.url) {
-          imageUrl = item.enclosure.url
+          if (isImageMimeType(item.enclosure.type)) {
+            imageUrl = item.enclosure.url
+          } else if (isAudioMimeType(item.enclosure.type)) {
+            mediaUrl = item.enclosure.url
+            mediaType = 'podcast'
+          } else if (isVideoMimeType(item.enclosure.type)) {
+            mediaUrl = item.enclosure.url
+            mediaType = 'video'
+          }
         }
         // Try media:content or media:thumbnail
-        else if (item['media:content']?.$?.url) {
-          imageUrl = item['media:content'].$.url
+        if (!imageUrl && item['media:content']?.$?.url) {
+          const mediaContent = item['media:content'].$
+          if (isImageMimeType(mediaContent.type)) {
+            imageUrl = mediaContent.url
+          } else if (isAudioMimeType(mediaContent.type)) {
+            mediaUrl = mediaContent.url
+            mediaType = 'podcast'
+          } else if (isVideoMimeType(mediaContent.type)) {
+            mediaUrl = mediaContent.url
+            mediaType = 'video'
+          } else {
+            imageUrl = mediaContent.url
+          }
         }
-        else if (item['media:thumbnail']?.$?.url) {
+        if (!imageUrl && item['media:thumbnail']?.$?.url) {
           imageUrl = item['media:thumbnail'].$.url
         }
         // Try to extract from content
-        else if (item.content || item['content:encoded']) {
+        if (!imageUrl && (item.content || item['content:encoded'])) {
           const content = item.content || item['content:encoded']
           const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i)
           if (imgMatch) {
@@ -112,13 +243,24 @@ async function fetchRSSFeeds() {
           }
         }
 
-            allItems.push({
+        const link = item.link || (urlLike(item.guid) ? item.guid : undefined) || mediaUrl || ''
+        const contentType = normalizeContentType({
+          contentType: mediaType,
+          source: feed.name,
+          sourceUrl: link,
+          mediaUrl,
+        })
+
+        allItems.push({
           title: item.title || '',
-          link: item.link || '',
+          link,
           contentSnippet: item.contentSnippet || item.content || '',
           pubDate: item.pubDate || item.isoDate || '',
           source: feed.name,
           imageUrl,
+          contentType,
+          mediaUrl,
+          duration: formatDuration(item['itunes:duration'] || item.itunes?.duration),
         })
       }
       console.log(`  → Got ${items.length} items`)
@@ -203,6 +345,9 @@ Respond with ONLY valid JSON (no markdown):
         occupationIDs: validOccupationIDs,
         fetchedAt: new Date().toISOString(),
         imageUrl: article.imageUrl,
+        contentType: article.contentType,
+        mediaUrl: article.mediaUrl,
+        duration: article.duration,
       }))
 
       const occTag = validOccupationIDs ? ` → ${validOccupationIDs.join(', ')}` : ''
@@ -226,8 +371,10 @@ async function main() {
   console.log(`After keyword filter: ${relevant.length}`)
 
   const history = loadHistorySet()
-  const fresh = relevant.filter(item => !history.has(makeId(item.title)))
+  const fresh = prioritizeFreshItems(relevant.filter(item => !history.has(makeId(item.title))))
+  const richFresh = fresh.filter(isRichMediaItem).length
   console.log(`After dedup: ${fresh.length} new items\n`)
+  console.log(`Rich media candidates: ${richFresh}\n`)
 
   if (fresh.length === 0) {
     console.log('No new relevant articles found. Exiting.')
@@ -250,7 +397,6 @@ async function main() {
   console.log(`\nSaved ${merged.length} items from the last ${HISTORY_WINDOW_DAYS} days to ${FEED_PATH}`)
 
   for (const item of classified) history.add(item.id)
-  for (const item of rawItems) history.add(makeId(item.title))
   saveHistorySet(history)
 
   const advances = classified.filter(item => item.effect === 'advance').length

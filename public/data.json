@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:51:07",
-  "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 8.884,
+  "displayTime": "23:50:16",
+  "minutesToMidnight": 10,
+  "exactMinutesToMidnight": 9.736,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -4.116,
+  "newsAdjustment": -3.264,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.385,
+  "macroReplacementRate": 49.326,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,46 +3448,26 @@
   ],
   "newsFeed": [
     {
-      "id": "intel-delivers-strong-ai-fueled-outlook-bloomberg-tech-4-24-2026",
-      "title": "Intel Delivers Strong AI-Fueled Outlook | Bloomberg Tech 4/24/2026",
-      "summary": "The news highlights increased AI investment and tech job cuts, indicating AI is accelerating its impact on the labor market.",
+      "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "China's DeepSeek releasing an advanced AI model could accelerate AI's ability to replace jobs in tech and coding-related fields.",
       "date": "2026-04-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/bloomberg-tech-4-24-2026-video",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "job cuts",
-        "tech industry"
+        "AI development",
+        "job replacement",
+        "tech innovation"
       ],
-      "fetchedAt": "2026-04-25T11:00:41.492Z",
+      "fetchedAt": "2026-04-25T12:21:24.450Z",
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "wall-street-week-anthropic-cybersecurity-risk-byd-goes-global-the-billionaire-ne",
-      "title": "Wall Street Week | Anthropic Cybersecurity Risk, BYD Goes Global, The Billionaire Next Door",
-      "summary": "The development of an autonomous system by Anthropic highlights AI's growing role in cybersecurity, signaling potential job displacement in the field.",
-      "date": "2026-04-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-24/wall-street-week-anthropic-cyber-risk-byd-goes-global-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI",
-        "cybersecurity",
-        "automation"
-      ],
-      "fetchedAt": "2026-04-25T11:00:40.564Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
+        "production",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
@@ -3503,7 +3483,7 @@
         "healthcare",
         "pharmaceuticals"
       ],
-      "fetchedAt": "2026-04-25T11:00:39.626Z",
+      "fetchedAt": "2026-04-25T12:21:23.160Z",
       "categories": [
         "life-physical-and-social-science",
         "computer-and-information-technology"
@@ -3523,162 +3503,31 @@
         "tech advancement",
         "job displacement"
       ],
-      "fetchedAt": "2026-04-25T11:00:37.288Z",
+      "fetchedAt": "2026-04-25T12:21:22.278Z",
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "deepseek-unveils-flagship-ai-model-a-year-after-breakthrough",
-      "title": "DeepSeek Unveils Flagship AI Model a Year After Breakthrough",
-      "summary": "The release of DeepSeek's new AI model could accelerate AI's role in replacing human jobs, particularly in tech and related fields.",
-      "date": "2026-04-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "job displacement",
-        "technology advancement"
-      ],
-      "fetchedAt": "2026-04-24T11:00:45.168Z",
-      "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "_all"
-      ]
-    },
-    {
-      "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "summary": "China's DeepSeek releases an advanced AI model that could accelerate AI's role in job replacement, particularly in tech and coding fields.",
-      "date": "2026-04-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "job displacement",
-        "technological advancement"
-      ],
-      "fetchedAt": "2026-04-24T11:00:37.996Z",
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "you-re-about-to-feel-the-ai-money-squeeze",
-      "title": "You’re about to feel the AI money squeeze",
-      "summary": "AI tools are becoming more expensive, which may accelerate their adoption by businesses seeking to optimize costs and potentially replace human roles.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "cost barriers",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-24T11:00:43.189Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI advancement",
-        "coding",
-        "automation"
-      ],
-      "fetchedAt": "2026-04-24T11:00:41.466Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-s-mythos-breach-was-humiliating",
-      "title": "Anthropic’s Mythos breach was humiliating",
-      "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "cybersecurity",
-        "AI deployment"
-      ],
-      "fetchedAt": "2026-04-24T11:00:40.258Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI integration",
-        "personal productivity",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-24T11:00:39.090Z",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "personal-care-and-service"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
       "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-      "summary": "The release of GPT-5.5 represents a significant advancement in AI capabilities, potentially accelerating the replacement of human jobs across multiple industries.",
+      "summary": "The release of GPT-5.5 by OpenAI is a significant step toward an AI 'super app,' potentially accelerating AI's ability to replace human jobs across multiple industries.",
       "date": "2026-04-23",
       "source": "TechCrunch - AI",
       "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI development",
+        "AI advancement",
         "job displacement",
-        "technological advancement"
+        "technology development"
       ],
-      "fetchedAt": "2026-04-24T11:00:36.940Z",
+      "fetchedAt": "2026-04-25T12:21:27.299Z",
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "office-and-administrative-support",
         "_all"
       ]
     },
@@ -3696,7 +3545,7 @@
         "startup acquisition",
         "customer service"
       ],
-      "fetchedAt": "2026-04-24T11:00:35.887Z",
+      "fetchedAt": "2026-04-25T12:21:26.291Z",
       "categories": [
         "office-and-administrative-support",
         "computer-and-information-technology",
@@ -3704,147 +3553,63 @@
       ]
     },
     {
-      "id": "odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast-",
-      "title": "Odd Lots: Google’s Liz Reid on Search in an AI World (Podcast)",
-      "summary": "The shift from traditional search engines to AI models like Google's Gemini could accelerate AI's role in replacing human jobs by altering how information is accessed and processed.",
+      "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
       "date": "2026-04-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/audio/2026-04-23/odd-lots-google-s-liz-reid-on-search-in-an-ai-world-podcast",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "job displacement",
-        "tech disruption"
+        "AI integration",
+        "personal productivity",
+        "job automation"
       ],
-      "fetchedAt": "2026-04-23T11:00:44.420Z",
+      "fetchedAt": "2026-04-25T12:21:25.329Z",
       "categories": [
         "computer-and-information-technology",
         "office-and-administrative-support",
-        "business-and-financial"
-      ]
+        "personal-care-and-service"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
-      "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
-      "summary": "The shift from traditional search engines to AI-driven information retrieval signals a growing role for AI in replacing human-driven online queries, impacting jobs related to search and advertising.",
-      "date": "2026-04-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-23/google-s-reid-on-who-will-own-search-in-a-world-of-ai-video",
+      "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
+      "date": "2026-04-18",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "job displacement",
-        "search technology"
+        "AI development",
+        "automation",
+        "hardware coding"
       ],
-      "fetchedAt": "2026-04-23T11:00:43.313Z",
+      "fetchedAt": "2026-04-19T11:00:42.966Z",
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
+        "architecture-and-engineering",
+        "production"
       ]
     },
     {
-      "id": "tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
-      "title": "Tencent Unveils AI Model in High-Stakes Test for OpenAI Hire",
-      "summary": "Tencent's AI model upgrade signals increased competition in the AI sector, potentially accelerating AI-driven job replacement in tech and related fields.",
-      "date": "2026-04-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-23/tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
+      "id": "ai-chip-startup-cerebras-files-for-ipo",
+      "title": "AI chip startup Cerebras files for IPO",
+      "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
+      "date": "2026-04-18",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI development",
-        "tech competition",
-        "job replacement"
+        "corporate investment",
+        "job displacement"
       ],
-      "fetchedAt": "2026-04-23T11:00:42.214Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-meet-will-take-ai-notes-for-in-person-meetings-too",
-      "title": "Google Meet will take AI notes for in-person meetings too",
-      "summary": "Google's expansion of AI meeting note-taking to in-person and other platforms increases the potential for AI to replace human roles in administrative and communication tasks.",
-      "date": "2026-04-22",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workplace automation",
-        "meeting technology"
-      ],
-      "fetchedAt": "2026-04-23T11:00:41.219Z",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "business-and-financial"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-s-mythos-rollout-has-missed-america-s-cybersecurity-agency",
-      "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
-      "summary": "The exclusion of CISA from using Anthropic's AI cybersecurity tool may slow the adoption of AI in critical government roles, potentially delaying job replacement in cybersecurity.",
-      "date": "2026-04-22",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "cybersecurity",
-        "government",
-        "ai-adoption"
-      ],
-      "fetchedAt": "2026-04-23T11:00:40.054Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own",
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
-      "summary": "OpenAI's new workspace agents enable automated task completion, accelerating AI's role in replacing human jobs in administrative and business roles.",
-      "date": "2026-04-22",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI automation",
-        "job displacement",
-        "business tasks"
-      ],
-      "fetchedAt": "2026-04-23T11:00:38.890Z",
-      "categories": [
-        "office-and-administrative-support",
-        "business-and-financial",
-        "computer-and-information-technology"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses",
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "summary": "The partnership between OpenAI and Infosys accelerates AI adoption in software development and IT operations, increasing the likelihood of AI replacing certain tech-related jobs.",
-      "date": "2026-04-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "software development",
-        "automation"
-      ],
-      "fetchedAt": "2026-04-23T11:00:37.774Z",
+      "fetchedAt": "2026-04-19T11:00:34.227Z",
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3852,32 +3617,284 @@
       ]
     },
     {
-      "id": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterpri",
-      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-      "summary": "Google's new enterprise agent tool may accelerate AI adoption in technical roles, potentially impacting job responsibilities in IT and related fields.",
-      "date": "2026-04-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
+      "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
+      "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
+      "date": "2026-04-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "AI development",
-        "enterprise tools",
-        "job automation"
+        "government policy",
+        "corporate collaboration"
       ],
-      "fetchedAt": "2026-04-23T11:00:36.743Z",
+      "fetchedAt": "2026-04-19T11:00:44.933Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-executive-kevin-weil-is-leaving-the-company",
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
+      "date": "2026-04-17",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "effect": "delay",
+      "impactScore": 2,
+      "tags": [
+        "executive-changes",
+        "ai-development"
+      ],
+      "fetchedAt": "2026-04-19T11:00:43.906Z",
       "categories": [
         "computer-and-information-technology",
         "_all"
       ]
+    },
+    {
+      "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
+      "date": "2026-04-17",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "government contracts",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-04-19T11:00:41.961Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-s-former-sora-boss-is-leaving",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
+      "date": "2026-04-17",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "job market",
+        "company restructuring"
+      ],
+      "fetchedAt": "2026-04-19T11:00:40.038Z",
+      "categories": [
+        "computer-and-information-technology",
+        "media-and-communication",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "corporate strategy",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-19T11:00:38.959Z",
+      "contentType": "video",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
+    },
+    {
+      "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "automation",
+        "design"
+      ],
+      "fetchedAt": "2026-04-19T11:00:37.890Z",
+      "categories": [
+        "arts-and-design",
+        "computer-and-information-technology",
+        "management"
+      ]
+    },
+    {
+      "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "job displacement",
+        "industry trends"
+      ],
+      "fetchedAt": "2026-04-19T11:00:36.936Z",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
+      "date": "2026-04-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "organizational change",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-04-19T11:00:35.923Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
+      "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
+      "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
+      "date": "2026-04-17",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "universal-basic-income",
+        "AI-employment-impact",
+        "policy-response"
+      ],
+      "fetchedAt": "2026-04-19T11:00:33.153Z",
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
+      "title": "Nervous Indian Fintechs Push Anthropic for Access to Mythos",
+      "summary": "Indian fintech companies seeking early access to a powerful AI model may accelerate AI adoption in financial services, increasing the risk of job displacement in the sector.",
+      "date": "2026-04-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "fintech",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-04-17T11:00:56.853Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "loan-officers",
+        "financial-examiners",
+        "credit-counselors",
+        "budget-analysts"
+      ]
+    },
+    {
+      "id": "iconiq-go-to-wealth-adviser-for-tech-s-elite-is-putting-billions-into-ai",
+      "title": "Iconiq, Go-To Wealth Adviser for Tech’s Elite, Is Putting Billions Into AI",
+      "summary": "Investment in AI by a major wealth adviser suggests growing confidence in AI's potential, which may accelerate its adoption and job replacement in various sectors.",
+      "date": "2026-04-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/iconiq-advisor-to-tech-billionaires-emerges-as-major-ai-investor",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI investment",
+        "job replacement",
+        "wealth management"
+      ],
+      "fetchedAt": "2026-04-17T11:00:55.798Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "occupationIDs": [
+        "financial-analysts",
+        "personal-financial-advisors",
+        "software-developers",
+        "data-scientists",
+        "computer-systems-analysts"
+      ]
+    },
+    {
+      "id": "anthropic-plots-major-london-expansion",
+      "title": "Anthropic Plots Major London Expansion",
+      "summary": "Anthropic's London expansion suggests growth in human workforce, potentially slowing AI-driven job replacement in the short term.",
+      "date": "2026-04-16",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "workforce growth",
+        "company expansion"
+      ],
+      "fetchedAt": "2026-04-17T11:00:54.749Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "occupationIDs": [
+        "computer-and-information-systems-managers",
+        "software-developers",
+        "data-scientists",
+        "project-management-specialists",
+        "management-analysts"
+      ]
     }
   ],
-  "generatedAt": "2026-04-25T12:00:00.000Z",
+  "generatedAt": "2026-04-25T12:22:17.163Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Drive Job Market Shifts",
-      "preview": "Strong AI developments signal ongoing job displacement pressures.",
-      "body": "Recent news highlights significant AI advancements, with multiple reports indicating growing automation in tech and cybersecurity. Key developments include Intel's AI investment, Google's $40B stake in Anthropic, and new models from DeepSeek and OpenAI. These signals suggest a continued acceleration in AI-driven job replacement, particularly in technology and related fields."
+      "title": "AI Advances Continue to Drive Job Replacement Pressure",
+      "preview": "Major AI developments signal rising pressure across tech and service sectors.",
+      "body": "Recent advancements, including DeepSeek's new model and OpenAI's GPT-5.5, highlight ongoing progress in AI capabilities that could accelerate job replacement in tech and related fields. Investments like Google's $40B stake in Anthropic further underscore the momentum. While most signals point to acceleration, the overall balance remains cautiously upward."
     }
   }
 }

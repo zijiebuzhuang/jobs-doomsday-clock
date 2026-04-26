@@ -9,14 +9,19 @@
     "preview": "vite preview",
     "compute": "node scripts/compute-clock.mjs",
     "refresh-data": "npm run fetch-news && npm run compute",
+    "refresh-rich-data": "npm run fetch-news && npm run backfill-media && npm run compute && npm run validate-rich-signals",
     "generate-guidance": "node scripts/generate-occupation-guidance.mjs",
     "enrich-guidance": "node scripts/enrich-guidance.mjs",
     "fetch-news": "node scripts/fetch-news.mjs",
+    "validate-rich-signals": "node scripts/validate-rich-signals.mjs",
     "save-history": "node scripts/save-history.mjs",
-    "backfill-news": "node scripts/backfill-news.mjs"
+    "backfill-news": "node scripts/backfill-news.mjs",
+    "backfill-media": "node scripts/backfill-media-metadata.mjs"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",
+    "mammoth": "^1.12.0",
+    "pdf-parse": "^2.4.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "rss-parser": "^3.13.0"
