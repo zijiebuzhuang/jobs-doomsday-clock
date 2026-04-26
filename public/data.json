@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:15",
-  "minutesToMidnight": 10,
-  "exactMinutesToMidnight": 9.749,
+  "displayTime": "23:50:32",
+  "minutesToMidnight": 9,
+  "exactMinutesToMidnight": 9.472,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.251,
+  "newsAdjustment": -3.528,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.325,
+  "macroReplacementRate": 49.344,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,56 @@
   ],
   "newsFeed": [
     {
+      "id": "google-to-invest-up-to-40b-in-anthropic",
+      "title": "Google to invest up to $40B in Anthropic",
+      "summary": "Google's investment in Anthropic signals increased AI development, potentially accelerating AI's impact on jobs.",
+      "date": "2026-04-25",
+      "source": "TechCrunch Daily Crunch",
+      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6195508513.mp3",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI investment",
+        "tech development",
+        "job market"
+      ],
+      "fetchedAt": "2026-04-26T11:01:17.766Z",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://dcs-cached.megaphone.fm/AIRWV6195508513.mp3?key=4bc02dd7c139f0d41cc3d164baebd2cd&request_event_id=1afffdcd-de08-4327-9af1-1602258c4b46&session_id=1afffdcd-de08-4327-9af1-1602258c4b46&timetoken=1777208432_39069D9B6F6CA4D6E1D3C896ED1BCA95",
+      "duration": "6 min"
+    },
+    {
+      "id": "tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt",
+      "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
+      "summary": "The discussion on AI-powered job automation and universal basic income suggests growing awareness of AI's impact on employment, potentially accelerating its adoption in the workforce.",
+      "date": "2026-04-24",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI",
+        "job automation",
+        "universal basic income"
+      ],
+      "fetchedAt": "2026-04-26T11:01:18.885Z",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_c539fcd0935a659a8ee84f0aff7ec455_77329284.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=77329284&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__1a41f861bdc6374a5a7d97774178bfe1facb1c37",
+      "duration": "01:14:39"
+    },
+    {
       "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
       "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
       "summary": "China's DeepSeek releasing an advanced AI model could accelerate AI's ability to replace jobs in tech and coding-related fields.",
@@ -3575,6 +3625,31 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
+      "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
+      "title": "Netflix co-founder Reed Hastings: stories, schools, superpowers",
+      "summary": "The discussion highlights AI's growing influence in entertainment, signaling its increasing role in reshaping industries and potentially displacing jobs.",
+      "date": "2026-04-22",
+      "source": "Apple Podcasts - Possible",
+      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT1497885631.mp3?updated=1776845334",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI",
+        "entertainment",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-26T11:01:19.933Z",
+      "contentType": "podcast",
+      "categories": [
+        "media-and-communication",
+        "entertainment-and-sports",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
+      "duration": "61 min"
+    },
+    {
       "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
       "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
       "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
@@ -3615,6 +3690,31 @@
         "management",
         "_all"
       ]
+    },
+    {
+      "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
+      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
+      "summary": "The article highlights growing public backlash against AI, which may slow its adoption and job replacement efforts.",
+      "date": "2026-04-17",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI backlash",
+        "public perception",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-26T11:01:21.609Z",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
+      "duration": "01:03:21"
     },
     {
       "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
@@ -3785,113 +3885,14 @@
         "management",
         "_all"
       ]
-    },
-    {
-      "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
-      "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
-      "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
-      "date": "2026-04-17",
-      "source": "AI Jobs",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "universal-basic-income",
-        "AI-employment-impact",
-        "policy-response"
-      ],
-      "fetchedAt": "2026-04-19T11:00:33.153Z",
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
-      "title": "Nervous Indian Fintechs Push Anthropic for Access to Mythos",
-      "summary": "Indian fintech companies seeking early access to a powerful AI model may accelerate AI adoption in financial services, increasing the risk of job displacement in the sector.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/nervous-indian-fintechs-push-anthropic-for-access-to-mythos",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "fintech",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-04-17T11:00:56.853Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "loan-officers",
-        "financial-examiners",
-        "credit-counselors",
-        "budget-analysts"
-      ]
-    },
-    {
-      "id": "iconiq-go-to-wealth-adviser-for-tech-s-elite-is-putting-billions-into-ai",
-      "title": "Iconiq, Go-To Wealth Adviser for Tech’s Elite, Is Putting Billions Into AI",
-      "summary": "Investment in AI by a major wealth adviser suggests growing confidence in AI's potential, which may accelerate its adoption and job replacement in various sectors.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/iconiq-advisor-to-tech-billionaires-emerges-as-major-ai-investor",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI investment",
-        "job replacement",
-        "wealth management"
-      ],
-      "fetchedAt": "2026-04-17T11:00:55.798Z",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "occupationIDs": [
-        "financial-analysts",
-        "personal-financial-advisors",
-        "software-developers",
-        "data-scientists",
-        "computer-systems-analysts"
-      ]
-    },
-    {
-      "id": "openai-s-vision-for-the-ai-economy",
-      "title": "OpenAI's vision for the AI economy",
-      "summary": "OpenAI's policy proposals suggest a shift in how wealth and work are structured in an AI-driven economy, potentially accelerating AI's role in replacing human jobs.",
-      "date": "2026-04-07",
-      "source": "TechCrunch Daily Crunch",
-      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1807379045.mp3",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI economy",
-        "policy",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-25T12:21:19.706Z",
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV1807379045.mp3?key=459125855e09d93dbfdad76830292d3a&request_event_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&session_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&timetoken=1777178613_9D1F024C96D7C4676CE93B17F7ABFD9B",
-      "duration": "8 min"
     }
   ],
-  "generatedAt": "2026-04-26T02:43:41.629Z",
+  "generatedAt": "2026-04-26T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Daily signal pulse",
-      "preview": "A quick read on the latest pulse, led by China’s DeepSeek previews new AI model a year after jolting US rivals.",
-      "body": "This update is split between 16 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"China’s DeepSeek previews new AI model a year after jolting US rivals\" (The Verge - AI), while the clearest drag comes from \"OpenAI’s former Sora boss is leaving\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.251 minutes. Updated 2026-04-26T02:43:41.629Z, with the macro replacement estimate at 49.3%."
+      "title": "AI Investment Surge Signals Accelerated Job Shifts",
+      "preview": "Major AI investments and advancements suggest growing pressure on jobs.",
+      "body": "Recent developments, including Google's $40B investment in Anthropic and the release of GPT-5.5, indicate a strong push toward AI adoption. Discussions on AI-driven job automation and new models from DeepSeek and OpenAI further highlight the accelerating pace of AI integration across industries."
     }
   }
 }

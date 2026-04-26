@@ -1,5 +1,221 @@
 [
   {
+    "date": "2026-04-26",
+    "minutesToMidnight": 9,
+    "exactMinutesToMidnight": 9.472,
+    "macroReplacementRate": 49.344,
+    "newsAdjustment": -3.528,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "google-to-invest-up-to-40b-in-anthropic",
+        "title": "Google to invest up to $40B in Anthropic",
+        "summary": "Google's investment in Anthropic signals increased AI development, potentially accelerating AI's impact on jobs.",
+        "date": "2026-04-25",
+        "source": "TechCrunch Daily Crunch",
+        "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6195508513.mp3",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI investment",
+          "tech development",
+          "job market"
+        ],
+        "fetchedAt": "2026-04-26T11:01:17.766Z",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://dcs-cached.megaphone.fm/AIRWV6195508513.mp3?key=4bc02dd7c139f0d41cc3d164baebd2cd&request_event_id=1afffdcd-de08-4327-9af1-1602258c4b46&session_id=1afffdcd-de08-4327-9af1-1602258c4b46&timetoken=1777208432_39069D9B6F6CA4D6E1D3C896ED1BCA95",
+        "duration": "6 min"
+      },
+      {
+        "id": "tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt",
+        "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
+        "summary": "The discussion on AI-powered job automation and universal basic income suggests growing awareness of AI's impact on employment, potentially accelerating its adoption in the workforce.",
+        "date": "2026-04-24",
+        "source": "Apple Podcasts - Hard Fork",
+        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI",
+          "job automation",
+          "universal basic income"
+        ],
+        "fetchedAt": "2026-04-26T11:01:18.885Z",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+        "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_c539fcd0935a659a8ee84f0aff7ec455_77329284.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=77329284&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__1a41f861bdc6374a5a7d97774178bfe1facb1c37",
+        "duration": "01:14:39"
+      },
+      {
+        "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
+        "title": "Netflix co-founder Reed Hastings: stories, schools, superpowers",
+        "summary": "The discussion highlights AI's growing influence in entertainment, signaling its increasing role in reshaping industries and potentially displacing jobs.",
+        "date": "2026-04-22",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT1497885631.mp3?updated=1776845334",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI",
+          "entertainment",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-26T11:01:19.933Z",
+        "contentType": "podcast",
+        "categories": [
+          "media-and-communication",
+          "entertainment-and-sports",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
+        "duration": "61 min"
+      },
+      {
+        "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
+        "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
+        "summary": "The article highlights growing public backlash against AI, which may slow its adoption and job replacement efforts.",
+        "date": "2026-04-17",
+        "source": "Apple Podcasts - Hard Fork",
+        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI backlash",
+          "public perception",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-26T11:01:21.609Z",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+        "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
+        "duration": "01:03:21"
+      },
+      {
+        "id": "ai-for-atoms-how-periodic-labs-is-revolutionizing-materials-engineering-with-co-",
+        "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
+        "summary": "AI is being applied to materials engineering, potentially accelerating innovation and possibly replacing some roles in the field.",
+        "date": "2026-04-03",
+        "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+        "sourceUrl": "https://traffic.megaphone.fm/PDP2440813202.mp3",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI innovation",
+          "materials engineering",
+          "automation"
+        ],
+        "fetchedAt": "2026-04-26T11:01:24.693Z",
+        "contentType": "podcast",
+        "categories": [
+          "life-physical-and-social-science",
+          "architecture-and-engineering",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/715b6286-2ee2-11f1-9103-d36fcb5d0ecb/image/8764c0509f08136567471f38e800fdf8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://dcs-cached.megaphone.fm/PDP2440813202.mp3?key=abbed8fb8d63fe71698ee09429bb5f05&request_event_id=a6bb7891-2107-41e2-92e4-b712ad3f3063&session_id=a6bb7891-2107-41e2-92e4-b712ad3f3063&timetoken=1777208461_F4D65B07177D3589C14AD84F53E8C9A0",
+        "duration": "29 min"
+      },
+      {
+        "id": "humans-secretly-prefer-ai-writing",
+        "title": "Humans secretly prefer AI writing",
+        "summary": "The article discusses AI's role in creativity and application layers, suggesting that human involvement remains significant, potentially slowing AI job replacement.",
+        "date": "2026-03-18",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT2094947999.mp3?updated=1773814465",
+        "effect": "delay",
+        "impactScore": 2,
+        "tags": [
+          "AI impact",
+          "human-AI collaboration"
+        ],
+        "fetchedAt": "2026-04-26T11:01:26.377Z",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "arts-and-design",
+          "media-and-communication"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/6619dd6c-2253-11f1-ba94-939004352ba3/image/b2cc3848484a1ee89fdd4d35c590abe2.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT2094947999.mp3?key=983ec4a0d5f03895160a266831c19f57&request_event_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&session_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&timetoken=1777208467_1AC3E9149F2270645E2BA22A6CC67FFD",
+        "duration": "24 min"
+      },
+      {
+        "id": "introducing-4d-creation-open-beta-npcs-4d-worlds-and-the-future-of-gaming-with-r",
+        "title": "Introducing 4D Creation Open Beta: NPCs, 4D Worlds, and the Future of Gaming with Roblox CEO Dave Baszucki",
+        "summary": "The development of advanced AI-driven gaming tools may contribute to the automation of creative and interactive content creation, potentially impacting roles in entertainment and design.",
+        "date": "2026-02-05",
+        "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+        "sourceUrl": "https://traffic.megaphone.fm/PDP8508027868.mp3?updated=1770311094",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "gaming",
+          "automation"
+        ],
+        "fetchedAt": "2026-04-26T11:01:27.444Z",
+        "contentType": "podcast",
+        "categories": [
+          "arts-and-design",
+          "entertainment-and-sports",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/803e0244-9d0f-11ed-923a-4bb54bf77468/image/NO_PRIORS_ALBUM_and_PROFILE_PIC-01.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://dcs-cached.megaphone.fm/PDP8508027868.mp3?key=6534d519726b484b974136c1649fbc3f&request_event_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&session_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&timetoken=1777208462_1534A468B0B5B56B1BBB898937859287",
+        "duration": "44 min"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT\" (Apple Podcasts - Hard Fork), while the clearest drag comes from \"A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming\" (Apple Podcasts - Hard Fork). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.528 minutes. Updated 2026-04-26T12:00:00.000Z, with the macro replacement estimate at 49.3%."
+      }
+    }
+  },
+  {
     "date": "2026-04-25",
     "minutesToMidnight": 9,
     "exactMinutesToMidnight": 8.884,
@@ -6838,47 +7054,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-27T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-26",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-26T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
