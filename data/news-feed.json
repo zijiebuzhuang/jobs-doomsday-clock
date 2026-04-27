@@ -1,5 +1,27 @@
 [
   {
+    "id": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "This development shows AI agents can perform complex economic tasks, accelerating the potential for AI to replace human roles in commerce and related fields.",
+    "date": "2026-04-25",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "economic automation",
+      "labor market"
+    ],
+    "fetchedAt": "2026-04-27T11:01:29.009Z",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "office-and-administrative-support"
+    ],
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+  },
+  {
     "id": "google-to-invest-up-to-40b-in-anthropic",
     "title": "Google to invest up to $40B in Anthropic",
     "summary": "Google's investment in Anthropic signals increased AI development, potentially accelerating AI's impact on jobs.",
@@ -111,6 +133,50 @@
       "management",
       "_all"
     ]
+  },
+  {
+    "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
+    "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+    "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI advancement",
+      "coding",
+      "automation"
+    ],
+    "fetchedAt": "2026-04-27T11:01:33.203Z",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-s-mythos-breach-was-humiliating",
+    "title": "Anthropic’s Mythos breach was humiliating",
+    "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
+    "date": "2026-04-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "cybersecurity",
+      "AI deployment"
+    ],
+    "fetchedAt": "2026-04-27T11:01:32.158Z",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
@@ -846,6 +912,31 @@
       "compliance-officers",
       "accountants-and-auditors"
     ]
+  },
+  {
+    "id": "the-grid-lock-slowing-ai-down",
+    "title": "The grid(lock) slowing AI down",
+    "summary": "The article highlights challenges and bottlenecks in AI infrastructure, suggesting that AI adoption may be slower than expected, potentially delaying its impact on job replacement.",
+    "date": "2026-04-15",
+    "source": "Apple Podcasts - Possible",
+    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT1384990980.mp3?updated=1776235173",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI infrastructure",
+      "geopolitical risks",
+      "adoption challenges"
+    ],
+    "fetchedAt": "2026-04-27T11:01:24.144Z",
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/db8d6e7c-388f-11f1-b41f-c3186e2b5dc7/image/470260b036000ddc380ac1cbce8d8b0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://dcs-spotify.megaphone.fm/CONCENT1384990980.mp3?key=8a124c1e35025c79cf6f0b6f9afd3c16&request_event_id=754db60a-aa6e-4419-a755-4d03f160d1d4&session_id=754db60a-aa6e-4419-a755-4d03f160d1d4&timetoken=1777294873_1E9386670244BED8A1A822B89DCE973A",
+    "duration": "28 min"
   },
   {
     "id": "google-launches-a-gemini-ai-app-on-mac",

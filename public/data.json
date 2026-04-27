@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:32",
+  "displayTime": "23:50:44",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.472,
+  "exactMinutesToMidnight": 9.26,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.528,
+  "newsAdjustment": -3.74,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.344,
+  "macroReplacementRate": 49.359,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,28 @@
   ],
   "newsFeed": [
     {
+      "id": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "summary": "This development shows AI agents can perform complex economic tasks, accelerating the potential for AI to replace human roles in commerce and related fields.",
+      "date": "2026-04-25",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI agents",
+        "economic automation",
+        "labor market"
+      ],
+      "fetchedAt": "2026-04-27T11:01:29.009Z",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "office-and-administrative-support"
+      ],
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+    },
+    {
       "id": "google-to-invest-up-to-40b-in-anthropic",
       "title": "Google to invest up to $40B in Anthropic",
       "summary": "Google's investment in Anthropic signals increased AI development, potentially accelerating AI's impact on jobs.",
@@ -3559,6 +3581,50 @@
         "management",
         "_all"
       ]
+    },
+    {
+      "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "The new GPT-5.5 model's improved coding and task automation capabilities could accelerate AI's role in replacing human jobs in tech and related fields.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI advancement",
+        "coding",
+        "automation"
+      ],
+      "fetchedAt": "2026-04-27T11:01:33.203Z",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-mythos-breach-was-humiliating",
+      "title": "Anthropic’s Mythos breach was humiliating",
+      "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
+      "date": "2026-04-23",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "cybersecurity",
+        "AI deployment"
+      ],
+      "fetchedAt": "2026-04-27T11:01:32.158Z",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
@@ -3822,77 +3888,14 @@
         "_all"
       ],
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
-    },
-    {
-      "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "automation",
-        "design"
-      ],
-      "fetchedAt": "2026-04-19T11:00:37.890Z",
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "job displacement",
-        "industry trends"
-      ],
-      "fetchedAt": "2026-04-19T11:00:36.936Z",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
-      "date": "2026-04-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "organizational change",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-04-19T11:00:35.923Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-04-26T12:00:00.000Z",
+  "generatedAt": "2026-04-27T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Investment Surge Signals Accelerated Job Shifts",
-      "preview": "Major AI investments and advancements suggest growing pressure on jobs.",
-      "body": "Recent developments, including Google's $40B investment in Anthropic and the release of GPT-5.5, indicate a strong push toward AI adoption. Discussions on AI-driven job automation and new models from DeepSeek and OpenAI further highlight the accelerating pace of AI integration across industries."
+      "title": "AI Advances Continue to Drive Job Replacement Pressure",
+      "preview": "New AI developments and investments signal growing job replacement risks.",
+      "body": "Several key advances in AI capabilities and investment, including Google's $40B stake in Anthropic and the release of advanced models like GPT-5.5, suggest a continued acceleration in AI-driven job displacement. Discussions around AI's impact on employment, such as in podcasts, highlight increased awareness but not yet significant countermeasures. Overall, the balance of signals points toward ongoing pressure on jobs."
     }
   }
 }
