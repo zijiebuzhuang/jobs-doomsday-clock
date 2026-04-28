@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:44",
+  "displayTime": "23:50:48",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.26,
+  "exactMinutesToMidnight": 9.2,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.74,
+  "newsAdjustment": -3.8,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.359,
+  "macroReplacementRate": 49.363,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,52 @@
   ],
   "newsFeed": [
     {
+      "id": "openai-linked-stocks-slump-on-report-of-startup-missing-targets",
+      "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets",
+      "summary": "The news suggests challenges in AI startup performance, which may slow investment and adoption of AI technologies, potentially delaying job replacement by AI.",
+      "date": "2026-04-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "investment",
+        "job market"
+      ],
+      "fetchedAt": "2026-04-28T11:00:53.368Z",
+      "sourceGroup": "business",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+    },
+    {
+      "id": "attack-of-the-killer-script-kiddies",
+      "title": "Attack of the killer script kiddies",
+      "summary": "AI systems are demonstrating enhanced capabilities in identifying software vulnerabilities, suggesting increased automation in cybersecurity roles.",
+      "date": "2026-04-28",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "cybersecurity",
+        "automation"
+      ],
+      "fetchedAt": "2026-04-28T11:00:52.310Z",
+      "sourceGroup": "ai-news",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
       "id": "anthropic-created-a-test-marketplace-for-agent-on-agent-commerce",
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "summary": "This development shows AI agents can perform complex economic tasks, accelerating the potential for AI to replace human roles in commerce and related fields.",
@@ -3462,13 +3508,13 @@
         "labor market"
       ],
       "fetchedAt": "2026-04-27T11:01:29.009Z",
+      "sourceGroup": "business",
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "office-and-administrative-support"
       ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
-      "sourceGroup": "business"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
     },
     {
       "id": "google-to-invest-up-to-40b-in-anthropic",
@@ -3485,6 +3531,7 @@
         "job market"
       ],
       "fetchedAt": "2026-04-26T11:01:17.766Z",
+      "sourceGroup": "ai-news",
       "contentType": "podcast",
       "categories": [
         "computer-and-information-technology",
@@ -3493,8 +3540,7 @@
       ],
       "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "mediaUrl": "https://dcs-cached.megaphone.fm/AIRWV6195508513.mp3?key=4bc02dd7c139f0d41cc3d164baebd2cd&request_event_id=1afffdcd-de08-4327-9af1-1602258c4b46&session_id=1afffdcd-de08-4327-9af1-1602258c4b46&timetoken=1777208432_39069D9B6F6CA4D6E1D3C896ED1BCA95",
-      "duration": "6 min",
-      "sourceGroup": "ai-news"
+      "duration": "6 min"
     },
     {
       "id": "tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt",
@@ -3511,6 +3557,7 @@
         "universal basic income"
       ],
       "fetchedAt": "2026-04-26T11:01:18.885Z",
+      "sourceGroup": "ai-news",
       "contentType": "podcast",
       "categories": [
         "computer-and-information-technology",
@@ -3519,8 +3566,7 @@
       ],
       "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
       "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_c539fcd0935a659a8ee84f0aff7ec455_77329284.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=77329284&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__1a41f861bdc6374a5a7d97774178bfe1facb1c37",
-      "duration": "01:14:39",
-      "sourceGroup": "ai-news"
+      "duration": "01:14:39"
     },
     {
       "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
@@ -3537,13 +3583,13 @@
         "tech innovation"
       ],
       "fetchedAt": "2026-04-25T12:21:24.450Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "production",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "ai-news"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
@@ -3560,11 +3606,11 @@
         "pharmaceuticals"
       ],
       "fetchedAt": "2026-04-25T12:21:23.160Z",
+      "sourceGroup": "research",
       "categories": [
         "life-physical-and-social-science",
         "computer-and-information-technology"
-      ],
-      "sourceGroup": "research"
+      ]
     },
     {
       "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
@@ -3581,12 +3627,38 @@
         "job displacement"
       ],
       "fetchedAt": "2026-04-25T12:21:22.278Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
+      ]
+    },
+    {
+      "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
+      "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
+      "summary": "The shift from traditional search engines to AI-driven information retrieval signals a growing role for AI in replacing human-driven online queries, impacting jobs related to search and digital services.",
+      "date": "2026-04-23",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/googles-liz-reid-on-who-will-own-search-in-a-world-of-ai",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "tech disruption",
+        "job replacement"
       ],
-      "sourceGroup": "ai-news"
+      "fetchedAt": "2026-04-28T11:00:46.107Z",
+      "sourceGroup": "business",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "media-and-communication"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/96deb7b5-7fae-4040-a3c7-b4350008bd04/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "51 min"
     },
     {
       "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
@@ -3603,13 +3675,13 @@
         "automation"
       ],
       "fetchedAt": "2026-04-27T11:01:33.203Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "management",
         "business-and-financial"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "ai-news"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "anthropic-s-mythos-breach-was-humiliating",
@@ -3626,13 +3698,13 @@
         "AI deployment"
       ],
       "fetchedAt": "2026-04-27T11:01:32.158Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "protective-service",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "ai-news"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
@@ -3649,12 +3721,12 @@
         "technology development"
       ],
       "fetchedAt": "2026-04-25T12:21:27.299Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "office-and-administrative-support",
         "_all"
-      ],
-      "sourceGroup": "ai-news"
+      ]
     },
     {
       "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
@@ -3671,12 +3743,12 @@
         "customer service"
       ],
       "fetchedAt": "2026-04-25T12:21:26.291Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "office-and-administrative-support",
         "computer-and-information-technology",
         "_all"
-      ],
-      "sourceGroup": "ai-news"
+      ]
     },
     {
       "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
@@ -3693,13 +3765,13 @@
         "job automation"
       ],
       "fetchedAt": "2026-04-25T12:21:25.329Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "office-and-administrative-support",
         "personal-care-and-service"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "ai-news"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
       "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
@@ -3716,6 +3788,7 @@
         "job displacement"
       ],
       "fetchedAt": "2026-04-26T11:01:19.933Z",
+      "sourceGroup": "ai-news",
       "contentType": "podcast",
       "categories": [
         "media-and-communication",
@@ -3724,8 +3797,32 @@
       ],
       "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
-      "duration": "61 min",
-      "sourceGroup": "ai-news"
+      "duration": "61 min"
+    },
+    {
+      "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos",
+      "summary": "The use of AI by NSA spies suggests increased adoption of AI in sensitive roles, potentially accelerating AI's role in replacing human jobs.",
+      "date": "2026-04-21",
+      "source": "TechCrunch Daily Crunch",
+      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "government technology"
+      ],
+      "fetchedAt": "2026-04-28T11:00:47.157Z",
+      "sourceGroup": "ai-news",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
+      "duration": "7 min"
     },
     {
       "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
@@ -3742,148 +3839,12 @@
         "hardware coding"
       ],
       "fetchedAt": "2026-04-19T11:00:42.966Z",
+      "sourceGroup": "ai-news",
       "categories": [
         "computer-and-information-technology",
         "architecture-and-engineering",
         "production"
-      ],
-      "sourceGroup": "ai-news"
-    },
-    {
-      "id": "ai-chip-startup-cerebras-files-for-ipo",
-      "title": "AI chip startup Cerebras files for IPO",
-      "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
-      "date": "2026-04-18",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "corporate investment",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-19T11:00:34.227Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "sourceGroup": "ai-news"
-    },
-    {
-      "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
-      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
-      "summary": "The article highlights growing public backlash against AI, which may slow its adoption and job replacement efforts.",
-      "date": "2026-04-17",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI backlash",
-        "public perception",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-26T11:01:21.609Z",
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
-      "duration": "01:03:21",
-      "sourceGroup": "ai-news"
-    },
-    {
-      "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
-      "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
-      "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
-      "date": "2026-04-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "government policy",
-        "corporate collaboration"
-      ],
-      "fetchedAt": "2026-04-19T11:00:44.933Z",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "sourceGroup": "business"
-    },
-    {
-      "id": "openai-executive-kevin-weil-is-leaving-the-company",
-      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-      "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
-      "date": "2026-04-17",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-      "effect": "delay",
-      "impactScore": 2,
-      "tags": [
-        "executive-changes",
-        "ai-development"
-      ],
-      "fetchedAt": "2026-04-19T11:00:43.906Z",
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "sourceGroup": "ai-news"
-    },
-    {
-      "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
-      "date": "2026-04-17",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "government contracts",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-04-19T11:00:41.961Z",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "policy"
-    },
-    {
-      "id": "openai-s-former-sora-boss-is-leaving",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
-      "date": "2026-04-17",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "job market",
-        "company restructuring"
-      ],
-      "fetchedAt": "2026-04-19T11:00:40.038Z",
-      "categories": [
-        "computer-and-information-technology",
-        "media-and-communication",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "sourceGroup": "ai-news"
+      ]
     },
     {
       "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
@@ -3900,22 +3861,72 @@
         "job displacement"
       ],
       "fetchedAt": "2026-04-19T11:00:38.959Z",
+      "sourceGroup": "ai-news",
       "contentType": "video",
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
         "_all"
       ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
-      "sourceGroup": "ai-news"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
+    },
+    {
+      "id": "planet-money-turned-everyday-annoyances-into-an-economics-book",
+      "title": "Planet Money Turned Everyday Annoyances Into an Economics Book",
+      "summary": "The article highlights common concerns about AI replacing jobs but does not directly address how AI is impacting or will impact specific job roles, suggesting a more general discussion rather than a concrete development in AI's effect on labor.",
+      "date": "2026-04-17",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/041726-odd-lots-planet-money-edit-v2",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI",
+        "job concerns",
+        "economic impact"
+      ],
+      "fetchedAt": "2026-04-28T11:00:48.237Z",
+      "sourceGroup": "business",
+      "contentType": "podcast",
+      "categories": [
+        "_all"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/eb4d0306-44c8-4b54-88dd-b42e01171174/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "39 min"
+    },
+    {
+      "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
+      "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
+      "summary": "The article highlights growing public backlash against AI, which may slow its adoption and job replacement efforts.",
+      "date": "2026-04-17",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI backlash",
+        "public perception",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-04-26T11:01:21.609Z",
+      "sourceGroup": "ai-news",
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
+      "duration": "01:03:21"
     }
   ],
-  "generatedAt": "2026-04-27T12:00:00.000Z",
+  "generatedAt": "2026-04-28T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Drive Job Replacement Pressure",
-      "preview": "New AI developments and investments signal growing job replacement risks.",
-      "body": "Several key advances in AI capabilities and investment, including Google's $40B stake in Anthropic and the release of advanced models like GPT-5.5, suggest a continued acceleration in AI-driven job displacement. Discussions around AI's impact on employment, such as in podcasts, highlight increased awareness but not yet significant countermeasures. Overall, the balance of signals points toward ongoing pressure on jobs."
+      "title": "AI Job Replacement Pressure Stabilizes Slightly",
+      "preview": "Mixed signals on AI's job impact, with some delays and advances.",
+      "body": "Recent news shows a balanced mix of AI progress and challenges. While OpenAI-linked stock declines suggest potential delays, several advancements—like AI in cybersecurity and commerce—indicate continued pressure. Overall, the macro replacement rate remains stable."
     }
   }
 }
