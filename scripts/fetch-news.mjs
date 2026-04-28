@@ -1,3 +1,4 @@
+import { execFileSync } from 'child_process'
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import Parser from 'rss-parser'
 import { pathToFileURL } from 'url'
@@ -52,15 +53,18 @@ function occupationReferenceBlock(occupationIndex) {
 }
 
 const BASE_RSS_FEEDS = [
-  { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'Google News - AI Workforce', url: 'https://news.google.com/rss/search?q=artificial+intelligence+workforce+impact&hl=en-US&gl=US&ceid=US:en' },
-  { name: 'TechCrunch - AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
-  { name: 'TechCrunch Daily Crunch', url: 'https://feeds.megaphone.fm/techcrunch-daily-crunch', contentType: 'podcast' },
-  { name: 'Ars Technica - AI', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab' },
-  { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/' },
-  { name: 'The Verge - AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' },
-  { name: 'Wired', url: 'https://www.wired.com/feed/rss' },
-  { name: 'Bloomberg Technology', url: 'https://feeds.bloomberg.com/technology/news.rss' },
+  { name: 'Google News - AI Jobs', url: 'https://news.google.com/rss/search?q=AI+automation+jobs+replacement&hl=en-US&gl=US&ceid=US:en', sourceGroup: 'labor-market' },
+  { name: 'Google News - AI Workforce', url: 'https://news.google.com/rss/search?q=artificial+intelligence+workforce+impact&hl=en-US&gl=US&ceid=US:en', sourceGroup: 'labor-market' },
+  { name: 'Google News - AI Skills', url: 'https://news.google.com/rss/search?q=AI+skills+upskilling+reskilling+workers&hl=en-US&gl=US&ceid=US:en', sourceGroup: 'labor-market' },
+  { name: 'Google News - AI Hiring', url: 'https://news.google.com/rss/search?q=AI+hiring+layoffs+workforce&hl=en-US&gl=US&ceid=US:en', sourceGroup: 'labor-market' },
+  { name: 'TechCrunch - AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/', sourceGroup: 'ai-news' },
+  { name: 'TechCrunch Daily Crunch', url: 'https://feeds.megaphone.fm/techcrunch-daily-crunch', contentType: 'podcast', sourceGroup: 'ai-news' },
+  { name: 'Ars Technica - AI', url: 'https://feeds.arstechnica.com/arstechnica/technology-lab', sourceGroup: 'ai-news' },
+  { name: 'MIT Tech Review', url: 'https://www.technologyreview.com/feed/', sourceGroup: 'research' },
+  { name: 'The Verge - AI', url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', sourceGroup: 'ai-news' },
+  { name: 'Wired', url: 'https://www.wired.com/feed/rss', sourceGroup: 'ai-news' },
+  { name: 'Bloomberg Technology', url: 'https://feeds.bloomberg.com/technology/news.rss', sourceGroup: 'business' },
+  { name: 'Harvard Business Review', url: 'https://feeds.hbr.org/harvardbusiness', sourceGroup: 'business' },
 ]
 
 const YOUTUBE_RSS_FEEDS = (process.env.YOUTUBE_CHANNEL_IDS || '')
@@ -71,6 +75,7 @@ const YOUTUBE_RSS_FEEDS = (process.env.YOUTUBE_CHANNEL_IDS || '')
     name: 'YouTube',
     url: `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channelID)}`,
     contentType: 'video',
+    sourceGroup: 'ai-news',
   }))
 
 const DEFAULT_APPLE_PODCAST_IDS = [
@@ -78,7 +83,14 @@ const DEFAULT_APPLE_PODCAST_IDS = [
   '1528594034', // Hard Fork
   '1668002688', // No Priors
   '1677184070', // Possible
+  '1200361736', // a16z Podcast
+  '1056200096', // HBR IdeaCast
 ]
+
+const PODCAST_SOURCE_GROUP_OVERRIDES = {
+  '1200361736': 'business',
+  '1056200096': 'business',
+}
 
 function applePodcastIDs() {
   const configuredIDs = (process.env.APPLE_PODCAST_IDS || '')
@@ -105,6 +117,7 @@ async function fetchApplePodcastFeeds() {
         name: result.collectionName ? `Apple Podcasts - ${result.collectionName}` : `Apple Podcasts - ${podcastID}`,
         url: result.feedUrl,
         contentType: 'podcast',
+        sourceGroup: PODCAST_SOURCE_GROUP_OVERRIDES[podcastID] || 'ai-news',
       })
     } catch (err) {
       console.warn(`  ✗ Apple Podcasts ${podcastID}: ${err.message}`)
@@ -198,7 +211,7 @@ async function fetchRSSFeeds() {
   for (const feed of rssFeeds) {
     try {
       console.log(`Fetching: ${feed.name}...`)
-      const result = await parser.parseURL(feed.url)
+      const result = await parser.parseString(fetchRSSXML(feed.url))
       const feedImageUrl = imageURLFromItunesImage(result.itunesImage)
         || result.image?.url
         || result.image?.href
@@ -259,19 +272,16 @@ async function fetchRSSFeeds() {
           sourceUrl: link,
           mediaUrl,
         })
-        const resolvedMediaUrl = contentType === 'podcast'
-          ? await resolveFinalMediaURL(mediaUrl)
-          : mediaUrl
-
         allItems.push({
           title: item.title || '',
           link,
           contentSnippet: item.contentSnippet || item.content || '',
           pubDate: item.pubDate || item.isoDate || '',
           source: feed.name,
+          sourceGroup: feed.sourceGroup,
           imageUrl,
           contentType,
-          mediaUrl: resolvedMediaUrl,
+          mediaUrl,
           duration: formatDuration(item['itunes:duration'] || item.itunes?.duration),
         })
       }
@@ -284,22 +294,22 @@ async function fetchRSSFeeds() {
   return allItems
 }
 
-async function resolveFinalMediaURL(url) {
-  if (!url) return url
+function fetchRSSXML(url) {
+  const args = [
+    '-sS',
+    '--location',
+    '--max-time',
+    '20',
+    '--user-agent',
+    'HowFarBot/1.0 (+https://jobdoomsday.tech)',
+    url,
+  ]
 
-  try {
-    const response = await fetch(url, {
-      method: 'HEAD',
-      redirect: 'follow',
-      signal: AbortSignal.timeout(12000),
-      headers: {
-        'User-Agent': 'HowFarBot/1.0 (+https://jobdoomsday.tech)',
-      },
-    })
-    return response.url || url
-  } catch {
-    return url
-  }
+  return execFileSync('curl', args, {
+    encoding: 'utf-8',
+    env: process.env,
+    maxBuffer: 8 * 1024 * 1024,
+  })
 }
 
 function imageURLFromItunesImage(value) {
@@ -373,6 +383,7 @@ Respond with ONLY valid JSON (no markdown):
         summary: parsed.summary,
         date: article.pubDate || Date.now(),
         source: article.source.replace(/^Google News - /, ''),
+        sourceGroup: article.sourceGroup,
         sourceUrl: article.link,
         effect: parsed.effect,
         impactScore: parsed.impactScore,

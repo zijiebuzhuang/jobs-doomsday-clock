@@ -9,14 +9,16 @@
     "preview": "vite preview",
     "compute": "node scripts/compute-clock.mjs",
     "refresh-data": "npm run fetch-news && npm run compute",
-    "refresh-rich-data": "npm run fetch-news && npm run backfill-media && npm run compute && npm run validate-rich-signals",
+    "refresh-rich-data": "npm run fetch-news && npm run backfill-media && npm run compute && npm run save-history && npm run backfill-source-groups && npm run validate-rich-signals && npm run validate-rich-history",
     "generate-guidance": "node scripts/generate-occupation-guidance.mjs",
     "enrich-guidance": "node scripts/enrich-guidance.mjs",
     "fetch-news": "node scripts/fetch-news.mjs",
     "validate-rich-signals": "node scripts/validate-rich-signals.mjs",
+    "validate-rich-history": "node scripts/validate-rich-signals.mjs public/clock-history.json",
     "save-history": "node scripts/save-history.mjs",
     "backfill-news": "node scripts/backfill-news.mjs",
-    "backfill-media": "node scripts/backfill-media-metadata.mjs"
+    "backfill-media": "node scripts/backfill-media-metadata.mjs",
+    "backfill-source-groups": "node scripts/backfill-source-groups.mjs"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",

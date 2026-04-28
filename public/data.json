@@ -3467,7 +3467,8 @@
         "computer-and-information-technology",
         "office-and-administrative-support"
       ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+      "sourceGroup": "business"
     },
     {
       "id": "google-to-invest-up-to-40b-in-anthropic",
@@ -3492,7 +3493,8 @@
       ],
       "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "mediaUrl": "https://dcs-cached.megaphone.fm/AIRWV6195508513.mp3?key=4bc02dd7c139f0d41cc3d164baebd2cd&request_event_id=1afffdcd-de08-4327-9af1-1602258c4b46&session_id=1afffdcd-de08-4327-9af1-1602258c4b46&timetoken=1777208432_39069D9B6F6CA4D6E1D3C896ED1BCA95",
-      "duration": "6 min"
+      "duration": "6 min",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt",
@@ -3517,7 +3519,8 @@
       ],
       "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
       "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_c539fcd0935a659a8ee84f0aff7ec455_77329284.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=77329284&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__1a41f861bdc6374a5a7d97774178bfe1facb1c37",
-      "duration": "01:14:39"
+      "duration": "01:14:39",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
@@ -3539,7 +3542,8 @@
         "production",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
@@ -3559,7 +3563,8 @@
       "categories": [
         "life-physical-and-social-science",
         "computer-and-information-technology"
-      ]
+      ],
+      "sourceGroup": "research"
     },
     {
       "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
@@ -3580,7 +3585,8 @@
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
@@ -3602,7 +3608,8 @@
         "management",
         "business-and-financial"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "anthropic-s-mythos-breach-was-humiliating",
@@ -3624,7 +3631,8 @@
         "protective-service",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
@@ -3645,7 +3653,8 @@
         "computer-and-information-technology",
         "office-and-administrative-support",
         "_all"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
@@ -3666,7 +3675,8 @@
         "office-and-administrative-support",
         "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
@@ -3688,7 +3698,8 @@
         "office-and-administrative-support",
         "personal-care-and-service"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
@@ -3713,7 +3724,8 @@
       ],
       "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
-      "duration": "61 min"
+      "duration": "61 min",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
@@ -3734,7 +3746,8 @@
         "computer-and-information-technology",
         "architecture-and-engineering",
         "production"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "ai-chip-startup-cerebras-files-for-ipo",
@@ -3755,7 +3768,8 @@
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
@@ -3780,7 +3794,8 @@
       ],
       "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
       "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
-      "duration": "01:03:21"
+      "duration": "01:03:21",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
@@ -3801,7 +3816,8 @@
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
+      ],
+      "sourceGroup": "business"
     },
     {
       "id": "openai-executive-kevin-weil-is-leaving-the-company",
@@ -3820,7 +3836,8 @@
       "categories": [
         "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "sourceGroup": "ai-news"
     },
     {
       "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
@@ -3842,7 +3859,8 @@
         "protective-service",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "policy"
     },
     {
       "id": "openai-s-former-sora-boss-is-leaving",
@@ -3864,7 +3882,8 @@
         "media-and-communication",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "sourceGroup": "ai-news"
     },
     {
       "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
@@ -3887,7 +3906,8 @@
         "business-and-financial",
         "_all"
       ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+      "sourceGroup": "ai-news"
     }
   ],
   "generatedAt": "2026-04-27T12:00:00.000Z",

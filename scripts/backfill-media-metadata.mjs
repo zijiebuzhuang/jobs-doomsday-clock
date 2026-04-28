@@ -27,14 +27,6 @@ for (const item of items) {
       updated += 1
     }
   }
-
-  if (contentType === 'podcast' && item.mediaUrl) {
-    const mediaUrl = await resolveFinalMediaURL(item.mediaUrl)
-    if (mediaUrl && mediaUrl !== item.mediaUrl) {
-      item.mediaUrl = mediaUrl
-      updated += 1
-    }
-  }
 }
 
 writeFileSync(path, JSON.stringify(items, null, 2))
@@ -45,6 +37,7 @@ async function fetchOpenGraphImage(url) {
 
   try {
     const response = await fetch(url, {
+      signal: AbortSignal.timeout(8000),
       headers: {
         'User-Agent': 'HowFarBot/1.0 (+https://jobdoomsday.tech)',
       },
@@ -69,22 +62,6 @@ function metaContent(html, attributeName, attributeValue) {
 
 function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-}
-
-async function resolveFinalMediaURL(url) {
-  try {
-    const response = await fetch(url, {
-      method: 'HEAD',
-      redirect: 'follow',
-      signal: AbortSignal.timeout(12000),
-      headers: {
-        'User-Agent': 'HowFarBot/1.0 (+https://jobdoomsday.tech)',
-      },
-    })
-    return response.url || url
-  } catch {
-    return url
-  }
 }
 
 function defaultPodcastImageURL(source = '') {

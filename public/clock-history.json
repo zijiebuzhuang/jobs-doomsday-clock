@@ -52,7 +52,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support"
         ],
-        "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+        "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
+        "sourceGroup": "business"
       },
       {
         "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
@@ -74,7 +75,8 @@
           "management",
           "business-and-financial"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-s-mythos-breach-was-humiliating",
@@ -96,7 +98,8 @@
           "protective-service",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "the-grid-lock-slowing-ai-down",
@@ -121,7 +124,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/db8d6e7c-388f-11f1-b41f-c3186e2b5dc7/image/470260b036000ddc380ac1cbce8d8b0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-spotify.megaphone.fm/CONCENT1384990980.mp3?key=8a124c1e35025c79cf6f0b6f9afd3c16&request_event_id=754db60a-aa6e-4419-a755-4d03f160d1d4&session_id=754db60a-aa6e-4419-a755-4d03f160d1d4&timetoken=1777294873_1E9386670244BED8A1A822B89DCE973A",
-        "duration": "28 min"
+        "duration": "28 min",
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -188,7 +192,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-cached.megaphone.fm/AIRWV6195508513.mp3?key=4bc02dd7c139f0d41cc3d164baebd2cd&request_event_id=1afffdcd-de08-4327-9af1-1602258c4b46&session_id=1afffdcd-de08-4327-9af1-1602258c4b46&timetoken=1777208432_39069D9B6F6CA4D6E1D3C896ED1BCA95",
-        "duration": "6 min"
+        "duration": "6 min",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "tim-cook-s-legacy-the-future-of-u-b-i-with-andrew-yang-hatgpt",
@@ -213,7 +218,8 @@
         ],
         "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
         "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/ac282ff8-0da8-48ed-89ae-04b1c46acf10/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_c539fcd0935a659a8ee84f0aff7ec455_77329284.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=ac282ff8-0da8-48ed-89ae-04b1c46acf10&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=77329284&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__1a41f861bdc6374a5a7d97774178bfe1facb1c37",
-        "duration": "01:14:39"
+        "duration": "01:14:39",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
@@ -238,7 +244,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
-        "duration": "61 min"
+        "duration": "61 min",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "a-i-backlash-turns-violent-kara-swisher-on-healthmaxxing-the-zuck-bot-is-coming",
@@ -263,7 +270,8 @@
         ],
         "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
         "mediaUrl": "https://nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/710cf5d4-bb73-4c52-a887-bc653a8e6ff9/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_839b5510b2b7b0c0a72215cf671f6068_66445631.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=710cf5d4-bb73-4c52-a887-bc653a8e6ff9&feed=6HKOhNgS&hash_redirect=1&x-total-bytes=66445631&x-ais-classified=unclassified&listeningSessionID=0CD_382_115__de9c70f6420316045dfdb433ced761c22110b56c",
-        "duration": "01:03:21"
+        "duration": "01:03:21",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "ai-for-atoms-how-periodic-labs-is-revolutionizing-materials-engineering-with-co-",
@@ -288,7 +296,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/715b6286-2ee2-11f1-9103-d36fcb5d0ecb/image/8764c0509f08136567471f38e800fdf8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-cached.megaphone.fm/PDP2440813202.mp3?key=abbed8fb8d63fe71698ee09429bb5f05&request_event_id=a6bb7891-2107-41e2-92e4-b712ad3f3063&session_id=a6bb7891-2107-41e2-92e4-b712ad3f3063&timetoken=1777208461_F4D65B07177D3589C14AD84F53E8C9A0",
-        "duration": "29 min"
+        "duration": "29 min",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "humans-secretly-prefer-ai-writing",
@@ -312,7 +321,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/6619dd6c-2253-11f1-ba94-939004352ba3/image/b2cc3848484a1ee89fdd4d35c590abe2.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT2094947999.mp3?key=983ec4a0d5f03895160a266831c19f57&request_event_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&session_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&timetoken=1777208467_1AC3E9149F2270645E2BA22A6CC67FFD",
-        "duration": "24 min"
+        "duration": "24 min",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "introducing-4d-creation-open-beta-npcs-4d-worlds-and-the-future-of-gaming-with-r",
@@ -337,7 +347,8 @@
         ],
         "imageUrl": "https://megaphone.imgix.net/podcasts/803e0244-9d0f-11ed-923a-4bb54bf77468/image/NO_PRIORS_ALBUM_and_PROFILE_PIC-01.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
         "mediaUrl": "https://dcs-cached.megaphone.fm/PDP8508027868.mp3?key=6534d519726b484b974136c1649fbc3f&request_event_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&session_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&timetoken=1777208462_1534A468B0B5B56B1BBB898937859287",
-        "duration": "44 min"
+        "duration": "44 min",
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -400,7 +411,8 @@
           "computer-and-information-technology",
           "management",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "wall-street-week-anthropic-cybersecurity-risk-byd-goes-global-the-billionaire-ne",
@@ -421,7 +433,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
@@ -441,7 +454,8 @@
         "categories": [
           "life-physical-and-social-science",
           "computer-and-information-technology"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
@@ -462,7 +476,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -525,7 +540,8 @@
           "computer-and-information-technology",
           "life-physical-and-social-science",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
@@ -547,7 +563,8 @@
           "production",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "you-re-about-to-feel-the-ai-money-squeeze",
@@ -569,7 +586,8 @@
           "business-and-financial",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vincentkilbride-theverge-ai-monetisation.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-says-its-new-gpt-5-5-model-is-more-efficient-and-better-at-coding",
@@ -591,7 +609,8 @@
           "management",
           "business-and-financial"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-s-mythos-breach-was-humiliating",
@@ -613,7 +632,8 @@
           "protective-service",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
@@ -635,7 +655,8 @@
           "office-and-administrative-support",
           "personal-care-and-service"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
@@ -656,7 +677,8 @@
           "computer-and-information-technology",
           "business-and-financial",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
@@ -677,7 +699,8 @@
           "office-and-administrative-support",
           "computer-and-information-technology",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -740,7 +763,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
@@ -761,7 +785,8 @@
           "computer-and-information-technology",
           "business-and-financial",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "tencent-unveils-ai-model-in-high-stakes-test-for-openai-hire",
@@ -781,7 +806,8 @@
         "categories": [
           "computer-and-information-technology",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "google-meet-will-take-ai-notes-for-in-person-meetings-too",
@@ -803,7 +829,8 @@
           "computer-and-information-technology",
           "business-and-financial"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-s-mythos-rollout-has-missed-america-s-cybersecurity-agency",
@@ -824,7 +851,8 @@
           "computer-and-information-technology",
           "protective-service"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-now-lets-teams-make-custom-bots-that-can-do-work-on-their-own",
@@ -846,7 +874,8 @@
           "business-and-financial",
           "computer-and-information-technology"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses",
@@ -867,7 +896,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterpri",
@@ -887,7 +917,8 @@
         "categories": [
           "computer-and-information-technology",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-turns-chrome-into-an-ai-co-worker-for-the-workplace",
@@ -908,7 +939,8 @@
           "office-and-administrative-support",
           "computer-and-information-technology",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -971,7 +1003,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "japan-top-officials-to-meet-banks-to-discuss-mythos-threat",
@@ -992,7 +1025,8 @@
           "business-and-financial",
           "computer-and-information-technology",
           "management"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "openai-poaches-airbnb-executive-to-be-first-director-for-emea",
@@ -1013,7 +1047,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "anthropic-s-most-dangerous-ai-model-just-fell-into-the-wrong-hands",
@@ -1035,7 +1070,8 @@
           "management",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469782/STK269_ANTHROPIC_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-s-updated-image-generator-can-now-pull-information-from-the-web",
@@ -1057,7 +1093,8 @@
           "computer-and-information-technology",
           "media-and-communication"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/chatgpt-images-2-magazine.png?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion",
@@ -1079,7 +1116,8 @@
           "management",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "chatgpt-s-new-images-2-0-model-is-surprisingly-good-at-generating-text",
@@ -1100,7 +1138,8 @@
           "computer-and-information-technology",
           "arts-and-design",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60b",
@@ -1121,7 +1160,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-rolls-out-gemini-in-chrome-in-apac-countries",
@@ -1142,7 +1182,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support",
           "management"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
@@ -1161,7 +1202,8 @@
         "fetchedAt": "2026-04-22T11:00:40.846Z",
         "categories": [
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -1223,7 +1265,8 @@
         "categories": [
           "computer-and-information-technology",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos-despite-pentagon-feud",
@@ -1244,7 +1287,8 @@
           "computer-and-information-technology",
           "protective-service",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-rolls-out-gemini-in-chrome-in-7-new-countries",
@@ -1265,7 +1309,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support",
           "media-and-communication"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
@@ -1286,7 +1331,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -1348,7 +1394,8 @@
         "categories": [
           "business-and-financial",
           "computer-and-information-technology"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
@@ -1369,7 +1416,8 @@
           "computer-and-information-technology",
           "production",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "verizon-ceo-urges-transparency-about-ai-job-cuts-let-s-data-science",
@@ -1390,7 +1438,8 @@
           "computer-and-information-technology",
           "management",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "the-surprising-facts-will-ai-replace-human-jobs-or-make-new-ones-talentsprint",
@@ -1411,7 +1460,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "ai-job-loss-statistics-2026-who-s-losing-who-s-hiring-etc-sq-magazine",
@@ -1432,7 +1482,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support",
           "production"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -1495,7 +1546,8 @@
           "computer-and-information-technology",
           "architecture-and-engineering",
           "production"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "ai-chip-startup-cerebras-files-for-ipo",
@@ -1516,7 +1568,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
@@ -1537,7 +1590,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "openai-executive-kevin-weil-is-leaving-the-company",
@@ -1556,7 +1610,8 @@
         "categories": [
           "computer-and-information-technology",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
@@ -1578,7 +1633,8 @@
           "protective-service",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "policy"
       },
       {
         "id": "openai-s-former-sora-boss-is-leaving",
@@ -1600,7 +1656,8 @@
           "media-and-communication",
           "_all"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
@@ -1621,7 +1678,9 @@
           "computer-and-information-technology",
           "business-and-financial",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news",
+        "contentType": "video"
       },
       {
         "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
@@ -1642,7 +1701,8 @@
           "arts-and-design",
           "computer-and-information-technology",
           "management"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
@@ -1663,7 +1723,8 @@
           "computer-and-information-technology",
           "business-and-financial",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
@@ -1684,7 +1745,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
@@ -1703,7 +1765,8 @@
         "fetchedAt": "2026-04-19T11:00:33.153Z",
         "categories": [
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -1813,7 +1876,8 @@
           "financial-examiners",
           "credit-counselors",
           "budget-analysts"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "iconiq-go-to-wealth-adviser-for-tech-s-elite-is-putting-billions-into-ai",
@@ -1841,7 +1905,8 @@
           "software-developers",
           "data-scientists",
           "computer-systems-analysts"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "anthropic-plots-major-london-expansion",
@@ -1869,7 +1934,8 @@
           "data-scientists",
           "project-management-specialists",
           "management-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "the-battle-for-openai-s-soul",
@@ -1897,7 +1963,8 @@
           "data-scientists",
           "computer-programmers",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-releases-a-new-opus-model-amid-mythos-preview-buzz",
@@ -1926,7 +1993,8 @@
           "information-security-analysts",
           "web-developers"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "gemini-can-now-pull-from-google-photos-to-generate-personalized-images",
@@ -1955,7 +2023,8 @@
           "set-and-exhibit-designers",
           "fashion-designers"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-8.32.59AM.png?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-s-big-codex-update-is-a-direct-shot-at-claude-code",
@@ -1983,7 +2052,8 @@
           "database-administrators",
           "information-security-analysts"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-16-at-13.01.11.png?quality=90&strip=all&crop=0,5.8356559824806,100,89.31166633486",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "why-having-humans-in-the-loop-in-an-ai-war-is-an-illusion",
@@ -2011,7 +2081,8 @@
           "security-guards",
           "computer-systems-analysts",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "treating-enterprise-ai-as-an-operating-layer",
@@ -2039,7 +2110,8 @@
           "database-administrators",
           "information-security-analysts",
           "network-and-computer-systems-administrators"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "anthropic-cpo-leaves-figma-s-board-after-reports-he-will-offer-a-competing-produ",
@@ -2067,7 +2139,8 @@
           "computer-systems-analysts",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over",
@@ -2093,7 +2166,8 @@
           "computer-programmers",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises",
@@ -2121,7 +2195,8 @@
           "computer-programmers",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "ai-replacing-jobs-statistics-by-sector-and-automation-trends-2026-bayelsa-watch",
@@ -2149,7 +2224,8 @@
           "database-administrators",
           "information-security-analysts",
           "project-management-specialists"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "anthropic-identifies-the-jobs-most-exposed-to-ai-risks-is-your-occupation-affect",
@@ -2170,7 +2246,8 @@
           "computer-and-information-technology",
           "office-and-administrative-support",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -2240,7 +2317,8 @@
           "loan-officers",
           "management-analysts",
           "financial-examiners"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
@@ -2267,7 +2345,8 @@
           "credit-counselors",
           "compliance-officers",
           "accountants-and-auditors"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "google-launches-a-gemini-ai-app-on-mac",
@@ -2296,7 +2375,8 @@
           "database-administrators",
           "information-security-analysts"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-rolls-out-a-native-gemini-app-for-mac",
@@ -2324,7 +2404,8 @@
           "database-administrators",
           "information-security-analysts",
           "web-developers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agent",
@@ -2352,7 +2433,8 @@
           "database-administrators",
           "information-security-analysts",
           "network-and-computer-systems-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -2422,7 +2504,8 @@
           "data-scientists",
           "computer-programmers",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
@@ -2443,7 +2526,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
@@ -2471,7 +2555,8 @@
           "web-developers",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "in-the-wake-of-anthropic-s-mythos-openai-has-a-new-cybersecurity-model-and-strat",
@@ -2498,7 +2583,8 @@
           "computer-support-specialists",
           "software-developers",
           "database-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "has-google-s-ai-watermarking-system-been-reverse-engineered-",
@@ -2527,7 +2613,8 @@
           "information-security-analysts",
           "database-administrators"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
@@ -2556,7 +2643,8 @@
           "receptionists",
           "financial-clerks"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
@@ -2585,7 +2673,8 @@
           "information-security-analysts",
           "computer-programmers"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-has-bought-ai-personal-finance-startup-hiro",
@@ -2612,7 +2701,8 @@
           "loan-officers",
           "budget-analysts",
           "credit-counselors"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-brings-its-gemini-personal-intelligence-feature-to-india",
@@ -2638,7 +2728,8 @@
           "customer-service-representatives",
           "general-office-clerks",
           "financial-clerks"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
@@ -2666,7 +2757,8 @@
           "web-developers",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "the-future-of-work-how-ai-automation-is-transforming-jobs-and-careers-worldwide-",
@@ -2694,7 +2786,8 @@
           "project-management-specialists",
           "computer-systems-analysts",
           "software-developers"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthr",
@@ -2723,7 +2816,8 @@
           "software-developers",
           "data-scientists"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
@@ -2744,7 +2838,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -2815,7 +2910,8 @@
           "software-developers",
           "data-scientists"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -2884,7 +2980,8 @@
           "data-scientists",
           "information-security-analysts",
           "web-developers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
@@ -2912,7 +3009,8 @@
           "computer-systems-analysts",
           "data-scientists",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -2982,7 +3080,8 @@
           "set-and-exhibit-designers",
           "art-directors"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
@@ -3010,7 +3109,8 @@
           "community-health-workers",
           "rehabilitation-counselors",
           "substance-abuse-behavioral-disorder-and-mental-health-counselors"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "florida-launches-investigation-into-openai",
@@ -3039,7 +3139,8 @@
           "database-administrators",
           "network-and-computer-systems-administrators"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
@@ -3068,7 +3169,8 @@
           "database-administrators",
           "information-security-analysts"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       },
       {
         "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
@@ -3096,7 +3198,8 @@
           "software-developers",
           "computer-support-specialists",
           "computer-network-architects"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
@@ -3124,7 +3227,8 @@
           "information-security-analysts",
           "database-administrators",
           "network-and-computer-systems-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3195,7 +3299,8 @@
           "industrial-engineers",
           "computer-hardware-engineers"
         ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3265,7 +3370,8 @@
           "software-developers",
           "computer-systems-analysts",
           "database-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-8217-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
@@ -3293,7 +3399,8 @@
           "mechanical-engineers",
           "architects",
           "industrial-engineers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
@@ -3321,7 +3428,8 @@
           "project-management-specialists",
           "computer-systems-analysts",
           "software-developers"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -3391,7 +3499,8 @@
           "database-administrators",
           "information-security-analysts",
           "web-developers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3461,7 +3570,8 @@
           "substance-abuse-behavioral-disorder-and-mental-health-counselors",
           "community-health-workers",
           "school-and-career-counselors"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
@@ -3488,7 +3598,8 @@
           "software-developers",
           "computer-support-specialists",
           "database-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-maps-can-now-write-captions-for-your-photos-using-ai",
@@ -3516,7 +3627,8 @@
           "editors",
           "writers-and-authors",
           "public-relations-specialists"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
@@ -3544,7 +3656,8 @@
           "data-scientists",
           "network-and-computer-systems-administrators",
           "database-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybersecurity-in",
@@ -3571,7 +3684,8 @@
           "software-developers",
           "computer-systems-analysts",
           "computer-network-architects"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "ai-job-replacement-fear-why-ai-creates-new-work-pakistan-today",
@@ -3591,7 +3705,8 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "what-jobs-will-ai-replace-snhu-edu",
@@ -3610,7 +3725,8 @@
         "fetchedAt": "2026-04-08T00:00:34.277Z",
         "categories": [
           "_all"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -3673,7 +3789,8 @@
           "computer-and-information-technology",
           "management",
           "business-and-financial"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "openai-s-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-da",
@@ -3701,7 +3818,8 @@
           "butchers-and-meat-cutters",
           "welders-cutters-solderers-and-brazers",
           "machinists-and-tool-and-die-makers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund-",
@@ -3729,7 +3847,8 @@
           "data-scientists",
           "information-security-analysts",
           "computer-network-architects"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3799,7 +3918,8 @@
           "customer-service-representatives",
           "meeting-convention-and-event-planners",
           "project-management-specialists"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3869,7 +3989,8 @@
           "computer-programmers",
           "database-administrators",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {
@@ -3940,7 +4061,8 @@
           "medical-scientists",
           "data-scientists",
           "software-developers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
@@ -3968,7 +4090,8 @@
           "data-scientists",
           "information-security-analysts",
           "training-and-development-specialists"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -4038,7 +4161,8 @@
           "software-developers",
           "web-developers",
           "information-security-analysts"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "microsoft-s-new-superintelligence-game-plan-is-all-about-business",
@@ -4066,7 +4190,8 @@
           "information-security-analysts",
           "data-scientists",
           "network-and-computer-systems-administrators"
-        ]
+        ],
+        "sourceGroup": "business"
       },
       {
         "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
@@ -4090,7 +4215,8 @@
           "physicians-and-surgeons",
           "registered-nurses",
           "speech-language-pathologists"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "ai-jobs-vs-human-jobs-anthropic-study-reveals-roles-ai-could-replace-and-jobs-al",
@@ -4118,7 +4244,8 @@
           "software-developers",
           "database-administrators",
           "computer-support-specialists"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
@@ -4145,7 +4272,8 @@
           "probation-officers-and-correctional-treatment-specialists",
           "community-health-workers",
           "school-and-career-counselors"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       }
     ],
     "signalSummaries": {
@@ -4215,7 +4343,8 @@
           "receptionists",
           "bookkeeping-accounting-and-auditing-clerks",
           "information-clerks"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
@@ -4243,7 +4372,8 @@
           "project-management-specialists",
           "budget-analysts",
           "cost-estimators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise",
@@ -4271,7 +4401,8 @@
           "data-scientists",
           "information-security-analysts",
           "computer-network-architects"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-is-having-a-month",
@@ -4299,7 +4430,8 @@
           "data-scientists",
           "information-security-analysts",
           "network-and-computer-systems-administrators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "the-download-ai-health-tools-and-the-pentagon-s-anthropic-culture-war",
@@ -4325,7 +4457,8 @@
           "pharmacists",
           "physicians-and-surgeons",
           "nurse-anesthetists-nurse-midwives-and-nurse-practitioners"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "eu-passes-ai-workplace-protection-act",
@@ -4352,7 +4485,8 @@
           "management-analysts",
           "financial-analysts",
           "compliance-officers"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "all-the-latest-in-ai-8216-music-8217-",
@@ -4381,7 +4515,8 @@
           "producers-and-directors",
           "graphic-designers",
           "multimedia-artists-and-animators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "google-automates-40-percent-of-code-review",
@@ -4409,7 +4544,8 @@
           "database-administrators",
           "web-developers",
           "computer-systems-analysts"
-        ]
+        ],
+        "sourceGroup": "research"
       },
       {
         "id": "bluesky-s-new-app-is-an-ai-for-customizing-your-feed",
@@ -4437,7 +4573,8 @@
           "writers-and-authors",
           "public-relations-specialists",
           "film-and-video-editors-and-camera-operators"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "study-shows-ai-creates-more-jobs-than-it-displaces",
@@ -4465,7 +4602,8 @@
           "financial-analysts",
           "management-analysts",
           "project-management-specialists"
-        ]
+        ],
+        "sourceGroup": "labor-market"
       },
       {
         "id": "amazon-replaces-customer-service-team-with-ai",
@@ -4489,7 +4627,8 @@
         ],
         "occupationIDs": [
           "customer-service-representatives"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       },
       {
         "id": "anthropic-claude-passes-bar-exam-with-top-scores",
@@ -4514,7 +4653,8 @@
         "occupationIDs": [
           "lawyers",
           "paralegals-and-legal-assistants"
-        ]
+        ],
+        "sourceGroup": "ai-news"
       }
     ],
     "signalSummaries": {

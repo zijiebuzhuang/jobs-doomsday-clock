@@ -21,6 +21,16 @@ export const BLS_CATEGORIES = [
 
 const VALID_CATEGORIES = new Set([...BLS_CATEGORIES, '_all'])
 
+export const SIGNAL_SOURCE_GROUPS = [
+  'ai-news',
+  'business',
+  'labor-market',
+  'research',
+  'policy',
+]
+
+const VALID_SOURCE_GROUPS = new Set(SIGNAL_SOURCE_GROUPS)
+
 export function startOfShanghaiDay(value) {
   const date = new Date(value)
   const shifted = new Date(date.getTime() + 8 * 60 * 60 * 1000)
@@ -142,6 +152,59 @@ export function normalizeContentType(item = {}) {
     || 'article'
 }
 
+export function normalizeSourceGroup(item = {}) {
+  const explicitGroup = sanitizeNewsText(item.sourceGroup).toLowerCase()
+  if (VALID_SOURCE_GROUPS.has(explicitGroup)) return explicitGroup
+
+  const sourceText = sanitizeNewsText(item.source).toLowerCase()
+  const titleText = sanitizeNewsText(item.title).toLowerCase()
+  const combinedText = `${sourceText} ${titleText}`
+
+  if (
+    combinedText.includes('workforce') ||
+    combinedText.includes('labor') ||
+    combinedText.includes('labour') ||
+    combinedText.includes('jobs') ||
+    combinedText.includes('employment') ||
+    combinedText.includes('hiring') ||
+    combinedText.includes('layoff')
+  ) {
+    return 'labor-market'
+  }
+
+  if (
+    combinedText.includes('bloomberg') ||
+    combinedText.includes('business') ||
+    combinedText.includes('market') ||
+    combinedText.includes('earnings') ||
+    combinedText.includes('wall street')
+  ) {
+    return 'business'
+  }
+
+  if (
+    combinedText.includes('mit tech review') ||
+    combinedText.includes('research') ||
+    combinedText.includes('deepmind') ||
+    combinedText.includes('paper') ||
+    combinedText.includes('study')
+  ) {
+    return 'research'
+  }
+
+  if (
+    combinedText.includes('policy') ||
+    combinedText.includes('regulation') ||
+    combinedText.includes('regulator') ||
+    combinedText.includes('senate') ||
+    combinedText.includes('government')
+  ) {
+    return 'policy'
+  }
+
+  return 'ai-news'
+}
+
 export function makeId(title) {
   return sanitizeNewsText(title).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
 }
@@ -197,6 +260,7 @@ export function normalizeCategories(rawCategories) {
 export function normalizeFeedItem(item) {
   const categories = normalizeCategories(item.categories ?? item.affectedCategories)
   const contentType = normalizeContentType(item)
+  const sourceGroup = normalizeSourceGroup(item)
   const normalizedTitle = sanitizeNewsText(item.title)
   const normalized = {
     id: makeId(item.id || normalizedTitle),
@@ -209,6 +273,7 @@ export function normalizeFeedItem(item) {
     impactScore: Math.min(5, Math.max(1, Math.round(Number(item.impactScore) || 1))),
     tags: Array.isArray(item.tags) ? item.tags.map(sanitizeNewsText).filter(Boolean) : [],
     fetchedAt: item.fetchedAt || item.date || item.publishedAt || item.pubDate || '',
+    sourceGroup,
   }
 
   if (contentType !== 'article') {
