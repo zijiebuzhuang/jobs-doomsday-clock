@@ -65,6 +65,16 @@ const BASE_RSS_FEEDS = [
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', sourceGroup: 'ai-news' },
   { name: 'Bloomberg Technology', url: 'https://feeds.bloomberg.com/technology/news.rss', sourceGroup: 'business' },
   { name: 'Harvard Business Review', url: 'https://feeds.hbr.org/harvardbusiness', sourceGroup: 'business' },
+  { name: 'OpenAI', url: 'https://openai.com/news/rss.xml', sourceGroup: 'official' },
+  { name: 'Microsoft AI', url: 'https://blogs.microsoft.com/ai/feed/', sourceGroup: 'official' },
+  { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/blog/feed/', sourceGroup: 'research' },
+  { name: 'NVIDIA Developer - Generative AI', url: 'https://developer.nvidia.com/blog/category/generative-ai/feed/', sourceGroup: 'official' },
+  { name: 'arXiv - AI Labor', url: 'https://export.arxiv.org/api/query?search_query=all:%22artificial%20intelligence%22+AND+all:labor&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending', sourceGroup: 'research' },
+  { name: 'arXiv - Generative AI Employment', url: 'https://export.arxiv.org/api/query?search_query=all:%22generative%20AI%22+AND+all:employment&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending', sourceGroup: 'research' },
+]
+
+const OFFICIAL_INDEX_PAGES = [
+  { name: 'Anthropic', url: 'https://www.anthropic.com/news', sourceGroup: 'official' },
 ]
 
 const YOUTUBE_RSS_FEEDS = (process.env.YOUTUBE_CHANNEL_IDS || '')
@@ -137,6 +147,9 @@ const AI_JOBS_KEYWORDS = [
   'job displacement', 'white collar ai', 'blue collar ai', 'ai coding', 'ai design',
   'ai writing', 'ai customer service', 'ai accounting', 'ai legal',
   'openai', 'anthropic', 'google ai', 'deepmind', 'claude', 'gemini',
+  'microsoft ai', 'nvidia ai', 'meta ai',
+  'artificial intelligence', 'machine learning', 'generative ai',
+  'labor market', 'labour market', 'productivity', 'employment',
 ]
 
 const FEED_PATH = 'data/news-feed.json'
@@ -294,6 +307,75 @@ async function fetchRSSFeeds() {
   return allItems
 }
 
+function stripHTML(value = '') {
+  return value.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+}
+
+function normalizePageURL(baseURL, href) {
+  try {
+    return new URL(href, baseURL).toString()
+  } catch {
+    return href
+  }
+}
+
+function parseDateOrFallback(value) {
+  const date = new Date(value)
+  return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString()
+}
+
+async function fetchOfficialIndexPages() {
+  const allItems = []
+
+  for (const page of OFFICIAL_INDEX_PAGES) {
+    try {
+      console.log(`Fetching: ${page.name} official page...`)
+      const html = fetchRSSXML(page.url)
+      const cardPattern = /<a\s+href="(?<href>\/news\/[^"]+)"[^>]*>(?<body>[\s\S]*?)<\/a>/gi
+      const seen = new Set()
+      let match
+
+      while ((match = cardPattern.exec(html)) && allItems.length < 30) {
+        const href = match.groups?.href
+        const body = match.groups?.body || ''
+        if (!href || seen.has(href)) continue
+
+        const titleMatch = body.match(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/i)
+        const dateMatch = body.match(/<time[^>]*>([\s\S]*?)<\/time>/i)
+        const paragraphMatch = body.match(/<p[^>]*>([\s\S]*?)<\/p>/i)
+        const title = sanitizePageText(titleMatch?.[1])
+        if (!title) continue
+
+        seen.add(href)
+        allItems.push({
+          title,
+          link: normalizePageURL(page.url, href),
+          contentSnippet: sanitizePageText(paragraphMatch?.[1]),
+          pubDate: parseDateOrFallback(sanitizePageText(dateMatch?.[1])),
+          source: page.name,
+          sourceGroup: page.sourceGroup,
+          contentType: 'article',
+        })
+      }
+
+      console.log(`  → Got ${seen.size} items`)
+    } catch (err) {
+      console.warn(`  ✗ Failed to fetch ${page.name}: ${err.message}`)
+    }
+  }
+
+  return allItems
+}
+
+function sanitizePageText(value = '') {
+  return stripHTML(value)
+    .replace(/&amp;/g, '&')
+    .replace(/&#x27;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&nbsp;/g, ' ')
+    .trim()
+}
+
 function fetchRSSXML(url) {
   const args = [
     '-sS',
@@ -411,7 +493,10 @@ async function main() {
   console.log('=== AI Jobs Doomsday Clock — News Fetcher ===\n')
 
   console.log('Step 1: Fetching RSS feeds...')
-  const rawItems = await fetchRSSFeeds()
+  const rawItems = [
+    ...await fetchRSSFeeds(),
+    ...await fetchOfficialIndexPages(),
+  ]
   console.log(`\nTotal raw items: ${rawItems.length}`)
 
   const relevant = rawItems.filter(item => isRelevant(item.title, item.contentSnippet))

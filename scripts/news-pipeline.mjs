@@ -27,6 +27,7 @@ export const SIGNAL_SOURCE_GROUPS = [
   'labor-market',
   'research',
   'policy',
+  'official',
 ]
 
 const VALID_SOURCE_GROUPS = new Set(SIGNAL_SOURCE_GROUPS)
@@ -161,6 +162,17 @@ export function normalizeSourceGroup(item = {}) {
   const combinedText = `${sourceText} ${titleText}`
 
   if (
+    combinedText.includes('openai') ||
+    combinedText.includes('anthropic') ||
+    combinedText.includes('microsoft ai') ||
+    combinedText.includes('nvidia developer') ||
+    combinedText.includes('meta ai') ||
+    combinedText.includes('claude')
+  ) {
+    return 'official'
+  }
+
+  if (
     combinedText.includes('workforce') ||
     combinedText.includes('labor') ||
     combinedText.includes('labour') ||
@@ -184,6 +196,9 @@ export function normalizeSourceGroup(item = {}) {
 
   if (
     combinedText.includes('mit tech review') ||
+    combinedText.includes('arxiv') ||
+    combinedText.includes('nber') ||
+    combinedText.includes('microsoft research') ||
     combinedText.includes('research') ||
     combinedText.includes('deepmind') ||
     combinedText.includes('paper') ||
