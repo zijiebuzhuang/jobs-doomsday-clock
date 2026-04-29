@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:48",
+  "displayTime": "23:50:52",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.2,
+  "exactMinutesToMidnight": 9.136,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.8,
+  "newsAdjustment": -3.864,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.363,
+  "macroReplacementRate": 49.368,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3921,12 +3921,12 @@
       "duration": "01:03:21"
     }
   ],
-  "generatedAt": "2026-04-28T12:00:00.000Z",
+  "generatedAt": "2026-04-29T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "Mixed signals on AI's job impact, with some delays and advances.",
-      "body": "Recent news shows a balanced mix of AI progress and challenges. While OpenAI-linked stock declines suggest potential delays, several advancements—like AI in cybersecurity and commerce—indicate continued pressure. Overall, the macro replacement rate remains stable."
+      "title": "AI Job Replacement Pressure Stabilizes Amid Mixed Signals",
+      "preview": "Mixed signals suggest a balanced outlook for AI job replacement.",
+      "body": "The latest news mix shows a balance between delays and advances in AI job replacement. A report on OpenAI-linked stocks slumping suggests potential slowdowns, while developments like Anthropic's marketplace and Google's investment highlight continued progress. Cybersecurity and drug design advancements also indicate growing AI capabilities."
     }
   }
 }

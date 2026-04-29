@@ -1,5 +1,227 @@
 [
   {
+    "date": "2026-04-29",
+    "minutesToMidnight": 9,
+    "exactMinutesToMidnight": 9.136,
+    "macroReplacementRate": 49.368,
+    "newsAdjustment": -3.864,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "disintegrating-the-org-chart-servicenow-s-jacqui-canney",
+        "title": "Disintegrating the Org Chart: ServiceNow’s Jacqui Canney",
+        "summary": "ServiceNow is integrating AI into employee onboarding, which could accelerate the replacement of certain administrative and support roles by automating tasks and improving efficiency.",
+        "date": "2026-04-07",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/disintegrating-the-org-chart-servicenows-jacqui-canney",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce automation",
+          "employee onboarding"
+        ],
+        "fetchedAt": "2026-04-29T11:01:18.729Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "management"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/a2d02c3e-1f15-11f1-b9f0-27e97a1d9a1b/image/ee87658146110ad71bff70f20a138a78.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO8869951031.mp3?updated=1773432112",
+        "duration": "35 min"
+      },
+      {
+        "id": "shifting-ai-from-fear-to-optimism-u-s-department-of-labor-s-taylor-stockton",
+        "title": "Shifting AI From Fear to Optimism: U.S. Department of Labor’s Taylor Stockton",
+        "summary": "The article highlights the need for workers and businesses to adapt to AI's widespread impact, suggesting a focus on preparation rather than immediate job replacement.",
+        "date": "2026-03-24",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/shifting-ai-from-fear-to-optimism-u-s-department-of-labors-taylor-stockton",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI literacy",
+          "workforce adaptation",
+          "economywide impact"
+        ],
+        "fetchedAt": "2026-04-29T11:01:20.506Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/4f287460-137b-11f1-98c9-97c3a224eb1a/image/d2362eb08f465426a6d7ae24b5c5111c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO8817201608.mp3?updated=1772156150",
+        "duration": "30 min"
+      },
+      {
+        "id": "from-coder-to-manager-navigating-the-shift-to-agentic-engineering-with-notion-co",
+        "title": "From Coder to Manager: Navigating the Shift to Agentic Engineering with Notion Co-Founder Simon Last",
+        "summary": "Notion's development of autonomous AI agents that can build integrations and write code highlights the growing capability of AI to take on complex engineering tasks, accelerating the shift toward AI replacing human jobs in tech roles.",
+        "date": "2026-03-12",
+        "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+        "sourceUrl": "https://traffic.megaphone.fm/PDP4039354704.mp3",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI development",
+          "job displacement",
+          "software engineering"
+        ],
+        "fetchedAt": "2026-04-29T11:01:21.801Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/1683311e-1dcf-11f1-b1e2-fbd9c92e8464/image/83eeae17eff1385214d8eec14ad36611.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://traffic.megaphone.fm/PDP4039354704.mp3",
+        "duration": "29 min"
+      },
+      {
+        "id": "an-industry-benchmark-for-data-fairness-sony-s-alice-xiang",
+        "title": "An Industry Benchmark for Data Fairness: Sony’s Alice Xiang",
+        "summary": "The focus on AI ethics and governance suggests a more cautious approach to AI implementation, which may slow its impact on job replacement.",
+        "date": "2026-03-10",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/an-industry-benchmark-for-data-fairness-sonys-alice-xiang",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "responsible AI",
+          "governance"
+        ],
+        "fetchedAt": "2026-04-29T11:01:22.992Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/92152620-0da8-11f1-96ba-3bd89207e3c8/image/38fe14e8a7847038fc93b6853c955121.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO1586791229.mp3?updated=1771516454",
+        "duration": "34 min"
+      },
+      {
+        "id": "how-notion-rebuilt-for-the-age-of-ai",
+        "title": "How Notion rebuilt for the age of AI",
+        "summary": "The article discusses how AI is reshaping organizational structures and work processes, suggesting a future where AI becomes a foundational part of the workplace, potentially accelerating job displacement.",
+        "date": "2026-03-04",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8484687597.mp3?updated=1772610872",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace transformation",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-04-29T11:01:24.140Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "office-and-administrative-support"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/65a3c7ce-179c-11f1-b828-2bb2d715f8c7/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8484687597.mp3?updated=1772610872",
+        "duration": "61 min"
+      },
+      {
+        "id": "ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu",
+        "title": "AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu",
+        "summary": "The article suggests that AI may not improve productivity and emphasizes the need to focus on tasks that complement human skills, potentially slowing AI's replacement of human jobs.",
+        "date": "2026-02-24",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI impact",
+          "labor market",
+          "productivity"
+        ],
+        "fetchedAt": "2026-04-29T11:01:25.266Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/039276a2-004f-11f1-8e87-0fcf2984f494/image/8c804adef9315ed0b24fce10ab9270fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO3483293532.mp3?updated=1770048298",
+        "duration": "33 min"
+      },
+      {
+        "id": "making-sense-of-the-layoff-wave",
+        "title": "Making sense of the layoff wave",
+        "summary": "The article suggests that current layoffs are not primarily caused by AI, but rather by economic factors, which may slow the perception of AI replacing human jobs.",
+        "date": "2026-02-11",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5189482961.mp3?updated=1770791485",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI impact",
+          "layoffs",
+          "economic factors"
+        ],
+        "fetchedAt": "2026-04-29T11:01:26.537Z",
+        "sourceGroup": "ai-news",
+        "contentType": "podcast",
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/4c6c980c-0708-11f1-9806-93af51d6f68d/image/470260b036000ddc380ac1cbce8d8b0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5189482961.mp3?updated=1770791485",
+        "duration": "30 min"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Disintegrating the Org Chart: ServiceNow’s Jacqui Canney.",
+        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Disintegrating the Org Chart: ServiceNow’s Jacqui Canney\" (Apple Podcasts - Me, Myself, and AI), while the clearest drag comes from \"AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu\" (Apple Podcasts - Me, Myself, and AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.864 minutes. Updated 2026-04-29T12:00:00.000Z, with the macro replacement estimate at 49.4%."
+      }
+    }
+  },
+  {
     "date": "2026-04-28",
     "minutesToMidnight": 9,
     "exactMinutesToMidnight": 9.2,
@@ -7367,47 +7589,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-01-30T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-01-29",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-01-29T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
