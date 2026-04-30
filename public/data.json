@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:50:52",
+  "displayTime": "23:50:51",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.136,
+  "exactMinutesToMidnight": 9.147,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.864,
+  "newsAdjustment": -3.853,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.368,
+  "macroReplacementRate": 49.367,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3921,12 +3921,12 @@
       "duration": "01:03:21"
     }
   ],
-  "generatedAt": "2026-04-29T12:00:00.000Z",
+  "generatedAt": "2026-04-30T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
       "title": "AI Job Replacement Pressure Stabilizes Amid Mixed Signals",
-      "preview": "Mixed signals suggest a balanced outlook for AI job replacement.",
-      "body": "The latest news mix shows a balance between delays and advances in AI job replacement. A report on OpenAI-linked stocks slumping suggests potential slowdowns, while developments like Anthropic's marketplace and Google's investment highlight continued progress. Cybersecurity and drug design advancements also indicate growing AI capabilities."
+      "preview": "Mixed news on AI advancement and investment affects job replacement trends.",
+      "body": "Recent signals show a balanced mix of delays and advances in AI job replacement. While some reports, like OpenAI-linked stock slumps, suggest potential slowdowns, others, such as Google's $40B investment in Anthropic and AI-driven cybersecurity improvements, indicate continued momentum. The overall pressure remains stable, with no clear directional shift."
     }
   }
 }
