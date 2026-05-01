@@ -1,5 +1,54 @@
 [
   {
+    "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
+    "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
+    "summary": "The integration of AI in medical settings suggests increased automation in healthcare, potentially replacing certain roles and accelerating AI's impact on jobs.",
+    "date": "2026-05-01",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI in healthcare",
+      "job displacement",
+      "technological advancement"
+    ],
+    "fetchedAt": "2026-05-01T11:01:02.657Z",
+    "sourceGroup": "ai-news",
+    "contentType": "podcast",
+    "categories": [
+      "healthcare",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/f3aaf1b4-9b7f-4c31-8c88-3d2e64568115/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=f3aaf1b4-9b7f-4c31-8c88-3d2e64568115&feed=6HKOhNgS",
+    "duration": "01:09:55"
+  },
+  {
+    "id": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "summary": "A potential $900B+ valuation for Anthropic suggests growing investment in AI, which could accelerate AI's impact on job markets.",
+    "date": "2026-04-30",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "valuation",
+      "job market"
+    ],
+    "fetchedAt": "2026-05-01T11:01:13.487Z",
+    "sourceGroup": "ai-news",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+  },
+  {
     "id": "openai-linked-stocks-slump-on-report-of-startup-missing-targets",
     "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets",
     "summary": "The news suggests challenges in AI startup performance, which may slow investment and adoption of AI technologies, potentially delaying job replacement by AI.",
