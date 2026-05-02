@@ -1,7 +1,7 @@
 const MAX_HTML_BYTES = 1_500_000;
 const MAX_TEXT_CHARS = 60000;
 const REQUEST_TIMEOUT_MS = 9000;
-const MAX_EXCERPTS = 3;
+const MAX_EXCERPTS = 2;
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Credentials', 'true');
