@@ -219,8 +219,15 @@ function splitSentences(text) {
   return text
     .replace(/\s+/g, ' ')
     .split(/(?<=[.!?。！？])\s+/)
-    .map((sentence) => sentence.trim())
+    .map((sentence) => cleanSentence(sentence))
     .filter(Boolean);
+}
+
+function cleanSentence(sentence) {
+  return String(sentence || '')
+    .replace(/\s+([.,!?;:])/g, '$1')
+    .replace(/([.!?]){2,}/g, '$1')
+    .trim();
 }
 
 function isUsableSentence(sentence, normalizedTitle = '') {
@@ -230,6 +237,8 @@ function isUsableSentence(sentence, normalizedTitle = '') {
   if (/cookie|privacy policy|terms of use|all rights reserved|subscribe|sign in|log in/i.test(sentence)) return false;
   if (/^(share|follow|listen|watch|read more|advertisement|sponsored)\b/i.test(sentence)) return false;
   if (/\bis a (senior |staff |lead |contributing )?(reporter|writer|editor|journalist)\b/i.test(sentence)) return false;
+  if (/\bjoined (the verge|techcrunch|wired|bloomberg|reuters|the information|mit technology review)\b/i.test(sentence)) return false;
+  if (/\bpreviously (worked|reported|wrote|covered)\b/i.test(sentence)) return false;
   if (/\bcovering (technology|ai|gaming|policy|business|science|startups)\b/i.test(sentence)) return false;
   if (/^(updated|published|filed under|image:|photo:|illustration:)\b/i.test(sentence)) return false;
   return true;
