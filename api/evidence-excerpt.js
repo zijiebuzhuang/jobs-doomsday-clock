@@ -1,6 +1,7 @@
 const MAX_HTML_BYTES = 1_500_000;
 const MAX_TEXT_CHARS = 60000;
 const REQUEST_TIMEOUT_MS = 9000;
+const MAX_EXCERPTS = 3;
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Credentials', 'true');
@@ -158,10 +159,7 @@ function findBestExcerpt({ text, topic, title, summary }) {
   const queryTokens = tokenize([topic, title, summary].join(' '));
   if (!queryTokens.length) return null;
 
-  let bestIndex = -1;
-  let bestScore = 0;
-
-  sentences.forEach((sentence, index) => {
+  const scored = sentences.map((sentence, index) => {
     const sentenceTokens = tokenize(sentence);
     const tokenSet = new Set(sentenceTokens);
     let score = 0;
@@ -178,18 +176,31 @@ function findBestExcerpt({ text, topic, title, summary }) {
     if (sentence.length > 320) score -= 2;
     if (/subscribe|cookie|newsletter|sign up|advertisement/i.test(sentence)) score -= 4;
 
-    if (score > bestScore) {
-      bestScore = score;
-      bestIndex = index;
-    }
+    return { index, score };
   });
 
-  if (bestIndex < 0 || bestScore < 2) return null;
+  const selected = scored
+    .filter(({ score }) => score >= 2)
+    .sort((a, b) => b.score - a.score)
+    .reduce((result, candidate) => {
+      const overlaps = result.some(({ index }) => Math.abs(index - candidate.index) <= 1);
+      if (!overlaps) result.push(candidate);
+      return result;
+    }, [])
+    .slice(0, MAX_EXCERPTS)
+    .sort((a, b) => a.index - b.index);
+
+  if (!selected.length) return null;
+
+  const excerpts = selected.map(({ index }) => ({
+    before: contextSentence(sentences, index, -1),
+    quote: sentences[index],
+    after: contextSentence(sentences, index, 1)
+  }));
 
   return {
-    before: contextSentence(sentences, bestIndex, -1),
-    quote: sentences[bestIndex],
-    after: contextSentence(sentences, bestIndex, 1)
+    ...excerpts[0],
+    excerpts
   };
 }
 
