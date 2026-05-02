@@ -150,7 +150,9 @@ function parseArticleHTML(html) {
 
 function findBestExcerpt({ text, topic, title, summary }) {
   const normalizedTitle = normalizeText(title);
-  const sentences = splitSentences(text).filter((sentence) => isUsableSentence(sentence, normalizedTitle));
+  const sentences = uniqueSentences(
+    splitSentences(text).filter((sentence) => isUsableSentence(sentence, normalizedTitle))
+  );
   if (!sentences.length) return null;
 
   const queryTokens = tokenize([topic, title, summary].join(' '));
@@ -167,7 +169,9 @@ function findBestExcerpt({ text, topic, title, summary }) {
       if (tokenSet.has(token)) score += token.length > 5 ? 2 : 1;
     }
 
+    const hasContext = Boolean(contextSentence(sentences, index, -1)) || Boolean(contextSentence(sentences, index, 1));
     if (sentence.length >= 70 && sentence.length <= 260) score += 1;
+    if (hasContext) score += 1;
     if (sentence.length > 320) score -= 2;
     if (/subscribe|cookie|newsletter|sign up|advertisement/i.test(sentence)) score -= 4;
 
@@ -180,10 +184,32 @@ function findBestExcerpt({ text, topic, title, summary }) {
   if (bestIndex < 0 || bestScore < 2) return null;
 
   return {
-    before: sentences[bestIndex - 1] || '',
+    before: contextSentence(sentences, bestIndex, -1),
     quote: sentences[bestIndex],
-    after: sentences[bestIndex + 1] || ''
+    after: contextSentence(sentences, bestIndex, 1)
   };
+}
+
+function uniqueSentences(sentences) {
+  const seen = new Set();
+  return sentences.filter((sentence) => {
+    const normalized = normalizeText(sentence);
+    if (!normalized || seen.has(normalized)) return false;
+    seen.add(normalized);
+    return true;
+  });
+}
+
+function contextSentence(sentences, index, direction) {
+  const quote = normalizeText(sentences[index]);
+  for (let offset = index + direction; offset >= 0 && offset < sentences.length; offset += direction) {
+    const candidate = sentences[offset] || '';
+    const normalized = normalizeText(candidate);
+    if (normalized && normalized !== quote) {
+      return candidate;
+    }
+  }
+  return '';
 }
 
 function splitSentences(text) {
