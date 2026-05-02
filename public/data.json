@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:51:01",
+  "displayTime": "23:51:00",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 8.983,
+  "exactMinutesToMidnight": 9.003,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -4.017,
+  "newsAdjustment": -3.997,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.378,
+  "macroReplacementRate": 49.377,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,96 @@
   ],
   "newsFeed": [
     {
+      "id": "chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
+      "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+      "summary": "A Chinese court ruling prevents companies from laying off workers solely to adopt AI, slowing AI's impact on job replacement.",
+      "date": "2026-05-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "labor-policy",
+        "ai-regulation",
+        "job-stability"
+      ],
+      "fetchedAt": "2026-05-02T11:00:53.028Z",
+      "sourceGroup": "business",
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ],
+      "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+    },
+    {
+      "id": "disneyland-now-uses-face-recognition-on-visitors",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "The use of face recognition at Disneyland indicates AI is being integrated into customer service roles, potentially replacing human jobs in the process.",
+      "date": "2026-05-02",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "automation",
+        "labor market"
+      ],
+      "fetchedAt": "2026-05-02T11:00:52.043Z",
+      "sourceGroup": "ai-news",
+      "categories": [
+        "personal-care-and-service",
+        "entertainment-and-sports",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "openai-enables-marketing-cookies-by-default-for-free-chatgpt-users",
+      "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+      "summary": "The use of marketing cookies by ChatGPT may increase user tracking and conversion, potentially slowing AI's direct replacement of human jobs in certain sectors.",
+      "date": "2026-05-01",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+      "effect": "delay",
+      "impactScore": 2,
+      "tags": [
+        "data privacy",
+        "user tracking",
+        "AI business model"
+      ],
+      "fetchedAt": "2026-05-02T11:00:55.895Z",
+      "sourceGroup": "ai-news",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "musk-v-altman-week-1-elon-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "summary": "Elon Musk's public concerns and legal battle with OpenAI highlight the growing risks and ethical dilemmas of AI, potentially accelerating its development and integration into various sectors.",
+      "date": "2026-05-01",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "legal disputes",
+        "AI development"
+      ],
+      "fetchedAt": "2026-05-02T11:00:54.757Z",
+      "sourceGroup": "research",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "legal"
+      ],
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32"
+    },
+    {
       "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
       "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
       "summary": "The integration of AI in medical settings suggests increased automation in healthcare, potentially replacing certain roles and accelerating AI's impact on jobs.",
@@ -3800,102 +3890,6 @@
       ]
     },
     {
-      "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI integration",
-        "personal productivity",
-        "job automation"
-      ],
-      "fetchedAt": "2026-04-25T12:21:25.329Z",
-      "sourceGroup": "ai-news",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "personal-care-and-service"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "netflix-co-founder-reed-hastings-stories-schools-superpowers",
-      "title": "Netflix co-founder Reed Hastings: stories, schools, superpowers",
-      "summary": "The discussion highlights AI's growing influence in entertainment, signaling its increasing role in reshaping industries and potentially displacing jobs.",
-      "date": "2026-04-22",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT1497885631.mp3?updated=1776845334",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI",
-        "entertainment",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-04-26T11:01:19.933Z",
-      "sourceGroup": "ai-news",
-      "contentType": "podcast",
-      "categories": [
-        "media-and-communication",
-        "entertainment-and-sports",
-        "computer-and-information-technology"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/3f4dc6d8-3dfd-11f1-b31e-8b1c6f1be5cd/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT1497885631.mp3?key=c25cf03a4275e409e223bae905454955&request_event_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&session_id=c8effc0d-3e36-4726-8a31-b7e67ff5e149&timetoken=1777208466_C6629B00B85AAB51FB8393D71C68F6C3",
-      "duration": "61 min"
-    },
-    {
-      "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos",
-      "title": "NSA spies are reportedly using Anthropic’s Mythos",
-      "summary": "The use of AI by NSA spies suggests increased adoption of AI in sensitive roles, potentially accelerating AI's role in replacing human jobs.",
-      "date": "2026-04-21",
-      "source": "TechCrunch Daily Crunch",
-      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "government technology"
-      ],
-      "fetchedAt": "2026-04-28T11:00:47.157Z",
-      "sourceGroup": "ai-news",
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
-      "duration": "7 min"
-    },
-    {
-      "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
-      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
-      "date": "2026-04-18",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI development",
-        "automation",
-        "hardware coding"
-      ],
-      "fetchedAt": "2026-04-19T11:00:42.966Z",
-      "sourceGroup": "ai-news",
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "production"
-      ]
-    },
-    {
       "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
       "title": "Are we tokenmaxxing our way to nowhere?",
       "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
@@ -3920,12 +3914,12 @@
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
     }
   ],
-  "generatedAt": "2026-05-01T12:00:00.000Z",
+  "generatedAt": "2026-05-02T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job replacement pressure stabilizes slightly",
-      "preview": "Mixed signals show both progress and challenges in AI adoption.",
-      "body": "Recent news shows a balance between advancing AI capabilities and some signs of slowdown. Key developments include AI integration in healthcare and cybersecurity, as well as major investments in companies like Anthropic. However, reports of startup underperformance suggest potential delays. Overall, the pace of AI-driven job replacement remains steady but uncertain."
+      "title": "AI Job Replacement Pressure Stabilizes Slightly",
+      "preview": "New regulations and tech advances balance out recent trends.",
+      "body": "The daily pulse shows a slight stabilization in AI job replacement pressure, with some delays from new labor rules and advances from AI integration in customer service and healthcare. Notable headlines include a Chinese court ruling limiting AI-driven layoffs and Disneyland's use of face recognition, which highlight the ongoing tension between innovation and job security."
     }
   }
 }

@@ -1,5 +1,95 @@
 [
   {
+    "id": "chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
+    "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
+    "summary": "A Chinese court ruling prevents companies from laying off workers solely to adopt AI, slowing AI's impact on job replacement.",
+    "date": "2026-05-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "labor-policy",
+      "ai-regulation",
+      "job-stability"
+    ],
+    "fetchedAt": "2026-05-02T11:00:53.028Z",
+    "sourceGroup": "business",
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+  },
+  {
+    "id": "disneyland-now-uses-face-recognition-on-visitors",
+    "title": "Disneyland Now Uses Face Recognition on Visitors",
+    "summary": "The use of face recognition at Disneyland indicates AI is being integrated into customer service roles, potentially replacing human jobs in the process.",
+    "date": "2026-05-02",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "automation",
+      "labor market"
+    ],
+    "fetchedAt": "2026-05-02T11:00:52.043Z",
+    "sourceGroup": "ai-news",
+    "categories": [
+      "personal-care-and-service",
+      "entertainment-and-sports",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "openai-enables-marketing-cookies-by-default-for-free-chatgpt-users",
+    "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+    "summary": "The use of marketing cookies by ChatGPT may increase user tracking and conversion, potentially slowing AI's direct replacement of human jobs in certain sectors.",
+    "date": "2026-05-01",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+    "effect": "delay",
+    "impactScore": 2,
+    "tags": [
+      "data privacy",
+      "user tracking",
+      "AI business model"
+    ],
+    "fetchedAt": "2026-05-02T11:00:55.895Z",
+    "sourceGroup": "ai-news",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "musk-v-altman-week-1-elon-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "summary": "Elon Musk's public concerns and legal battle with OpenAI highlight the growing risks and ethical dilemmas of AI, potentially accelerating its development and integration into various sectors.",
+    "date": "2026-05-01",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "legal disputes",
+      "AI development"
+    ],
+    "fetchedAt": "2026-05-02T11:00:54.757Z",
+    "sourceGroup": "research",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "legal"
+    ],
+    "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32"
+  },
+  {
     "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
     "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
     "summary": "The integration of AI in medical settings suggests increased automation in healthcare, potentially replacing certain roles and accelerating AI's impact on jobs.",
