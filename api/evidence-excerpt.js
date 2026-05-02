@@ -1,7 +1,8 @@
 const MAX_HTML_BYTES = 1_500_000;
 const MAX_TEXT_CHARS = 60000;
 const REQUEST_TIMEOUT_MS = 9000;
-const MAX_EXCERPTS = 2;
+const MIN_EXCERPT_SCORE = 4;
+const STRONG_EXCERPT_RATIO = 0.62;
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Credentials', 'true');
@@ -179,15 +180,16 @@ function findBestExcerpt({ text, topic, title, summary }) {
     return { index, score };
   });
 
+  const bestScore = Math.max(...scored.map(({ score }) => score), 0);
+  const qualityThreshold = Math.max(MIN_EXCERPT_SCORE, Math.ceil(bestScore * STRONG_EXCERPT_RATIO));
   const selected = scored
-    .filter(({ score }) => score >= 2)
+    .filter(({ score }) => score >= qualityThreshold)
     .sort((a, b) => b.score - a.score)
     .reduce((result, candidate) => {
-      const overlaps = result.some(({ index }) => Math.abs(index - candidate.index) <= 1);
+      const overlaps = result.some(({ index }) => Math.abs(index - candidate.index) <= 2);
       if (!overlaps) result.push(candidate);
       return result;
     }, [])
-    .slice(0, MAX_EXCERPTS)
     .sort((a, b) => a.index - b.index);
 
   if (!selected.length) return null;
@@ -244,9 +246,11 @@ function cleanSentence(sentence) {
 function isUsableSentence(sentence, normalizedTitle = '') {
   if (sentence.length < 45 || sentence.length > 420) return false;
   if (!/[a-zA-Z\u4e00-\u9fff]/.test(sentence)) return false;
+  if (tokenize(sentence).length < 8) return false;
   if (normalizedTitle && normalizeText(sentence) === normalizedTitle) return false;
   if (/cookie|privacy policy|terms of use|all rights reserved|subscribe|sign in|log in/i.test(sentence)) return false;
   if (/^(share|follow|listen|watch|read more|advertisement|sponsored)\b/i.test(sentence)) return false;
+  if (/^([A-Z][\w-]*,\s*){3,}[A-Z][\w-]*\.?$/i.test(sentence)) return false;
   if (/\bis a (senior |staff |lead |contributing )?(reporter|writer|editor|journalist)\b/i.test(sentence)) return false;
   if (/\bjoined (the verge|techcrunch|wired|bloomberg|reuters|the information|mit technology review)\b/i.test(sentence)) return false;
   if (/\bpreviously (worked|reported|wrote|covered)\b/i.test(sentence)) return false;
