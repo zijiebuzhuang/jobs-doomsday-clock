@@ -169,9 +169,12 @@ function findBestExcerpt({ text, topic, title, summary }) {
       if (tokenSet.has(token)) score += token.length > 5 ? 2 : 1;
     }
 
-    const hasContext = Boolean(contextSentence(sentences, index, -1)) || Boolean(contextSentence(sentences, index, 1));
+    const hasBeforeContext = Boolean(contextSentence(sentences, index, -1));
+    const hasAfterContext = Boolean(contextSentence(sentences, index, 1));
     if (sentence.length >= 70 && sentence.length <= 260) score += 1;
-    if (hasContext) score += 1;
+    if (hasBeforeContext) score += 3;
+    if (hasAfterContext) score += 1;
+    if (hasBeforeContext && hasAfterContext) score += 2;
     if (sentence.length > 320) score -= 2;
     if (/subscribe|cookie|newsletter|sign up|advertisement/i.test(sentence)) score -= 4;
 
@@ -226,6 +229,9 @@ function isUsableSentence(sentence, normalizedTitle = '') {
   if (normalizedTitle && normalizeText(sentence) === normalizedTitle) return false;
   if (/cookie|privacy policy|terms of use|all rights reserved|subscribe|sign in|log in/i.test(sentence)) return false;
   if (/^(share|follow|listen|watch|read more|advertisement|sponsored)\b/i.test(sentence)) return false;
+  if (/\bis a (senior |staff |lead |contributing )?(reporter|writer|editor|journalist)\b/i.test(sentence)) return false;
+  if (/\bcovering (technology|ai|gaming|policy|business|science|startups)\b/i.test(sentence)) return false;
+  if (/^(updated|published|filed under|image:|photo:|illustration:)\b/i.test(sentence)) return false;
   return true;
 }
 
