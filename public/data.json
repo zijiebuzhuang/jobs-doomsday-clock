@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:51:00",
+  "displayTime": "23:51:07",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 9.003,
+  "exactMinutesToMidnight": 8.883,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -3.997,
+  "newsAdjustment": -4.117,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.377,
+  "macroReplacementRate": 49.385,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,49 @@
   ],
   "newsFeed": [
     {
+      "id": "ai-can-t-steal-your-job-a-china-twist-can-avert-ai-jobs-apocalypse-the-economic-",
+      "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times",
+      "summary": "The article suggests that AI may not replace human jobs as drastically, with a focus on China's approach potentially preventing a job crisis.",
+      "date": "2026-05-02",
+      "source": "AI Jobs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZk9LTElvQWlOSnU2YXhxNWEzbWRkbkRScUx2MUxUeHlJZTYwSHZiUk1DcFBRYTczTlhSY0tGNFBsNmpCcnpnSG50QVhEX2xPdUpFOTQ2dVpoVHZ1SVlqcFppNHJOLVhfY0lkVTNkNWdaRTRqZUxKV0lNQnJOZW4tLXJGNm1QMTFNT3VNQ294dkswMTFsU2wtS2pyd0RIQVo2bVdtYkRWUGNzeXItaHdzRWh1bFpDRnZOT1A0SUNtS3BNMW1VaW5GOFR6NFRZS0Y1R05oek54Y1dJcknSAeABQVVfeXFMTzFPOFBfZHpzcXlsbmE2SlI1UlkwN1B5dkdsaHNvSElEQ3RTMnJiSTZtU3FXVzFwWUZfdDBoY25OckNEM1c5VGFwd2cyQWROT2JSd01uRTJYQWgzdGVTeFVIckE4YTd6Q1RpSWhvUU1ab1ZxeGdKWkFMUjFZRW9iZWNoTUVSWlhIZzFMYThGZmpRWl9kb2owVTZsaTVKR2hwOG1SbnJqY2RzbDY5QnFYUUs1WURDRFg3R0M0YS0zNHFiR3FZa2dHYVFzSUN4c1JSYkFjVER0bThjcm5rWEV6WVI?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI impact",
+        "job security",
+        "policy"
+      ],
+      "fetchedAt": "2026-05-03T11:00:56.898Z",
+      "sourceGroup": "labor-market",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "office-and-administrative-support"
+      ],
+      "imageUrl": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
+    },
+    {
+      "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
+      "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
+      "summary": "The rise of 'vibe coding' with generative AI is accelerating the replacement of junior software developer roles, but not senior engineering positions.",
+      "date": "2026-05-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "job displacement",
+        "software development"
+      ],
+      "fetchedAt": "2026-05-03T11:00:55.819Z",
+      "sourceGroup": "business",
+      "categories": [
+        "computer-and-information-technology"
+      ]
+    },
+    {
       "id": "chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
       "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
       "summary": "A Chinese court ruling prevents companies from laying off workers solely to adopt AI, slowing AI's impact on job replacement.",
@@ -3467,8 +3510,7 @@
         "computer-and-information-technology",
         "production",
         "_all"
-      ],
-      "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+      ]
     },
     {
       "id": "disneyland-now-uses-face-recognition-on-visitors",
@@ -3490,6 +3532,28 @@
         "personal-care-and-service",
         "entertainment-and-sports",
         "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-net",
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "summary": "The Pentagon's AI deals with major tech companies signal increased adoption of AI in sensitive operations, accelerating AI's integration into critical sectors and potentially displacing human roles.",
+      "date": "2026-05-01",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "government spending",
+        "technology integration"
+      ],
+      "fetchedAt": "2026-05-03T11:01:00.817Z",
+      "sourceGroup": "ai-news",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
       ]
     },
     {
@@ -3534,8 +3598,7 @@
         "computer-and-information-technology",
         "management",
         "legal"
-      ],
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32"
+      ]
     },
     {
       "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
@@ -3583,8 +3646,7 @@
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+      ]
     },
     {
       "id": "openai-linked-stocks-slump-on-report-of-startup-missing-targets",
@@ -3606,8 +3668,7 @@
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+      ]
     },
     {
       "id": "attack-of-the-killer-script-kiddies",
@@ -3652,8 +3713,7 @@
         "business-and-financial",
         "computer-and-information-technology",
         "office-and-administrative-support"
-      ],
-      "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+      ]
     },
     {
       "id": "google-to-invest-up-to-40b-in-anthropic",
@@ -3823,73 +3883,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "anthropic-s-mythos-breach-was-humiliating",
-      "title": "Anthropic’s Mythos breach was humiliating",
-      "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "cybersecurity",
-        "AI deployment"
-      ],
-      "fetchedAt": "2026-04-27T11:01:32.158Z",
-      "sourceGroup": "ai-news",
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-      "summary": "The release of GPT-5.5 by OpenAI is a significant step toward an AI 'super app,' potentially accelerating AI's ability to replace human jobs across multiple industries.",
-      "date": "2026-04-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI advancement",
-        "job displacement",
-        "technology development"
-      ],
-      "fetchedAt": "2026-04-25T12:21:27.299Z",
-      "sourceGroup": "ai-news",
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
-      "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-      "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
-      "date": "2026-04-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "startup acquisition",
-        "customer service"
-      ],
-      "fetchedAt": "2026-04-25T12:21:26.291Z",
-      "sourceGroup": "ai-news",
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
       "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
       "title": "Are we tokenmaxxing our way to nowhere?",
       "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
@@ -3914,12 +3907,12 @@
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
     }
   ],
-  "generatedAt": "2026-05-02T12:00:00.000Z",
+  "generatedAt": "2026-05-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "New regulations and tech advances balance out recent trends.",
-      "body": "The daily pulse shows a slight stabilization in AI job replacement pressure, with some delays from new labor rules and advances from AI integration in customer service and healthcare. Notable headlines include a Chinese court ruling limiting AI-driven layoffs and Disneyland's use of face recognition, which highlight the ongoing tension between innovation and job security."
+      "title": "Mixed signals on AI job displacement as delays and advances balance",
+      "preview": "New reports show both slowing and accelerating AI job impacts.",
+      "body": "Recent news highlights a mixed trend in AI job replacement, with some developments slowing adoption while others push it forward. A Chinese court ruling and a focus on AI's limited impact in China suggest delays, while 'vibe coding' and Pentagon AI deals signal faster integration. Overall, the balance remains tight as AI continues to reshape labor markets."
     }
   }
 }
