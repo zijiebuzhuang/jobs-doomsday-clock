@@ -108,6 +108,16 @@ export function sanitizeNewsUrl(value) {
   return decodeHTMLEntities(value || '').trim()
 }
 
+export function isGenericFeedImageUrl(value) {
+  const normalized = sanitizeNewsUrl(value).toLowerCase()
+  if (!normalized) return false
+
+  return normalized.includes('/feeds/static/images/') ||
+    normalized.includes('favicon') ||
+    normalized.includes('cropped-cropped-favicon') ||
+    /(^|[/_-])(logo|site-logo|brand)([/_.-]|$)/.test(normalized)
+}
+
 function mediaKindFromUrl(value) {
   const normalized = sanitizeNewsUrl(value).toLowerCase()
   if (!normalized) return undefined
@@ -303,8 +313,9 @@ export function normalizeFeedItem(item) {
     normalized.occupationIDs = item.occupationIDs
   }
 
-  if (item.imageUrl) {
-    normalized.imageUrl = sanitizeNewsUrl(item.imageUrl)
+  const imageUrl = sanitizeNewsUrl(item.imageUrl)
+  if (imageUrl && !isGenericFeedImageUrl(imageUrl)) {
+    normalized.imageUrl = imageUrl
   }
 
   if (item.mediaUrl) {
