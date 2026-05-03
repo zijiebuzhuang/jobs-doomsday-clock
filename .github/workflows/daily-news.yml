@@ -119,13 +119,15 @@ jobs:
           PUSH_TITLE: ${{ steps.dataset.outputs.title }}
           PUSH_BODY: ${{ steps.dataset.outputs.body }}
         run: |
-          curl --fail --show-error --silent \
-            -X POST "$RELAY_BASE_URL/api/push/daily-news" \
-            -H "Authorization: Bearer $RELAY_SHARED_SECRET" \
-            -H "Content-Type: application/json" \
-            --data "$(node <<'EOF'
+          for environment in production sandbox; do
+            echo "Triggering daily push for $environment"
+            PUSH_ENVIRONMENT="$environment" curl --fail --show-error --silent \
+              -X POST "$RELAY_BASE_URL/api/push/daily-news" \
+              -H "Authorization: Bearer $RELAY_SHARED_SECRET" \
+              -H "Content-Type: application/json" \
+              --data "$(node <<'EOF'
           const payload = {
-            environment: 'production',
+            environment: process.env.PUSH_ENVIRONMENT,
             datasetId: process.env.DATASET_ID,
             generatedAt: process.env.GENERATED_AT,
             title: process.env.PUSH_TITLE,
@@ -134,4 +136,6 @@ jobs:
           }
           process.stdout.write(JSON.stringify(payload))
           EOF
-          )"
+            )"
+            echo
+          done
