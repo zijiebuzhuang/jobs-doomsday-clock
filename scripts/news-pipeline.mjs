@@ -31,6 +31,7 @@ export const SIGNAL_SOURCE_GROUPS = [
 ]
 
 const VALID_SOURCE_GROUPS = new Set(SIGNAL_SOURCE_GROUPS)
+const VALID_SOURCE_TIERS = new Set(['official', 'research', 'editorial', 'media', 'aggregator', 'general'])
 
 export function startOfShanghaiDay(value) {
   const date = new Date(value)
@@ -237,8 +238,115 @@ export function normalizeSourceGroup(item = {}) {
   return 'ai-news'
 }
 
+function sourceURLHost(value) {
+  try {
+    return new URL(sanitizeNewsUrl(value)).hostname.replace(/^www\./, '').toLowerCase()
+  } catch {
+    return ''
+  }
+}
+
+function sourceMatches(item = {}, values = []) {
+  const source = sanitizeNewsText(item.source).toLowerCase()
+  const title = sanitizeNewsText(item.title).toLowerCase()
+  const host = sourceURLHost(item.sourceUrl || item.link)
+  const combined = `${source} ${title} ${host}`
+  return values.some(value => combined.includes(value))
+}
+
+export function normalizeSourceTier(item = {}) {
+  const explicitTier = sanitizeNewsText(item.sourceTier).toLowerCase()
+  if (VALID_SOURCE_TIERS.has(explicitTier)) return explicitTier
+
+  const sourceGroup = normalizeSourceGroup(item)
+  const contentType = normalizeContentType(item)
+  const sourceUrl = sanitizeNewsUrl(item.sourceUrl || item.link).toLowerCase()
+
+  if (sourceGroup === 'official') return 'official'
+  if (sourceGroup === 'research') return 'research'
+  if (contentType === 'podcast' || contentType === 'video') return 'media'
+  if (sourceUrl.includes('news.google.com/rss/articles')) return 'aggregator'
+
+  if (sourceMatches(item, [
+    'bloomberg',
+    'fortune',
+    'harvard business review',
+    'hbr',
+    'mit tech review',
+    'technologyreview.com',
+    'the verge',
+    'wired',
+    'ars technica',
+    'techcrunch',
+    'futurism',
+    'the economic times',
+    'nytimes',
+    'new york times',
+    'wall street journal',
+  ])) {
+    return 'editorial'
+  }
+
+  return 'general'
+}
+
+export function signalQualityScore(item = {}) {
+  const sourceTier = normalizeSourceTier(item)
+  const sourceGroup = normalizeSourceGroup(item)
+  const contentType = normalizeContentType(item)
+  const imageUrl = sanitizeNewsUrl(item.imageUrl)
+  const sourceUrl = sanitizeNewsUrl(item.sourceUrl || item.link).toLowerCase()
+  const summary = sanitizeNewsText(item.summary || item.contentSnippet)
+  const baseScore = {
+    official: 88,
+    research: 82,
+    editorial: 76,
+    media: 70,
+    general: 62,
+    aggregator: 52,
+  }[sourceTier] ?? 60
+
+  let score = baseScore
+  if (imageUrl && !isGenericFeedImageUrl(imageUrl)) score += 5
+  if (imageUrl && isGenericFeedImageUrl(imageUrl)) score -= 15
+  if (Array.isArray(item.categories) && item.categories.length > 0) score += 4
+  if (Array.isArray(item.occupationIDs) && item.occupationIDs.length > 0) score += 3
+  if (Array.isArray(item.tags) && item.tags.length > 0) score += 2
+  if (summary.length >= 80) score += 3
+  if (sourceUrl.includes('news.google.com/rss/articles')) score -= 6
+  if (sourceGroup === 'official' || sourceGroup === 'research') score += 3
+  if (contentType === 'podcast' && !isPlayableAudioUrl(item.mediaUrl)) score -= 20
+
+  return Math.min(100, Math.max(1, Math.round(score)))
+}
+
 export function makeId(title) {
   return sanitizeNewsText(title).toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 80)
+}
+
+function publisherFromTitle(title = '') {
+  const match = sanitizeNewsText(title).match(/\s+-\s+([^-]+)$/)
+  return match?.[1]?.trim()
+}
+
+function canonicalSignalKey(item = {}) {
+  const sourceUrl = sanitizeNewsUrl(item.sourceUrl || item.link)
+  const host = sourceURLHost(sourceUrl)
+  const sourceKey = host && !host.includes('news.google.com')
+    ? host
+    : sanitizeNewsText(publisherFromTitle(item.title) || item.source).toLowerCase()
+  const titleKey = sanitizeNewsText(item.title)
+    .toLowerCase()
+    .replace(/\s+-\s+[^-]+$/, '')
+    .replace(/\b(ai|artificial intelligence|the|a|an|and|or|to|of|for|in|on|with|by|that|this)\b/g, ' ')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 12)
+    .join('-')
+
+  return `${sourceKey}:${titleKey}`
 }
 
 function proxyEnv() {
@@ -293,6 +401,7 @@ export function normalizeFeedItem(item) {
   const categories = normalizeCategories(item.categories ?? item.affectedCategories)
   const contentType = normalizeContentType(item)
   const sourceGroup = normalizeSourceGroup(item)
+  const sourceTier = normalizeSourceTier(item)
   const normalizedTitle = sanitizeNewsText(item.title)
   const normalized = {
     id: makeId(item.id || normalizedTitle),
@@ -306,6 +415,8 @@ export function normalizeFeedItem(item) {
     tags: Array.isArray(item.tags) ? item.tags.map(sanitizeNewsText).filter(Boolean) : [],
     fetchedAt: item.fetchedAt || item.date || item.publishedAt || item.pubDate || '',
     sourceGroup,
+    sourceTier,
+    qualityScore: signalQualityScore(item),
   }
 
   if (contentType !== 'article') {
@@ -337,7 +448,11 @@ export function normalizeFeedItem(item) {
 }
 
 function sortFeedItems(items = []) {
-  return items.sort((a, b) => new Date(b.date) - new Date(a.date) || new Date(b.fetchedAt) - new Date(a.fetchedAt))
+  return items.sort((a, b) =>
+    new Date(b.date) - new Date(a.date) ||
+    (Number(b.qualityScore) || 0) - (Number(a.qualityScore) || 0) ||
+    new Date(b.fetchedAt) - new Date(a.fetchedAt)
+  )
 }
 
 export function normalizeFeedItems(items = []) {
@@ -363,8 +478,9 @@ export function mergeFeedItems(existingFeed = [], incomingFeed = [], asOfDate = 
 
   for (const item of sortFeedItems(normalizeFeedItems([...incomingFeed, ...existingFeed]))) {
     if (!item.id || !item.title || !item.sourceUrl) continue
-    if (!deduped.has(item.id)) {
-      deduped.set(item.id, item)
+    const key = canonicalSignalKey(item) || item.id
+    if (!deduped.has(key)) {
+      deduped.set(key, item)
     }
   }
 

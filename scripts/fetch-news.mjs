@@ -214,12 +214,44 @@ function firstUsableImageUrl(...values) {
   return values.find(value => value && !isGenericFeedImageUrl(value))
 }
 
+function isGoogleNewsFeed(feed) {
+  return feed.name.startsWith('Google News')
+}
+
+function publisherFromTitle(title = '') {
+  const match = String(title).match(/\s+-\s+([^-]+)$/)
+  return match?.[1]?.trim()
+}
+
+function escapeRegExp(value = '') {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+function cleanGoogleNewsTitle(title = '', source) {
+  const publisher = source || publisherFromTitle(title)
+  if (!publisher) return title
+  return String(title).replace(new RegExp(`\\s+-\\s+${escapeRegExp(publisher)}$`), '').trim()
+}
+
+function cleanGoogleNewsSnippet(snippet = '', source) {
+  if (!source) return snippet
+  return String(snippet).replace(new RegExp(`\\s+${escapeRegExp(source)}$`), '').trim()
+}
+
+function itemSourceName(feed, item) {
+  if (isGoogleNewsFeed(feed)) {
+    return item.sourceNode || publisherFromTitle(item.title) || feed.name.replace(/^Google News - /, '')
+  }
+
+  return feed.name
+}
+
 async function fetchRSSFeeds() {
   const parser = new Parser({
     timeout: 15000,
     customFields: {
       feed: [['itunes:image', 'itunesImage']],
-      item: ['itunes:duration', ['itunes:image', 'itunesImage']],
+      item: ['itunes:duration', ['itunes:image', 'itunesImage'], ['source', 'sourceNode']],
     },
   })
   const allItems = []
@@ -295,12 +327,18 @@ async function fetchRSSFeeds() {
           sourceUrl: link,
           mediaUrl,
         })
+        const source = itemSourceName(feed, item)
+        const title = isGoogleNewsFeed(feed) ? cleanGoogleNewsTitle(item.title || '', source) : item.title || ''
+        const contentSnippet = isGoogleNewsFeed(feed)
+          ? cleanGoogleNewsSnippet(item.contentSnippet || item.content || '', source)
+          : item.contentSnippet || item.content || ''
+
         allItems.push({
-          title: item.title || '',
+          title,
           link,
-          contentSnippet: item.contentSnippet || item.content || '',
+          contentSnippet,
           pubDate: item.pubDate || item.isoDate || '',
-          source: feed.name,
+          source,
           sourceGroup: feed.sourceGroup,
           imageUrl,
           contentType,

@@ -1,9 +1,12 @@
 import { readFileSync } from 'fs'
 import {
   SIGNAL_SOURCE_GROUPS,
+  isGenericFeedImageUrl,
   isPlayableAudioUrl,
   normalizeContentType,
   normalizeSourceGroup,
+  normalizeSourceTier,
+  signalQualityScore,
 } from './news-pipeline.mjs'
 
 const path = process.argv[2] || 'public/data.json'
@@ -14,12 +17,16 @@ const issues = []
 const warnings = []
 const counts = { article: 0, podcast: 0, video: 0 }
 const sourceGroups = Object.fromEntries(SIGNAL_SOURCE_GROUPS.map(group => [group, 0]))
+const sourceTiers = {}
 
 for (const item of items) {
   const contentType = normalizeContentType(item)
   counts[contentType] = (counts[contentType] || 0) + 1
   const sourceGroup = normalizeSourceGroup(item)
   sourceGroups[sourceGroup] = (sourceGroups[sourceGroup] || 0) + 1
+  const sourceTier = normalizeSourceTier(item)
+  sourceTiers[sourceTier] = (sourceTiers[sourceTier] || 0) + 1
+  const qualityScore = signalQualityScore(item)
 
   if (!item.sourceGroup) {
     warnings.push({
@@ -57,9 +64,28 @@ for (const item of items) {
       mediaUrl: item.mediaUrl,
     })
   }
+
+  if (item.imageUrl && isGenericFeedImageUrl(item.imageUrl)) {
+    issues.push({
+      type: 'generic_or_low_resolution_image',
+      title: item.title,
+      source: item.source,
+      imageUrl: item.imageUrl,
+    })
+  }
+
+  if (qualityScore < 45) {
+    warnings.push({
+      type: 'low_quality_signal',
+      title: item.title,
+      source: item.source,
+      qualityScore,
+      sourceTier,
+    })
+  }
 }
 
-console.log(JSON.stringify({ path, total: items.length, counts, sourceGroups, warnings: warnings.length, issues: issues.length }, null, 2))
+console.log(JSON.stringify({ path, total: items.length, counts, sourceGroups, sourceTiers, warnings: warnings.length, issues: issues.length }, null, 2))
 
 const printedWarnings = warnings.slice(0, 25)
 for (const warning of printedWarnings) {
