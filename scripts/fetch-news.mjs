@@ -96,11 +96,13 @@ const DEFAULT_APPLE_PODCAST_IDS = [
   '1677184070', // Possible
   '1200361736', // a16z Podcast
   '1056200096', // HBR IdeaCast
+  '1582647825', // Newcomer Pod
 ]
 
 const PODCAST_SOURCE_GROUP_OVERRIDES = {
   '1200361736': 'business',
   '1056200096': 'business',
+  '1582647825': 'business',
 }
 
 function applePodcastIDs() {
