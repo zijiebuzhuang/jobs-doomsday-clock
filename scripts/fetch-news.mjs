@@ -10,6 +10,7 @@ import {
   loadHistorySet,
   makeId,
   mergeFeedItems,
+  isGenericFeedImageUrl,
   normalizeFeedItem,
   normalizeContentType,
   saveHistorySet,
@@ -209,6 +210,10 @@ function urlLike(value) {
   return /^https?:\/\//i.test(String(value || ''))
 }
 
+function firstUsableImageUrl(...values) {
+  return values.find(value => value && !isGenericFeedImageUrl(value))
+}
+
 async function fetchRSSFeeds() {
   const parser = new Parser({
     timeout: 15000,
@@ -225,9 +230,11 @@ async function fetchRSSFeeds() {
     try {
       console.log(`Fetching: ${feed.name}...`)
       const result = await parser.parseString(fetchRSSXML(feed.url))
-      const feedImageUrl = imageURLFromItunesImage(result.itunesImage)
-        || result.image?.url
-        || result.image?.href
+      const feedImageUrl = firstUsableImageUrl(
+        imageURLFromItunesImage(result.itunesImage),
+        result.image?.url,
+        result.image?.href
+      )
       const items = (result.items || []).slice(0, 20)
       for (const item of items) {
         let imageUrl = null
@@ -264,17 +271,20 @@ async function fetchRSSFeeds() {
         if (!imageUrl && item['media:thumbnail']?.$?.url) {
           imageUrl = item['media:thumbnail'].$.url
         }
+        imageUrl = firstUsableImageUrl(imageUrl)
         if (!imageUrl) {
-          imageUrl = imageURLFromItunesImage(item.itunesImage)
-            || imageURLFromItunesImage(item.itunes?.image)
-            || feedImageUrl
+          imageUrl = firstUsableImageUrl(
+            imageURLFromItunesImage(item.itunesImage),
+            imageURLFromItunesImage(item.itunes?.image),
+            feedImageUrl
+          )
         }
         // Try to extract from content
         if (!imageUrl && (item.content || item['content:encoded'])) {
           const content = item.content || item['content:encoded']
           const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i)
           if (imgMatch) {
-            imageUrl = imgMatch[1]
+            imageUrl = firstUsableImageUrl(imgMatch[1])
           }
         }
 

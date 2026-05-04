@@ -111,10 +111,17 @@ export function sanitizeNewsUrl(value) {
 export function isGenericFeedImageUrl(value) {
   const normalized = sanitizeNewsUrl(value).toLowerCase()
   if (!normalized) return false
+  const googleNewsImageSize = normalized.match(/[=,&?_-][ws](\d{2,4})(?:[,&?_-]|$)/)
+  const googleNewsImageWidth = googleNewsImageSize ? Number.parseInt(googleNewsImageSize[1], 10) : undefined
+  const isLowResolutionGoogleNewsImage = (
+    normalized.includes('lh3.googleusercontent.com') ||
+    normalized.includes('news.googleusercontent.com')
+  ) && Number.isFinite(googleNewsImageWidth) && googleNewsImageWidth < 600
 
   return normalized.includes('/feeds/static/images/') ||
     normalized.includes('favicon') ||
     normalized.includes('cropped-cropped-favicon') ||
+    isLowResolutionGoogleNewsImage ||
     /(^|[/_-])(logo|site-logo|brand)([/_.-]|$)/.test(normalized)
 }
 
