@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:51:03",
+  "displayTime": "23:51:10",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 8.943,
+  "exactMinutesToMidnight": 8.841,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -4.057,
+  "newsAdjustment": -4.159,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.381,
+  "macroReplacementRate": 49.388,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,34 @@
   ],
   "newsFeed": [
     {
+      "id": "behind-the-ai-in-the-newsroom-the-washington-post-s-vineet-khosla",
+      "title": "Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla",
+      "summary": "The Washington Post's use of AI in news production highlights how AI is transforming journalism and could lead to job changes in media and communication roles.",
+      "date": "2026-05-05",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "news industry",
+        "job transformation"
+      ],
+      "fetchedAt": "2026-05-05T11:01:24.137Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "media-and-communication",
+        "computer-and-information-technology",
+        "management"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/ec662e0c-2a23-11f1-a30d-c7e5cfc3e62d/image/aab8bc08c0555769c3562a5b93d095e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO5497272734.mp3?updated=1774647760",
+      "duration": "39 min"
+    },
+    {
       "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
       "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
       "summary": "The rise of 'vibe coding' with generative AI is accelerating the replacement of junior software developer roles, but not senior engineering positions.",
@@ -3519,10 +3547,10 @@
     },
     {
       "id": "ai-can-t-steal-your-job-a-china-twist-can-avert-ai-jobs-apocalypse-the-economic-",
-      "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse",
+      "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times",
       "summary": "The article suggests that AI may not replace human jobs as drastically, with a focus on China's approach potentially preventing a job crisis.",
       "date": "2026-05-02",
-      "source": "The Economic Times",
+      "source": "AI Jobs",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZk9LTElvQWlOSnU2YXhxNWEzbWRkbkRScUx2MUxUeHlJZTYwSHZiUk1DcFBRYTczTlhSY0tGNFBsNmpCcnpnSG50QVhEX2xPdUpFOTQ2dVpoVHZ1SVlqcFppNHJOLVhfY0lkVTNkNWdaRTRqZUxKV0lNQnJOZW4tLXJGNm1QMTFNT3VNQ294dkswMTFsU2wtS2pyd0RIQVo2bVdtYkRWUGNzeXItaHdzRWh1bFpDRnZOT1A0SUNtS3BNMW1VaW5GOFR6NFRZS0Y1R05oek54Y1dJcknSAeABQVVfeXFMTzFPOFBfZHpzcXlsbmE2SlI1UlkwN1B5dkdsaHNvSElEQ3RTMnJiSTZtU3FXVzFwWUZfdDBoY25OckNEM1c5VGFwd2cyQWROT2JSd01uRTJYQWgzdGVTeFVIckE4YTd6Q1RpSWhvUU1ab1ZxeGdKWkFMUjFZRW9iZWNoTUVSWlhIZzFMYThGZmpRWl9kb2owVTZsaTVKR2hwOG1SbnJqY2RzbDY5QnFYUUs1WURDRFg3R0M0YS0zNHFiR3FZa2dHYVFzSUN4c1JSYkFjVER0bThjcm5rWEV6WVI?oc=5",
       "effect": "delay",
       "impactScore": 3,
@@ -3892,31 +3920,6 @@
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "anthropic-s-mythos-breach-was-humiliating",
-      "title": "Anthropic’s Mythos breach was humiliating",
-      "summary": "The breach of Anthropic's Mythos AI highlights the potential risks of advanced AI models being misused, which could accelerate the adoption of AI in cybersecurity roles and impact job dynamics in tech and security fields.",
-      "date": "2026-04-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "cybersecurity",
-        "AI deployment"
-      ],
-      "fetchedAt": "2026-04-27T11:01:32.158Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
       "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
       "title": "Are we tokenmaxxing our way to nowhere?",
       "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
@@ -3943,12 +3946,12 @@
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
     }
   ],
-  "generatedAt": "2026-05-04T12:00:00.000Z",
+  "generatedAt": "2026-05-05T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "New developments show mixed impacts on AI job replacement trends.",
-      "body": "The latest signals indicate a slight slowdown in AI job replacement pressure, with some delays from legal rulings and industry-specific adaptations. However, advancements in AI integration across sectors like healthcare and defense continue to push forward. Notable headlines include 'Why Vibe Coding Isn’t the End of the Software Engineer' and 'Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks.' Overall, the balance remains cautiously neutral."
+      "title": "AI job replacement trends show mixed signals",
+      "preview": "Advances in AI continue, but legal and ethical concerns slow some implementations.",
+      "body": "Recent news highlights both progress and resistance to AI-driven job changes. The Washington Post's use of AI in journalism and the Pentagon's AI deals signal strong adoption, while a Chinese court ruling and discussions on 'vibe coding' suggest slower replacement in certain roles. Overall, the balance remains tense between innovation and regulatory pushback."
     }
   }
 }

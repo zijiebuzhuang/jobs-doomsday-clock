@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-05-05",
+    "minutesToMidnight": 9,
+    "exactMinutesToMidnight": 8.841,
+    "macroReplacementRate": 49.388,
+    "newsAdjustment": -4.159,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "behind-the-ai-in-the-newsroom-the-washington-post-s-vineet-khosla",
+        "title": "Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla",
+        "summary": "The Washington Post's use of AI in news production highlights how AI is transforming journalism and could lead to job changes in media and communication roles.",
+        "date": "2026-05-05",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "news industry",
+          "job transformation"
+        ],
+        "fetchedAt": "2026-05-05T11:01:24.137Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "management"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/ec662e0c-2a23-11f1-a30d-c7e5cfc3e62d/image/aab8bc08c0555769c3562a5b93d095e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO5497272734.mp3?updated=1774647760",
+        "duration": "39 min"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla.",
+        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla\" (Apple Podcasts - Me, Myself, and AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -4.159 minutes. Updated 2026-05-05T12:00:00.000Z, with the macro replacement estimate at 49.4%."
+      }
+    }
+  },
+  {
     "date": "2026-05-04",
     "minutesToMidnight": 9,
     "exactMinutesToMidnight": 8.943,
@@ -7778,47 +7848,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-05T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-04",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-04T15:03:47.013Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

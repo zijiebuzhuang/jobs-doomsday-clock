@@ -1,5 +1,33 @@
 [
   {
+    "id": "behind-the-ai-in-the-newsroom-the-washington-post-s-vineet-khosla",
+    "title": "Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla",
+    "summary": "The Washington Post's use of AI in news production highlights how AI is transforming journalism and could lead to job changes in media and communication roles.",
+    "date": "2026-05-05",
+    "source": "Apple Podcasts - Me, Myself, and AI",
+    "sourceUrl": "https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "news industry",
+      "job transformation"
+    ],
+    "fetchedAt": "2026-05-05T11:01:24.137Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "management"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/ec662e0c-2a23-11f1-a30d-c7e5cfc3e62d/image/aab8bc08c0555769c3562a5b93d095e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO5497272734.mp3?updated=1774647760",
+    "duration": "39 min"
+  },
+  {
     "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
     "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
     "summary": "The rise of 'vibe coding' with generative AI is accelerating the replacement of junior software developer roles, but not senior engineering positions.",
