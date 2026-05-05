@@ -104,10 +104,10 @@
     "newsFeed": [
       {
         "id": "ai-can-t-steal-your-job-a-china-twist-can-avert-ai-jobs-apocalypse-the-economic-",
-        "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times",
+        "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse",
         "summary": "The article suggests that AI may not replace human jobs as drastically, with a focus on China's approach potentially preventing a job crisis.",
         "date": "2026-05-02",
-        "source": "AI Jobs",
+        "source": "The Economic Times",
         "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZk9LTElvQWlOSnU2YXhxNWEzbWRkbkRScUx2MUxUeHlJZTYwSHZiUk1DcFBRYTczTlhSY0tGNFBsNmpCcnpnSG50QVhEX2xPdUpFOTQ2dVpoVHZ1SVlqcFppNHJOLVhfY0lkVTNkNWdaRTRqZUxKV0lNQnJOZW4tLXJGNm1QMTFNT3VNQ294dkswMTFsU2wtS2pyd0RIQVo2bVdtYkRWUGNzeXItaHdzRWh1bFpDRnZOT1A0SUNtS3BNMW1VaW5GOFR6NFRZS0Y1R05oek54Y1dJcknSAeABQVVfeXFMTzFPOFBfZHpzcXlsbmE2SlI1UlkwN1B5dkdsaHNvSElEQ3RTMnJiSTZtU3FXVzFwWUZfdDBoY25OckNEM1c5VGFwd2cyQWROT2JSd01uRTJYQWgzdGVTeFVIckE4YTd6Q1RpSWhvUU1ab1ZxeGdKWkFMUjFZRW9iZWNoTUVSWlhIZzFMYThGZmpRWl9kb2owVTZsaTVKR2hwOG1SbnJqY2RzbDY5QnFYUUs1WURDRFg3R0M0YS0zNHFiR3FZa2dHYVFzSUN4c1JSYkFjVER0bThjcm5rWEV6WVI?oc=5",
         "effect": "delay",
         "impactScore": 3,
@@ -122,8 +122,7 @@
           "computer-and-information-technology",
           "management",
           "office-and-administrative-support"
-        ],
-        "imageUrl": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w256"
+        ]
       },
       {
         "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
@@ -229,8 +228,7 @@
           "computer-and-information-technology",
           "production",
           "_all"
-        ],
-        "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+        ]
       },
       {
         "id": "disneyland-now-uses-face-recognition-on-visitors",
@@ -296,8 +294,7 @@
           "computer-and-information-technology",
           "management",
           "legal"
-        ],
-        "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2024/09/cropped-TR-Logo-Block-Centered-R.png?w=32"
+        ]
       }
     ],
     "signalSummaries": {
@@ -387,8 +384,7 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ],
-        "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+        ]
       }
     ],
     "signalSummaries": {
@@ -715,8 +711,7 @@
           "computer-and-information-technology",
           "management",
           "_all"
-        ],
-        "imageUrl": "https://www.bloomberg.com/feeds/static/images/bloomberg_logo_blue.png"
+        ]
       },
       {
         "id": "attack-of-the-killer-script-kiddies",
@@ -878,7 +873,6 @@
           "computer-and-information-technology",
           "office-and-administrative-support"
         ],
-        "imageUrl": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32",
         "sourceGroup": "business"
       },
       {
