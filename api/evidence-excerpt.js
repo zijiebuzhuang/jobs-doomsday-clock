@@ -3,6 +3,10 @@ const MAX_TEXT_CHARS = 60000;
 const REQUEST_TIMEOUT_MS = 9000;
 const MIN_EXCERPT_SCORE = 4;
 const STRONG_EXCERPT_RATIO = 0.62;
+const RATE_LIMIT_WINDOW_MS = 60 * 60 * 1000;
+const RATE_LIMIT_MAX_REQUESTS = 36;
+
+const rateLimitBuckets = new Map();
 
 export default async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Credentials', 'true');
@@ -19,6 +23,12 @@ export default async function handler(req, res) {
   }
 
   try {
+    const rateLimit = checkRateLimit(clientKey(req));
+    if (!rateLimit.allowed) {
+      res.setHeader('Retry-After', String(Math.ceil(rateLimit.retryAfterMs / 1000)));
+      return res.status(429).json({ error: 'Too many evidence excerpt requests' });
+    }
+
     const { sourceUrl, topic = '', title = '', summary = '' } = req.body || {};
     if (!sourceUrl || !isAllowedURL(sourceUrl)) {
       return res.status(400).json({ error: 'Valid sourceUrl is required' });
@@ -44,6 +54,45 @@ export default async function handler(req, res) {
   } catch (error) {
     console.error('Evidence excerpt error:', error);
     return res.status(500).json({ error: 'Failed to load evidence excerpt' });
+  }
+}
+
+function clientKey(req) {
+  const forwardedFor = req.headers['x-forwarded-for'];
+  if (typeof forwardedFor === 'string' && forwardedFor.trim()) {
+    return forwardedFor.split(',')[0].trim();
+  }
+  return req.socket?.remoteAddress || 'unknown';
+}
+
+function checkRateLimit(key) {
+  const now = Date.now();
+  pruneRateLimitBuckets(now);
+
+  const bucket = rateLimitBuckets.get(key);
+  if (!bucket || now >= bucket.resetAt) {
+    rateLimitBuckets.set(key, {
+      count: 1,
+      resetAt: now + RATE_LIMIT_WINDOW_MS
+    });
+    return { allowed: true, retryAfterMs: 0 };
+  }
+
+  if (bucket.count >= RATE_LIMIT_MAX_REQUESTS) {
+    return { allowed: false, retryAfterMs: bucket.resetAt - now };
+  }
+
+  bucket.count += 1;
+  return { allowed: true, retryAfterMs: 0 };
+}
+
+function pruneRateLimitBuckets(now) {
+  if (rateLimitBuckets.size < 1000) return;
+
+  for (const [key, bucket] of rateLimitBuckets.entries()) {
+    if (now >= bucket.resetAt) {
+      rateLimitBuckets.delete(key);
+    }
   }
 }
 
