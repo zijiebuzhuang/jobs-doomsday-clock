@@ -6,7 +6,7 @@ on:
       send_push:
         description: Trigger remote push after publishing changed data
         required: false
-        default: false
+        default: true
         type: boolean
 
 jobs:
@@ -110,7 +110,7 @@ jobs:
           git push
 
       - name: Trigger daily push relay
-        if: steps.dataset.outputs.changed == 'true' && inputs.send_push == 'true'
+        if: steps.dataset.outputs.changed == 'true' && inputs.send_push
         env:
           RELAY_BASE_URL: ${{ secrets.JOBS_PUSH_RELAY_URL }}
           RELAY_SHARED_SECRET: ${{ secrets.JOBS_PUSH_RELAY_SECRET }}
