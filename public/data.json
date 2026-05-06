@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:51:10",
+  "displayTime": "23:51:09",
   "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 8.841,
+  "exactMinutesToMidnight": 8.844,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -4.159,
+  "newsAdjustment": -4.156,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -3946,12 +3946,12 @@
       "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
     }
   ],
-  "generatedAt": "2026-05-05T12:00:00.000Z",
+  "generatedAt": "2026-05-06T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job replacement trends show mixed signals",
-      "preview": "Advances in AI continue, but legal and ethical concerns slow some implementations.",
-      "body": "Recent news highlights both progress and resistance to AI-driven job changes. The Washington Post's use of AI in journalism and the Pentagon's AI deals signal strong adoption, while a Chinese court ruling and discussions on 'vibe coding' suggest slower replacement in certain roles. Overall, the balance remains tense between innovation and regulatory pushback."
+      "title": "AI job pressure shows mixed signals",
+      "preview": "Advances in AI continue, but legal and ethical concerns slow progress.",
+      "body": "Recent news highlights both the rapid integration of AI into industries like journalism and customer service, while legal rulings and ethical debates suggest some slowdowns. Standout reports include the Washington Post's AI use and a Chinese court ruling limiting AI-driven layoffs. Overall, the balance remains cautiously shifting toward advancement."
     }
   }
 }

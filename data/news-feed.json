@@ -3595,33 +3595,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/4c6c980c-0708-11f1-9806-93af51d6f68d/image/470260b036000ddc380ac1cbce8d8b0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5189482961.mp3?updated=1770791485",
     "duration": "30 min"
-  },
-  {
-    "id": "introducing-4d-creation-open-beta-npcs-4d-worlds-and-the-future-of-gaming-with-r",
-    "title": "Introducing 4D Creation Open Beta: NPCs, 4D Worlds, and the Future of Gaming with Roblox CEO Dave Baszucki",
-    "summary": "The development of advanced AI-driven gaming tools may contribute to the automation of creative and interactive content creation, potentially impacting roles in entertainment and design.",
-    "date": "2026-02-05",
-    "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
-    "sourceUrl": "https://traffic.megaphone.fm/PDP8508027868.mp3?updated=1770311094",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "gaming",
-      "automation"
-    ],
-    "fetchedAt": "2026-04-26T11:01:27.444Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "arts-and-design",
-      "entertainment-and-sports",
-      "computer-and-information-technology"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/803e0244-9d0f-11ed-923a-4bb54bf77468/image/NO_PRIORS_ALBUM_and_PROFILE_PIC-01.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://dcs-cached.megaphone.fm/PDP8508027868.mp3?key=6534d519726b484b974136c1649fbc3f&request_event_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&session_id=4ef8c2bf-fdb3-41a9-affd-5ca8d2c27cb2&timetoken=1777208462_1534A468B0B5B56B1BBB898937859287",
-    "duration": "44 min"
   }
 ]
