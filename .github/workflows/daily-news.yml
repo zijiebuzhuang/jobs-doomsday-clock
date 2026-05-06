@@ -8,6 +8,11 @@ on:
         required: false
         default: true
         type: boolean
+      force_push:
+        description: Trigger remote push even when today's data is already published
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   fetch-and-deploy:
@@ -78,11 +83,6 @@ jobs:
         id: dataset
         run: |
           git add data/ public/data.json public/clock-history.json
-          if git diff --staged --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-          echo "changed=true" >> "$GITHUB_OUTPUT"
           node <<'EOF' >> "$GITHUB_OUTPUT"
           const fs = require('fs')
           const crypto = require('crypto')
@@ -104,6 +104,11 @@ jobs:
           console.log(`signals_json=${JSON.stringify(signals).replace(/\n/g, ' ')}`)
           console.log(`lead_signal_json=${JSON.stringify(leadSignal).replace(/\n/g, ' ')}`)
           EOF
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Commit and push if changed
         if: steps.dataset.outputs.changed == 'true'
@@ -116,7 +121,7 @@ jobs:
           git push
 
       - name: Trigger daily push relay
-        if: steps.dataset.outputs.changed == 'true' && inputs.send_push
+        if: (steps.dataset.outputs.changed == 'true' || inputs.force_push) && inputs.send_push
         env:
           RELAY_BASE_URL: ${{ secrets.JOBS_PUSH_RELAY_URL }}
           RELAY_SHARED_SECRET: ${{ secrets.JOBS_PUSH_RELAY_SECRET }}
@@ -130,11 +135,7 @@ jobs:
           for channel in daily important followed; do
             for environment in production sandbox; do
               echo "Triggering $channel push for $environment"
-              PUSH_CHANNEL="$channel" PUSH_ENVIRONMENT="$environment" curl --fail --show-error --silent \
-                -X POST "$RELAY_BASE_URL/api/push/daily-news" \
-                -H "Authorization: Bearer $RELAY_SHARED_SECRET" \
-                -H "Content-Type: application/json" \
-                --data "$(node <<'EOF'
+              payload="$(PUSH_CHANNEL="$channel" PUSH_ENVIRONMENT="$environment" node <<'EOF'
           const payload = {
             environment: process.env.PUSH_ENVIRONMENT,
             channel: process.env.PUSH_CHANNEL,
@@ -149,6 +150,11 @@ jobs:
           process.stdout.write(JSON.stringify(payload))
           EOF
               )"
+              curl --fail --show-error --silent \
+                -X POST "$RELAY_BASE_URL/api/push/daily-news" \
+                -H "Authorization: Bearer $RELAY_SHARED_SECRET" \
+                -H "Content-Type: application/json" \
+                --data "$payload"
               echo
             done
           done
