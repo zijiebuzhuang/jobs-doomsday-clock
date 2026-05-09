@@ -1,9 +1,9 @@
 {
   "displayTime": "23:51:09",
-  "minutesToMidnight": 9,
-  "exactMinutesToMidnight": 8.849,
+  "minutesToMidnight": 8,
+  "exactMinutesToMidnight": 7.884,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -4.151,
+  "newsAdjustment": -5.116,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.387,
+  "macroReplacementRate": 49.454,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3446,13 +3446,133 @@
       "outlookDesc": "Faster than average"
     }
   ],
-  "newsFeed": [],
+  "newsFeed": [
+    {
+      "id": "running-codex-safely-at-openai",
+      "title": "Running Codex safely at OpenAI",
+      "summary": "OpenAI's secure implementation of Codex demonstrates progress in adopting AI coding agents safely, signaling increased workplace integration of AI tools.",
+      "date": "2026-05-08",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/running-codex-safely",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workplace tools",
+        "coding agents",
+        "security"
+      ],
+      "fetchedAt": "2026-05-08T12:00:00.000Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai",
+      "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+      "summary": "A proposal to protect workers displaced by AI highlights growing concerns about AI's impact on employment and potential regulatory responses.",
+      "date": "2026-05-08",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "labor",
+        "regulation"
+      ],
+      "fetchedAt": "2026-05-08T12:00:00.000Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "the-people-s-airline-and-the-enterprise-ai-gold-rush",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "summary": "Enterprise AI adoption is accelerating with major investments and partnerships, signaling growing pressure for AI integration across industries.",
+      "date": "2026-05-08",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "startup-acquisition",
+        "ai-adoption"
+      ],
+      "fetchedAt": "2026-05-08T12:00:00.000Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "trump-pivots-on-ai-regulation-worker-ousted-by-doge-runs-for-office-and-hantavir",
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "summary": "The Trump administration considering federal oversight of AI models could slow or shape the adoption of AI in the workplace.",
+      "date": "2026-05-07",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "adoption"
+      ],
+      "fetchedAt": "2026-05-08T12:00:00.000Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-launches-new-voice-intelligence-features-in-its-api",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "New voice intelligence features from OpenAI could enhance customer service and other workplace applications, increasing AI's role in various industries.",
+      "date": "2026-05-07",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workplace adoption",
+        "customer service"
+      ],
+      "fetchedAt": "2026-05-08T12:00:00.000Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "education-training-and-library"
+      ]
+    }
+  ],
   "generatedAt": "2026-05-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
       "title": "Daily signal pulse",
-      "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-      "body": "No new qualifying signals were retained for 2026-05-08T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.4%."
+      "preview": "A quick read on the latest pulse, led by Running Codex safely at OpenAI.",
+      "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Running Codex safely at OpenAI\" (OpenAI), while the clearest drag comes from \"There’s a Long-Shot Proposal to Protect California Workers From AI\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -5.116 minutes. Updated 2026-05-08T12:00:00.000Z, with the macro replacement estimate at 49.5%."
     }
   }
 }

@@ -1,5 +1,318 @@
 [
   {
+    "id": "running-codex-safely-at-openai",
+    "title": "Running Codex safely at OpenAI",
+    "summary": "OpenAI's secure implementation of Codex demonstrates progress in adopting AI coding agents safely, signaling increased workplace integration of AI tools.",
+    "date": "2026-05-08",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/running-codex-safely",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace tools",
+      "coding agents",
+      "security"
+    ],
+    "fetchedAt": "2026-05-08T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai",
+    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "summary": "A proposal to protect workers displaced by AI highlights growing concerns about AI's impact on employment and potential regulatory responses.",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "labor",
+      "regulation"
+    ],
+    "fetchedAt": "2026-05-08T12:00:00.000Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "the-people-s-airline-and-the-enterprise-ai-gold-rush",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "summary": "Enterprise AI adoption is accelerating with major investments and partnerships, signaling growing pressure for AI integration across industries.",
+    "date": "2026-05-08",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-ai",
+      "startup-acquisition",
+      "ai-adoption"
+    ],
+    "fetchedAt": "2026-05-08T12:00:00.000Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "parloa-builds-service-agents-customers-want-to-talk-to",
+    "title": "Parloa builds service agents customers want to talk to",
+    "summary": "AI-powered customer service agents are becoming more scalable and reliable, signaling increased adoption of AI in enterprise workflows.",
+    "date": "2026-05-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/parloa",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "enterprise adoption",
+      "customer service"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "advancing-voice-intelligence-with-new-models-in-the-api",
+    "title": "Advancing voice intelligence with new models in the API",
+    "summary": "New voice models in the OpenAI API enhance real-time speech processing, improving AI's ability to interact naturally with users and impacting workflows in multiple industries.",
+    "date": "2026-05-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "voice intelligence",
+      "productivity",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "summary": "OpenAI's expansion of Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber enhances cybersecurity workflows by enabling verified professionals to accelerate vulnerability research and protect critical infrastructure.",
+    "date": "2026-05-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "AI tools",
+      "workforce adoption"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ]
+  },
+  {
+    "id": "trump-pivots-on-ai-regulation-worker-ousted-by-doge-runs-for-office-and-hantavir",
+    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "summary": "The Trump administration considering federal oversight of AI models could slow or shape the adoption of AI in the workplace.",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "adoption"
+    ],
+    "fetchedAt": "2026-05-08T12:00:00.000Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-launches-new-voice-intelligence-features-in-its-api",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "summary": "New voice intelligence features from OpenAI could enhance customer service and other workplace applications, increasing AI's role in various industries.",
+    "date": "2026-05-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workplace adoption",
+      "customer service"
+    ],
+    "fetchedAt": "2026-05-08T12:00:00.000Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "education-training-and-library"
+    ]
+  },
+  {
+    "id": "how-frontier-firms-are-pulling-ahead",
+    "title": "How frontier firms are pulling ahead",
+    "summary": "Frontier enterprises are deepening AI adoption and building competitive advantages through advanced AI tools like Codex-powered workflows.",
+    "date": "2026-05-06",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/introducing-b2b-signals",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "workflow automation",
+      "productivity"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "uber-uses-openai-to-help-people-earn-smarter-and-book-faster",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "summary": "Uber adopting OpenAI tools to enhance driver earnings and rider experience shows AI integration into real-time transportation workflows, increasing productivity and efficiency.",
+    "date": "2026-05-06",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/uber",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "productivity-enhancement",
+      "workplace-ai"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "transportation-and-material-moving",
+      "computer-and-information-technology",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "unlocking-large-scale-ai-training-networks-with-mrc-multipath-reliable-connectio",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "summary": "OpenAI's release of MRC improves large-scale AI training infrastructure, advancing AI development and deployment capabilities.",
+    "date": "2026-05-05",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/mrc-supercomputer-networking",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "AI training",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "advancing-youth-safety-and-wellbeing-in-emea",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "summary": "OpenAI's initiative to improve youth safety and wellbeing in EMEA reflects growing regulatory and ethical concerns around AI, potentially slowing its adoption in certain sectors.",
+    "date": "2026-05-05",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "ethics",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ]
+  },
+  {
+    "id": "building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design",
+    "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
+    "summary": "The development of agentic systems represents a major shift in AI capabilities, enabling more complex and autonomous workflows that could transform many industries.",
+    "date": "2026-05-05",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "workflow transformation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/image3-768x432.png"
+  },
+  {
     "id": "behind-the-ai-in-the-newsroom-the-washington-post-s-vineet-khosla",
     "title": "Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla",
     "summary": "The Washington Post's use of AI in news production highlights how AI is transforming journalism and could lead to job changes in media and communication roles.",
@@ -26,6 +339,76 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/ec662e0c-2a23-11f1-a30d-c7e5cfc3e62d/image/aab8bc08c0555769c3562a5b93d095e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO5497272734.mp3?updated=1774647760",
     "duration": "39 min"
+  },
+  {
+    "id": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo",
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "summary": "OpenAI and PwC's collaboration signals AI adoption in finance workflows, increasing efficiency and reshaping CFO roles.",
+    "date": "2026-05-04",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "finance automation",
+      "workforce transformation"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "how-openai-delivers-low-latency-voice-ai-at-scale",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "summary": "OpenAI's low-latency voice AI advancement improves real-time communication tools, impacting workflows and productivity in multiple industries.",
+    "date": "2026-05-04",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "real-time communication",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "senators-seek-labor-led-database-on-ai-workforce-impacts",
+    "title": "Senators seek Labor-led database on AI workforce impacts",
+    "summary": "Senators are pushing for a labor-led database to track AI's impact on the workforce, indicating growing regulatory attention and potential constraints on AI adoption.",
+    "date": "2026-05-04",
+    "source": "FedScoop",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKMXBWaTMtWnRRMHVDMWRuZXpOQk5nSlBZUnY1bmZQWUMtU0V6a0RoNEtNZkZsczhTRXg1aVJrV0g3WDRPSHNBUTlPWkxZY3BQbUVBaGFlTjhwaTFKeUtjd2hsZEh4ZHhKRVBmMlJ2T0pFeTN2THlDMURVbG1oZw?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
   },
   {
     "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
@@ -222,6 +605,31 @@
     "duration": "01:09:55"
   },
   {
+    "id": "how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui",
+    "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+    "summary": "AI tools like ComfyUI are enabling more efficient and automated creative workflows, increasing productivity for design and media teams.",
+    "date": "2026-04-30",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "creative workflows"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "arts-and-design",
+      "media-and-communication"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1.gif"
+  },
+  {
     "id": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "summary": "A potential $900B+ valuation for Anthropic suggests growing investment in AI, which could accelerate AI's impact on job markets.",
@@ -242,6 +650,55 @@
     "categories": [
       "computer-and-information-technology",
       "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-study-reveals-which-jobs-are-most-exposed-to-real-world-ai-risks",
+    "title": "Anthropic Study Reveals Which Jobs Are Most Exposed to Real-World AI Risks",
+    "summary": "A study identifying jobs most exposed to AI risks highlights potential regulatory and ethical concerns that could slow AI adoption in certain industries.",
+    "date": "2026-04-30",
+    "source": "Investopedia",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmlHaFBQQnZ4UUR1bENZTGZpNkQtZ0lBN0dJRF9kQXpjNTlESE1RemZQVUpoVk1zTDhpNzVUc1FWczZGS1EzSmRoOWsyN3JlQllGdnAwb2RXbnhjOVEtX2g5YUlrRXRPTC1ocVZZZDFNMmJxeHRaQXkxM21HNEZhUjc2dnlreFBoRFU2UVp3eURCVHZRTXFQb2FvYVhRdTMyQjc5WURCM2tOSFRjTlFkM0k0S1ktVEl2Z0d6blNDSTNZeDJUUFJ5SHlB?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "risk",
+      "workforce"
+    ],
+    "fetchedAt": "2026-05-07T12:00:00.000Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "healthcare",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "upskilling-with-generative-ai-practices-and-challenges-for-freelance-knowledge-w",
+    "title": "Upskilling with Generative AI: Practices and Challenges for Freelance Knowledge Workers",
+    "summary": "The article highlights how freelance knowledge workers are adapting to and facing challenges with generative AI, signaling increased pressure to upskill in AI tools.",
+    "date": "2026-04-29",
+    "source": "arXiv - AI Labor",
+    "sourceUrl": "https://arxiv.org/abs/2604.27231v1",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "upskilling",
+      "freelance",
+      "AI tools",
+      "workforce adaptation"
+    ],
+    "fetchedAt": "2026-05-06T12:00:00.000Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
       "_all"
     ]
   },

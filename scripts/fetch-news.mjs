@@ -15,6 +15,7 @@ import {
   normalizeContentType,
   resolveAsOfDate,
   saveHistorySet,
+  signalQualityScore,
 } from './news-pipeline.mjs'
 
 const JOBS_MASTER_SITE_DATA_PATH = '/Users/zijiechen/Downloads/jobs-master/site/data.json'
@@ -160,7 +161,15 @@ const FEED_PATH = 'data/news-feed.json'
 const FETCH_REPORT_PATH = '.tmp/news-fetch-report.json'
 const CLASSIFICATION_BATCH_SIZE = 15
 const MIN_DAILY_SIGNALS = 3
-const MAX_CLASSIFICATION_CANDIDATES = 45
+const MAX_CLASSIFICATION_CANDIDATES = 75
+const MAX_DAILY_SIGNALS = 7
+const WORK_SIGNAL_TERMS = [
+  'job', 'jobs', 'work', 'worker', 'workers', 'workforce', 'labor', 'labour',
+  'career', 'careers', 'skill', 'skills', 'hiring', 'layoff', 'employment',
+  'productivity', 'enterprise', 'business', 'office', 'cfo', 'customer',
+  'service', 'coding', 'developer', 'operations', 'workflow', 'agent',
+  'automation', 'regulation', 'safety', 'policy',
+]
 
 export function isRelevant(title, contentSnippet) {
   const text = `${title} ${contentSnippet || ''}`.toLowerCase()
@@ -238,6 +247,56 @@ function writeFetchReport(report) {
   }, null, 2))
 }
 
+function workSignalText(item = {}) {
+  return `${item.title || ''} ${item.summary || ''} ${(item.tags || []).join(' ')} ${item.source || ''}`.toLowerCase()
+}
+
+function workSignalScore(item = {}) {
+  const text = workSignalText(item)
+  const title = String(item.title || '').toLowerCase()
+  const matchedTerms = WORK_SIGNAL_TERMS.filter(term => text.includes(term)).length
+  const sourceGroupBonus = {
+    'labor-market': 18,
+    business: 14,
+    official: 10,
+    research: 10,
+    policy: 8,
+    'ai-news': 0,
+  }[item.sourceGroup] || 0
+  const categoryBonus = Array.isArray(item.categories) && item.categories.length > 0 ? 8 : 0
+  const occupationBonus = Array.isArray(item.occupationIDs) && item.occupationIDs.length > 0 ? 10 : 0
+  const directWorkBonus = /\b(job|jobs|work|worker|workforce|labor|labour|career|skill|hiring|layoff|employment|office|customer service|workflow|productivity)\b/.test(text) ? 20 : 0
+  const titleNoisePenalty = /\b(lawsuit|deposition|stock|stocks|ipo|valuation|ads|disable|self-harm|loved ones|safety record|shit-talk|ceo|amazon|azure|musk|altman)\b/.test(title) ? 34 : 0
+  const textNoisePenalty = /\b(lawsuit|deposition|stock|stocks|ipo|valuation|ads|disable|self-harm|loved ones|safety record|shit-talk)\b/.test(text) ? 18 : 0
+
+  return signalQualityScore(item) + sourceGroupBonus + categoryBonus + occupationBonus + directWorkBonus + matchedTerms * 3 - titleNoisePenalty - textNoisePenalty
+}
+
+function isLikelyWorkSignal(item = {}) {
+  const title = String(item.title || '').toLowerCase()
+  const text = workSignalText(item)
+  const titleHasDirectWorkLanguage = /\b(job|jobs|work|worker|workers|workforce|labor|labour|career|skill|skills|hiring|layoff|employment|office|customer service|workflow|productivity)\b/.test(title)
+  const hasDirectWorkLanguage = /\b(job|jobs|work|worker|workers|workforce|labor|labour|career|skill|skills|hiring|layoff|employment|office|customer service|workflow|productivity|enterprise|business|cfo|freelance|creator)\b/.test(text)
+  const hasNoisyTitle = /\b(lawsuit|deposition|stock|stocks|ipo|valuation|ads|disable|self-harm|loved ones|safety record|shit-talk|musk|altman|amazon|azure)\b/.test(title)
+
+  return !hasNoisyTitle || titleHasDirectWorkLanguage || (
+    hasDirectWorkLanguage &&
+    (item.sourceGroup === 'labor-market' || item.sourceGroup === 'business' || item.sourceGroup === 'research')
+  )
+}
+
+export function curateDailySignals(items = []) {
+  return [...items]
+    .filter(isLikelyWorkSignal)
+    .filter(item => workSignalScore(item) >= 72)
+    .sort((lhs, rhs) =>
+      workSignalScore(rhs) - workSignalScore(lhs) ||
+      (rhs.impactScore || 0) - (lhs.impactScore || 0) ||
+      new Date(rhs.date) - new Date(lhs.date)
+    )
+    .slice(0, MAX_DAILY_SIGNALS)
+}
+
 function isImageMimeType(value = '') {
   return value.toLowerCase().startsWith('image/')
 }
@@ -302,7 +361,7 @@ function itemSourceName(feed, item) {
   return feed.name
 }
 
-async function fetchRSSFeeds() {
+export async function fetchRSSFeeds() {
   const parser = new Parser({
     timeout: 15000,
     customFields: {
@@ -428,7 +487,7 @@ function parseDateOrFallback(value) {
   return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString()
 }
 
-async function fetchOfficialIndexPages() {
+export async function fetchOfficialIndexPages() {
   const allItems = []
 
   for (const page of OFFICIAL_INDEX_PAGES) {
@@ -533,7 +592,18 @@ export async function classifyArticles(apiKey, articles, occupationIndex = loadO
 
   for (const article of articles) {
     try {
-      const prompt = `You are an AI labor market analyst. Analyze this news headline and snippet, then classify its impact on "AI replacing human jobs".
+      const prompt = `You are an AI career signals editor for How Far: AI Jobs Clock.
+
+Your job is to decide whether a headline/snippet is useful as a career signal: something that helps people understand how AI may change jobs, tasks, skills, workflows, hiring, productivity, regulation, or industry power.
+
+Do NOT require the article to explicitly say "AI replaces jobs". Many useful signals are about:
+- companies adopting AI in real work
+- AI tools changing workflows or productivity
+- AI labs releasing models, agents, voice, coding, search, or enterprise capabilities that can affect work
+- policy, legal, safety, or labor constraints that slow or shape adoption
+- funding, infrastructure, or enterprise deals that show AI capability moving into production
+
+Mark relevant=false only when the item is mostly unrelated to work/careers, too consumer-entertainment focused, too speculative, or has no clear connection to workplace AI pressure.
 
 Title: ${article.title}
 Snippet: ${article.contentSnippet?.slice(0, 500) || 'N/A'}
@@ -542,8 +612,8 @@ Here are the BLS occupation categories: ${BLS_CATEGORIES.join(', ')}
 ${occupationBlock}
 Respond with ONLY valid JSON (no markdown):
 {
-  "relevant": true/false (is this actually about AI's impact on jobs/labor?),
-  "effect": "advance" or "delay" (advance = AI replacing jobs faster, delay = slowing AI job replacement),
+  "relevant": true/false (is this useful as a career signal about AI's impact on work, tasks, skills, hiring, labor, productivity, or workplace adoption?),
+  "effect": "advance" or "delay" (advance = AI capability/adoption/work pressure is moving faster, delay = regulation/friction/human constraints slow or shape adoption),
   "impactScore": 1-5 (1=minor, 5=major milestone),
   "summary": "One sentence summary of the impact",
   "tags": ["tag1", "tag2"],
@@ -591,10 +661,10 @@ Respond with ONLY valid JSON (no markdown):
     }
   }
 
-  return classified
+  return curateDailySignals(classified)
 }
 
-async function classifyDailyEdition(apiKey, freshItems, asOfDate) {
+export async function classifyDailyEdition(apiKey, freshItems, asOfDate) {
   const classified = []
   const candidateLimit = Math.min(freshItems.length, MAX_CLASSIFICATION_CANDIDATES)
   const fetchedAt = asOfDate.toISOString()
