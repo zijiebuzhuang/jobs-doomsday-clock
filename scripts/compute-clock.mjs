@@ -441,7 +441,7 @@ function feedItemsWithRichMediaSamples(feedWindow, limit) {
 async function main() {
   const cliDate = process.argv.find(arg => arg.startsWith('--date='))?.split('=')[1]
   const asOfDate = resolveAsOfDate(cliDate)
-  const preliminaryOutput = buildClockData({ asOfDate })
+  const preliminaryOutput = buildClockData({ asOfDate, feedMode: 'daily' })
   let signalSummaries
 
   try {
@@ -457,6 +457,7 @@ async function main() {
 
   const output = buildClockData({
     asOfDate,
+    feedMode: 'daily',
     signalSummaries: signalSummaries ?? buildDeterministicSignalSummaries({
       feedWindow: preliminaryOutput.newsFeed,
       generatedAt: preliminaryOutput.generatedAt,
@@ -470,7 +471,7 @@ async function main() {
     `Generated data.json for ${asOfDate.toISOString().split('T')[0]}: ${output.displayTime} (base: ${output.baseMinutesToMidnight}min, adj: ${output.newsAdjustment > 0 ? '+' : ''}${output.newsAdjustment}min → ${output.minutesToMidnight}min to midnight)`
   )
   console.log(
-    `  ${output.replacementRate.toFixed(1)}% replacement rate, ${output.occupationCount} occupations, ${output.newsFeed.length} recent feed items from the last ${HISTORY_WINDOW_DAYS} days`
+    `  ${output.replacementRate.toFixed(1)}% replacement rate, ${output.occupationCount} occupations, ${output.newsFeed.length} daily feed items`
   )
 }
 
