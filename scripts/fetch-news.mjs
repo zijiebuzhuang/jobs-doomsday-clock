@@ -1,5 +1,5 @@
 import { execFileSync } from 'child_process'
-import { readFileSync, writeFileSync, existsSync } from 'fs'
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs'
 import Parser from 'rss-parser'
 import { pathToFileURL } from 'url'
 import {
@@ -13,6 +13,7 @@ import {
   isGenericFeedImageUrl,
   normalizeFeedItem,
   normalizeContentType,
+  resolveAsOfDate,
   saveHistorySet,
 } from './news-pipeline.mjs'
 
@@ -156,6 +157,10 @@ const AI_JOBS_KEYWORDS = [
 ]
 
 const FEED_PATH = 'data/news-feed.json'
+const FETCH_REPORT_PATH = '.tmp/news-fetch-report.json'
+const CLASSIFICATION_BATCH_SIZE = 15
+const MIN_DAILY_SIGNALS = 3
+const MAX_CLASSIFICATION_CANDIDATES = 45
 
 export function isRelevant(title, contentSnippet) {
   const text = `${title} ${contentSnippet || ''}`.toLowerCase()
@@ -178,10 +183,59 @@ function isRichMediaItem(item) {
 
 function prioritizeFreshItems(items) {
   return [...items].sort((a, b) => {
+    const timestampDelta = itemTimestamp(b) - itemTimestamp(a)
+    if (timestampDelta !== 0) return timestampDelta
     const richDelta = Number(isRichMediaItem(b)) - Number(isRichMediaItem(a))
     if (richDelta !== 0) return richDelta
-    return itemTimestamp(b) - itemTimestamp(a)
+    return 0
   })
+}
+
+function logCandidateDiagnostics(rawItems, relevantItems, freshItems, history) {
+  const duplicateCount = relevantItems.length - freshItems.length
+  const bySource = new Map()
+  const byDate = new Map()
+
+  for (const item of rawItems) {
+    bySource.set(item.source, (bySource.get(item.source) || 0) + 1)
+    const timestamp = new Date(item.pubDate || item.isoDate || 0)
+    const date = Number.isNaN(timestamp.getTime()) ? 'unknown' : timestamp.toISOString().slice(0, 10)
+    byDate.set(date, (byDate.get(date) || 0) + 1)
+  }
+
+  console.log(`Already seen relevant items: ${duplicateCount}`)
+  console.log(`History IDs loaded: ${history.size}`)
+  console.log('Top raw sources:')
+  for (const [source, count] of [...bySource.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8)) {
+    console.log(`  ${source}: ${count}`)
+  }
+  console.log('Top raw publish dates:')
+  for (const [date, count] of [...byDate.entries()].sort((a, b) => b[0].localeCompare(a[0])).slice(0, 8)) {
+    console.log(`  ${date}: ${count}`)
+  }
+
+  if (freshItems.length > 0) {
+    console.log('Fresh candidate preview:')
+    for (const item of freshItems.slice(0, 8)) {
+      console.log(`  - [${item.pubDate || item.isoDate || 'no-date'}] ${item.source}: ${item.title.slice(0, 90)}`)
+    }
+  } else {
+    const seenRelevant = relevantItems.slice(0, 8).map(item => ({
+      title: item.title.slice(0, 90),
+      source: item.source,
+      id: makeId(item.title),
+      seen: history.has(makeId(item.title)),
+    }))
+    console.log(`No fresh candidates. Relevant preview: ${JSON.stringify(seenRelevant, null, 2)}`)
+  }
+}
+
+function writeFetchReport(report) {
+  mkdirSync('.tmp', { recursive: true })
+  writeFileSync(FETCH_REPORT_PATH, JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    ...report,
+  }, null, 2))
 }
 
 function isImageMimeType(value = '') {
@@ -471,10 +525,11 @@ export async function callLLM(apiKey, prompt) {
   return data.choices[0].message.content
 }
 
-export async function classifyArticles(apiKey, articles, occupationIndex = loadOccupationIndex()) {
+export async function classifyArticles(apiKey, articles, occupationIndex = loadOccupationIndex(), { fetchedAt } = {}) {
   const classified = []
   const hasOccupations = occupationIndex.allSlugs.size > 0
   const occupationBlock = hasOccupations ? occupationReferenceBlock(occupationIndex) : ''
+  const fetchedAtValue = fetchedAt || new Date().toISOString()
 
   for (const article of articles) {
     try {
@@ -522,7 +577,7 @@ Respond with ONLY valid JSON (no markdown):
         tags: parsed.tags || [],
         categories: parsed.affectedCategories,
         occupationIDs: validOccupationIDs,
-        fetchedAt: new Date().toISOString(),
+        fetchedAt: fetchedAtValue,
         imageUrl: article.imageUrl,
         contentType: article.contentType,
         mediaUrl: article.mediaUrl,
@@ -534,6 +589,25 @@ Respond with ONLY valid JSON (no markdown):
     } catch (err) {
       console.warn(`  ✗ Classification failed: ${article.title.slice(0, 40)}... - ${err.message}`)
     }
+  }
+
+  return classified
+}
+
+async function classifyDailyEdition(apiKey, freshItems, asOfDate) {
+  const classified = []
+  const candidateLimit = Math.min(freshItems.length, MAX_CLASSIFICATION_CANDIDATES)
+  const fetchedAt = asOfDate.toISOString()
+
+  for (let startIndex = 0; startIndex < candidateLimit && classified.length < MIN_DAILY_SIGNALS; startIndex += CLASSIFICATION_BATCH_SIZE) {
+    const batch = freshItems.slice(startIndex, startIndex + CLASSIFICATION_BATCH_SIZE)
+    if (batch.length === 0) break
+
+    const batchNumber = Math.floor(startIndex / CLASSIFICATION_BATCH_SIZE) + 1
+    console.log(`Classifying candidate batch ${batchNumber}: ${batch.length} items`)
+    const batchClassified = await classifyArticles(apiKey, batch, loadOccupationIndex(), { fetchedAt })
+    classified.push(...batchClassified)
+    console.log(`  → Retained ${classified.length}/${MIN_DAILY_SIGNALS} daily signals so far`)
   }
 
   return classified
@@ -557,8 +631,17 @@ async function main() {
   const richFresh = fresh.filter(isRichMediaItem).length
   console.log(`After dedup: ${fresh.length} new items\n`)
   console.log(`Rich media candidates: ${richFresh}\n`)
+  logCandidateDiagnostics(rawItems, relevant, fresh, history)
 
   if (fresh.length === 0) {
+    writeFetchReport({
+      status: 'no_fresh_candidates',
+      rawCount: rawItems.length,
+      relevantCount: relevant.length,
+      freshCount: fresh.length,
+      classifiedCount: 0,
+      richFreshCount: richFresh,
+    })
     console.log('No new relevant articles found. Exiting.')
     return
   }
@@ -569,11 +652,28 @@ async function main() {
     process.exit(1)
   }
 
+  const asOfDate = resolveAsOfDate()
   console.log('Step 2: Classifying with Qwen API...')
-  const classified = await classifyArticles(apiKey, fresh.slice(0, 15))
+  const classified = await classifyDailyEdition(apiKey, fresh, asOfDate)
   console.log(`\nClassified: ${classified.length} articles`)
 
-  const merged = mergeFeedItems(loadFeedItems(FEED_PATH), classified, new Date())
+  writeFetchReport({
+    status: classified.length > 0 ? 'classified' : 'no_classified_signals',
+    asOfDate: asOfDate.toISOString(),
+    rawCount: rawItems.length,
+    relevantCount: relevant.length,
+    freshCount: fresh.length,
+    classifiedCount: classified.length,
+    richFreshCount: richFresh,
+    candidateLimit: Math.min(fresh.length, MAX_CLASSIFICATION_CANDIDATES),
+  })
+
+  if (classified.length === 0) {
+    console.log('No classified signals retained. Keeping the existing edition unchanged.')
+    return
+  }
+
+  const merged = mergeFeedItems(loadFeedItems(FEED_PATH), classified, asOfDate)
 
   writeFileSync(FEED_PATH, JSON.stringify(merged, null, 2))
   console.log(`\nSaved ${merged.length} items from the last ${HISTORY_WINDOW_DAYS} days to ${FEED_PATH}`)

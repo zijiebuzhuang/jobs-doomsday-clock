@@ -61,20 +61,28 @@ jobs:
           EOF
 
       - name: Fetch and classify news
+        id: fetch_news
         if: steps.snapshot.outputs.published != 'true'
         env:
           DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
-        run: node scripts/fetch-news.mjs
+        run: |
+          node scripts/fetch-news.mjs
+          node <<'EOF' >> "$GITHUB_OUTPUT"
+          const fs = require('fs')
+          const report = JSON.parse(fs.readFileSync('.tmp/news-fetch-report.json', 'utf8'))
+          console.log(`classified_count=${report.classifiedCount || 0}`)
+          console.log(`status=${report.status || 'unknown'}`)
+          EOF
 
       - name: Recompute clock with news adjustment
-        if: steps.snapshot.outputs.published != 'true'
+        if: steps.snapshot.outputs.published != 'true' && steps.fetch_news.outputs.classified_count != '0'
         env:
           AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
           DASHSCOPE_API_KEY: ${{ secrets.ALIYUN }}
         run: node scripts/compute-clock.mjs
 
       - name: Save daily history snapshot
-        if: steps.snapshot.outputs.published != 'true'
+        if: steps.snapshot.outputs.published != 'true' && steps.fetch_news.outputs.classified_count != '0'
         env:
           AS_OF_DATE: ${{ steps.publish_date.outputs.as_of_date }}
         run: node scripts/save-history.mjs
