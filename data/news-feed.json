@@ -1,5 +1,102 @@
 [
   {
+    "id": "china-s-top-economic-planner-urges-stronger-coordination-on-ai",
+    "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
+    "summary": "China's push for stronger coordination in AI development signals increased focus on structured AI adoption, potentially accelerating its integration into various industries.",
+    "date": "2026-05-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-top-economic-planner-urges-stronger-coordination-on-ai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
+    "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
+    "summary": "Growth in AI investment is boosting trade and export activity, signaling increased adoption of AI in economic and industrial workflows.",
+    "date": "2026-05-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI investment",
+      "economic impact",
+      "trade growth"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
+    "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
+    "summary": "ByteDance's significant increase in AI infrastructure spending signals growing investment in AI capabilities, likely driving changes in tech and related industries.",
+    "date": "2026-05-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "corporate investment"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "improving-bash-generation-in-small-language-models-with-grammar-constrained-deco",
+    "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
+    "summary": "Improving bash generation in small language models enhances AI's ability to perform complex system tasks, increasing its utility in technical workflows.",
+    "date": "2026-05-08",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "coding"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/person-desk-three-computers-768x432-jpg.webp"
+  },
+  {
     "id": "running-codex-safely-at-openai",
     "title": "Running Codex safely at OpenAI",
     "summary": "OpenAI's secure implementation of Codex demonstrates progress in adopting AI coding agents safely, signaling increased workplace integration of AI tools.",
@@ -21,6 +118,79 @@
     "categories": [
       "computer-and-information-technology",
       "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "playstation-sees-ai-as-a-powerful-tool-to-help-make-games",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "summary": "Sony's adoption of AI in game development signals growing integration of AI in creative and tech industries, influencing workflows and skill requirements.",
+    "date": "2026-05-08",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "game-development",
+      "AI-in-creativity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "arts-and-design",
+      "entertainment-and-sports"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "carlyle-global-research-head-on-ai-s-economic-impact",
+    "title": "Carlyle Global Research Head on AI's Economic Impact",
+    "summary": "A top investment strategist highlights the potential for significant AI-driven productivity gains, signaling growing confidence in AI's economic impact.",
+    "date": "2026-05-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-08/carlyle-global-research-head-on-ai-s-economic-impact-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "investment strategy"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-inks-1-8-billion-computing-deal-with-akamai",
+    "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
+    "summary": "A major computing deal between Anthropic and Akamai signals increased AI adoption and infrastructure investment, indicating growing demand for AI capabilities in enterprise settings.",
+    "date": "2026-05-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise AI",
+      "computing deals"
+    ],
+    "fetchedAt": "2026-05-09T11:00:46.649Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
       "_all"
     ]
   },
