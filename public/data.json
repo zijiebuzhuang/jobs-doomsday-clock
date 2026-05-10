@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:52:36",
+  "displayTime": "23:52:44",
   "minutesToMidnight": 7,
-  "exactMinutesToMidnight": 7.392,
+  "exactMinutesToMidnight": 7.275,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -5.608,
+  "newsAdjustment": -5.725,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.488,
+  "macroReplacementRate": 49.496,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,182 +3448,161 @@
   ],
   "newsFeed": [
     {
-      "id": "china-s-top-economic-planner-urges-stronger-coordination-on-ai",
-      "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
-      "summary": "China's push for stronger coordination in AI development signals increased focus on structured AI adoption, potentially accelerating its integration into various industries.",
+      "id": "ecb-s-escriv-says-ai-risks-prompt-finance-infrastructure-review",
+      "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
+      "summary": "Regulatory scrutiny of AI's impact on financial infrastructure may slow or shape its adoption in finance and related fields.",
       "date": "2026-05-09",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-top-economic-planner-urges-stronger-coordination-on-ai",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
-      "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
-      "summary": "Growth in AI investment is boosting trade and export activity, signaling increased adoption of AI in economic and industrial workflows.",
-      "date": "2026-05-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI investment",
-        "economic impact",
-        "trade growth"
-      ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-      "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
-      "summary": "ByteDance's significant increase in AI infrastructure spending signals growing investment in AI capabilities, likely driving changes in tech and related industries.",
-      "date": "2026-05-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "corporate investment"
+        "regulation",
+        "finance",
+        "infrastructure"
       ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "improving-bash-generation-in-small-language-models-with-grammar-constrained-deco",
-      "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
-      "summary": "Improving bash generation in small language models enhances AI's ability to perform complex system tasks, increasing its utility in technical workflows.",
-      "date": "2026-05-08",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "coding"
-      ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/person-desk-three-computers-768x432-jpg.webp"
-    },
-    {
-      "id": "playstation-sees-ai-as-a-powerful-tool-to-help-make-games",
-      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-      "summary": "Sony's adoption of AI in game development signals growing integration of AI in creative and tech industries, influencing workflows and skill requirements.",
+      "id": "all-the-latest-updates-on-ai-data-centers",
+      "title": "All the latest updates on AI data centers",
+      "summary": "The expansion of AI data centers highlights growing infrastructure needs for AI, signaling increased adoption and pressure on tech and related industries.",
       "date": "2026-05-08",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "game-development",
-        "AI-in-creativity",
-        "workflows"
+        "data centers",
+        "infrastructure",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "arts-and-design",
-        "entertainment-and-sports"
+        "construction-and-extraction",
+        "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "carlyle-global-research-head-on-ai-s-economic-impact",
-      "title": "Carlyle Global Research Head on AI's Economic Impact",
-      "summary": "A top investment strategist highlights the potential for significant AI-driven productivity gains, signaling growing confidence in AI's economic impact.",
-      "date": "2026-05-08",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-08/carlyle-global-research-head-on-ai-s-economic-impact-video",
+      "id": "how-anthropic-s-mythos-has-rewritten-firefox-s-approach-to-cybersecurity",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Anthropic's Mythos AI tool is helping Mozilla identify critical security vulnerabilities in Firefox, showing AI's growing role in cybersecurity and software development workflows.",
+      "date": "2026-05-07",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "cybersecurity",
+        "software development",
+        "workflow change"
+      ],
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "labor-department-nears-launch-of-ai-workforce-hub",
+      "title": "Labor Department nears launch of AI workforce hub",
+      "summary": "The Labor Department's AI workforce hub signals increased focus on AI's role in shaping future job markets and worker training.",
+      "date": "2026-04-28",
+      "source": "FedScoop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9remRQTUhZZjVKY0stUTlFS19FOVYxS1lMc1N4eVduXy16c0dYTXNwbUw0aHpydEdGcmlLdFdnaUppdzh5TVJLcjRTRS1pTk1ibnlOUXR4NzNPUEMwV2E3WW9La2pIR295LUdQeERGUQ?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "workforce-development",
+        "AI-adoption"
+      ],
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "understanding-the-most-viral-chart-in-artificial-intelligence",
+      "title": "Understanding the Most Viral Chart in Artificial Intelligence",
+      "summary": "A viral AI capability chart highlights growing AI performance trends, signaling increased pressure across industries.",
+      "date": "2026-04-25",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/understand-the-most-viral-chart-in-artificial-intelligence",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI capabilities",
+        "workplace adoption",
+        "industry trends"
+      ],
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b5332c19-d958-475c-ad93-b4360136c71d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "57 min"
+    },
+    {
+      "id": "winning-a-kaggle-competition-with-generative-ai-assisted-coding",
+      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
+      "summary": "LLM agents significantly accelerate the machine learning development process, demonstrating AI's growing role in enhancing productivity and innovation in data science and tech fields.",
+      "date": "2026-04-23",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
         "productivity",
-        "investment strategy"
+        "machine learning"
       ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-inks-1-8-billion-computing-deal-with-akamai",
-      "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
-      "summary": "A major computing deal between Anthropic and Akamai signals increased AI adoption and infrastructure investment, indicating growing demand for AI capabilities in enterprise settings.",
-      "date": "2026-05-08",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise AI",
-        "computing deals"
-      ],
-      "fetchedAt": "2026-05-09T11:00:46.649Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "life-physical-and-social-science",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/agentic-ai-768x432.jpg"
     }
   ],
-  "generatedAt": "2026-05-09T12:00:00.000Z",
+  "generatedAt": "2026-05-10T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Across Industries",
-      "preview": "Strong AI investment and policy moves signal rising integration into key sectors.",
-      "body": "Recent signals show continued momentum in AI adoption, with China emphasizing coordinated development and major companies like ByteDance and Anthropic increasing infrastructure spending. Advances in technical capabilities and creative applications further highlight the growing influence of AI across industries."
+      "title": "Regulatory scrutiny and AI expansion shape job market dynamics",
+      "preview": "New regulatory concerns and tech advancements signal shifting pressures on AI job replacement.",
+      "body": "Recent signals show a mix of regulatory caution and technological progress. ECB officials highlighted risks in financial infrastructure, while AI data centers and cybersecurity tools indicate growing adoption. Overall, the balance suggests continued pressure but with some regulatory guardrails emerging."
     }
   }
 }

@@ -1,5 +1,196 @@
 [
   {
+    "date": "2026-05-10",
+    "minutesToMidnight": 7,
+    "exactMinutesToMidnight": 7.275,
+    "macroReplacementRate": 49.496,
+    "newsAdjustment": -5.725,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "ecb-s-escriv-says-ai-risks-prompt-finance-infrastructure-review",
+        "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
+        "summary": "Regulatory scrutiny of AI's impact on financial infrastructure may slow or shape its adoption in finance and related fields.",
+        "date": "2026-05-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "finance",
+          "infrastructure"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "all-the-latest-updates-on-ai-data-centers",
+        "title": "All the latest updates on AI data centers",
+        "summary": "The expansion of AI data centers highlights growing infrastructure needs for AI, signaling increased adoption and pressure on tech and related industries.",
+        "date": "2026-05-08",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "data centers",
+          "infrastructure",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "construction-and-extraction",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "how-anthropic-s-mythos-has-rewritten-firefox-s-approach-to-cybersecurity",
+        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+        "summary": "Anthropic's Mythos AI tool is helping Mozilla identify critical security vulnerabilities in Firefox, showing AI's growing role in cybersecurity and software development workflows.",
+        "date": "2026-05-07",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "cybersecurity",
+          "software development",
+          "workflow change"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "labor-department-nears-launch-of-ai-workforce-hub",
+        "title": "Labor Department nears launch of AI workforce hub",
+        "summary": "The Labor Department's AI workforce hub signals increased focus on AI's role in shaping future job markets and worker training.",
+        "date": "2026-04-28",
+        "source": "FedScoop",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9remRQTUhZZjVKY0stUTlFS19FOVYxS1lMc1N4eVduXy16c0dYTXNwbUw0aHpydEdGcmlLdFdnaUppdzh5TVJLcjRTRS1pTk1ibnlOUXR4NzNPUEMwV2E3WW9La2pIR295LUdQeERGUQ?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "workforce-development",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "understanding-the-most-viral-chart-in-artificial-intelligence",
+        "title": "Understanding the Most Viral Chart in Artificial Intelligence",
+        "summary": "A viral AI capability chart highlights growing AI performance trends, signaling increased pressure across industries.",
+        "date": "2026-04-25",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/understand-the-most-viral-chart-in-artificial-intelligence",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI capabilities",
+          "workplace adoption",
+          "industry trends"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b5332c19-d958-475c-ad93-b4360136c71d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "57 min"
+      },
+      {
+        "id": "winning-a-kaggle-competition-with-generative-ai-assisted-coding",
+        "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
+        "summary": "LLM agents significantly accelerate the machine learning development process, demonstrating AI's growing role in enhancing productivity and innovation in data science and tech fields.",
+        "date": "2026-04-23",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "machine learning"
+        ],
+        "fetchedAt": "2026-05-10T11:00:46.138Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/agentic-ai-768x432.jpg"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review.",
+        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"All the latest updates on AI data centers\" (The Verge - AI), while the clearest drag comes from \"ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -5.725 minutes. Updated 2026-05-10T12:00:00.000Z, with the macro replacement estimate at 49.5%."
+      }
+    }
+  },
+  {
     "date": "2026-05-09",
     "minutesToMidnight": 7,
     "exactMinutesToMidnight": 7.392,
@@ -7899,47 +8090,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-10T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-09",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-09T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
