@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:52:44",
+  "displayTime": "23:53:10",
   "minutesToMidnight": 7,
-  "exactMinutesToMidnight": 7.275,
+  "exactMinutesToMidnight": 6.84,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -5.725,
+  "newsAdjustment": -6.16,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.496,
+  "macroReplacementRate": 49.526,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,116 +3448,161 @@
   ],
   "newsFeed": [
     {
-      "id": "ecb-s-escriv-says-ai-risks-prompt-finance-infrastructure-review",
-      "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
-      "summary": "Regulatory scrutiny of AI's impact on financial infrastructure may slow or shape its adoption in finance and related fields.",
-      "date": "2026-05-09",
+      "id": "openai-campus-network-student-club-interest-form",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
+      "date": "2026-05-11",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "education",
+        "AI adoption",
+        "student engagement"
+      ],
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "education-training-and-library",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "a-400-ai-bet-that-s-actually-a-high-stakes-wager-on-the-future-of-work",
+      "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
+      "summary": "Two economists debate the speed of AI's impact on the US job market, highlighting ongoing uncertainty about its future effects on work.",
+      "date": "2026-05-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "economic-impact",
+        "workforce-transformation",
+        "policy-discussion"
+      ],
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "behind-the-claude-frenzy-that-ate-up-all-the-mac-minis",
+      "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
+      "summary": "The surge in demand for Apple Mac Minis highlights growing AI adoption in professional and personal workflows, indicating increased use of AI tools across industries.",
+      "date": "2026-05-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "finance",
-        "infrastructure"
+        "AI adoption",
+        "workforce tools",
+        "AI infrastructure"
       ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "healthcare",
+        "_all"
+      ]
+    },
+    {
+      "id": "jpmorgan-says-equities-at-all-time-highs-make-sense-",
+      "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
+      "summary": "JPMorgan's focus on AI investment and equity market trends indicates growing integration of AI in financial services and investment strategies.",
+      "date": "2026-05-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-11/jpmorgan-says-equities-at-all-time-highs-make-sense-video",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI investment",
+        "financial services",
+        "equity markets"
+      ],
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "all-the-latest-updates-on-ai-data-centers",
-      "title": "All the latest updates on AI data centers",
-      "summary": "The expansion of AI data centers highlights growing infrastructure needs for AI, signaling increased adoption and pressure on tech and related industries.",
-      "date": "2026-05-08",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "id": "alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
+      "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
+      "summary": "Alphabet's yen bond sale indicates increased financial commitment to AI, signaling growing investment in AI capabilities as competition intensifies.",
+      "date": "2026-05-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "data centers",
-        "infrastructure",
-        "AI adoption"
+        "AI investment",
+        "enterprise adoption",
+        "funding"
       ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "construction-and-extraction",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "how-anthropic-s-mythos-has-rewritten-firefox-s-approach-to-cybersecurity",
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "summary": "Anthropic's Mythos AI tool is helping Mozilla identify critical security vulnerabilities in Firefox, showing AI's growing role in cybersecurity and software development workflows.",
-      "date": "2026-05-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "cybersecurity",
-        "software development",
-        "workflow change"
-      ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "labor-department-nears-launch-of-ai-workforce-hub",
-      "title": "Labor Department nears launch of AI workforce hub",
-      "summary": "The Labor Department's AI workforce hub signals increased focus on AI's role in shaping future job markets and worker training.",
-      "date": "2026-04-28",
-      "source": "FedScoop",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9remRQTUhZZjVKY0stUTlFS19FOVYxS1lMc1N4eVduXy16c0dYTXNwbUw0aHpydEdGcmlLdFdnaUppdzh5TVJLcjRTRS1pTk1ibnlOUXR4NzNPUEMwV2E3WW9La2pIR295LUdQeERGUQ?oc=5",
+      "id": "goldman-sees-ai-driven-super-surplus-swelling-in-korea-taiwan",
+      "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
+      "summary": "AI-driven chip booms in South Korea and Taiwan are boosting economic surpluses and may lead to higher interest rates, signaling increased AI adoption and economic pressure.",
+      "date": "2026-05-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "policy",
-        "workforce-development",
-        "AI-adoption"
+        "AI adoption",
+        "economic impact",
+        "chip industry"
       ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "understanding-the-most-viral-chart-in-artificial-intelligence",
-      "title": "Understanding the Most Viral Chart in Artificial Intelligence",
-      "summary": "A viral AI capability chart highlights growing AI performance trends, signaling increased pressure across industries.",
-      "date": "2026-04-25",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/understand-the-most-viral-chart-in-artificial-intelligence",
+      "id": "is-china-winning-the-a-i-race-",
+      "title": "Is China Winning the A.I. Race?",
+      "summary": "The article highlights the geopolitical competition between China and the U.S. in AI, signaling increased global focus and investment in AI capabilities that may affect workplace adoption and labor dynamics.",
+      "date": "2026-05-11",
+      "source": "Apple Podcasts - The Daily",
+      "sourceUrl": "https://www.nytimes.com/the-daily",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI capabilities",
-        "workplace adoption",
-        "industry trends"
+        "geopolitics",
+        "AI competition",
+        "global adoption"
       ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
+      "fetchedAt": "2026-05-11T11:01:02.160Z",
       "sourceGroup": "business",
       "sourceTier": "media",
       "qualityScore": 84,
@@ -3567,42 +3612,17 @@
         "management",
         "_all"
       ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b5332c19-d958-475c-ad93-b4360136c71d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "57 min"
-    },
-    {
-      "id": "winning-a-kaggle-competition-with-generative-ai-assisted-coding",
-      "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
-      "summary": "LLM agents significantly accelerate the machine learning development process, demonstrating AI's growing role in enhancing productivity and innovation in data science and tech fields.",
-      "date": "2026-04-23",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "machine learning"
-      ],
-      "fetchedAt": "2026-05-10T11:00:46.138Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/agentic-ai-768x432.jpg"
+      "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
+      "duration": "00:29:41"
     }
   ],
-  "generatedAt": "2026-05-10T12:00:00.000Z",
+  "generatedAt": "2026-05-11T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory scrutiny and AI expansion shape job market dynamics",
-      "preview": "New regulatory concerns and tech advancements signal shifting pressures on AI job replacement.",
-      "body": "Recent signals show a mix of regulatory caution and technological progress. ECB officials highlighted risks in financial infrastructure, while AI data centers and cybersecurity tools indicate growing adoption. Overall, the balance suggests continued pressure but with some regulatory guardrails emerging."
+      "title": "AI Adoption Accelerates Amid Global Investment and Workforce Uncertainty",
+      "preview": "New signals suggest rising AI integration and economic shifts.",
+      "body": "Recent news highlights growing AI adoption, with OpenAI promoting student engagement and Bloomberg reporting increased demand for AI tools. Economic indicators and global competition also signal heightened pressure on workforce dynamics. Overall, the balance of signals leans toward continued advancement in AI's influence on jobs."
     }
   }
 }

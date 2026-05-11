@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-05-11",
+    "minutesToMidnight": 7,
+    "exactMinutesToMidnight": 6.84,
+    "macroReplacementRate": 49.526,
+    "newsAdjustment": -6.16,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "openai-campus-network-student-club-interest-form",
+        "title": "OpenAI Campus Network: Student club interest form",
+        "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
+        "date": "2026-05-11",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "AI adoption",
+          "student engagement"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "a-400-ai-bet-that-s-actually-a-high-stakes-wager-on-the-future-of-work",
+        "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
+        "summary": "Two economists debate the speed of AI's impact on the US job market, highlighting ongoing uncertainty about its future effects on work.",
+        "date": "2026-05-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "economic-impact",
+          "workforce-transformation",
+          "policy-discussion"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "behind-the-claude-frenzy-that-ate-up-all-the-mac-minis",
+        "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
+        "summary": "The surge in demand for Apple Mac Minis highlights growing AI adoption in professional and personal workflows, indicating increased use of AI tools across industries.",
+        "date": "2026-05-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce tools",
+          "AI infrastructure"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "healthcare",
+          "_all"
+        ]
+      },
+      {
+        "id": "jpmorgan-says-equities-at-all-time-highs-make-sense-",
+        "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
+        "summary": "JPMorgan's focus on AI investment and equity market trends indicates growing integration of AI in financial services and investment strategies.",
+        "date": "2026-05-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-11/jpmorgan-says-equities-at-all-time-highs-make-sense-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI investment",
+          "financial services",
+          "equity markets"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
+        "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
+        "summary": "Alphabet's yen bond sale indicates increased financial commitment to AI, signaling growing investment in AI capabilities as competition intensifies.",
+        "date": "2026-05-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI investment",
+          "enterprise adoption",
+          "funding"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "goldman-sees-ai-driven-super-surplus-swelling-in-korea-taiwan",
+        "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
+        "summary": "AI-driven chip booms in South Korea and Taiwan are boosting economic surpluses and may lead to higher interest rates, signaling increased AI adoption and economic pressure.",
+        "date": "2026-05-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "economic impact",
+          "chip industry"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "is-china-winning-the-a-i-race-",
+        "title": "Is China Winning the A.I. Race?",
+        "summary": "The article highlights the geopolitical competition between China and the U.S. in AI, signaling increased global focus and investment in AI capabilities that may affect workplace adoption and labor dynamics.",
+        "date": "2026-05-11",
+        "source": "Apple Podcasts - The Daily",
+        "sourceUrl": "https://www.nytimes.com/the-daily",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "geopolitics",
+          "AI competition",
+          "global adoption"
+        ],
+        "fetchedAt": "2026-05-11T11:01:02.160Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
+        "duration": "00:29:41"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Behind the Claude Frenzy That Ate Up All the Mac Minis.",
+        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Behind the Claude Frenzy That Ate Up All the Mac Minis\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -6.160 minutes. Updated 2026-05-11T12:00:00.000Z, with the macro replacement estimate at 49.5%."
+      }
+    }
+  },
+  {
     "date": "2026-05-10",
     "minutesToMidnight": 7,
     "exactMinutesToMidnight": 7.275,
@@ -8049,47 +8260,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-11T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-10",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-10T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
