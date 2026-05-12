@@ -1,5 +1,100 @@
 [
   {
+    "id": "why-ai-matters-more-than-iran-war-in-markets",
+    "title": "Why AI Matters More Than Iran War in Markets",
+    "summary": "AI's growing influence on financial markets highlights its increasing impact on business and financial sectors.",
+    "date": "2026-05-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "market-impact",
+      "investment",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+    "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
+    "summary": "AI is being used by criminals to scale money laundering efforts, prompting regulatory attention and potential restrictions on AI adoption in financial sectors.",
+    "date": "2026-05-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "fraud",
+      "security"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "goldman-says-trend-toward-non-us-debt-is-accelerating",
+    "title": "Goldman Says Trend Toward Non-US Debt Is Accelerating",
+    "summary": "AI investment is driving corporates to diversify funding outside the US, indicating broader economic and financial shifts influenced by AI adoption.",
+    "date": "2026-05-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI investment",
+      "financial services",
+      "globalization"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-launches-deployco-to-help-businesses-build-around-intelligence",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "summary": "OpenAI's DeployCo aims to help businesses implement frontier AI, accelerating AI adoption in enterprises.",
+    "date": "2026-05-11",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-launches-the-deployment-company",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise adoption",
+      "AI deployment",
+      "business impact"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
     "id": "openai-campus-network-student-club-interest-form",
     "title": "OpenAI Campus Network: Student club interest form",
     "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
@@ -21,6 +116,80 @@
       "education-training-and-library",
       "computer-and-information-technology",
       "_all"
+    ]
+  },
+  {
+    "id": "openai-just-released-its-answer-to-claude-mythos",
+    "title": "OpenAI just released its answer to Claude Mythos",
+    "summary": "OpenAI's Daybreak initiative advances AI-driven security workflows, improving vulnerability detection and automation in software development and IT operations.",
+    "date": "2026-05-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "workflow automation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "here-s-what-mira-murati-s-ai-company-is-up-to",
+    "title": "Here’s what Mira Murati’s AI company is up to",
+    "summary": "A new AI company led by a former OpenAI CTO is developing interaction models that could change how humans collaborate with AI in real-time, potentially impacting workflows across multiple industries.",
+    "date": "2026-05-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow change",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "summary": "GM's layoffs highlight the growing demand for AI-specific skills in IT roles, signaling a shift in hiring priorities toward AI-native development and related expertise.",
+    "date": "2026-05-11",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "hiring trends",
+      "skills shift"
+    ],
+    "fetchedAt": "2026-05-12T11:00:43.014Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
     ]
   },
   {
@@ -4512,33 +4681,5 @@
     "categories": [
       "_all"
     ]
-  },
-  {
-    "id": "making-sense-of-the-layoff-wave",
-    "title": "Making sense of the layoff wave",
-    "summary": "The article suggests that current layoffs are not primarily caused by AI, but rather by economic factors, which may slow the perception of AI replacing human jobs.",
-    "date": "2026-02-11",
-    "source": "Apple Podcasts - Possible",
-    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5189482961.mp3?updated=1770791485",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI impact",
-      "layoffs",
-      "economic factors"
-    ],
-    "fetchedAt": "2026-04-29T11:01:26.537Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "management",
-      "business-and-financial",
-      "computer-and-information-technology"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/4c6c980c-0708-11f1-9806-93af51d6f68d/image/470260b036000ddc380ac1cbce8d8b0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5189482961.mp3?updated=1770791485",
-    "duration": "30 min"
   }
 ]

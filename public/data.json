@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:53:10",
+  "displayTime": "23:53:15",
   "minutesToMidnight": 7,
-  "exactMinutesToMidnight": 6.84,
+  "exactMinutesToMidnight": 6.748,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -6.16,
+  "newsAdjustment": -6.252,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.526,
+  "macroReplacementRate": 49.533,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,181 +3448,181 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-campus-network-student-club-interest-form",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
-      "date": "2026-05-11",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "AI adoption",
-        "student engagement"
-      ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "a-400-ai-bet-that-s-actually-a-high-stakes-wager-on-the-future-of-work",
-      "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
-      "summary": "Two economists debate the speed of AI's impact on the US job market, highlighting ongoing uncertainty about its future effects on work.",
-      "date": "2026-05-11",
+      "id": "why-ai-matters-more-than-iran-war-in-markets",
+      "title": "Why AI Matters More Than Iran War in Markets",
+      "summary": "AI's growing influence on financial markets highlights its increasing impact on business and financial sectors.",
+      "date": "2026-05-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "economic-impact",
-        "workforce-transformation",
-        "policy-discussion"
-      ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "behind-the-claude-frenzy-that-ate-up-all-the-mac-minis",
-      "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
-      "summary": "The surge in demand for Apple Mac Minis highlights growing AI adoption in professional and personal workflows, indicating increased use of AI tools across industries.",
-      "date": "2026-05-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce tools",
-        "AI infrastructure"
+        "market-impact",
+        "investment",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "healthcare",
         "_all"
       ]
     },
     {
-      "id": "jpmorgan-says-equities-at-all-time-highs-make-sense-",
-      "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
-      "summary": "JPMorgan's focus on AI investment and equity market trends indicates growing integration of AI in financial services and investment strategies.",
-      "date": "2026-05-11",
+      "id": "australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+      "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
+      "summary": "AI is being used by criminals to scale money laundering efforts, prompting regulatory attention and potential restrictions on AI adoption in financial sectors.",
+      "date": "2026-05-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-11/jpmorgan-says-equities-at-all-time-highs-make-sense-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "fraud",
+        "security"
+      ],
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "goldman-says-trend-toward-non-us-debt-is-accelerating",
+      "title": "Goldman Says Trend Toward Non-US Debt Is Accelerating",
+      "summary": "AI investment is driving corporates to diversify funding outside the US, indicating broader economic and financial shifts influenced by AI adoption.",
+      "date": "2026-05-12",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "AI investment",
         "financial services",
-        "equity markets"
+        "globalization"
       ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
-        "computer-and-information-technology"
+        "_all"
       ]
     },
     {
-      "id": "alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
-      "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
-      "summary": "Alphabet's yen bond sale indicates increased financial commitment to AI, signaling growing investment in AI capabilities as competition intensifies.",
+      "id": "openai-launches-deployco-to-help-businesses-build-around-intelligence",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "summary": "OpenAI's DeployCo aims to help businesses implement frontier AI, accelerating AI adoption in enterprises.",
       "date": "2026-05-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/openai-launches-the-deployment-company",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI investment",
         "enterprise adoption",
-        "funding"
+        "AI deployment",
+        "business impact"
       ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
+        "management",
+        "business-and-financial"
       ]
     },
     {
-      "id": "goldman-sees-ai-driven-super-surplus-swelling-in-korea-taiwan",
-      "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
-      "summary": "AI-driven chip booms in South Korea and Taiwan are boosting economic surpluses and may lead to higher interest rates, signaling increased AI adoption and economic pressure.",
+      "id": "openai-just-released-its-answer-to-claude-mythos",
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "summary": "OpenAI's Daybreak initiative advances AI-driven security workflows, improving vulnerability detection and automation in software development and IT operations.",
       "date": "2026-05-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "economic impact",
-        "chip industry"
+        "AI security",
+        "workflow automation",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "is-china-winning-the-a-i-race-",
-      "title": "Is China Winning the A.I. Race?",
-      "summary": "The article highlights the geopolitical competition between China and the U.S. in AI, signaling increased global focus and investment in AI capabilities that may affect workplace adoption and labor dynamics.",
-      "date": "2026-05-11",
-      "source": "Apple Podcasts - The Daily",
-      "sourceUrl": "https://www.nytimes.com/the-daily",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "geopolitics",
-        "AI competition",
-        "global adoption"
-      ],
-      "fetchedAt": "2026-05-11T11:01:02.160Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
       ],
-      "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
-      "duration": "00:29:41"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "here-s-what-mira-murati-s-ai-company-is-up-to",
+      "title": "Here’s what Mira Murati’s AI company is up to",
+      "summary": "A new AI company led by a former OpenAI CTO is developing interaction models that could change how humans collaborate with AI in real-time, potentially impacting workflows across multiple industries.",
+      "date": "2026-05-11",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workflow change",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "summary": "GM's layoffs highlight the growing demand for AI-specific skills in IT roles, signaling a shift in hiring priorities toward AI-native development and related expertise.",
+      "date": "2026-05-11",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "hiring trends",
+        "skills shift"
+      ],
+      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
     }
   ],
-  "generatedAt": "2026-05-11T12:00:00.000Z",
+  "generatedAt": "2026-05-12T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Amid Global Investment and Workforce Uncertainty",
-      "preview": "New signals suggest rising AI integration and economic shifts.",
-      "body": "Recent news highlights growing AI adoption, with OpenAI promoting student engagement and Bloomberg reporting increased demand for AI tools. Economic indicators and global competition also signal heightened pressure on workforce dynamics. Overall, the balance of signals leans toward continued advancement in AI's influence on jobs."
+      "title": "AI Advances Outpace Regulatory Concerns in Financial Sector",
+      "preview": "Positive AI momentum continues despite growing regulatory scrutiny.",
+      "body": "Recent news shows strong AI adoption across financial and tech sectors, with advances in deployment and security. However, concerns about AI-driven fraud are also rising. Overall, the balance remains tilted toward progress, though regulatory responses may soon alter this dynamic."
     }
   }
 }
