@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:53:15",
-  "minutesToMidnight": 7,
-  "exactMinutesToMidnight": 6.748,
+  "displayTime": "23:53:38",
+  "minutesToMidnight": 6,
+  "exactMinutesToMidnight": 6.372,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -6.252,
+  "newsAdjustment": -6.628,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.533,
+  "macroReplacementRate": 49.559,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,181 +3448,185 @@
   ],
   "newsFeed": [
     {
-      "id": "why-ai-matters-more-than-iran-war-in-markets",
-      "title": "Why AI Matters More Than Iran War in Markets",
-      "summary": "AI's growing influence on financial markets highlights its increasing impact on business and financial sectors.",
-      "date": "2026-05-12",
+      "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
+      "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
+      "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
+      "date": "2026-05-13",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "market-impact",
-        "investment",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
-      "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
-      "summary": "AI is being used by criminals to scale money laundering efforts, prompting regulatory attention and potential restrictions on AI adoption in financial sectors.",
-      "date": "2026-05-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "fraud",
-        "security"
-      ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "goldman-says-trend-toward-non-us-debt-is-accelerating",
-      "title": "Goldman Says Trend Toward Non-US Debt Is Accelerating",
-      "summary": "AI investment is driving corporates to diversify funding outside the US, indicating broader economic and financial shifts influenced by AI adoption.",
-      "date": "2026-05-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI investment",
-        "financial services",
-        "globalization"
+        "AI adoption",
+        "enterprise AI",
+        "workplace transformation"
       ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
+        "healthcare",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
+      "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
+      "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
+      "date": "2026-05-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise AI",
+        "AI adoption",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "openai-launches-deployco-to-help-businesses-build-around-intelligence",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "summary": "OpenAI's DeployCo aims to help businesses implement frontier AI, accelerating AI adoption in enterprises.",
-      "date": "2026-05-11",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/openai-launches-the-deployment-company",
-      "effect": "advance",
+      "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+      "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
+      "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
+      "date": "2026-05-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "enterprise adoption",
-        "AI deployment",
-        "business impact"
+        "energy",
+        "infrastructure",
+        "regulation"
       ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "openai-just-released-its-answer-to-claude-mythos",
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "summary": "OpenAI's Daybreak initiative advances AI-driven security workflows, improving vulnerability detection and automation in software development and IT operations.",
-      "date": "2026-05-11",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "workflow automation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "here-s-what-mira-murati-s-ai-company-is-up-to",
-      "title": "Here’s what Mira Murati’s AI company is up to",
-      "summary": "A new AI company led by a former OpenAI CTO is developing interaction models that could change how humans collaborate with AI in real-time, potentially impacting workflows across multiple industries.",
-      "date": "2026-05-11",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
+      "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
+      "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
+      "date": "2026-05-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workflow change",
-        "AI adoption"
+        "investment",
+        "AI adoption",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
+      "date": "2026-05-12",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "platform integration",
+        "user experience"
+      ],
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
-        "management",
-        "business-and-financial"
+        "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "GM's layoffs highlight the growing demand for AI-specific skills in IT roles, signaling a shift in hiring priorities toward AI-native development and related expertise.",
-      "date": "2026-05-11",
+      "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
+      "date": "2026-05-12",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "hiring trends",
-        "skills shift"
+        "productivity tools",
+        "enterprise AI",
+        "consumer tech"
       ],
-      "fetchedAt": "2026-05-12T11:00:43.014Z",
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "business-and-financial"
+        "office-and-administrative-support",
+        "_all"
       ]
+    },
+    {
+      "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
+      "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
+      "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
+      "date": "2026-05-12",
+      "source": "Apple Podcasts - Newcomer Pod",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce transformation",
+        "capitalism",
+        "job displacement"
+      ],
+      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "_all"
+      ],
+      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
+      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
+      "duration": "01:05:26"
     }
   ],
-  "generatedAt": "2026-05-12T12:00:00.000Z",
+  "generatedAt": "2026-05-13T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Regulatory Concerns in Financial Sector",
-      "preview": "Positive AI momentum continues despite growing regulatory scrutiny.",
-      "body": "Recent news shows strong AI adoption across financial and tech sectors, with advances in deployment and security. However, concerns about AI-driven fraud are also rising. Overall, the balance remains tilted toward progress, though regulatory responses may soon alter this dynamic."
+      "title": "AI Adoption Accelerates Amid Energy and Labor Concerns",
+      "preview": "Advances in AI integration contrast with growing energy and labor challenges.",
+      "body": "Recent signals show strong momentum in AI adoption, with major financial institutions and tech companies increasing investments. However, rising energy demands and concerns about job displacement are creating friction. Standout reports include Japanese banks gaining access to advanced AI models and Google expanding AI into daily computing, while energy shortages in Lake Tahoe highlight infrastructure strains."
     }
   }
 }

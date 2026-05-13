@@ -1,5 +1,151 @@
 [
   {
+    "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
+    "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
+    "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
+    "date": "2026-05-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "workplace transformation"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "healthcare",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
+    "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
+    "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
+    "date": "2026-05-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "AI adoption",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+    "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
+    "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
+    "date": "2026-05-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "energy",
+      "infrastructure",
+      "regulation"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
+    "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
+    "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
+    "date": "2026-05-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "investment",
+      "AI adoption",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
+    "title": "Meta won’t let you block its AI account on Threads",
+    "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
+    "date": "2026-05-12",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "platform integration",
+      "user experience"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
+    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
+    "date": "2026-05-12",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "enterprise AI",
+      "consumer tech"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
     "id": "why-ai-matters-more-than-iran-war-in-markets",
     "title": "Why AI Matters More Than Iran War in Markets",
     "summary": "AI's growing influence on financial markets highlights its increasing impact on business and financial sectors.",
@@ -69,6 +215,33 @@
       "business-and-financial",
       "_all"
     ]
+  },
+  {
+    "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
+    "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
+    "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
+    "date": "2026-05-12",
+    "source": "Apple Podcasts - Newcomer Pod",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce transformation",
+      "capitalism",
+      "job displacement"
+    ],
+    "fetchedAt": "2026-05-13T11:00:59.289Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "_all"
+    ],
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
+    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
+    "duration": "01:05:26"
   },
   {
     "id": "openai-launches-deployco-to-help-businesses-build-around-intelligence",

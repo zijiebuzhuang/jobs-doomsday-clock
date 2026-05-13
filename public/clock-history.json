@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-05-13",
+    "minutesToMidnight": 6,
+    "exactMinutesToMidnight": 6.372,
+    "macroReplacementRate": 49.559,
+    "newsAdjustment": -6.628,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
+        "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
+        "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
+        "date": "2026-05-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "workplace transformation"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "healthcare",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
+        "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
+        "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
+        "date": "2026-05-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "AI adoption",
+          "cybersecurity"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+        "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
+        "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
+        "date": "2026-05-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "energy",
+          "infrastructure",
+          "regulation"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
+        "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
+        "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
+        "date": "2026-05-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "investment",
+          "AI adoption",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
+        "title": "Meta won’t let you block its AI account on Threads",
+        "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
+        "date": "2026-05-12",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "platform integration",
+          "user experience"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
+        "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+        "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
+        "date": "2026-05-12",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "enterprise AI",
+          "consumer tech"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
+        "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
+        "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
+        "date": "2026-05-12",
+        "source": "Apple Podcasts - Newcomer Pod",
+        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "capitalism",
+          "job displacement"
+        ],
+        "fetchedAt": "2026-05-13T11:00:59.289Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "_all"
+        ],
+        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
+        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
+        "duration": "01:05:26"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Japan Megabanks Set to Win Mythos Access After Bessent Visit.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Japan Megabanks Set to Win Mythos Access After Bessent Visit\" (Bloomberg Technology), while the clearest drag comes from \"Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -6.628 minutes. Updated 2026-05-13T12:00:00.000Z, with the macro replacement estimate at 49.6%."
+      }
+    }
+  },
+  {
     "date": "2026-05-12",
     "minutesToMidnight": 7,
     "exactMinutesToMidnight": 6.748,
@@ -8389,47 +8604,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-13T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-12",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.028,
-    "macroReplacementRate": 49.098,
-    "newsAdjustment": 0.028,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": 0.008,
-      "business-and-financial": 0.008,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": 0,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": 0.008,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-12T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
