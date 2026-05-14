@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:53:38",
+  "displayTime": "23:53:59",
   "minutesToMidnight": 6,
-  "exactMinutesToMidnight": 6.372,
+  "exactMinutesToMidnight": 6.017,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -6.628,
+  "newsAdjustment": -6.983,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.559,
+  "macroReplacementRate": 49.583,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,69 +3448,142 @@
   ],
   "newsFeed": [
     {
-      "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-      "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
-      "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
-      "date": "2026-05-13",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "workplace transformation"
-      ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "healthcare",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
-      "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
-      "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
-      "date": "2026-05-13",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
+      "id": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
+      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+      "summary": "Legal tech startups like Clio are seeing significant adoption, signaling AI and automation are reshaping legal workflows and productivity.",
+      "date": "2026-05-14",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise AI",
-        "AI adoption",
-        "cybersecurity"
+        "legal-tech",
+        "workflow-automation",
+        "productivity"
       ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "legal",
+        "computer-and-information-technology",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
+      "title": "Blackstone’s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
+      "summary": "A major AI-driven tech financing in Southeast Asia signals growing investment in infrastructure that supports AI workloads and adoption.",
+      "date": "2026-05-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "enterprise adoption",
+        "data centers"
+      ],
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-      "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
-      "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
-      "date": "2026-05-13",
+      "id": "dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
+      "title": "DayOne Is Said to Consider Upsizing Funding Round to $4 Billion",
+      "summary": "Increased funding for DayOne Data Centers signals growing investment in AI infrastructure, accelerating AI adoption across industries.",
+      "date": "2026-05-14",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "energy",
         "infrastructure",
+        "funding",
+        "ai-adoption"
+      ],
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-chatbots-are-giving-out-people-s-real-phone-numbers",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "summary": "AI chatbots exposing personal contact information highlights privacy and security risks, potentially slowing AI adoption in workplaces.",
+      "date": "2026-05-13",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "privacy",
+        "security",
         "regulation"
       ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "summary": "Notion's integration of AI agents into its workspace signals growing adoption of agentic productivity tools, reshaping workflows and skill requirements across multiple industries.",
+      "date": "2026-05-13",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "workflow change",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "office-and-administrative-support"
+      ]
+    },
+    {
+      "id": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-",
+      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "summary": "AI's shift toward proactive capabilities could significantly alter workflows and productivity across multiple industries.",
+      "date": "2026-05-13",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "workflows",
+        "proactive AI"
+      ],
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3520,113 +3593,36 @@
       ]
     },
     {
-      "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
-      "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
-      "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
+      "id": "anthropic-courts-a-new-kind-of-customer-small-business-owners",
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "summary": "Anthropic's expansion into serving small businesses signals increased AI adoption in the broader market, indicating a shift toward more accessible AI tools for non-enterprise users.",
       "date": "2026-05-13",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "investment",
-        "AI adoption",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
-      "title": "Meta won’t let you block its AI account on Threads",
-      "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
-      "date": "2026-05-12",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "platform integration",
-        "user experience"
-      ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
-      "date": "2026-05-12",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "productivity tools",
-        "enterprise AI",
-        "consumer tech"
+        "AI platform expansion",
+        "small business adoption",
+        "user acquisition"
       ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
+      "fetchedAt": "2026-05-14T11:00:51.731Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "office-and-administrative-support",
         "_all"
       ]
-    },
-    {
-      "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
-      "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
-      "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
-      "date": "2026-05-12",
-      "source": "Apple Podcasts - Newcomer Pod",
-      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce transformation",
-        "capitalism",
-        "job displacement"
-      ],
-      "fetchedAt": "2026-05-13T11:00:59.289Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "_all"
-      ],
-      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
-      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
-      "duration": "01:05:26"
     }
   ],
-  "generatedAt": "2026-05-13T12:00:00.000Z",
+  "generatedAt": "2026-05-14T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Amid Energy and Labor Concerns",
-      "preview": "Advances in AI integration contrast with growing energy and labor challenges.",
-      "body": "Recent signals show strong momentum in AI adoption, with major financial institutions and tech companies increasing investments. However, rising energy demands and concerns about job displacement are creating friction. Standout reports include Japanese banks gaining access to advanced AI models and Google expanding AI into daily computing, while energy shortages in Lake Tahoe highlight infrastructure strains."
+      "title": "AI adoption accelerates with new infrastructure and tools",
+      "preview": "Positive momentum in AI investment and integration continues.",
+      "body": "Recent developments show strong progress in AI adoption, with notable advances in legal tech, data centers, and workplace tools. However, concerns around privacy risks remain a potential slowdown. Overall, the trend leans toward increased AI integration across industries."
     }
   }
 }
