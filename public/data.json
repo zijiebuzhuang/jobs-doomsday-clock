@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:53:59",
-  "minutesToMidnight": 6,
-  "exactMinutesToMidnight": 6.017,
+  "displayTime": "23:54:34",
+  "minutesToMidnight": 5,
+  "exactMinutesToMidnight": 5.438,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -6.983,
+  "newsAdjustment": -7.562,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.583,
+  "macroReplacementRate": 49.624,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,68 @@
   ],
   "newsFeed": [
     {
-      "id": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "summary": "Legal tech startups like Clio are seeing significant adoption, signaling AI and automation are reshaping legal workflows and productivity.",
-      "date": "2026-05-14",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "id": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop-",
+      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+      "summary": "A leader in AI development is focusing on collaborative AI systems rather than job replacement, signaling a shift toward human-AI teamwork in the workplace.",
+      "date": "2026-05-15",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "legal-tech",
-        "workflow-automation",
-        "productivity"
+        "collaborative AI",
+        "workplace adoption",
+        "human-in-the-loop"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "legal",
         "computer-and-information-technology",
-        "business-and-financial"
+        "management",
+        "_all"
       ]
     },
     {
-      "id": "blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
-      "title": "Blackstone’s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
-      "summary": "A major AI-driven tech financing in Southeast Asia signals growing investment in infrastructure that supports AI workloads and adoption.",
-      "date": "2026-05-14",
+      "id": "enterprise-40-of-revenue-streams-openai-cro",
+      "title": "Enterprise 40% of Revenue Streams: OpenAI CRO",
+      "summary": "OpenAI's growing enterprise revenue highlights increasing AI adoption in business operations, signaling stronger workplace integration of AI capabilities.",
+      "date": "2026-05-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/enterprise-40-of-revenue-streams-says-openai-cro-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
         "enterprise adoption",
-        "data centers"
+        "AI revenue",
+        "workplace integration"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
-      "title": "DayOne Is Said to Consider Upsizing Funding Round to $4 Billion",
-      "summary": "Increased funding for DayOne Data Centers signals growing investment in AI infrastructure, accelerating AI adoption across industries.",
-      "date": "2026-05-14",
+      "id": "openai-may-raise-more-capital-as-compute-crunch-deepens-cfo-says",
+      "title": "OpenAI May Raise More Capital as Compute Crunch Deepens, CFO Says",
+      "summary": "OpenAI's potential capital raise reflects growing investment in AI infrastructure, signaling increased pressure and adoption of AI capabilities in the workplace.",
+      "date": "2026-05-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/openai-cfo-says-company-may-raise-more-capital-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "infrastructure",
         "funding",
-        "ai-adoption"
+        "enterprise",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3520,69 +3520,68 @@
       ]
     },
     {
-      "id": "ai-chatbots-are-giving-out-people-s-real-phone-numbers",
-      "title": "AI chatbots are giving out people’s real phone numbers",
-      "summary": "AI chatbots exposing personal contact information highlights privacy and security risks, potentially slowing AI adoption in workplaces.",
-      "date": "2026-05-13",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+      "title": "OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",
+      "summary": "OpenAI's potential fundraising highlights the growing need for compute power, signaling increased pressure and investment in AI development and adoption.",
+      "date": "2026-05-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "privacy",
-        "security",
-        "regulation"
+        "funding",
+        "compute",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion's integration of AI agents into its workspace signals growing adoption of agentic productivity tools, reshaping workflows and skill requirements across multiple industries.",
-      "date": "2026-05-13",
+      "id": "openai-s-codex-is-now-in-the-chatgpt-mobile-app",
+      "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI integrating Codex into the ChatGPT mobile app increases AI's accessibility for coding and app interaction, boosting productivity and shifting skill demands in tech and related fields.",
+      "date": "2026-05-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tool adoption",
+        "coding tools",
+        "productivity"
+      ],
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-says-codex-is-coming-to-your-phone",
+      "title": "OpenAI says Codex is coming to your phone",
+      "summary": "OpenAI's Codex integration on phones enhances developer productivity and workflow flexibility, signaling AI's growing role in software development.",
+      "date": "2026-05-14",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
         "productivity",
-        "workflow change",
-        "enterprise adoption"
+        "coding"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "office-and-administrative-support"
-      ]
-    },
-    {
-      "id": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-",
-      "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "summary": "AI's shift toward proactive capabilities could significantly alter workflows and productivity across multiple industries.",
-      "date": "2026-05-13",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capabilities",
-        "workflows",
-        "proactive AI"
-      ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3593,36 +3592,35 @@
       ]
     },
     {
-      "id": "anthropic-courts-a-new-kind-of-customer-small-business-owners",
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "Anthropic's expansion into serving small businesses signals increased AI adoption in the broader market, indicating a shift toward more accessible AI tools for non-enterprise users.",
-      "date": "2026-05-13",
+      "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "A new open source tool helps AI coding users track and visualize their Claude Code usage, improving productivity and workflow for developers.",
+      "date": "2026-05-14",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI platform expansion",
-        "small business adoption",
-        "user acquisition"
+        "AI tools",
+        "coding",
+        "productivity"
       ],
-      "fetchedAt": "2026-05-14T11:00:51.731Z",
+      "fetchedAt": "2026-05-15T11:00:46.923Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
-        "_all"
+        "architecture-and-engineering"
       ]
     }
   ],
-  "generatedAt": "2026-05-14T12:00:00.000Z",
+  "generatedAt": "2026-05-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with new infrastructure and tools",
-      "preview": "Positive momentum in AI investment and integration continues.",
-      "body": "Recent developments show strong progress in AI adoption, with notable advances in legal tech, data centers, and workplace tools. However, concerns around privacy risks remain a potential slowdown. Overall, the trend leans toward increased AI integration across industries."
+      "title": "AI Adoption Accelerates with Workplace Integration",
+      "preview": "New AI tools and enterprise focus signal growing workplace integration.",
+      "body": "Recent updates highlight increased AI adoption in enterprises, with OpenAI's expanding revenue and Codex integration into mobile apps. Mira Murati's emphasis on human-AI collaboration suggests a shift toward teamwork rather than replacement. Overall, the feed reflects steady progress in AI integration with mixed implications for job roles."
     }
   }
 }

@@ -1,5 +1,214 @@
 [
   {
+    "date": "2026-05-15",
+    "minutesToMidnight": 5,
+    "exactMinutesToMidnight": 5.438,
+    "macroReplacementRate": 49.624,
+    "newsAdjustment": -7.562,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop-",
+        "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+        "summary": "A leader in AI development is focusing on collaborative AI systems rather than job replacement, signaling a shift toward human-AI teamwork in the workplace.",
+        "date": "2026-05-15",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "collaborative AI",
+          "workplace adoption",
+          "human-in-the-loop"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "enterprise-40-of-revenue-streams-openai-cro",
+        "title": "Enterprise 40% of Revenue Streams: OpenAI CRO",
+        "summary": "OpenAI's growing enterprise revenue highlights increasing AI adoption in business operations, signaling stronger workplace integration of AI capabilities.",
+        "date": "2026-05-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/enterprise-40-of-revenue-streams-says-openai-cro-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise adoption",
+          "AI revenue",
+          "workplace integration"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-may-raise-more-capital-as-compute-crunch-deepens-cfo-says",
+        "title": "OpenAI May Raise More Capital as Compute Crunch Deepens, CFO Says",
+        "summary": "OpenAI's potential capital raise reflects growing investment in AI infrastructure, signaling increased pressure and adoption of AI capabilities in the workplace.",
+        "date": "2026-05-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/openai-cfo-says-company-may-raise-more-capital-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "funding",
+          "enterprise",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+        "title": "OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",
+        "summary": "OpenAI's potential fundraising highlights the growing need for compute power, signaling increased pressure and investment in AI development and adoption.",
+        "date": "2026-05-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "funding",
+          "compute",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-codex-is-now-in-the-chatgpt-mobile-app",
+        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+        "summary": "OpenAI integrating Codex into the ChatGPT mobile app increases AI's accessibility for coding and app interaction, boosting productivity and shifting skill demands in tech and related fields.",
+        "date": "2026-05-14",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tool adoption",
+          "coding tools",
+          "productivity"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-says-codex-is-coming-to-your-phone",
+        "title": "OpenAI says Codex is coming to your phone",
+        "summary": "OpenAI's Codex integration on phones enhances developer productivity and workflow flexibility, signaling AI's growing role in software development.",
+        "date": "2026-05-14",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "coding"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "summary": "A new open source tool helps AI coding users track and visualize their Claude Code usage, improving productivity and workflow for developers.",
+        "date": "2026-05-14",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "coding",
+          "productivity"
+        ],
+        "fetchedAt": "2026-05-15T11:00:46.923Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Mira Murati Wants Her AI to ‘Keep Humans in the Loop’.",
+        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Mira Murati Wants Her AI to ‘Keep Humans in the Loop’\" (Wired), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -7.562 minutes. Updated 2026-05-15T12:00:00.000Z, with the macro replacement estimate at 49.6%."
+      }
+    }
+  },
+  {
     "date": "2026-05-14",
     "minutesToMidnight": 6,
     "exactMinutesToMidnight": 6.017,
@@ -8733,47 +8942,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-14",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.038,
-    "macroReplacementRate": 49.097,
-    "newsAdjustment": 0.038,
-    "categoryAdjustments": {
-      "healthcare": 0.005,
-      "life-physical-and-social-science": 0.005,
-      "architecture-and-engineering": 0.005,
-      "management": 0.01,
-      "business-and-financial": 0.01,
-      "construction-and-extraction": 0.005,
-      "production": 0.005,
-      "installation-maintenance-and-repair": 0.005,
-      "education-training-and-library": 0.005,
-      "office-and-administrative-support": 0.005,
-      "transportation-and-material-moving": 0.005,
-      "personal-care-and-service": 0.005,
-      "sales": 0.005,
-      "media-and-communication": 0.005,
-      "computer-and-information-technology": 0.01,
-      "community-and-social-service": 0.005,
-      "arts-and-design": 0.005,
-      "entertainment-and-sports": 0.005,
-      "protective-service": 0.005,
-      "food-preparation-and-serving": 0.005,
-      "legal": 0.005,
-      "math": 0.005,
-      "farming-fishing-and-forestry": 0.005,
-      "building-and-grounds-cleaning": 0.005
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

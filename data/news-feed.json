@@ -1,5 +1,172 @@
 [
   {
+    "id": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop-",
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "summary": "A leader in AI development is focusing on collaborative AI systems rather than job replacement, signaling a shift toward human-AI teamwork in the workplace.",
+    "date": "2026-05-15",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "collaborative AI",
+      "workplace adoption",
+      "human-in-the-loop"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "enterprise-40-of-revenue-streams-openai-cro",
+    "title": "Enterprise 40% of Revenue Streams: OpenAI CRO",
+    "summary": "OpenAI's growing enterprise revenue highlights increasing AI adoption in business operations, signaling stronger workplace integration of AI capabilities.",
+    "date": "2026-05-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/enterprise-40-of-revenue-streams-says-openai-cro-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise adoption",
+      "AI revenue",
+      "workplace integration"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-may-raise-more-capital-as-compute-crunch-deepens-cfo-says",
+    "title": "OpenAI May Raise More Capital as Compute Crunch Deepens, CFO Says",
+    "summary": "OpenAI's potential capital raise reflects growing investment in AI infrastructure, signaling increased pressure and adoption of AI capabilities in the workplace.",
+    "date": "2026-05-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/openai-cfo-says-company-may-raise-more-capital-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "enterprise",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+    "title": "OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",
+    "summary": "OpenAI's potential fundraising highlights the growing need for compute power, signaling increased pressure and investment in AI development and adoption.",
+    "date": "2026-05-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "compute",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-codex-is-now-in-the-chatgpt-mobile-app",
+    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+    "summary": "OpenAI integrating Codex into the ChatGPT mobile app increases AI's accessibility for coding and app interaction, boosting productivity and shifting skill demands in tech and related fields.",
+    "date": "2026-05-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tool adoption",
+      "coding tools",
+      "productivity"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-says-codex-is-coming-to-your-phone",
+    "title": "OpenAI says Codex is coming to your phone",
+    "summary": "OpenAI's Codex integration on phones enhances developer productivity and workflow flexibility, signaling AI's growing role in software development.",
+    "date": "2026-05-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "coding"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "summary": "A new open source tool helps AI coding users track and visualize their Claude Code usage, improving productivity and workflow for developers.",
+    "date": "2026-05-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "coding",
+      "productivity"
+    ],
+    "fetchedAt": "2026-05-15T11:00:46.923Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering"
+    ]
+  },
+  {
     "id": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
     "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
     "summary": "Legal tech startups like Clio are seeing significant adoption, signaling AI and automation are reshaping legal workflows and productivity.",
