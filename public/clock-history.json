@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026-05-16",
+    "minutesToMidnight": 5,
+    "exactMinutesToMidnight": 5.494,
+    "macroReplacementRate": 49.62,
+    "newsAdjustment": -7.506,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens",
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "summary": "Expanding access to AI tools and training in Malta signals increased AI adoption and skill development, potentially influencing workforce readiness and productivity across multiple industries.",
+        "date": "2026-05-16",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce training",
+          "AI accessibility"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+        "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+        "summary": "OpenAI's reorganization and focus on AI agents signals a major push toward AI-driven workflows and product development, increasing pressure on tech and related industries to adapt.",
+        "date": "2026-05-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "product strategy",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-now-wants-chatgpt-to-access-your-bank-accounts",
+        "title": "OpenAI now wants ChatGPT to access your bank accounts",
+        "summary": "OpenAI's integration of ChatGPT with banking data signals increased AI adoption in financial services and related industries, enhancing productivity and workflow capabilities.",
+        "date": "2026-05-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "financial technology",
+          "data access"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "legal"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-updates-its-spam-rules-to-include-attempts-to-manipulate-ai",
+        "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+        "summary": "Google's updated spam policy to block AI manipulation attempts introduces regulatory friction that may shape how AI is used in search and content creation.",
+        "date": "2026-05-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "AI ethics",
+          "search"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "summary": "OpenAI's ChatGPT integration with personal finance tools signals AI's growing role in financial management and productivity, affecting work in finance and tech sectors.",
+        "date": "2026-05-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "financial technology",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "trump-discussed-nvidia-chips-with-xi-jinping-bloomberg-tech-5-15-2026",
+        "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
+        "summary": "Discussion of AI chip technology between political leaders signals growing importance of advanced AI hardware in global tech strategy.",
+        "date": "2026-05-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI hardware",
+          "policy",
+          "global tech"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn-t-be-the-fir",
+        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+        "summary": "Legal disputes between AI companies and tech giants may slow down AI integration in workplaces and affect collaboration between AI developers and enterprise partners.",
+        "date": "2026-05-14",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "legal",
+          "enterprise adoption",
+          "AI partnerships"
+        ],
+        "fetchedAt": "2026-05-16T11:00:43.507Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI and Malta partner to bring ChatGPT Plus to all citizens.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI and Malta partner to bring ChatGPT Plus to all citizens\" (OpenAI), while the clearest drag comes from \"Google updates its spam rules to include attempts to ‘manipulate’ AI\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.506 minutes. Updated 2026-05-16T12:00:00.000Z, with the macro replacement estimate at 49.6%."
+      }
+    }
+  },
+  {
     "date": "2026-05-15",
     "minutesToMidnight": 5,
     "exactMinutesToMidnight": 5.438,
@@ -8901,47 +9113,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-15",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.03,
-    "macroReplacementRate": 49.098,
-    "newsAdjustment": 0.03,
-    "categoryAdjustments": {
-      "healthcare": 0.004,
-      "life-physical-and-social-science": 0.004,
-      "architecture-and-engineering": 0.004,
-      "management": 0.008,
-      "business-and-financial": 0.008,
-      "construction-and-extraction": 0.004,
-      "production": 0.004,
-      "installation-maintenance-and-repair": 0.004,
-      "education-training-and-library": 0.004,
-      "office-and-administrative-support": 0.004,
-      "transportation-and-material-moving": 0.004,
-      "personal-care-and-service": 0.004,
-      "sales": 0.004,
-      "media-and-communication": 0.004,
-      "computer-and-information-technology": 0.008,
-      "community-and-social-service": 0.004,
-      "arts-and-design": 0.004,
-      "entertainment-and-sports": 0.004,
-      "protective-service": 0.004,
-      "food-preparation-and-serving": 0.004,
-      "legal": 0.004,
-      "math": 0.004,
-      "farming-fishing-and-forestry": 0.004,
-      "building-and-grounds-cleaning": 0.004
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

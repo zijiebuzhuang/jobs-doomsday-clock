@@ -1,5 +1,151 @@
 [
   {
+    "id": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "summary": "Expanding access to AI tools and training in Malta signals increased AI adoption and skill development, potentially influencing workforce readiness and productivity across multiple industries.",
+    "date": "2026-05-16",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce training",
+      "AI accessibility"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "summary": "OpenAI's reorganization and focus on AI agents signals a major push toward AI-driven workflows and product development, increasing pressure on tech and related industries to adapt.",
+    "date": "2026-05-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "product strategy",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-now-wants-chatgpt-to-access-your-bank-accounts",
+    "title": "OpenAI now wants ChatGPT to access your bank accounts",
+    "summary": "OpenAI's integration of ChatGPT with banking data signals increased AI adoption in financial services and related industries, enhancing productivity and workflow capabilities.",
+    "date": "2026-05-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial technology",
+      "data access"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "legal"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-updates-its-spam-rules-to-include-attempts-to-manipulate-ai",
+    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "summary": "Google's updated spam policy to block AI manipulation attempts introduces regulatory friction that may shape how AI is used in search and content creation.",
+    "date": "2026-05-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "AI ethics",
+      "search"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "OpenAI's ChatGPT integration with personal finance tools signals AI's growing role in financial management and productivity, affecting work in finance and tech sectors.",
+    "date": "2026-05-15",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial technology",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "trump-discussed-nvidia-chips-with-xi-jinping-bloomberg-tech-5-15-2026",
+    "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
+    "summary": "Discussion of AI chip technology between political leaders signals growing importance of advanced AI hardware in global tech strategy.",
+    "date": "2026-05-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI hardware",
+      "policy",
+      "global tech"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop-",
     "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
     "summary": "A leader in AI development is focusing on collaborative AI systems rather than job replacement, signaling a shift toward human-AI teamwork in the workplace.",
@@ -118,6 +264,30 @@
       "_all"
     ],
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn-t-be-the-fir",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "summary": "Legal disputes between AI companies and tech giants may slow down AI integration in workplaces and affect collaboration between AI developers and enterprise partners.",
+    "date": "2026-05-14",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "legal",
+      "enterprise adoption",
+      "AI partnerships"
+    ],
+    "fetchedAt": "2026-05-16T11:00:43.507Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
   },
   {
     "id": "openai-says-codex-is-coming-to-your-phone",
