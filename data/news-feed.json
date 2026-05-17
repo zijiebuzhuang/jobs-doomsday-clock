@@ -24,6 +24,78 @@
     ]
   },
   {
+    "id": "ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+    "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
+    "summary": "AI adoption may shift job market dynamics, potentially giving older workers more leverage as companies adapt to new technologies.",
+    "date": "2026-05-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "workforce-dynamics",
+      "AI-adoption",
+      "hiring-practices"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "-the-oppenheimer-of-the-ai-era",
+    "title": "‘The Oppenheimer’ of the AI Era",
+    "summary": "The article explores the motivations of AI leaders, shedding light on how scientific, commercial, and political forces shape AI development and its future impact on work.",
+    "date": "2026-05-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI leadership",
+      "motivations",
+      "AI development"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-co-founder-greg-brockman-takes-charge-of-product-strategy",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "summary": "OpenAI's leadership change and integration of ChatGPT with Codex signal progress in AI product development and workflow integration.",
+    "date": "2026-05-16",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "leadership",
+      "product-development",
+      "AI-integration"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
     "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
     "summary": "OpenAI's reorganization and focus on AI agents signals a major push toward AI-driven workflows and product development, increasing pressure on tech and related industries to adapt.",
@@ -241,6 +313,58 @@
     ]
   },
   {
+    "id": "a-i-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express",
+    "title": "A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express",
+    "summary": "Discussion of AI safety and regulatory shifts suggests potential policy constraints on AI adoption, affecting workplace integration and development.",
+    "date": "2026-05-15",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "policy",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/4ab754b9-70ba-4ccb-9542-e596224f3a9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=4ab754b9-70ba-4ccb-9542-e596224f3a9f&feed=6HKOhNgS",
+    "duration": "01:07:46"
+  },
+  {
+    "id": "establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "summary": "Concerns over AI and data sovereignty highlight regulatory and governance challenges that may slow enterprise adoption of AI tools.",
+    "date": "2026-05-14",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "data-sovereignty",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-s-codex-is-now-in-the-chatgpt-mobile-app",
     "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
     "summary": "OpenAI integrating Codex into the ChatGPT mobile app increases AI's accessibility for coding and app interaction, boosting productivity and shifting skill demands in tech and related fields.",
@@ -405,6 +529,53 @@
     "categories": [
       "computer-and-information-technology",
       "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "building-a-safe-effective-sandbox-to-enable-codex-on-windows",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "summary": "OpenAI's secure sandbox for Codex on Windows enhances the safety and efficiency of AI coding agents, advancing AI adoption in software development workflows.",
+    "date": "2026-05-13",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "coding agents"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "management"
+    ]
+  },
+  {
+    "id": "our-response-to-the-tanstack-npm-supply-chain-attack",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "summary": "OpenAI's response to a supply chain attack highlights growing security challenges in AI infrastructure and the need for updated systems, signaling increased focus on AI security and reliability.",
+    "date": "2026-05-13",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "infrastructure",
+      "supply-chain"
+    ],
+    "fetchedAt": "2026-05-17T11:00:56.451Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
       "_all"
     ]
   },

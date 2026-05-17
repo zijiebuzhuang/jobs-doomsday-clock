@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:54:30",
+  "displayTime": "23:54:33",
   "minutesToMidnight": 5,
-  "exactMinutesToMidnight": 5.494,
+  "exactMinutesToMidnight": 5.444,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -7.506,
+  "newsAdjustment": -7.556,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.62,
+  "macroReplacementRate": 49.623,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,182 +3448,183 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "summary": "Expanding access to AI tools and training in Malta signals increased AI adoption and skill development, potentially influencing workforce readiness and productivity across multiple industries.",
+      "id": "ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+      "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
+      "summary": "AI adoption may shift job market dynamics, potentially giving older workers more leverage as companies adapt to new technologies.",
       "date": "2026-05-16",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
       "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce training",
-        "AI accessibility"
-      ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "education-training-and-library",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-      "summary": "OpenAI's reorganization and focus on AI agents signals a major push toward AI-driven workflows and product development, increasing pressure on tech and related industries to adapt.",
-      "date": "2026-05-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "product strategy",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-now-wants-chatgpt-to-access-your-bank-accounts",
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "summary": "OpenAI's integration of ChatGPT with banking data signals increased AI adoption in financial services and related industries, enhancing productivity and workflow capabilities.",
-      "date": "2026-05-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial technology",
-        "data access"
-      ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "legal"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-updates-its-spam-rules-to-include-attempts-to-manipulate-ai",
-      "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-      "summary": "Google's updated spam policy to block AI manipulation attempts introduces regulatory friction that may shape how AI is used in search and content creation.",
-      "date": "2026-05-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "AI ethics",
-        "search"
+        "workforce-dynamics",
+        "AI-adoption",
+        "hiring-practices"
       ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "OpenAI's ChatGPT integration with personal finance tools signals AI's growing role in financial management and productivity, affecting work in finance and tech sectors.",
-      "date": "2026-05-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial technology",
-        "productivity tools"
-      ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "management",
         "business-and-financial",
-        "computer-and-information-technology",
-        "office-and-administrative-support"
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "trump-discussed-nvidia-chips-with-xi-jinping-bloomberg-tech-5-15-2026",
-      "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
-      "summary": "Discussion of AI chip technology between political leaders signals growing importance of advanced AI hardware in global tech strategy.",
-      "date": "2026-05-15",
+      "id": "-the-oppenheimer-of-the-ai-era",
+      "title": "‘The Oppenheimer’ of the AI Era",
+      "summary": "The article explores the motivations of AI leaders, shedding light on how scientific, commercial, and political forces shape AI development and its future impact on work.",
+      "date": "2026-05-16",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI hardware",
-        "policy",
-        "global tech"
+        "AI leadership",
+        "motivations",
+        "AI development"
       ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn-t-be-the-fir",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "summary": "Legal disputes between AI companies and tech giants may slow down AI integration in workplaces and affect collaboration between AI developers and enterprise partners.",
-      "date": "2026-05-14",
+      "id": "openai-co-founder-greg-brockman-takes-charge-of-product-strategy",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "OpenAI's leadership change and integration of ChatGPT with Codex signal progress in AI product development and workflow integration.",
+      "date": "2026-05-16",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "effect": "delay",
+      "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "legal",
-        "enterprise adoption",
-        "AI partnerships"
+        "leadership",
+        "product-development",
+        "AI-integration"
       ],
-      "fetchedAt": "2026-05-16T11:00:43.507Z",
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "a-i-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express",
+      "title": "A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express",
+      "summary": "Discussion of AI safety and regulatory shifts suggests potential policy constraints on AI adoption, affecting workplace integration and development.",
+      "date": "2026-05-15",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI regulation",
+        "policy",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/4ab754b9-70ba-4ccb-9542-e596224f3a9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=4ab754b9-70ba-4ccb-9542-e596224f3a9f&feed=6HKOhNgS",
+      "duration": "01:07:46"
+    },
+    {
+      "id": "establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems",
+      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+      "summary": "Concerns over AI and data sovereignty highlight regulatory and governance challenges that may slow enterprise adoption of AI tools.",
+      "date": "2026-05-14",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "data-sovereignty",
+        "regulation",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
         "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "building-a-safe-effective-sandbox-to-enable-codex-on-windows",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "summary": "OpenAI's secure sandbox for Codex on Windows enhances the safety and efficiency of AI coding agents, advancing AI adoption in software development workflows.",
+      "date": "2026-05-13",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/building-codex-windows-sandbox",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "coding agents"
+      ],
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "management"
+      ]
+    },
+    {
+      "id": "our-response-to-the-tanstack-npm-supply-chain-attack",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "summary": "OpenAI's response to a supply chain attack highlights growing security challenges in AI infrastructure and the need for updated systems, signaling increased focus on AI security and reliability.",
+      "date": "2026-05-13",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "security",
+        "infrastructure",
+        "supply-chain"
+      ],
+      "fetchedAt": "2026-05-17T11:00:56.451Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-05-16T12:00:00.000Z",
+  "generatedAt": "2026-05-17T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with new tools and regulatory friction",
-      "preview": "OpenAI's expansion and Google's new rules highlight mixed AI progress.",
-      "body": "OpenAI's recent moves to expand ChatGPT access and integrate banking features signal strong AI adoption, while Google's updated spam policies introduce regulatory challenges. Overall, the feed shows a balance of advancement and cautious regulation, with key developments in financial services and AI governance."
+      "title": "AI job market dynamics shift with leadership and safety concerns",
+      "preview": "New AI developments and safety discussions influence job replacement trends.",
+      "body": "Recent signals show a mix of progress and caution in AI adoption. Bloomberg highlights how AI may give older workers more leverage, while OpenAI's product updates signal continued innovation. However, discussions on AI safety and data sovereignty suggest potential regulatory delays. Overall, the balance remains cautiously optimistic."
     }
   }
 }
