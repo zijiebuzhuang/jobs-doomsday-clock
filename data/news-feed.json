@@ -1,5 +1,29 @@
 [
   {
+    "id": "us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
+    "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
+    "summary": "A large AI and supply chain hub between the US and Philippines signals increased global investment and adoption of AI infrastructure, potentially affecting multiple industries.",
+    "date": "2026-05-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-18/us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "geopolitics",
+      "infrastructure",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-05-18T11:00:44.621Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens",
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "summary": "Expanding access to AI tools and training in Malta signals increased AI adoption and skill development, potentially influencing workforce readiness and productivity across multiple industries.",
@@ -94,6 +118,31 @@
       "management",
       "_all"
     ]
+  },
+  {
+    "id": "ai-radio-hosts-demonstrate-why-ai-can-t-be-trusted-alone",
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "summary": "AI radio hosts highlight the limitations and unpredictability of AI in professional roles, suggesting ongoing need for human oversight.",
+    "date": "2026-05-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workplace limitations",
+      "human oversight"
+    ],
+    "fetchedAt": "2026-05-18T11:00:44.621Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
@@ -533,6 +582,34 @@
     ]
   },
   {
+    "id": "pax-silica-inside-the-trump-administration-s-tech-strategy-with-us-under-secreta",
+    "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg",
+    "summary": "A new international coalition aims to secure the AI supply chain, indicating increased regulatory and geopolitical efforts to control AI development and adoption.",
+    "date": "2026-05-14",
+    "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+    "sourceUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI supply chain",
+      "geopolitics",
+      "regulation"
+    ],
+    "fetchedAt": "2026-05-18T11:00:44.621Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789/image/0f25c984b5876747e80d7b3b79683088.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
+    "duration": "38 min"
+  },
+  {
     "id": "building-a-safe-effective-sandbox-to-enable-codex-on-windows",
     "title": "Building a safe, effective sandbox to enable Codex on Windows",
     "summary": "OpenAI's secure sandbox for Codex on Windows enhances the safety and efficiency of AI coding agents, advancing AI adoption in software development workflows.",
@@ -769,6 +846,58 @@
     "categories": [
       "computer-and-information-technology",
       "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-push-into-finance",
+    "title": "Anthropic’s push into finance",
+    "summary": "Anthropic's expansion into finance highlights the growing integration of AI in financial workflows, with implications for accuracy, regulation, and fraud detection.",
+    "date": "2026-05-13",
+    "source": "Apple Podcasts - Possible",
+    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial services",
+      "regulation"
+    ],
+    "fetchedAt": "2026-05-18T11:00:44.621Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/22b5acc0-4e7e-11f1-b656-db49fb93781a/image/2ba6af6a5cf334ddcda032a0caf99b1f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
+    "duration": "33 min"
+  },
+  {
+    "id": "what-parameter-golf-taught-us-about-ai-assisted-research",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "summary": "A large-scale AI-assisted research competition highlights growing capabilities in model optimization and coding agents, signaling progress in AI's role in scientific and technical workflows.",
+    "date": "2026-05-12",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/what-parameter-golf-taught-us",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI research",
+      "coding agents",
+      "model optimization"
+    ],
+    "fetchedAt": "2026-05-18T11:00:44.621Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
       "_all"
     ]
   },
