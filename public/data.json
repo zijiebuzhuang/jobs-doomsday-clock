@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:54:33",
+  "displayTime": "23:54:59",
   "minutesToMidnight": 5,
-  "exactMinutesToMidnight": 5.452,
+  "exactMinutesToMidnight": 5.015,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -7.548,
+  "newsAdjustment": -7.985,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.623,
+  "macroReplacementRate": 49.653,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,141 +3448,185 @@
   ],
   "newsFeed": [
     {
-      "id": "us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
-      "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
-      "summary": "A large AI and supply chain hub between the US and Philippines signals increased global investment and adoption of AI infrastructure, potentially affecting multiple industries.",
-      "date": "2026-05-18",
+      "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
+      "title": "StanChart to Cut Thousands of Jobs in AI Push",
+      "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",
+      "date": "2026-05-19",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-18/us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "geopolitics",
-        "infrastructure",
-        "enterprise-adoption"
+        "AI adoption",
+        "workforce transformation",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-05-18T11:00:44.621Z",
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "office-and-administrative-support",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "google-i-o-2026-live-blog-all-the-gemini-and-smart-glasses-updates-as-they-happe",
+      "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+      "summary": "Google's updates to Gemini and smart glasses signal continued AI advancement and integration into developer tools and wearable tech, potentially affecting workflows and productivity across multiple industries.",
+      "date": "2026-05-19",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "enterprise adoption",
+        "developer tools"
+      ],
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-agrees-to-create-ai-cloud-firm-with-blackstone",
+      "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
+      "summary": "Google's partnership with Blackstone to create an AI cloud business signals increased investment and competition in enterprise AI, potentially accelerating adoption and demand for AI-related skills.",
+      "date": "2026-05-19",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "investment",
+        "cloud-computing"
+      ],
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "ai-radio-hosts-demonstrate-why-ai-can-t-be-trusted-alone",
-      "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-      "summary": "AI radio hosts highlight the limitations and unpredictability of AI in professional roles, suggesting ongoing need for human oversight.",
-      "date": "2026-05-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "workplace limitations",
-        "human oversight"
-      ],
-      "fetchedAt": "2026-05-18T11:00:44.621Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "pax-silica-inside-the-trump-administration-s-tech-strategy-with-us-under-secreta",
-      "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg",
-      "summary": "A new international coalition aims to secure the AI supply chain, indicating increased regulatory and geopolitical efforts to control AI development and adoption.",
-      "date": "2026-05-14",
-      "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
-      "sourceUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI supply chain",
-        "geopolitics",
-        "regulation"
-      ],
-      "fetchedAt": "2026-05-18T11:00:44.621Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789/image/0f25c984b5876747e80d7b3b79683088.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
-      "duration": "38 min"
-    },
-    {
-      "id": "anthropic-s-push-into-finance",
-      "title": "Anthropic’s push into finance",
-      "summary": "Anthropic's expansion into finance highlights the growing integration of AI in financial workflows, with implications for accuracy, regulation, and fraud detection.",
-      "date": "2026-05-13",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
+      "id": "australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
+      "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
+      "summary": "Agentic AI is poised to transform how a major Australian pension fund serves its members, signaling significant workplace AI adoption in financial services.",
+      "date": "2026-05-19",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "financial services",
-        "regulation"
+        "workplace transformation",
+        "financial services"
       ],
-      "fetchedAt": "2026-05-18T11:00:44.621Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/22b5acc0-4e7e-11f1-b656-db49fb93781a/image/2ba6af6a5cf334ddcda032a0caf99b1f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
-      "duration": "33 min"
+      ]
     },
     {
-      "id": "what-parameter-golf-taught-us-about-ai-assisted-research",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "summary": "A large-scale AI-assisted research competition highlights growing capabilities in model optimization and coding agents, signaling progress in AI's role in scientific and technical workflows.",
-      "date": "2026-05-12",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
+      "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
+      "summary": "A disappointing AI-related forecast from Fujikura signals reduced investor confidence in AI-driven demand for optical-fiber networks.",
+      "date": "2026-05-19",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "market reaction",
+        "industry forecast"
+      ],
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "a-need-for-nuance-the-economist-s-andrew-palmer",
+      "title": "A Need for Nuance: The Economist’s Andrew Palmer",
+      "summary": "Organizations are experimenting with generative AI while balancing efficiency and risk, showing real-world adoption of AI in publishing workflows.",
+      "date": "2026-05-19",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI research",
-        "coding agents",
-        "model optimization"
+        "AI adoption",
+        "workflows",
+        "productivity"
       ],
-      "fetchedAt": "2026-05-18T11:00:44.621Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
+        "office-and-administrative-support"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/4946921c-38c3-11f1-9a74-87d080231d66/image/63811292170889ec497ef69e707c67af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9868516943.mp3?updated=1776255913",
+      "duration": "41 min"
+    },
+    {
+      "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "SandboxAQ's integration of drug discovery models with Claude highlights growing AI adoption in healthcare and life sciences, reducing barriers to entry for non-experts.",
+      "date": "2026-05-18",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "healthcare",
+        "drug discovery",
+        "workflow change"
+      ],
+      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "healthcare",
         "life-physical-and-social-science",
-        "_all"
+        "computer-and-information-technology"
       ]
     }
   ],
-  "generatedAt": "2026-05-18T12:00:00.000Z",
+  "generatedAt": "2026-05-19T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Global AI investment surges, but human oversight remains critical",
-      "preview": "New hubs and regulatory efforts signal momentum, but AI limitations persist.",
-      "body": "Recent developments show strong global momentum in AI infrastructure, with the US-Philippines AI hub and Anthropic's finance expansion highlighting growing adoption. However, concerns over reliability and oversight remain, as seen in reports on AI radio hosts and supply chain strategies. The overall trend suggests continued pressure but with ongoing challenges."
+      "title": "AI Job Replacement Pressure Stabilizes Amid Mixed Signals",
+      "preview": "Positive AI developments offset some concerns in today's news.",
+      "body": "Today's news shows a mix of AI-driven job displacement and innovation. Key headlines like 'StanChart to Cut Thousands of Jobs in AI Push' and 'Google Agrees to Create AI Cloud Firm With Blackstone' highlight ongoing corporate shifts toward AI, while Fujikura's stock drop signals some uncertainty. Overall, the balance remains cautiously stable."
     }
   }
 }

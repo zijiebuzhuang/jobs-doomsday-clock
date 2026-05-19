@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-05-19",
+    "minutesToMidnight": 5,
+    "exactMinutesToMidnight": 5.015,
+    "macroReplacementRate": 49.653,
+    "newsAdjustment": -7.985,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
+        "title": "StanChart to Cut Thousands of Jobs in AI Push",
+        "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",
+        "date": "2026-05-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "office-and-administrative-support",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "google-i-o-2026-live-blog-all-the-gemini-and-smart-glasses-updates-as-they-happe",
+        "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+        "summary": "Google's updates to Gemini and smart glasses signal continued AI advancement and integration into developer tools and wearable tech, potentially affecting workflows and productivity across multiple industries.",
+        "date": "2026-05-19",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "enterprise adoption",
+          "developer tools"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-agrees-to-create-ai-cloud-firm-with-blackstone",
+        "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
+        "summary": "Google's partnership with Blackstone to create an AI cloud business signals increased investment and competition in enterprise AI, potentially accelerating adoption and demand for AI-related skills.",
+        "date": "2026-05-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-ai",
+          "investment",
+          "cloud-computing"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
+        "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
+        "summary": "Agentic AI is poised to transform how a major Australian pension fund serves its members, signaling significant workplace AI adoption in financial services.",
+        "date": "2026-05-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace transformation",
+          "financial services"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
+        "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
+        "summary": "A disappointing AI-related forecast from Fujikura signals reduced investor confidence in AI-driven demand for optical-fiber networks.",
+        "date": "2026-05-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "market reaction",
+          "industry forecast"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "a-need-for-nuance-the-economist-s-andrew-palmer",
+        "title": "A Need for Nuance: The Economist’s Andrew Palmer",
+        "summary": "Organizations are experimenting with generative AI while balancing efficiency and risk, showing real-world adoption of AI in publishing workflows.",
+        "date": "2026-05-19",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workflows",
+          "productivity"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "office-and-administrative-support"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/4946921c-38c3-11f1-9a74-87d080231d66/image/63811292170889ec497ef69e707c67af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9868516943.mp3?updated=1776255913",
+        "duration": "41 min"
+      },
+      {
+        "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "summary": "SandboxAQ's integration of drug discovery models with Claude highlights growing AI adoption in healthcare and life sciences, reducing barriers to entry for non-experts.",
+        "date": "2026-05-18",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "healthcare",
+          "drug discovery",
+          "workflow change"
+        ],
+        "fetchedAt": "2026-05-19T11:00:56.597Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by StanChart to Cut Thousands of Jobs in AI Push.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"StanChart to Cut Thousands of Jobs in AI Push\" (Bloomberg Technology), while the clearest drag comes from \"Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.985 minutes. Updated 2026-05-19T12:00:00.000Z, with the macro replacement estimate at 49.7%."
+      }
+    }
+  },
+  {
     "date": "2026-05-18",
     "minutesToMidnight": 5,
     "exactMinutesToMidnight": 5.452,
@@ -9374,47 +9589,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-18",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.006,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0.006,
-    "categoryAdjustments": {
-      "healthcare": 0.002,
-      "life-physical-and-social-science": 0.002,
-      "architecture-and-engineering": 0.002,
-      "management": 0.002,
-      "business-and-financial": 0.002,
-      "construction-and-extraction": 0.002,
-      "production": 0.002,
-      "installation-maintenance-and-repair": 0.002,
-      "education-training-and-library": 0.002,
-      "office-and-administrative-support": 0.002,
-      "transportation-and-material-moving": 0.002,
-      "personal-care-and-service": 0.002,
-      "sales": 0.002,
-      "media-and-communication": 0.002,
-      "computer-and-information-technology": 0.002,
-      "community-and-social-service": 0.002,
-      "arts-and-design": 0.002,
-      "entertainment-and-sports": 0.002,
-      "protective-service": 0.002,
-      "food-preparation-and-serving": 0.002,
-      "legal": 0.002,
-      "math": 0.002,
-      "farming-fishing-and-forestry": 0.002,
-      "building-and-grounds-cleaning": 0.002
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
