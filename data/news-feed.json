@@ -1,5 +1,175 @@
 [
   {
+    "id": "the-next-phase-of-openai-s-education-for-countries",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
+    "date": "2026-05-20",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "education",
+      "AI adoption",
+      "teacher training",
+      "global learning"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "education-training-and-library",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
+    "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
+    "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
+    "date": "2026-05-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce restructuring",
+      "productivity",
+      "hiring trends"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
+    "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+    "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
+    "date": "2026-05-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "global expansion"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "introducing-openai-for-singapore",
+    "title": "Introducing OpenAI for Singapore",
+    "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
+    "date": "2026-05-19",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI partnership",
+      "talent development",
+      "workforce adoption"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-ai-future-demands-trust-and-your-personal-data",
+    "title": "Google’s AI future demands trust — and your personal data",
+    "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
+    "date": "2026-05-19",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workplace adoption",
+      "productivity"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
+    "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
+    "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
+    "date": "2026-05-19",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce restructuring",
+      "AI efficiency"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
+    "date": "2026-05-19",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workplace technology"
+    ],
+    "fetchedAt": "2026-05-20T11:01:15.989Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
     "title": "StanChart to Cut Thousands of Jobs in AI Push",
     "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",

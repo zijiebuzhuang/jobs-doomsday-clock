@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026-05-20",
+    "minutesToMidnight": 5,
+    "exactMinutesToMidnight": 4.644,
+    "macroReplacementRate": 49.678,
+    "newsAdjustment": -8.356,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "the-next-phase-of-openai-s-education-for-countries",
+        "title": "The next phase of OpenAI’s Education for Countries",
+        "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
+        "date": "2026-05-20",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "education",
+          "AI adoption",
+          "teacher training",
+          "global learning"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
+        "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
+        "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
+        "date": "2026-05-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce restructuring",
+          "productivity",
+          "hiring trends"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
+        "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+        "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
+        "date": "2026-05-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "global expansion"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "introducing-openai-for-singapore",
+        "title": "Introducing OpenAI for Singapore",
+        "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
+        "date": "2026-05-19",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI partnership",
+          "talent development",
+          "workforce adoption"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-s-ai-future-demands-trust-and-your-personal-data",
+        "title": "Google’s AI future demands trust — and your personal data",
+        "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
+        "date": "2026-05-19",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workplace adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
+        "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
+        "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
+        "date": "2026-05-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce restructuring",
+          "AI efficiency"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
+        "date": "2026-05-19",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "workplace technology"
+        ],
+        "fetchedAt": "2026-05-20T11:01:15.989Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by The next phase of OpenAI’s Education for Countries.",
+        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"The next phase of OpenAI’s Education for Countries\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -8.356 minutes. Updated 2026-05-20T12:00:00.000Z, with the macro replacement estimate at 49.7%."
+      }
+    }
+  },
+  {
     "date": "2026-05-19",
     "minutesToMidnight": 5,
     "exactMinutesToMidnight": 5.015,
@@ -9548,47 +9760,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-19",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.003,
-    "macroReplacementRate": 49.1,
-    "newsAdjustment": 0.003,
-    "categoryAdjustments": {
-      "healthcare": 0.001,
-      "life-physical-and-social-science": 0.001,
-      "architecture-and-engineering": 0.001,
-      "management": 0.001,
-      "business-and-financial": 0.001,
-      "construction-and-extraction": 0.001,
-      "production": 0.001,
-      "installation-maintenance-and-repair": 0.001,
-      "education-training-and-library": 0.001,
-      "office-and-administrative-support": 0.001,
-      "transportation-and-material-moving": 0.001,
-      "personal-care-and-service": 0.001,
-      "sales": 0.001,
-      "media-and-communication": 0.001,
-      "computer-and-information-technology": 0.001,
-      "community-and-social-service": 0.001,
-      "arts-and-design": 0.001,
-      "entertainment-and-sports": 0.001,
-      "protective-service": 0.001,
-      "food-preparation-and-serving": 0.001,
-      "legal": 0.001,
-      "math": 0.001,
-      "farming-fishing-and-forestry": 0.001,
-      "building-and-grounds-cleaning": 0.001
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

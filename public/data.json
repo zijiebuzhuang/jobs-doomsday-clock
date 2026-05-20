@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:54:59",
+  "displayTime": "23:55:21",
   "minutesToMidnight": 5,
-  "exactMinutesToMidnight": 5.015,
+  "exactMinutesToMidnight": 4.644,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -7.985,
+  "newsAdjustment": -8.356,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.653,
+  "macroReplacementRate": 49.678,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,185 +3448,182 @@
   ],
   "newsFeed": [
     {
-      "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
-      "title": "StanChart to Cut Thousands of Jobs in AI Push",
-      "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",
-      "date": "2026-05-19",
+      "id": "the-next-phase-of-openai-s-education-for-countries",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
+      "date": "2026-05-20",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "education",
+        "AI adoption",
+        "teacher training",
+        "global learning"
+      ],
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "education-training-and-library",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
+      "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
+      "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
+      "date": "2026-05-20",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workforce transformation",
-        "enterprise AI"
+        "workforce restructuring",
+        "productivity",
+        "hiring trends"
       ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
-        "office-and-administrative-support",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "management",
+        "_all"
       ]
     },
     {
-      "id": "google-i-o-2026-live-blog-all-the-gemini-and-smart-glasses-updates-as-they-happe",
-      "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-      "summary": "Google's updates to Gemini and smart glasses signal continued AI advancement and integration into developer tools and wearable tech, potentially affecting workflows and productivity across multiple industries.",
+      "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
+      "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
+      "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
+      "date": "2026-05-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "enterprise adoption",
+        "global expansion"
+      ],
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "introducing-openai-for-singapore",
+      "title": "Introducing OpenAI for Singapore",
+      "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
       "date": "2026-05-19",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI partnership",
+        "talent development",
+        "workforce adoption"
+      ],
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-s-ai-future-demands-trust-and-your-personal-data",
+      "title": "Google’s AI future demands trust — and your personal data",
+      "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
+      "date": "2026-05-19",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "enterprise adoption",
-        "developer tools"
-      ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-agrees-to-create-ai-cloud-firm-with-blackstone",
-      "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
-      "summary": "Google's partnership with Blackstone to create an AI cloud business signals increased investment and competition in enterprise AI, potentially accelerating adoption and demand for AI-related skills.",
-      "date": "2026-05-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-ai",
-        "investment",
-        "cloud-computing"
-      ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-      "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
-      "summary": "Agentic AI is poised to transform how a major Australian pension fund serves its members, signaling significant workplace AI adoption in financial services.",
-      "date": "2026-05-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workplace transformation",
-        "financial services"
-      ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-      "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
-      "summary": "A disappointing AI-related forecast from Fujikura signals reduced investor confidence in AI-driven demand for optical-fiber networks.",
-      "date": "2026-05-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "market reaction",
-        "industry forecast"
-      ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "a-need-for-nuance-the-economist-s-andrew-palmer",
-      "title": "A Need for Nuance: The Economist’s Andrew Palmer",
-      "summary": "Organizations are experimenting with generative AI while balancing efficiency and risk, showing real-world adoption of AI in publishing workflows.",
-      "date": "2026-05-19",
-      "source": "Apple Podcasts - Me, Myself, and AI",
-      "sourceUrl": "https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workflows",
+        "workplace adoption",
         "productivity"
       ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
       "categories": [
-        "media-and-communication",
         "computer-and-information-technology",
-        "office-and-administrative-support"
+        "office-and-administrative-support",
+        "_all"
       ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/4946921c-38c3-11f1-9a74-87d080231d66/image/63811292170889ec497ef69e707c67af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9868516943.mp3?updated=1776255913",
-      "duration": "41 min"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "summary": "SandboxAQ's integration of drug discovery models with Claude highlights growing AI adoption in healthcare and life sciences, reducing barriers to entry for non-experts.",
-      "date": "2026-05-18",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
+      "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
+      "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
+      "date": "2026-05-19",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "healthcare",
-        "drug discovery",
-        "workflow change"
+        "workforce restructuring",
+        "AI efficiency"
       ],
-      "fetchedAt": "2026-05-19T11:00:56.597Z",
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
+      "date": "2026-05-19",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "workplace technology"
+      ],
+      "fetchedAt": "2026-05-20T11:01:15.989Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "healthcare",
-        "life-physical-and-social-science",
-        "computer-and-information-technology"
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "_all"
       ]
     }
   ],
-  "generatedAt": "2026-05-19T12:00:00.000Z",
+  "generatedAt": "2026-05-20T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Amid Mixed Signals",
-      "preview": "Positive AI developments offset some concerns in today's news.",
-      "body": "Today's news shows a mix of AI-driven job displacement and innovation. Key headlines like 'StanChart to Cut Thousands of Jobs in AI Push' and 'Google Agrees to Create AI Cloud Firm With Blackstone' highlight ongoing corporate shifts toward AI, while Fujikura's stock drop signals some uncertainty. Overall, the balance remains cautiously stable."
+      "title": "AI adoption accelerates with global investments and workforce shifts",
+      "preview": "Major AI advances and job cuts signal growing pressure on workers.",
+      "body": "Today's news highlights both the expansion of AI in education and global infrastructure, alongside significant job reductions at Meta. OpenAI's investments and Google's AI integration into daily tasks underscore rising adoption, while workforce adjustments reflect ongoing pressures. The mix suggests a complex balance between innovation and displacement."
     }
   }
 }
