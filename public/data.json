@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:55:21",
-  "minutesToMidnight": 5,
-  "exactMinutesToMidnight": 4.644,
+  "displayTime": "23:55:58",
+  "minutesToMidnight": 4,
+  "exactMinutesToMidnight": 4.041,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -8.356,
+  "newsAdjustment": -8.959,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.678,
+  "macroReplacementRate": 49.72,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,49 +3448,94 @@
   ],
   "newsFeed": [
     {
-      "id": "the-next-phase-of-openai-s-education-for-countries",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
-      "date": "2026-05-20",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "id": "nvidia-targets-new-revenue-engine-beyond-hyperscalers",
+      "title": "Nvidia Targets New Revenue Engine Beyond Hyperscalers",
+      "summary": "Nvidia's expansion beyond hyperscalers signals growing AI adoption across diverse industries, increasing demand for AI-related skills and roles.",
+      "date": "2026-05-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/nvidia-targets-new-revenue-engine-beyond-hyperscalers-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "education",
-        "AI adoption",
-        "teacher training",
-        "global learning"
+        "enterprise-adoption",
+        "ai-infrastructure",
+        "market-growth"
       ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "education-training-and-library",
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "former-google-deepmind-researcher-on-new-ai-startup",
+      "title": "Former Google Deepmind Researcher on New AI Startup",
+      "summary": "A former Google DeepMind researcher launching a new AI startup signals growing AI talent movement and potential advancements in visual reasoning AI capabilities.",
+      "date": "2026-05-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/former-google-deepmind-researcher-on-new-ai-startup-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "startup",
+        "talent-movement",
+        "visual-reasoning"
+      ],
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
-      "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
-      "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
-      "date": "2026-05-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
+      "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "summary": "Anthropic's projected revenue growth signals increasing commercial success and potential for broader AI adoption in enterprise and business operations.",
+      "date": "2026-05-21",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce restructuring",
-        "productivity",
-        "hiring trends"
+        "enterprise-adoption",
+        "financial-performance",
+        "ai-commercialization"
       ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-layoffs-2026-tech-workforce-crisis-and-investment-outlook",
+      "title": "AI Layoffs 2026: Tech Workforce Crisis and Investment Outlook",
+      "summary": "This headline signals a major AI-driven workforce shift in the tech industry, indicating growing pressure on jobs and investment trends.",
+      "date": "2026-05-21",
+      "source": "Intellectia AI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRU42eklZWGY3NVRmSzJ0YjQ4S2RzSGx5RmgwbTRFTkpUZTdOZGVkZWVUejdMejN3M1NXWm1ENDdiTVAzbGZfalBMbzZaU3Qxcl9vbHhkY1M2VTF1Y0JqVFV0X0EyZkhsVzFiRkQ4c012SkU?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI workforce impact",
+        "tech industry",
+        "job market trends"
+      ],
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3498,132 +3543,87 @@
       ]
     },
     {
-      "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
-      "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
-      "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
+      "id": "add-a-specialized-deep-research-skill-to-agent-harnesses",
+      "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
+      "summary": "AI agent frameworks are improving their ability to handle complex, data-driven research tasks, increasing their utility in knowledge-intensive workflows.",
       "date": "2026-05-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "global expansion"
-      ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "introducing-openai-for-singapore",
-      "title": "Introducing OpenAI for Singapore",
-      "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
-      "date": "2026-05-19",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI partnership",
-        "talent development",
-        "workforce adoption"
-      ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-s-ai-future-demands-trust-and-your-personal-data",
-      "title": "Google’s AI future demands trust — and your personal data",
-      "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
-      "date": "2026-05-19",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "workplace adoption",
-        "productivity"
+        "workflows",
+        "productivity",
+        "deep research"
       ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/Agentic-AI-768x432.jpg"
+    },
+    {
+      "id": "it-s-make-or-break-time-for-ai-labeling-systems",
+      "title": "It’s make or break time for AI labeling systems",
+      "summary": "New AI labeling systems are being tested to detect deepfakes, which could impact content verification and trust in digital media.",
+      "date": "2026-05-20",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI regulation",
+        "content verification",
+        "deepfakes"
+      ],
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
-        "office-and-administrative-support",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
-      "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
-      "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
-      "date": "2026-05-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce restructuring",
-        "AI efficiency"
-      ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
-      "date": "2026-05-19",
+      "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "summary": "OpenAI's AI model solving a long-standing math problem demonstrates significant progress in AI reasoning capabilities, potentially influencing fields requiring advanced problem-solving skills.",
+      "date": "2026-05-20",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "productivity tools",
-        "workplace technology"
+        "AI reasoning",
+        "mathematical advancement",
+        "AI capability"
       ],
-      "fetchedAt": "2026-05-20T11:01:15.989Z",
+      "fetchedAt": "2026-05-21T11:01:25.769Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "office-and-administrative-support",
+        "math",
         "computer-and-information-technology",
-        "_all"
+        "architecture-and-engineering"
       ]
     }
   ],
-  "generatedAt": "2026-05-20T12:00:00.000Z",
+  "generatedAt": "2026-05-21T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with global investments and workforce shifts",
-      "preview": "Major AI advances and job cuts signal growing pressure on workers.",
-      "body": "Today's news highlights both the expansion of AI in education and global infrastructure, alongside significant job reductions at Meta. OpenAI's investments and Google's AI integration into daily tasks underscore rising adoption, while workforce adjustments reflect ongoing pressures. The mix suggests a complex balance between innovation and displacement."
+      "title": "AI Advances and Workforce Shifts Continue to Shape Momentum",
+      "preview": "Positive AI developments contrast with growing workforce concerns.",
+      "body": "Recent signals show continued progress in AI capabilities, with Nvidia expanding its reach and OpenAI solving a major math problem. However, reports on AI-driven workforce shifts highlight ongoing pressures. The overall trend reflects both innovation and uncertainty in the AI job landscape."
     }
   }
 }

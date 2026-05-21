@@ -1,5 +1,126 @@
 [
   {
+    "id": "nvidia-targets-new-revenue-engine-beyond-hyperscalers",
+    "title": "Nvidia Targets New Revenue Engine Beyond Hyperscalers",
+    "summary": "Nvidia's expansion beyond hyperscalers signals growing AI adoption across diverse industries, increasing demand for AI-related skills and roles.",
+    "date": "2026-05-21",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/nvidia-targets-new-revenue-engine-beyond-hyperscalers-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "ai-infrastructure",
+      "market-growth"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "former-google-deepmind-researcher-on-new-ai-startup",
+    "title": "Former Google Deepmind Researcher on New AI Startup",
+    "summary": "A former Google DeepMind researcher launching a new AI startup signals growing AI talent movement and potential advancements in visual reasoning AI capabilities.",
+    "date": "2026-05-21",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/former-google-deepmind-researcher-on-new-ai-startup-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "startup",
+      "talent-movement",
+      "visual-reasoning"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "summary": "Anthropic's projected revenue growth signals increasing commercial success and potential for broader AI adoption in enterprise and business operations.",
+    "date": "2026-05-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "financial-performance",
+      "ai-commercialization"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-layoffs-2026-tech-workforce-crisis-and-investment-outlook",
+    "title": "AI Layoffs 2026: Tech Workforce Crisis and Investment Outlook",
+    "summary": "This headline signals a major AI-driven workforce shift in the tech industry, indicating growing pressure on jobs and investment trends.",
+    "date": "2026-05-21",
+    "source": "Intellectia AI",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRU42eklZWGY3NVRmSzJ0YjQ4S2RzSGx5RmgwbTRFTkpUZTdOZGVkZWVUejdMejN3M1NXWm1ENDdiTVAzbGZfalBMbzZaU3Qxcl9vbHhkY1M2VTF1Y0JqVFV0X0EyZkhsVzFiRkQ4c012SkU?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI workforce impact",
+      "tech industry",
+      "job market trends"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "add-a-specialized-deep-research-skill-to-agent-harnesses",
+    "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
+    "summary": "AI agent frameworks are improving their ability to handle complex, data-driven research tasks, increasing their utility in knowledge-intensive workflows.",
+    "date": "2026-05-20",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflows",
+      "productivity",
+      "deep research"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/Agentic-AI-768x432.jpg"
+  },
+  {
     "id": "the-next-phase-of-openai-s-education-for-countries",
     "title": "The next phase of OpenAI’s Education for Countries",
     "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
@@ -22,6 +143,55 @@
       "education-training-and-library",
       "computer-and-information-technology",
       "_all"
+    ]
+  },
+  {
+    "id": "it-s-make-or-break-time-for-ai-labeling-systems",
+    "title": "It’s make or break time for AI labeling systems",
+    "summary": "New AI labeling systems are being tested to detect deepfakes, which could impact content verification and trust in digital media.",
+    "date": "2026-05-20",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "content verification",
+      "deepfakes"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "summary": "OpenAI's AI model solving a long-standing math problem demonstrates significant progress in AI reasoning capabilities, potentially influencing fields requiring advanced problem-solving skills.",
+    "date": "2026-05-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI reasoning",
+      "mathematical advancement",
+      "AI capability"
+    ],
+    "fetchedAt": "2026-05-21T11:01:25.769Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "math",
+      "computer-and-information-technology",
+      "architecture-and-engineering"
     ]
   },
   {
