@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:55:58",
+  "displayTime": "23:56:08",
   "minutesToMidnight": 4,
-  "exactMinutesToMidnight": 4.041,
+  "exactMinutesToMidnight": 3.875,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -8.959,
+  "newsAdjustment": -9.125,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.72,
+  "macroReplacementRate": 49.732,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,69 @@
   ],
   "newsFeed": [
     {
-      "id": "nvidia-targets-new-revenue-engine-beyond-hyperscalers",
-      "title": "Nvidia Targets New Revenue Engine Beyond Hyperscalers",
-      "summary": "Nvidia's expansion beyond hyperscalers signals growing AI adoption across diverse industries, increasing demand for AI-related skills and roles.",
-      "date": "2026-05-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/nvidia-targets-new-revenue-engine-beyond-hyperscalers-video",
+      "id": "google-i-o-showed-how-the-path-for-ai-driven-science-is-shifting",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "Google's emphasis on AI-driven science signals growing AI capability and potential for transformative workplace changes.",
+      "date": "2026-05-22",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "ai-infrastructure",
-        "market-growth"
+        "AI research",
+        "scientific advancement",
+        "industry impact"
       ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "_all"
+      ]
+    },
+    {
+      "id": "eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
+      "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
+      "summary": "Regulatory concerns are slowing the adoption of Anthropic's Mythos AI model, which could affect how companies and banks manage digital vulnerabilities.",
+      "date": "2026-05-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "enterprise-adoption",
+        "AI-security"
+      ],
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "former-google-deepmind-researcher-on-new-ai-startup",
-      "title": "Former Google Deepmind Researcher on New AI Startup",
-      "summary": "A former Google DeepMind researcher launching a new AI startup signals growing AI talent movement and potential advancements in visual reasoning AI capabilities.",
-      "date": "2026-05-21",
+      "id": "blackrock-s-li-sees-earnings-momentum-driven-by-ai",
+      "title": "BlackRock's Li Sees Earnings Momentum Driven by AI",
+      "summary": "AI is influencing equity market earnings, signaling growing AI impact on financial and investment sectors.",
+      "date": "2026-05-22",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/former-google-deepmind-researcher-on-new-ai-startup-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/blackrock-s-li-sees-earnings-momentum-driven-by-ai-video",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "startup",
-        "talent-movement",
-        "visual-reasoning"
+        "financial-services",
+        "market-trends",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
       "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "summary": "Anthropic's projected revenue growth signals increasing commercial success and potential for broader AI adoption in enterprise and business operations.",
-      "date": "2026-05-21",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "financial-performance",
-        "ai-commercialization"
-      ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
-      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3519,111 +3520,110 @@
       ]
     },
     {
-      "id": "ai-layoffs-2026-tech-workforce-crisis-and-investment-outlook",
-      "title": "AI Layoffs 2026: Tech Workforce Crisis and Investment Outlook",
-      "summary": "This headline signals a major AI-driven workforce shift in the tech industry, indicating growing pressure on jobs and investment trends.",
-      "date": "2026-05-21",
-      "source": "Intellectia AI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRU42eklZWGY3NVRmSzJ0YjQ4S2RzSGx5RmgwbTRFTkpUZTdOZGVkZWVUejdMejN3M1NXWm1ENDdiTVAzbGZfalBMbzZaU3Qxcl9vbHhkY1M2VTF1Y0JqVFV0X0EyZkhsVzFiRkQ4c012SkU?oc=5",
+      "id": "insilico-on-applying-ai-to-transform-drug-discovery",
+      "title": "Insilico on Applying AI to Transform Drug Discovery",
+      "summary": "AI is being applied to transform drug discovery and longevity research, indicating growing adoption of AI in healthcare and life sciences.",
+      "date": "2026-05-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/insilico-on-applying-ai-to-transform-drug-discovery-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI workforce impact",
-        "tech industry",
-        "job market trends"
+        "drug-discovery",
+        "ai-adoption",
+        "healthcare-innovation"
       ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "healthcare",
+        "life-physical-and-social-science",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "ai-capex-drives-memory-demand-and-asia-tech-outlook",
+      "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
+      "summary": "Increased AI capital expenditure is boosting demand for semiconductors and influencing Asia's tech supply chain, signaling growing adoption of AI technologies.",
+      "date": "2026-05-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/ai-capex-drives-memory-demand-and-asia-tech-outlook-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "semiconductor demand",
+        "tech supply chain"
+      ],
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "production",
         "_all"
       ]
     },
     {
-      "id": "add-a-specialized-deep-research-skill-to-agent-harnesses",
-      "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
-      "summary": "AI agent frameworks are improving their ability to handle complex, data-driven research tasks, increasing their utility in knowledge-intensive workflows.",
-      "date": "2026-05-20",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/",
+      "id": "our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update",
+      "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
+      "summary": "Google's updates to Gemini and agentic tools signal increased AI adoption in enterprise and developer workflows, potentially affecting tech and productivity across industries.",
+      "date": "2026-05-22",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "workflows",
-        "productivity",
-        "deep research"
+        "enterprise adoption",
+        "model updates"
       ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
         "computer-and-information-technology",
         "management",
-        "business-and-financial"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/Agentic-AI-768x432.jpg"
-    },
-    {
-      "id": "it-s-make-or-break-time-for-ai-labeling-systems",
-      "title": "It’s make or break time for AI labeling systems",
-      "summary": "New AI labeling systems are being tested to detect deepfakes, which could impact content verification and trust in digital media.",
-      "date": "2026-05-20",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI regulation",
-        "content verification",
-        "deepfakes"
-      ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&feed=6HKOhNgS",
+      "duration": "00:55:21"
     },
     {
-      "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "summary": "OpenAI's AI model solving a long-standing math problem demonstrates significant progress in AI reasoning capabilities, potentially influencing fields requiring advanced problem-solving skills.",
-      "date": "2026-05-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "effect": "advance",
+      "id": "california-eyes-ai-regulation-as-gov-newsom-orders-new-workforce-protections-ami",
+      "title": "California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs",
+      "summary": "California's potential AI regulation and workforce protections signal increased oversight that may slow AI adoption in the workplace.",
+      "date": "2026-05-22",
+      "source": "ABC7 San Francisco",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFI0RzFJcHpQaWg2UEpza080aFg5aEFTeXpmNzZpMlc3MGwzT0V2WG44NGJUZENibVBxelN5WmtVQTVMbkk1VS1wR00tbndjN3FUbTkzN1lRbW9aTm4zbUlKVXlLYjBiNTg4ZzA1V2E2dGxMLTU3S3dZVHp2X0EyQXZOV3RLb3N0akR1TEd2Y3FMaFpPd0lIdzI3LTB5RlZuUWJFZ3BSTmJXTFJmZkFjQ05wTFBaSVZ1elNCYktnbkoyZm9vR0JNZnphejU5bG5QZUlfNdIB2gFBVV95cUxNWnl3Y1UxNUxXaFdfblNlNDhNNkl4RllDWWtxZG9HNXZHSmF4ajNSWWo3ZTEyaEhlTGExQXN1aTQyN2hncEVOR3VSY0xwQ2Y5c3lpRHJOOVlPeFFjYmhrWVExSUd3SF96ZlVhQVdOcWdkOG0yX2c1Q1NhUUdMYkhqQktPNEU4Ykk4X3hTYWZONG9FbjBXeGhDM1RtRWtuVDZNbzZLck5lQ0lXQWo4NV9YYlZGM25zc0pFeDZ4NEtVN3Y4cjVtNkpDTTJ4WndsZFU3WVc0WDdYU3BYQQ?oc=5",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI reasoning",
-        "mathematical advancement",
-        "AI capability"
+        "regulation",
+        "workforce-protections",
+        "policy"
       ],
-      "fetchedAt": "2026-05-21T11:01:25.769Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
-        "math",
-        "computer-and-information-technology",
-        "architecture-and-engineering"
+        "_all"
       ]
     }
   ],
-  "generatedAt": "2026-05-21T12:00:00.000Z",
+  "generatedAt": "2026-05-22T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances and Workforce Shifts Continue to Shape Momentum",
-      "preview": "Positive AI developments contrast with growing workforce concerns.",
-      "body": "Recent signals show continued progress in AI capabilities, with Nvidia expanding its reach and OpenAI solving a major math problem. However, reports on AI-driven workforce shifts highlight ongoing pressures. The overall trend reflects both innovation and uncertainty in the AI job landscape."
+      "title": "AI adoption advances despite regulatory headwinds",
+      "preview": "Major tech developments contrast with growing regulatory concerns.",
+      "body": "Multiple signals indicate AI is advancing across science, finance, and healthcare, with Google and BlackRock highlighting its transformative potential. However, regulatory delays in the EU and California suggest increasing oversight may slow implementation. Overall, the balance remains positive but cautious."
     }
   }
 }
