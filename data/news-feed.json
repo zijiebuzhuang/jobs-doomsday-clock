@@ -1,5 +1,52 @@
 [
   {
+    "id": "openai-named-a-leader-in-enterprise-coding-agents-by-gartner",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "summary": "OpenAI's recognition as a leader in enterprise coding agents signals growing adoption of AI tools in software development and IT workflows.",
+    "date": "2026-05-22",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "coding agents",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-download-coding-s-future-the-steroid-olympics-and-ai-driven-science",
+    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+    "summary": "Anthropic's Code with Claude demonstrates AI's growing role in coding, signaling increased adoption of AI tools in software development workflows.",
+    "date": "2026-05-22",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "coding",
+      "workforce adoption"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
     "id": "google-i-o-showed-how-the-path-for-ai-driven-science-is-shifting",
     "title": "Google I/O showed how the path for AI-driven science is shifting",
     "summary": "Google's emphasis on AI-driven science signals growing AI capability and potential for transformative workplace changes.",
@@ -20,6 +67,54 @@
     "categories": [
       "computer-and-information-technology",
       "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
+    "id": "we-tried-google-s-ai-glasses-and-they-re-almost-there",
+    "title": "We tried Google’s AI glasses and they’re almost there",
+    "summary": "Google's AI-powered glasses demonstrate emerging AR/VR tools that could transform workflows in various industries by providing real-time information and assistance.",
+    "date": "2026-05-22",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AR/VR",
+      "AI tools",
+      "productivity"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "even-if-you-hate-ai-you-will-use-google-ai-search",
+    "title": "Even If You Hate AI, You Will Use Google AI Search",
+    "summary": "Google's AI search is making AI-driven information retrieval more convenient, increasing workplace reliance on AI and potentially altering how professionals access and use information.",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "information retrieval"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
       "_all"
     ]
   },
@@ -146,6 +241,74 @@
     "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
     "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&feed=6HKOhNgS",
     "duration": "00:55:21"
+  },
+  {
+    "id": "california-governor-acts-on-ai-workforce-disruption-as-silicon-valley-sheds-114-",
+    "title": "California Governor Acts on AI Workforce Disruption as Silicon Valley Sheds 114,000 Jobs",
+    "summary": "California's response to AI-driven job losses highlights growing concerns about AI's impact on the workforce and potential regulatory actions.",
+    "date": "2026-05-22",
+    "source": "BeInCrypto",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UVEhjOFFIVV9hcmpubUtVRTd5aHVVajRRQmRDNEtUNUtETTN0UENLZU1DSUVXRDQ3SG1Qa3RkbEFHUDk3TUhCaDlENGYtNGotdEEzaG9WNHlTN3FoQ0pNQ0hpLWhtWVdueUhxVmx3OUFIYjlMOHlB?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce-disruption"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "newsom-signs-ai-workforce-order-studies-required-no-worker-protections-yet",
+    "title": "Newsom Signs AI Workforce Order: Studies Required, No Worker Protections Yet",
+    "summary": "California's AI workforce order mandates studies but lacks direct worker protections, indicating regulatory development without immediate labor safeguards.",
+    "date": "2026-05-22",
+    "source": "Tech Times",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0VhLU90X05ydmdocUsyS0JFWVhYamtCOEp2QVdGb1VUempoNURZRE5IdlZDNGVObVZqSHU0TktyLW5NZWxULUZlN1J6alhCZzFkaVB1bGdZNk1CcVdPa29FZEVqVGR1dU5UeXBrSFhNLU5xcDNmdDF1SE9taTVxUUJfWjkzdnZVRWFkRENMeC1MQ0kzcmxJTy1LVmZURy1LdVVhNTlUektWV25BcWRPZ3d4ZkRnc2dvbjhGcXNVZlMyaVZSREM3Vg?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "california-puts-ai-job-disruption-on-the-startup-agenda",
+    "title": "California puts AI job disruption on the startup agenda",
+    "summary": "California is addressing AI's potential job disruption, signaling increased regulatory attention that may shape the pace of AI adoption in the workforce.",
+    "date": "2026-05-22",
+    "source": "Startup Fortune",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzFoZWZOancyMlZ1SVduUjFRS1VqV3huQkFHTjlDb1R1WXNrZnNzNlUzci1FeVhVSXJma0E1T0dJQW9aVkdpRlZQTmM4Y0QzQ2Q0YlB3c3RWZHdTUFMtaU5LME05eDloZzRETUItdE9zRUtaeUwwZnpYVkhnaHZnOXVyY2M4S0tlTzNF?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "workforce"
+    ],
+    "fetchedAt": "2026-05-23T11:00:49.951Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
   },
   {
     "id": "california-eyes-ai-regulation-as-gov-newsom-orders-new-workforce-protections-ami",

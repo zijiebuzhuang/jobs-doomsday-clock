@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:56:08",
+  "displayTime": "23:55:57",
   "minutesToMidnight": 4,
-  "exactMinutesToMidnight": 3.875,
+  "exactMinutesToMidnight": 4.047,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -9.125,
+  "newsAdjustment": -8.953,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.732,
+  "macroReplacementRate": 49.72,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,119 +3448,46 @@
   ],
   "newsFeed": [
     {
-      "id": "google-i-o-showed-how-the-path-for-ai-driven-science-is-shifting",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google's emphasis on AI-driven science signals growing AI capability and potential for transformative workplace changes.",
+      "id": "openai-named-a-leader-in-enterprise-coding-agents-by-gartner",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "summary": "OpenAI's recognition as a leader in enterprise coding agents signals growing adoption of AI tools in software development and IT workflows.",
       "date": "2026-05-22",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI research",
-        "scientific advancement",
-        "industry impact"
+        "enterprise AI",
+        "coding agents",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-download-coding-s-future-the-steroid-olympics-and-ai-driven-science",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "summary": "Anthropic's Code with Claude demonstrates AI's growing role in coding, signaling increased adoption of AI tools in software development workflows.",
+      "date": "2026-05-22",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "coding",
+        "workforce adoption"
+      ],
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
       "sourceGroup": "research",
       "sourceTier": "research",
       "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "_all"
-      ]
-    },
-    {
-      "id": "eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-      "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
-      "summary": "Regulatory concerns are slowing the adoption of Anthropic's Mythos AI model, which could affect how companies and banks manage digital vulnerabilities.",
-      "date": "2026-05-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "enterprise-adoption",
-        "AI-security"
-      ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "blackrock-s-li-sees-earnings-momentum-driven-by-ai",
-      "title": "BlackRock's Li Sees Earnings Momentum Driven by AI",
-      "summary": "AI is influencing equity market earnings, signaling growing AI impact on financial and investment sectors.",
-      "date": "2026-05-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/blackrock-s-li-sees-earnings-momentum-driven-by-ai-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "financial-services",
-        "market-trends",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "insilico-on-applying-ai-to-transform-drug-discovery",
-      "title": "Insilico on Applying AI to Transform Drug Discovery",
-      "summary": "AI is being applied to transform drug discovery and longevity research, indicating growing adoption of AI in healthcare and life sciences.",
-      "date": "2026-05-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/insilico-on-applying-ai-to-transform-drug-discovery-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "drug-discovery",
-        "ai-adoption",
-        "healthcare-innovation"
-      ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "life-physical-and-social-science",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "ai-capex-drives-memory-demand-and-asia-tech-outlook",
-      "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
-      "summary": "Increased AI capital expenditure is boosting demand for semiconductors and influencing Asia's tech supply chain, signaling growing adoption of AI technologies.",
-      "date": "2026-05-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/ai-capex-drives-memory-demand-and-asia-tech-outlook-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "semiconductor demand",
-        "tech supply chain"
-      ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "production",
@@ -3568,48 +3495,114 @@
       ]
     },
     {
-      "id": "our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update",
-      "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-      "summary": "Google's updates to Gemini and agentic tools signal increased AI adoption in enterprise and developer workflows, potentially affecting tech and productivity across industries.",
+      "id": "we-tried-google-s-ai-glasses-and-they-re-almost-there",
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "summary": "Google's AI-powered glasses demonstrate emerging AR/VR tools that could transform workflows in various industries by providing real-time information and assistance.",
       "date": "2026-05-22",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
+        "AR/VR",
         "AI tools",
-        "enterprise adoption",
-        "model updates"
+        "productivity"
       ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "even-if-you-hate-ai-you-will-use-google-ai-search",
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "summary": "Google's AI search is making AI-driven information retrieval more convenient, increasing workplace reliance on AI and potentially altering how professionals access and use information.",
+      "date": "2026-05-22",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity",
+        "information retrieval"
+      ],
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "california-governor-acts-on-ai-workforce-disruption-as-silicon-valley-sheds-114-",
+      "title": "California Governor Acts on AI Workforce Disruption as Silicon Valley Sheds 114,000 Jobs",
+      "summary": "California's response to AI-driven job losses highlights growing concerns about AI's impact on the workforce and potential regulatory actions.",
+      "date": "2026-05-22",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UVEhjOFFIVV9hcmpubUtVRTd5aHVVajRRQmRDNEtUNUtETTN0UENLZU1DSUVXRDQ3SG1Qa3RkbEFHUDk3TUhCaDlENGYtNGotdEEzaG9WNHlTN3FoQ0pNQ0hpLWhtWVdueUhxVmx3OUFIYjlMOHlB?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "workforce-disruption"
+      ],
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&feed=6HKOhNgS",
-      "duration": "00:55:21"
+      ]
     },
     {
-      "id": "california-eyes-ai-regulation-as-gov-newsom-orders-new-workforce-protections-ami",
-      "title": "California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs",
-      "summary": "California's potential AI regulation and workforce protections signal increased oversight that may slow AI adoption in the workplace.",
+      "id": "newsom-signs-ai-workforce-order-studies-required-no-worker-protections-yet",
+      "title": "Newsom Signs AI Workforce Order: Studies Required, No Worker Protections Yet",
+      "summary": "California's AI workforce order mandates studies but lacks direct worker protections, indicating regulatory development without immediate labor safeguards.",
       "date": "2026-05-22",
-      "source": "ABC7 San Francisco",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFI0RzFJcHpQaWg2UEpza080aFg5aEFTeXpmNzZpMlc3MGwzT0V2WG44NGJUZENibVBxelN5WmtVQTVMbkk1VS1wR00tbndjN3FUbTkzN1lRbW9aTm4zbUlKVXlLYjBiNTg4ZzA1V2E2dGxMLTU3S3dZVHp2X0EyQXZOV3RLb3N0akR1TEd2Y3FMaFpPd0lIdzI3LTB5RlZuUWJFZ3BSTmJXTFJmZkFjQ05wTFBaSVZ1elNCYktnbkoyZm9vR0JNZnphejU5bG5QZUlfNdIB2gFBVV95cUxNWnl3Y1UxNUxXaFdfblNlNDhNNkl4RllDWWtxZG9HNXZHSmF4ajNSWWo3ZTEyaEhlTGExQXN1aTQyN2hncEVOR3VSY0xwQ2Y5c3lpRHJOOVlPeFFjYmhrWVExSUd3SF96ZlVhQVdOcWdkOG0yX2c1Q1NhUUdMYkhqQktPNEU4Ykk4X3hTYWZONG9FbjBXeGhDM1RtRWtuVDZNbzZLck5lQ0lXQWo4NV9YYlZGM25zc0pFeDZ4NEtVN3Y4cjVtNkpDTTJ4WndsZFU3WVc0WDdYU3BYQQ?oc=5",
+      "source": "Tech Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0VhLU90X05ydmdocUsyS0JFWVhYamtCOEp2QVdGb1VUempoNURZRE5IdlZDNGVObVZqSHU0TktyLW5NZWxULUZlN1J6alhCZzFkaVB1bGdZNk1CcVdPa29FZEVqVGR1dU5UeXBrSFhNLU5xcDNmdDF1SE9taTVxUUJfWjkzdnZVRWFkRENMeC1MQ0kzcmxJTy1LVmZURy1LdVVhNTlUektWV25BcWRPZ3d4ZkRnc2dvbjhGcXNVZlMyaVZSREM3Vg?oc=5",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "workforce"
+      ],
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "california-puts-ai-job-disruption-on-the-startup-agenda",
+      "title": "California puts AI job disruption on the startup agenda",
+      "summary": "California is addressing AI's potential job disruption, signaling increased regulatory attention that may shape the pace of AI adoption in the workforce.",
+      "date": "2026-05-22",
+      "source": "Startup Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzFoZWZOancyMlZ1SVduUjFRS1VqV3huQkFHTjlDb1R1WXNrZnNzNlUzci1FeVhVSXJma0E1T0dJQW9aVkdpRlZQTmM4Y0QzQ2Q0YlB3c3RWZHdTUFMtaU5LME05eDloZzRETUItdE9zRUtaeUwwZnpYVkhnaHZnOXVyY2M4S0tlTzNF?oc=5",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "workforce-protections",
-        "policy"
+        "policy",
+        "workforce"
       ],
-      "fetchedAt": "2026-05-22T11:00:59.923Z",
+      "fetchedAt": "2026-05-23T11:00:49.951Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
@@ -3618,12 +3611,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-05-22T12:00:00.000Z",
+  "generatedAt": "2026-05-23T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption advances despite regulatory headwinds",
-      "preview": "Major tech developments contrast with growing regulatory concerns.",
-      "body": "Multiple signals indicate AI is advancing across science, finance, and healthcare, with Google and BlackRock highlighting its transformative potential. However, regulatory delays in the EU and California suggest increasing oversight may slow implementation. Overall, the balance remains positive but cautious."
+      "title": "AI adoption advances, but regulatory responses grow",
+      "preview": "Positive AI developments contrast with growing regulatory concerns.",
+      "body": "Multiple headlines highlight AI's expanding role in coding, search, and AR/VR tools, suggesting increased workplace integration. However, California's actions signal a cautious approach to AI's impact on jobs, with delayed labor protections and mandated studies. The overall trend shows strong technical progress alongside emerging policy challenges."
     }
   }
 }
