@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-25",
+    "minutesToMidnight": 4,
+    "exactMinutesToMidnight": 3.938,
+    "macroReplacementRate": 49.727,
+    "newsAdjustment": -9.062,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "pope-leo-warns-ai-should-be-prevented-from-dominating-humanity-",
+        "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
+        "summary": "Pope's warning about AI highlights growing ethical and regulatory concerns that could slow AI adoption in the workplace.",
+        "date": "2026-05-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "ethics",
+          "policy"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "sakura-internet-eyes-more-spending-to-meet-japan-s-ai-demand",
+        "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
+        "summary": "Sakura Internet's potential massive increase in capital spending signals growing AI demand in Japan, indicating increased investment and adoption of AI technologies.",
+        "date": "2026-05-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "capital spending"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+        "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
+        "summary": "Regulatory action by the ECB highlights growing concerns about AI-driven cybersecurity risks, prompting banks to strengthen IT security measures.",
+        "date": "2026-05-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "cybersecurity",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "hyperscaler-debt-flood-brings-derivatives-bonanza",
+        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+        "summary": "Hyperscalers' increased AI investment leads to more credit derivatives trading, signaling growing financial complexity around AI funding and adoption.",
+        "date": "2026-05-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI funding",
+          "financial systems",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "las-vegas-students-and-schools-weigh-impact-of-artificial-intelligence-on-entry-",
+        "title": "Las Vegas students and schools weigh impact of artificial intelligence on entry-level employment",
+        "summary": "Students and schools in Las Vegas are assessing how AI is influencing entry-level employment, signaling growing awareness of AI's impact on job markets.",
+        "date": "2026-05-23",
+        "source": "FOX5 Vegas",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzY3YTFkN0swTmZSTGhXQ0J4cS1ZRmh6eGUxV1NnWXNtemZrdnFvQjk3bGxiVnpMRl9ydzJFNmgxOUZGYzFIRWxIVWdPTE05cjR1MG5ZbW5DemFVQ1FRekJ1dzdiVC03Sm8xMnF6ZWkzZENHcE80d1Z4OVl1bzhIN25xSG00d2JpUWloejA2c3FMb0RnN2pVTktyU1FBcnhlRjZFZWJ5MHJKODNEc2RFYUdMT2lfWm96MGFhZklfVGgzQdIB1gFBVV95cUxNd1JqZHFpTVlqVUtWWlp0aHB1SzV1U2NYR1hLN3NZSXgydy1QMnlEMlFoMGNfS3R1WTN0S0VfcVcteXp4dE5rM0FDVkNycEV0YVBCZmkzSkY0WTdSX2F5Zld3MVRLXy1EQ3dWQmNnanBaTElCN0JkMFFkTWZJTTZwZDVSSHBrRUVtU0sxeldGZ1piLUNnMEJaQ3dVcXlfc2NyMWRQbWpWVTlFN1VadGhLZ1hHbVlHclNEQmF5QUtzTWM1djEwd3E1ajEtZ3ZPazA3UFFlR3Nn?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "workforce-development",
+          "AI-impact"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "generative-ai-and-the-reorganization-of-labor-demand",
+        "title": "Generative AI and the Reorganization of Labor Demand",
+        "summary": "The article explores how generative AI is reshaping labor demand across various industries, signaling a major shift in workforce needs and job roles.",
+        "date": "2026-05-22",
+        "source": "arXiv - AI Labor",
+        "sourceUrl": "https://arxiv.org/abs/2605.23159v1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "labor demand",
+          "workforce transformation"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "top-20-predictions-from-experts-on-ai-job-loss",
+        "title": "Top 20+ Predictions from Experts on AI Job Loss",
+        "summary": "This article highlights expert predictions about AI job loss, signaling growing awareness of AI's impact on employment across various industries.",
+        "date": "2026-05-21",
+        "source": "AIMultiple",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "job market",
+          "AI impact",
+          "career signals"
+        ],
+        "fetchedAt": "2026-05-25T11:01:07.531Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Sakura Internet Eyes More Spending to Meet Japan’s AI Demand.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Sakura Internet Eyes More Spending to Meet Japan’s AI Demand\" (Bloomberg Technology), while the clearest drag comes from \"ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.062 minutes. Updated 2026-05-25T12:00:00.000Z, with the macro replacement estimate at 49.7%."
+      }
+    }
+  },
+  {
     "date": "2026-05-24",
     "minutesToMidnight": 4,
     "exactMinutesToMidnight": 3.915,
@@ -10393,47 +10599,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-25T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-24",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.044,
-    "macroReplacementRate": 49.097,
-    "newsAdjustment": 0.044,
-    "categoryAdjustments": {
-      "healthcare": 0.012,
-      "life-physical-and-social-science": 0.012,
-      "architecture-and-engineering": 0.012,
-      "management": 0.012,
-      "business-and-financial": 0.012,
-      "construction-and-extraction": 0.012,
-      "production": 0.012,
-      "installation-maintenance-and-repair": 0.012,
-      "education-training-and-library": 0.012,
-      "office-and-administrative-support": 0.012,
-      "transportation-and-material-moving": 0.012,
-      "personal-care-and-service": 0.012,
-      "sales": 0.012,
-      "media-and-communication": 0.012,
-      "computer-and-information-technology": 0.012,
-      "community-and-social-service": 0.012,
-      "arts-and-design": 0.012,
-      "entertainment-and-sports": 0.012,
-      "protective-service": 0.012,
-      "food-preparation-and-serving": 0.012,
-      "legal": 0.012,
-      "math": 0.012,
-      "farming-fishing-and-forestry": 0.012,
-      "building-and-grounds-cleaning": 0.012
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

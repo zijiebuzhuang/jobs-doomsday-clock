@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:56:05",
+  "displayTime": "23:56:04",
   "minutesToMidnight": 4,
-  "exactMinutesToMidnight": 3.915,
+  "exactMinutesToMidnight": 3.938,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -9.085,
+  "newsAdjustment": -9.062,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.729,
+  "macroReplacementRate": 49.727,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,20 +3448,65 @@
   ],
   "newsFeed": [
     {
-      "id": "zoom-s-anthropic-investment-has-netted-the-company-1-billion",
-      "title": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion",
-      "summary": "Zoom's $1 billion gain from its investment in Anthropic highlights growing financial and technological momentum for AI startups, signaling increased AI adoption and potential workplace transformation.",
-      "date": "2026-05-22",
+      "id": "pope-leo-warns-ai-should-be-prevented-from-dominating-humanity-",
+      "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
+      "summary": "Pope's warning about AI highlights growing ethical and regulatory concerns that could slow AI adoption in the workplace.",
+      "date": "2026-05-25",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "ethics",
+        "policy"
+      ],
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "sakura-internet-eyes-more-spending-to-meet-japan-s-ai-demand",
+      "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
+      "summary": "Sakura Internet's potential massive increase in capital spending signals growing AI demand in Japan, indicating increased investment and adoption of AI technologies.",
+      "date": "2026-05-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "enterprise AI",
-        "AI startup success"
+        "AI infrastructure",
+        "enterprise adoption",
+        "capital spending"
       ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+      "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
+      "summary": "Regulatory action by the ECB highlights growing concerns about AI-driven cybersecurity risks, prompting banks to strengthen IT security measures.",
+      "date": "2026-05-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "cybersecurity",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3472,155 +3517,107 @@
       ]
     },
     {
-      "id": "ai-job-disruption-2026-layoffs-at-meta-intuit-and-workforce-automation-trends-ne",
-      "title": "AI Job Disruption 2026: Layoffs at Meta, Intuit, and Workforce Automation Trends - News and Statistics",
-      "summary": "News about AI-driven layoffs and automation trends at major companies signals growing workplace adoption of AI and its impact on employment.",
-      "date": "2026-05-22",
-      "source": "IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFhTU1VUSTk4UWlFMEdLczY5RkFUOWRqLUJLMk1xWmw1TjR0aTJ4TTdYUWg1WmhHWlhQdnJhSy1OUERHZHdBTTZxclRSZ1NPWW1FbGgxQTQ1MktpVUVjTVpCT0lkV3hleGl5d1R5dGxwbkdQVzdGTjFrVFZpM3pPX2d1UGNUX2lKbGVfaks5S28wSHBJbEdOMm9kUkM1RjVBdFdv?oc=5",
+      "id": "hyperscaler-debt-flood-brings-derivatives-bonanza",
+      "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+      "summary": "Hyperscalers' increased AI investment leads to more credit derivatives trading, signaling growing financial complexity around AI funding and adoption.",
+      "date": "2026-05-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "workforce automation",
-        "AI adoption",
-        "job disruption"
+        "AI funding",
+        "financial systems",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "ai-job-cuts-are-rising-but-experts-say-layoffs-are-only-part-of-the-story",
-      "title": "AI job cuts are rising, but experts say layoffs are only part of the story",
-      "summary": "The article highlights the growing impact of AI on employment, suggesting that job cuts are part of a larger transformation in the workforce.",
-      "date": "2026-05-22",
-      "source": "CBS News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84bkNHbTgycEdoWHB5dWVKU1RjN0xVc3E2Nmt3ak9kSVgtaDFsUU9kM0pPNW5mdHp6ejd0aENFRUFKcDY3RU01MGYtV0c5Ni1zLVMwclA1UUlUeVNmNV81dWJzWkd3endmUktYa1FQeDBEeUZnT3fSAXtBVV95cUxQWXNFZUZqVXVFbDY0bjZDaExIMUk0dXBJQ2gxdTB3MkhyRHNLMHdmTXcwQ0NzeUE1QU95ZnY3V0pLNnYxMDFveXJwR0FHQTFDYndXbXYzVXQ3ZXo0Y0d6UVY3N01YNFFkaldKU1E2NkNlc2JQWllid3FVVFE?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce change",
-        "job market"
-      ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "adventhealth-advances-whole-person-care-with-openai",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "summary": "AdventHealth is leveraging AI to improve healthcare workflows and patient care, signaling growing AI adoption in the healthcare sector.",
-      "date": "2026-05-21",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/adventhealth",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workflow improvement",
-        "healthcare"
-      ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "healthcare",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-s-code-with-claude-showed-off-coding-s-future-whether-you-like-it-or-n",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "Anthropic's Code with Claude event highlights the growing integration of AI into software development workflows, signaling a shift in coding practices and skills.",
-      "date": "2026-05-21",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "coding tools",
-        "developer workflows"
-      ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "management"
-      ]
-    },
-    {
-      "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "An AI model has made a major breakthrough in mathematics, demonstrating AI's growing capability to solve complex scientific problems.",
-      "date": "2026-05-20",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI research",
-        "mathematical innovation",
-        "AI-driven science"
-      ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "life-physical-and-social-science",
+        "business-and-financial",
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "gen-ai-tecture-using-generative-ai-to-support-architectural-students-in-design-t",
-      "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
-      "summary": "Generative AI is being used to support architectural students in design tasks, indicating AI's growing role in education and creative workflows.",
-      "date": "2026-05-20",
-      "source": "arXiv - Generative AI Employment",
-      "sourceUrl": "https://arxiv.org/abs/2605.21361v1",
+      "id": "las-vegas-students-and-schools-weigh-impact-of-artificial-intelligence-on-entry-",
+      "title": "Las Vegas students and schools weigh impact of artificial intelligence on entry-level employment",
+      "summary": "Students and schools in Las Vegas are assessing how AI is influencing entry-level employment, signaling growing awareness of AI's impact on job markets.",
+      "date": "2026-05-23",
+      "source": "FOX5 Vegas",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzY3YTFkN0swTmZSTGhXQ0J4cS1ZRmh6eGUxV1NnWXNtemZrdnFvQjk3bGxiVnpMRl9ydzJFNmgxOUZGYzFIRWxIVWdPTE05cjR1MG5ZbW5DemFVQ1FRekJ1dzdiVC03Sm8xMnF6ZWkzZENHcE80d1Z4OVl1bzhIN25xSG00d2JpUWloejA2c3FMb0RnN2pVTktyU1FBcnhlRjZFZWJ5MHJKODNEc2RFYUdMT2lfWm96MGFhZklfVGgzQdIB1gFBVV95cUxNd1JqZHFpTVlqVUtWWlp0aHB1SzV1U2NYR1hLN3NZSXgydy1QMnlEMlFoMGNfS3R1WTN0S0VfcVcteXp4dE5rM0FDVkNycEV0YVBCZmkzSkY0WTdSX2F5Zld3MVRLXy1EQ3dWQmNnanBaTElCN0JkMFFkTWZJTTZwZDVSSHBrRUVtU0sxeldGZ1piLUNnMEJaQ3dVcXlfc2NyMWRQbWpWVTlFN1VadGhLZ1hHbVlHclNEQmF5QUtzTWM1djEwd3E1ajEtZ3ZPazA3UFFlR3Nn?oc=5",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "education",
-        "design",
-        "AI tools"
+        "workforce-development",
+        "AI-impact"
       ],
-      "fetchedAt": "2026-05-24T11:00:46.611Z",
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "education-training-and-library",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "generative-ai-and-the-reorganization-of-labor-demand",
+      "title": "Generative AI and the Reorganization of Labor Demand",
+      "summary": "The article explores how generative AI is reshaping labor demand across various industries, signaling a major shift in workforce needs and job roles.",
+      "date": "2026-05-22",
+      "source": "arXiv - AI Labor",
+      "sourceUrl": "https://arxiv.org/abs/2605.23159v1",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "labor demand",
+        "workforce transformation"
+      ],
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
       "sourceGroup": "research",
       "sourceTier": "research",
       "qualityScore": 94,
       "categories": [
-        "education-training-and-library",
-        "arts-and-design",
-        "architecture-and-engineering"
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "top-20-predictions-from-experts-on-ai-job-loss",
+      "title": "Top 20+ Predictions from Experts on AI Job Loss",
+      "summary": "This article highlights expert predictions about AI job loss, signaling growing awareness of AI's impact on employment across various industries.",
+      "date": "2026-05-21",
+      "source": "AIMultiple",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "job market",
+        "AI impact",
+        "career signals"
+      ],
+      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
       ]
     }
   ],
-  "generatedAt": "2026-05-24T12:00:00.000Z",
+  "generatedAt": "2026-05-25T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Gains Momentum with Mixed Employment Impacts",
-      "preview": "Positive AI developments contrast with ongoing job displacement concerns.",
-      "body": "Recent news highlights strong AI advancements, including Zoom's $1 billion investment in Anthropic and AI breakthroughs in healthcare and coding. However, reports of layoffs at major tech firms underscore the ongoing tension between innovation and workforce disruption. The overall trend reflects a complex balance of progress and challenge."
+      "title": "Mixed Signals on AI Adoption and Regulation",
+      "preview": "Regulatory concerns and investment trends shape the evolving AI job landscape.",
+      "body": "Recent news shows a mix of regulatory caution and growing AI investment. A Pope's warning and ECB actions suggest slowing adoption, while Japan's spending and academic research signal continued progress. Overall, the balance remains tight between advancement and oversight."
     }
   }
 }

@@ -1,5 +1,122 @@
 [
   {
+    "id": "pope-leo-warns-ai-should-be-prevented-from-dominating-humanity-",
+    "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
+    "summary": "Pope's warning about AI highlights growing ethical and regulatory concerns that could slow AI adoption in the workplace.",
+    "date": "2026-05-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "ethics",
+      "policy"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "sakura-internet-eyes-more-spending-to-meet-japan-s-ai-demand",
+    "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
+    "summary": "Sakura Internet's potential massive increase in capital spending signals growing AI demand in Japan, indicating increased investment and adoption of AI technologies.",
+    "date": "2026-05-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "capital spending"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+    "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
+    "summary": "Regulatory action by the ECB highlights growing concerns about AI-driven cybersecurity risks, prompting banks to strengthen IT security measures.",
+    "date": "2026-05-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "cybersecurity",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "hyperscaler-debt-flood-brings-derivatives-bonanza",
+    "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+    "summary": "Hyperscalers' increased AI investment leads to more credit derivatives trading, signaling growing financial complexity around AI funding and adoption.",
+    "date": "2026-05-23",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI funding",
+      "financial systems",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "las-vegas-students-and-schools-weigh-impact-of-artificial-intelligence-on-entry-",
+    "title": "Las Vegas students and schools weigh impact of artificial intelligence on entry-level employment",
+    "summary": "Students and schools in Las Vegas are assessing how AI is influencing entry-level employment, signaling growing awareness of AI's impact on job markets.",
+    "date": "2026-05-23",
+    "source": "FOX5 Vegas",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzY3YTFkN0swTmZSTGhXQ0J4cS1ZRmh6eGUxV1NnWXNtemZrdnFvQjk3bGxiVnpMRl9ydzJFNmgxOUZGYzFIRWxIVWdPTE05cjR1MG5ZbW5DemFVQ1FRekJ1dzdiVC03Sm8xMnF6ZWkzZENHcE80d1Z4OVl1bzhIN25xSG00d2JpUWloejA2c3FMb0RnN2pVTktyU1FBcnhlRjZFZWJ5MHJKODNEc2RFYUdMT2lfWm96MGFhZklfVGgzQdIB1gFBVV95cUxNd1JqZHFpTVlqVUtWWlp0aHB1SzV1U2NYR1hLN3NZSXgydy1QMnlEMlFoMGNfS3R1WTN0S0VfcVcteXp4dE5rM0FDVkNycEV0YVBCZmkzSkY0WTdSX2F5Zld3MVRLXy1EQ3dWQmNnanBaTElCN0JkMFFkTWZJTTZwZDVSSHBrRUVtU0sxeldGZ1piLUNnMEJaQ3dVcXlfc2NyMWRQbWpWVTlFN1VadGhLZ1hHbVlHclNEQmF5QUtzTWM1djEwd3E1ajEtZ3ZPazA3UFFlR3Nn?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "education",
+      "workforce-development",
+      "AI-impact"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "education-training-and-library",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-named-a-leader-in-enterprise-coding-agents-by-gartner",
     "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
     "summary": "OpenAI's recognition as a leader in enterprise coding agents signals growing adoption of AI tools in software development and IT workflows.",
@@ -19,6 +136,31 @@
     "qualityScore": 100,
     "categories": [
       "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "generative-ai-and-the-reorganization-of-labor-demand",
+    "title": "Generative AI and the Reorganization of Labor Demand",
+    "summary": "The article explores how generative AI is reshaping labor demand across various industries, signaling a major shift in workforce needs and job roles.",
+    "date": "2026-05-22",
+    "source": "arXiv - AI Labor",
+    "sourceUrl": "https://arxiv.org/abs/2605.23159v1",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "labor demand",
+      "workforce transformation"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial",
       "_all"
     ]
   },
@@ -519,6 +661,28 @@
     "categories": [
       "business-and-financial",
       "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "top-20-predictions-from-experts-on-ai-job-loss",
+    "title": "Top 20+ Predictions from Experts on AI Job Loss",
+    "summary": "This article highlights expert predictions about AI job loss, signaling growing awareness of AI's impact on employment across various industries.",
+    "date": "2026-05-21",
+    "source": "AIMultiple",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "job market",
+      "AI impact",
+      "career signals"
+    ],
+    "fetchedAt": "2026-05-25T11:01:07.531Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
       "_all"
     ]
   },
@@ -5657,37 +5821,6 @@
     ]
   },
   {
-    "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
-    "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
-    "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
-    "date": "2026-04-06",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI job displacement",
-      "expert predictions",
-      "labor market"
-    ],
-    "fetchedAt": "2026-04-10T00:00:34.917Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 58,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "management-analysts",
-      "project-management-specialists",
-      "computer-systems-analysts",
-      "software-developers"
-    ]
-  },
-  {
     "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
     "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
     "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
@@ -6623,33 +6756,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/65a3c7ce-179c-11f1-b828-2bb2d715f8c7/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8484687597.mp3?updated=1772610872",
     "duration": "61 min"
-  },
-  {
-    "id": "ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu",
-    "title": "AI Is Not Improving Productivity: Nobel Laureate Daron Acemoglu",
-    "summary": "The article suggests that AI may not improve productivity and emphasizes the need to focus on tasks that complement human skills, potentially slowing AI's replacement of human jobs.",
-    "date": "2026-02-24",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/ai-is-not-improving-productivity-nobel-laureate-daron-acemoglu",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI impact",
-      "labor market",
-      "productivity"
-    ],
-    "fetchedAt": "2026-04-29T11:01:25.266Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/039276a2-004f-11f1-8e87-0fcf2984f494/image/8c804adef9315ed0b24fce10ab9270fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO3483293532.mp3?updated=1770048298",
-    "duration": "33 min"
   }
 ]
