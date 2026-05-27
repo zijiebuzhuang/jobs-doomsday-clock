@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:56:04",
+  "displayTime": "23:56:16",
   "minutesToMidnight": 4,
-  "exactMinutesToMidnight": 3.938,
+  "exactMinutesToMidnight": 3.73,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -9.062,
+  "newsAdjustment": -9.27,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.727,
+  "macroReplacementRate": 49.742,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,162 +3448,161 @@
   ],
   "newsFeed": [
     {
-      "id": "pope-leo-warns-ai-should-be-prevented-from-dominating-humanity-",
-      "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
-      "summary": "Pope's warning about AI highlights growing ethical and regulatory concerns that could slow AI adoption in the workplace.",
-      "date": "2026-05-25",
+      "id": "ai-may-impact-120-million-workers-in-advanced-economies",
+      "title": "AI May Impact 120 Million Workers in Advanced Economies",
+      "summary": "AI is expected to impact a significant portion of workers in advanced economies, signaling growing pressure on labor markets and workforce adaptation.",
+      "date": "2026-05-27",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "ethics",
-        "policy"
-      ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "sakura-internet-eyes-more-spending-to-meet-japan-s-ai-demand",
-      "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
-      "summary": "Sakura Internet's potential massive increase in capital spending signals growing AI demand in Japan, indicating increased investment and adoption of AI technologies.",
-      "date": "2026-05-25",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/ai-may-impact-120-million-workers-in-advanced-economies-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "capital spending"
+        "workforce impact",
+        "adoption trends",
+        "economic implications"
       ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
-      "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
-      "summary": "Regulatory action by the ECB highlights growing concerns about AI-driven cybersecurity risks, prompting banks to strengthen IT security measures.",
-      "date": "2026-05-24",
+      "id": "ai-automation-job-loss-fears-and-where-new-work-emerges",
+      "title": "AI Automation, Job Loss Fears and Where New Work Emerges",
+      "summary": "The article discusses the growing concerns about AI-driven job loss and the potential for new employment opportunities, highlighting the global race to adopt AI technologies.",
+      "date": "2026-05-27",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "cybersecurity",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "hyperscaler-debt-flood-brings-derivatives-bonanza",
-      "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-      "summary": "Hyperscalers' increased AI investment leads to more credit derivatives trading, signaling growing financial complexity around AI funding and adoption.",
-      "date": "2026-05-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI funding",
-        "financial systems",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "las-vegas-students-and-schools-weigh-impact-of-artificial-intelligence-on-entry-",
-      "title": "Las Vegas students and schools weigh impact of artificial intelligence on entry-level employment",
-      "summary": "Students and schools in Las Vegas are assessing how AI is influencing entry-level employment, signaling growing awareness of AI's impact on job markets.",
-      "date": "2026-05-23",
-      "source": "FOX5 Vegas",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzY3YTFkN0swTmZSTGhXQ0J4cS1ZRmh6eGUxV1NnWXNtemZrdnFvQjk3bGxiVnpMRl9ydzJFNmgxOUZGYzFIRWxIVWdPTE05cjR1MG5ZbW5DemFVQ1FRekJ1dzdiVC03Sm8xMnF6ZWkzZENHcE80d1Z4OVl1bzhIN25xSG00d2JpUWloejA2c3FMb0RnN2pVTktyU1FBcnhlRjZFZWJ5MHJKODNEc2RFYUdMT2lfWm96MGFhZklfVGgzQdIB1gFBVV95cUxNd1JqZHFpTVlqVUtWWlp0aHB1SzV1U2NYR1hLN3NZSXgydy1QMnlEMlFoMGNfS3R1WTN0S0VfcVcteXp4dE5rM0FDVkNycEV0YVBCZmkzSkY0WTdSX2F5Zld3MVRLXy1EQ3dWQmNnanBaTElCN0JkMFFkTWZJTTZwZDVSSHBrRUVtU0sxeldGZ1piLUNnMEJaQ3dVcXlfc2NyMWRQbWpWVTlFN1VadGhLZ1hHbVlHclNEQmF5QUtzTWM1djEwd3E1ajEtZ3ZPazA3UFFlR3Nn?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "workforce-development",
-        "AI-impact"
-      ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "generative-ai-and-the-reorganization-of-labor-demand",
-      "title": "Generative AI and the Reorganization of Labor Demand",
-      "summary": "The article explores how generative AI is reshaping labor demand across various industries, signaling a major shift in workforce needs and job roles.",
-      "date": "2026-05-22",
-      "source": "arXiv - AI Labor",
-      "sourceUrl": "https://arxiv.org/abs/2605.23159v1",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/ai-automation-job-loss-fears-and-where-new-work-emerges-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "labor demand",
-        "workforce transformation"
+        "job displacement",
+        "economic impact"
       ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "more-companies-turn-to-monitoring-employee-ai-skills",
+      "title": "More Companies Turn to Monitoring Employee AI Skills",
+      "summary": "More companies are incorporating AI skill monitoring into employee evaluations, signaling increased focus on AI literacy and capability in the workforce.",
+      "date": "2026-05-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-27/ai-skills-evaluated-at-okx-kpmg-as-companies-tie-jobs-to-ai-fluency",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workforce training",
+        "performance evaluation"
+      ],
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "taiwan-suspects-nvidia-ai-chip-shipment-smuggled-to-china",
+      "title": "Taiwan Suspects Nvidia AI Chip Shipment Smuggled to China",
+      "summary": "Regulatory actions and smuggling concerns may slow the adoption of advanced AI chips in China, affecting global AI development and workforce dynamics.",
+      "date": "2026-05-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/taiwan-suspects-nvidia-chip-shipment-smuggled-to-china-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "supply-chain",
+        "AI hardware"
+      ],
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
         "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "top-20-predictions-from-experts-on-ai-job-loss",
-      "title": "Top 20+ Predictions from Experts on AI Job Loss",
-      "summary": "This article highlights expert predictions about AI job loss, signaling growing awareness of AI's impact on employment across various industries.",
-      "date": "2026-05-21",
-      "source": "AIMultiple",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
+      "id": "bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
+      "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
+      "summary": "ByteDance's significant AI investment signals increased competition and advancement in AI capabilities, likely influencing tech and related industries.",
+      "date": "2026-05-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "job market",
-        "AI impact",
-        "career signals"
+        "AI investment",
+        "enterprise adoption",
+        "market competition"
       ],
-      "fetchedAt": "2026-05-25T11:01:07.531Z",
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "why-huawei-s-new-chipmaking-plan-has-investors-buzzing",
+      "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
+      "summary": "Huawei's chipmaking plan reflects growing AI-driven demand for advanced computing power, signaling increased investment in AI infrastructure and semiconductor capabilities.",
+      "date": "2026-05-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "semiconductors",
+        "AI infrastructure",
+        "computing power"
+      ],
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "california-governor-executive-order-mandates-review-of-labor-policies-amid-ai-wo",
+      "title": "California governor executive order mandates review of labor policies amid AI workforce displacement",
+      "summary": "California's executive order signals increased regulatory scrutiny of AI's impact on labor, potentially slowing or shaping AI adoption in the workforce.",
+      "date": "2026-05-26",
+      "source": "A&O Shearman",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ0tUb1hibVl0YlZsMTJ1bS1zM29yZzJrLVY3NVFvdjZLbGtPb09SZ01nLXdhb0lLdXJsWk16SEo1M01xdnFWdmpPaHBraGV4S2F0emMxSGgyUjNTYXJQVFhCZVRlYW5PVGl0SW5UMWJUTUxKdGNhY3NObWRSUDJSd3B0dlJyY3pob29aUVg5X1A0QjBseV95UlpJellUMndnN2w1R2hfWGlEdG1aRFdvOFZYVndTSzJHQmVzWWJFT2lHcXNCNjBsSVcyQV9Xc2ZTaUhWblZRSndmQnRTcXFyNWVXV1V0NWxzTFdqS2t2Umo?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "labor"
+      ],
+      "fetchedAt": "2026-05-27T11:01:05.782Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
@@ -3612,12 +3611,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-05-25T12:00:00.000Z",
+  "generatedAt": "2026-05-27T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Mixed Signals on AI Adoption and Regulation",
-      "preview": "Regulatory concerns and investment trends shape the evolving AI job landscape.",
-      "body": "Recent news shows a mix of regulatory caution and growing AI investment. A Pope's warning and ECB actions suggest slowing adoption, while Japan's spending and academic research signal continued progress. Overall, the balance remains tight between advancement and oversight."
+      "title": "AI job pressure remains elevated with mixed tech and regulatory signals",
+      "preview": "New AI investments and labor policy shifts highlight ongoing workforce challenges.",
+      "body": "Recent reports show continued AI-driven job market pressures, with major investments from companies like ByteDance and Huawei. However, regulatory actions in California and concerns over AI chip smuggling may slow adoption. Overall, the balance of signals suggests sustained but uneven AI job replacement pressure."
     }
   }
 }
