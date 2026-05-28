@@ -1,5 +1,148 @@
 [
   {
+    "id": "what-it-takes-to-get-a-job-at-anthropic",
+    "title": "What It Takes to Get a Job at Anthropic",
+    "summary": "A top AI company emphasizes human critical thinking and worldview in hiring, suggesting a continued need for human judgment alongside AI adoption.",
+    "date": "2026-05-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "hiring-practices",
+      "human-role-in-ai",
+      "workforce-skills"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "mistral-signs-with-airbus-and-bmw-as-it-expands-into-physical-ai",
+    "title": "Mistral Signs with Airbus and BMW as it Expands Into Physical AI",
+    "summary": "Mistral AI's expansion into physical AI with major industrial clients like Airbus and BMW signals growing adoption of AI in advanced manufacturing and industrial workflows.",
+    "date": "2026-05-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-28/mistral-expands-into-physical-ai-including-airbus-bmw-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "manufacturing",
+      "physical AI"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "production",
+      "architecture-and-engineering",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "mistral-signs-airbus-bmw-as-it-brings-ai-to-manufacturing",
+    "title": "Mistral Signs Airbus, BMW as It Brings AI to Manufacturing",
+    "summary": "Mistral AI's expansion into manufacturing with major companies like Airbus and BMW signals growing AI adoption in industrial and production workflows.",
+    "date": "2026-05-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "manufacturing",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "production",
+      "architecture-and-engineering",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "atlasedge-gets-1-2-billion-in-loans-for-european-data-centers",
+    "title": "AtlasEdge Gets €1.2 Billion in Loans for European Data Centers",
+    "summary": "Large-scale financing for AI infrastructure in under-served European regions signals increased adoption of AI capabilities in data centers, supporting broader AI integration across industries.",
+    "date": "2026-05-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/atlasedge-gets-1-2-billion-in-loans-for-european-data-centers",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "data-center-infrastructure",
+      "ai-adoption",
+      "enterprise-ai"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "editorial-urges-commission-to-study-ai-job-impact",
+    "title": "Editorial Urges Commission to Study AI Job Impact",
+    "summary": "An editorial calls for a commission to study the impact of AI on jobs, signaling growing concern and potential regulatory scrutiny.",
+    "date": "2026-05-28",
+    "source": "Let's Data Science",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXdRRXdRSU43dVlXVmtBNHlSWE1abFo1LU5XbWpUTjhPX2lGZ2lUa3BtNXhkb1ZjRXFVNk5lRDZObUhjMXpySjd1X1J6enJJR1lYaENiTHFjbXNGR3YzN0FqSWRBSWhWWlZ4WjJLT2hVWWhLY0FBcWh2QUVZbWZUdHpNNTlyRlhNNGR6TDBGbWszQTdwbUE?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "labor"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "china-is-increasingly-keeping-its-best-ai-talent-to-itself",
+    "title": "China is increasingly keeping its best AI talent to itself",
+    "summary": "China's efforts to retain top AI talent may limit global collaboration and affect the flow of expertise in AI-driven industries.",
+    "date": "2026-05-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "talent retention",
+      "AI workforce",
+      "geopolitics"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
     "id": "ai-may-impact-120-million-workers-in-advanced-economies",
     "title": "AI May Impact 120 Million Workers in Advanced Economies",
     "summary": "AI is expected to impact a significant portion of workers in advanced economies, signaling growing pressure on labor markets and workforce adaptation.",
@@ -137,6 +280,28 @@
     "qualityScore": 85,
     "categories": [
       "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "bracing-for-impact-california-focuses-its-agencies-on-ai-s-threat-to-the-labor-m",
+    "title": "Bracing for Impact: California Focuses Its Agencies on AI’s Threat to the Labor Market",
+    "summary": "California is proactively assessing AI's impact on the labor market, indicating regulatory attention that may shape AI adoption and workforce planning.",
+    "date": "2026-05-27",
+    "source": "JD Supra",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjJXc09lZGRsR3htS2tlVXZaX2UzbnpMSEpLUHpVVFBHbnp3b3F5SFBGbnJYZlBELVJKMzZ6aC1IZHNod0d3V1BZOHgyMmN3ekN2dVQtdEk3U05XdDZCZUM1WjY0aTJzNjg1YTdDWU1TNUU2YmZPdkJnN2stVFhpVUdNd0VEMFE?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "labor-market"
+    ],
+    "fetchedAt": "2026-05-28T11:01:27.851Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
       "_all"
     ]
   },
