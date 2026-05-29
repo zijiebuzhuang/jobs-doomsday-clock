@@ -1,5 +1,210 @@
 [
   {
+    "date": "2026-05-29",
+    "minutesToMidnight": 4,
+    "exactMinutesToMidnight": 3.668,
+    "macroReplacementRate": 49.746,
+    "newsAdjustment": -9.332,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "strengthening-societal-resilience-with-rosalind-biodefense",
+        "title": "Strengthening societal resilience with Rosalind Biodefense",
+        "summary": "OpenAI's Rosalind Biodefense expands AI access for biodefense and public health, indicating increased AI adoption in critical scientific and healthcare sectors.",
+        "date": "2026-05-29",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "healthcare",
+          "public health",
+          "biodefense"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "how-the-pope-s-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the",
+        "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+        "summary": "A religious leader's statement on AI emphasizes ethical considerations, potentially influencing policy and public perception around AI adoption.",
+        "date": "2026-05-29",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "ethics",
+          "policy",
+          "regulation"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-is-creating-more-work-for-australia-s-workplace-tribunal",
+        "title": "AI is Creating More Work for Australia’s Workplace Tribunal",
+        "summary": "AI tools are increasing the workload of Australia's workplace tribunal, highlighting AI's growing impact on legal and administrative workflows.",
+        "date": "2026-05-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-creating-more-work-for-australia-s-workplace-tribunal",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace impact",
+          "legal workflow"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "legal",
+          "office-and-administrative-support",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "it-s-summertime-and-ai-means-internships-aren-t-easy",
+        "title": "It’s Summertime and AI Means Internships Aren’t Easy",
+        "summary": "AI tools are reducing the need for internships, signaling a shift in how companies train and hire entry-level talent.",
+        "date": "2026-05-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-29/how-ai-is-making-it-tougher-for-students-to-land-summer-internships",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "internships",
+          "AI adoption",
+          "hiring practices"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool",
+        "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+        "summary": "Anthropic's release of Opus 4.8 with Dynamic Workflows signals a step forward in AI-driven coordination of complex tasks, potentially increasing productivity and shifting workflows across multiple industries.",
+        "date": "2026-05-28",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow automation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "jd-founder-vows-to-protect-900-000-jobs-from-ai-automation",
+        "title": "JD Founder Vows To Protect 900,000 Jobs From AI Automation",
+        "summary": "A company founder's commitment to protecting jobs from AI automation highlights growing concerns about AI's impact on employment and potential regulatory or ethical constraints on adoption.",
+        "date": "2026-05-28",
+        "source": "GuruFocus",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFpRQ0lWVXFyei01WUdZQkZqMjgzWWx3N1NpZTZTS2hnVEVOUXZQSWZtTXJwZmRkVUhHOGxNVnJJd2ozN3V6RjdmQm9MMHRFNjZWcG4zVHFRVFQteTc0M0VTM1hVTW9CNllvSXV3aXpDYkFoZ2lRVFJ1OXlyaGxYWFdyVWJfVFFRWUlhWExzRWhIQU5MYm5DckdTWks?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "job protection",
+          "workplace impact"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "nearly-half-of-ceos-plan-upskilling-reskilling-initiatives-for-workers-to-keep-u",
+        "title": "Nearly half of CEOs plan upskilling, reskilling initiatives for workers to keep up with AI",
+        "summary": "CEOs are proactively investing in upskilling and reskilling to prepare workers for AI-driven changes in the workplace.",
+        "date": "2026-05-28",
+        "source": "Fast Company",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkF3VFFZTU9TdzFySG9qbmdEZ2JPaTAyVEhVbWFVUkJzZ0FXQnMwNm1ZNzNhWEllR1NLUm1ZUnNlaW1zWVNhakl1Rnk3OXFzM1VYMzZGR3dnNS11ZVVTd1RiMGl4djZaVlBpdkRkWUtDSzdaRUVnLU9oVjdMUG44d01rcGtodlNNQnk0c29ZWmhTaTZEdHZ4akhVQlQ0SXZLdnM3T3BWdk00d2FIcV85d1hLVHBRZldhZVkxb2p2RmFaeS1X?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workforce-development",
+          "AI-adoption",
+          "hiring-practices"
+        ],
+        "fetchedAt": "2026-05-29T11:01:03.026Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Strengthening societal resilience with Rosalind Biodefense.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Strengthening societal resilience with Rosalind Biodefense\" (OpenAI), while the clearest drag comes from \"JD Founder Vows To Protect 900,000 Jobs From AI Automation\" (GuruFocus). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.332 minutes. Updated 2026-05-29T12:00:00.000Z, with the macro replacement estimate at 49.7%."
+      }
+    }
+  },
+  {
     "date": "2026-05-28",
     "minutesToMidnight": 4,
     "exactMinutesToMidnight": 3.662,
@@ -10888,47 +11093,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-02-28T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-02-27",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.025,
-    "macroReplacementRate": 49.098,
-    "newsAdjustment": 0.025,
-    "categoryAdjustments": {
-      "healthcare": 0.007,
-      "life-physical-and-social-science": 0.007,
-      "architecture-and-engineering": 0.007,
-      "management": 0.007,
-      "business-and-financial": 0.007,
-      "construction-and-extraction": 0.007,
-      "production": 0.007,
-      "installation-maintenance-and-repair": 0.007,
-      "education-training-and-library": 0.007,
-      "office-and-administrative-support": 0.007,
-      "transportation-and-material-moving": 0.007,
-      "personal-care-and-service": 0.007,
-      "sales": 0.007,
-      "media-and-communication": 0.007,
-      "computer-and-information-technology": 0.007,
-      "community-and-social-service": 0.007,
-      "arts-and-design": 0.007,
-      "entertainment-and-sports": 0.007,
-      "protective-service": 0.007,
-      "food-preparation-and-serving": 0.007,
-      "legal": 0.007,
-      "math": 0.007,
-      "farming-fishing-and-forestry": 0.007,
-      "building-and-grounds-cleaning": 0.007
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-02-27T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
