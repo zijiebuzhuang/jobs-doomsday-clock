@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:56:20",
+  "displayTime": "23:56:21",
   "minutesToMidnight": 4,
-  "exactMinutesToMidnight": 3.668,
+  "exactMinutesToMidnight": 3.652,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -9.332,
+  "newsAdjustment": -9.348,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.746,
+  "macroReplacementRate": 49.747,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,175 +3448,181 @@
   ],
   "newsFeed": [
     {
-      "id": "strengthening-societal-resilience-with-rosalind-biodefense",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "summary": "OpenAI's Rosalind Biodefense expands AI access for biodefense and public health, indicating increased AI adoption in critical scientific and healthcare sectors.",
-      "date": "2026-05-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "id": "minimax-eyes-china-listing-takes-on-ai-rivals-like-deepseek",
+      "title": "MiniMax Eyes China Listing, Takes on AI Rivals Like DeepSeek",
+      "summary": "MiniMax's move toward a China listing signals growing AI industry competition and increased investment in AI startups, potentially driving innovation and workforce changes in tech and related fields.",
+      "date": "2026-05-30",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "healthcare",
-        "public health",
-        "biodefense"
+        "AI startup",
+        "market competition",
+        "funding"
       ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "boston-children-s-uses-ai-to-unlock-new-diagnoses",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "summary": "AI is being used in healthcare to improve diagnostics and patient care, signaling increased AI adoption in medical workflows.",
+      "date": "2026-05-29",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/boston-childrens-hospital",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "healthcare",
+        "ai-adopted-in-work",
+        "diagnostics"
+      ],
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "healthcare",
         "life-physical-and-social-science",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "how-the-pope-s-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "summary": "A religious leader's statement on AI emphasizes ethical considerations, potentially influencing policy and public perception around AI adoption.",
-      "date": "2026-05-29",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "ethics",
-        "policy",
-        "regulation"
-      ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
         "_all"
       ]
     },
     {
-      "id": "ai-is-creating-more-work-for-australia-s-workplace-tribunal",
-      "title": "AI is Creating More Work for Australia’s Workplace Tribunal",
-      "summary": "AI tools are increasing the workload of Australia's workplace tribunal, highlighting AI's growing impact on legal and administrative workflows.",
+      "id": "tech-companies-desperately-want-to-film-you-doing-chores",
+      "title": "Tech companies desperately want to film you doing chores",
+      "summary": "A startup is using AI training by capturing domestic labor footage, indicating growing interest in real-world data for AI development and potential implications for labor and automation.",
       "date": "2026-05-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-creating-more-work-for-australia-s-workplace-tribunal",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
       "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workplace impact",
-        "legal workflow"
-      ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "legal",
-        "office-and-administrative-support",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "it-s-summertime-and-ai-means-internships-aren-t-easy",
-      "title": "It’s Summertime and AI Means Internships Aren’t Easy",
-      "summary": "AI tools are reducing the need for internships, signaling a shift in how companies train and hire entry-level talent.",
-      "date": "2026-05-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-29/how-ai-is-making-it-tougher-for-students-to-land-summer-internships",
-      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "internships",
-        "AI adoption",
-        "hiring practices"
+        "AI data collection",
+        "labor surveillance",
+        "workplace automation"
       ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
+        "personal-care-and-service",
         "office-and-administrative-support",
-        "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool",
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "summary": "Anthropic's release of Opus 4.8 with Dynamic Workflows signals a step forward in AI-driven coordination of complex tasks, potentially increasing productivity and shifting workflows across multiple industries.",
-      "date": "2026-05-28",
+      "id": "cognition-s-scott-wu-says-ai-coding-agents-shouldn-t-replace-humans",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "A leading AI coding agent developer emphasizes that AI should not replace human programmers, suggesting ongoing human involvement in software development.",
+      "date": "2026-05-29",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "effect": "advance",
+      "sourceUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "workflow automation",
-        "enterprise AI"
+        "coding",
+        "workforce integration"
       ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "jd-founder-vows-to-protect-900-000-jobs-from-ai-automation",
-      "title": "JD Founder Vows To Protect 900,000 Jobs From AI Automation",
-      "summary": "A company founder's commitment to protecting jobs from AI automation highlights growing concerns about AI's impact on employment and potential regulatory or ethical constraints on adoption.",
-      "date": "2026-05-28",
-      "source": "GuruFocus",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFpRQ0lWVXFyei01WUdZQkZqMjgzWWx3N1NpZTZTS2hnVEVOUXZQSWZtTXJwZmRkVUhHOGxNVnJJd2ozN3V6RjdmQm9MMHRFNjZWcG4zVHFRVFQteTc0M0VTM1hVTW9CNllvSXV3aXpDYkFoZ2lRVFJ1OXlyaGxYWFdyVWJfVFFRWUlhWExzRWhIQU5MYm5DckdTWks?oc=5",
+      "id": "boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos",
+      "title": "BOE's Bailey Says UK Banks Don't Have Access to Mythos",
+      "summary": "UK banks are restricted from using a powerful AI tool, indicating regulatory or security constraints on AI adoption in finance.",
+      "date": "2026-05-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos-video",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "job protection",
-        "workplace impact"
+        "regulation",
+        "enterprise-adoption",
+        "AI-security"
       ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "nearly-half-of-ceos-plan-upskilling-reskilling-initiatives-for-workers-to-keep-u",
-      "title": "Nearly half of CEOs plan upskilling, reskilling initiatives for workers to keep up with AI",
-      "summary": "CEOs are proactively investing in upskilling and reskilling to prepare workers for AI-driven changes in the workplace.",
-      "date": "2026-05-28",
-      "source": "Fast Company",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkF3VFFZTU9TdzFySG9qbmdEZ2JPaTAyVEhVbWFVUkJzZ0FXQnMwNm1ZNzNhWEllR1NLUm1ZUnNlaW1zWVNhakl1Rnk3OXFzM1VYMzZGR3dnNS11ZVVTd1RiMGl4djZaVlBpdkRkWUtDSzdaRUVnLU9oVjdMUG44d01rcGtodlNNQnk0c29ZWmhTaTZEdHZ4akhVQlQ0SXZLdnM3T3BWdk00d2FIcV85d1hLVHBRZldhZVkxb2p2RmFaeS1X?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
+      "id": "boe-s-bailey-says-uk-banks-still-lack-access-to-mythos",
+      "title": "BOE’s Bailey Says UK Banks Still Lack Access to Mythos",
+      "summary": "UK banks are restricted from using a powerful AI tool, highlighting regulatory and cybersecurity challenges in AI adoption.",
+      "date": "2026-05-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "workforce-development",
-        "AI-adoption",
-        "hiring-practices"
+        "regulation",
+        "cybersecurity",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-05-29T11:01:03.026Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-vatican-s-man-inside-anthropic",
+      "title": "The Vatican’s Man Inside Anthropic",
+      "summary": "The Vatican's involvement with Anthropic signals growing institutional interest in AI, potentially influencing ethical and regulatory frameworks for AI development.",
+      "date": "2026-05-29",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "institutional-interest",
+        "ethics",
+        "regulation"
+      ],
+      "fetchedAt": "2026-05-30T11:01:09.067Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-05-29T12:00:00.000Z",
+  "generatedAt": "2026-05-30T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job pressure shows mixed signals amid new tools and ethical focus",
-      "preview": "Advances in AI tools and ethical discussions shape the evolving job landscape.",
-      "body": "Today's news shows a balanced mix of AI advancements and delays. OpenAI's Rosalind Biodefense and Anthropic's Opus 4.8 highlight growing AI adoption in critical sectors, while the Pope's ethical stance and JD Founder's job protection pledge suggest slowing adoption. AI is also reshaping work processes, with Australia's Workplace Tribunal seeing increased workload and internships becoming less necessary."
+      "title": "AI job pressure remains steady with mixed signals",
+      "preview": "New AI advancements and regulatory hurdles balance out today's news.",
+      "body": "Today’s news shows a mix of AI progress and caution, with developments like MiniMax's China listing and AI in healthcare driving innovation, while UK banks facing restrictions highlight ongoing regulatory challenges. Overall, the balance of signals suggests moderate pressure on AI job replacement."
     }
   }
 }
