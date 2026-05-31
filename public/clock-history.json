@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-05-31",
+    "minutesToMidnight": 3,
+    "exactMinutesToMidnight": 3.264,
+    "macroReplacementRate": 49.774,
+    "newsAdjustment": -9.736,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-turkey-hacked-the-hair-transplant-industry",
+        "title": "How Turkey Hacked the Hair Transplant Industry",
+        "summary": "AI and innovation are transforming the hair transplant industry in Turkey, showing how AI can influence specialized sectors beyond traditional tech fields.",
+        "date": "2026-05-31",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "workforce innovation",
+          "industry transformation"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
+        "title": "Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds",
+        "summary": "A Federal Reserve official downplays the threat of AI to economist jobs, suggesting human expertise remains valuable despite AI advancements.",
+        "date": "2026-05-30",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI in professional roles",
+          "labor market impact",
+          "regulation and adoption"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-work-and-it-s-actually-pretty-u",
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "summary": "Google's Gemini Spark AI assistant demonstrates AI's growing role in automating daily tasks, signaling increased workplace productivity and potential shifts in job responsibilities.",
+        "date": "2026-05-30",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "tech-stars-from-the-90s-reborn-nokia-dell-cisco-surge-on-ai",
+        "title": "Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI",
+        "summary": "Established tech companies are regaining prominence due to increased AI spending, signaling a shift in industry power and potential demand for AI-related skills.",
+        "date": "2026-05-30",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "industry power",
+          "enterprise tech"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "softbank-plans-up-to-75-billion-investment-in-french-ai-centers",
+        "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
+        "summary": "SoftBank's massive investment in French AI data centers signals growing infrastructure for AI adoption, likely boosting tech and related industries.",
+        "date": "2026-05-30",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "data centers"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "a-shared-playbook-for-trustworthy-third-party-evaluations",
+        "title": "A shared playbook for trustworthy third party evaluations",
+        "summary": "OpenAI's guidance on third-party AI evaluations helps standardize trustworthiness assessments, potentially accelerating responsible AI adoption across industries.",
+        "date": "2026-05-29",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "trust",
+          "model evaluation"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "this-ai-startup-will-clean-your-home-for-free-to-train-future-robots",
+        "title": "This AI startup will clean your home for free to train future robots",
+        "summary": "An AI startup is using human cleaning data to train robots, indicating progress in AI's integration into physical labor and service industries.",
+        "date": "2026-05-29",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI training",
+          "robotics",
+          "workforce automation"
+        ],
+        "fetchedAt": "2026-05-31T11:00:51.390Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "personal-care-and-service",
+          "building-and-grounds-cleaning",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful\" (TechCrunch - AI), while the clearest drag comes from \"Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.736 minutes. Updated 2026-05-31T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-05-30",
     "minutesToMidnight": 4,
     "exactMinutesToMidnight": 3.652,
@@ -11222,47 +11433,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-02T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-01",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 13.013,
-    "macroReplacementRate": 49.099,
-    "newsAdjustment": 0.013,
-    "categoryAdjustments": {
-      "healthcare": 0.003,
-      "life-physical-and-social-science": 0.003,
-      "architecture-and-engineering": 0.003,
-      "management": 0.003,
-      "business-and-financial": 0.003,
-      "construction-and-extraction": 0.003,
-      "production": 0.003,
-      "installation-maintenance-and-repair": 0.003,
-      "education-training-and-library": 0.003,
-      "office-and-administrative-support": 0.003,
-      "transportation-and-material-moving": 0.003,
-      "personal-care-and-service": 0.003,
-      "sales": 0.003,
-      "media-and-communication": 0.003,
-      "computer-and-information-technology": 0.003,
-      "community-and-social-service": 0.003,
-      "arts-and-design": 0.003,
-      "entertainment-and-sports": 0.003,
-      "protective-service": 0.003,
-      "food-preparation-and-serving": 0.003,
-      "legal": 0.003,
-      "math": 0.003,
-      "farming-fishing-and-forestry": 0.003,
-      "building-and-grounds-cleaning": 0.003
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
