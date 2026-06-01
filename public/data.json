@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:56:44",
+  "displayTime": "23:57:00",
   "minutesToMidnight": 3,
-  "exactMinutesToMidnight": 3.264,
+  "exactMinutesToMidnight": 2.997,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -9.736,
+  "newsAdjustment": -10.003,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.774,
+  "macroReplacementRate": 49.793,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,92 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "how-turkey-hacked-the-hair-transplant-industry",
-      "title": "How Turkey Hacked the Hair Transplant Industry",
-      "summary": "AI and innovation are transforming the hair transplant industry in Turkey, showing how AI can influence specialized sectors beyond traditional tech fields.",
-      "date": "2026-05-31",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "workforce innovation",
-        "industry transformation"
-      ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-      "title": "Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds",
-      "summary": "A Federal Reserve official downplays the threat of AI to economist jobs, suggesting human expertise remains valuable despite AI advancements.",
-      "date": "2026-05-30",
+      "id": "nvidia-says-anthropic-openai-among-users-of-new-vera-chip",
+      "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip",
+      "summary": "Major AI companies adopting Nvidia's new chip signals increased AI capability and infrastructure development, likely boosting productivity and workflow changes across tech and data-driven industries.",
+      "date": "2026-06-01",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "AI in professional roles",
-        "labor market impact",
-        "regulation and adoption"
+        "AI infrastructure",
+        "enterprise adoption",
+        "chip technology"
       ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
         "business-and-financial",
-        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-work-and-it-s-actually-pretty-u",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "summary": "Google's Gemini Spark AI assistant demonstrates AI's growing role in automating daily tasks, signaling increased workplace productivity and potential shifts in job responsibilities.",
-      "date": "2026-05-30",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "tech-stars-from-the-90s-reborn-nokia-dell-cisco-surge-on-ai",
-      "title": "Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI",
-      "summary": "Established tech companies are regaining prominence due to increased AI spending, signaling a shift in industry power and potential demand for AI-related skills.",
-      "date": "2026-05-30",
+      "id": "nvidia-s-huang-calls-ai-jobs-concerns-nonsense-",
+      "title": "Nvidia's Huang Calls AI Jobs Concerns 'Nonsense'",
+      "summary": "Nvidia's CEO dismisses AI job concerns, suggesting AI adoption is increasing demand for software engineers.",
+      "date": "2026-06-01",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-s-huang-calls-ai-jobs-concerns-nonsense-video",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "AI adoption",
-        "industry power",
-        "enterprise tech"
+        "workforce impact",
+        "industry sentiment"
       ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3544,44 +3496,72 @@
       ]
     },
     {
-      "id": "softbank-plans-up-to-75-billion-investment-in-french-ai-centers",
-      "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
-      "summary": "SoftBank's massive investment in French AI data centers signals growing infrastructure for AI adoption, likely boosting tech and related industries.",
-      "date": "2026-05-30",
+      "id": "anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
+      "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos",
+      "summary": "Anthropic's decision to provide its AI tool Mythos to the EU cybersecurity agency signals increased adoption of advanced AI in critical security operations.",
+      "date": "2026-06-01",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "investment",
-        "data centers"
+        "AI adoption",
+        "cybersecurity",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "a-shared-playbook-for-trustworthy-third-party-evaluations",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "summary": "OpenAI's guidance on third-party AI evaluations helps standardize trustworthiness assessments, potentially accelerating responsible AI adoption across industries.",
-      "date": "2026-05-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "id": "ai-for-interoperability-in-health-care-philips-s-carla-goulart-peron",
+      "title": "AI for Interoperability in Health Care: Philips’s Carla Goulart Peron",
+      "summary": "AI is being used to improve healthcare outcomes by enhancing diagnostics and freeing up clinicians, signaling a shift in how AI supports rather than replaces medical professionals.",
+      "date": "2026-06-01",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "trust",
-        "model evaluation"
+        "healthcare",
+        "ai-adoptions",
+        "productivity"
       ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "healthcare",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/499218be-4f0b-11f1-b37f-0b0591ec3021/image/ae291127f6965432b65f8770e58490c6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4227354569.mp3",
+      "duration": "34 min"
+    },
+    {
+      "id": "openai-s-frontier-governance-framework",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "summary": "OpenAI's governance framework aligns with new regulations, indicating increased regulatory scrutiny that may slow AI adoption in the workplace.",
+      "date": "2026-05-28",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/openai-frontier-governance-framework",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
@@ -3592,37 +3572,62 @@
       ]
     },
     {
-      "id": "this-ai-startup-will-clean-your-home-for-free-to-train-future-robots",
-      "title": "This AI startup will clean your home for free to train future robots",
-      "summary": "An AI startup is using human cleaning data to train robots, indicating progress in AI's integration into physical labor and service industries.",
-      "date": "2026-05-29",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "id": "can-a-i-make-people-feel-less-lonely-",
+      "title": "Can A.I. Make People Feel Less Lonely?",
+      "summary": "AI is being used to address social isolation among older adults, indicating its growing role in healthcare and personal care services.",
+      "date": "2026-05-28",
+      "source": "Apple Podcasts - The Daily",
+      "sourceUrl": "https://www.nytimes.com/the-daily",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI training",
-        "robotics",
-        "workforce automation"
+        "healthcare",
+        "social-isolation",
+        "AI-adoptions"
       ],
-      "fetchedAt": "2026-05-31T11:00:51.390Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
+        "healthcare",
         "personal-care-and-service",
-        "building-and-grounds-cleaning",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/bebd1cf2-dd84-42af-b690-54c1c435ebb9/3000x3000/28thedaily_applespotify_2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71cbb1e4-cf87-4858-b46c-1f48f779e424/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71cbb1e4-cf87-4858-b46c-1f48f779e424&feed=Sl5CSM3S",
+      "duration": "00:29:04"
+    },
+    {
+      "id": "california-state-agencies-ordered-to-study-the-impact-of-ai-in-employment",
+      "title": "California State Agencies Ordered to Study the Impact of AI in Employment",
+      "summary": "California's order for state agencies to study AI's impact on employment signals increased regulatory scrutiny, potentially slowing AI adoption in the workforce.",
+      "date": "2026-05-28",
+      "source": "Duane Morris LLP",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSl9KdEZNUHY4em4zZElqYjF6d2N2TEg0WjRPWFpwdjVqM2Y0YWN1VVJPVHcyY0c0QnBmMzBjR25keDFaR1Q4aFdTcVdfWkhTMExtbW1HX0plQmRPZ2Nlc1ZJWHpOM2NzSndOVEx3UHo1U3oyT1JBdENIeEktR1g1b3VpdEJRMW1uSlR2THZqVDlYV1BPTjV4Wlp1WEZoVXFhNmVqSXJVbWo?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "workforce"
+      ],
+      "fetchedAt": "2026-06-01T11:01:06.499Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-05-31T12:00:00.000Z",
+  "generatedAt": "2026-06-01T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue, but Some Signals Suggest Caution",
-      "preview": "Positive AI developments contrast with cautious statements from officials.",
-      "body": "The day's signals show a mix of AI progress and measured optimism. Highlights include Google's Gemini Spark AI assistant and SoftBank's investment in French AI centers, both indicating growing AI adoption. However, a Federal Reserve official downplayed AI's threat to economist roles, suggesting human expertise still holds value. Overall, the feed reflects steady momentum with some balance from cautious voices."
+      "title": "AI Adoption Advances Despite Regulatory Scrutiny",
+      "preview": "Positive AI developments contrast with growing regulatory concerns.",
+      "body": "Multiple signals highlight AI advancements, including Nvidia's new chip adoption and AI integration in healthcare. However, regulatory actions like California's employment study and OpenAI's governance framework suggest potential delays. The overall trend remains mixed but leaning toward progress."
     }
   }
 }

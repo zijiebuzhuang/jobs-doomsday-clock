@@ -1,5 +1,105 @@
 [
   {
+    "id": "nvidia-says-anthropic-openai-among-users-of-new-vera-chip",
+    "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip",
+    "summary": "Major AI companies adopting Nvidia's new chip signals increased AI capability and infrastructure development, likely boosting productivity and workflow changes across tech and data-driven industries.",
+    "date": "2026-06-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "chip technology"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-s-huang-calls-ai-jobs-concerns-nonsense-",
+    "title": "Nvidia's Huang Calls AI Jobs Concerns 'Nonsense'",
+    "summary": "Nvidia's CEO dismisses AI job concerns, suggesting AI adoption is increasing demand for software engineers.",
+    "date": "2026-06-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-s-huang-calls-ai-jobs-concerns-nonsense-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workforce impact",
+      "industry sentiment"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
+    "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos",
+    "summary": "Anthropic's decision to provide its AI tool Mythos to the EU cybersecurity agency signals increased adoption of advanced AI in critical security operations.",
+    "date": "2026-06-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "cybersecurity",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-for-interoperability-in-health-care-philips-s-carla-goulart-peron",
+    "title": "AI for Interoperability in Health Care: Philips’s Carla Goulart Peron",
+    "summary": "AI is being used to improve healthcare outcomes by enhancing diagnostics and freeing up clinicians, signaling a shift in how AI supports rather than replaces medical professionals.",
+    "date": "2026-06-01",
+    "source": "Apple Podcasts - Me, Myself, and AI",
+    "sourceUrl": "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "healthcare",
+      "ai-adoptions",
+      "productivity"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "healthcare",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/499218be-4f0b-11f1-b37f-0b0591ec3021/image/ae291127f6965432b65f8770e58490c6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4227354569.mp3",
+    "duration": "34 min"
+  },
+  {
     "id": "how-turkey-hacked-the-hair-transplant-industry",
     "title": "How Turkey Hacked the Hair Transplant Industry",
     "summary": "AI and innovation are transforming the hair transplant industry in Turkey, showing how AI can influence specialized sectors beyond traditional tech fields.",
@@ -433,6 +533,30 @@
     ]
   },
   {
+    "id": "openai-s-frontier-governance-framework",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "summary": "OpenAI's governance framework aligns with new regulations, indicating increased regulatory scrutiny that may slow AI adoption in the workplace.",
+    "date": "2026-05-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-frontier-governance-framework",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool",
     "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
     "summary": "Anthropic's release of Opus 4.8 with Dynamic Workflows signals a step forward in AI-driven coordination of complex tasks, potentially increasing productivity and shifting workflows across multiple industries.",
@@ -550,6 +674,56 @@
     "categories": [
       "computer-and-information-technology",
       "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "can-a-i-make-people-feel-less-lonely-",
+    "title": "Can A.I. Make People Feel Less Lonely?",
+    "summary": "AI is being used to address social isolation among older adults, indicating its growing role in healthcare and personal care services.",
+    "date": "2026-05-28",
+    "source": "Apple Podcasts - The Daily",
+    "sourceUrl": "https://www.nytimes.com/the-daily",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "healthcare",
+      "social-isolation",
+      "AI-adoptions"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "healthcare",
+      "personal-care-and-service",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/bebd1cf2-dd84-42af-b690-54c1c435ebb9/3000x3000/28thedaily_applespotify_2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71cbb1e4-cf87-4858-b46c-1f48f779e424/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71cbb1e4-cf87-4858-b46c-1f48f779e424&feed=Sl5CSM3S",
+    "duration": "00:29:04"
+  },
+  {
+    "id": "california-state-agencies-ordered-to-study-the-impact-of-ai-in-employment",
+    "title": "California State Agencies Ordered to Study the Impact of AI in Employment",
+    "summary": "California's order for state agencies to study AI's impact on employment signals increased regulatory scrutiny, potentially slowing AI adoption in the workforce.",
+    "date": "2026-05-28",
+    "source": "Duane Morris LLP",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSl9KdEZNUHY4em4zZElqYjF6d2N2TEg0WjRPWFpwdjVqM2Y0YWN1VVJPVHcyY0c0QnBmMzBjR25keDFaR1Q4aFdTcVdfWkhTMExtbW1HX0plQmRPZ2Nlc1ZJWHpOM2NzSndOVEx3UHo1U3oyT1JBdENIeEktR1g1b3VpdEJRMW1uSlR2THZqVDlYV1BPTjV4Wlp1WEZoVXFhNmVqSXJVbWo?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "workforce"
+    ],
+    "fetchedAt": "2026-06-01T11:01:06.499Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
       "_all"
     ]
   },
