@@ -1,5 +1,151 @@
 [
   {
+    "id": "codex-is-becoming-a-productivity-tool-for-everyone",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "summary": "Codex's expansion as a productivity tool signals AI's growing influence in enhancing work efficiency across multiple industries.",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "tencent-jumps-after-report-it-s-set-to-launch-wechat-ai-agent",
+    "title": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent",
+    "summary": "Tencent's reported development of an AI agent signals growing AI adoption in consumer tech and enterprise applications, potentially influencing productivity and workflow changes.",
+    "date": "2026-06-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/tencent-gains-after-report-it-s-set-to-launch-wechat-ai-agent",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "company innovation"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
+    "title": "MediaTek Pledges Hiring Spree to Boost Push Into New AI Spheres",
+    "summary": "MediaTek's hiring surge signals growing AI adoption in the tech sector, indicating increased demand for AI-related skills and roles.",
+    "date": "2026-06-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "hiring",
+      "AI adoption",
+      "tech industry"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-in-early-talks-to-back-800-million-agile-robots-round",
+    "title": "SoftBank in Early Talks to Back $800 Million Agile Robots Round",
+    "summary": "Major funding for an AI-driven industrial robotics startup signals growing investment in real-world AI applications, potentially increasing automation and productivity in manufacturing and related fields.",
+    "date": "2026-06-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "robotics",
+      "investment",
+      "automation"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "production",
+      "installation-maintenance-and-repair",
+      "construction-and-extraction"
+    ]
+  },
+  {
+    "id": "our-views-on-ai-policy-and-political-advocacy",
+    "title": "Our views on AI policy and political advocacy",
+    "summary": "The company's stance on AI policy and regulation suggests a focus on controlled adoption, which may slow or shape the pace of AI integration in the workplace.",
+    "date": "2026-06-01",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "gemini-s-new-ai-agent-is-about-as-good-as-google-s-demo",
+    "title": "Gemini’s new AI agent is about as good as Google’s demo",
+    "summary": "Google's new AI agent, Gemini Spark, represents a significant step forward in AI-driven task automation and workplace productivity.",
+    "date": "2026-06-01",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "productivity tools",
+      "workplace automation"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "nvidia-says-anthropic-openai-among-users-of-new-vera-chip",
     "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip",
     "summary": "Major AI companies adopting Nvidia's new chip signals increased AI capability and infrastructure development, likely boosting productivity and workflow changes across tech and data-driven industries.",
@@ -98,6 +244,31 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/499218be-4f0b-11f1-b37f-0b0591ec3021/image/ae291127f6965432b65f8770e58490c6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4227354569.mp3",
     "duration": "34 min"
+  },
+  {
+    "id": "uh-partners-on-ai-workforce-readiness-symposium-series",
+    "title": "UH partners on AI workforce readiness symposium series",
+    "summary": "A partnership for an AI workforce readiness symposium series indicates growing efforts to prepare workers for AI-driven changes in the job market.",
+    "date": "2026-06-01",
+    "source": "University of Hawaii System",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemVpVlpjeEstbjc3MVlGeXAySzhFbEl4ZjV5Tk9nTjBZaU5qU1NhYUx2WDFFaks4Z1BkbG9ob0dmcEpEdGVlTnBPVEszdTZOaFRFdF93VzRuUzNCdXFvTWJQUWdJeWh3YUxXMUZ5WXdiakxmb01tdE5UWmpDc0NsVkViYnllZw?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "workforce-development",
+      "education-training",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-06-02T11:01:03.159Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
   },
   {
     "id": "how-turkey-hacked-the-hair-transplant-industry",
@@ -7731,33 +7902,5 @@
       "community-health-workers",
       "school-and-career-counselors"
     ]
-  },
-  {
-    "id": "how-notion-rebuilt-for-the-age-of-ai",
-    "title": "How Notion rebuilt for the age of AI",
-    "summary": "The article discusses how AI is reshaping organizational structures and work processes, suggesting a future where AI becomes a foundational part of the workplace, potentially accelerating job displacement.",
-    "date": "2026-03-04",
-    "source": "Apple Podcasts - Possible",
-    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8484687597.mp3?updated=1772610872",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workplace transformation",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-29T11:01:24.140Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "office-and-administrative-support"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/65a3c7ce-179c-11f1-b828-2bb2d715f8c7/image/a9a6c1f8e9328f12583308bd87aa2f9d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8484687597.mp3?updated=1772610872",
-    "duration": "61 min"
   }
 ]
