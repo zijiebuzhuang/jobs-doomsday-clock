@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:22",
+  "displayTime": "23:57:28",
   "minutesToMidnight": 3,
-  "exactMinutesToMidnight": 2.64,
+  "exactMinutesToMidnight": 2.534,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.36,
+  "newsAdjustment": -10.466,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.817,
+  "macroReplacementRate": 49.825,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,183 +3448,183 @@
   ],
   "newsFeed": [
     {
-      "id": "codex-is-becoming-a-productivity-tool-for-everyone",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "summary": "Codex's expansion as a productivity tool signals AI's growing influence in enhancing work efficiency across multiple industries.",
+      "id": "ai-saves-time-but-most-companies-waste-the-gain-study-shows",
+      "title": "AI Saves Time But Most Companies Waste the Gain, Study Shows",
+      "summary": "A study shows that while AI is widely adopted, its productivity gains are not being fully realized, indicating potential inefficiencies or mismanagement in implementation.",
+      "date": "2026-06-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/ai-saves-time-but-most-companies-waste-the-gain-study-shows",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "productivity",
+        "workflows",
+        "adoption-challenges"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "spain-earmarks-up-to-800m-for-massive-eu-data-center-project",
+      "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
+      "summary": "Spain's investment in an EU AI data center project signals increased infrastructure and adoption of AI capabilities, potentially boosting tech and related industries.",
+      "date": "2026-06-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "infrastructure",
+        "ai-adoption",
+        "eu-policy"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
+      "title": "DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal",
+      "summary": "A major funding round for DeepSeek signals growing AI capability and investment in China's AI industry, potentially increasing competition and adoption of AI technologies.",
+      "date": "2026-06-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "funding",
+        "AI development",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
+      "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+      "summary": "New tools from Microsoft and NVIDIA enable developers to build AI agents on Windows PCs, increasing AI adoption in personal and professional workflows.",
       "date": "2026-06-02",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
+        "workflows",
         "productivity",
-        "workflow automation"
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "tencent-jumps-after-report-it-s-set-to-launch-wechat-ai-agent",
-      "title": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent",
-      "summary": "Tencent's reported development of an AI agent signals growing AI adoption in consumer tech and enterprise applications, potentially influencing productivity and workflow changes.",
-      "date": "2026-06-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/tencent-gains-after-report-it-s-set-to-launch-wechat-ai-agent",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "company innovation"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-      "title": "MediaTek Pledges Hiring Spree to Boost Push Into New AI Spheres",
-      "summary": "MediaTek's hiring surge signals growing AI adoption in the tech sector, indicating increased demand for AI-related skills and roles.",
-      "date": "2026-06-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "hiring",
-        "AI adoption",
-        "tech industry"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "softbank-in-early-talks-to-back-800-million-agile-robots-round",
-      "title": "SoftBank in Early Talks to Back $800 Million Agile Robots Round",
-      "summary": "Major funding for an AI-driven industrial robotics startup signals growing investment in real-world AI applications, potentially increasing automation and productivity in manufacturing and related fields.",
-      "date": "2026-06-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "robotics",
-        "investment",
-        "automation"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "production",
-        "installation-maintenance-and-repair",
-        "construction-and-extraction"
-      ]
-    },
-    {
-      "id": "our-views-on-ai-policy-and-political-advocacy",
-      "title": "Our views on AI policy and political advocacy",
-      "summary": "The company's stance on AI policy and regulation suggests a focus on controlled adoption, which may slow or shape the pace of AI integration in the workplace.",
-      "date": "2026-06-01",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "AI safety"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "gemini-s-new-ai-agent-is-about-as-good-as-google-s-demo",
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "summary": "Google's new AI agent, Gemini Spark, represents a significant step forward in AI-driven task automation and workplace productivity.",
-      "date": "2026-06-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI agents",
-        "productivity tools",
-        "workplace automation"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "uh-partners-on-ai-workforce-readiness-symposium-series",
-      "title": "UH partners on AI workforce readiness symposium series",
-      "summary": "A partnership for an AI workforce readiness symposium series indicates growing efforts to prepare workers for AI-driven changes in the job market.",
-      "date": "2026-06-01",
-      "source": "University of Hawaii System",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemVpVlpjeEstbjc3MVlGeXAySzhFbEl4ZjV5Tk9nTjBZaU5qU1NhYUx2WDFFaks4Z1BkbG9ob0dmcEpEdGVlTnBPVEszdTZOaFRFdF93VzRuUzNCdXFvTWJQUWdJeWh3YUxXMUZ5WXdiakxmb01tdE5UWmpDc0NsVkViYnllZw?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "workforce-development",
-        "education-training",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-06-02T11:01:03.159Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
-        "business-and-financial",
         "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/ai-hardware-768x432.png"
+    },
+    {
+      "id": "travelers-deploys-ai-powered-claims-countrywide-with-openai",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "summary": "Travelers is adopting AI to enhance customer support and operational efficiency in claims processing, signaling increased AI integration in insurance workflows.",
+      "date": "2026-06-02",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/travelers",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "customer support",
+        "insurance industry",
+        "workforce automation"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "business-and-financial",
+        "office-and-administrative-support",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "eu-s-ai-data-center-plans-stumble-due-to-delays-funding",
+      "title": "EU’s AI Data Center Plans Stumble Due to Delays, Funding",
+      "summary": "Delays and funding issues in the EU's AI data center plan may slow the adoption of AI infrastructure and its impact on workforce technologies.",
+      "date": "2026-06-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "infrastructure",
+        "regulation",
+        "adoption"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-launches-new-codex-tools-for-white-collar-work",
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "summary": "OpenAI's new Codex tools for white-collar work signal increased AI adoption in professional and business roles, potentially altering workflows and skill requirements.",
+      "date": "2026-06-02",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workflows",
+        "productivity",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-06-03T11:00:49.236Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "management"
       ]
     }
   ],
-  "generatedAt": "2026-06-02T12:00:00.000Z",
+  "generatedAt": "2026-06-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Shape Workforce Dynamics",
-      "preview": "Positive AI developments dominate, with few regulatory delays.",
-      "body": "Multiple advances in AI tools and investments suggest growing integration into productivity and industry workflows. While one policy statement introduces a minor delay, the overall trend remains focused on expansion and adoption. Notable headlines include Codex's productivity push and Tencent's AI agent development."
+      "title": "AI Adoption Advances Despite Implementation Challenges",
+      "preview": "Positive momentum in AI infrastructure and tools, but efficiency gaps persist.",
+      "body": "Recent news highlights both progress and hurdles in AI adoption. Spain's €800M data center investment and DeepSeek's $7B funding reflect strong forward momentum. However, a study shows that many companies are not fully leveraging AI's productivity gains, indicating potential inefficiencies. Overall, the balance of signals suggests continued growth with lingering implementation challenges."
     }
   }
 }
