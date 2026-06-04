@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-06-04",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 2.405,
+    "macroReplacementRate": 49.834,
+    "newsAdjustment": -10.595,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "china-s-robotaxi-dilemma-shows-ai-policy-tension-between-growth-and-jobs",
+        "title": "China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs",
+        "summary": "China's robotaxi development highlights the tension between AI advancement and job market concerns, indicating regulatory and labor challenges may slow adoption.",
+        "date": "2026-06-04",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-04/china-s-robotaxi-dilemma-how-to-lead-in-ai-without-fueling-unemployment",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI policy",
+          "workplace impact",
+          "regulation"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "transportation-and-material-moving",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "thailand-s-richest-man-plans-4-3-billion-expansion-amid-ai-boom",
+        "title": "Thailand’s Richest Man Plans $4.3 Billion Expansion Amid AI Boom",
+        "summary": "A major investment in AI infrastructure by Thailand's richest man signals growing adoption of AI technologies and increased demand for related skills and jobs.",
+        "date": "2026-06-04",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/thailand-s-richest-man-plans-4-3-billion-expansion-amid-ai-boom",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
+        "title": "US Tech Sector Announces Most Job Cuts in Nearly Two Years",
+        "summary": "Major job cuts in the US tech sector signal increased AI investment and shifting workforce demands.",
+        "date": "2026-06-04",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-04/us-tech-sector-announces-most-job-cuts-in-nearly-two-years",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce changes",
+          "tech industry"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "broadcom-ai-chip-outlook-disappoints-investors",
+        "title": "Broadcom AI Chip Outlook Disappoints Investors",
+        "summary": "A disappointing AI chip revenue forecast from Broadcom suggests potential challenges in AI adoption or demand, which could slow progress in AI-driven workplace transformations.",
+        "date": "2026-06-04",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-04/broadcom-ai-chip-outlook-disappoints-investors-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI chips",
+          "market performance",
+          "adoption delay"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "how-trump-was-persuaded-to-regulate-a-i-",
+        "title": "How Trump Was Persuaded to Regulate A.I.",
+        "summary": "President Trump's executive order introduces new regulatory oversight for AI, potentially slowing its adoption and affecting how companies develop and release AI models.",
+        "date": "2026-06-04",
+        "source": "Apple Podcasts - The Daily",
+        "sourceUrl": "https://www.nytimes.com/the-daily",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/0936526b-6410-4021-8c16-3c66c713dde9/3000x3000/04thedaily_applespotify_4.jpg?aid=rss_feed",
+        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/30130dc1-c7e2-425e-a395-0af04b04871b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=30130dc1-c7e2-425e-a395-0af04b04871b&feed=Sl5CSM3S",
+        "duration": "00:34:14"
+      },
+      {
+        "id": "as-ai-gets-better-it-reveals-an-empty-promise",
+        "title": "As AI gets better, it reveals an empty promise",
+        "summary": "Google's Gemini AI agent demonstrates advanced capabilities that highlight the growing pressure on workplaces to adapt to AI-driven productivity tools.",
+        "date": "2026-06-03",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "workplace impact"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11503853/mdoying_180419_1777_0454_2.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says",
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "summary": "A multiyear deal between Lovable and Google Cloud signals increased AI adoption and integration, likely boosting productivity and cloud infrastructure usage across industries.",
+        "date": "2026-06-03",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "cloud computing",
+          "enterprise adoption",
+          "AI infrastructure"
+        ],
+        "fetchedAt": "2026-06-04T11:01:06.440Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Thailand’s Richest Man Plans $4.3 Billion Expansion Amid AI Boom\" (Bloomberg Technology), while the clearest drag comes from \"China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.595 minutes. Updated 2026-06-04T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-03",
     "minutesToMidnight": 3,
     "exactMinutesToMidnight": 2.534,
@@ -11911,47 +12125,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-06T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-05",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.9,
-    "macroReplacementRate": 49.107,
-    "newsAdjustment": -0.1,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": -0.028,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": -0.028,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": -0.028,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-05T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
