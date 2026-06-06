@@ -1,5 +1,54 @@
 [
   {
+    "id": "this-is-your-laptop-on-ai",
+    "title": "This is your laptop… on AI",
+    "summary": "New AI-powered laptop concepts from Big Tech signal a shift in how work tools are designed and used, potentially affecting productivity and workflows across industries.",
+    "date": "2026-06-05",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace tools",
+      "tech innovation"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
+    "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
+    "summary": "Concerns about energy capacity may limit AI adoption across economic sectors, slowing its integration into workplaces.",
+    "date": "2026-06-05",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "infrastructure",
+      "adoption"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "chatbots-are-trying-to-replace-the-work-of-financial-advisers",
     "title": "Chatbots Are Trying to Replace the Work of Financial Advisers",
     "summary": "AI-powered chatbots are increasingly being used to replace tasks traditionally performed by financial advisers, signaling a shift in the financial services industry.",
@@ -271,6 +320,54 @@
     "duration": "00:34:14"
   },
   {
+    "id": "openai-public-policy-agenda",
+    "title": "OpenAI public policy agenda",
+    "summary": "OpenAI's public policy agenda highlights regulatory and ethical considerations that may shape the pace and direction of AI adoption in the workforce.",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/public-policy-agenda",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "a-blueprint-for-democratic-governance-of-frontier-ai",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "summary": "A proposed federal framework for governing frontier AI could shape how AI is adopted and regulated in the workplace.",
+    "date": "2026-06-03",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/frontier-safety-blueprint",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "AI governance"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "as-ai-gets-better-it-reveals-an-empty-promise",
     "title": "As AI gets better, it reveals an empty promise",
     "summary": "Google's Gemini AI agent demonstrates advanced capabilities that highlight the growing pressure on workplaces to adapt to AI-driven productivity tools.",
@@ -410,6 +507,30 @@
     "categories": [
       "computer-and-information-technology",
       "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "advancing-youth-safety-and-opportunity-through-global-leadership",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "summary": "OpenAI's call for a global youth AI safety institute signals increased regulatory focus on AI ethics, potentially slowing adoption and shaping workforce development in AI-related fields.",
+    "date": "2026-06-02",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
       "_all"
     ]
   },
@@ -608,6 +729,54 @@
       "production",
       "installation-maintenance-and-repair",
       "construction-and-extraction"
+    ]
+  },
+  {
+    "id": "building-the-infrastructure-for-the-intelligence-age-in-michigan",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "summary": "OpenAI's new data center in Michigan signals increased AI infrastructure investment, likely boosting tech and related industries with new jobs and capabilities.",
+    "date": "2026-06-01",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "job creation",
+      "data center"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "construction-and-extraction",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-frontier-models-and-codex-are-now-available-on-aws",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "summary": "Enterprises can now more easily adopt OpenAI models and Codex through AWS, accelerating AI integration into business workflows.",
+    "date": "2026-06-01",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "tooling",
+      "cloud-infrastructure"
+    ],
+    "fetchedAt": "2026-06-06T11:00:47.828Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
     ]
   },
   {
@@ -8385,36 +8554,6 @@
       "software-developers",
       "database-administrators",
       "computer-support-specialists"
-    ]
-  },
-  {
-    "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
-    "title": "Anthropic finally reveals which jobs AI cannot replace - thestreet.com",
-    "summary": "The article highlights jobs that AI cannot replace, suggesting limitations in AI's ability to take over certain roles.",
-    "date": "2026-03-08",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXZuMFBoQnNjblhlenQ3c0pqN3FuSzZrNlpfcVN0YkN5TTJGOGEwRGoycWVCLWJSSHhWYTlaWWwySmJLSjhRNHVpR042a3lUa1l2a0twYThTN1QtVkNnZTdYaEZXNlpjVi1qTFplRENKYzYtZGloZDBsT0xpMmR0amxBVXNFWURCQk52blRmd1BHdw?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI limitations",
-      "job replacement"
-    ],
-    "fetchedAt": "2026-04-03T02:06:11.218Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 58,
-    "categories": [
-      "personal-care-and-service",
-      "education-training-and-library",
-      "community-and-social-service"
-    ],
-    "occupationIDs": [
-      "social-workers",
-      "rehabilitation-counselors",
-      "probation-officers-and-correctional-treatment-specialists",
-      "community-health-workers",
-      "school-and-career-counselors"
     ]
   }
 ]

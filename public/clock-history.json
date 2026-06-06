@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-06-06",
+    "minutesToMidnight": 3,
+    "exactMinutesToMidnight": 2.617,
+    "macroReplacementRate": 49.819,
+    "newsAdjustment": -10.383,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "this-is-your-laptop-on-ai",
+        "title": "This is your laptop… on AI",
+        "summary": "New AI-powered laptop concepts from Big Tech signal a shift in how work tools are designed and used, potentially affecting productivity and workflows across industries.",
+        "date": "2026-06-05",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace tools",
+          "tech innovation"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
+        "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
+        "summary": "Concerns about energy capacity may limit AI adoption across economic sectors, slowing its integration into workplaces.",
+        "date": "2026-06-05",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "infrastructure",
+          "adoption"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-public-policy-agenda",
+        "title": "OpenAI public policy agenda",
+        "summary": "OpenAI's public policy agenda highlights regulatory and ethical considerations that may shape the pace and direction of AI adoption in the workforce.",
+        "date": "2026-06-03",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/public-policy-agenda",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "workforce"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "a-blueprint-for-democratic-governance-of-frontier-ai",
+        "title": "A blueprint for democratic governance of frontier AI",
+        "summary": "A proposed federal framework for governing frontier AI could shape how AI is adopted and regulated in the workplace.",
+        "date": "2026-06-03",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/frontier-safety-blueprint",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "AI governance"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "advancing-youth-safety-and-opportunity-through-global-leadership",
+        "title": "Advancing youth safety and opportunity through global leadership",
+        "summary": "OpenAI's call for a global youth AI safety institute signals increased regulatory focus on AI ethics, potentially slowing adoption and shaping workforce development in AI-related fields.",
+        "date": "2026-06-02",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ]
+      },
+      {
+        "id": "building-the-infrastructure-for-the-intelligence-age-in-michigan",
+        "title": "Building the infrastructure for the Intelligence Age in Michigan",
+        "summary": "OpenAI's new data center in Michigan signals increased AI infrastructure investment, likely boosting tech and related industries with new jobs and capabilities.",
+        "date": "2026-06-01",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "job creation",
+          "data center"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "construction-and-extraction",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-frontier-models-and-codex-are-now-available-on-aws",
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "summary": "Enterprises can now more easily adopt OpenAI models and Codex through AWS, accelerating AI integration into business workflows.",
+        "date": "2026-06-01",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "tooling",
+          "cloud-infrastructure"
+        ],
+        "fetchedAt": "2026-06-06T11:00:47.828Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by This is your laptop… on AI.",
+        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"This is your laptop… on AI\" (The Verge - AI), while the clearest drag comes from \"OpenAI public policy agenda\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.383 minutes. Updated 2026-06-06T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-05",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 2.353,
@@ -12256,47 +12467,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-08T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-07",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.901,
-    "macroReplacementRate": 49.107,
-    "newsAdjustment": -0.099,
-    "categoryAdjustments": {
-      "healthcare": 0,
-      "life-physical-and-social-science": 0,
-      "architecture-and-engineering": 0,
-      "management": -0.028,
-      "business-and-financial": 0,
-      "construction-and-extraction": 0,
-      "production": 0,
-      "installation-maintenance-and-repair": 0,
-      "education-training-and-library": 0,
-      "office-and-administrative-support": -0.028,
-      "transportation-and-material-moving": 0,
-      "personal-care-and-service": 0,
-      "sales": 0,
-      "media-and-communication": 0,
-      "computer-and-information-technology": -0.028,
-      "community-and-social-service": 0,
-      "arts-and-design": 0,
-      "entertainment-and-sports": 0,
-      "protective-service": 0,
-      "food-preparation-and-serving": 0,
-      "legal": 0,
-      "math": 0,
-      "farming-fishing-and-forestry": 0,
-      "building-and-grounds-cleaning": 0
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-07T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
