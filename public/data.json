@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:23",
-  "minutesToMidnight": 3,
-  "exactMinutesToMidnight": 2.617,
+  "displayTime": "23:57:36",
+  "minutesToMidnight": 2,
+  "exactMinutesToMidnight": 2.407,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.383,
+  "newsAdjustment": -10.593,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.819,
+  "macroReplacementRate": 49.833,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,45 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "this-is-your-laptop-on-ai",
-      "title": "This is your laptop… on AI",
-      "summary": "New AI-powered laptop concepts from Big Tech signal a shift in how work tools are designed and used, potentially affecting productivity and workflows across industries.",
-      "date": "2026-06-05",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "id": "skorea-s-lee-nominates-tech-guru-han-as-pm-to-lead-ai-growth",
+      "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+      "summary": "South Korea's appointment of a tech industry veteran as prime minister signals increased focus on AI development and its integration into national strategy.",
+      "date": "2026-06-07",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workplace tools",
-        "tech innovation"
+        "government-policy",
+        "AI-adoption",
+        "leadership"
       ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
-      "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
-      "summary": "Concerns about energy capacity may limit AI adoption across economic sectors, slowing its integration into workplaces.",
-      "date": "2026-06-05",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "infrastructure",
-        "adoption"
-      ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3497,23 +3472,72 @@
       ]
     },
     {
-      "id": "openai-public-policy-agenda",
-      "title": "OpenAI public policy agenda",
-      "summary": "OpenAI's public policy agenda highlights regulatory and ethical considerations that may shape the pace and direction of AI adoption in the workforce.",
-      "date": "2026-06-03",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/public-policy-agenda",
-      "effect": "delay",
-      "impactScore": 4,
+      "id": "uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+      "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
+      "summary": "The UK's plan to buy AI chips from domestic tech firms could boost the local AI industry and influence the development of AI-driven technologies in various sectors.",
+      "date": "2026-06-07",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "government-policy",
+        "ai-chips",
+        "industry-adoption"
+      ],
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-made-its-own-ai-generated-clickbait-news-feed",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "summary": "Meta's use of AI to generate clickbait content signals growing adoption of AI in media and content curation, potentially affecting jobs in media and communication.",
+      "date": "2026-06-06",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI content generation",
+        "media and communication",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "media-and-communication",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "trump-signals-interest-in-us-owning-stakes-in-top-ai-labs",
+      "title": "Trump Signals Interest in US Owning Stakes in Top AI Labs",
+      "summary": "U.S. government interest in owning stakes in AI labs could influence the direction and pace of AI development and its integration into the workforce.",
+      "date": "2026-06-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
         "policy",
-        "regulation",
-        "workforce"
+        "government",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3521,108 +3545,82 @@
       ]
     },
     {
-      "id": "a-blueprint-for-democratic-governance-of-frontier-ai",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "summary": "A proposed federal framework for governing frontier AI could shape how AI is adopted and regulated in the workplace.",
-      "date": "2026-06-03",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
+      "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
+      "summary": "The departure of a key AI policy adviser may signal shifts in the pace or direction of AI regulation and implementation in the U.S. government.",
+      "date": "2026-06-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "policy",
         "regulation",
-        "AI governance"
+        "government"
       ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "advancing-youth-safety-and-opportunity-through-global-leadership",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "summary": "OpenAI's call for a global youth AI safety institute signals increased regulatory focus on AI ethics, potentially slowing adoption and shaping workforce development in AI-related fields.",
-      "date": "2026-06-02",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "id": "grindr-growing-from-just-dating-app-to-politics-ai",
+      "title": "Grindr Growing From Just Dating App to Politics, AI",
+      "summary": "Grindr is integrating AI into its dating platform, signaling broader adoption of AI in consumer tech and safety tools.",
+      "date": "2026-06-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/grindr-growing-from-just-dating-app-to-politics-ai-video",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "consumer tech",
+        "safety tools"
+      ],
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "media-and-communication",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-trump-administration-might-take-an-equity-stake-in-openai",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "A potential equity stake by the Trump administration in OpenAI could introduce regulatory or political constraints on AI development and adoption.",
+      "date": "2026-06-06",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
+        "policy",
         "regulation",
-        "safety",
-        "policy"
+        "enterprise"
       ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "education-training-and-library",
-        "_all"
-      ]
-    },
-    {
-      "id": "building-the-infrastructure-for-the-intelligence-age-in-michigan",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "summary": "OpenAI's new data center in Michigan signals increased AI infrastructure investment, likely boosting tech and related industries with new jobs and capabilities.",
-      "date": "2026-06-01",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "job creation",
-        "data center"
-      ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "construction-and-extraction",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-frontier-models-and-codex-are-now-available-on-aws",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "summary": "Enterprises can now more easily adopt OpenAI models and Codex through AWS, accelerating AI integration into business workflows.",
-      "date": "2026-06-01",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "tooling",
-        "cloud-infrastructure"
-      ],
-      "fetchedAt": "2026-06-06T11:00:47.828Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
+        "management",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-06T12:00:00.000Z",
+  "generatedAt": "2026-06-07T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption faces mixed signals amid infrastructure and regulation",
-      "preview": "Advances in AI tools and infrastructure contrast with regulatory concerns.",
-      "body": "Recent news highlights both progress and caution in AI integration. New AI-powered laptops and cloud access through AWS suggest growing adoption, while OpenAI's policy focus and energy capacity concerns indicate potential slowdowns. The overall trend remains balanced but cautious."
+      "title": "AI Policy Shifts and Industry Moves Signal Mixed Momentum",
+      "preview": "New policies and corporate moves show both progress and uncertainty in AI development.",
+      "body": "Recent developments, including South Korea's AI-focused PM appointment and the UK's domestic chip strategy, indicate growing government support for AI. However, leadership changes and potential regulatory interventions suggest possible slowdowns. Overall, the mix of advances and delays reflects a complex and evolving landscape."
     }
   }
 }
