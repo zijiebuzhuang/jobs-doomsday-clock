@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:36",
-  "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.407,
+  "displayTime": "23:57:25",
+  "minutesToMidnight": 3,
+  "exactMinutesToMidnight": 2.591,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.593,
+  "newsAdjustment": -10.409,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.833,
+  "macroReplacementRate": 49.821,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,21 +3448,69 @@
   ],
   "newsFeed": [
     {
-      "id": "skorea-s-lee-nominates-tech-guru-han-as-pm-to-lead-ai-growth",
-      "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
-      "summary": "South Korea's appointment of a tech industry veteran as prime minister signals increased focus on AI development and its integration into national strategy.",
-      "date": "2026-06-07",
+      "id": "hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era",
+      "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
+      "summary": "HSBC CEO emphasizes the continued need for human judgment in AI-driven banking, suggesting that AI adoption will not fully replace jobs but may reshape them.",
+      "date": "2026-06-08",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "government-policy",
+        "human-in-the-loop",
         "AI-adoption",
-        "leadership"
+        "workforce-impact"
       ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
       "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "management",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
+      "title": "HSBC CEO Says ‘Human Judgment’ Is Vital Even as AI Introduced",
+      "summary": "HSBC CEO emphasizes the continued importance of human judgment in banking despite AI adoption, signaling a cautious approach to AI integration in the financial sector.",
+      "date": "2026-06-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI in finance",
+        "human oversight",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-is-still-working-on-that-super-app-",
+      "title": "OpenAI is still working on that ‘super app’",
+      "summary": "The idea that 'chat is dead' suggests a shift in AI interaction models, potentially impacting how AI tools are used in workflows and productivity.",
+      "date": "2026-06-07",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workflow change",
+        "tool evolution"
+      ],
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3472,21 +3520,96 @@
       ]
     },
     {
-      "id": "uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-      "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
-      "summary": "The UK's plan to buy AI chips from domestic tech firms could boost the local AI industry and influence the development of AI-driven technologies in various sectors.",
-      "date": "2026-06-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
+      "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "summary": "A White House AI advisor leaving to shape Trump's AI policy may indicate shifting regulatory priorities that could influence the pace and direction of AI adoption in the workforce.",
+      "date": "2026-06-06",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "leadership"
+      ],
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "legal",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "Lockdown Mode aims to improve AI security, potentially slowing adoption due to increased safeguards for sensitive data.",
+      "date": "2026-06-06",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "regulation",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "hot-i-p-o-summer-what-is-a-i-doing-to-math-hatgpt",
+      "title": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
+      "summary": "The race to public markets by AI companies and concerns about AI's impact on math highlight growing industry adoption and academic scrutiny of AI's role in professional fields.",
+      "date": "2026-06-05",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "industry regulation",
+        "workplace impact"
+      ],
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "math"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/251f62fd-3b1d-4f8b-a5b0-0966414c7f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=251f62fd-3b1d-4f8b-a5b0-0966414c7f74&feed=6HKOhNgS",
+      "duration": "01:04:20"
+    },
+    {
+      "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "summary": "An event focused on AI and defense technology highlights growing interest in AI's role in advanced industries and venture capital, signaling increased adoption and investment.",
+      "date": "2026-06-04",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "government-policy",
-        "ai-chips",
-        "industry-adoption"
+        "AI adoption",
+        "venture capital",
+        "defense technology"
       ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3494,133 +3617,14 @@
         "architecture-and-engineering",
         "_all"
       ]
-    },
-    {
-      "id": "meta-made-its-own-ai-generated-clickbait-news-feed",
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "summary": "Meta's use of AI to generate clickbait content signals growing adoption of AI in media and content curation, potentially affecting jobs in media and communication.",
-      "date": "2026-06-06",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI content generation",
-        "media and communication",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "trump-signals-interest-in-us-owning-stakes-in-top-ai-labs",
-      "title": "Trump Signals Interest in US Owning Stakes in Top AI Labs",
-      "summary": "U.S. government interest in owning stakes in AI labs could influence the direction and pace of AI development and its integration into the workforce.",
-      "date": "2026-06-06",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "government",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
-      "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-      "summary": "The departure of a key AI policy adviser may signal shifts in the pace or direction of AI regulation and implementation in the U.S. government.",
-      "date": "2026-06-06",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "government"
-      ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "grindr-growing-from-just-dating-app-to-politics-ai",
-      "title": "Grindr Growing From Just Dating App to Politics, AI",
-      "summary": "Grindr is integrating AI into its dating platform, signaling broader adoption of AI in consumer tech and safety tools.",
-      "date": "2026-06-06",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/grindr-growing-from-just-dating-app-to-politics-ai-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "consumer tech",
-        "safety tools"
-      ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "media-and-communication",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-trump-administration-might-take-an-equity-stake-in-openai",
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "summary": "A potential equity stake by the Trump administration in OpenAI could introduce regulatory or political constraints on AI development and adoption.",
-      "date": "2026-06-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "enterprise"
-      ],
-      "fetchedAt": "2026-06-07T11:00:42.788Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-06-07T12:00:00.000Z",
+  "generatedAt": "2026-06-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Policy Shifts and Industry Moves Signal Mixed Momentum",
-      "preview": "New policies and corporate moves show both progress and uncertainty in AI development.",
-      "body": "Recent developments, including South Korea's AI-focused PM appointment and the UK's domestic chip strategy, indicate growing government support for AI. However, leadership changes and potential regulatory interventions suggest possible slowdowns. Overall, the mix of advances and delays reflects a complex and evolving landscape."
+      "title": "HSBC Emphasizes Human Role in AI-Driven Banking",
+      "preview": "Human judgment remains critical despite AI advances, per HSBC.",
+      "body": "Two Bloomberg reports highlight HSBC's focus on human oversight in AI, suggesting a delay in full job replacement. Meanwhile, OpenAI's 'super app' and AI IPOs signal ongoing innovation. Overall, the mix shows cautious adoption with some technical advancements."
     }
   }
 }

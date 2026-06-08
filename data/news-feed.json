@@ -1,5 +1,77 @@
 [
   {
+    "id": "hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era",
+    "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
+    "summary": "HSBC CEO emphasizes the continued need for human judgment in AI-driven banking, suggesting that AI adoption will not fully replace jobs but may reshape them.",
+    "date": "2026-06-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "human-in-the-loop",
+      "AI-adoption",
+      "workforce-impact"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "management",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
+    "title": "HSBC CEO Says ‘Human Judgment’ Is Vital Even as AI Introduced",
+    "summary": "HSBC CEO emphasizes the continued importance of human judgment in banking despite AI adoption, signaling a cautious approach to AI integration in the financial sector.",
+    "date": "2026-06-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI in finance",
+      "human oversight",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-is-still-working-on-that-super-app-",
+    "title": "OpenAI is still working on that ‘super app’",
+    "summary": "The idea that 'chat is dead' suggests a shift in AI interaction models, potentially impacting how AI tools are used in workflows and productivity.",
+    "date": "2026-06-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workflow change",
+      "tool evolution"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "skorea-s-lee-nominates-tech-guru-han-as-pm-to-lead-ai-growth",
     "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
     "summary": "South Korea's appointment of a tech industry veteran as prime minister signals increased focus on AI development and its integration into national strategy.",
@@ -71,6 +143,53 @@
       "_all"
     ],
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "summary": "A White House AI advisor leaving to shape Trump's AI policy may indicate shifting regulatory priorities that could influence the pace and direction of AI adoption in the workforce.",
+    "date": "2026-06-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "leadership"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "legal",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "summary": "Lockdown Mode aims to improve AI security, potentially slowing adoption due to increased safeguards for sensitive data.",
+    "date": "2026-06-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
   },
   {
     "id": "trump-signals-interest-in-us-owning-stakes-in-top-ai-labs",
@@ -310,6 +429,34 @@
     ]
   },
   {
+    "id": "hot-i-p-o-summer-what-is-a-i-doing-to-math-hatgpt",
+    "title": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
+    "summary": "The race to public markets by AI companies and concerns about AI's impact on math highlight growing industry adoption and academic scrutiny of AI's role in professional fields.",
+    "date": "2026-06-05",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "industry regulation",
+      "workplace impact"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "math"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/251f62fd-3b1d-4f8b-a5b0-0966414c7f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=251f62fd-3b1d-4f8b-a5b0-0966414c7f74&feed=6HKOhNgS",
+    "duration": "01:04:20"
+  },
+  {
     "id": "ai-leaders-call-for-tougher-protections-against-ai-aided-bioweapons",
     "title": "AI leaders call for tougher protections against AI-aided bioweapons",
     "summary": "AI leaders are pushing for stronger regulations to prevent misuse of AI in bioweapons, which could slow the adoption of certain AI technologies in research and development sectors.",
@@ -333,6 +480,30 @@
       "_all"
     ],
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/acastro_200512_1777_faceMask_0001.0.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "summary": "An event focused on AI and defense technology highlights growing interest in AI's role in advanced industries and venture capital, signaling increased adoption and investment.",
+    "date": "2026-06-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "venture capital",
+      "defense technology"
+    ],
+    "fetchedAt": "2026-06-08T11:00:51.198Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
   },
   {
     "id": "china-s-robotaxi-dilemma-shows-ai-policy-tension-between-growth-and-jobs",
@@ -8639,57 +8810,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/1683311e-1dcf-11f1-b1e2-fbd9c92e8464/image/83eeae17eff1385214d8eec14ad36611.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://traffic.megaphone.fm/PDP4039354704.mp3",
     "duration": "29 min"
-  },
-  {
-    "id": "an-industry-benchmark-for-data-fairness-sony-s-alice-xiang",
-    "title": "An Industry Benchmark for Data Fairness: Sony’s Alice Xiang",
-    "summary": "The focus on AI ethics and governance suggests a more cautious approach to AI implementation, which may slow its impact on job replacement.",
-    "date": "2026-03-10",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/an-industry-benchmark-for-data-fairness-sonys-alice-xiang",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "responsible AI",
-      "governance"
-    ],
-    "fetchedAt": "2026-04-29T11:01:22.992Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/92152620-0da8-11f1-96ba-3bd89207e3c8/image/38fe14e8a7847038fc93b6853c955121.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO1586791229.mp3?updated=1771516454",
-    "duration": "34 min"
-  },
-  {
-    "id": "anthropic-identifies-the-jobs-most-exposed-to-ai-risks-is-your-occupation-affect",
-    "title": "Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected? - Investopedia",
-    "summary": "The article highlights AI's potential to disrupt specific job categories, increasing awareness of AI's impact on employment.",
-    "date": "2026-03-10",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWpJZ0tROEtLVzZ0V0EtUTBuV2ZwY1otMnV4RjlYd2xTZmtnTHBfTkhoc1dZOUFjOF9fNDhZd1pXNTAxNUYtZF9Eb3F5Tm5XcEp2SHJkcmdPT2ZmdUcxNUQ5UkxlbFBJMUk4SmlxZzF1NS15eUdRdzJiWG12a0tTX1ZFQlQ4ZmdraWpXWG1LWWhOOXlvTFNVeGdLV0p6YWQ5dklMS1dNOUhfNkJpNWJucVRkRFBqaUE?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI impact",
-      "job displacement",
-      "labor market"
-    ],
-    "fetchedAt": "2026-04-17T11:00:43.796Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "business-and-financial"
-    ]
   }
 ]
