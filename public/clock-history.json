@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-06-09",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 2.419,
+    "macroReplacementRate": 49.833,
+    "newsAdjustment": -10.581,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
+        "date": "2026-06-09",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "leadership strategy"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "management",
+          "computer-and-information-technology",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "anthropic-calls-mythos-dangerous-why-is-it-expanding-access-",
+        "title": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?",
+        "summary": "Anthropic's decision to restrict access to its powerful AI tool Mythos highlights growing concerns about AI safety and security, potentially slowing broader adoption in the workforce.",
+        "date": "2026-06-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-calls-mythos-dangerous-why-is-it-expanding-access",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "security"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "paytm-plans-10-staff-boost-in-ai-pivot-with-some-roles-cut",
+        "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
+        "summary": "Paytm's AI-focused hiring expansion signals growing adoption of AI in fintech and related industries, increasing demand for tech and business roles.",
+        "date": "2026-06-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "hiring trends",
+          "fintech"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "management"
+        ]
+      },
+      {
+        "id": "ai-job-losses-the-scramble-for-answers-in-america",
+        "title": "AI job losses, the scramble for answers in America",
+        "summary": "The article highlights growing concerns about AI job losses in America, signaling increased pressure on the workforce and potential shifts in hiring and skills requirements.",
+        "date": "2026-06-09",
+        "source": "The Straits Times",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9UOXNaSkNzZE11OGQxbFd5cFUxcXZzR0pSRkcyMElIM3M5NU4tNUJKY2d3SG5TaXRDMlZyYTlDM0U2STMwOEVva0JaTFJtSy1PUWU0Z2pvQWgwckx0bUhaU3RVWkZFQ0tKVmR2VkJUbm1iODV4T0VzUFdaMldPRU9iaUhwOXRnT012ZUxzLVVaZ2NOaEFnajBwbw?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "job displacement",
+          "workforce impact",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "notebooklm-s-gemini-3-5-upgrade-adds-a-cloud-computer-and-help-finding-sources",
+        "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+        "summary": "Google's upgrade to NotebookLM with Gemini 3.5 enhances AI-powered research and note-taking, improving productivity and workflow for knowledge workers.",
+        "date": "2026-06-08",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "education-training-and-library"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "ed-zitron-unfiltered-on-openai-anthropic-why-the-whole-thing-is-a-con",
+        "title": "Ed Zitron Unfiltered on OpenAI, Anthropic & Why the Whole Thing Is a Con",
+        "summary": "The article raises concerns about the transparency and value of AI products, potentially influencing enterprise adoption and investment in AI technologies.",
+        "date": "2026-06-08",
+        "source": "Apple Podcasts - Newcomer Pod",
+        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Ed-Zitron-Unfiltered-on-OpenAI--Anthropic--Why-the-Whole-Thing-Is-a-Con-e3kgjho",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "enterprise adoption",
+          "regulation"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1780932885334-55bbf7f2f8a03.jpg",
+        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/121179128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2F425746312-44100-2-1dd6664715bf3.mp3",
+        "duration": "00:58:05"
+      },
+      {
+        "id": "california-lays-the-groundwork-for-more-sweeping-ai-workforce-regulation-employe",
+        "title": "California Lays the Groundwork for More Sweeping AI Workforce Regulation—Employers Should Start Preparing Now",
+        "summary": "California's new AI workforce regulations signal increased oversight, which may slow or shape AI adoption in the workplace.",
+        "date": "2026-06-08",
+        "source": "The National Law Review",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVJNFo4YmJlcmdlWG9oRnZQMDZFcGpLUUZ4M1RjRXc1aWdpVjhYMm9kQldkdnJ5dWVKaHYwTjBQMmVPN2kxSkN6Qk0tYk05U0VxbUVFNGhLS1NZSUgwMVdsdUZDUjB6TUdVRzJkZzJRbzQ4NDFGY25oSTdISE5LOTFfbWpjX3ZmMHI3MDcyZkNjb3djTFk3MzBQREd1Wk9OZ1NCUnpmMWt6NVFlTHZfZko1T3jSAboBQVVfeXFMUHNucXdMSlVDUkxDeUllQUZkTlpWeTA3UXBHbE1JT0diMFpGcDRDcTBtU2FGOFBBSXBOUExQNVUzd01wYTNweWE1LUljME5wemJWYU5ReE13dDVTWEI4UkJxN1JycnFzZTlhZXBVdGhTV1pkUEFEQWNBdHAyR2EwQ0hkSllJWVd2ZEc2RGVNMU5vcUxsV05xQkxBQWVXcGV1SEN5NFpON25EcVFOYVVycFJaRE82VW1JbjlR?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "workforce"
+        ],
+        "fetchedAt": "2026-06-09T11:00:51.759Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Learning to lead in a hybrid human-AI enterprise.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Learning to lead in a hybrid human-AI enterprise\" (MIT Tech Review), while the clearest drag comes from \"Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.581 minutes. Updated 2026-06-09T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-08",
     "minutesToMidnight": 3,
     "exactMinutesToMidnight": 2.591,
@@ -12766,47 +12980,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-11T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-10",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.855,
-    "macroReplacementRate": 49.11,
-    "newsAdjustment": -0.145,
-    "categoryAdjustments": {
-      "healthcare": 0.009,
-      "life-physical-and-social-science": 0.009,
-      "architecture-and-engineering": 0.009,
-      "management": -0.005,
-      "business-and-financial": -0.006,
-      "construction-and-extraction": 0.009,
-      "production": -0.005,
-      "installation-maintenance-and-repair": 0.009,
-      "education-training-and-library": 0.015,
-      "office-and-administrative-support": -0.061,
-      "transportation-and-material-moving": 0.009,
-      "personal-care-and-service": 0.015,
-      "sales": 0.009,
-      "media-and-communication": 0.009,
-      "computer-and-information-technology": -0.061,
-      "community-and-social-service": 0.015,
-      "arts-and-design": 0.009,
-      "entertainment-and-sports": 0.009,
-      "protective-service": 0.009,
-      "food-preparation-and-serving": 0.009,
-      "legal": 0.009,
-      "math": 0.009,
-      "farming-fishing-and-forestry": 0.009,
-      "building-and-grounds-cleaning": 0.009
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-10T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

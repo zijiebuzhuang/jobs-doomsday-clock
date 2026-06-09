@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:25",
-  "minutesToMidnight": 3,
-  "exactMinutesToMidnight": 2.591,
+  "displayTime": "23:57:35",
+  "minutesToMidnight": 2,
+  "exactMinutesToMidnight": 2.419,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.409,
+  "newsAdjustment": -10.581,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.821,
+  "macroReplacementRate": 49.833,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,183 +3448,184 @@
   ],
   "newsFeed": [
     {
-      "id": "hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era",
-      "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
-      "summary": "HSBC CEO emphasizes the continued need for human judgment in AI-driven banking, suggesting that AI adoption will not fully replace jobs but may reshape them.",
-      "date": "2026-06-08",
+      "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
+      "date": "2026-06-09",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce transformation",
+        "leadership strategy"
+      ],
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "management",
+        "computer-and-information-technology",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "anthropic-calls-mythos-dangerous-why-is-it-expanding-access-",
+      "title": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?",
+      "summary": "Anthropic's decision to restrict access to its powerful AI tool Mythos highlights growing concerns about AI safety and security, potentially slowing broader adoption in the workforce.",
+      "date": "2026-06-09",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-calls-mythos-dangerous-why-is-it-expanding-access",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "human-in-the-loop",
-        "AI-adoption",
-        "workforce-impact"
-      ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "management",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-      "title": "HSBC CEO Says ‘Human Judgment’ Is Vital Even as AI Introduced",
-      "summary": "HSBC CEO emphasizes the continued importance of human judgment in banking despite AI adoption, signaling a cautious approach to AI integration in the financial sector.",
-      "date": "2026-06-08",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI in finance",
-        "human oversight",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-is-still-working-on-that-super-app-",
-      "title": "OpenAI is still working on that ‘super app’",
-      "summary": "The idea that 'chat is dead' suggests a shift in AI interaction models, potentially impacting how AI tools are used in workflows and productivity.",
-      "date": "2026-06-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "workflow change",
-        "tool evolution"
-      ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "summary": "A White House AI advisor leaving to shape Trump's AI policy may indicate shifting regulatory priorities that could influence the pace and direction of AI adoption in the workforce.",
-      "date": "2026-06-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
+        "AI safety",
         "regulation",
-        "leadership"
+        "security"
       ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
         "legal",
-        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "summary": "Lockdown Mode aims to improve AI security, potentially slowing adoption due to increased safeguards for sensitive data.",
-      "date": "2026-06-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI security",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "hot-i-p-o-summer-what-is-a-i-doing-to-math-hatgpt",
-      "title": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
-      "summary": "The race to public markets by AI companies and concerns about AI's impact on math highlight growing industry adoption and academic scrutiny of AI's role in professional fields.",
-      "date": "2026-06-05",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "id": "paytm-plans-10-staff-boost-in-ai-pivot-with-some-roles-cut",
+      "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
+      "summary": "Paytm's AI-focused hiring expansion signals growing adoption of AI in fintech and related industries, increasing demand for tech and business roles.",
+      "date": "2026-06-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "industry regulation",
-        "workplace impact"
+        "hiring trends",
+        "fintech"
       ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ]
+    },
+    {
+      "id": "ai-job-losses-the-scramble-for-answers-in-america",
+      "title": "AI job losses, the scramble for answers in America",
+      "summary": "The article highlights growing concerns about AI job losses in America, signaling increased pressure on the workforce and potential shifts in hiring and skills requirements.",
+      "date": "2026-06-09",
+      "source": "The Straits Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9UOXNaSkNzZE11OGQxbFd5cFUxcXZzR0pSRkcyMElIM3M5NU4tNUJKY2d3SG5TaXRDMlZyYTlDM0U2STMwOEVva0JaTFJtSy1PUWU0Z2pvQWgwckx0bUhaU3RVWkZFQ0tKVmR2VkJUbm1iODV4T0VzUFdaMldPRU9iaUhwOXRnT012ZUxzLVVaZ2NOaEFnajBwbw?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "job displacement",
+        "workforce impact",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "notebooklm-s-gemini-3-5-upgrade-adds-a-cloud-computer-and-help-finding-sources",
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "summary": "Google's upgrade to NotebookLM with Gemini 3.5 enhances AI-powered research and note-taking, improving productivity and workflow for knowledge workers.",
+      "date": "2026-06-08",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "workflows"
+      ],
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
       "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "education-training-and-library"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ed-zitron-unfiltered-on-openai-anthropic-why-the-whole-thing-is-a-con",
+      "title": "Ed Zitron Unfiltered on OpenAI, Anthropic & Why the Whole Thing Is a Con",
+      "summary": "The article raises concerns about the transparency and value of AI products, potentially influencing enterprise adoption and investment in AI technologies.",
+      "date": "2026-06-08",
+      "source": "Apple Podcasts - Newcomer Pod",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Ed-Zitron-Unfiltered-on-OpenAI--Anthropic--Why-the-Whole-Thing-Is-a-Con-e3kgjho",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "enterprise adoption",
+        "regulation"
+      ],
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "business",
       "sourceTier": "media",
       "qualityScore": 84,
       "contentType": "podcast",
       "categories": [
         "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "math"
+        "business-and-financial",
+        "_all"
       ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/251f62fd-3b1d-4f8b-a5b0-0966414c7f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=251f62fd-3b1d-4f8b-a5b0-0966414c7f74&feed=6HKOhNgS",
-      "duration": "01:04:20"
+      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1780932885334-55bbf7f2f8a03.jpg",
+      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/121179128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2F425746312-44100-2-1dd6664715bf3.mp3",
+      "duration": "00:58:05"
     },
     {
-      "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "An event focused on AI and defense technology highlights growing interest in AI's role in advanced industries and venture capital, signaling increased adoption and investment.",
-      "date": "2026-06-04",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "effect": "advance",
-      "impactScore": 3,
+      "id": "california-lays-the-groundwork-for-more-sweeping-ai-workforce-regulation-employe",
+      "title": "California Lays the Groundwork for More Sweeping AI Workforce Regulation—Employers Should Start Preparing Now",
+      "summary": "California's new AI workforce regulations signal increased oversight, which may slow or shape AI adoption in the workplace.",
+      "date": "2026-06-08",
+      "source": "The National Law Review",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVJNFo4YmJlcmdlWG9oRnZQMDZFcGpLUUZ4M1RjRXc1aWdpVjhYMm9kQldkdnJ5dWVKaHYwTjBQMmVPN2kxSkN6Qk0tYk05U0VxbUVFNGhLS1NZSUgwMVdsdUZDUjB6TUdVRzJkZzJRbzQ4NDFGY25oSTdISE5LOTFfbWpjX3ZmMHI3MDcyZkNjb3djTFk3MzBQREd1Wk9OZ1NCUnpmMWt6NVFlTHZfZko1T3jSAboBQVVfeXFMUHNucXdMSlVDUkxDeUllQUZkTlpWeTA3UXBHbE1JT0diMFpGcDRDcTBtU2FGOFBBSXBOUExQNVUzd01wYTNweWE1LUljME5wemJWYU5ReE13dDVTWEI4UkJxN1JycnFzZTlhZXBVdGhTV1pkUEFEQWNBdHAyR2EwQ0hkSllJWVd2ZEc2RGVNMU5vcUxsV05xQkxBQWVXcGV1SEN5NFpON25EcVFOYVVycFJaRE82VW1JbjlR?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "venture capital",
-        "defense technology"
+        "regulation",
+        "policy",
+        "workforce"
       ],
-      "fetchedAt": "2026-06-08T11:00:51.198Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
+        "management",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-08T12:00:00.000Z",
+  "generatedAt": "2026-06-09T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "HSBC Emphasizes Human Role in AI-Driven Banking",
-      "preview": "Human judgment remains critical despite AI advances, per HSBC.",
-      "body": "Two Bloomberg reports highlight HSBC's focus on human oversight in AI, suggesting a delay in full job replacement. Meanwhile, OpenAI's 'super app' and AI IPOs signal ongoing innovation. Overall, the mix shows cautious adoption with some technical advancements."
+      "title": "Mixed signals on AI workforce integration",
+      "preview": "Advances in AI adoption face regulatory and safety delays.",
+      "body": "Recent news highlights both progress and caution in AI's impact on jobs. MIT Tech Review notes growing AI leadership demands, while Bloomberg reports Anthropic restricting access to its tool due to safety concerns. Paytm's hiring expansion and a Straits Times article on AI job losses show rising pressure. However, California's new regulations and podcast critiques suggest ongoing challenges in scaling AI responsibly."
     }
   }
 }
