@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:35",
+  "displayTime": "23:57:44",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.419,
+  "exactMinutesToMidnight": 2.269,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.581,
+  "newsAdjustment": -10.731,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.833,
+  "macroReplacementRate": 49.843,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,184 +3448,182 @@
   ],
   "newsFeed": [
     {
-      "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
-      "date": "2026-06-09",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "id": "from-data-to-decisions-how-lseg-is-scaling-trusted-ai",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "LSEG is scaling trusted AI across its global business, improving productivity and empowering thousands of employees.",
+      "date": "2026-06-10",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/lseg",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce transformation",
-        "leadership strategy"
+        "enterprise-adoption",
+        "productivity",
+        "trusted-ai"
       ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
-        "management",
+        "business-and-financial",
         "computer-and-information-technology",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "anthropic-calls-mythos-dangerous-why-is-it-expanding-access-",
-      "title": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?",
-      "summary": "Anthropic's decision to restrict access to its powerful AI tool Mythos highlights growing concerns about AI safety and security, potentially slowing broader adoption in the workforce.",
-      "date": "2026-06-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-calls-mythos-dangerous-why-is-it-expanding-access",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "security"
-      ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "paytm-plans-10-staff-boost-in-ai-pivot-with-some-roles-cut",
-      "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
-      "summary": "Paytm's AI-focused hiring expansion signals growing adoption of AI in fintech and related industries, increasing demand for tech and business roles.",
-      "date": "2026-06-09",
+      "id": "google-s-backstops-underpin-35-billion-anthropic-chip-deal",
+      "title": "Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
+      "summary": "Google's financial backing for Anthropic's chip leasing demonstrates growing AI infrastructure investment and collaboration, accelerating AI adoption in enterprise and tech sectors.",
+      "date": "2026-06-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "hiring trends",
-        "fintech"
+        "AI infrastructure",
+        "enterprise AI",
+        "funding"
       ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
-        "management"
-      ]
-    },
-    {
-      "id": "ai-job-losses-the-scramble-for-answers-in-america",
-      "title": "AI job losses, the scramble for answers in America",
-      "summary": "The article highlights growing concerns about AI job losses in America, signaling increased pressure on the workforce and potential shifts in hiring and skills requirements.",
-      "date": "2026-06-09",
-      "source": "The Straits Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9UOXNaSkNzZE11OGQxbFd5cFUxcXZzR0pSRkcyMElIM3M5NU4tNUJKY2d3SG5TaXRDMlZyYTlDM0U2STMwOEVva0JaTFJtSy1PUWU0Z2pvQWgwckx0bUhaU3RVWkZFQ0tKVmR2VkJUbm1iODV4T0VzUFdaMldPRU9iaUhwOXRnT012ZUxzLVVaZ2NOaEFnajBwbw?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "job displacement",
-        "workforce impact",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
         "_all"
       ]
     },
     {
-      "id": "notebooklm-s-gemini-3-5-upgrade-adds-a-cloud-computer-and-help-finding-sources",
-      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "summary": "Google's upgrade to NotebookLM with Gemini 3.5 enhances AI-powered research and note-taking, improving productivity and workflow for knowledge workers.",
-      "date": "2026-06-08",
+      "id": "microsoft-ai-chief-walks-back-comments-about-ai-taking-over-white-collar-work",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "summary": "Microsoft's AI chief clarifies that AI will assist white-collar workers rather than replace them, indicating a more cautious approach to AI adoption in professional roles.",
+      "date": "2026-06-09",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "sourceUrl": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workplace impact",
+        "career signals"
+      ],
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "legal",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-releases-its-first-mythos-class-model-claude-fable",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic's release of Claude Fable 5 marks a significant advancement in AI capabilities, particularly in software engineering and knowledge work, signaling increased pressure on these fields.",
+      "date": "2026-06-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
+        "AI model release",
         "productivity",
-        "workflows"
+        "software engineering"
       ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
-        "education-training-and-library"
+        "management",
+        "business-and-financial"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "ed-zitron-unfiltered-on-openai-anthropic-why-the-whole-thing-is-a-con",
-      "title": "Ed Zitron Unfiltered on OpenAI, Anthropic & Why the Whole Thing Is a Con",
-      "summary": "The article raises concerns about the transparency and value of AI products, potentially influencing enterprise adoption and investment in AI technologies.",
-      "date": "2026-06-08",
-      "source": "Apple Podcasts - Newcomer Pod",
-      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Ed-Zitron-Unfiltered-on-OpenAI--Anthropic--Why-the-Whole-Thing-Is-a-Con-e3kgjho",
+      "id": "tata-boss-predicts-ai-agents-will-replace-half-its-tech-jobs",
+      "title": "Tata Boss Predicts AI Agents Will Replace Half Its Tech Jobs",
+      "summary": "A major Indian conglomerate predicts AI agents will replace half of its tech jobs, signaling growing AI adoption and disruption in the IT sector.",
+      "date": "2026-06-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "job displacement",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "it-s-not-faang-anymore-it-s-mangos-",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "The rise of new AI-focused tech companies signals increased competition and innovation in the AI space, potentially reshaping industry power dynamics and job markets.",
+      "date": "2026-06-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "industry shift",
+        "tech leadership"
+      ],
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "microsoft-ai-chief-mustafa-suleyman-clarifies-automation-comments-walks-back-job",
+      "title": "Microsoft AI chief Mustafa Suleyman clarifies automation comments, walks back job replacement timeline",
+      "summary": "A top AI leader retracts a timeline for job replacement, suggesting caution in AI's impact on employment.",
+      "date": "2026-06-09",
+      "source": "Crypto Briefing",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3NoSWtNbmRicVQ4NURNU212YTh3c2JHbk1Vblh3OUlaWU5VSVhzSHB2dG0tS212bTR2eGtobXRNVU5SaE9YSFczanh2NnRkdXFxU0JmTFlpQm0wa0NXSXJQZklOMWNPZWxqNzRMVHhrS2tURFQtcmQ2MXk1eC1UcVhhM2ZJZw?oc=5",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI ethics",
-        "enterprise adoption",
-        "regulation"
-      ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1780932885334-55bbf7f2f8a03.jpg",
-      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/121179128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2F425746312-44100-2-1dd6664715bf3.mp3",
-      "duration": "00:58:05"
-    },
-    {
-      "id": "california-lays-the-groundwork-for-more-sweeping-ai-workforce-regulation-employe",
-      "title": "California Lays the Groundwork for More Sweeping AI Workforce Regulation—Employers Should Start Preparing Now",
-      "summary": "California's new AI workforce regulations signal increased oversight, which may slow or shape AI adoption in the workplace.",
-      "date": "2026-06-08",
-      "source": "The National Law Review",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVJNFo4YmJlcmdlWG9oRnZQMDZFcGpLUUZ4M1RjRXc1aWdpVjhYMm9kQldkdnJ5dWVKaHYwTjBQMmVPN2kxSkN6Qk0tYk05U0VxbUVFNGhLS1NZSUgwMVdsdUZDUjB6TUdVRzJkZzJRbzQ4NDFGY25oSTdISE5LOTFfbWpjX3ZmMHI3MDcyZkNjb3djTFk3MzBQREd1Wk9OZ1NCUnpmMWt6NVFlTHZfZko1T3jSAboBQVVfeXFMUHNucXdMSlVDUkxDeUllQUZkTlpWeTA3UXBHbE1JT0diMFpGcDRDcTBtU2FGOFBBSXBOUExQNVUzd01wYTNweWE1LUljME5wemJWYU5ReE13dDVTWEI4UkJxN1JycnFzZTlhZXBVdGhTV1pkUEFEQWNBdHAyR2EwQ0hkSllJWVd2ZEc2RGVNMU5vcUxsV05xQkxBQWVXcGV1SEN5NFpON25EcVFOYVVycFJaRE82VW1JbjlR?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
         "regulation",
-        "policy",
-        "workforce"
+        "labour",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-09T11:00:51.759Z",
+      "fetchedAt": "2026-06-10T11:00:51.222Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
-        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-09T12:00:00.000Z",
+  "generatedAt": "2026-06-10T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Mixed signals on AI workforce integration",
-      "preview": "Advances in AI adoption face regulatory and safety delays.",
-      "body": "Recent news highlights both progress and caution in AI's impact on jobs. MIT Tech Review notes growing AI leadership demands, while Bloomberg reports Anthropic restricting access to its tool due to safety concerns. Paytm's hiring expansion and a Straits Times article on AI job losses show rising pressure. However, California's new regulations and podcast critiques suggest ongoing challenges in scaling AI responsibly."
+      "title": "AI Advances Outpace Job Concerns in Latest Updates",
+      "preview": "New AI developments continue to drive progress despite some cautionary statements.",
+      "body": "Recent updates show strong AI advancements, including LSEG scaling trusted AI and Anthropic releasing a new model. However, Microsoft's cautious stance on job replacement and retracted timelines suggest some moderation in adoption narratives. The overall trend remains forward-focused, with significant implications for tech and knowledge work."
     }
   }
 }

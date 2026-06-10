@@ -1,5 +1,53 @@
 [
   {
+    "id": "from-data-to-decisions-how-lseg-is-scaling-trusted-ai",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "summary": "LSEG is scaling trusted AI across its global business, improving productivity and empowering thousands of employees.",
+    "date": "2026-06-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/lseg",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "productivity",
+      "trusted-ai"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-backstops-underpin-35-billion-anthropic-chip-deal",
+    "title": "Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
+    "summary": "Google's financial backing for Anthropic's chip leasing demonstrates growing AI infrastructure investment and collaboration, accelerating AI adoption in enterprise and tech sectors.",
+    "date": "2026-06-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise AI",
+      "funding"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
@@ -21,6 +69,104 @@
       "management",
       "computer-and-information-technology",
       "business-and-financial"
+    ]
+  },
+  {
+    "id": "microsoft-ai-chief-walks-back-comments-about-ai-taking-over-white-collar-work",
+    "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+    "summary": "Microsoft's AI chief clarifies that AI will assist white-collar workers rather than replace them, indicating a more cautious approach to AI adoption in professional roles.",
+    "date": "2026-06-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workplace impact",
+      "career signals"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "legal",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2219304754.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-releases-its-first-mythos-class-model-claude-fable",
+    "title": "Anthropic releases its first Mythos-class model Claude Fable",
+    "summary": "Anthropic's release of Claude Fable 5 marks a significant advancement in AI capabilities, particularly in software engineering and knowledge work, signaling increased pressure on these fields.",
+    "date": "2026-06-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "productivity",
+      "software engineering"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "tata-boss-predicts-ai-agents-will-replace-half-its-tech-jobs",
+    "title": "Tata Boss Predicts AI Agents Will Replace Half Its Tech Jobs",
+    "summary": "A major Indian conglomerate predicts AI agents will replace half of its tech jobs, signaling growing AI adoption and disruption in the IT sector.",
+    "date": "2026-06-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "job displacement",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "it-s-not-faang-anymore-it-s-mangos-",
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "summary": "The rise of new AI-focused tech companies signals increased competition and innovation in the AI space, potentially reshaping industry power dynamics and job markets.",
+    "date": "2026-06-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "industry shift",
+      "tech leadership"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
     ]
   },
   {
@@ -69,6 +215,30 @@
       "computer-and-information-technology",
       "business-and-financial",
       "management"
+    ]
+  },
+  {
+    "id": "microsoft-ai-chief-mustafa-suleyman-clarifies-automation-comments-walks-back-job",
+    "title": "Microsoft AI chief Mustafa Suleyman clarifies automation comments, walks back job replacement timeline",
+    "summary": "A top AI leader retracts a timeline for job replacement, suggesting caution in AI's impact on employment.",
+    "date": "2026-06-09",
+    "source": "Crypto Briefing",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3NoSWtNbmRicVQ4NURNU212YTh3c2JHbk1Vblh3OUlaWU5VSVhzSHB2dG0tS212bTR2eGtobXRNVU5SaE9YSFczanh2NnRkdXFxU0JmTFlpQm0wa0NXSXJQZklOMWNPZWxqNzRMVHhrS2tURFQtcmQ2MXk1eC1UcVhhM2ZJZw?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "labour",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-06-10T11:00:51.222Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
     ]
   },
   {
@@ -8954,33 +9124,5 @@
     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1773675099933-00f7fc0bb1e5c.jpg",
     "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/117009100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420131412-44100-2-5e3a24e4690cd.mp3",
     "duration": "01:02:06"
-  },
-  {
-    "id": "from-coder-to-manager-navigating-the-shift-to-agentic-engineering-with-notion-co",
-    "title": "From Coder to Manager: Navigating the Shift to Agentic Engineering with Notion Co-Founder Simon Last",
-    "summary": "Notion's development of autonomous AI agents that can build integrations and write code highlights the growing capability of AI to take on complex engineering tasks, accelerating the shift toward AI replacing human jobs in tech roles.",
-    "date": "2026-03-12",
-    "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
-    "sourceUrl": "https://traffic.megaphone.fm/PDP4039354704.mp3",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI development",
-      "job displacement",
-      "software engineering"
-    ],
-    "fetchedAt": "2026-04-29T11:01:21.801Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/1683311e-1dcf-11f1-b1e2-fbd9c92e8464/image/83eeae17eff1385214d8eec14ad36611.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://traffic.megaphone.fm/PDP4039354704.mp3",
-    "duration": "29 min"
   }
 ]
