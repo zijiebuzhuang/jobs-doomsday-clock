@@ -1,5 +1,147 @@
 [
   {
+    "id": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "summary": "OpenAI's support for the EU Code of Practice on AI content transparency reflects regulatory efforts that may shape how AI is used in professional contexts.",
+    "date": "2026-06-11",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "transparency",
+      "trustworthiness"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-sparks-alarm-in-china-with-call-to-protect-worker-rights",
+    "title": "AI Sparks Alarm in China With Call to Protect Worker Rights",
+    "summary": "China's state media calls for protecting worker rights amid rapid AI adoption, signaling regulatory concerns that may slow AI integration in the workforce.",
+    "date": "2026-06-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "labor-rights",
+      "workplace-adoption"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
+    "title": "Warren Wants Wall Street to Disclose Data on AI Firm Exposure",
+    "summary": "Increased regulatory scrutiny of AI exposure in finance may slow adoption and influence how AI is integrated into financial workflows.",
+    "date": "2026-06-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "finance",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
+    "title": "US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments",
+    "summary": "A US-backed AI hub in the Philippines could drive significant investment and boost AI adoption in the region, signaling growing global interest in AI infrastructure and economic development.",
+    "date": "2026-06-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "global AI expansion",
+      "economic impact"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "access-openai-models-and-codex-through-your-oracle-cloud-commitment",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "summary": "Oracle's integration of OpenAI models and Codex into its cloud infrastructure accelerates enterprise adoption of AI tools, enhancing productivity and workflow automation.",
+    "date": "2026-06-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise adoption",
+      "AI tools",
+      "cloud integration"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
+    "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+    "summary": "New AI model optimization improves real-time AI development capabilities, enabling faster and more efficient text generation for developers.",
+    "date": "2026-06-10",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "development"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Text-Model-768x432.png"
+  },
+  {
     "id": "from-data-to-decisions-how-lseg-is-scaling-trusted-ai",
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "summary": "LSEG is scaling trusted AI across its global business, improving productivity and empowering thousands of employees.",
@@ -22,6 +164,31 @@
       "computer-and-information-technology",
       "_all"
     ]
+  },
+  {
+    "id": "the-future-of-ai-regulation-is-courting-the-strangest-most-anxious-bedfellows",
+    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+    "summary": "AI regulation is becoming a complex and contentious area with diverse stakeholders, which may slow or shape the adoption of AI in the workplace.",
+    "date": "2026-06-10",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "adoption"
+    ],
+    "fetchedAt": "2026-06-11T11:00:53.073Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100"
   },
   {
     "id": "google-s-backstops-underpin-35-billion-anthropic-chip-deal",
