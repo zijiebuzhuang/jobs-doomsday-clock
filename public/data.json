@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:44",
+  "displayTime": "23:58:09",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.269,
+  "exactMinutesToMidnight": 1.842,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.731,
+  "newsAdjustment": -11.158,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.843,
+  "macroReplacementRate": 49.872,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,179 +3448,179 @@
   ],
   "newsFeed": [
     {
-      "id": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary": "OpenAI's support for the EU Code of Practice on AI content transparency reflects regulatory efforts that may shape how AI is used in professional contexts.",
-      "date": "2026-06-11",
+      "id": "how-preply-combines-ai-and-human-tutors-to-personalize-learning",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "summary": "AI is being integrated into education and training to enhance personalized learning experiences.",
+      "date": "2026-06-12",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "effect": "delay",
+      "sourceUrl": "https://openai.com/index/preply",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "transparency",
-        "trustworthiness"
+        "education",
+        "AI tools",
+        "personalization"
       ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
-        "computer-and-information-technology",
-        "legal",
+        "education-training-and-library",
         "_all"
       ]
     },
     {
-      "id": "ai-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "title": "AI Sparks Alarm in China With Call to Protect Worker Rights",
-      "summary": "China's state media calls for protecting worker rights amid rapid AI adoption, signaling regulatory concerns that may slow AI integration in the workforce.",
-      "date": "2026-06-11",
+      "id": "tech-secretary-vows-more-help-for-uk-ai-sector",
+      "title": "Tech Secretary Vows More Help for UK AI Sector",
+      "summary": "UK government pledges increased support for AI sector through legal reforms and institutional investment, signaling stronger adoption and growth of AI in the workforce.",
+      "date": "2026-06-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-12/tech-secretary-vows-more-help-for-uk-ai-sector-video",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "labor-rights",
-        "workplace-adoption"
-      ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-      "title": "Warren Wants Wall Street to Disclose Data on AI Firm Exposure",
-      "summary": "Increased regulatory scrutiny of AI exposure in finance may slow adoption and influence how AI is integrated into financial workflows.",
-      "date": "2026-06-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "finance",
+        "policy",
+        "investment",
         "AI adoption"
       ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
         "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
-      "title": "US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments",
-      "summary": "A US-backed AI hub in the Philippines could drive significant investment and boost AI adoption in the region, signaling growing global interest in AI infrastructure and economic development.",
-      "date": "2026-06-11",
+      "id": "uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups",
+      "title": "UK Tech Secretary Vows More Action on Pushing Funds to Startups",
+      "summary": "Increased government funding for UK tech and AI startups may accelerate AI adoption and innovation in the workforce.",
+      "date": "2026-06-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups",
       "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "global AI expansion",
-        "economic impact"
-      ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "access-openai-models-and-codex-through-your-oracle-cloud-commitment",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "summary": "Oracle's integration of OpenAI models and Codex into its cloud infrastructure accelerates enterprise adoption of AI tools, enhancing productivity and workflow automation.",
-      "date": "2026-06-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise adoption",
-        "AI tools",
-        "cloud integration"
-      ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
-      "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-      "summary": "New AI model optimization improves real-time AI development capabilities, enabling faster and more efficient text generation for developers.",
-      "date": "2026-06-10",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "development"
-      ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Text-Model-768x432.png"
-    },
-    {
-      "id": "the-future-of-ai-regulation-is-courting-the-strangest-most-anxious-bedfellows",
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "summary": "AI regulation is becoming a complex and contentious area with diverse stakeholders, which may slow or shape the adoption of AI in the workplace.",
-      "date": "2026-06-10",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "regulation",
+        "funding",
         "policy",
-        "adoption"
+        "ai-adoption"
       ],
-      "fetchedAt": "2026-06-11T11:00:53.073Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
+      ]
+    },
+    {
+      "id": "anthropic-openai-google-executives-plan-to-attend-g7-summit",
+      "title": "Anthropic, OpenAI, Google Executives Plan to Attend G7 Summit",
+      "summary": "Top AI executives attending the G7 summit signals increased global attention and potential policy influence on AI development and adoption.",
+      "date": "2026-06-12",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "enterprise"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-i",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind is investing in research to understand and mitigate risks of large-scale AI agent interactions, signaling increased focus on safety and regulation that may slow widespread adoption.",
+      "date": "2026-06-11",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "meet-the-openai-engineer-leading-chatgpt-s-biggest-transformation-yet",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+      "summary": "A leading OpenAI engineer is driving a major transformation in ChatGPT, signaling significant AI advancement and potential workflow changes.",
+      "date": "2026-06-11",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity",
+        "workforce impact"
+      ],
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-dario-amodei-has-just-one-direct-report",
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "summary": "The minimal hierarchy at Anthropic highlights a shift in AI company leadership structures, potentially reflecting new models of management and productivity in AI-driven workplaces.",
+      "date": "2026-06-11",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "leadership",
+        "AI company structure",
+        "workplace dynamics"
+      ],
+      "fetchedAt": "2026-06-12T11:00:51.340Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-06-11T12:00:00.000Z",
+  "generatedAt": "2026-06-12T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory Concerns Offset AI Adoption Gains",
-      "preview": "New regulatory moves and investment signals shape the AI job landscape.",
-      "body": "Recent news highlights a mix of regulatory delays and technological advances, with European and Chinese efforts to manage AI's impact on workers. Meanwhile, US-backed investments in the Philippines and enterprise AI integrations suggest continued growth. The overall balance remains cautious but not alarmist."
+      "title": "Positive momentum in AI adoption despite growing safety concerns",
+      "preview": "Advancements and government support contrast with rising safety focus.",
+      "body": "Recent signals show continued progress in AI integration, with the UK government pledging increased support and OpenAI driving major innovations. However, Google DeepMind's focus on AI agent risks suggests growing caution that may slow broader deployment. Overall, the trend remains forward-leaning but with increasing attention to long-term implications."
     }
   }
 }

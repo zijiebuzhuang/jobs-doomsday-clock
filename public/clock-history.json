@@ -1,5 +1,214 @@
 [
   {
+    "date": "2026-06-12",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 1.842,
+    "macroReplacementRate": 49.872,
+    "newsAdjustment": -11.158,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-preply-combines-ai-and-human-tutors-to-personalize-learning",
+        "title": "How Preply combines AI and human tutors to personalize learning",
+        "summary": "AI is being integrated into education and training to enhance personalized learning experiences.",
+        "date": "2026-06-12",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/preply",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "AI tools",
+          "personalization"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "education-training-and-library",
+          "_all"
+        ]
+      },
+      {
+        "id": "tech-secretary-vows-more-help-for-uk-ai-sector",
+        "title": "Tech Secretary Vows More Help for UK AI Sector",
+        "summary": "UK government pledges increased support for AI sector through legal reforms and institutional investment, signaling stronger adoption and growth of AI in the workforce.",
+        "date": "2026-06-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-12/tech-secretary-vows-more-help-for-uk-ai-sector-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "investment",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups",
+        "title": "UK Tech Secretary Vows More Action on Pushing Funds to Startups",
+        "summary": "Increased government funding for UK tech and AI startups may accelerate AI adoption and innovation in the workforce.",
+        "date": "2026-06-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "funding",
+          "policy",
+          "ai-adoption"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-openai-google-executives-plan-to-attend-g7-summit",
+        "title": "Anthropic, OpenAI, Google Executives Plan to Attend G7 Summit",
+        "summary": "Top AI executives attending the G7 summit signals increased global attention and potential policy influence on AI development and adoption.",
+        "date": "2026-06-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "enterprise"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-i",
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "summary": "Google DeepMind is investing in research to understand and mitigate risks of large-scale AI agent interactions, signaling increased focus on safety and regulation that may slow widespread adoption.",
+        "date": "2026-06-11",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "meet-the-openai-engineer-leading-chatgpt-s-biggest-transformation-yet",
+        "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+        "summary": "A leading OpenAI engineer is driving a major transformation in ChatGPT, signaling significant AI advancement and potential workflow changes.",
+        "date": "2026-06-11",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-dario-amodei-has-just-one-direct-report",
+        "title": "Anthropic’s Dario Amodei has just one direct report",
+        "summary": "The minimal hierarchy at Anthropic highlights a shift in AI company leadership structures, potentially reflecting new models of management and productivity in AI-driven workplaces.",
+        "date": "2026-06-11",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "leadership",
+          "AI company structure",
+          "workplace dynamics"
+        ],
+        "fetchedAt": "2026-06-12T11:00:51.340Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Tech Secretary Vows More Help for UK AI Sector.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Tech Secretary Vows More Help for UK AI Sector\" (Bloomberg Technology), while the clearest drag comes from \"Google DeepMind is worried about what happens when millions of agents start to interact\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.158 minutes. Updated 2026-06-12T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-11",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 2.269,
@@ -13278,47 +13487,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-13",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.729,
-    "macroReplacementRate": 49.119,
-    "newsAdjustment": -0.271,
-    "categoryAdjustments": {
-      "healthcare": -0.023,
-      "life-physical-and-social-science": -0.023,
-      "architecture-and-engineering": -0.023,
-      "management": -0.036,
-      "business-and-financial": -0.037,
-      "construction-and-extraction": -0.023,
-      "production": -0.037,
-      "installation-maintenance-and-repair": -0.023,
-      "education-training-and-library": -0.02,
-      "office-and-administrative-support": -0.092,
-      "transportation-and-material-moving": -0.023,
-      "personal-care-and-service": -0.02,
-      "sales": -0.023,
-      "media-and-communication": -0.023,
-      "computer-and-information-technology": -0.092,
-      "community-and-social-service": -0.02,
-      "arts-and-design": -0.023,
-      "entertainment-and-sports": -0.023,
-      "protective-service": -0.023,
-      "food-preparation-and-serving": -0.023,
-      "legal": -0.023,
-      "math": -0.023,
-      "farming-fishing-and-forestry": -0.023,
-      "building-and-grounds-cleaning": -0.023
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-13T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
