@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { pathToFileURL } from 'url'
-import { callLLM } from './fetch-news.mjs'
+import { callLLM, curateDailySignals } from './fetch-news.mjs'
 import {
   BLS_CATEGORIES,
   HISTORY_WINDOW_DAYS,
@@ -8,6 +8,7 @@ import {
   filterFeedWindow,
   loadFeedItems,
   resolveAsOfDate,
+  signalEditionDate,
   startOfShanghaiDay,
   toISODate,
 } from './news-pipeline.mjs'
@@ -92,7 +93,7 @@ function impactScore(item) {
 }
 
 function shortTermDecay(item, asOfDate) {
-  const daysSince = (startOfShanghaiDay(asOfDate) - startOfShanghaiDay(item.date)) / MS_PER_DAY
+  const daysSince = (startOfShanghaiDay(asOfDate) - startOfShanghaiDay(signalEditionDate(item))) / MS_PER_DAY
   if (daysSince < 0 || daysSince >= SHORT_TERM_WINDOW_DAYS) return 0
   return Math.max(0, 1 - daysSince / SHORT_TERM_WINDOW_DAYS)
 }
@@ -110,10 +111,14 @@ function buildDailyBuckets(newsFeed, asOfDate) {
   }
 
   for (const item of newsFeed) {
-    const isoDate = toISODate(item.date)
+    const isoDate = signalEditionDate(item)
     if (buckets.has(isoDate)) {
       buckets.get(isoDate).push(item)
     }
+  }
+
+  for (const [day, items] of buckets.entries()) {
+    buckets.set(day, curateDailySignals(items))
   }
 
   return { days, buckets }
@@ -397,7 +402,7 @@ export function buildClockData({
   const macroReplacementRate = Math.round((50 - (exactMinutesToMidnight / baseMinutesPerReplacementRatePoint(baseData))) * 1000) / 1000
 
   const retainedNewsFeed = feedMode === 'daily'
-    ? feedItemsForDate(feedWindow, asOfDate, true, true)
+    ? curateDailySignals(feedItemsForDate(feedWindow, asOfDate, true, true))
     : feedItemsWithRichMediaSamples(feedWindow, newsFeedLimit)
 
   return {
@@ -438,16 +443,32 @@ function feedItemsWithRichMediaSamples(feedWindow, limit) {
   return retained
 }
 
+function latestNonEmptyDailyFeed(feedWindow, asOfDate) {
+  for (let offset = 0; offset < HISTORY_WINDOW_DAYS; offset += 1) {
+    const date = new Date(asOfDate)
+    date.setUTCDate(date.getUTCDate() - offset)
+    const dailyItems = curateDailySignals(feedItemsForDate(feedWindow, date, true, true))
+    if (dailyItems.length > 0) {
+      return { date, items: dailyItems }
+    }
+  }
+
+  return { date: asOfDate, items: [] }
+}
+
 async function main() {
   const cliDate = process.argv.find(arg => arg.startsWith('--date='))?.split('=')[1]
   const asOfDate = resolveAsOfDate(cliDate)
-  const preliminaryOutput = buildClockData({ asOfDate, feedMode: 'daily' })
+  const feedWindow = filterFeedWindow(loadFeedItems(), asOfDate)
+  const latestEdition = latestNonEmptyDailyFeed(feedWindow, asOfDate)
+  const signalFeedDate = latestEdition.date
+  const preliminaryOutput = buildClockData({ asOfDate, feedMode: 'daily', newsFeed: feedWindow })
   let signalSummaries
 
   try {
     signalSummaries = await generateSignalSummaries({
-      feedWindow: preliminaryOutput.newsFeed,
-      generatedAt: preliminaryOutput.generatedAt,
+      feedWindow: latestEdition.items,
+      generatedAt: signalFeedDate.toISOString(),
       macroReplacementRate: preliminaryOutput.macroReplacementRate,
       newsAdjustment: preliminaryOutput.newsAdjustment,
     })
@@ -458,20 +479,23 @@ async function main() {
   const output = buildClockData({
     asOfDate,
     feedMode: 'daily',
+    newsFeed: feedWindow,
     signalSummaries: signalSummaries ?? buildDeterministicSignalSummaries({
-      feedWindow: preliminaryOutput.newsFeed,
-      generatedAt: preliminaryOutput.generatedAt,
+      feedWindow: latestEdition.items,
+      generatedAt: signalFeedDate.toISOString(),
       macroReplacementRate: preliminaryOutput.macroReplacementRate,
       newsAdjustment: preliminaryOutput.newsAdjustment,
     }),
   })
+
+  output.newsFeed = latestEdition.items
 
   writeFileSync(DATA_OUTPUT_PATH, JSON.stringify(output, null, 2))
   console.log(
     `Generated data.json for ${asOfDate.toISOString().split('T')[0]}: ${output.displayTime} (base: ${output.baseMinutesToMidnight}min, adj: ${output.newsAdjustment > 0 ? '+' : ''}${output.newsAdjustment}min → ${output.minutesToMidnight}min to midnight)`
   )
   console.log(
-    `  ${output.replacementRate.toFixed(1)}% replacement rate, ${output.occupationCount} occupations, ${output.newsFeed.length} daily feed items`
+    `  ${output.replacementRate.toFixed(1)}% replacement rate, ${output.occupationCount} occupations, ${output.newsFeed.length} signal items from ${toISODate(signalFeedDate)}`
   )
 }
 

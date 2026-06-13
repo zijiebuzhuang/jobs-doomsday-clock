@@ -162,7 +162,10 @@ const FETCH_REPORT_PATH = '.tmp/news-fetch-report.json'
 const CLASSIFICATION_BATCH_SIZE = 15
 const MIN_DAILY_SIGNALS = 3
 const MAX_CLASSIFICATION_CANDIDATES = 75
-const MAX_DAILY_SIGNALS = 7
+const TARGET_DAILY_SIGNALS = 7
+const MAX_DAILY_SIGNALS = 10
+const DAILY_SIGNAL_EXTENSION_SCORE_FLOOR = 84
+const DAILY_SIGNAL_EXTENSION_SCORE_GAP = 4
 const WORK_SIGNAL_TERMS = [
   'job', 'jobs', 'work', 'worker', 'workers', 'workforce', 'labor', 'labour',
   'career', 'careers', 'skill', 'skills', 'hiring', 'layoff', 'employment',
@@ -170,6 +173,8 @@ const WORK_SIGNAL_TERMS = [
   'service', 'coding', 'developer', 'operations', 'workflow', 'agent',
   'automation', 'regulation', 'safety', 'policy',
 ]
+const AI_SIGNAL_PATTERN = /\b(ai|artificial intelligence|machine learning|generative ai|llm|llms|model|models|chatgpt|copilot|agent|agents|automation|openai|anthropic|claude|gemini|deepmind|nvidia|cerebras)\b/
+const WORK_SIGNAL_PATTERN = /\b(job|jobs|work|worker|workers|workforce|labor|labour|career|skill|skills|hiring|layoff|employment|office|customer service|workflow|productivity|enterprise|business|cfo|freelance|creator|developer|coding|regulation|policy)\b/
 
 export function isRelevant(title, contentSnippet) {
   const text = `${title} ${contentSnippet || ''}`.toLowerCase()
@@ -274,19 +279,25 @@ function workSignalScore(item = {}) {
 
 function isLikelyWorkSignal(item = {}) {
   const title = String(item.title || '').toLowerCase()
+  const titleAndSource = `${title} ${item.source || ''}`.toLowerCase()
   const text = workSignalText(item)
   const titleHasDirectWorkLanguage = /\b(job|jobs|work|worker|workers|workforce|labor|labour|career|skill|skills|hiring|layoff|employment|office|customer service|workflow|productivity)\b/.test(title)
-  const hasDirectWorkLanguage = /\b(job|jobs|work|worker|workers|workforce|labor|labour|career|skill|skills|hiring|layoff|employment|office|customer service|workflow|productivity|enterprise|business|cfo|freelance|creator)\b/.test(text)
+  const titleOrSourceHasAISignal = AI_SIGNAL_PATTERN.test(titleAndSource)
+  const hasDirectWorkLanguage = WORK_SIGNAL_PATTERN.test(text)
+  const hasAISignal = AI_SIGNAL_PATTERN.test(text)
   const hasNoisyTitle = /\b(lawsuit|deposition|stock|stocks|ipo|valuation|ads|disable|self-harm|loved ones|safety record|shit-talk|musk|altman|amazon|azure)\b/.test(title)
 
-  return !hasNoisyTitle || titleHasDirectWorkLanguage || (
-    hasDirectWorkLanguage &&
-    (item.sourceGroup === 'labor-market' || item.sourceGroup === 'business' || item.sourceGroup === 'research')
+  return !hasNoisyTitle && hasAISignal && (
+    titleOrSourceHasAISignal && hasDirectWorkLanguage ||
+    titleHasDirectWorkLanguage ||
+    item.sourceGroup === 'official' && hasDirectWorkLanguage ||
+    item.sourceGroup === 'research' && hasDirectWorkLanguage ||
+    titleOrSourceHasAISignal && (item.sourceGroup === 'labor-market' || item.sourceGroup === 'business')
   )
 }
 
 export function curateDailySignals(items = []) {
-  return [...items]
+  const ranked = [...items]
     .filter(isLikelyWorkSignal)
     .filter(item => workSignalScore(item) >= 72)
     .sort((lhs, rhs) =>
@@ -294,7 +305,25 @@ export function curateDailySignals(items = []) {
       (rhs.impactScore || 0) - (lhs.impactScore || 0) ||
       new Date(rhs.date) - new Date(lhs.date)
     )
-    .slice(0, MAX_DAILY_SIGNALS)
+
+  if (ranked.length <= TARGET_DAILY_SIGNALS) {
+    return ranked.slice(0, MAX_DAILY_SIGNALS)
+  }
+
+  const selected = ranked.slice(0, TARGET_DAILY_SIGNALS)
+  const trailingScore = workSignalScore(selected[selected.length - 1] || {})
+
+  for (const candidate of ranked.slice(TARGET_DAILY_SIGNALS)) {
+    if (selected.length >= MAX_DAILY_SIGNALS) break
+
+    const candidateScore = workSignalScore(candidate)
+    if (candidateScore < DAILY_SIGNAL_EXTENSION_SCORE_FLOOR) break
+    if (trailingScore - candidateScore > DAILY_SIGNAL_EXTENSION_SCORE_GAP) break
+
+    selected.push(candidate)
+  }
+
+  return selected
 }
 
 function isImageMimeType(value = '') {

@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:14",
+  "displayTime": "23:58:07",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 1.774,
+  "exactMinutesToMidnight": 1.888,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.226,
+  "newsAdjustment": -11.112,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.877,
+  "macroReplacementRate": 49.869,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,6 +3448,53 @@
   ],
   "newsFeed": [
     {
+      "id": "new-openai-academy-courses-for-the-next-era-of-work",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI's new Academy courses signal a growing push to equip workers with practical AI skills and workflows, accelerating AI adoption in the workplace.",
+      "date": "2026-06-12",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI education",
+        "workforce development",
+        "productivity tools"
+      ],
+      "fetchedAt": "2026-06-13T11:00:52.076Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-commits-200-million-to-study-ai-s-impact-on-jobs",
+      "title": "Anthropic Commits $200 Million to Study AI’s Impact on Jobs",
+      "summary": "Anthropic's $200 million investment signals growing focus on understanding AI's impact on jobs, likely accelerating workplace AI integration and policy development.",
+      "date": "2026-06-11",
+      "source": "YourStory.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ib0k0bFlibmJXcFFqbi1WQWpUQklsalpHZEg4dldxWGFwa0dWN0tfVUZRa0lYSDZ3LTVBVUcwbzh3ZXZzbjVFOFRqZmF2akVsZjl1Y0JCMUxvUVR6MkEtczFGSDFBZ3ZhSUFwUXNYX3g1Q3dfaVFUQldYVkJLTlE?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI research",
+        "workplace impact",
+        "policy"
+      ],
+      "fetchedAt": "2026-06-13T11:00:52.076Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
       "id": "openai-probed-by-coalition-of-state-attorneys-general",
       "title": "OpenAI Probed by Coalition of State Attorneys General",
       "summary": "Investigation into OpenAI by state attorneys general may lead to regulatory constraints on AI development and deployment.",
@@ -3496,83 +3543,6 @@
       ]
     },
     {
-      "id": "anjney-midha-s-plan-to-radically-lower-the-price-of-compute",
-      "title": "Anjney Midha's Plan to Radically Lower the Price of Compute",
-      "summary": "A new company aims to reduce the cost of compute, potentially increasing AI adoption and productivity across industries.",
-      "date": "2026-06-13",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/anjney-midhas-plan-to-radically-lower-the-price-of-compute",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "compute",
-        "AI infrastructure",
-        "productivity"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/90cd8aa8-11c9-4cd3-813a-b467011c7f57/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "50 min"
-    },
-    {
-      "id": "new-openai-academy-courses-for-the-next-era-of-work",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI's new Academy courses signal a growing push to equip workers with practical AI skills and workflows, accelerating AI adoption in the workplace.",
-      "date": "2026-06-12",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI education",
-        "workforce development",
-        "productivity tools"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
-      "title": "SpaceX Rented Out Computing After Own Teams Had Trouble Using It",
-      "summary": "SpaceX's decision to rent out its data center highlights growing AI infrastructure demands and the increasing role of third-party AI development, signaling broader adoption and reliance on external computing resources.",
-      "date": "2026-06-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise AI",
-        "computing demand"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
       "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "summary": "Anthropic's apology for hidden guardrails in Claude Fable 5 highlights regulatory and ethical concerns that may slow AI adoption and development in competitive environments.",
@@ -3596,36 +3566,14 @@
         "_all"
       ],
       "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-commits-200-million-to-study-ai-s-impact-on-jobs",
-      "title": "Anthropic Commits $200 Million to Study AI’s Impact on Jobs",
-      "summary": "Anthropic's $200 million investment signals growing focus on understanding AI's impact on jobs, likely accelerating workplace AI integration and policy development.",
-      "date": "2026-06-11",
-      "source": "YourStory.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ib0k0bFlibmJXcFFqbi1WQWpUQklsalpHZEg4dldxWGFwa0dWN0tfVUZRa0lYSDZ3LTVBVUcwbzh3ZXZzbjVFOFRqZmF2akVsZjl1Y0JCMUxvUVR6MkEtczFGSDFBZ3ZhSUFwUXNYX3g1Q3dfaVFUQldYVkJLTlE?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI research",
-        "workplace impact",
-        "policy"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
     }
   ],
-  "generatedAt": "2026-06-13T12:00:00.000Z",
+  "generatedAt": "2026-06-13T23:24:31.165Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory scrutiny and AI training efforts shape job replacement dynamics",
-      "preview": "Regulatory actions and new training initiatives influence AI adoption trends.",
-      "body": "Recent news shows a mix of regulatory delays and technological advances, with OpenAI and Anthropic facing investigations and compliance challenges. Meanwhile, new training programs and cost-reduction efforts signal continued momentum in AI integration. The overall balance remains cautiously optimistic, with both constraints and opportunities emerging."
+      "title": "Daily signal pulse",
+      "preview": "A quick read on the latest pulse, led by New OpenAI Academy courses for the next era of work.",
+      "body": "This update is split between 2 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"New OpenAI Academy courses for the next era of work\" (OpenAI), while the clearest drag comes from \"Anthropic apologizes for invisible Claude Fable guardrails\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.112 minutes. Updated 2026-06-13T23:24:31.165Z, with the macro replacement estimate at 49.9%."
     }
   }
 }

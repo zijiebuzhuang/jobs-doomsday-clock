@@ -391,6 +391,10 @@ export function isWithinHistoryWindow(value, asOfDate = new Date()) {
   return daysSince >= 0 && daysSince < HISTORY_WINDOW_DAYS
 }
 
+export function signalEditionDate(item) {
+  return toISODate(item?.fetchedAt || item?.date || Date.now())
+}
+
 export function normalizeCategories(rawCategories) {
   if (!Array.isArray(rawCategories)) return undefined
   const categories = rawCategories.filter(category => VALID_CATEGORIES.has(category))
@@ -449,9 +453,9 @@ export function normalizeFeedItem(item) {
 
 function sortFeedItems(items = []) {
   return items.sort((a, b) =>
-    new Date(b.date) - new Date(a.date) ||
+    new Date(signalEditionDate(b)) - new Date(signalEditionDate(a)) ||
     (Number(b.qualityScore) || 0) - (Number(a.qualityScore) || 0) ||
-    new Date(b.fetchedAt) - new Date(a.fetchedAt)
+    new Date(b.date) - new Date(a.date)
   )
 }
 
@@ -461,16 +465,17 @@ export function normalizeFeedItems(items = []) {
 
 export function filterFeedWindow(items = [], asOfDate = new Date(), normalized = false) {
   const normalizedItems = normalized ? items : normalizeFeedItems(items)
-  return sortFeedItems(normalizedItems.filter(item => isWithinHistoryWindow(item.date, asOfDate)))
+  return sortFeedItems(normalizedItems.filter(item => isWithinHistoryWindow(signalEditionDate(item), asOfDate)))
 }
 
-export function feedItemsForDate(items = [], targetDate, normalized = false, useFetchedAt = false) {
+export function feedItemsForDate(items = [], targetDate, normalized = false, useFetchedAt = false, limit) {
   const date = toISODate(targetDate)
   const normalizedItems = normalized ? items : normalizeFeedItems(items)
-  return sortFeedItems(normalizedItems.filter(item => {
-    const itemDate = useFetchedAt ? toISODate(item.fetchedAt) : item.date
+  const dailyItems = sortFeedItems(normalizedItems.filter(item => {
+    const itemDate = useFetchedAt ? signalEditionDate(item) : item.date
     return itemDate === date
   }))
+  return Number.isFinite(limit) ? dailyItems.slice(0, limit) : dailyItems
 }
 
 export function mergeFeedItems(existingFeed = [], incomingFeed = [], asOfDate = new Date()) {
