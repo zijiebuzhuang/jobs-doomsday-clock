@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026-06-14",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 2.19,
+    "macroReplacementRate": 49.848,
+    "newsAdjustment": -10.81,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "global-capitalism-bets-it-all-on-ai-future-alarming-voters",
+        "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
+        "summary": "A major AI company's rapid growth and public filing signal increased investment and adoption of AI in the workplace, signaling a shift in economic and labor dynamics.",
+        "date": "2026-06-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "startup growth",
+          "economic impact"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "my-yard-is-dying-so-i-made-an-app-for-that",
+        "title": "My yard is dying, so I made an app for that",
+        "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
+        "date": "2026-06-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "software development"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order",
+        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+        "summary": "Government action restricting access to AI models highlights regulatory pressure on AI adoption and its impact on workplace capabilities.",
+        "date": "2026-06-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "national-security",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "siri-won-t-be-your-ai-girlfriend",
+        "title": "Siri won’t be your AI girlfriend",
+        "summary": "Apple's decision to limit Siri's personality reflects growing concerns about AI ethics and user engagement, potentially slowing the adoption of more human-like AI assistants in the workplace.",
+        "date": "2026-06-12",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "user engagement",
+          "regulation"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "community-and-social-service",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-th",
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "summary": "Government intervention in response to Anthropic's safety concerns may slow the deployment of advanced AI models, affecting AI adoption and regulatory scrutiny in the tech and related industries.",
+        "date": "2026-06-13",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI adoption",
+          "safety"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "summary": "India's debate on AI policy and regulation is influenced by Anthropic's decision, signaling potential regulatory friction in AI adoption.",
+        "date": "2026-06-14",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-faces-investigation-from-state-attorneys-general",
+        "title": "OpenAI faces investigation from state attorneys general",
+        "summary": "Regulatory scrutiny of OpenAI may slow AI adoption by highlighting concerns around data handling and policies.",
+        "date": "2026-06-13",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "data-privacy",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-06-14T11:00:46.150Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Global Capitalism Bets It All on AI Future Alarming Voters.",
+        "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Global Capitalism Bets It All on AI Future Alarming Voters\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic cuts off Fable 5 and Mythos 5 access following government order\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.810 minutes. Updated 2026-06-14T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-13",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 1.888,
@@ -13567,47 +13779,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-15",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.713,
-    "macroReplacementRate": 49.12,
-    "newsAdjustment": -0.287,
-    "categoryAdjustments": {
-      "healthcare": -0.025,
-      "life-physical-and-social-science": -0.025,
-      "architecture-and-engineering": -0.025,
-      "management": -0.039,
-      "business-and-financial": -0.039,
-      "construction-and-extraction": -0.025,
-      "production": -0.039,
-      "installation-maintenance-and-repair": -0.025,
-      "education-training-and-library": -0.025,
-      "office-and-administrative-support": -0.093,
-      "transportation-and-material-moving": -0.025,
-      "personal-care-and-service": -0.025,
-      "sales": -0.025,
-      "media-and-communication": -0.025,
-      "computer-and-information-technology": -0.093,
-      "community-and-social-service": -0.025,
-      "arts-and-design": -0.025,
-      "entertainment-and-sports": -0.025,
-      "protective-service": -0.025,
-      "food-preparation-and-serving": -0.025,
-      "legal": -0.025,
-      "math": -0.025,
-      "farming-fishing-and-forestry": -0.025,
-      "building-and-grounds-cleaning": -0.025
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-15T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

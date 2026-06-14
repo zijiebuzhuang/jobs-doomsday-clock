@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:07",
+  "displayTime": "23:57:49",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 1.888,
+  "exactMinutesToMidnight": 2.19,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.112,
+  "newsAdjustment": -10.81,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.869,
+  "macroReplacementRate": 49.848,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,91 +3448,166 @@
   ],
   "newsFeed": [
     {
-      "id": "new-openai-academy-courses-for-the-next-era-of-work",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "summary": "OpenAI's new Academy courses signal a growing push to equip workers with practical AI skills and workflows, accelerating AI adoption in the workplace.",
-      "date": "2026-06-12",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI education",
-        "workforce development",
-        "productivity tools"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-commits-200-million-to-study-ai-s-impact-on-jobs",
-      "title": "Anthropic Commits $200 Million to Study AI’s Impact on Jobs",
-      "summary": "Anthropic's $200 million investment signals growing focus on understanding AI's impact on jobs, likely accelerating workplace AI integration and policy development.",
-      "date": "2026-06-11",
-      "source": "YourStory.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ib0k0bFlibmJXcFFqbi1WQWpUQklsalpHZEg4dldxWGFwa0dWN0tfVUZRa0lYSDZ3LTVBVUcwbzh3ZXZzbjVFOFRqZmF2akVsZjl1Y0JCMUxvUVR6MkEtczFGSDFBZ3ZhSUFwUXNYX3g1Q3dfaVFUQldYVkJLTlE?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI research",
-        "workplace impact",
-        "policy"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-probed-by-coalition-of-state-attorneys-general",
-      "title": "OpenAI Probed by Coalition of State Attorneys General",
-      "summary": "Investigation into OpenAI by state attorneys general may lead to regulatory constraints on AI development and deployment.",
+      "id": "global-capitalism-bets-it-all-on-ai-future-alarming-voters",
+      "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
+      "summary": "A major AI company's rapid growth and public filing signal increased investment and adoption of AI in the workplace, signaling a shift in economic and labor dynamics.",
       "date": "2026-06-13",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "legal",
-        "AI governance"
+        "AI adoption",
+        "enterprise AI",
+        "startup growth",
+        "economic impact"
       ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "anthropic-says-it-s-taking-claude-fable-5-offline-to-comply-with-us-government-o",
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "summary": "Regulatory action against an AI model highlights growing government oversight and potential constraints on AI adoption in the workplace.",
+      "id": "my-yard-is-dying-so-i-made-an-app-for-that",
+      "title": "My yard is dying, so I made an app for that",
+      "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
       "date": "2026-06-13",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "software development"
+      ],
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "Government action restricting access to AI models highlights regulatory pressure on AI adoption and its impact on workplace capabilities.",
+      "date": "2026-06-13",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "national-security",
+        "AI-adoption"
+      ],
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "siri-won-t-be-your-ai-girlfriend",
+      "title": "Siri won’t be your AI girlfriend",
+      "summary": "Apple's decision to limit Siri's personality reflects growing concerns about AI ethics and user engagement, potentially slowing the adoption of more human-like AI assistants in the workplace.",
+      "date": "2026-06-12",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "user engagement",
+        "regulation"
+      ],
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "community-and-social-service",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-th",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "summary": "Government intervention in response to Anthropic's safety concerns may slow the deployment of advanced AI models, affecting AI adoption and regulatory scrutiny in the tech and related industries.",
+      "date": "2026-06-13",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "AI adoption",
+        "safety"
+      ],
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "summary": "India's debate on AI policy and regulation is influenced by Anthropic's decision, signaling potential regulatory friction in AI adoption.",
+      "date": "2026-06-14",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-faces-investigation-from-state-attorneys-general",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "summary": "Regulatory scrutiny of OpenAI may slow AI adoption by highlighting concerns around data handling and policies.",
+      "date": "2026-06-13",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
         "regulation",
-        "AI safety",
-        "enterprise adoption"
+        "data-privacy",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
+      "fetchedAt": "2026-06-14T11:00:46.150Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3541,39 +3616,14 @@
         "legal",
         "_all"
       ]
-    },
-    {
-      "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "summary": "Anthropic's apology for hidden guardrails in Claude Fable 5 highlights regulatory and ethical concerns that may slow AI adoption and development in competitive environments.",
-      "date": "2026-06-11",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI regulation",
-        "ethical AI",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-06-13T11:00:52.076Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-06-13T23:24:31.165Z",
+  "generatedAt": "2026-06-14T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Daily signal pulse",
-      "preview": "A quick read on the latest pulse, led by New OpenAI Academy courses for the next era of work.",
-      "body": "This update is split between 2 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"New OpenAI Academy courses for the next era of work\" (OpenAI), while the clearest drag comes from \"Anthropic apologizes for invisible Claude Fable guardrails\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.112 minutes. Updated 2026-06-13T23:24:31.165Z, with the macro replacement estimate at 49.9%."
+      "title": "Regulatory headwinds and AI adoption shifts",
+      "preview": "Regulatory actions and corporate decisions shape AI's workplace impact.",
+      "body": "Recent news highlights a mix of AI advancement and regulatory slowdowns. Bloomberg reports on increased investment in AI, while The Verge notes government restrictions on models like Fable 5. TechCrunch details OpenAI's investigation and Anthropic's policy challenges, indicating growing scrutiny. Overall, the balance remains cautiously mixed."
     }
   }
 }
