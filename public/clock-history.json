@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-06-15",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 2.322,
+    "macroReplacementRate": 49.839,
+    "newsAdjustment": -10.678,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+        "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
+        "summary": "A major AI investment deal between Kazakhstan and Firebird Inc., supported by Nvidia, signals growing global interest in AI infrastructure and could boost tech-related job markets.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-ai-layoff-wave-is-becoming-a-powder-keg",
+        "title": "The AI layoff wave is becoming a powder keg",
+        "summary": "The growing divide between AI-driven wealth and job losses highlights increasing labor pressure and inequality in the AI era.",
+        "date": "2026-06-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI labor impact",
+          "inequality",
+          "workforce disruption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "introducing-the-openai-partner-network",
+        "title": "Introducing the OpenAI Partner Network",
+        "summary": "OpenAI's Partner Network invests $150M to accelerate enterprise AI adoption, signaling increased momentum in AI integration across industries.",
+        "date": "2026-06-14",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "adoption",
+          "corporate partnerships"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "the-future-of-hollywood-isn-t-feeding-prompts-into-vanilla-gen-ai-models",
+        "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+        "summary": "AI tools are being used in creative industries like filmmaking, indicating growing adoption of AI in entertainment and design workflows.",
+        "date": "2026-06-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI in creative industries",
+          "workflow changes",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "arts-and-design",
+          "media-and-communication",
+          "entertainment-and-sports"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+        "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
+        "summary": "AI-generated films in South Korea signal growing adoption of AI in creative industries, indicating potential shifts in skills and workflows for media and entertainment roles.",
+        "date": "2026-06-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI in media",
+          "creative industries",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "arts-and-design",
+          "entertainment-and-sports"
+        ]
+      },
+      {
+        "id": "anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+        "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+        "summary": "US restrictions on foreign access to Anthropic's AI models signal increased regulatory control over AI, potentially slowing global collaboration and adoption.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise-ai"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+        "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
+        "summary": "A US export ban on AI technology raises concerns about global AI development and could slow international collaboration and adoption.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "global-ai",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-restricts-mythos-after-us-order",
+        "title": "Anthropic Restricts Mythos After US Order",
+        "summary": "Regulatory action against advanced AI models could slow the adoption of AI in various industries and influence future AI development and deployment.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-restricts-mythos-after-us-order-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI policy",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "us-orders-anthropic-to-block-foreign-access-to-mythos",
+        "title": "US Orders Anthropic to Block Foreign Access to Mythos",
+        "summary": "Regulatory action limits foreign access to advanced AI models, potentially slowing global AI adoption and collaboration.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "security",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-06-15T11:00:52.524Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support.",
+        "body": "This update is split between 4 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support\" (Bloomberg Technology), while the clearest drag comes from \"The AI layoff wave is becoming a powder keg\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.678 minutes. Updated 2026-06-15T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-14",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 2.19,
@@ -13738,47 +13997,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-17T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-16",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.634,
-    "macroReplacementRate": 49.125,
-    "newsAdjustment": -0.366,
-    "categoryAdjustments": {
-      "healthcare": -0.026,
-      "life-physical-and-social-science": -0.026,
-      "architecture-and-engineering": -0.026,
-      "management": -0.061,
-      "business-and-financial": -0.061,
-      "construction-and-extraction": -0.026,
-      "production": -0.04,
-      "installation-maintenance-and-repair": -0.026,
-      "education-training-and-library": -0.026,
-      "office-and-administrative-support": -0.094,
-      "transportation-and-material-moving": -0.026,
-      "personal-care-and-service": -0.026,
-      "sales": -0.026,
-      "media-and-communication": -0.026,
-      "computer-and-information-technology": -0.115,
-      "community-and-social-service": -0.026,
-      "arts-and-design": -0.026,
-      "entertainment-and-sports": -0.026,
-      "protective-service": -0.026,
-      "food-preparation-and-serving": -0.026,
-      "legal": -0.026,
-      "math": -0.026,
-      "farming-fishing-and-forestry": -0.026,
-      "building-and-grounds-cleaning": -0.026
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-16T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

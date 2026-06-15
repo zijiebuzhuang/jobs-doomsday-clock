@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:49",
+  "displayTime": "23:57:41",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.19,
+  "exactMinutesToMidnight": 2.322,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.81,
+  "newsAdjustment": -10.678,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.848,
+  "macroReplacementRate": 49.839,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,21 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "global-capitalism-bets-it-all-on-ai-future-alarming-voters",
-      "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
-      "summary": "A major AI company's rapid growth and public filing signal increased investment and adoption of AI in the workplace, signaling a shift in economic and labor dynamics.",
-      "date": "2026-06-13",
+      "id": "kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+      "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
+      "summary": "A major AI investment deal between Kazakhstan and Firebird Inc., supported by Nvidia, signals growing global interest in AI infrastructure and could boost tech-related job markets.",
+      "date": "2026-06-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "startup growth",
-        "economic impact"
+        "AI infrastructure",
+        "investment",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3473,142 +3472,190 @@
       ]
     },
     {
-      "id": "my-yard-is-dying-so-i-made-an-app-for-that",
-      "title": "My yard is dying, so I made an app for that",
-      "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
+      "id": "the-ai-layoff-wave-is-becoming-a-powder-keg",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "summary": "The growing divide between AI-driven wealth and job losses highlights increasing labor pressure and inequality in the AI era.",
+      "date": "2026-06-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI labor impact",
+        "inequality",
+        "workforce disruption"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "introducing-the-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI's Partner Network invests $150M to accelerate enterprise AI adoption, signaling increased momentum in AI integration across industries.",
+      "date": "2026-06-14",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise AI",
+        "adoption",
+        "corporate partnerships"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "the-future-of-hollywood-isn-t-feeding-prompts-into-vanilla-gen-ai-models",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "summary": "AI tools are being used in creative industries like filmmaking, indicating growing adoption of AI in entertainment and design workflows.",
       "date": "2026-06-13",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI tools",
-        "productivity",
-        "software development"
-      ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order",
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "summary": "Government action restricting access to AI models highlights regulatory pressure on AI adoption and its impact on workplace capabilities.",
-      "date": "2026-06-13",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "national-security",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "siri-won-t-be-your-ai-girlfriend",
-      "title": "Siri won’t be your AI girlfriend",
-      "summary": "Apple's decision to limit Siri's personality reflects growing concerns about AI ethics and user engagement, potentially slowing the adoption of more human-like AI assistants in the workplace.",
-      "date": "2026-06-12",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "user engagement",
-        "regulation"
-      ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "community-and-social-service",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-th",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "summary": "Government intervention in response to Anthropic's safety concerns may slow the deployment of advanced AI models, affecting AI adoption and regulatory scrutiny in the tech and related industries.",
-      "date": "2026-06-13",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI adoption",
-        "safety"
-      ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "summary": "India's debate on AI policy and regulation is influenced by Anthropic's decision, signaling potential regulatory friction in AI adoption.",
-      "date": "2026-06-14",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
+        "AI in creative industries",
+        "workflow changes",
         "AI adoption"
       ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
       "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "arts-and-design",
+        "media-and-communication",
+        "entertainment-and-sports"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+      "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
+      "summary": "AI-generated films in South Korea signal growing adoption of AI in creative industries, indicating potential shifts in skills and workflows for media and entertainment roles.",
+      "date": "2026-06-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI in media",
+        "creative industries",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "media-and-communication",
+        "arts-and-design",
+        "entertainment-and-sports"
+      ]
+    },
+    {
+      "id": "anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+      "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+      "summary": "US restrictions on foreign access to Anthropic's AI models signal increased regulatory control over AI, potentially slowing global collaboration and adoption.",
+      "date": "2026-06-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "enterprise-ai"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "openai-faces-investigation-from-state-attorneys-general",
-      "title": "OpenAI faces investigation from state attorneys general",
-      "summary": "Regulatory scrutiny of OpenAI may slow AI adoption by highlighting concerns around data handling and policies.",
-      "date": "2026-06-13",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "id": "anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+      "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
+      "summary": "A US export ban on AI technology raises concerns about global AI development and could slow international collaboration and adoption.",
+      "date": "2026-06-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
         "regulation",
-        "data-privacy",
-        "AI-adoption"
+        "global-ai",
+        "policy"
       ],
-      "fetchedAt": "2026-06-14T11:00:46.150Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-restricts-mythos-after-us-order",
+      "title": "Anthropic Restricts Mythos After US Order",
+      "summary": "Regulatory action against advanced AI models could slow the adoption of AI in various industries and influence future AI development and deployment.",
+      "date": "2026-06-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-restricts-mythos-after-us-order-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "AI policy",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "us-orders-anthropic-to-block-foreign-access-to-mythos",
+      "title": "US Orders Anthropic to Block Foreign Access to Mythos",
+      "summary": "Regulatory action limits foreign access to advanced AI models, potentially slowing global AI adoption and collaboration.",
+      "date": "2026-06-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "security",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3618,12 +3665,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-06-14T12:00:00.000Z",
+  "generatedAt": "2026-06-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory headwinds and AI adoption shifts",
-      "preview": "Regulatory actions and corporate decisions shape AI's workplace impact.",
-      "body": "Recent news highlights a mix of AI advancement and regulatory slowdowns. Bloomberg reports on increased investment in AI, while The Verge notes government restrictions on models like Fable 5. TechCrunch details OpenAI's investigation and Anthropic's policy challenges, indicating growing scrutiny. Overall, the balance remains cautiously mixed."
+      "title": "AI Investment and Regulation Shape Job Market Dynamics",
+      "preview": "Global AI investments contrast with regulatory headwinds affecting adoption.",
+      "body": "Recent developments show strong momentum in AI infrastructure, with Kazakhstan and Firebird securing a $10B deal supported by Nvidia. However, regulatory actions like US export bans on Anthropic models signal growing restrictions that may slow global AI integration. While creative industries continue adopting AI, concerns about job displacement persist as labor pressures rise."
     }
   }
 }

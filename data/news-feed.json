@@ -1,5 +1,222 @@
 [
   {
+    "id": "introducing-the-openai-partner-network",
+    "title": "Introducing the OpenAI Partner Network",
+    "summary": "OpenAI's Partner Network invests $150M to accelerate enterprise AI adoption, signaling increased momentum in AI integration across industries.",
+    "date": "2026-06-14",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "adoption",
+      "corporate partnerships"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "the-future-of-hollywood-isn-t-feeding-prompts-into-vanilla-gen-ai-models",
+    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+    "summary": "AI tools are being used in creative industries like filmmaking, indicating growing adoption of AI in entertainment and design workflows.",
+    "date": "2026-06-13",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI in creative industries",
+      "workflow changes",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "arts-and-design",
+      "media-and-communication",
+      "entertainment-and-sports"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+    "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
+    "summary": "A major AI investment deal between Kazakhstan and Firebird Inc., supported by Nvidia, signals growing global interest in AI infrastructure and could boost tech-related job markets.",
+    "date": "2026-06-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "investment",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-ai-layoff-wave-is-becoming-a-powder-keg",
+    "title": "The AI layoff wave is becoming a powder keg",
+    "summary": "The growing divide between AI-driven wealth and job losses highlights increasing labor pressure and inequality in the AI era.",
+    "date": "2026-06-15",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI labor impact",
+      "inequality",
+      "workforce disruption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+    "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+    "summary": "US restrictions on foreign access to Anthropic's AI models signal increased regulatory control over AI, potentially slowing global collaboration and adoption.",
+    "date": "2026-06-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise-ai"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+    "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
+    "summary": "A US export ban on AI technology raises concerns about global AI development and could slow international collaboration and adoption.",
+    "date": "2026-06-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "global-ai",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-restricts-mythos-after-us-order",
+    "title": "Anthropic Restricts Mythos After US Order",
+    "summary": "Regulatory action against advanced AI models could slow the adoption of AI in various industries and influence future AI development and deployment.",
+    "date": "2026-06-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-restricts-mythos-after-us-order-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI policy",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-orders-anthropic-to-block-foreign-access-to-mythos",
+    "title": "US Orders Anthropic to Block Foreign Access to Mythos",
+    "summary": "Regulatory action limits foreign access to advanced AI models, potentially slowing global AI adoption and collaboration.",
+    "date": "2026-06-15",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "security",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+    "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
+    "summary": "AI-generated films in South Korea signal growing adoption of AI in creative industries, indicating potential shifts in skills and workflows for media and entertainment roles.",
+    "date": "2026-06-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI in media",
+      "creative industries",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-06-15T11:00:52.524Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "arts-and-design",
+      "entertainment-and-sports"
+    ]
+  },
+  {
     "id": "my-yard-is-dying-so-i-made-an-app-for-that",
     "title": "My yard is dying, so I made an app for that",
     "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
