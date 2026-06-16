@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:41",
+  "displayTime": "23:57:40",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.322,
+  "exactMinutesToMidnight": 2.326,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.678,
+  "newsAdjustment": -10.674,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -3448,229 +3448,210 @@
   ],
   "newsFeed": [
     {
-      "id": "kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
-      "title": "Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support",
-      "summary": "A major AI investment deal between Kazakhstan and Firebird Inc., supported by Nvidia, signals growing global interest in AI infrastructure and could boost tech-related job markets.",
-      "date": "2026-06-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/kazakhstan-firebird-ink-10-billion-ai-deal-with-nvidia-support",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "investment",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-ai-layoff-wave-is-becoming-a-powder-keg",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "summary": "The growing divide between AI-driven wealth and job losses highlights increasing labor pressure and inequality in the AI era.",
+      "id": "salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "summary": "Salesforce's acquisition of Fin signals increased AI adoption in enterprise customer service and automation, pushing AI capabilities into mainstream business workflows.",
       "date": "2026-06-15",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "effect": "delay",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI labor impact",
-        "inequality",
-        "workforce disruption"
+        "enterprise-ai",
+        "customer-service-automation",
+        "ai-acquisition"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "management",
         "business-and-financial",
-        "_all"
+        "computer-and-information-technology",
+        "office-and-administrative-support"
       ]
     },
     {
-      "id": "introducing-the-openai-partner-network",
-      "title": "Introducing the OpenAI Partner Network",
-      "summary": "OpenAI's Partner Network invests $150M to accelerate enterprise AI adoption, signaling increased momentum in AI integration across industries.",
-      "date": "2026-06-14",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+      "id": "plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
+      "title": "Plaud Plans New Wearable as AI Note-Taking Startup Eyes $500 Million in Sales",
+      "summary": "A startup developing AI note-taking wearables plans a new product and expects significant sales, signaling growing adoption of AI in productivity tools.",
+      "date": "2026-06-16",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise AI",
-        "adoption",
-        "corporate partnerships"
+        "AI tools",
+        "productivity",
+        "wearable tech",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "the-future-of-hollywood-isn-t-feeding-prompts-into-vanilla-gen-ai-models",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "AI tools are being used in creative industries like filmmaking, indicating growing adoption of AI in entertainment and design workflows.",
-      "date": "2026-06-13",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI in creative industries",
-        "workflow changes",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "arts-and-design",
-        "media-and-communication",
-        "entertainment-and-sports"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figure05_700_6_1080p.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "south-korea-s-floundering-movie-business-turns-to-ai-for-help",
-      "title": "South Korea’s Floundering Movie Business Turns to AI for Help",
-      "summary": "AI-generated films in South Korea signal growing adoption of AI in creative industries, indicating potential shifts in skills and workflows for media and entertainment roles.",
-      "date": "2026-06-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI in media",
-        "creative industries",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "media-and-communication",
-        "arts-and-design",
-        "entertainment-and-sports"
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
       ]
     },
     {
-      "id": "anthropic-block-marks-us-reversal-warning-to-silicon-valley",
-      "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
-      "summary": "US restrictions on foreign access to Anthropic's AI models signal increased regulatory control over AI, potentially slowing global collaboration and adoption.",
+      "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "summary": "U.S. government intervention in AI development highlights regulatory challenges that may slow AI adoption in the workforce.",
       "date": "2026-06-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
         "policy",
-        "enterprise-ai"
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-upskilling-at-scale-bank-of-america-s-bernard-hampton",
+      "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
+      "summary": "Bank of America is proactively upskilling its global workforce for AI, emphasizing both technical and soft skills to prepare for an AI-driven future.",
+      "date": "2026-06-16",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce development",
+        "training"
+      ],
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/67c493da-3759-11f1-8c32-27e5cd85595a/image/4f78eb458bc7a5069d265894354db2e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4303104044.mp3?updated=1776100609",
+      "duration": "30 min"
+    },
+    {
+      "id": "spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+      "title": "SpaceX Cements $60 Billion Deal to Take Over AI Startup Cursor",
+      "summary": "SpaceX's $60 billion acquisition of AI coding startup Cursor signals a major push toward integrating advanced AI tools into software development and engineering workflows.",
+      "date": "2026-06-16",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "enterprise AI",
+        "coding tools",
+        "startup acquisition"
+      ],
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
+        "architecture-and-engineering",
+        "management"
       ]
     },
     {
-      "id": "anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
-      "title": "Anthropic Export Ban Deepens Fears About US Stranglehold on AI",
-      "summary": "A US export ban on AI technology raises concerns about global AI development and could slow international collaboration and adoption.",
+      "id": "anthropic-holds-talks-with-us-in-bid-to-lift-curbs-on-ai-models",
+      "title": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
+      "summary": "Regulatory pressure from the US government may slow the adoption of advanced AI models, affecting how companies deploy AI in the workplace.",
       "date": "2026-06-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-15/anthropic-export-ban-deepens-fears-about-us-stranglehold-on-ai",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "global-ai",
+        "AI models",
         "policy"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "anthropic-restricts-mythos-after-us-order",
-      "title": "Anthropic Restricts Mythos After US Order",
-      "summary": "Regulatory action against advanced AI models could slow the adoption of AI in various industries and influence future AI development and deployment.",
-      "date": "2026-06-15",
+      "id": "trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
+      "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
+      "summary": "A U.S. administration crackdown on AI development raises concerns about global competition and regulatory pressures on AI adoption.",
+      "date": "2026-06-16",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/anthropic-restricts-mythos-after-us-order-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
+        "policy",
         "regulation",
-        "AI policy",
-        "enterprise adoption"
+        "global-competition"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "us-orders-anthropic-to-block-foreign-access-to-mythos",
-      "title": "US Orders Anthropic to Block Foreign Access to Mythos",
-      "summary": "Regulatory action limits foreign access to advanced AI models, potentially slowing global AI adoption and collaboration.",
+      "id": "all-the-news-about-anthropic-s-new-ai-fight-with-the-white-house",
+      "title": "All the news about Anthropic’s new AI fight with the White House",
+      "summary": "Government restrictions on foreign access to new AI models highlight regulatory challenges that could slow AI adoption and impact global collaboration in tech sectors.",
       "date": "2026-06-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "security",
-        "enterprise-adoption"
+        "enterprise-adoption",
+        "policy"
       ],
-      "fetchedAt": "2026-06-15T11:00:52.524Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-06-15T12:00:00.000Z",
+  "generatedAt": "2026-06-16T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Investment and Regulation Shape Job Market Dynamics",
-      "preview": "Global AI investments contrast with regulatory headwinds affecting adoption.",
-      "body": "Recent developments show strong momentum in AI infrastructure, with Kazakhstan and Firebird securing a $10B deal supported by Nvidia. However, regulatory actions like US export bans on Anthropic models signal growing restrictions that may slow global AI integration. While creative industries continue adopting AI, concerns about job displacement persist as labor pressures rise."
+      "title": "AI Adoption Advances Amid Regulatory Headwinds",
+      "preview": "Major acquisitions and upskilling efforts signal AI growth, but regulatory actions may slow progress.",
+      "body": "Recent developments show strong AI advancement, including Salesforce's $3.6B acquisition of Fin and SpaceX's $60B deal for Cursor. However, regulatory interventions, such as the U.S. government's restrictions on AI models, introduce delays. Overall, the balance remains positive but cautious, with growing adoption offset by increasing oversight."
     }
   }
 }

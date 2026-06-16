@@ -1,5 +1,245 @@
 [
   {
+    "date": "2026-06-16",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 2.326,
+    "macroReplacementRate": 49.839,
+    "newsAdjustment": -10.674,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+        "summary": "Salesforce's acquisition of Fin signals increased AI adoption in enterprise customer service and automation, pushing AI capabilities into mainstream business workflows.",
+        "date": "2026-06-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-ai",
+          "customer-service-automation",
+          "ai-acquisition"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
+        "title": "Plaud Plans New Wearable as AI Note-Taking Startup Eyes $500 Million in Sales",
+        "summary": "A startup developing AI note-taking wearables plans a new product and expects significant sales, signaling growing adoption of AI in productivity tools.",
+        "date": "2026-06-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "wearable tech",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak",
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "summary": "U.S. government intervention in AI development highlights regulatory challenges that may slow AI adoption in the workforce.",
+        "date": "2026-06-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-upskilling-at-scale-bank-of-america-s-bernard-hampton",
+        "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
+        "summary": "Bank of America is proactively upskilling its global workforce for AI, emphasizing both technical and soft skills to prepare for an AI-driven future.",
+        "date": "2026-06-16",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce development",
+          "training"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/67c493da-3759-11f1-8c32-27e5cd85595a/image/4f78eb458bc7a5069d265894354db2e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4303104044.mp3?updated=1776100609",
+        "duration": "30 min"
+      },
+      {
+        "id": "spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+        "title": "SpaceX Cements $60 Billion Deal to Take Over AI Startup Cursor",
+        "summary": "SpaceX's $60 billion acquisition of AI coding startup Cursor signals a major push toward integrating advanced AI tools into software development and engineering workflows.",
+        "date": "2026-06-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "coding tools",
+          "startup acquisition"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "management"
+        ]
+      },
+      {
+        "id": "anthropic-holds-talks-with-us-in-bid-to-lift-curbs-on-ai-models",
+        "title": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
+        "summary": "Regulatory pressure from the US government may slow the adoption of advanced AI models, affecting how companies deploy AI in the workplace.",
+        "date": "2026-06-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI models",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
+        "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
+        "summary": "A U.S. administration crackdown on AI development raises concerns about global competition and regulatory pressures on AI adoption.",
+        "date": "2026-06-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "global-competition"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "all-the-news-about-anthropic-s-new-ai-fight-with-the-white-house",
+        "title": "All the news about Anthropic’s new AI fight with the White House",
+        "summary": "Government restrictions on foreign access to new AI models highlight regulatory challenges that could slow AI adoption and impact global collaboration in tech sectors.",
+        "date": "2026-06-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-16T11:00:55.559Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Salesforce acquires AI customer service platform Fin for $3.6B.",
+        "body": "This update is split between 4 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Salesforce acquires AI customer service platform Fin for $3.6B\" (TechCrunch - AI), while the clearest drag comes from \"The US government’s Anthropic models ban was never about an AI jailbreak\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.674 minutes. Updated 2026-06-16T12:00:00.000Z, with the macro replacement estimate at 49.8%."
+      }
+    }
+  },
+  {
     "date": "2026-06-15",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 2.322,
@@ -13956,47 +14196,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-17",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.631,
-    "macroReplacementRate": 49.126,
-    "newsAdjustment": -0.369,
-    "categoryAdjustments": {
-      "healthcare": -0.027,
-      "life-physical-and-social-science": -0.027,
-      "architecture-and-engineering": -0.027,
-      "management": -0.062,
-      "business-and-financial": -0.062,
-      "construction-and-extraction": -0.027,
-      "production": -0.041,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.027,
-      "office-and-administrative-support": -0.095,
-      "transportation-and-material-moving": -0.027,
-      "personal-care-and-service": -0.027,
-      "sales": -0.027,
-      "media-and-communication": -0.027,
-      "computer-and-information-technology": -0.116,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.027,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.027,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-17T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
