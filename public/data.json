@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:57:40",
+  "displayTime": "23:58:13",
   "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 2.326,
+  "exactMinutesToMidnight": 1.778,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -10.674,
+  "newsAdjustment": -11.222,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.839,
+  "macroReplacementRate": 49.877,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,46 +3448,93 @@
   ],
   "newsFeed": [
     {
-      "id": "salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "summary": "Salesforce's acquisition of Fin signals increased AI adoption in enterprise customer service and automation, pushing AI capabilities into mainstream business workflows.",
-      "date": "2026-06-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "id": "hsbc-expects-over-100-million-gains-from-using-google-ai-tools",
+      "title": "HSBC Expects Over $100 Million Gains From Using Google AI Tools",
+      "summary": "HSBC's adoption of Google AI tools signals increased AI integration in finance, likely boosting productivity and reshaping workflows.",
+      "date": "2026-06-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-ai",
-        "customer-service-automation",
-        "ai-acquisition"
+        "enterprise-adoption",
+        "productivity",
+        "financial-services"
       ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
-        "office-and-administrative-support"
+        "_all"
       ]
     },
     {
-      "id": "plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
-      "title": "Plaud Plans New Wearable as AI Note-Taking Startup Eyes $500 Million in Sales",
-      "summary": "A startup developing AI note-taking wearables plans a new product and expects significant sales, signaling growing adoption of AI in productivity tools.",
-      "date": "2026-06-16",
+      "id": "singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
+      "title": "Singapore’s Sea Tests AI Chatbot Migoo in Quiet US Foray",
+      "summary": "Sea Ltd. introducing an AI chatbot in the US signals growing AI adoption by global tech companies, potentially influencing customer service and tech industries.",
+      "date": "2026-06-17",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "consumer tech",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "media-and-communication"
+      ]
+    },
+    {
+      "id": "poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
+      "title": "Poland Invests $11 Million in ElevenLabs to Build AI Tech Hub",
+      "summary": "Poland's investment in ElevenLabs signals growing AI infrastructure and talent development, likely boosting tech and related fields.",
+      "date": "2026-06-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "productivity",
-        "wearable tech",
-        "enterprise adoption"
+        "AI infrastructure",
+        "investment",
+        "workforce development"
       ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
       "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "summary": "Google's Android 17 release with enhanced AI features signals increased AI adoption in consumer and enterprise devices, potentially affecting workflows and productivity across multiple industries.",
+      "date": "2026-06-16",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "consumer technology"
+      ],
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3497,161 +3544,133 @@
       ]
     },
     {
-      "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak",
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "summary": "U.S. government intervention in AI development highlights regulatory challenges that may slow AI adoption in the workforce.",
-      "date": "2026-06-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-upskilling-at-scale-bank-of-america-s-bernard-hampton",
-      "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
-      "summary": "Bank of America is proactively upskilling its global workforce for AI, emphasizing both technical and soft skills to prepare for an AI-driven future.",
+      "id": "nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-perfor",
+      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+      "summary": "NVIDIA's performance in MLPerf Training 6.0 highlights advancements in AI infrastructure, signaling improved capabilities for AI training and deployment across industries.",
       "date": "2026-06-16",
-      "source": "Apple Podcasts - Me, Myself, and AI",
-      "sourceUrl": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce development",
-        "training"
+        "AI infrastructure",
+        "model performance",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/image1-7-768x432.png"
+    },
+    {
+      "id": "china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
+      "title": "China Watchdog Urges More IPOs From AI, Hong Kong Listed Firms",
+      "summary": "China's push for AI and Hong Kong-listed firms to go public signals growing support for AI development and integration into financial markets.",
+      "date": "2026-06-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "funding",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/67c493da-3759-11f1-8c32-27e5cd85595a/image/4f78eb458bc7a5069d265894354db2e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4303104044.mp3?updated=1776100609",
-      "duration": "30 min"
+      ]
     },
     {
-      "id": "spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
-      "title": "SpaceX Cements $60 Billion Deal to Take Over AI Startup Cursor",
-      "summary": "SpaceX's $60 billion acquisition of AI coding startup Cursor signals a major push toward integrating advanced AI tools into software development and engineering workflows.",
-      "date": "2026-06-16",
+      "id": "singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
+      "title": "Singapore’s Electronics Exports Jump by Record on AI Demand Boom",
+      "summary": "Increased AI demand is driving record electronics exports in Singapore, signaling growing adoption of AI infrastructure and tools.",
+      "date": "2026-06-17",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "enterprise AI",
-        "coding tools",
-        "startup acquisition"
+        "global demand",
+        "electronics industry"
       ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
-        "management"
-      ]
-    },
-    {
-      "id": "anthropic-holds-talks-with-us-in-bid-to-lift-curbs-on-ai-models",
-      "title": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
-      "summary": "Regulatory pressure from the US government may slow the adoption of advanced AI models, affecting how companies deploy AI in the workplace.",
-      "date": "2026-06-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI models",
-        "policy"
-      ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
+        "production",
         "_all"
       ]
     },
     {
-      "id": "trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
-      "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
-      "summary": "A U.S. administration crackdown on AI development raises concerns about global competition and regulatory pressures on AI adoption.",
+      "id": "spacex-is-officially-buying-cursor-for-60-billion",
+      "title": "SpaceX is officially buying Cursor for $60 billion",
+      "summary": "SpaceX's $60 billion acquisition of Cursor signals a major push to integrate AI tools into enterprise workflows, enhancing its competitive position in the AI landscape.",
       "date": "2026-06-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "global-competition"
-      ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "all-the-news-about-anthropic-s-new-ai-fight-with-the-white-house",
-      "title": "All the news about Anthropic’s new AI fight with the White House",
-      "summary": "Government restrictions on foreign access to new AI models highlight regulatory challenges that could slow AI adoption and impact global collaboration in tech sectors.",
-      "date": "2026-06-15",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "effect": "delay",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "enterprise-adoption",
-        "policy"
+        "enterprise AI",
+        "AI adoption",
+        "company acquisition"
       ],
-      "fetchedAt": "2026-06-16T11:00:55.559Z",
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
+      "title": "BOK Warns AI-Driven Bonus Windfalls May Stoke Broader Inflation",
+      "summary": "AI-driven growth in South Korea's semiconductor industry may lead to higher wages and increased consumer demand, signaling broader economic effects of AI adoption.",
+      "date": "2026-06-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "economic-impact",
+        "wage-growth",
+        "ai-adoption"
+      ],
+      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "production"
+      ]
     }
   ],
-  "generatedAt": "2026-06-16T12:00:00.000Z",
+  "generatedAt": "2026-06-17T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances Amid Regulatory Headwinds",
-      "preview": "Major acquisitions and upskilling efforts signal AI growth, but regulatory actions may slow progress.",
-      "body": "Recent developments show strong AI advancement, including Salesforce's $3.6B acquisition of Fin and SpaceX's $60B deal for Cursor. However, regulatory interventions, such as the U.S. government's restrictions on AI models, introduce delays. Overall, the balance remains positive but cautious, with growing adoption offset by increasing oversight."
+      "title": "AI Adoption Accelerates Across Sectors",
+      "preview": "New AI integrations and investments signal growing industry adoption.",
+      "body": "Recent developments show continued momentum in AI integration, with financial institutions, tech firms, and governments investing heavily. Highlights include HSBC leveraging Google AI tools and Singapore boosting AI infrastructure. Overall, the trend points to increased AI influence across multiple sectors."
     }
   }
 }

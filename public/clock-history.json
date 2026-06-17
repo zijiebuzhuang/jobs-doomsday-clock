@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-06-17",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 1.778,
+    "macroReplacementRate": 49.877,
+    "newsAdjustment": -11.222,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "hsbc-expects-over-100-million-gains-from-using-google-ai-tools",
+        "title": "HSBC Expects Over $100 Million Gains From Using Google AI Tools",
+        "summary": "HSBC's adoption of Google AI tools signals increased AI integration in finance, likely boosting productivity and reshaping workflows.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "productivity",
+          "financial-services"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
+        "title": "Singapore’s Sea Tests AI Chatbot Migoo in Quiet US Foray",
+        "summary": "Sea Ltd. introducing an AI chatbot in the US signals growing AI adoption by global tech companies, potentially influencing customer service and tech industries.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "consumer tech",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "media-and-communication"
+        ]
+      },
+      {
+        "id": "poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
+        "title": "Poland Invests $11 Million in ElevenLabs to Build AI Tech Hub",
+        "summary": "Poland's investment in ElevenLabs signals growing AI infrastructure and talent development, likely boosting tech and related fields.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "workforce development"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature",
+        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+        "summary": "Google's Android 17 release with enhanced AI features signals increased AI adoption in consumer and enterprise devices, potentially affecting workflows and productivity across multiple industries.",
+        "date": "2026-06-16",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "consumer technology"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-perfor",
+        "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+        "summary": "NVIDIA's performance in MLPerf Training 6.0 highlights advancements in AI infrastructure, signaling improved capabilities for AI training and deployment across industries.",
+        "date": "2026-06-16",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "model performance",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/image1-7-768x432.png"
+      },
+      {
+        "id": "china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
+        "title": "China Watchdog Urges More IPOs From AI, Hong Kong Listed Firms",
+        "summary": "China's push for AI and Hong Kong-listed firms to go public signals growing support for AI development and integration into financial markets.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "funding",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
+        "title": "Singapore’s Electronics Exports Jump by Record on AI Demand Boom",
+        "summary": "Increased AI demand is driving record electronics exports in Singapore, signaling growing adoption of AI infrastructure and tools.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "global demand",
+          "electronics industry"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "spacex-is-officially-buying-cursor-for-60-billion",
+        "title": "SpaceX is officially buying Cursor for $60 billion",
+        "summary": "SpaceX's $60 billion acquisition of Cursor signals a major push to integrate AI tools into enterprise workflows, enhancing its competitive position in the AI landscape.",
+        "date": "2026-06-16",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "AI adoption",
+          "company acquisition"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
+        "title": "BOK Warns AI-Driven Bonus Windfalls May Stoke Broader Inflation",
+        "summary": "AI-driven growth in South Korea's semiconductor industry may lead to higher wages and increased consumer demand, signaling broader economic effects of AI adoption.",
+        "date": "2026-06-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "economic-impact",
+          "wage-growth",
+          "ai-adoption"
+        ],
+        "fetchedAt": "2026-06-17T11:00:51.916Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "production"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by HSBC Expects Over $100 Million Gains From Using Google AI Tools.",
+        "body": "This update leans forward, with 9 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"HSBC Expects Over $100 Million Gains From Using Google AI Tools\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -11.222 minutes. Updated 2026-06-17T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-16",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 2.326,
@@ -14155,47 +14414,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-19T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-18",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.687,
-    "macroReplacementRate": 49.122,
-    "newsAdjustment": -0.313,
-    "categoryAdjustments": {
-      "healthcare": -0.027,
-      "life-physical-and-social-science": -0.027,
-      "architecture-and-engineering": -0.027,
-      "management": -0.062,
-      "business-and-financial": -0.062,
-      "construction-and-extraction": -0.027,
-      "production": -0.041,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.027,
-      "office-and-administrative-support": -0.095,
-      "transportation-and-material-moving": -0.027,
-      "personal-care-and-service": -0.027,
-      "sales": -0.027,
-      "media-and-communication": -0.012,
-      "computer-and-information-technology": -0.101,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.012,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.027,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-18T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
