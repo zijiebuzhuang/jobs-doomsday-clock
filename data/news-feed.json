@@ -1,5 +1,173 @@
 [
   {
+    "id": "anthropic-got-hit-by-export-rules-nobody-understands",
+    "title": "Anthropic got hit by export rules nobody understands",
+    "summary": "Export controls are restricting access to AI models, creating friction in AI adoption and affecting global collaboration.",
+    "date": "2026-06-17",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI adoption",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-ban-forces-investor-rethink-of-political-risk",
+    "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
+    "summary": "Political risks are introducing new challenges for AI investment, potentially slowing the pace of AI adoption and development.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-ban-forces-investors-to-reckon-with-political-risk",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "investment",
+      "regulation"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "swiss-ai-startup-prem-is-raising-100-million-series-a-round",
+    "title": "Swiss AI Startup Prem Is Raising $100 Million Series A Round",
+    "summary": "A major funding round for a Swiss AI startup indicates growing investment in enterprise AI infrastructure, signaling increased adoption of AI tools in professional sectors like finance and law.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/swiss-ai-startup-prem-is-raising-100-million-series-a-round",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-ai",
+      "funding",
+      "infrastructure"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "legal",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "ai-company-dream-triples-value-to-3-billion-in-funding-round",
+    "title": "AI Company Dream Triples Value to $3 Billion in Funding Round",
+    "summary": "A significant funding round for an AI cybersecurity company signals growing investment in AI-driven security solutions, indicating increased adoption and importance of AI in critical infrastructure and government sectors.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI funding",
+      "cybersecurity",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "plurimi-cio-sees-value-in-ai-supply-chain",
+    "title": "Plurimi CIO Sees Value in AI Supply Chain",
+    "summary": "A CIO's investment strategy highlights growing interest in AI infrastructure companies, signaling increased adoption and demand for AI-related technologies.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-18/plurimi-cio-sees-value-in-ai-supply-chain-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "supply chain",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-for-industry-is-europe-s-hope-to-salvage-manufacturing-edge",
+    "title": "AI for Industry Is Europe’s Hope to Salvage Manufacturing Edge",
+    "summary": "Europe is accelerating AI adoption in manufacturing to improve efficiency and maintain competitive advantage.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "manufacturing",
+      "workplace efficiency"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "production",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "star-google-researcher-joins-openai-in-coup-for-chatgpt-creator",
+    "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
+    "summary": "A top Google researcher joining OpenAI signals increased competition and talent movement in AI development, accelerating the race for advanced AI capabilities.",
+    "date": "2026-06-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/star-google-researcher-jumps-to-openai-in-coup-for-startup",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "talent migration",
+      "AI competition",
+      "researcher movement"
+    ],
+    "fetchedAt": "2026-06-18T11:00:52.405Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
     "id": "nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-perfor",
     "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
     "summary": "NVIDIA's performance in MLPerf Training 6.0 highlights advancements in AI infrastructure, signaling improved capabilities for AI training and deployment across industries.",

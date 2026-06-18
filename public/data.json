@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:13",
-  "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 1.778,
+  "displayTime": "23:58:30",
+  "minutesToMidnight": 1,
+  "exactMinutesToMidnight": 1.499,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.222,
+  "newsAdjustment": -11.501,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.877,
+  "macroReplacementRate": 49.896,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,68 @@
   ],
   "newsFeed": [
     {
-      "id": "hsbc-expects-over-100-million-gains-from-using-google-ai-tools",
-      "title": "HSBC Expects Over $100 Million Gains From Using Google AI Tools",
-      "summary": "HSBC's adoption of Google AI tools signals increased AI integration in finance, likely boosting productivity and reshaping workflows.",
-      "date": "2026-06-17",
+      "id": "anthropic-ban-forces-investor-rethink-of-political-risk",
+      "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
+      "summary": "Political risks are introducing new challenges for AI investment, potentially slowing the pace of AI adoption and development.",
+      "date": "2026-06-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains",
-      "effect": "advance",
-      "impactScore": 4,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-ban-forces-investors-to-reckon-with-political-risk",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "enterprise-adoption",
-        "productivity",
-        "financial-services"
+        "policy",
+        "investment",
+        "regulation"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
-      "title": "Singapore’s Sea Tests AI Chatbot Migoo in Quiet US Foray",
-      "summary": "Sea Ltd. introducing an AI chatbot in the US signals growing AI adoption by global tech companies, potentially influencing customer service and tech industries.",
-      "date": "2026-06-17",
+      "id": "swiss-ai-startup-prem-is-raising-100-million-series-a-round",
+      "title": "Swiss AI Startup Prem Is Raising $100 Million Series A Round",
+      "summary": "A major funding round for a Swiss AI startup indicates growing investment in enterprise AI infrastructure, signaling increased adoption of AI tools in professional sectors like finance and law.",
+      "date": "2026-06-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/swiss-ai-startup-prem-is-raising-100-million-series-a-round",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "consumer tech",
-        "enterprise AI"
+        "enterprise-ai",
+        "funding",
+        "infrastructure"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
-        "media-and-communication"
+        "legal",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
-      "title": "Poland Invests $11 Million in ElevenLabs to Build AI Tech Hub",
-      "summary": "Poland's investment in ElevenLabs signals growing AI infrastructure and talent development, likely boosting tech and related fields.",
-      "date": "2026-06-17",
+      "id": "ai-company-dream-triples-value-to-3-billion-in-funding-round",
+      "title": "AI Company Dream Triples Value to $3 Billion in Funding Round",
+      "summary": "A significant funding round for an AI cybersecurity company signals growing investment in AI-driven security solutions, indicating increased adoption and importance of AI in critical infrastructure and government sectors.",
+      "date": "2026-06-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/poland-invests-11-million-in-elevenlabs-to-build-ai-tech-hub",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "investment",
-        "workforce development"
+        "AI funding",
+        "cybersecurity",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3520,68 +3520,20 @@
       ]
     },
     {
-      "id": "android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature",
-      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-      "summary": "Google's Android 17 release with enhanced AI features signals increased AI adoption in consumer and enterprise devices, potentially affecting workflows and productivity across multiple industries.",
-      "date": "2026-06-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "consumer technology"
-      ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-perfor",
-      "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
-      "summary": "NVIDIA's performance in MLPerf Training 6.0 highlights advancements in AI infrastructure, signaling improved capabilities for AI training and deployment across industries.",
-      "date": "2026-06-16",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "model performance",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/image1-7-768x432.png"
-    },
-    {
-      "id": "china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
-      "title": "China Watchdog Urges More IPOs From AI, Hong Kong Listed Firms",
-      "summary": "China's push for AI and Hong Kong-listed firms to go public signals growing support for AI development and integration into financial markets.",
-      "date": "2026-06-17",
+      "id": "plurimi-cio-sees-value-in-ai-supply-chain",
+      "title": "Plurimi CIO Sees Value in AI Supply Chain",
+      "summary": "A CIO's investment strategy highlights growing interest in AI infrastructure companies, signaling increased adoption and demand for AI-related technologies.",
+      "date": "2026-06-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-18/plurimi-cio-sees-value-in-ai-supply-chain-video",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "funding",
+        "AI investment",
+        "supply chain",
         "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3592,85 +3544,84 @@
       ]
     },
     {
-      "id": "singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
-      "title": "Singapore’s Electronics Exports Jump by Record on AI Demand Boom",
-      "summary": "Increased AI demand is driving record electronics exports in Singapore, signaling growing adoption of AI infrastructure and tools.",
-      "date": "2026-06-17",
+      "id": "ai-for-industry-is-europe-s-hope-to-salvage-manufacturing-edge",
+      "title": "AI for Industry Is Europe’s Hope to Salvage Manufacturing Edge",
+      "summary": "Europe is accelerating AI adoption in manufacturing to improve efficiency and maintain competitive advantage.",
+      "date": "2026-06-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "global demand",
-        "electronics industry"
+        "manufacturing",
+        "workplace efficiency"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "production",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "star-google-researcher-joins-openai-in-coup-for-chatgpt-creator",
+      "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
+      "summary": "A top Google researcher joining OpenAI signals increased competition and talent movement in AI development, accelerating the race for advanced AI capabilities.",
+      "date": "2026-06-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/star-google-researcher-jumps-to-openai-in-coup-for-startup",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "talent migration",
+        "AI competition",
+        "researcher movement"
+      ],
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "production",
+        "life-physical-and-social-science",
         "_all"
       ]
     },
     {
-      "id": "spacex-is-officially-buying-cursor-for-60-billion",
-      "title": "SpaceX is officially buying Cursor for $60 billion",
-      "summary": "SpaceX's $60 billion acquisition of Cursor signals a major push to integrate AI tools into enterprise workflows, enhancing its competitive position in the AI landscape.",
-      "date": "2026-06-16",
+      "id": "anthropic-got-hit-by-export-rules-nobody-understands",
+      "title": "Anthropic got hit by export rules nobody understands",
+      "summary": "Export controls are restricting access to AI models, creating friction in AI adoption and affecting global collaboration.",
+      "date": "2026-06-17",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "effect": "advance",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "enterprise AI",
+        "regulation",
         "AI adoption",
-        "company acquisition"
+        "policy"
       ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
+      "fetchedAt": "2026-06-18T11:00:52.405Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
-      "title": "BOK Warns AI-Driven Bonus Windfalls May Stoke Broader Inflation",
-      "summary": "AI-driven growth in South Korea's semiconductor industry may lead to higher wages and increased consumer demand, signaling broader economic effects of AI adoption.",
-      "date": "2026-06-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "economic-impact",
-        "wage-growth",
-        "ai-adoption"
-      ],
-      "fetchedAt": "2026-06-17T11:00:51.916Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "production"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-06-17T12:00:00.000Z",
+  "generatedAt": "2026-06-18T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Across Sectors",
-      "preview": "New AI integrations and investments signal growing industry adoption.",
-      "body": "Recent developments show continued momentum in AI integration, with financial institutions, tech firms, and governments investing heavily. Highlights include HSBC leveraging Google AI tools and Singapore boosting AI infrastructure. Overall, the trend points to increased AI influence across multiple sectors."
+      "title": "AI Investment Momentum Continues Amid Regulatory Headwinds",
+      "preview": "New funding rounds signal strong AI adoption, but export controls pose challenges.",
+      "body": "Despite regulatory hurdles, AI investment remains robust, with several major funding rounds highlighting growing confidence in enterprise and cybersecurity applications. However, export restrictions and political risks are creating delays in global AI development and collaboration."
     }
   }
 }
