@@ -1,5 +1,221 @@
 [
   {
+    "date": "2026-06-19",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 1.852,
+    "macroReplacementRate": 49.872,
+    "newsAdjustment": -11.148,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "anthropic-s-co-founder-and-top-economist-on-doing-research-at-the-ai-frontier-od",
+        "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots",
+        "summary": "Government intervention in AI model access highlights regulatory challenges shaping AI adoption and its impact on labor and industry.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-19/anthropic-co-founder-top-economist-on-the-ai-frontier-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI development"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "new-usage-analytics-and-updated-spend-controls-for-enterprises",
+        "title": "New usage analytics and updated spend controls for enterprises",
+        "summary": "New spend controls and analytics for ChatGPT Enterprise help enterprises manage AI costs and scale adoption more effectively.",
+        "date": "2026-06-18",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "cost-management",
+          "AI-infrastructure"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-co-founder-and-top-economist-on-doing-research-at-the-ai-frontier",
+        "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+        "summary": "Government intervention in AI model access highlights regulatory challenges shaping AI adoption and development.",
+        "date": "2026-06-19",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/anthropics-co-founder-and-top-economist-on-doing-research-at-the-ai-frontier",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "enterprise",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "66 min"
+      },
+      {
+        "id": "early-users-of-anthropic-mythos-still-have-access-after-us-order",
+        "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
+        "summary": "A US government order temporarily shut down access to Anthropic's Mythos AI model, but early adopters retained access, highlighting regulatory challenges and uneven adoption of AI tools.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "AI-model-release"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "who-decides-when-ai-is-too-dangerous-",
+        "title": "Who decides when AI is too dangerous?",
+        "summary": "Government action to impose export controls on a new AI model signals increased regulatory scrutiny and potential delays in AI adoption and development.",
+        "date": "2026-06-18",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI development"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "world-leaders-want-american-ai-they-just-don-t-want-america-to-be-able-to-turn-i",
+        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "summary": "Concerns over U.S. control of AI technology could lead to regulatory or geopolitical constraints on AI adoption and collaboration.",
+        "date": "2026-06-17",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "geopolitics"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "barret-zoph-is-out-at-openai-again-after-just-five-months",
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "summary": "Leadership changes at OpenAI may signal internal challenges or shifts in enterprise AI strategy, potentially affecting adoption timelines.",
+        "date": "2026-06-19",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "leadership",
+          "enterprise-adoption",
+          "company-structure"
+        ],
+        "fetchedAt": "2026-06-19T11:00:48.240Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots.",
+        "body": "This update is split between 1 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"New usage analytics and updated spend controls for enterprises\" (OpenAI), while the clearest drag comes from \"Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.148 minutes. Updated 2026-06-19T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-18",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 1.499,
@@ -14542,47 +14758,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-20",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.683,
-    "macroReplacementRate": 49.122,
-    "newsAdjustment": -0.317,
-    "categoryAdjustments": {
-      "healthcare": -0.027,
-      "life-physical-and-social-science": -0.027,
-      "architecture-and-engineering": -0.027,
-      "management": -0.061,
-      "business-and-financial": -0.062,
-      "construction-and-extraction": -0.027,
-      "production": -0.041,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.027,
-      "office-and-administrative-support": -0.094,
-      "transportation-and-material-moving": -0.027,
-      "personal-care-and-service": -0.027,
-      "sales": -0.027,
-      "media-and-communication": -0.014,
-      "computer-and-information-technology": -0.102,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.014,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.027,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
