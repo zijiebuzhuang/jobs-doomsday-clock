@@ -1,5 +1,215 @@
 [
   {
+    "date": "2026-06-21",
+    "minutesToMidnight": 2,
+    "exactMinutesToMidnight": 1.812,
+    "macroReplacementRate": 49.875,
+    "newsAdjustment": -11.188,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "unitedhealth-s-3-billion-ai-push-has-bots-calling-doctors",
+        "title": "UnitedHealth’s $3 Billion AI Push Has Bots Calling Doctors",
+        "summary": "UnitedHealth's AI adoption is transforming healthcare workflows by automating administrative and communication tasks, signaling increased AI integration in medical settings.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce automation",
+          "healthcare technology"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "28-tips-to-take-your-chatgpt-prompts-to-the-next-level",
+        "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+        "summary": "Tips for improving ChatGPT prompts highlight growing AI adoption and the need for enhanced user skills in leveraging AI tools effectively.",
+        "date": "2026-06-21",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "skills"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "students-are-ditching-computer-science-as-ai-job-fears-grow",
+        "title": "Students are Ditching Computer Science as AI Job Fears Grow",
+        "summary": "Student concerns about AI job displacement are influencing career choices, signaling potential shifts in workforce preparation and education trends.",
+        "date": "2026-06-20",
+        "source": "Yahoo Finance",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUtmNHNxSVc5ZS11NnplQ2VZVy16YjN1RHdCeG1FcjR4OFhuYlBha2xsMmptZmtaUjZ5ZkszTW9ieUdyQ0FocUJMUGRsTVRTaFZ4SXBvUWRrQkd2cVNUaGI3VEVPQnEzS29rRlhXdVBXbEwtbFVKTHFaOHFOaEtweUxMSjc3RzlEM2ZaZHFValZmVEtxSDB2SktNb2VtQ3NGSDlJ?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI job fears",
+          "education trends",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ]
+      },
+      {
+        "id": "lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
+        "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
+        "summary": "New US export control laws may limit access to AI models, creating regulatory friction that could slow AI adoption and influence how companies manage AI capabilities.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "eu-tech-chief-virkkunen-on-ai-sovereignty-us",
+        "title": "EU Tech Chief Virkkunen on AI, Sovereignty, US",
+        "summary": "EU tech leadership emphasizes regulatory and sovereignty concerns, which may slow or shape AI adoption in critical sectors.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-19/eu-tech-chief-virkkunen-on-ai-sovereignty-us-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI governance"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+        "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
+        "summary": "Regulatory actions against AI companies may slow the adoption of advanced AI models in the U.S.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+        "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+        "summary": "A top AI researcher leaving a major tech company for an AI startup signals growing competition and movement of talent in the AI industry, potentially accelerating innovation and adoption.",
+        "date": "2026-06-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "talent movement",
+          "AI research",
+          "industry competition"
+        ],
+        "fetchedAt": "2026-06-21T11:00:51.897Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by UnitedHealth’s $3 Billion AI Push Has Bots Calling Doctors.",
+        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"UnitedHealth’s $3 Billion AI Push Has Bots Calling Doctors\" (Bloomberg Technology), while the clearest drag comes from \"Students are Ditching Computer Science as AI Job Fears Grow\" (Yahoo Finance). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.188 minutes. Updated 2026-06-21T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-19",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 1.852,
@@ -14717,47 +14927,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-21",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.681,
-    "macroReplacementRate": 49.122,
-    "newsAdjustment": -0.319,
-    "categoryAdjustments": {
-      "healthcare": -0.027,
-      "life-physical-and-social-science": -0.027,
-      "architecture-and-engineering": -0.027,
-      "management": -0.061,
-      "business-and-financial": -0.061,
-      "construction-and-extraction": -0.027,
-      "production": -0.041,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.027,
-      "office-and-administrative-support": -0.094,
-      "transportation-and-material-moving": -0.027,
-      "personal-care-and-service": -0.027,
-      "sales": -0.027,
-      "media-and-communication": -0.015,
-      "computer-and-information-technology": -0.102,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.015,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.027,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
