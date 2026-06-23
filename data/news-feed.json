@@ -1,5 +1,193 @@
 [
   {
+    "id": "how-omio-is-building-the-future-of-conversational-travel",
+    "title": "How Omio is building the future of conversational travel",
+    "summary": "Omio is leveraging AI to transform its travel services, signaling a shift toward AI-native business models and conversational interfaces in customer service and product development.",
+    "date": "2026-06-23",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/omio",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "conversational AI",
+      "productivity"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "summary": "AI is being used to improve open-source software security, potentially increasing productivity and reducing risks for developers and IT professionals.",
+    "date": "2026-06-22",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/patch-the-planet",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "open-source",
+      "AI security",
+      "developer tools"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "daybreak-tools-for-securing-every-organization-in-the-world",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "summary": "New AI security tools from OpenAI help organizations scale vulnerability detection and patching, increasing the role of AI in cybersecurity workflows.",
+    "date": "2026-06-22",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "cybersecurity",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-urban-rural-divide-in-the-age-of-artificial-intelligence-assessing-the-effec",
+    "title": "The Urban-Rural Divide in the Age of Artificial Intelligence: Assessing the Effects of Technology and Automation on Regional Labor Markets",
+    "summary": "This article examines how AI and automation are affecting labor markets differently in urban and rural areas, highlighting regional disparities in AI's impact on jobs.",
+    "date": "2026-06-22",
+    "source": "arXiv - AI Labor",
+    "sourceUrl": "https://arxiv.org/abs/2606.22833v1",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "regional impact",
+      "labor markets",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "three-things-to-watch-amid-anthropic-s-latest-feud-with-the-government",
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "summary": "A feud between Anthropic and the US government highlights regulatory challenges that could slow AI adoption and shape its development.",
+    "date": "2026-06-22",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "enterprise",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "oracle-slashed-21-000-in-12-months-as-ai-replaces-some-roles",
+    "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+    "summary": "Oracle's significant workforce reduction highlights AI's growing role in replacing jobs, signaling increased pressure on labor due to AI adoption.",
+    "date": "2026-06-23",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "workforce reduction",
+      "AI adoption",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "getty-just-became-an-ai-company-it-now-has-to-perform-like-one",
+    "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+    "summary": "Getty's shift to becoming an AI company signals increased adoption of AI in media and content creation, pushing for new workflows and skills in the industry.",
+    "date": "2026-06-23",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "content creation",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "arts-and-design"
+    ]
+  },
+  {
+    "id": "google-deepmind-bets-75m-on-ai-s-future-in-hollywood-with-a24-deal",
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "summary": "Google DeepMind's investment in AI filmmaking tools signals growing AI adoption in the entertainment and media industries, potentially transforming creative workflows and skill requirements.",
+    "date": "2026-06-22",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "creative industries",
+      "workflow transformation"
+    ],
+    "fetchedAt": "2026-06-23T11:00:52.900Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "arts-and-design",
+      "entertainment-and-sports"
+    ]
+  },
+  {
     "id": "samsung-electronics-brings-chatgpt-and-codex-to-employees",
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "summary": "Samsung's deployment of ChatGPT Enterprise and Codex signals a major shift in enterprise AI adoption, increasing AI's role in workplace productivity and workflows.",

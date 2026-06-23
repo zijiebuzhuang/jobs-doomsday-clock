@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:11",
-  "minutesToMidnight": 2,
-  "exactMinutesToMidnight": 1.825,
+  "displayTime": "23:58:38",
+  "minutesToMidnight": 1,
+  "exactMinutesToMidnight": 1.375,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.175,
+  "newsAdjustment": -11.625,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.874,
+  "macroReplacementRate": 49.905,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,44 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "samsung-electronics-brings-chatgpt-and-codex-to-employees",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "summary": "Samsung's deployment of ChatGPT Enterprise and Codex signals a major shift in enterprise AI adoption, increasing AI's role in workplace productivity and workflows.",
-      "date": "2026-06-21",
+      "id": "how-omio-is-building-the-future-of-conversational-travel",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Omio is leveraging AI to transform its travel services, signaling a shift toward AI-native business models and conversational interfaces in customer service and product development.",
+      "date": "2026-06-23",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "sourceUrl": "https://openai.com/index/omio",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "productivity",
-        "workplace-ai"
+        "AI adoption",
+        "conversational AI",
+        "productivity"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "business-and-financial"
+        "business-and-financial",
+        "office-and-administrative-support"
       ]
     },
     {
-      "id": "tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
-      "title": "Tencent Tests AI Assistant for Its Super App WeChat in China",
-      "summary": "Tencent's AI assistant for WeChat signals increased adoption of AI in consumer and enterprise workflows, potentially affecting productivity and job roles across multiple industries.",
-      "date": "2026-06-22",
+      "id": "oracle-slashed-21-000-in-12-months-as-ai-replaces-some-roles",
+      "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+      "summary": "Oracle's significant workforce reduction highlights AI's growing role in replacing jobs, signaling increased pressure on labor due to AI adoption.",
+      "date": "2026-06-23",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
+        "workforce reduction",
         "AI adoption",
-        "enterprise tools",
-        "consumer tech"
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3496,199 +3496,152 @@
       ]
     },
     {
-      "id": "ai-impact-on-employment-ecb-findings-on-jobs-and-growth",
-      "title": "AI impact on employment: ECB findings on jobs and growth",
-      "summary": "ECB findings highlight AI's potential to reshape employment and economic growth, signaling increased pressure on workforce adaptation.",
+      "id": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "AI is being used to improve open-source software security, potentially increasing productivity and reducing risks for developers and IT professionals.",
       "date": "2026-06-22",
-      "source": "The Cryptonomist",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaWl92dG5FOTFBRUEzTkx2YUNpYzJ1bUFlR0pETmhWYUVzYWxzckdqU0FkUDNhYWtGd2hUT19CMjdnWXBNU0ZKTmpGZlJQYjBtLW4tMzFNN2lRZ0g1MDQ3MG1PUEsyS2pPZjduUFJmaVJRQ3F1azF4Q2RhbVk?oc=5",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/patch-the-planet",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "policy",
-        "labor",
-        "economic-impact"
+        "open-source",
+        "AI security",
+        "developer tools"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "99-of-ceos-expect-ai-layoffs-in-the-next-2-years-here-are-5-ways-to-be-prepared",
-      "title": "99% Of CEOs Expect AI Layoffs In The Next 2 Years. Here Are 5 Ways To Be Prepared",
-      "summary": "CEOs expect AI-driven layoffs, signaling increased pressure on workers to adapt or upskill.",
+      "id": "the-urban-rural-divide-in-the-age-of-artificial-intelligence-assessing-the-effec",
+      "title": "The Urban-Rural Divide in the Age of Artificial Intelligence: Assessing the Effects of Technology and Automation on Regional Labor Markets",
+      "summary": "This article examines how AI and automation are affecting labor markets differently in urban and rural areas, highlighting regional disparities in AI's impact on jobs.",
       "date": "2026-06-22",
-      "source": "Forbes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUF9wT2RKV0dIMndfUmRNN2tESzFya2gtbk40SklfbHdDZU1qZzFGckRhRk8xb2x5R0JzVGg1cThXVUlHN0ZqcVJzbWM4bDEwbGVfR1BZTHNBV1oza3FWUU9UNW9FSERmQWc2dHMyeGZFYWRScFpjV0UyS1R6d0ZGNjRnY3dBZmo2Q3NzN0ZRVWhPQ0tRREJfSGJ1LVRwclRmQTVxNTVXdURhbnBmOF96ZnFielZSOVViX0YySk9NanFEZ3hSTXV2WElpZk0xdw?oc=5",
+      "source": "arXiv - AI Labor",
+      "sourceUrl": "https://arxiv.org/abs/2606.22833v1",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce disruption",
-        "hiring trends"
+        "regional impact",
+        "labor markets",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
         "_all"
       ]
     },
     {
-      "id": "ai-boom-s-us-employment-wage-impact-muted-so-far-ecb-study-finds",
-      "title": "AI boom's US employment, wage impact muted so far, ECB study finds",
-      "summary": "An ECB study suggests that the impact of AI on US employment and wages has been limited so far, indicating potential regulatory or adoption delays.",
+      "id": "daybreak-tools-for-securing-every-organization-in-the-world",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "New AI security tools from OpenAI help organizations scale vulnerability detection and patching, increasing the role of AI in cybersecurity workflows.",
       "date": "2026-06-22",
-      "source": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWdieHpxZWJqRENDWDBoSGVMWlhYUTliQlVTSHpfV0FHSFNnUXd4QzM2TTcwYTF5aDM4TW42U1gwYjNQMlZKalMyTlF0S3pndWtEU2RESnc5UXVsS2xaUjlPa053ZTFoYnB4VFNZWHJlQTczSkRqU1pCcmY0ZmZvVDJfSWpqMGpFVGhoUDhEQzNRd3ZnLTQzcm1MUXRwQkpsQWZzRlk1NkJXUmlUZktFYlRUV25LV2syTlcyNUlsWQ?oc=5",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "labor-impact",
-        "economic-impact"
-      ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "when-the-trump-administration-cracks-down-on-anthropic-who-benefits-",
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "summary": "Regulatory scrutiny of AI companies like Anthropic may slow down AI adoption and shape the direction of AI development in the workplace.",
-      "date": "2026-06-21",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "effect": "delay",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "AI ecosystem"
-      ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-us-banned-anthropic-s-fable-5-release-but-the-numbers-don-t-seem-to-care",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-      "summary": "Regulatory action against Anthropic's AI models highlights growing concerns over AI safety and control, potentially slowing adoption and shaping future AI development.",
-      "date": "2026-06-19",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI safety",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "is-the-us-government-s-anthropic-ban-accidentally-helping-the-brand-",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "summary": "Regulatory action against Anthropic's AI models highlights growing concerns over AI safety and security, potentially slowing adoption and shaping future AI development in the workplace.",
-      "date": "2026-06-19",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI safety",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 79,
-      "contentType": "video",
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "from-pgp-to-mythos-a-brief-history-of-export-controls-that-didn-t-stop-anyone",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "Export controls on AI cybersecurity tools are ineffective, suggesting regulatory efforts may not curb AI adoption or deployment in security-related fields.",
-      "date": "2026-06-19",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
+        "AI security",
         "cybersecurity",
-        "AI policy"
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "getty-images-soars-200-in-early-trading-after-openai-deal",
-      "title": "Getty Images Soars 200% in Early Trading After OpenAI Deal",
-      "summary": "Getty Images' stock surge following an OpenAI deal signals growing AI adoption in media and content industries, indicating increased value and integration of AI tools in creative workflows.",
-      "date": "2026-06-22",
+      "id": "getty-just-became-an-ai-company-it-now-has-to-perform-like-one",
+      "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+      "summary": "Getty's shift to becoming an AI company signals increased adoption of AI in media and content creation, pushing for new workflows and skills in the industry.",
+      "date": "2026-06-23",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "media",
         "content creation",
         "enterprise AI"
       ],
-      "fetchedAt": "2026-06-22T11:00:52.319Z",
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "media-and-communication",
+        "computer-and-information-technology",
+        "arts-and-design"
+      ]
+    },
+    {
+      "id": "google-deepmind-bets-75m-on-ai-s-future-in-hollywood-with-a24-deal",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind's investment in AI filmmaking tools signals growing AI adoption in the entertainment and media industries, potentially transforming creative workflows and skill requirements.",
+      "date": "2026-06-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "creative industries",
+        "workflow transformation"
+      ],
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "media-and-communication",
         "arts-and-design",
+        "entertainment-and-sports"
+      ]
+    },
+    {
+      "id": "three-things-to-watch-amid-anthropic-s-latest-feud-with-the-government",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "A feud between Anthropic and the US government highlights regulatory challenges that could slow AI adoption and shape its development.",
+      "date": "2026-06-22",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "enterprise",
+        "policy"
+      ],
+      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-22T12:00:00.000Z",
+  "generatedAt": "2026-06-23T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates, but regulatory concerns persist",
-      "preview": "Major AI advances contrast with growing regulatory delays.",
-      "body": "Recent news shows strong AI integration in enterprise and consumer platforms, such as Samsung's ChatGPT deployment and Tencent's WeChat AI assistant. However, regulatory actions against companies like Anthropic suggest ongoing challenges that may slow broader adoption. The overall trend remains mixed, with significant advancements balanced by emerging constraints."
+      "title": "AI adoption accelerates with mixed labor impacts",
+      "preview": "New AI tools and corporate shifts signal growing influence, but regulatory tensions remain.",
+      "body": "Recent developments show strong AI advancement across industries, with companies like Oracle and Getty integrating AI into core operations. However, regulatory challenges, as seen in Anthropic's government dispute, may slow progress. Overall, the balance of signals suggests continued momentum in AI adoption, with mixed effects on job markets."
     }
   }
 }

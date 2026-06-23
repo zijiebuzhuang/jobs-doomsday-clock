@@ -1,5 +1,235 @@
 [
   {
+    "date": "2026-06-23",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 1.375,
+    "macroReplacementRate": 49.905,
+    "newsAdjustment": -11.625,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-omio-is-building-the-future-of-conversational-travel",
+        "title": "How Omio is building the future of conversational travel",
+        "summary": "Omio is leveraging AI to transform its travel services, signaling a shift toward AI-native business models and conversational interfaces in customer service and product development.",
+        "date": "2026-06-23",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/omio",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "conversational AI",
+          "productivity"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "oracle-slashed-21-000-in-12-months-as-ai-replaces-some-roles",
+        "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+        "summary": "Oracle's significant workforce reduction highlights AI's growing role in replacing jobs, signaling increased pressure on labor due to AI adoption.",
+        "date": "2026-06-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workforce reduction",
+          "AI adoption",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers",
+        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "summary": "AI is being used to improve open-source software security, potentially increasing productivity and reducing risks for developers and IT professionals.",
+        "date": "2026-06-22",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/patch-the-planet",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "open-source",
+          "AI security",
+          "developer tools"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-urban-rural-divide-in-the-age-of-artificial-intelligence-assessing-the-effec",
+        "title": "The Urban-Rural Divide in the Age of Artificial Intelligence: Assessing the Effects of Technology and Automation on Regional Labor Markets",
+        "summary": "This article examines how AI and automation are affecting labor markets differently in urban and rural areas, highlighting regional disparities in AI's impact on jobs.",
+        "date": "2026-06-22",
+        "source": "arXiv - AI Labor",
+        "sourceUrl": "https://arxiv.org/abs/2606.22833v1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "regional impact",
+          "labor markets",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "daybreak-tools-for-securing-every-organization-in-the-world",
+        "title": "Daybreak: Tools for securing every organization in the world",
+        "summary": "New AI security tools from OpenAI help organizations scale vulnerability detection and patching, increasing the role of AI in cybersecurity workflows.",
+        "date": "2026-06-22",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "cybersecurity",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "getty-just-became-an-ai-company-it-now-has-to-perform-like-one",
+        "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+        "summary": "Getty's shift to becoming an AI company signals increased adoption of AI in media and content creation, pushing for new workflows and skills in the industry.",
+        "date": "2026-06-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "content creation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "arts-and-design"
+        ]
+      },
+      {
+        "id": "google-deepmind-bets-75m-on-ai-s-future-in-hollywood-with-a24-deal",
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "summary": "Google DeepMind's investment in AI filmmaking tools signals growing AI adoption in the entertainment and media industries, potentially transforming creative workflows and skill requirements.",
+        "date": "2026-06-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "creative industries",
+          "workflow transformation"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "arts-and-design",
+          "entertainment-and-sports"
+        ]
+      },
+      {
+        "id": "three-things-to-watch-amid-anthropic-s-latest-feud-with-the-government",
+        "title": "Three things to watch amid Anthropic’s latest feud with the government",
+        "summary": "A feud between Anthropic and the US government highlights regulatory challenges that could slow AI adoption and shape its development.",
+        "date": "2026-06-22",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-23T11:00:52.900Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How Omio is building the future of conversational travel.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How Omio is building the future of conversational travel\" (OpenAI), while the clearest drag comes from \"Three things to watch amid Anthropic’s latest feud with the government\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.625 minutes. Updated 2026-06-23T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-22",
     "minutesToMidnight": 2,
     "exactMinutesToMidnight": 1.825,
@@ -15122,47 +15352,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-23",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.678,
-    "macroReplacementRate": 49.122,
-    "newsAdjustment": -0.322,
-    "categoryAdjustments": {
-      "healthcare": -0.027,
-      "life-physical-and-social-science": -0.027,
-      "architecture-and-engineering": -0.027,
-      "management": -0.06,
-      "business-and-financial": -0.061,
-      "construction-and-extraction": -0.027,
-      "production": -0.04,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.027,
-      "office-and-administrative-support": -0.093,
-      "transportation-and-material-moving": -0.027,
-      "personal-care-and-service": -0.027,
-      "sales": -0.027,
-      "media-and-communication": -0.016,
-      "computer-and-information-technology": -0.103,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.016,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.027,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
