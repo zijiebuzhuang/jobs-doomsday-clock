@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:38",
+  "displayTime": "23:58:47",
   "minutesToMidnight": 1,
-  "exactMinutesToMidnight": 1.375,
+  "exactMinutesToMidnight": 1.22,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.625,
+  "newsAdjustment": -11.78,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.905,
+  "macroReplacementRate": 49.916,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,116 +3448,141 @@
   ],
   "newsFeed": [
     {
-      "id": "how-omio-is-building-the-future-of-conversational-travel",
-      "title": "How Omio is building the future of conversational travel",
-      "summary": "Omio is leveraging AI to transform its travel services, signaling a shift toward AI-native business models and conversational interfaces in customer service and product development.",
+      "id": "introducing-claude-tag",
+      "title": "Introducing Claude Tag",
+      "summary": "Claude Tag introduces a new collaboration tool for teams using Claude, potentially improving productivity and workflow in AI-assisted tasks.",
       "date": "2026-06-23",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/omio",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "conversational AI",
+        "AI tools",
+        "workflow change",
         "productivity"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "office-and-administrative-support"
+        "office-and-administrative-support",
+        "_all"
       ]
     },
     {
-      "id": "oracle-slashed-21-000-in-12-months-as-ai-replaces-some-roles",
-      "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
-      "summary": "Oracle's significant workforce reduction highlights AI's growing role in replacing jobs, signaling increased pressure on labor due to AI adoption.",
+      "id": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "summary": "Anthropic's Claude Tag enhances workplace productivity by integrating AI into Slack, capturing organizational context and enterprise workflows.",
       "date": "2026-06-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "workforce reduction",
-        "AI adoption",
-        "enterprise AI"
+        "enterprise-ai",
+        "workflow-automation",
+        "productivity-tools"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
+        "management",
+        "office-and-administrative-support"
       ]
     },
     {
-      "id": "patch-the-planet-a-daybreak-initiative-to-support-open-source-maintainers",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "AI is being used to improve open-source software security, potentially increasing productivity and reducing risks for developers and IT professionals.",
-      "date": "2026-06-22",
+      "id": "helping-build-shared-standards-for-advanced-ai",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI's involvement in building shared AI standards through the Appia Foundation may slow or shape AI adoption through increased regulation and safety focus.",
+      "date": "2026-06-23",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/patch-the-planet",
-      "effect": "advance",
+      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "open-source",
-        "AI security",
-        "developer tools"
+        "regulation",
+        "standards",
+        "safety"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "the-urban-rural-divide-in-the-age-of-artificial-intelligence-assessing-the-effec",
-      "title": "The Urban-Rural Divide in the Age of Artificial Intelligence: Assessing the Effects of Technology and Automation on Regional Labor Markets",
-      "summary": "This article examines how AI and automation are affecting labor markets differently in urban and rural areas, highlighting regional disparities in AI's impact on jobs.",
+      "id": "leon-county-applies-for-federal-ai-upskill-grant-aimed-at-preparing-workers-for-",
+      "title": "Leon County applies for federal AI upskill grant aimed at preparing workers for a changing job market",
+      "summary": "Leon County is seeking federal funding to upskill workers for AI-driven changes in the job market, signaling increased focus on workforce preparation for AI adoption.",
       "date": "2026-06-22",
-      "source": "arXiv - AI Labor",
-      "sourceUrl": "https://arxiv.org/abs/2606.22833v1",
+      "source": "WTXL ABC 27",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHZhaS1waDZ5ekczeE1teTVzdmFNalJZcHV4NVNKTlJSR2E5clhTTUdOeU1WY3g1bWhpZ0VjVFlSVDkwRjZKZEdKVWJIcWV5Q29TWEswY2tQQUtzOVltMmpaamFtN2puMjg1STV6dXh0cXh3S2YtRGhldnVPSFhHMWwzUHpRb3pubmhJUnRzZU1TRE9PNzV6NWF3WjJoXzFoNG9FMHROV0VyWElPNU1GeUcyVG4wdUdkZjN0dDhQNzROSjB3QWpnNEhFZ0l6OXQ5cktnbjJqZkxaeEhY?oc=5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regional impact",
-        "labor markets",
-        "AI adoption"
+        "workforce-development",
+        "policy",
+        "AI-education"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "_all"
       ]
     },
     {
-      "id": "daybreak-tools-for-securing-every-organization-in-the-world",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "summary": "New AI security tools from OpenAI help organizations scale vulnerability detection and patching, increasing the role of AI in cybersecurity workflows.",
+      "id": "oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles",
+      "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
+      "summary": "Oracle's job cuts highlight AI's growing role in reshaping corporate workforces and workflows.",
       "date": "2026-06-22",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "Bloomberg.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI security",
-        "cybersecurity",
-        "enterprise adoption"
+        "AI adoption",
+        "workforce transformation",
+        "corporate automation"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "oracle-sheds-21-000-roles-over-the-past-year-amid-wave-of-ai-layoffs-from-tech-g",
+      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
+      "summary": "Large-scale AI-related layoffs at Oracle signal growing pressure on tech workers due to AI adoption and cost-cutting measures.",
+      "date": "2026-06-23",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZkFBanpNc1VYRWlEZ0ZIaHNyTV9NTzNtZTF6a2FIUGRXRVJ0dTkyNW1GV09XV2tlLXFabU1MLVhnZi1WeXhnbGFhelA0RXJoQmdXcU0xWVpKUXpNdEFfSjk5NktMZFJyZkMxd0lIa09aaVE5TVZWZtIBfkFVX3lxTE91LWZXY0xSeDUzYWh3SFpvWnJqdG1PWXVTNHdLeERReU1SZ0xfZTQ1Q29EeGVSNlJQZUFCMnR2bG1GLV9lUkROR0R1VmVqaXZvOFRsLUNzcS1IS1dFM2RYX3pqdlppN1c4bHNIV281NXpvRU9ZWEc0Q3ZyVmJ3Zw?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI layoffs",
+        "workforce changes",
+        "tech industry"
+      ],
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3565,83 +3590,84 @@
       ]
     },
     {
-      "id": "getty-just-became-an-ai-company-it-now-has-to-perform-like-one",
-      "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
-      "summary": "Getty's shift to becoming an AI company signals increased adoption of AI in media and content creation, pushing for new workflows and skills in the industry.",
+      "id": "oracle-admits-artificial-intelligence-has-cost-21-000-jobs",
+      "title": "Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs",
+      "summary": "Oracle's admission that AI has cost 21,000 jobs signals growing AI adoption and its direct impact on employment across multiple sectors.",
       "date": "2026-06-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
+      "source": "Forbes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2hpQ3dhVFk2Nzl1UHNSLTFHZ21tV1VwOFk4OXhHZ3hjZTE5aERaNTFfUGR1Sk1sN3FlR0s3ODFXdEx3akxTRzRETE54azU3Tmd5NFdSZ2NXaWIyRTY1MENYRFBjZ1JfUEVHQ2tFcm1aNkp5Tk9oV1V5RW9yNTZpVlFJMnJDWE15MnBXOGt5YzRtRmNKREFEZVZOMnJFSThwSGJ4RzVqWDZuS1VHZU90Z195VDZsZ3JWazMyYVRYdnJpb1E?oc=5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "content creation",
+        "job displacement",
         "enterprise AI"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "hsbc-wealth-survey-shows-ai-losing-out-to-humans-in-key-areas",
+      "title": "HSBC Wealth Survey Shows AI Losing Out to Humans in Key Areas",
+      "summary": "AI is not yet replacing human advisers in high-net-worth wealth management, indicating ongoing human dominance in complex financial services.",
+      "date": "2026-06-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "human-ai-complementarity",
+        "financial-services",
+        "workplace-adoption"
+      ],
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "arts-and-design"
+        "business-and-financial",
+        "management",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "google-deepmind-bets-75m-on-ai-s-future-in-hollywood-with-a24-deal",
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "summary": "Google DeepMind's investment in AI filmmaking tools signals growing AI adoption in the entertainment and media industries, potentially transforming creative workflows and skill requirements.",
-      "date": "2026-06-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "id": "sk-hynix-seeks-29-billion-with-us-listing-to-fund-ai-boom",
+      "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
+      "summary": "SK Hynix's US listing to fund AI-related memory chip production signals growing investment in AI infrastructure and supply chain capacity.",
+      "date": "2026-06-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "creative industries",
-        "workflow transformation"
+        "AI infrastructure",
+        "enterprise adoption",
+        "funding"
       ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "media-and-communication",
-        "arts-and-design",
-        "entertainment-and-sports"
-      ]
-    },
-    {
-      "id": "three-things-to-watch-amid-anthropic-s-latest-feud-with-the-government",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "summary": "A feud between Anthropic and the US government highlights regulatory challenges that could slow AI adoption and shape its development.",
-      "date": "2026-06-22",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "enterprise",
-        "policy"
-      ],
-      "fetchedAt": "2026-06-23T11:00:52.900Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
         "computer-and-information-technology",
+        "production",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-23T12:00:00.000Z",
+  "generatedAt": "2026-06-24T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with mixed labor impacts",
-      "preview": "New AI tools and corporate shifts signal growing influence, but regulatory tensions remain.",
-      "body": "Recent developments show strong AI advancement across industries, with companies like Oracle and Getty integrating AI into core operations. However, regulatory challenges, as seen in Anthropic's government dispute, may slow progress. Overall, the balance of signals suggests continued momentum in AI adoption, with mixed effects on job markets."
+      "title": "AI job pressure shows mixed signals amid new tools and layoffs",
+      "preview": "New AI tools and job cuts highlight ongoing tension in the workforce.",
+      "body": "Recent news shows a mix of AI advancements and job displacement, with developments like Claude Tag and Oracle's layoffs reflecting both progress and pressure. While some reports suggest AI is enhancing productivity, others indicate growing concerns over its impact on employment. Overall, the balance remains closely watched as AI integration continues to evolve."
     }
   }
 }

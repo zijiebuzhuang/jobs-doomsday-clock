@@ -1,5 +1,261 @@
 [
   {
+    "date": "2026-06-24",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 1.22,
+    "macroReplacementRate": 49.916,
+    "newsAdjustment": -11.78,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "introducing-claude-tag",
+        "title": "Introducing Claude Tag",
+        "summary": "Claude Tag introduces a new collaboration tool for teams using Claude, potentially improving productivity and workflow in AI-assisted tasks.",
+        "date": "2026-06-23",
+        "source": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "workflow change",
+          "productivity"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "summary": "Anthropic's Claude Tag enhances workplace productivity by integrating AI into Slack, capturing organizational context and enterprise workflows.",
+        "date": "2026-06-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-ai",
+          "workflow-automation",
+          "productivity-tools"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "helping-build-shared-standards-for-advanced-ai",
+        "title": "Helping build shared standards for advanced AI",
+        "summary": "OpenAI's involvement in building shared AI standards through the Appia Foundation may slow or shape AI adoption through increased regulation and safety focus.",
+        "date": "2026-06-23",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "standards",
+          "safety"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "leon-county-applies-for-federal-ai-upskill-grant-aimed-at-preparing-workers-for-",
+        "title": "Leon County applies for federal AI upskill grant aimed at preparing workers for a changing job market",
+        "summary": "Leon County is seeking federal funding to upskill workers for AI-driven changes in the job market, signaling increased focus on workforce preparation for AI adoption.",
+        "date": "2026-06-22",
+        "source": "WTXL ABC 27",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHZhaS1waDZ5ekczeE1teTVzdmFNalJZcHV4NVNKTlJSR2E5clhTTUdOeU1WY3g1bWhpZ0VjVFlSVDkwRjZKZEdKVWJIcWV5Q29TWEswY2tQQUtzOVltMmpaamFtN2puMjg1STV6dXh0cXh3S2YtRGhldnVPSFhHMWwzUHpRb3pubmhJUnRzZU1TRE9PNzV6NWF3WjJoXzFoNG9FMHROV0VyWElPNU1GeUcyVG4wdUdkZjN0dDhQNzROSjB3QWpnNEhFZ0l6OXQ5cktnbjJqZkxaeEhY?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workforce-development",
+          "policy",
+          "AI-education"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles",
+        "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
+        "summary": "Oracle's job cuts highlight AI's growing role in reshaping corporate workforces and workflows.",
+        "date": "2026-06-22",
+        "source": "Bloomberg.com",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "corporate automation"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "oracle-sheds-21-000-roles-over-the-past-year-amid-wave-of-ai-layoffs-from-tech-g",
+        "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
+        "summary": "Large-scale AI-related layoffs at Oracle signal growing pressure on tech workers due to AI adoption and cost-cutting measures.",
+        "date": "2026-06-23",
+        "source": "CNBC",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZkFBanpNc1VYRWlEZ0ZIaHNyTV9NTzNtZTF6a2FIUGRXRVJ0dTkyNW1GV09XV2tlLXFabU1MLVhnZi1WeXhnbGFhelA0RXJoQmdXcU0xWVpKUXpNdEFfSjk5NktMZFJyZkMxd0lIa09aaVE5TVZWZtIBfkFVX3lxTE91LWZXY0xSeDUzYWh3SFpvWnJqdG1PWXVTNHdLeERReU1SZ0xfZTQ1Q29EeGVSNlJQZUFCMnR2bG1GLV9lUkROR0R1VmVqaXZvOFRsLUNzcS1IS1dFM2RYX3pqdlppN1c4bHNIV281NXpvRU9ZWEc0Q3ZyVmJ3Zw?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI layoffs",
+          "workforce changes",
+          "tech industry"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "oracle-admits-artificial-intelligence-has-cost-21-000-jobs",
+        "title": "Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs",
+        "summary": "Oracle's admission that AI has cost 21,000 jobs signals growing AI adoption and its direct impact on employment across multiple sectors.",
+        "date": "2026-06-23",
+        "source": "Forbes",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2hpQ3dhVFk2Nzl1UHNSLTFHZ21tV1VwOFk4OXhHZ3hjZTE5aERaNTFfUGR1Sk1sN3FlR0s3ODFXdEx3akxTRzRETE54azU3Tmd5NFdSZ2NXaWIyRTY1MENYRFBjZ1JfUEVHQ2tFcm1aNkp5Tk9oV1V5RW9yNTZpVlFJMnJDWE15MnBXOGt5YzRtRmNKREFEZVZOMnJFSThwSGJ4RzVqWDZuS1VHZU90Z195VDZsZ3JWazMyYVRYdnJpb1E?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "job displacement",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "hsbc-wealth-survey-shows-ai-losing-out-to-humans-in-key-areas",
+        "title": "HSBC Wealth Survey Shows AI Losing Out to Humans in Key Areas",
+        "summary": "AI is not yet replacing human advisers in high-net-worth wealth management, indicating ongoing human dominance in complex financial services.",
+        "date": "2026-06-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "human-ai-complementarity",
+          "financial-services",
+          "workplace-adoption"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "management",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "sk-hynix-seeks-29-billion-with-us-listing-to-fund-ai-boom",
+        "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
+        "summary": "SK Hynix's US listing to fund AI-related memory chip production signals growing investment in AI infrastructure and supply chain capacity.",
+        "date": "2026-06-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "funding"
+        ],
+        "fetchedAt": "2026-06-24T11:00:48.375Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic’s Claude Tag is learning your company, one Slack message at a time.",
+        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic’s Claude Tag is learning your company, one Slack message at a time\" (TechCrunch - AI), while the clearest drag comes from \"Helping build shared standards for advanced AI\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.780 minutes. Updated 2026-06-24T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-23",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 1.375,
@@ -15311,47 +15567,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-25T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-24",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.757,
-    "macroReplacementRate": 49.117,
-    "newsAdjustment": -0.243,
-    "categoryAdjustments": {
-      "healthcare": -0.004,
-      "life-physical-and-social-science": -0.004,
-      "architecture-and-engineering": -0.004,
-      "management": -0.038,
-      "business-and-financial": -0.038,
-      "construction-and-extraction": -0.004,
-      "production": -0.018,
-      "installation-maintenance-and-repair": -0.004,
-      "education-training-and-library": -0.004,
-      "office-and-administrative-support": -0.07,
-      "transportation-and-material-moving": -0.004,
-      "personal-care-and-service": -0.004,
-      "sales": -0.004,
-      "media-and-communication": 0.005,
-      "computer-and-information-technology": -0.081,
-      "community-and-social-service": -0.004,
-      "arts-and-design": 0.005,
-      "entertainment-and-sports": -0.004,
-      "protective-service": -0.004,
-      "food-preparation-and-serving": -0.004,
-      "legal": -0.004,
-      "math": -0.004,
-      "farming-fishing-and-forestry": -0.004,
-      "building-and-grounds-cleaning": -0.004
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
