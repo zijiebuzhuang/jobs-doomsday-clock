@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:58:47",
+  "displayTime": "23:59:12",
   "minutesToMidnight": 1,
-  "exactMinutesToMidnight": 1.22,
+  "exactMinutesToMidnight": 0.806,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -11.78,
+  "newsAdjustment": -12.194,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.916,
+  "macroReplacementRate": 49.944,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,210 +3448,93 @@
   ],
   "newsFeed": [
     {
-      "id": "introducing-claude-tag",
-      "title": "Introducing Claude Tag",
-      "summary": "Claude Tag introduces a new collaboration tool for teams using Claude, potentially improving productivity and workflow in AI-assisted tasks.",
-      "date": "2026-06-23",
-      "source": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "workflow change",
-        "productivity"
-      ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "summary": "Anthropic's Claude Tag enhances workplace productivity by integrating AI into Slack, capturing organizational context and enterprise workflows.",
-      "date": "2026-06-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-ai",
-        "workflow-automation",
-        "productivity-tools"
-      ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "office-and-administrative-support"
-      ]
-    },
-    {
-      "id": "helping-build-shared-standards-for-advanced-ai",
-      "title": "Helping build shared standards for advanced AI",
-      "summary": "OpenAI's involvement in building shared AI standards through the Appia Foundation may slow or shape AI adoption through increased regulation and safety focus.",
-      "date": "2026-06-23",
+      "id": "how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "summary": "AI agents are advancing productivity and enabling more complex tasks across a wide range of roles.",
+      "date": "2026-06-25",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "effect": "delay",
+      "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "standards",
-        "safety"
+        "AI agents",
+        "productivity",
+        "workflow transformation"
       ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "leon-county-applies-for-federal-ai-upskill-grant-aimed-at-preparing-workers-for-",
-      "title": "Leon County applies for federal AI upskill grant aimed at preparing workers for a changing job market",
-      "summary": "Leon County is seeking federal funding to upskill workers for AI-driven changes in the job market, signaling increased focus on workforce preparation for AI adoption.",
-      "date": "2026-06-22",
-      "source": "WTXL ABC 27",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHZhaS1waDZ5ekczeE1teTVzdmFNalJZcHV4NVNKTlJSR2E5clhTTUdOeU1WY3g1bWhpZ0VjVFlSVDkwRjZKZEdKVWJIcWV5Q29TWEswY2tQQUtzOVltMmpaamFtN2puMjg1STV6dXh0cXh3S2YtRGhldnVPSFhHMWwzUHpRb3pubmhJUnRzZU1TRE9PNzV6NWF3WjJoXzFoNG9FMHROV0VyWElPNU1GeUcyVG4wdUdkZjN0dDhQNzROSjB3QWpnNEhFZ0l6OXQ5cktnbjJqZkxaeEhY?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "workforce-development",
-        "policy",
-        "AI-education"
-      ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles",
-      "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
-      "summary": "Oracle's job cuts highlight AI's growing role in reshaping corporate workforces and workflows.",
-      "date": "2026-06-22",
-      "source": "Bloomberg.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce transformation",
-        "corporate automation"
-      ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
         "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "oracle-sheds-21-000-roles-over-the-past-year-amid-wave-of-ai-layoffs-from-tech-g",
-      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
-      "summary": "Large-scale AI-related layoffs at Oracle signal growing pressure on tech workers due to AI adoption and cost-cutting measures.",
-      "date": "2026-06-23",
-      "source": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZkFBanpNc1VYRWlEZ0ZIaHNyTV9NTzNtZTF6a2FIUGRXRVJ0dTkyNW1GV09XV2tlLXFabU1MLVhnZi1WeXhnbGFhelA0RXJoQmdXcU0xWVpKUXpNdEFfSjk5NktMZFJyZkMxd0lIa09aaVE5TVZWZtIBfkFVX3lxTE91LWZXY0xSeDUzYWh3SFpvWnJqdG1PWXVTNHdLeERReU1SZ0xfZTQ1Q29EeGVSNlJQZUFCMnR2bG1GLV9lUkROR0R1VmVqaXZvOFRsLUNzcS1IS1dFM2RYX3pqdlppN1c4bHNIV281NXpvRU9ZWEc0Q3ZyVmJ3Zw?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI layoffs",
-        "workforce changes",
-        "tech industry"
-      ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "oracle-admits-artificial-intelligence-has-cost-21-000-jobs",
-      "title": "Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs",
-      "summary": "Oracle's admission that AI has cost 21,000 jobs signals growing AI adoption and its direct impact on employment across multiple sectors.",
-      "date": "2026-06-23",
-      "source": "Forbes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2hpQ3dhVFk2Nzl1UHNSLTFHZ21tV1VwOFk4OXhHZ3hjZTE5aERaNTFfUGR1Sk1sN3FlR0s3ODFXdEx3akxTRzRETE54azU3Tmd5NFdSZ2NXaWIyRTY1MENYRFBjZ1JfUEVHQ2tFcm1aNkp5Tk9oV1V5RW9yNTZpVlFJMnJDWE15MnBXOGt5YzRtRmNKREFEZVZOMnJFSThwSGJ4RzVqWDZuS1VHZU90Z195VDZsZ3JWazMyYVRYdnJpb1E?oc=5",
+      "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "A new AI chip optimized for LLM inference could accelerate AI adoption and improve productivity in tech and related fields.",
+      "date": "2026-06-24",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "job displacement",
+        "AI hardware",
+        "LLM optimization",
         "enterprise AI"
       ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
-        "management",
-        "business-and-financial",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "_all"
       ]
     },
     {
-      "id": "hsbc-wealth-survey-shows-ai-losing-out-to-humans-in-key-areas",
-      "title": "HSBC Wealth Survey Shows AI Losing Out to Humans in Key Areas",
-      "summary": "AI is not yet replacing human advisers in high-net-worth wealth management, indicating ongoing human dominance in complex financial services.",
+      "id": "congresswoman-denies-staff-used-ai-to-write-defense-funding-amendment",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "summary": "A congresswoman denies using AI to draft legislation, highlighting human oversight and regulatory concerns in AI adoption within government work.",
       "date": "2026-06-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "human-ai-complementarity",
-        "financial-services",
-        "workplace-adoption"
+        "policy",
+        "regulation",
+        "government-work"
       ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
-        "business-and-financial",
+        "legal",
         "management",
-        "computer-and-information-technology"
-      ]
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "sk-hynix-seeks-29-billion-with-us-listing-to-fund-ai-boom",
-      "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
-      "summary": "SK Hynix's US listing to fund AI-related memory chip production signals growing investment in AI infrastructure and supply chain capacity.",
-      "date": "2026-06-24",
+      "id": "ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says",
+      "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
+      "summary": "AI demand is creating supply chain pressures for critical components like memory chips, affecting corporate procurement and potentially influencing tech-driven industries.",
+      "date": "2026-06-25",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "funding"
+        "supply-chain",
+        "enterprise-adoption",
+        "hardware"
       ],
-      "fetchedAt": "2026-06-24T11:00:48.375Z",
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3660,14 +3543,63 @@
         "production",
         "_all"
       ]
+    },
+    {
+      "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary": "Custom chip development by OpenAI signals increased focus on optimizing AI inference systems, likely improving performance and efficiency in AI-driven workflows.",
+      "date": "2026-06-24",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "enterprise adoption",
+        "model optimization"
+      ],
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-reveals-its-first-ai-processor-jalape-o",
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "summary": "OpenAI's Jalapeño chip represents a major advancement in AI infrastructure, enabling faster and more efficient AI inference for enterprise and consumer applications.",
+      "date": "2026-06-24",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI hardware",
+        "enterprise adoption",
+        "model performance"
+      ],
+      "fetchedAt": "2026-06-25T11:00:52.950Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-06-24T12:00:00.000Z",
+  "generatedAt": "2026-06-25T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job pressure shows mixed signals amid new tools and layoffs",
-      "preview": "New AI tools and job cuts highlight ongoing tension in the workforce.",
-      "body": "Recent news shows a mix of AI advancements and job displacement, with developments like Claude Tag and Oracle's layoffs reflecting both progress and pressure. While some reports suggest AI is enhancing productivity, others indicate growing concerns over its impact on employment. Overall, the balance remains closely watched as AI integration continues to evolve."
+      "title": "AI Advances Continue Amid Regulatory Concerns",
+      "preview": "Positive developments in AI infrastructure contrast with regulatory hesitancy.",
+      "body": "Several high-impact advances in AI infrastructure were reported, including new chips and agent technologies that could boost productivity. However, a congressional denial of AI use in legislative drafting highlights ongoing concerns about oversight and regulation. The overall mix suggests continued momentum in AI adoption, though challenges remain."
     }
   }
 }

@@ -1,5 +1,151 @@
 [
   {
+    "id": "how-agents-are-transforming-work",
+    "title": "How agents are transforming work",
+    "summary": "AI agents are advancing productivity and enabling more complex tasks across a wide range of roles.",
+    "date": "2026-06-25",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "productivity",
+      "workflow transformation"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "summary": "A new AI chip optimized for LLM inference could accelerate AI adoption and improve productivity in tech and related fields.",
+    "date": "2026-06-24",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI hardware",
+      "LLM optimization",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "congresswoman-denies-staff-used-ai-to-write-defense-funding-amendment",
+    "title": "Congresswoman denies staff used AI to write defense funding amendment",
+    "summary": "A congresswoman denies using AI to draft legislation, highlighting human oversight and regulatory concerns in AI adoption within government work.",
+    "date": "2026-06-24",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "government-work"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "legal",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-reveals-its-first-ai-processor-jalape-o",
+    "title": "OpenAI reveals its first AI processor: Jalapeño",
+    "summary": "OpenAI's Jalapeño chip represents a major advancement in AI infrastructure, enabling faster and more efficient AI inference for enterprise and consumer applications.",
+    "date": "2026-06-24",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI hardware",
+      "enterprise adoption",
+      "model performance"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says",
+    "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
+    "summary": "AI demand is creating supply chain pressures for critical components like memory chips, affecting corporate procurement and potentially influencing tech-driven industries.",
+    "date": "2026-06-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "supply-chain",
+      "enterprise-adoption",
+      "hardware"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "summary": "Custom chip development by OpenAI signals increased focus on optimizing AI inference systems, likely improving performance and efficiency in AI-driven workflows.",
+    "date": "2026-06-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "model optimization"
+    ],
+    "fetchedAt": "2026-06-25T11:00:52.950Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "introducing-claude-tag",
     "title": "Introducing Claude Tag",
     "summary": "Claude Tag introduces a new collaboration tool for teams using Claude, potentially improving productivity and workflow in AI-assisted tasks.",
