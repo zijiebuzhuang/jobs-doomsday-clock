@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-06-26",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 0.906,
+    "macroReplacementRate": 49.937,
+    "newsAdjustment": -12.094,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-devic",
+        "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+        "summary": "Advancements in multi-GPU AI inference support improve the scalability and efficiency of generative AI workloads, impacting technical roles and infrastructure development.",
+        "date": "2026-06-25",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "productivity",
+          "computing"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Inference-768x432.jpg"
+      },
+      {
+        "id": "repositioning-retail-for-the-ai-era",
+        "title": "Repositioning retail for the AI era",
+        "summary": "AI is transforming retail through behind-the-scenes decision-making, affecting supply chains, code deployment, and product visibility.",
+        "date": "2026-06-25",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "supply chain",
+          "productivity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "california-launches-ai-job-impact-tracker-to-monitor-workforce-effects",
+        "title": "California launches AI job impact tracker to monitor workforce effects",
+        "summary": "California's AI job impact tracker signals increased regulatory attention and monitoring of AI's effects on the workforce, potentially slowing or shaping AI adoption.",
+        "date": "2026-06-25",
+        "source": "ABC10",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3NmMTFodDByYjZ0dnRGTXpmN2lKUDR3YUJsODFoWjVMTzlEMnNNcGpLNzlKMU5PYmMteEZDdFJKTVpYNHZuaFJleFZyYXZSSmJsRl9QV3prVk5fN3pxTFRiTkRXR0ZXZWJQVVRlamFjc3dkMExoMXg3QzRaUkl3OHp3aG56YVVianNYWEFlVmN1VW1sc29EcFFtcjNLdlBqRGRSVE1JWmtKLVNLM0RLSFM0TEtZTlp5MFcxa2pRMTVCX0pDSnNrNTNGTEgyc1VWR1p3cnhERmpBeG5VX2l6REhXUmlmeENCdThnZnJzUnF5QjJWaXc?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "workforce-monitoring"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artific",
+        "title": "California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce",
+        "summary": "California's new AI workforce monitoring tool signals increased regulatory attention and potential constraints on AI adoption in the workplace.",
+        "date": "2026-06-25",
+        "source": "California State Portal | CA.gov",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "workforce-monitoring",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "washington-s-foreign-ban-on-anthropic-s-top-models-may-backfire",
+        "title": "Washington’s Foreign Ban on Anthropic’s Top Models May Backfire",
+        "summary": "A foreign ban on Anthropic's models may boost demand for China's open-source AI, potentially shifting AI development and adoption dynamics.",
+        "date": "2026-06-26",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "ai-development",
+          "global-competition"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "summary": "Regulatory concerns lead to a delayed and restricted release of a major AI model, signaling increased scrutiny on AI development and deployment.",
+        "date": "2026-06-25",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-",
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "summary": "Regulatory concerns prompt a controlled release of a new AI model, indicating increased scrutiny and potential slowing of AI adoption in the workplace.",
+        "date": "2026-06-25",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI development",
+          "policy"
+        ],
+        "fetchedAt": "2026-06-26T11:00:50.053Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support.",
+        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"California launches AI job impact tracker to monitor workforce effects\" (ABC10). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.094 minutes. Updated 2026-06-26T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-25",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 0.806,
@@ -15673,47 +15879,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-27T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-26",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.746,
-    "macroReplacementRate": 49.118,
-    "newsAdjustment": -0.254,
-    "categoryAdjustments": {
-      "healthcare": -0.007,
-      "life-physical-and-social-science": -0.007,
-      "architecture-and-engineering": -0.007,
-      "management": -0.04,
-      "business-and-financial": -0.04,
-      "construction-and-extraction": -0.007,
-      "production": -0.02,
-      "installation-maintenance-and-repair": -0.007,
-      "education-training-and-library": -0.007,
-      "office-and-administrative-support": -0.072,
-      "transportation-and-material-moving": -0.007,
-      "personal-care-and-service": -0.007,
-      "sales": -0.007,
-      "media-and-communication": 0.002,
-      "computer-and-information-technology": -0.084,
-      "community-and-social-service": -0.007,
-      "arts-and-design": 0.002,
-      "entertainment-and-sports": -0.007,
-      "protective-service": -0.007,
-      "food-preparation-and-serving": -0.007,
-      "legal": -0.007,
-      "math": -0.007,
-      "farming-fishing-and-forestry": -0.007,
-      "building-and-grounds-cleaning": -0.007
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-26T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

@@ -1,5 +1,169 @@
 [
   {
+    "id": "scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-devic",
+    "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "summary": "Advancements in multi-GPU AI inference support improve the scalability and efficiency of generative AI workloads, impacting technical roles and infrastructure development.",
+    "date": "2026-06-25",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "productivity",
+      "computing"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Inference-768x432.jpg"
+  },
+  {
+    "id": "repositioning-retail-for-the-ai-era",
+    "title": "Repositioning retail for the AI era",
+    "summary": "AI is transforming retail through behind-the-scenes decision-making, affecting supply chains, code deployment, and product visibility.",
+    "date": "2026-06-25",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "supply chain",
+      "productivity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "summary": "Regulatory concerns lead to a delayed and restricted release of a major AI model, signaling increased scrutiny on AI development and deployment.",
+    "date": "2026-06-25",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "washington-s-foreign-ban-on-anthropic-s-top-models-may-backfire",
+    "title": "Washington’s Foreign Ban on Anthropic’s Top Models May Backfire",
+    "summary": "A foreign ban on Anthropic's models may boost demand for China's open-source AI, potentially shifting AI development and adoption dynamics.",
+    "date": "2026-06-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "ai-development",
+      "global-competition"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "summary": "Regulatory concerns prompt a controlled release of a new AI model, indicating increased scrutiny and potential slowing of AI adoption in the workplace.",
+    "date": "2026-06-25",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI development",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "california-launches-ai-job-impact-tracker-to-monitor-workforce-effects",
+    "title": "California launches AI job impact tracker to monitor workforce effects",
+    "summary": "California's AI job impact tracker signals increased regulatory attention and monitoring of AI's effects on the workforce, potentially slowing or shaping AI adoption.",
+    "date": "2026-06-25",
+    "source": "ABC10",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3NmMTFodDByYjZ0dnRGTXpmN2lKUDR3YUJsODFoWjVMTzlEMnNNcGpLNzlKMU5PYmMteEZDdFJKTVpYNHZuaFJleFZyYXZSSmJsRl9QV3prVk5fN3pxTFRiTkRXR0ZXZWJQVVRlamFjc3dkMExoMXg3QzRaUkl3OHp3aG56YVVianNYWEFlVmN1VW1sc29EcFFtcjNLdlBqRGRSVE1JWmtKLVNLM0RLSFM0TEtZTlp5MFcxa2pRMTVCX0pDSnNrNTNGTEgyc1VWR1p3cnhERmpBeG5VX2l6REhXUmlmeENCdThnZnJzUnF5QjJWaXc?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce-monitoring"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artific",
+    "title": "California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce",
+    "summary": "California's new AI workforce monitoring tool signals increased regulatory attention and potential constraints on AI adoption in the workplace.",
+    "date": "2026-06-25",
+    "source": "California State Portal | CA.gov",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "workforce-monitoring",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-26T11:00:50.053Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "how-agents-are-transforming-work",
     "title": "How agents are transforming work",
     "summary": "AI agents are advancing productivity and enabling more complex tasks across a wide range of roles.",
