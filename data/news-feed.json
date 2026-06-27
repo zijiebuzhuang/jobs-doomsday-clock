@@ -1,5 +1,172 @@
 [
   {
+    "id": "deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
+    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+    "summary": "The deployment of the NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure signals progress in AI agent capabilities, enabling more complex and autonomous workflows in enterprise environments.",
+    "date": "2026-06-26",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "AI agents"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/genai-press-project-aiq-3503101-1920x1080-1-768x432-jpg.webp"
+  },
+  {
+    "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a",
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "summary": "The Trump administration's authorization of Anthropic's Mythos 5 for over 100 US companies and agencies signals increased AI adoption in the workforce, potentially affecting multiple industries.",
+    "date": "2026-06-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "government use"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+    "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+    "summary": "Regulatory discussions around AI models may slow or shape the deployment of advanced AI systems in the workforce.",
+    "date": "2026-06-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "OpenAI's hiring of Uber India's chief signals increased focus on expanding AI operations in India, indicating growing AI adoption and market investment.",
+    "date": "2026-06-26",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "talent-competition",
+      "market-expansion"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-mythos-5-ai-model-cleared-by-us-for-wider-use",
+    "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
+    "summary": "US approval for Anthropic's Mythos 5 AI model indicates regulatory scrutiny and potential constraints on AI adoption in sensitive sectors.",
+    "date": "2026-06-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI capability",
+      "national security"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "oracle-s-21-000-layoffs-align-with-california-ai-job-tracker-debut",
+    "title": "Oracle's 21,000 layoffs align with California AI job tracker debut",
+    "summary": "Oracle's large-scale layoffs coincide with the launch of a California AI job tracker, signaling increased pressure and transformation in the workforce due to AI adoption.",
+    "date": "2026-06-27",
+    "source": "MSN",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaXBGMzJBcmU2dDFfOExWZ0Q2bjE3YW8yRHVxS3dCWDVVMUtNLUVERUVMVFRRMmk4aG9VNUxRMXluTy1XYTBlUFhpeTdvMUFSWjdPaU1ESmV1bXhSb3dvbzdRZTNnWmlISHBOdDY0WTVWUHFKYkRPRnlGSE53bHlGclpOeFM1eEhlUWdlSktCMUhBSlFpQ3RKRkRPRGVaV2JyRWw1aHJHb2R4el9uX1lpRmFCN0J1Q1dicy1BS1FaMmFVd2poU1E4TFpqZlNTZUlENXNZdkwxYWxnQkNKcFF3Mzg1R1ZLR3VBM2RxRk1faVFpbWFFam5UR3F6OTNhVUE?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce transformation",
+      "job market pressure"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "california-creates-the-nation-s-first-ai-job-loss-tracker",
+    "title": "California Creates the Nation’s First AI Job-Loss Tracker",
+    "summary": "California's AI job-loss tracker signals increased regulatory attention and potential labor constraints on AI adoption.",
+    "date": "2026-06-26",
+    "source": "Governing",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVJrMzFiRXB5dFBkOWVCT3NCM2ZFVzRsU3NxLUNpc3BSbjJ1Tl9KNVZlS2FJWi15WGxEaGdqZGk4NHFqQUthWVNCY1E1Q3lDRE1mNkNKT1p2dS1yeW1nUWF2SVZVVk1JRW5PNzRiVldDTUI5N0lWa202d25CelVOM0hJTG1QZWgxZGQxbVBzdk1tdURKekRB?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-06-27T11:00:50.428Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-devic",
     "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
     "summary": "Advancements in multi-GPU AI inference support improve the scalability and efficiency of generative AI workloads, impacting technical roles and infrastructure development.",

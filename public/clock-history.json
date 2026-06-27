@@ -1,5 +1,214 @@
 [
   {
+    "date": "2026-06-27",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 0.836,
+    "macroReplacementRate": 49.942,
+    "newsAdjustment": -12.164,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+        "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+        "summary": "Regulatory discussions around AI models may slow or shape the deployment of advanced AI systems in the workforce.",
+        "date": "2026-06-26",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
+        "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+        "summary": "The deployment of the NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure signals progress in AI agent capabilities, enabling more complex and autonomous workflows in enterprise environments.",
+        "date": "2026-06-26",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "AI agents"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/genai-press-project-aiq-3503101-1920x1080-1-768x432-jpg.webp"
+      },
+      {
+        "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a",
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "summary": "The Trump administration's authorization of Anthropic's Mythos 5 for over 100 US companies and agencies signals increased AI adoption in the workforce, potentially affecting multiple industries.",
+        "date": "2026-06-27",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "government use"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us",
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "summary": "OpenAI's hiring of Uber India's chief signals increased focus on expanding AI operations in India, indicating growing AI adoption and market investment.",
+        "date": "2026-06-26",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "talent-competition",
+          "market-expansion"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "california-creates-the-nation-s-first-ai-job-loss-tracker",
+        "title": "California Creates the Nation’s First AI Job-Loss Tracker",
+        "summary": "California's AI job-loss tracker signals increased regulatory attention and potential labor constraints on AI adoption.",
+        "date": "2026-06-26",
+        "source": "Governing",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVJrMzFiRXB5dFBkOWVCT3NCM2ZFVzRsU3NxLUNpc3BSbjJ1Tl9KNVZlS2FJWi15WGxEaGdqZGk4NHFqQUthWVNCY1E1Q3lDRE1mNkNKT1p2dS1yeW1nUWF2SVZVVk1JRW5PNzRiVldDTUI5N0lWa202d25CelVOM0hJTG1QZWgxZGQxbVBzdk1tdURKekRB?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "workforce"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "oracle-s-21-000-layoffs-align-with-california-ai-job-tracker-debut",
+        "title": "Oracle's 21,000 layoffs align with California AI job tracker debut",
+        "summary": "Oracle's large-scale layoffs coincide with the launch of a California AI job tracker, signaling increased pressure and transformation in the workforce due to AI adoption.",
+        "date": "2026-06-27",
+        "source": "MSN",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaXBGMzJBcmU2dDFfOExWZ0Q2bjE3YW8yRHVxS3dCWDVVMUtNLUVERUVMVFRRMmk4aG9VNUxRMXluTy1XYTBlUFhpeTdvMUFSWjdPaU1ESmV1bXhSb3dvbzdRZTNnWmlISHBOdDY0WTVWUHFKYkRPRnlGSE53bHlGclpOeFM1eEhlUWdlSktCMUhBSlFpQ3RKRkRPRGVaV2JyRWw1aHJHb2R4el9uX1lpRmFCN0J1Q1dicy1BS1FaMmFVd2poU1E4TFpqZlNTZUlENXNZdkwxYWxnQkNKcFF3Mzg1R1ZLR3VBM2RxRk1faVFpbWFFam5UR3F6OTNhVUE?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "job market pressure"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "anthropic-s-mythos-5-ai-model-cleared-by-us-for-wider-use",
+        "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
+        "summary": "US approval for Anthropic's Mythos 5 AI model indicates regulatory scrutiny and potential constraints on AI adoption in sensitive sectors.",
+        "date": "2026-06-26",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI capability",
+          "national security"
+        ],
+        "fetchedAt": "2026-06-27T11:00:50.428Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic Moves Toward Deal With US to Lift Curbs on AI Models.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Anthropic Moves Toward Deal With US to Lift Curbs on AI Models\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.164 minutes. Updated 2026-06-27T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-26",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 0.906,
@@ -15838,47 +16047,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-28T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-27",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.668,
-    "macroReplacementRate": 49.123,
-    "newsAdjustment": -0.332,
-    "categoryAdjustments": {
-      "healthcare": -0.008,
-      "life-physical-and-social-science": -0.008,
-      "architecture-and-engineering": -0.008,
-      "management": -0.041,
-      "business-and-financial": -0.063,
-      "construction-and-extraction": -0.008,
-      "production": -0.021,
-      "installation-maintenance-and-repair": -0.008,
-      "education-training-and-library": -0.008,
-      "office-and-administrative-support": -0.073,
-      "transportation-and-material-moving": -0.008,
-      "personal-care-and-service": -0.008,
-      "sales": -0.008,
-      "media-and-communication": 0.001,
-      "computer-and-information-technology": -0.105,
-      "community-and-social-service": -0.008,
-      "arts-and-design": 0.001,
-      "entertainment-and-sports": -0.008,
-      "protective-service": -0.008,
-      "food-preparation-and-serving": -0.008,
-      "legal": -0.029,
-      "math": -0.008,
-      "farming-fishing-and-forestry": -0.008,
-      "building-and-grounds-cleaning": -0.008
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-27T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
