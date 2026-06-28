@@ -1,5 +1,241 @@
 [
   {
+    "date": "2026-06-28",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 0.802,
+    "macroReplacementRate": 49.944,
+    "newsAdjustment": -12.198,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "summary": "OpenAI's release of GPT-5.6, with specialized capabilities in coding, cybersecurity, and biology, signals growing AI adoption in technical and professional workflows, potentially increasing productivity and reshaping skill requirements.",
+        "date": "2026-06-26",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "workforce impact",
+          "productivity"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "healthcare",
+          "life-physical-and-social-science",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "ai-layoffs-2026-major-tech-firms-cutting-jobs-as-ai-rises",
+        "title": "AI layoffs 2026: major tech firms cutting jobs as AI rises",
+        "summary": "Major tech firms cutting jobs in 2026 due to AI adoption signals increased workplace pressure and potential shifts in hiring and skills requirements.",
+        "date": "2026-06-27",
+        "source": "Memeburn",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXp2bE9aQ0ZGMjduVnNlOG5SazhlZjUyRTlCRE1mRV9qZjlEZVVDT1FNaE1yRFBXNkFnd2E1RDc3c2dNYm9zNnhQSTY0OE95UFZlX0VucEVEU3hQa29CR1Vnd0RTMUlpc2pSQ3pSMzNyblQyaFJzOHdUc3NKNGlabjFMcnNEQQ?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace impact",
+          "job market"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+        "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+        "summary": "Google restricting Meta's use of Gemini AI highlights regulatory and infrastructure challenges in enterprise AI adoption.",
+        "date": "2026-06-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "enterprise AI",
+          "regulation",
+          "AI infrastructure"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-mythos-5-is-back",
+        "title": "Anthropic’s Mythos 5 is back",
+        "summary": "Regulatory friction is slowing the deployment of Anthropic's AI model, indicating ongoing challenges in AI adoption due to government oversight.",
+        "date": "2026-06-27",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "model-release"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn",
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "summary": "Government intervention in AI model rollout highlights regulatory friction that could slow AI adoption in the workplace.",
+        "date": "2026-06-26",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic-s-export-ban-drags-on",
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+        "summary": "Asian AI startups are developing models with capabilities similar to Anthropic's Mythos, potentially accelerating AI adoption in the region despite U.S. export restrictions.",
+        "date": "2026-06-27",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "regulation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizatio",
+        "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+        "summary": "The Trump administration's decision to allow Anthropic to release its advanced AI model to select US organizations accelerates AI adoption in key sectors.",
+        "date": "2026-06-27",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "enterprise AI",
+          "model release"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+        "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+        "summary": "AI-driven investor enthusiasm is boosting Hong Kong's stock market despite regulatory challenges, signaling growing AI influence on financial markets and investment workflows.",
+        "date": "2026-06-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "investment",
+          "market trends",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-06-28T11:00:46.329Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI unveils GPT-5.6 amid US AI regulatory drama.",
+        "body": "This update is split between 4 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI unveils GPT-5.6 amid US AI regulatory drama\" (The Verge - AI), while the clearest drag comes from \"AI layoffs 2026: major tech firms cutting jobs as AI rises\" (Memeburn). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.198 minutes. Updated 2026-06-28T12:00:00.000Z, with the macro replacement estimate at 49.9%."
+      }
+    }
+  },
+  {
     "date": "2026-06-27",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 0.836,
@@ -16006,47 +16242,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-03-29T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-28",
-    "minutesToMidnight": 13,
-    "exactMinutesToMidnight": 12.565,
-    "macroReplacementRate": 49.13,
-    "newsAdjustment": -0.435,
-    "categoryAdjustments": {
-      "healthcare": -0.009,
-      "life-physical-and-social-science": -0.009,
-      "architecture-and-engineering": -0.009,
-      "management": -0.042,
-      "business-and-financial": -0.064,
-      "construction-and-extraction": -0.009,
-      "production": -0.023,
-      "installation-maintenance-and-repair": -0.009,
-      "education-training-and-library": -0.009,
-      "office-and-administrative-support": -0.102,
-      "transportation-and-material-moving": -0.037,
-      "personal-care-and-service": -0.009,
-      "sales": -0.037,
-      "media-and-communication": 0,
-      "computer-and-information-technology": -0.106,
-      "community-and-social-service": -0.009,
-      "arts-and-design": 0,
-      "entertainment-and-sports": -0.009,
-      "protective-service": -0.009,
-      "food-preparation-and-serving": -0.009,
-      "legal": -0.03,
-      "math": -0.009,
-      "farming-fishing-and-forestry": -0.009,
-      "building-and-grounds-cleaning": -0.009
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-28T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }

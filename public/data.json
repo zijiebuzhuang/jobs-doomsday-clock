@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:10",
+  "displayTime": "23:59:12",
   "minutesToMidnight": 1,
-  "exactMinutesToMidnight": 0.836,
+  "exactMinutesToMidnight": 0.802,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.164,
+  "newsAdjustment": -12.198,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.942,
+  "macroReplacementRate": 49.944,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,69 +3448,142 @@
   ],
   "newsFeed": [
     {
-      "id": "anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
-      "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
-      "summary": "Regulatory discussions around AI models may slow or shape the deployment of advanced AI systems in the workforce.",
+      "id": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "OpenAI's release of GPT-5.6, with specialized capabilities in coding, cybersecurity, and biology, signals growing AI adoption in technical and professional workflows, potentially increasing productivity and reshaping skill requirements.",
       "date": "2026-06-26",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
-      "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-      "summary": "The deployment of the NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure signals progress in AI agent capabilities, enabling more complex and autonomous workflows in enterprise environments.",
-      "date": "2026-06-26",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "AI agents"
+        "AI model release",
+        "workforce impact",
+        "productivity"
       ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "healthcare",
+        "life-physical-and-social-science",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "ai-layoffs-2026-major-tech-firms-cutting-jobs-as-ai-rises",
+      "title": "AI layoffs 2026: major tech firms cutting jobs as AI rises",
+      "summary": "Major tech firms cutting jobs in 2026 due to AI adoption signals increased workplace pressure and potential shifts in hiring and skills requirements.",
+      "date": "2026-06-27",
+      "source": "Memeburn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXp2bE9aQ0ZGMjduVnNlOG5SazhlZjUyRTlCRE1mRV9qZjlEZVVDT1FNaE1yRFBXNkFnd2E1RDc3c2dNYm9zNnhQSTY0OE95UFZlX0VucEVEU3hQa29CR1Vnd0RTMUlpc2pSQ3pSMzNyblQyaFJzOHdUc3NKNGlabjFMcnNEQQ?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workplace impact",
+        "job market"
+      ],
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/genai-press-project-aiq-3503101-1920x1080-1-768x432-jpg.webp"
+      ]
     },
     {
-      "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-      "summary": "The Trump administration's authorization of Anthropic's Mythos 5 for over 100 US companies and agencies signals increased AI adoption in the workforce, potentially affecting multiple industries.",
-      "date": "2026-06-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "effect": "advance",
-      "impactScore": 4,
+      "id": "google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+      "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+      "summary": "Google restricting Meta's use of Gemini AI highlights regulatory and infrastructure challenges in enterprise AI adoption.",
+      "date": "2026-06-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
         "enterprise AI",
-        "government use"
+        "regulation",
+        "AI infrastructure"
       ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-mythos-5-is-back",
+      "title": "Anthropic’s Mythos 5 is back",
+      "summary": "Regulatory friction is slowing the deployment of Anthropic's AI model, indicating ongoing challenges in AI adoption due to government oversight.",
+      "date": "2026-06-27",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "enterprise-adoption",
+        "model-release"
+      ],
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "Government intervention in AI model rollout highlights regulatory friction that could slow AI adoption in the workplace.",
+      "date": "2026-06-26",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic-s-export-ban-drags-on",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "summary": "Asian AI startups are developing models with capabilities similar to Anthropic's Mythos, potentially accelerating AI adoption in the region despite U.S. export restrictions.",
+      "date": "2026-06-27",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "regulation",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3521,20 +3594,20 @@
       ]
     },
     {
-      "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "OpenAI's hiring of Uber India's chief signals increased focus on expanding AI operations in India, indicating growing AI adoption and market investment.",
-      "date": "2026-06-26",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "id": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizatio",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "The Trump administration's decision to allow Anthropic to release its advanced AI model to select US organizations accelerates AI adoption in key sectors.",
+      "date": "2026-06-27",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "talent-competition",
-        "market-expansion"
+        "AI regulation",
+        "enterprise AI",
+        "model release"
       ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3545,82 +3618,36 @@
       ]
     },
     {
-      "id": "california-creates-the-nation-s-first-ai-job-loss-tracker",
-      "title": "California Creates the Nation’s First AI Job-Loss Tracker",
-      "summary": "California's AI job-loss tracker signals increased regulatory attention and potential labor constraints on AI adoption.",
-      "date": "2026-06-26",
-      "source": "Governing",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVJrMzFiRXB5dFBkOWVCT3NCM2ZFVzRsU3NxLUNpc3BSbjJ1Tl9KNVZlS2FJWi15WGxEaGdqZGk4NHFqQUthWVNCY1E1Q3lDRE1mNkNKT1p2dS1yeW1nUWF2SVZVVk1JRW5PNzRiVldDTUI5N0lWa202d25CelVOM0hJTG1QZWgxZGQxbVBzdk1tdURKekRB?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "workforce"
-      ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "oracle-s-21-000-layoffs-align-with-california-ai-job-tracker-debut",
-      "title": "Oracle's 21,000 layoffs align with California AI job tracker debut",
-      "summary": "Oracle's large-scale layoffs coincide with the launch of a California AI job tracker, signaling increased pressure and transformation in the workforce due to AI adoption.",
-      "date": "2026-06-27",
-      "source": "MSN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaXBGMzJBcmU2dDFfOExWZ0Q2bjE3YW8yRHVxS3dCWDVVMUtNLUVERUVMVFRRMmk4aG9VNUxRMXluTy1XYTBlUFhpeTdvMUFSWjdPaU1ESmV1bXhSb3dvbzdRZTNnWmlISHBOdDY0WTVWUHFKYkRPRnlGSE53bHlGclpOeFM1eEhlUWdlSktCMUhBSlFpQ3RKRkRPRGVaV2JyRWw1aHJHb2R4el9uX1lpRmFCN0J1Q1dicy1BS1FaMmFVd2poU1E4TFpqZlNTZUlENXNZdkwxYWxnQkNKcFF3Mzg1R1ZLR3VBM2RxRk1faVFpbWFFam5UR3F6OTNhVUE?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce transformation",
-        "job market pressure"
-      ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "anthropic-s-mythos-5-ai-model-cleared-by-us-for-wider-use",
-      "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
-      "summary": "US approval for Anthropic's Mythos 5 AI model indicates regulatory scrutiny and potential constraints on AI adoption in sensitive sectors.",
-      "date": "2026-06-26",
+      "id": "ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+      "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+      "summary": "AI-driven investor enthusiasm is boosting Hong Kong's stock market despite regulatory challenges, signaling growing AI influence on financial markets and investment workflows.",
+      "date": "2026-06-28",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
-      "effect": "delay",
-      "impactScore": 4,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
-        "regulation",
-        "AI capability",
-        "national security"
+        "investment",
+        "market trends",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-27T11:00:50.428Z",
+      "fetchedAt": "2026-06-28T11:00:46.329Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-27T12:00:00.000Z",
+  "generatedAt": "2026-06-28T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory shifts and AI expansion shape workforce dynamics",
-      "preview": "New AI policies and corporate moves signal evolving job replacement pressures.",
-      "body": "Recent developments show a mix of regulatory delays and technological advances, with notable headlines like 'Anthropic Moves Toward Deal With US to Lift Curbs on AI Models' and 'Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies' highlighting both constraints and growth. Meanwhile, Oracle's layoffs align with California's new AI job tracker, underscoring the ongoing tension between AI adoption and labor market adjustments."
+      "title": "AI Advances and Regulatory Delays Shape Job Market Dynamics",
+      "preview": "New AI models and regulatory actions influence job replacement pressures.",
+      "body": "Recent developments show a mix of AI advancements and regulatory delays, with OpenAI's GPT-5.6 and Asian startups' new models driving adoption, while government restrictions slow deployment. The overall balance suggests continued pressure on traditional roles amid evolving tech landscapes."
     }
   }
 }
