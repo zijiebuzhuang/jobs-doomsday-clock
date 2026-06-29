@@ -1,5 +1,147 @@
 [
   {
+    "id": "mapping-europe-s-ai-workforce-opportunity",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "summary": "A report mapping AI's impact on EU jobs highlights which occupations may be automated, grow, or change, providing insight into AI's workforce implications.",
+    "date": "2026-06-29",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI workforce",
+      "job automation",
+      "workplace impact"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "hp-inc-launches-frontier-strategic-partnership-with-openai",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "summary": "HP Inc.'s expanded partnership with OpenAI signals increased AI adoption in enterprise operations, software development, and customer experiences, accelerating AI integration into business workflows.",
+    "date": "2026-06-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/hp-frontier-partnership",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "ai-partnerships",
+      "workflow-automation"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ]
+  },
+  {
+    "id": "china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
+    "title": "China Pushes All School Levels to Teach AI in Xi’s Tech Drive",
+    "summary": "China's plan to integrate AI into all levels of education signals a long-term strategy to build AI literacy and workforce readiness, accelerating AI adoption in future jobs.",
+    "date": "2026-06-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "education",
+      "workforce-development",
+      "policy"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "education-training-and-library",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-cloud-to-offer-specialist-ai-models-for-science-research",
+    "title": "Google Cloud to Offer Specialist AI Models for Science Research",
+    "summary": "Google Cloud's offering of specialized AI models for scientific research accelerates AI adoption in fields like drug discovery and materials science, increasing productivity and shifting skill demands.",
+    "date": "2026-06-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "scientific-research",
+      "ai-models"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "healthcare",
+      "life-physical-and-social-science",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "summary": "Ford's decision to rehire experienced engineers highlights the limitations of AI in complex engineering tasks and the continued need for human expertise.",
+    "date": "2026-06-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "human-in-the-loop",
+      "ai-limitations",
+      "workforce-hiring"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "architecture-and-engineering",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "california-launches-ai-job-loss-tracker-to-monitor-workforce-impacts",
+    "title": "California launches AI job-loss tracker to monitor workforce impacts",
+    "summary": "California's AI job-loss tracker signals increased regulatory attention and monitoring of AI's impact on the workforce, potentially slowing adoption or shaping implementation.",
+    "date": "2026-06-28",
+    "source": "Local News Matters",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUZxMkNYNWU1cnprbVBrdVB5ZnBPa0dnRnFKS0RWYVp6RDRka2dPMzEzbTU5NExqTEtoNnRsZXdMWGlMWEJrQm5BZVpjOVN0Nmk3cEJvSDh2M24xNG9YU01oZ0pXN2EwVXNZbWNGQmlLTkVRV0JBTUwwcjNrR3ZjajJhQWl0aEtxZ2tQMk4wdHlCMW15eUZzTFlSa1RjNGt2b2xvTGVsQVpYQ01vOUE?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "workforce-impact",
+      "regulation"
+    ],
+    "fetchedAt": "2026-06-29T11:01:17.175Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "anthropic-s-mythos-5-is-back",
     "title": "Anthropic’s Mythos 5 is back",
     "summary": "Regulatory friction is slowing the deployment of Anthropic's AI model, indicating ongoing challenges in AI adoption due to government oversight.",
