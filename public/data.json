@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:24",
-  "minutesToMidnight": 1,
-  "exactMinutesToMidnight": 0.595,
+  "displayTime": "23:59:35",
+  "minutesToMidnight": 0,
+  "exactMinutesToMidnight": 0.419,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.405,
+  "newsAdjustment": -12.581,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.959,
+  "macroReplacementRate": 49.971,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,47 +3448,73 @@
   ],
   "newsFeed": [
     {
-      "id": "hp-inc-launches-frontier-strategic-partnership-with-openai",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary": "HP Inc.'s expanded partnership with OpenAI signals increased AI adoption in enterprise operations, software development, and customer experiences, accelerating AI integration into business workflows.",
-      "date": "2026-06-28",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/hp-frontier-partnership",
+      "id": "openai-is-teasing-new-hardware-for-codex",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "summary": "OpenAI's new hardware for Codex suggests advancements in AI-assisted coding tools, potentially improving developer productivity and workflows.",
+      "date": "2026-06-29",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "coding",
+        "productivity"
+      ],
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "production"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "how-to-govern-autonomous-agents-in-enterprise-ai-factories",
+      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+      "summary": "The article highlights the growing need for governance of AI agents in enterprise settings, signaling increased regulatory and security considerations that may slow or shape AI adoption in workplaces.",
+      "date": "2026-06-29",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "ai-partnerships",
-        "workflow-automation"
+        "AI governance",
+        "enterprise AI",
+        "workplace security"
       ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "management"
-      ]
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Factory-Secure-768x432.png"
     },
     {
-      "id": "mapping-europe-s-ai-workforce-opportunity",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "summary": "A report mapping AI's impact on EU jobs highlights which occupations may be automated, grow, or change, providing insight into AI's workforce implications.",
-      "date": "2026-06-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "id": "the-ai-jobs-debate-just-got-messier",
+      "title": "The AI jobs debate just got messier",
+      "summary": "AI adoption is associated with increased hiring, particularly for entry-level roles, challenging the narrative that AI eliminates junior jobs.",
+      "date": "2026-06-30",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI workforce",
-        "job automation",
-        "workplace impact"
+        "AI adoption",
+        "hiring trends",
+        "workforce impact"
       ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3496,106 +3522,108 @@
       ]
     },
     {
-      "id": "china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
-      "title": "China Pushes All School Levels to Teach AI in Xi’s Tech Drive",
-      "summary": "China's plan to integrate AI into all levels of education signals a long-term strategy to build AI literacy and workforce readiness, accelerating AI adoption in future jobs.",
+      "id": "gemini-s-personalized-ai-image-generation-is-now-free-for-us-users",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Free access to personalized AI image generation in the U.S. expands AI adoption and could impact creative and design workflows across multiple industries.",
       "date": "2026-06-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "education",
-        "workforce-development",
-        "policy"
-      ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-cloud-to-offer-specialist-ai-models-for-science-research",
-      "title": "Google Cloud to Offer Specialist AI Models for Science Research",
-      "summary": "Google Cloud's offering of specialized AI models for scientific research accelerates AI adoption in fields like drug discovery and materials science, increasing productivity and shifting skill demands.",
-      "date": "2026-06-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "scientific-research",
-        "ai-models"
-      ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "life-physical-and-social-science",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "Ford's decision to rehire experienced engineers highlights the limitations of AI in complex engineering tasks and the continued need for human expertise.",
-      "date": "2026-06-28",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "effect": "delay",
-      "impactScore": 4,
+      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
-        "human-in-the-loop",
-        "ai-limitations",
-        "workforce-hiring"
+        "AI tools",
+        "workflows",
+        "productivity"
       ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "architecture-and-engineering",
-        "production",
-        "_all"
+        "arts-and-design",
+        "computer-and-information-technology",
+        "media-and-communication"
       ]
     },
     {
-      "id": "california-launches-ai-job-loss-tracker-to-monitor-workforce-impacts",
-      "title": "California launches AI job-loss tracker to monitor workforce impacts",
-      "summary": "California's AI job-loss tracker signals increased regulatory attention and monitoring of AI's impact on the workforce, potentially slowing adoption or shaping implementation.",
-      "date": "2026-06-28",
-      "source": "Local News Matters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUZxMkNYNWU1cnprbVBrdVB5ZnBPa0dnRnFKS0RWYVp6RDRka2dPMzEzbTU5NExqTEtoNnRsZXdMWGlMWEJrQm5BZVpjOVN0Nmk3cEJvSDh2M24xNG9YU01oZ0pXN2EwVXNZbWNGQmlLTkVRV0JBTUwwcjNrR3ZjajJhQWl0aEtxZ2tQMk4wdHlCMW15eUZzTFlSa1RjNGt2b2xvTGVsQVpYQ01vOUE?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
+      "id": "openai-maps-eu-ai-workforce-impact",
+      "title": "OpenAI Maps EU AI Workforce Impact",
+      "summary": "OpenAI's analysis of the EU AI workforce impact highlights how AI is reshaping job roles and skill demands across various industries.",
+      "date": "2026-06-29",
+      "source": "StartupHub.ai",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBRNXNfNGxHR0hTT0p2aFpyRWwwa0xvTXR5Wmx3Q2VzYjBuLXppRGpNTzZqS1NSNEh2UGpmVlVMZnJ6eFNvSFNCTFhRSzhDakp3YTUydGZYek8xZFl1bXE0UmRtTl9xN181SF9qaEwzd012cUU0azlzTlRrY2pPUVhHaHBDWnVLTnFnV3JzY1VTUVRreEJZZHJKWEFUdw?oc=5",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
-        "policy",
-        "workforce-impact",
-        "regulation"
+        "workforce impact",
+        "AI adoption",
+        "regulatory landscape"
       ],
-      "fetchedAt": "2026-06-29T11:01:17.175Z",
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
       "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "sap-gives-ai-product-oversight-to-top-executives-in-reshuffle",
+      "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
+      "summary": "SAP's reorganization shows increased executive focus on AI product oversight, signaling growing importance of AI in enterprise software leadership.",
+      "date": "2026-06-30",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "executive-strategy",
+        "software-industry"
+      ],
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
+      "title": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI",
+      "summary": "The restricted release of Anthropic's Mythos AI highlights growing concerns about AI-driven cyber risks, potentially slowing adoption due to security and regulatory concerns.",
+      "date": "2026-06-30",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "regulation",
+        "cyber risk"
+      ],
+      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-29T12:00:00.000Z",
+  "generatedAt": "2026-06-30T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption advances, but regulatory attention grows",
-      "preview": "Major AI partnerships and education initiatives contrast with signs of human reliance and oversight.",
-      "body": "Six recent signals show a mix of AI advancement and cautious implementation. HP and Google's new AI partnerships highlight growing enterprise adoption, while China's education push underscores long-term workforce planning. However, Ford's rehiring of engineers and California's job-loss tracker indicate ongoing challenges and regulatory scrutiny in AI deployment."
+      "title": "AI job dynamics shift with new tools and governance concerns",
+      "preview": "New AI tools and regulatory challenges influence workforce trends.",
+      "body": "Recent signals show a mix of advancements and delays in AI adoption. OpenAI's hardware updates and free image generation tools signal progress, while governance and security concerns from NVIDIA and Bloomberg suggest slowing adoption. Overall, the balance remains cautiously optimistic, with some sectors seeing increased hiring despite ongoing debates."
     }
   }
 }
