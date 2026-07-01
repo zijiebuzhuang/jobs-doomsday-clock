@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:35",
+  "displayTime": "23:59:59",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": 0.419,
+  "exactMinutesToMidnight": 0.025,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.581,
+  "newsAdjustment": -12.975,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.971,
+  "macroReplacementRate": 49.998,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,182 +3448,204 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-is-teasing-new-hardware-for-codex",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAI's new hardware for Codex suggests advancements in AI-assisted coding tools, potentially improving developer productivity and workflows.",
-      "date": "2026-06-29",
+      "id": "tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+      "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
+      "summary": "AI is beginning to show measurable impact on employment in tech and finance sectors, signaling growing workplace pressure from AI adoption.",
+      "date": "2026-07-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI labor impact",
+        "workforce changes",
+        "industry trends"
+      ],
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "claude-science-is-anthropic-s-newest-flagship-product",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
+      "date": "2026-06-30",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "scientific research",
+        "workforce adoption"
+      ],
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "healthcare",
+        "life-physical-and-social-science",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "anthropic-says-us-lifted-restrictions-on-fable-5",
+      "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+      "summary": "Removal of restrictions on Anthropic's AI models allows broader distribution and adoption, accelerating AI integration into work processes.",
+      "date": "2026-07-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "model-release",
+        "adoption"
+      ],
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+      "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
+      "summary": "An English furniture maker is preparing for the AI era, signaling that AI adoption is extending into traditional industries like manufacturing and retail.",
+      "date": "2026-07-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "industry transformation",
+        "workforce preparation"
+      ],
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "production",
+        "business-and-financial",
+        "construction-and-extraction"
+      ]
+    },
+    {
+      "id": "google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+      "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+      "summary": "Increased access to AI tools for African creators may boost productivity and content creation in media, design, and tech sectors.",
+      "date": "2026-07-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "content creation",
+        "global talent development"
+      ],
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "media-and-communication",
+        "computer-and-information-technology",
+        "arts-and-design"
+      ]
+    },
+    {
+      "id": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM introduces TikTok-style AI videos, enhancing how users consume and interact with research, signaling AI's growing integration into knowledge work and productivity tools.",
+      "date": "2026-06-30",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "AI tools",
-        "coding",
-        "productivity"
+        "productivity",
+        "workflows"
       ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "production"
+        "education-training-and-library",
+        "management"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "how-to-govern-autonomous-agents-in-enterprise-ai-factories",
-      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-      "summary": "The article highlights the growing need for governance of AI agents in enterprise settings, signaling increased regulatory and security considerations that may slow or shape AI adoption in workplaces.",
-      "date": "2026-06-29",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-      "effect": "delay",
+      "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "Ex-DeepMind researchers are leveraging their AI expertise in finance, showing the growing influence of AI talent in high-skill sectors like quantitative finance.",
+      "date": "2026-06-30",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI governance",
-        "enterprise AI",
-        "workplace security"
+        "AI talent",
+        "finance",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Factory-Secure-768x432.png"
-    },
-    {
-      "id": "the-ai-jobs-debate-just-got-messier",
-      "title": "The AI jobs debate just got messier",
-      "summary": "AI adoption is associated with increased hiring, particularly for entry-level roles, challenging the narrative that AI eliminates junior jobs.",
-      "date": "2026-06-30",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "hiring trends",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
       ]
     },
     {
-      "id": "gemini-s-personalized-ai-image-generation-is-now-free-for-us-users",
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Free access to personalized AI image generation in the U.S. expands AI adoption and could impact creative and design workflows across multiple industries.",
-      "date": "2026-06-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "workflows",
-        "productivity"
-      ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "media-and-communication"
-      ]
-    },
-    {
-      "id": "openai-maps-eu-ai-workforce-impact",
-      "title": "OpenAI Maps EU AI Workforce Impact",
-      "summary": "OpenAI's analysis of the EU AI workforce impact highlights how AI is reshaping job roles and skill demands across various industries.",
-      "date": "2026-06-29",
-      "source": "StartupHub.ai",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBRNXNfNGxHR0hTT0p2aFpyRWwwa0xvTXR5Wmx3Q2VzYjBuLXppRGpNTzZqS1NSNEh2UGpmVlVMZnJ6eFNvSFNCTFhRSzhDakp3YTUydGZYek8xZFl1bXE0UmRtTl9xN181SF9qaEwzd012cUU0azlzTlRrY2pPUVhHaHBDWnVLTnFnV3JzY1VTUVRreEJZZHJKWEFUdw?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "workforce impact",
-        "AI adoption",
-        "regulatory landscape"
-      ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "sap-gives-ai-product-oversight-to-top-executives-in-reshuffle",
-      "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
-      "summary": "SAP's reorganization shows increased executive focus on AI product oversight, signaling growing importance of AI in enterprise software leadership.",
+      "id": "us-lifts-export-restrictions-on-anthropic-s-fable-5-ai-model",
+      "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
+      "summary": "Removal of export restrictions on Anthropic's Fable 5 AI model accelerates its global adoption and use in enterprise and research settings.",
       "date": "2026-06-30",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-ai",
-        "executive-strategy",
-        "software-industry"
+        "AI regulation",
+        "enterprise AI",
+        "model distribution"
       ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
+      "fetchedAt": "2026-07-01T11:01:09.835Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-      "title": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI",
-      "summary": "The restricted release of Anthropic's Mythos AI highlights growing concerns about AI-driven cyber risks, potentially slowing adoption due to security and regulatory concerns.",
-      "date": "2026-06-30",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "regulation",
-        "cyber risk"
-      ],
-      "fetchedAt": "2026-06-30T11:00:54.453Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-06-30T12:00:00.000Z",
+  "generatedAt": "2026-07-01T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job dynamics shift with new tools and governance concerns",
-      "preview": "New AI tools and regulatory challenges influence workforce trends.",
-      "body": "Recent signals show a mix of advancements and delays in AI adoption. OpenAI's hardware updates and free image generation tools signal progress, while governance and security concerns from NVIDIA and Bloomberg suggest slowing adoption. Overall, the balance remains cautiously optimistic, with some sectors seeing increased hiring despite ongoing debates."
+      "title": "AI job pressure remains steady with sector-specific advancements",
+      "preview": "New AI tools and policy changes signal continued pressure across industries.",
+      "body": "The macro replacement rate holds near 50%, with recent news showing AI's growing influence in tech, finance, and research. Key developments include new AI products and relaxed restrictions on models like Fable 5, while sectors such as manufacturing and media see increased adoption. Overall, the balance of signals suggests sustained but not accelerating pressure from AI."
     }
   }
 }

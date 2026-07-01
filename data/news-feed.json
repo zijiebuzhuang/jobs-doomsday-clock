@@ -1,5 +1,197 @@
 [
   {
+    "id": "claude-science-is-anthropic-s-newest-flagship-product",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
+    "date": "2026-06-30",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "scientific research",
+      "workforce adoption"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "healthcare",
+      "life-physical-and-social-science",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip",
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "summary": "Google's NotebookLM introduces TikTok-style AI videos, enhancing how users consume and interact with research, signaling AI's growing integration into knowledge work and productivity tools.",
+    "date": "2026-06-30",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "management"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
+    "summary": "AI is beginning to show measurable impact on employment in tech and finance sectors, signaling growing workplace pressure from AI adoption.",
+    "date": "2026-07-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI labor impact",
+      "workforce changes",
+      "industry trends"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-says-us-lifted-restrictions-on-fable-5",
+    "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+    "summary": "Removal of restrictions on Anthropic's AI models allows broader distribution and adoption, accelerating AI integration into work processes.",
+    "date": "2026-07-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "model-release",
+      "adoption"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+    "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
+    "summary": "An English furniture maker is preparing for the AI era, signaling that AI adoption is extending into traditional industries like manufacturing and retail.",
+    "date": "2026-07-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "industry transformation",
+      "workforce preparation"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "production",
+      "business-and-financial",
+      "construction-and-extraction"
+    ]
+  },
+  {
+    "id": "google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+    "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+    "summary": "Increased access to AI tools for African creators may boost productivity and content creation in media, design, and tech sectors.",
+    "date": "2026-07-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "content creation",
+      "global talent development"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "arts-and-design"
+    ]
+  },
+  {
+    "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "Ex-DeepMind researchers are leveraging their AI expertise in finance, showing the growing influence of AI talent in high-skill sectors like quantitative finance.",
+    "date": "2026-06-30",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI talent",
+      "finance",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-lifts-export-restrictions-on-anthropic-s-fable-5-ai-model",
+    "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
+    "summary": "Removal of export restrictions on Anthropic's Fable 5 AI model accelerates its global adoption and use in enterprise and research settings.",
+    "date": "2026-06-30",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "enterprise AI",
+      "model distribution"
+    ],
+    "fetchedAt": "2026-07-01T11:01:09.835Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "how-to-govern-autonomous-agents-in-enterprise-ai-factories",
     "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
     "summary": "The article highlights the growing need for governance of AI agents in enterprise settings, signaling increased regulatory and security considerations that may slow or shape AI adoption in workplaces.",
@@ -12198,369 +12390,6 @@
       "physicians-and-surgeons",
       "registered-nurses",
       "speech-language-pathologists"
-    ]
-  },
-  {
-    "id": "the-download-ai-health-tools-and-the-pentagon-s-anthropic-culture-war",
-    "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-    "summary": "The increasing development of AI health tools by major tech companies suggests a growing trend of AI integration into the healthcare sector, potentially leading to job displacement in that field.",
-    "date": "2026-03-31",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI health tools",
-      "job displacement",
-      "tech adoption"
-    ],
-    "fetchedAt": "2026-04-02T11:10:49.713Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 97,
-    "categories": [
-      "healthcare"
-    ],
-    "occupationIDs": [
-      "medical-assistants",
-      "registered-nurses",
-      "pharmacists",
-      "physicians-and-surgeons",
-      "nurse-anesthetists-nurse-midwives-and-nurse-practitioners"
-    ]
-  },
-  {
-    "id": "google-automates-40-percent-of-code-review",
-    "title": "Google Automates 40% of Internal Code Review with AI",
-    "summary": "Google reports that AI now handles 40% of code reviews internally, reducing the need for junior developer roles in QA.",
-    "date": "2026-03-30",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://technologyreview.com/example",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "software engineering",
-      "automation",
-      "Google"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 97,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "office-and-administrative-support"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-programmers",
-      "database-administrators",
-      "web-developers",
-      "computer-systems-analysts"
-    ]
-  },
-  {
-    "id": "ai-can-push-your-stream-deck-buttons-for-you",
-    "title": "AI can push your Stream Deck buttons for you",
-    "summary": "AI assistants can now automate interactions with Stream Deck devices, potentially reducing the need for manual input in certain workflows.",
-    "date": "2026-04-01",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI automation",
-      "job replacement",
-      "software integration"
-    ],
-    "fetchedAt": "2026-04-02T11:10:51.470Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "secretaries-and-administrative-assistants",
-      "customer-service-representatives",
-      "receptionists",
-      "bookkeeping-accounting-and-auditing-clerks",
-      "information-clerks"
-    ]
-  },
-  {
-    "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
-    "title": "OpenAI Releases GPT-5 with Autonomous Agent Capabilities",
-    "summary": "GPT-5 can now autonomously complete multi-step work tasks, significantly increasing AI's ability to replace routine knowledge work.",
-    "date": "2026-04-01",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/example",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI capability",
-      "agents",
-      "knowledge work"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "business-and-financial"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "management-analysts",
-      "project-management-specialists",
-      "budget-analysts",
-      "cost-estimators"
-    ]
-  },
-  {
-    "id": "openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise",
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "summary": "This funding round indicates growing investment in AI, which could accelerate the development of AI technologies that may replace human jobs.",
-    "date": "2026-03-31",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI funding",
-      "job displacement",
-      "technological advancement"
-    ],
-    "fetchedAt": "2026-04-02T11:37:23.416Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "management"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "data-scientists",
-      "information-security-analysts",
-      "computer-network-architects"
-    ]
-  },
-  {
-    "id": "anthropic-is-having-a-month",
-    "title": "Anthropic is having a month",
-    "summary": "A human error at Anthropic suggests that AI is not yet fully reliable, potentially slowing the replacement of human jobs by AI.",
-    "date": "2026-03-31",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "effect": "delay",
-    "impactScore": 2,
-    "tags": [
-      "AI reliability",
-      "human error",
-      "job replacement"
-    ],
-    "fetchedAt": "2026-04-02T11:37:22.536Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "computer-systems-analysts",
-      "software-developers",
-      "data-scientists",
-      "information-security-analysts",
-      "network-and-computer-systems-administrators"
-    ]
-  },
-  {
-    "id": "eu-passes-ai-workplace-protection-act",
-    "title": "EU Passes AI Workplace Protection Act Requiring Human Oversight",
-    "summary": "New EU regulation mandates human oversight for AI systems used in hiring and workplace decisions, slowing automated replacement.",
-    "date": "2026-03-31",
-    "source": "Ars Technica - AI",
-    "sourceUrl": "https://arstechnica.com/example",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "EU",
-      "worker protection"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "management",
-      "business-and-financial",
-      "office-and-administrative-support"
-    ],
-    "occupationIDs": [
-      "human-resources-specialists",
-      "management-analysts",
-      "financial-analysts",
-      "compliance-officers"
-    ]
-  },
-  {
-    "id": "all-the-latest-in-ai-8216-music-8217-",
-    "title": "All the latest in AI ‘music’",
-    "summary": "The article highlights challenges and ethical concerns around AI-generated music, suggesting potential delays in its widespread adoption and impact on human jobs.",
-    "date": "2026-03-30",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI in music",
-      "job displacement",
-      "ethical concerns",
-      "industry challenges"
-    ],
-    "fetchedAt": "2026-04-02T11:10:53.992Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "arts-and-design",
-      "media-and-communication",
-      "computer-and-information-technology"
-    ],
-    "occupationIDs": [
-      "music-directors-and-composers",
-      "musicians-and-singers",
-      "producers-and-directors",
-      "graphic-designers",
-      "multimedia-artists-and-animators"
-    ]
-  },
-  {
-    "id": "bluesky-s-new-app-is-an-ai-for-customizing-your-feed",
-    "title": "Bluesky’s new app is an AI for customizing your feed",
-    "summary": "An AI tool that allows users to customize their social media feed may contribute to the broader adoption of AI in personal and professional workflows, potentially accelerating AI's role in replacing certain job functions.",
-    "date": "2026-03-29",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI customization",
-      "social media",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-02T11:10:55.193Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "technical-writers",
-      "editors",
-      "writers-and-authors",
-      "public-relations-specialists",
-      "film-and-video-editors-and-camera-operators"
-    ]
-  },
-  {
-    "id": "amazon-replaces-customer-service-team-with-ai",
-    "title": "Amazon Replaces 2,000 Customer Service Roles with AI Chatbots",
-    "summary": "Amazon transitions customer service operations to AI, affecting 2,000 positions across North American fulfillment centers.",
-    "date": "2026-03-28",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://theverge.com/example",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "layoffs",
-      "customer service",
-      "Amazon"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "office-and-administrative-support",
-      "sales",
-      "transportation-and-material-moving"
-    ],
-    "occupationIDs": [
-      "customer-service-representatives"
-    ]
-  },
-  {
-    "id": "anthropic-claude-passes-bar-exam-with-top-scores",
-    "title": "Anthropic's Claude Passes Bar Exam with Top 1% Score",
-    "summary": "Claude achieves a top 1% score on the bar examination, raising questions about the future of legal research and junior associate roles.",
-    "date": "2026-03-27",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/example2",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "legal",
-      "benchmarks",
-      "Anthropic"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "legal",
-      "computer-and-information-technology",
-      "business-and-financial"
-    ],
-    "occupationIDs": [
-      "lawyers",
-      "paralegals-and-legal-assistants"
-    ]
-  },
-  {
-    "id": "study-shows-ai-creates-more-jobs-than-it-displaces",
-    "title": "Stanford Study: AI Creates 1.2 Jobs for Every Job It Displaces",
-    "summary": "New research suggests AI is creating new job categories faster than it eliminates existing ones, particularly in AI oversight roles.",
-    "date": "2026-03-29",
-    "source": "Google News - AI Jobs",
-    "sourceUrl": "https://news.example.com",
-    "effect": "delay",
-    "impactScore": 2,
-    "tags": [
-      "research",
-      "job creation",
-      "Stanford"
-    ],
-    "fetchedAt": "2026-04-02T00:00:00.000Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "general",
-    "qualityScore": 74,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ],
-    "occupationIDs": [
-      "computer-and-information-systems-managers",
-      "data-scientists",
-      "financial-analysts",
-      "management-analysts",
-      "project-management-specialists"
     ]
   }
 ]

@@ -1,5 +1,239 @@
 [
   {
+    "date": "2026-07-01",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": 0.025,
+    "macroReplacementRate": 49.998,
+    "newsAdjustment": -12.975,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+        "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
+        "summary": "AI is beginning to show measurable impact on employment in tech and finance sectors, signaling growing workplace pressure from AI adoption.",
+        "date": "2026-07-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI labor impact",
+          "workforce changes",
+          "industry trends"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "claude-science-is-anthropic-s-newest-flagship-product",
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
+        "date": "2026-06-30",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "scientific research",
+          "workforce adoption"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "anthropic-says-us-lifted-restrictions-on-fable-5",
+        "title": "Anthropic Says US Lifted Restrictions on Fable 5",
+        "summary": "Removal of restrictions on Anthropic's AI models allows broader distribution and adoption, accelerating AI integration into work processes.",
+        "date": "2026-07-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "model-release",
+          "adoption"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+        "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
+        "summary": "An English furniture maker is preparing for the AI era, signaling that AI adoption is extending into traditional industries like manufacturing and retail.",
+        "date": "2026-07-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "industry transformation",
+          "workforce preparation"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "production",
+          "business-and-financial",
+          "construction-and-extraction"
+        ]
+      },
+      {
+        "id": "google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+        "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
+        "summary": "Increased access to AI tools for African creators may boost productivity and content creation in media, design, and tech sectors.",
+        "date": "2026-07-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "content creation",
+          "global talent development"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "arts-and-design"
+        ]
+      },
+      {
+        "id": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip",
+        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+        "summary": "Google's NotebookLM introduces TikTok-style AI videos, enhancing how users consume and interact with research, signaling AI's growing integration into knowledge work and productivity tools.",
+        "date": "2026-06-30",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "management"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
+        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "summary": "Ex-DeepMind researchers are leveraging their AI expertise in finance, showing the growing influence of AI talent in high-skill sectors like quantitative finance.",
+        "date": "2026-06-30",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI talent",
+          "finance",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "us-lifts-export-restrictions-on-anthropic-s-fable-5-ai-model",
+        "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
+        "summary": "Removal of export restrictions on Anthropic's Fable 5 AI model accelerates its global adoption and use in enterprise and research settings.",
+        "date": "2026-06-30",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "enterprise AI",
+          "model distribution"
+        ],
+        "fetchedAt": "2026-07-01T11:01:09.835Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor.",
+        "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -12.975 minutes. Updated 2026-07-01T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-06-30",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": 0.419,
@@ -16515,47 +16749,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-01T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-03-31",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.416,
-    "macroReplacementRate": 49.14,
-    "newsAdjustment": -0.584,
-    "categoryAdjustments": {
-      "healthcare": -0.04,
-      "life-physical-and-social-science": -0.019,
-      "architecture-and-engineering": -0.04,
-      "management": -0.043,
-      "business-and-financial": -0.065,
-      "construction-and-extraction": -0.019,
-      "production": -0.053,
-      "installation-maintenance-and-repair": -0.019,
-      "education-training-and-library": -0.019,
-      "office-and-administrative-support": -0.13,
-      "transportation-and-material-moving": -0.046,
-      "personal-care-and-service": -0.019,
-      "sales": -0.046,
-      "media-and-communication": 0.011,
-      "computer-and-information-technology": -0.15,
-      "community-and-social-service": -0.019,
-      "arts-and-design": 0.011,
-      "entertainment-and-sports": -0.019,
-      "protective-service": -0.019,
-      "food-preparation-and-serving": -0.019,
-      "legal": -0.039,
-      "math": -0.019,
-      "farming-fishing-and-forestry": -0.019,
-      "building-and-grounds-cleaning": -0.019
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-03-31T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.1%."
       }
     }
   }
