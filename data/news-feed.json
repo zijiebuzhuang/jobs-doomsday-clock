@@ -1,5 +1,198 @@
 [
   {
+    "id": "the-download-anthropic-launches-claude-science-and-california-s-carbon-manure-ma",
+    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "summary": "Anthropic's launch of Claude Science signals increased AI adoption in scientific research, potentially boosting productivity and skill demands in STEM fields.",
+    "date": "2026-07-01",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "scientific research",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-long-sidelined-fable-5-is-greenlit-to-return",
+    "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+    "summary": "The lifting of export controls on Claude Fable 5 allows broader access to advanced AI models, accelerating their adoption in enterprise and cloud environments.",
+    "date": "2026-07-01",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "enterprise AI",
+      "model deployment"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "sap-restricts-hiring-travel-to-fund-significant-ai-push",
+    "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
+    "summary": "SAP's decision to restrict hiring and travel to fund AI development signals increased investment in AI, potentially shifting workforce priorities and accelerating AI adoption in enterprise software.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "workforce-allocation",
+      "AI-investment"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "openai-proposes-giving-5-stake-to-us-government-ft",
+    "title": "OpenAI Proposes Giving 5% Stake to US Government: FT",
+    "summary": "Proposed government stake in OpenAI signals increased regulatory scrutiny and potential policy constraints on AI development and adoption.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-proposes-giving-the-us-government-a-5-stake-ft-says",
+    "title": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
+    "summary": "OpenAI's potential stake sale to the US government could introduce regulatory and political constraints on AI development and deployment.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "mgx-raises-49-billion-for-ai-deals",
+    "title": "MGX Raises $49 Billion for AI Deals",
+    "summary": "A major AI investment fund launch signals increased capital and focus on AI adoption, likely accelerating AI integration across industries.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/mgx-raises-49-billion-for-ai-deals-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "investment",
+      "AI funding",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "gemini-spark-google-s-agentic-assistant-is-now-available-on-mac",
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "summary": "Google's Gemini Spark assistant expanding to Mac represents AI adoption in daily workflows, increasing productivity and shifting task automation for knowledge workers.",
+    "date": "2026-07-01",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "summary": "The Trump administration's removal of restrictions on AI models may create uncertainty in AI policy, affecting how companies plan for future AI adoption.",
+    "date": "2026-07-01",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise-ai"
+    ],
+    "fetchedAt": "2026-07-02T11:01:24.727Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "claude-science-is-anthropic-s-newest-flagship-product",
     "title": "Claude Science is Anthropic’s newest flagship product",
     "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
@@ -12301,95 +12494,6 @@
       "data-scientists",
       "information-security-analysts",
       "training-and-development-specialists"
-    ]
-  },
-  {
-    "id": "google-home-s-latest-update-makes-gemini-better-at-understanding-your-commands",
-    "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-    "summary": "Improved AI understanding of natural language could lead to more efficient automation, potentially replacing human roles in smart home management and customer service.",
-    "date": "2026-04-02",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI advancement",
-      "automation",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-03T02:06:20.135Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "personal-care-and-service"
-    ],
-    "occupationIDs": [
-      "customer-service-representatives",
-      "computer-support-specialists",
-      "software-developers",
-      "web-developers",
-      "information-security-analysts"
-    ]
-  },
-  {
-    "id": "microsoft-s-new-superintelligence-game-plan-is-all-about-business",
-    "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-    "summary": "Microsoft's focus on superintelligence suggests increased investment in advanced AI, potentially accelerating AI's role in replacing human jobs.",
-    "date": "2026-04-02",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI Development",
-      "Job Displacement",
-      "Corporate Strategy"
-    ],
-    "fetchedAt": "2026-04-03T02:06:18.853Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "management"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "information-security-analysts",
-      "data-scientists",
-      "network-and-computer-systems-administrators"
-    ]
-  },
-  {
-    "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
-    "title": "It’s not easy to get depression-detecting AI through the FDA",
-    "summary": "The failure of a depression-detecting AI to gain FDA approval may slow the adoption of AI in healthcare, potentially delaying its impact on jobs in that sector.",
-    "date": "2026-04-02",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI regulation",
-      "healthcare technology",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-03T02:06:17.637Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "healthcare"
-    ],
-    "occupationIDs": [
-      "physicians-and-surgeons",
-      "registered-nurses",
-      "speech-language-pathologists"
     ]
   }
 ]
