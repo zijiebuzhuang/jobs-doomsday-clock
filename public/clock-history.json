@@ -1,5 +1,262 @@
 [
   {
+    "date": "2026-07-03",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.197,
+    "macroReplacementRate": 50.014,
+    "newsAdjustment": -13.197,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "the-download-a-startup-has-a-solution-for-ai-s-groupthink-problem",
+        "title": "The Download: a startup has a solution for AI’s groupthink problem",
+        "summary": "A startup is addressing AI's groupthink problem, potentially improving the diversity and quality of AI-generated outputs, which could impact various industries relying on AI for decision-making and content generation.",
+        "date": "2026-07-02",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "workflow improvement",
+          "AI limitations"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+        "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+        "summary": "A top economist suggests AI's economic impact may be more uneven than commonly believed, indicating potential challenges or slower adoption in certain sectors.",
+        "date": "2026-07-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "economics",
+          "adoption",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
+        "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+        "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
+        "date": "2026-07-02",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "enterprise AI",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/02/cybersecurity-ai-featured-768x432.png"
+      },
+      {
+        "id": "teaching-ai-to-run-with-the-turbines",
+        "title": "Teaching AI to run with the turbines",
+        "summary": "AI is being integrated into critical industrial systems, signaling a major shift in how AI affects operational workflows and infrastructure management.",
+        "date": "2026-07-02",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "industrial-ai",
+          "operational-automation",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "production",
+          "installation-maintenance-and-repair",
+          "architecture-and-engineering"
+        ]
+      },
+      {
+        "id": "the-ai-trade-is-losing-one-of-its-key-signals",
+        "title": "The AI Trade Is Losing One of Its Key Signals",
+        "summary": "A decline in AI sector pricing signals potential challenges in AI adoption or investment returns, which may slow workplace AI integration.",
+        "date": "2026-07-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "investment",
+          "adoption",
+          "market-trends"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "hong-kong-rises-as-crucial-node-in-asia-s-2-trillion-ai-trade",
+        "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+        "summary": "Hong Kong's growing role in AI trade highlights increased global AI infrastructure and supply chain integration, signaling rising demand for tech and logistics expertise.",
+        "date": "2026-07-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI trade",
+          "global supply chain",
+          "tech infrastructure"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex-",
+        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+        "summary": "Cursor's potential integration of OpenAI and Anthropic models within SpaceX highlights growing AI adoption in enterprise and development workflows.",
+        "date": "2026-07-02",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "ai-model-integration",
+          "workplace-technology"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "summary": "Microsoft's new AI deployment company signals increased investment in AI adoption and infrastructure, accelerating AI's integration into enterprise workflows.",
+        "date": "2026-07-02",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-ai",
+          "ai-adoption",
+          "corporate-strategy"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "summary": "Proposed donation of OpenAI equity to a U.S. sovereign wealth fund signals potential regulatory or policy influence on AI's financial landscape, possibly slowing or shaping AI adoption.",
+        "date": "2026-07-02",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise"
+        ],
+        "fetchedAt": "2026-07-03T11:00:48.125Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Hardware-Rooted AI Security That Won’t Slow You Down.",
+        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Hardware-Rooted AI Security That Won’t Slow You Down\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.197 minutes. Updated 2026-07-03T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-02",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.018,
@@ -16538,411 +16795,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Microsoft’s new ‘superintelligence’ game plan is all about business.",
         "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Microsoft’s new ‘superintelligence’ game plan is all about business\" (The Verge - AI), while the clearest drag comes from \"It’s not easy to get depression-detecting AI through the FDA\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.975 minutes. Updated 2026-04-03T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-02",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.226,
-    "macroReplacementRate": 49.154,
-    "newsAdjustment": -0.774,
-    "categoryAdjustments": {
-      "healthcare": -0.039,
-      "life-physical-and-social-science": -0.038,
-      "architecture-and-engineering": -0.059,
-      "management": -0.07,
-      "business-and-financial": -0.139,
-      "construction-and-extraction": -0.038,
-      "production": -0.072,
-      "installation-maintenance-and-repair": -0.038,
-      "education-training-and-library": -0.018,
-      "office-and-administrative-support": -0.196,
-      "transportation-and-material-moving": -0.066,
-      "personal-care-and-service": -0.056,
-      "sales": -0.066,
-      "media-and-communication": -0.011,
-      "computer-and-information-technology": -0.221,
-      "community-and-social-service": -0.038,
-      "arts-and-design": -0.011,
-      "entertainment-and-sports": -0.038,
-      "protective-service": -0.038,
-      "food-preparation-and-serving": -0.038,
-      "legal": -0.059,
-      "math": -0.038,
-      "farming-fishing-and-forestry": -0.038,
-      "building-and-grounds-cleaning": -0.038
-    },
-    "newsFeed": [
-      {
-        "id": "ai-can-push-your-stream-deck-buttons-for-you",
-        "title": "AI can push your Stream Deck buttons for you",
-        "summary": "AI assistants can now automate interactions with Stream Deck devices, potentially reducing the need for manual input in certain workflows.",
-        "date": "2026-04-01",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI automation",
-          "job replacement",
-          "software integration"
-        ],
-        "fetchedAt": "2026-04-02T11:10:51.470Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "secretaries-and-administrative-assistants",
-          "customer-service-representatives",
-          "receptionists",
-          "bookkeeping-accounting-and-auditing-clerks",
-          "information-clerks"
-        ]
-      },
-      {
-        "id": "openai-releases-gpt-5-with-autonomous-agent-capabilities",
-        "title": "OpenAI Releases GPT-5 with Autonomous Agent Capabilities",
-        "summary": "GPT-5 can now autonomously complete multi-step work tasks, significantly increasing AI's ability to replace routine knowledge work.",
-        "date": "2026-04-01",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/example",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI capability",
-          "agents",
-          "knowledge work"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "business-and-financial"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "management-analysts",
-          "project-management-specialists",
-          "budget-analysts",
-          "cost-estimators"
-        ]
-      },
-      {
-        "id": "the-download-ai-health-tools-and-the-pentagon-s-anthropic-culture-war",
-        "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-        "summary": "The increasing development of AI health tools by major tech companies suggests a growing trend of AI integration into the healthcare sector, potentially leading to job displacement in that field.",
-        "date": "2026-03-31",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI health tools",
-          "job displacement",
-          "tech adoption"
-        ],
-        "fetchedAt": "2026-04-02T11:10:49.713Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 97,
-        "categories": [
-          "healthcare"
-        ],
-        "occupationIDs": [
-          "medical-assistants",
-          "registered-nurses",
-          "pharmacists",
-          "physicians-and-surgeons",
-          "nurse-anesthetists-nurse-midwives-and-nurse-practitioners"
-        ]
-      },
-      {
-        "id": "openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise",
-        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-        "summary": "This funding round indicates growing investment in AI, which could accelerate the development of AI technologies that may replace human jobs.",
-        "date": "2026-03-31",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI funding",
-          "job displacement",
-          "technological advancement"
-        ],
-        "fetchedAt": "2026-04-02T11:37:23.416Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "management"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "data-scientists",
-          "information-security-analysts",
-          "computer-network-architects"
-        ]
-      },
-      {
-        "id": "anthropic-is-having-a-month",
-        "title": "Anthropic is having a month",
-        "summary": "A human error at Anthropic suggests that AI is not yet fully reliable, potentially slowing the replacement of human jobs by AI.",
-        "date": "2026-03-31",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-        "effect": "delay",
-        "impactScore": 2,
-        "tags": [
-          "AI reliability",
-          "human error",
-          "job replacement"
-        ],
-        "fetchedAt": "2026-04-02T11:37:22.536Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "occupationIDs": [
-          "computer-systems-analysts",
-          "software-developers",
-          "data-scientists",
-          "information-security-analysts",
-          "network-and-computer-systems-administrators"
-        ]
-      },
-      {
-        "id": "eu-passes-ai-workplace-protection-act",
-        "title": "EU Passes AI Workplace Protection Act Requiring Human Oversight",
-        "summary": "New EU regulation mandates human oversight for AI systems used in hiring and workplace decisions, slowing automated replacement.",
-        "date": "2026-03-31",
-        "source": "Ars Technica - AI",
-        "sourceUrl": "https://arstechnica.com/example",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "EU",
-          "worker protection"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "management",
-          "business-and-financial",
-          "office-and-administrative-support"
-        ],
-        "occupationIDs": [
-          "human-resources-specialists",
-          "management-analysts",
-          "financial-analysts",
-          "compliance-officers"
-        ]
-      },
-      {
-        "id": "google-automates-40-percent-of-code-review",
-        "title": "Google Automates 40% of Internal Code Review with AI",
-        "summary": "Google reports that AI now handles 40% of code reviews internally, reducing the need for junior developer roles in QA.",
-        "date": "2026-03-30",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://technologyreview.com/example",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "software engineering",
-          "automation",
-          "Google"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 97,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "office-and-administrative-support"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-programmers",
-          "database-administrators",
-          "web-developers",
-          "computer-systems-analysts"
-        ]
-      },
-      {
-        "id": "all-the-latest-in-ai-8216-music-8217-",
-        "title": "All the latest in AI ‘music’",
-        "summary": "The article highlights challenges and ethical concerns around AI-generated music, suggesting potential delays in its widespread adoption and impact on human jobs.",
-        "date": "2026-03-30",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI in music",
-          "job displacement",
-          "ethical concerns",
-          "industry challenges"
-        ],
-        "fetchedAt": "2026-04-02T11:10:53.992Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "arts-and-design",
-          "media-and-communication",
-          "computer-and-information-technology"
-        ],
-        "occupationIDs": [
-          "music-directors-and-composers",
-          "musicians-and-singers",
-          "producers-and-directors",
-          "graphic-designers",
-          "multimedia-artists-and-animators"
-        ]
-      },
-      {
-        "id": "bluesky-s-new-app-is-an-ai-for-customizing-your-feed",
-        "title": "Bluesky’s new app is an AI for customizing your feed",
-        "summary": "An AI tool that allows users to customize their social media feed may contribute to the broader adoption of AI in personal and professional workflows, potentially accelerating AI's role in replacing certain job functions.",
-        "date": "2026-03-29",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI customization",
-          "social media",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-02T11:10:55.193Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "technical-writers",
-          "editors",
-          "writers-and-authors",
-          "public-relations-specialists",
-          "film-and-video-editors-and-camera-operators"
-        ]
-      },
-      {
-        "id": "study-shows-ai-creates-more-jobs-than-it-displaces",
-        "title": "Stanford Study: AI Creates 1.2 Jobs for Every Job It Displaces",
-        "summary": "New research suggests AI is creating new job categories faster than it eliminates existing ones, particularly in AI oversight roles.",
-        "date": "2026-03-29",
-        "source": "Google News - AI Jobs",
-        "sourceUrl": "https://news.example.com",
-        "effect": "delay",
-        "impactScore": 2,
-        "tags": [
-          "research",
-          "job creation",
-          "Stanford"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "general",
-        "qualityScore": 74,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ],
-        "occupationIDs": [
-          "computer-and-information-systems-managers",
-          "data-scientists",
-          "financial-analysts",
-          "management-analysts",
-          "project-management-specialists"
-        ]
-      },
-      {
-        "id": "amazon-replaces-customer-service-team-with-ai",
-        "title": "Amazon Replaces 2,000 Customer Service Roles with AI Chatbots",
-        "summary": "Amazon transitions customer service operations to AI, affecting 2,000 positions across North American fulfillment centers.",
-        "date": "2026-03-28",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://theverge.com/example",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "layoffs",
-          "customer service",
-          "Amazon"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "office-and-administrative-support",
-          "sales",
-          "transportation-and-material-moving"
-        ],
-        "occupationIDs": [
-          "customer-service-representatives"
-        ]
-      },
-      {
-        "id": "anthropic-claude-passes-bar-exam-with-top-scores",
-        "title": "Anthropic's Claude Passes Bar Exam with Top 1% Score",
-        "summary": "Claude achieves a top 1% score on the bar examination, raising questions about the future of legal research and junior associate roles.",
-        "date": "2026-03-27",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/example2",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "legal",
-          "benchmarks",
-          "Anthropic"
-        ],
-        "fetchedAt": "2026-04-02T00:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "legal",
-          "computer-and-information-technology",
-          "business-and-financial"
-        ],
-        "occupationIDs": [
-          "lawyers",
-          "paralegals-and-legal-assistants"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by OpenAI Releases GPT-5 with Autonomous Agent Capabilities.",
-        "body": "This update is split between 8 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI Releases GPT-5 with Autonomous Agent Capabilities\" (TechCrunch - AI), while the clearest drag comes from \"EU Passes AI Workplace Protection Act Requiring Human Oversight\" (Ars Technica - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.774 minutes. Updated 2026-04-02T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

@@ -1,5 +1,220 @@
 [
   {
+    "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
+    "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+    "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
+    "date": "2026-07-02",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "enterprise AI",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/02/cybersecurity-ai-featured-768x432.png"
+  },
+  {
+    "id": "the-download-a-startup-has-a-solution-for-ai-s-groupthink-problem",
+    "title": "The Download: a startup has a solution for AI’s groupthink problem",
+    "summary": "A startup is addressing AI's groupthink problem, potentially improving the diversity and quality of AI-generated outputs, which could impact various industries relying on AI for decision-making and content generation.",
+    "date": "2026-07-02",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "workflow improvement",
+      "AI limitations"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "teaching-ai-to-run-with-the-turbines",
+    "title": "Teaching AI to run with the turbines",
+    "summary": "AI is being integrated into critical industrial systems, signaling a major shift in how AI affects operational workflows and infrastructure management.",
+    "date": "2026-07-02",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "industrial-ai",
+      "operational-automation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "production",
+      "installation-maintenance-and-repair",
+      "architecture-and-engineering"
+    ]
+  },
+  {
+    "id": "ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+    "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+    "summary": "A top economist suggests AI's economic impact may be more uneven than commonly believed, indicating potential challenges or slower adoption in certain sectors.",
+    "date": "2026-07-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "economics",
+      "adoption",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "the-ai-trade-is-losing-one-of-its-key-signals",
+    "title": "The AI Trade Is Losing One of Its Key Signals",
+    "summary": "A decline in AI sector pricing signals potential challenges in AI adoption or investment returns, which may slow workplace AI integration.",
+    "date": "2026-07-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "investment",
+      "adoption",
+      "market-trends"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "hong-kong-rises-as-crucial-node-in-asia-s-2-trillion-ai-trade",
+    "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+    "summary": "Hong Kong's growing role in AI trade highlights increased global AI infrastructure and supply chain integration, signaling rising demand for tech and logistics expertise.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI trade",
+      "global supply chain",
+      "tech infrastructure"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex-",
+    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+    "summary": "Cursor's potential integration of OpenAI and Anthropic models within SpaceX highlights growing AI adoption in enterprise and development workflows.",
+    "date": "2026-07-02",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "ai-model-integration",
+      "workplace-technology"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "summary": "Microsoft's new AI deployment company signals increased investment in AI adoption and infrastructure, accelerating AI's integration into enterprise workflows.",
+    "date": "2026-07-02",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-ai",
+      "ai-adoption",
+      "corporate-strategy"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "summary": "Proposed donation of OpenAI equity to a U.S. sovereign wealth fund signals potential regulatory or policy influence on AI's financial landscape, possibly slowing or shaping AI adoption.",
+    "date": "2026-07-02",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-07-03T11:00:48.125Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "the-download-anthropic-launches-claude-science-and-california-s-carbon-manure-ma",
     "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
     "summary": "Anthropic's launch of Claude Science signals increased AI adoption in scientific research, potentially boosting productivity and skill demands in STEM fields.",
@@ -12431,69 +12646,6 @@
       "computer-programmers",
       "database-administrators",
       "information-security-analysts"
-    ]
-  },
-  {
-    "id": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "summary": "The acquisition of Coefficient Bio by Anthropic indicates growing investment in AI-driven biotech, potentially accelerating AI's role in job replacement across the sector.",
-    "date": "2026-04-03",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI investment",
-      "job replacement",
-      "biotech",
-      "acquisition"
-    ],
-    "fetchedAt": "2026-04-04T00:00:38.857Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "life-physical-and-social-science",
-      "healthcare",
-      "computer-and-information-technology"
-    ],
-    "occupationIDs": [
-      "biochemists-and-biophysicists",
-      "biomedical-engineers",
-      "medical-scientists",
-      "data-scientists",
-      "software-developers"
-    ]
-  },
-  {
-    "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
-    "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
-    "summary": "The initiative aims to prepare the workforce for AI, potentially slowing the replacement of human jobs by focusing on upskilling and accessibility.",
-    "date": "2026-04-02",
-    "source": "AI Workforce",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI workforce development",
-      "labor policy",
-      "job training"
-    ],
-    "fetchedAt": "2026-04-04T00:00:34.646Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 58,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "management"
-    ],
-    "occupationIDs": [
-      "computer-systems-analysts",
-      "software-developers",
-      "data-scientists",
-      "information-security-analysts",
-      "training-and-development-specialists"
     ]
   }
 ]

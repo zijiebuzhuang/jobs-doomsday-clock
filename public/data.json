@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:01",
+  "displayTime": "00:00:12",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.018,
+  "exactMinutesToMidnight": -0.197,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.018,
+  "newsAdjustment": -13.197,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.001,
+  "macroReplacementRate": 50.014,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,140 +3448,115 @@
   ],
   "newsFeed": [
     {
-      "id": "sap-restricts-hiring-travel-to-fund-significant-ai-push",
-      "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
-      "summary": "SAP's decision to restrict hiring and travel to fund AI development signals increased investment in AI, potentially shifting workforce priorities and accelerating AI adoption in enterprise software.",
+      "id": "the-download-a-startup-has-a-solution-for-ai-s-groupthink-problem",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "summary": "A startup is addressing AI's groupthink problem, potentially improving the diversity and quality of AI-generated outputs, which could impact various industries relying on AI for decision-making and content generation.",
       "date": "2026-07-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "workforce-allocation",
-        "AI-investment"
-      ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "the-download-anthropic-launches-claude-science-and-california-s-carbon-manure-ma",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "summary": "Anthropic's launch of Claude Science signals increased AI adoption in scientific research, potentially boosting productivity and skill demands in STEM fields.",
-      "date": "2026-07-01",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI tools",
-        "scientific research",
-        "productivity"
+        "AI development",
+        "workflow improvement",
+        "AI limitations"
       ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
       "sourceGroup": "research",
       "sourceTier": "research",
       "qualityScore": 94,
       "categories": [
-        "life-physical-and-social-science",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "gemini-spark-google-s-agentic-assistant-is-now-available-on-mac",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "summary": "Google's Gemini Spark assistant expanding to Mac represents AI adoption in daily workflows, increasing productivity and shifting task automation for knowledge workers.",
-      "date": "2026-07-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-proposes-giving-5-stake-to-us-government-ft",
-      "title": "OpenAI Proposes Giving 5% Stake to US Government: FT",
-      "summary": "Proposed government stake in OpenAI signals increased regulatory scrutiny and potential policy constraints on AI development and adoption.",
-      "date": "2026-07-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "enterprise"
-      ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
         "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "openai-proposes-giving-the-us-government-a-5-stake-ft-says",
-      "title": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
-      "summary": "OpenAI's potential stake sale to the US government could introduce regulatory and political constraints on AI development and deployment.",
-      "date": "2026-07-02",
+      "id": "ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
+      "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
+      "summary": "A top economist suggests AI's economic impact may be more uneven than commonly believed, indicating potential challenges or slower adoption in certain sectors.",
+      "date": "2026-07-03",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "policy",
-        "enterprise"
+        "economics",
+        "adoption",
+        "regulation"
       ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
+        "_all"
       ]
     },
     {
-      "id": "mgx-raises-49-billion-for-ai-deals",
-      "title": "MGX Raises $49 Billion for AI Deals",
-      "summary": "A major AI investment fund launch signals increased capital and focus on AI adoption, likely accelerating AI integration across industries.",
+      "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
+      "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+      "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
       "date": "2026-07-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/mgx-raises-49-billion-for-ai-deals-video",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
       "effect": "advance",
       "impactScore": 4,
+      "tags": [
+        "AI security",
+        "enterprise AI",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/02/cybersecurity-ai-featured-768x432.png"
+    },
+    {
+      "id": "teaching-ai-to-run-with-the-turbines",
+      "title": "Teaching AI to run with the turbines",
+      "summary": "AI is being integrated into critical industrial systems, signaling a major shift in how AI affects operational workflows and infrastructure management.",
+      "date": "2026-07-02",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "industrial-ai",
+        "operational-automation",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "production",
+        "installation-maintenance-and-repair",
+        "architecture-and-engineering"
+      ]
+    },
+    {
+      "id": "the-ai-trade-is-losing-one-of-its-key-signals",
+      "title": "The AI Trade Is Losing One of Its Key Signals",
+      "summary": "A decline in AI sector pricing signals potential challenges in AI adoption or investment returns, which may slow workplace AI integration.",
+      "date": "2026-07-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
         "investment",
-        "AI funding",
-        "enterprise adoption"
+        "adoption",
+        "market-trends"
       ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3592,61 +3567,108 @@
       ]
     },
     {
-      "id": "anthropic-s-long-sidelined-fable-5-is-greenlit-to-return",
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-      "summary": "The lifting of export controls on Claude Fable 5 allows broader access to advanced AI models, accelerating their adoption in enterprise and cloud environments.",
-      "date": "2026-07-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "id": "hong-kong-rises-as-crucial-node-in-asia-s-2-trillion-ai-trade",
+      "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
+      "summary": "Hong Kong's growing role in AI trade highlights increased global AI infrastructure and supply chain integration, signaling rising demand for tech and logistics expertise.",
+      "date": "2026-07-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "enterprise AI",
-        "model deployment"
+        "AI trade",
+        "global supply chain",
+        "tech infrastructure"
       ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "summary": "The Trump administration's removal of restrictions on AI models may create uncertainty in AI policy, affecting how companies plan for future AI adoption.",
-      "date": "2026-07-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex-",
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "summary": "Cursor's potential integration of OpenAI and Anthropic models within SpaceX highlights growing AI adoption in enterprise and development workflows.",
+      "date": "2026-07-02",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "enterprise-ai"
+        "enterprise-adoption",
+        "ai-model-integration",
+        "workplace-technology"
       ],
-      "fetchedAt": "2026-07-02T11:01:24.727Z",
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft's new AI deployment company signals increased investment in AI adoption and infrastructure, accelerating AI's integration into enterprise workflows.",
+      "date": "2026-07-02",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "ai-adoption",
+        "corporate-strategy"
+      ],
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "Proposed donation of OpenAI equity to a U.S. sovereign wealth fund signals potential regulatory or policy influence on AI's financial landscape, possibly slowing or shaping AI adoption.",
+      "date": "2026-07-02",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "policy",
+        "enterprise"
+      ],
+      "fetchedAt": "2026-07-03T11:00:48.125Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-02T12:00:00.000Z",
+  "generatedAt": "2026-07-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Investment Surges Amid Regulatory Uncertainty",
-      "preview": "Major AI investments contrast with new regulatory concerns.",
-      "body": "Recent developments show strong momentum in AI adoption, with SAP and Google expanding AI initiatives, while OpenAI's proposed government stake raises regulatory concerns. Overall, the mix of advances and delays suggests a complex but growing AI landscape."
+      "title": "AI job pressure stabilizes with mixed signals",
+      "preview": "New AI advancements and economic concerns balance out today's news.",
+      "body": "Today’s news shows a mix of progress and caution, with several advances in AI security, integration, and infrastructure offset by concerns about uneven economic impact and declining sector signals. Notable headlines include NVIDIA's secure AI tech and Microsoft's new deployment company, which suggest continued momentum, while Allianz's comments and the loss of key trade signals indicate potential delays."
     }
   }
 }
