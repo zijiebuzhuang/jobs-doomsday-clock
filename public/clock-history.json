@@ -1,5 +1,192 @@
 [
   {
+    "date": "2026-07-04",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.198,
+    "macroReplacementRate": 50.014,
+    "newsAdjustment": -13.198,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "google-deepmind-unionization-talks-are-off-to-a-rocky-start",
+        "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+        "summary": "Unionization efforts at Google DeepMind highlight potential labor challenges in AI development and adoption.",
+        "date": "2026-07-03",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "labor",
+          "regulation",
+          "workplace"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom",
+        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+        "summary": "OpenAI's proposal to give the US government a 5% stake in AI could lead to increased regulatory oversight and shape the future of AI adoption in the workplace.",
+        "date": "2026-07-02",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "nvidia-offers-revenue-sharing-model-to-help-ai-growth",
+        "title": "Nvidia Offers Revenue Sharing Model to Help AI Growth",
+        "summary": "Nvidia's revenue sharing model could accelerate AI adoption by making its hardware more accessible to cloud providers.",
+        "date": "2026-07-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "cloud computing"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
+        "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
+        "summary": "An Israeli AI startup is expanding into Latin America, where Trump-aligned leaders may increase demand for its cybersecurity products, signaling growing AI adoption in government and security sectors.",
+        "date": "2026-07-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "cybersecurity",
+          "government",
+          "AI expansion"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
+        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+        "summary": "Cloudflare's policy may slow AI companies' access to publisher content, affecting AI training and development.",
+        "date": "2026-07-01",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "AI adoption",
+          "content licensing"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-is-discussing-a-new-custom-chip-with-samsung",
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "summary": "Custom AI chips from Anthropic and OpenAI signal increased investment in specialized hardware, which could boost AI performance and adoption across industries.",
+        "date": "2026-07-02",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "hardware development"
+        ],
+        "fetchedAt": "2026-07-04T11:00:52.234Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI floats giving Trump administration 5 percent cut of AI boom.",
+        "body": "This update is split between 3 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Offers Revenue Sharing Model to Help AI Growth\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI floats giving Trump administration 5 percent cut of AI boom\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.198 minutes. Updated 2026-07-04T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-03",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.197,
@@ -16603,198 +16790,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports.",
         "body": "This update is split between 1 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports\" (TechCrunch - AI), while the clearest drag comes from \"US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)\" (AI Workforce). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.947 minutes. Updated 2026-04-04T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-03",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.025,
-    "macroReplacementRate": 49.168,
-    "newsAdjustment": -0.975,
-    "categoryAdjustments": {
-      "healthcare": -0.063,
-      "life-physical-and-social-science": -0.089,
-      "architecture-and-engineering": -0.089,
-      "management": -0.075,
-      "business-and-financial": -0.143,
-      "construction-and-extraction": -0.04,
-      "production": -0.074,
-      "installation-maintenance-and-repair": -0.04,
-      "education-training-and-library": -0.021,
-      "office-and-administrative-support": -0.199,
-      "transportation-and-material-moving": -0.068,
-      "personal-care-and-service": -0.058,
-      "sales": -0.068,
-      "media-and-communication": -0.015,
-      "computer-and-information-technology": -0.275,
-      "community-and-social-service": -0.04,
-      "arts-and-design": -0.015,
-      "entertainment-and-sports": -0.04,
-      "protective-service": -0.04,
-      "food-preparation-and-serving": -0.04,
-      "legal": -0.061,
-      "math": -0.04,
-      "farming-fishing-and-forestry": -0.04,
-      "building-and-grounds-cleaning": -0.04
-    },
-    "newsFeed": [
-      {
-        "id": "google-home-s-latest-update-makes-gemini-better-at-understanding-your-commands",
-        "title": "Google Home’s latest update makes Gemini better at understanding your commands",
-        "summary": "Improved AI understanding of natural language could lead to more efficient automation, potentially replacing human roles in smart home management and customer service.",
-        "date": "2026-04-02",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI advancement",
-          "automation",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-03T02:06:20.135Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "personal-care-and-service"
-        ],
-        "occupationIDs": [
-          "customer-service-representatives",
-          "computer-support-specialists",
-          "software-developers",
-          "web-developers",
-          "information-security-analysts"
-        ]
-      },
-      {
-        "id": "microsoft-s-new-superintelligence-game-plan-is-all-about-business",
-        "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
-        "summary": "Microsoft's focus on superintelligence suggests increased investment in advanced AI, potentially accelerating AI's role in replacing human jobs.",
-        "date": "2026-04-02",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI Development",
-          "Job Displacement",
-          "Corporate Strategy"
-        ],
-        "fetchedAt": "2026-04-03T02:06:18.853Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "management"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "information-security-analysts",
-          "data-scientists",
-          "network-and-computer-systems-administrators"
-        ]
-      },
-      {
-        "id": "it-s-not-easy-to-get-depression-detecting-ai-through-the-fda",
-        "title": "It’s not easy to get depression-detecting AI through the FDA",
-        "summary": "The failure of a depression-detecting AI to gain FDA approval may slow the adoption of AI in healthcare, potentially delaying its impact on jobs in that sector.",
-        "date": "2026-04-02",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI regulation",
-          "healthcare technology",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-03T02:06:17.637Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "healthcare"
-        ],
-        "occupationIDs": [
-          "physicians-and-surgeons",
-          "registered-nurses",
-          "speech-language-pathologists"
-        ]
-      },
-      {
-        "id": "ai-jobs-vs-human-jobs-anthropic-study-reveals-roles-ai-could-replace-and-jobs-al",
-        "title": "AI Jobs vs Human Jobs: Anthropic Study Reveals Roles AI Could Replace and Jobs Already Automated - sundayguardianlive.com",
-        "summary": "A study by Anthropic highlights the roles AI can replace and jobs already automated, indicating progress in AI's impact on labor markets.",
-        "date": "2026-03-09",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHVuS0xaZW1yaWk4ZnA4YktKQWgtUDBXcWJ6aXZCTktrdTJpVDN3RFd3ZnBrdmtYTXYtOUh5VWxlZkxQVFQyZ0M3LU14YXVtV2ZSU0xwaXctSnpNYU81Wm1FT0tCMFBkTmdPQzB3ZEw0ODFDaDFrR2xlYWl4dWYyQURZLVlQY243UTRTSTZ4OXE0c3RCQk1yRGhVWGl0SG9pcndIaEdGLWdFYkFsT2tHOUZzT0k0NzhFc0dVd0E1czlQanlzWUdUdGJUWEVVWW9UMXJDT1hXT05QUEgy?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI job replacement",
-          "labor market analysis",
-          "automation trends"
-        ],
-        "fetchedAt": "2026-04-03T02:06:12.742Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 58,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "production"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "accountants-and-auditors",
-          "software-developers",
-          "database-administrators",
-          "computer-support-specialists"
-        ]
-      },
-      {
-        "id": "anthropic-finally-reveals-which-jobs-ai-cannot-replace-thestreet-com",
-        "title": "Anthropic finally reveals which jobs AI cannot replace - thestreet.com",
-        "summary": "The article highlights jobs that AI cannot replace, suggesting limitations in AI's ability to take over certain roles.",
-        "date": "2026-03-08",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXZuMFBoQnNjblhlenQ3c0pqN3FuSzZrNlpfcVN0YkN5TTJGOGEwRGoycWVCLWJSSHhWYTlaWWwySmJLSjhRNHVpR042a3lUa1l2a0twYThTN1QtVkNnZTdYaEZXNlpjVi1qTFplRENKYzYtZGloZDBsT0xpMmR0amxBVXNFWURCQk52blRmd1BHdw?oc=5",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI limitations",
-          "job replacement"
-        ],
-        "fetchedAt": "2026-04-03T02:06:11.218Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 58,
-        "categories": [
-          "personal-care-and-service",
-          "education-training-and-library",
-          "community-and-social-service"
-        ],
-        "occupationIDs": [
-          "social-workers",
-          "rehabilitation-counselors",
-          "probation-officers-and-correctional-treatment-specialists",
-          "community-health-workers",
-          "school-and-career-counselors"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Microsoft’s new ‘superintelligence’ game plan is all about business.",
-        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Microsoft’s new ‘superintelligence’ game plan is all about business\" (The Verge - AI), while the clearest drag comes from \"It’s not easy to get depression-detecting AI through the FDA\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.975 minutes. Updated 2026-04-03T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

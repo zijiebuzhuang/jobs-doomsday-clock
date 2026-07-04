@@ -1,5 +1,150 @@
 [
   {
+    "id": "openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom",
+    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+    "summary": "OpenAI's proposal to give the US government a 5% stake in AI could lead to increased regulatory oversight and shape the future of AI adoption in the workplace.",
+    "date": "2026-07-02",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-deepmind-unionization-talks-are-off-to-a-rocky-start",
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "summary": "Unionization efforts at Google DeepMind highlight potential labor challenges in AI development and adoption.",
+    "date": "2026-07-03",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "labor",
+      "regulation",
+      "workplace"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
+    "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
+    "summary": "An Israeli AI startup is expanding into Latin America, where Trump-aligned leaders may increase demand for its cybersecurity products, signaling growing AI adoption in government and security sectors.",
+    "date": "2026-07-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "cybersecurity",
+      "government",
+      "AI expansion"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-offers-revenue-sharing-model-to-help-ai-growth",
+    "title": "Nvidia Offers Revenue Sharing Model to Help AI Growth",
+    "summary": "Nvidia's revenue sharing model could accelerate AI adoption by making its hardware more accessible to cloud providers.",
+    "date": "2026-07-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "cloud computing"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-is-discussing-a-new-custom-chip-with-samsung",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "summary": "Custom AI chips from Anthropic and OpenAI signal increased investment in specialized hardware, which could boost AI performance and adoption across industries.",
+    "date": "2026-07-02",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "hardware development"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "summary": "Cloudflare's policy may slow AI companies' access to publisher content, affecting AI training and development.",
+    "date": "2026-07-01",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI adoption",
+      "content licensing"
+    ],
+    "fetchedAt": "2026-07-04T11:00:52.234Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
     "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
     "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
@@ -12615,37 +12760,6 @@
       "customer-service-representatives",
       "meeting-convention-and-event-planners",
       "project-management-specialists"
-    ]
-  },
-  {
-    "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
-    "date": "2026-04-04",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "effect": "delay",
-    "impactScore": 2,
-    "tags": [
-      "AI costs",
-      "job replacement",
-      "coding tools"
-    ],
-    "fetchedAt": "2026-04-05T00:00:26.956Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "web-developers",
-      "computer-programmers",
-      "database-administrators",
-      "information-security-analysts"
     ]
   }
 ]
