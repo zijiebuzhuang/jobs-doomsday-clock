@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:12",
+  "displayTime": "00:00:22",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.198,
+  "exactMinutesToMidnight": -0.366,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.198,
+  "newsAdjustment": -13.366,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.014,
+  "macroReplacementRate": 50.025,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,157 +3448,133 @@
   ],
   "newsFeed": [
     {
-      "id": "google-deepmind-unionization-talks-are-off-to-a-rocky-start",
-      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-      "summary": "Unionization efforts at Google DeepMind highlight potential labor challenges in AI development and adoption.",
-      "date": "2026-07-03",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "introducing-claude-sonnet-5",
+      "title": "Introducing Claude Sonnet 5",
+      "summary": "The release of Claude Sonnet 5 indicates improved AI capabilities in coding, agents, and professional work, signaling increased AI adoption in the workplace.",
+      "date": "2026-06-30",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "labor",
-        "regulation",
-        "workplace"
+        "AI models",
+        "productivity",
+        "professional work"
       ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-07-05T11:01:00.991Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
         "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "how-chatgpt-adoption-has-expanded",
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "Growing ChatGPT adoption indicates broader AI integration into work processes, signaling increased workplace pressure and productivity changes.",
+      "date": "2026-06-30",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "adoption",
+        "productivity",
+        "workplace-impact"
+      ],
+      "fetchedAt": "2026-07-05T11:01:00.991Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom",
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "summary": "OpenAI's proposal to give the US government a 5% stake in AI could lead to increased regulatory oversight and shape the future of AI adoption in the workplace.",
-      "date": "2026-07-02",
+      "id": "the-fanfiction-community-is-at-war-with-ai-and-itself",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "Creative communities are pushing back against AI-generated content, highlighting tensions between human creativity and AI adoption in creative fields.",
+      "date": "2026-07-04",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "regulation",
-        "policy",
-        "enterprise-adoption"
+        "creative-industries",
+        "AI-ethics",
+        "workforce-resistance"
       ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
+      "fetchedAt": "2026-07-05T11:01:00.991Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "computer-and-information-technology",
-        "management",
+        "arts-and-design",
+        "media-and-communication",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "nvidia-offers-revenue-sharing-model-to-help-ai-growth",
-      "title": "Nvidia Offers Revenue Sharing Model to Help AI Growth",
-      "summary": "Nvidia's revenue sharing model could accelerate AI adoption by making its hardware more accessible to cloud providers.",
-      "date": "2026-07-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "cloud computing"
-      ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
-      "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
-      "summary": "An Israeli AI startup is expanding into Latin America, where Trump-aligned leaders may increase demand for its cybersecurity products, signaling growing AI adoption in government and security sectors.",
-      "date": "2026-07-03",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
-      "effect": "advance",
+      "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba's ban on Claude Code reflects growing concerns around AI tool security and regulatory compliance, potentially slowing adoption of external AI tools in enterprise environments.",
+      "date": "2026-07-04",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "cybersecurity",
-        "government",
-        "AI expansion"
-      ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "Cloudflare's policy may slow AI companies' access to publisher content, affecting AI training and development.",
-      "date": "2026-07-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
         "regulation",
-        "AI adoption",
-        "content licensing"
+        "enterprise-adoption",
+        "AI-security"
       ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
+      "fetchedAt": "2026-07-05T11:01:00.991Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "anthropic-is-discussing-a-new-custom-chip-with-samsung",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "Custom AI chips from Anthropic and OpenAI signal increased investment in specialized hardware, which could boost AI performance and adoption across industries.",
-      "date": "2026-07-02",
+      "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI's funding and open-source model efforts signal growing competition in AI development, potentially increasing access to advanced AI tools across industries.",
+      "date": "2026-07-04",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
+        "AI models",
+        "open source",
         "enterprise adoption",
-        "hardware development"
+        "competition"
       ],
-      "fetchedAt": "2026-07-04T11:00:52.234Z",
+      "fetchedAt": "2026-07-05T11:01:00.991Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-04T12:00:00.000Z",
+  "generatedAt": "2026-07-05T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Unionization and Policy Shifts Moderate AI Job Replacement Momentum",
-      "preview": "New policies and union talks slow AI adoption trends.",
-      "body": "Recent news highlights a mix of delays and advances in AI job replacement pressure. Unionization efforts at Google DeepMind and Cloudflare's content policy could slow adoption, while Nvidia's revenue sharing and Anthropic's chip development signal growth. Overall, the balance remains cautious but not overly negative."
+      "title": "AI adoption advances despite creative resistance",
+      "preview": "New tools and competition drive progress, while some sectors push back.",
+      "body": "Recent developments show continued AI advancement, with new models like Claude Sonnet 5 and growing ChatGPT adoption indicating increased workplace integration. However, tensions in creative fields and corporate restrictions on AI tools suggest ongoing challenges. Overall, the balance remains tilted toward acceleration."
     }
   }
 }

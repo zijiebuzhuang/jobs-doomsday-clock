@@ -1,5 +1,126 @@
 [
   {
+    "id": "introducing-claude-sonnet-5",
+    "title": "Introducing Claude Sonnet 5",
+    "summary": "The release of Claude Sonnet 5 indicates improved AI capabilities in coding, agents, and professional work, signaling increased AI adoption in the workplace.",
+    "date": "2026-06-30",
+    "source": "Anthropic",
+    "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI models",
+      "productivity",
+      "professional work"
+    ],
+    "fetchedAt": "2026-07-05T11:01:00.991Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "how-chatgpt-adoption-has-expanded",
+    "title": "How ChatGPT adoption has expanded",
+    "summary": "Growing ChatGPT adoption indicates broader AI integration into work processes, signaling increased workplace pressure and productivity changes.",
+    "date": "2026-06-30",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "adoption",
+      "productivity",
+      "workplace-impact"
+    ],
+    "fetchedAt": "2026-07-05T11:01:00.991Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-fanfiction-community-is-at-war-with-ai-and-itself",
+    "title": "The fanfiction community is at war with AI — and itself",
+    "summary": "Creative communities are pushing back against AI-generated content, highlighting tensions between human creativity and AI adoption in creative fields.",
+    "date": "2026-07-04",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "creative-industries",
+      "AI-ethics",
+      "workforce-resistance"
+    ],
+    "fetchedAt": "2026-07-05T11:01:00.991Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "arts-and-design",
+      "media-and-communication",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "summary": "Alibaba's ban on Claude Code reflects growing concerns around AI tool security and regulatory compliance, potentially slowing adoption of external AI tools in enterprise environments.",
+    "date": "2026-07-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "enterprise-adoption",
+      "AI-security"
+    ],
+    "fetchedAt": "2026-07-05T11:01:00.991Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "Mistral AI's funding and open-source model efforts signal growing competition in AI development, potentially increasing access to advanced AI tools across industries.",
+    "date": "2026-07-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI models",
+      "open source",
+      "enterprise adoption",
+      "competition"
+    ],
+    "fetchedAt": "2026-07-05T11:01:00.991Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom",
     "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
     "summary": "OpenAI's proposal to give the US government a 5% stake in AI could lead to increased regulatory oversight and shape the future of AI adoption in the workplace.",
@@ -12729,37 +12850,6 @@
       "data-scientists",
       "information-security-analysts",
       "computer-network-architects"
-    ]
-  },
-  {
-    "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
-    "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-    "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
-    "date": "2026-04-05",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-    "effect": "advance",
-    "impactScore": 2,
-    "tags": [
-      "AI integration",
-      "personal productivity",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-06T00:00:28.362Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "receptionists",
-      "secretaries-and-administrative-assistants",
-      "customer-service-representatives",
-      "meeting-convention-and-event-planners",
-      "project-management-specialists"
     ]
   }
 ]

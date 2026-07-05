@@ -1,5 +1,168 @@
 [
   {
+    "date": "2026-07-05",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.366,
+    "macroReplacementRate": 50.025,
+    "newsAdjustment": -13.366,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "introducing-claude-sonnet-5",
+        "title": "Introducing Claude Sonnet 5",
+        "summary": "The release of Claude Sonnet 5 indicates improved AI capabilities in coding, agents, and professional work, signaling increased AI adoption in the workplace.",
+        "date": "2026-06-30",
+        "source": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI models",
+          "productivity",
+          "professional work"
+        ],
+        "fetchedAt": "2026-07-05T11:01:00.991Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "how-chatgpt-adoption-has-expanded",
+        "title": "How ChatGPT adoption has expanded",
+        "summary": "Growing ChatGPT adoption indicates broader AI integration into work processes, signaling increased workplace pressure and productivity changes.",
+        "date": "2026-06-30",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "adoption",
+          "productivity",
+          "workplace-impact"
+        ],
+        "fetchedAt": "2026-07-05T11:01:00.991Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-fanfiction-community-is-at-war-with-ai-and-itself",
+        "title": "The fanfiction community is at war with AI — and itself",
+        "summary": "Creative communities are pushing back against AI-generated content, highlighting tensions between human creativity and AI adoption in creative fields.",
+        "date": "2026-07-04",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "creative-industries",
+          "AI-ethics",
+          "workforce-resistance"
+        ],
+        "fetchedAt": "2026-07-05T11:01:00.991Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "arts-and-design",
+          "media-and-communication",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "summary": "Alibaba's ban on Claude Code reflects growing concerns around AI tool security and regulatory compliance, potentially slowing adoption of external AI tools in enterprise environments.",
+        "date": "2026-07-04",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "AI-security"
+        ],
+        "fetchedAt": "2026-07-05T11:01:00.991Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
+        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+        "summary": "Mistral AI's funding and open-source model efforts signal growing competition in AI development, potentially increasing access to advanced AI tools across industries.",
+        "date": "2026-07-04",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI models",
+          "open source",
+          "enterprise adoption",
+          "competition"
+        ],
+        "fetchedAt": "2026-07-05T11:01:00.991Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Introducing Claude Sonnet 5.",
+        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Introducing Claude Sonnet 5\" (Anthropic), while the clearest drag comes from \"The fanfiction community is at war with AI — and itself\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.366 minutes. Updated 2026-07-05T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-04",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.198,
@@ -16685,111 +16848,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage.",
         "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\" (TechCrunch - AI), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. The latest news adjustment stands at -1.025 minutes. Updated 2026-04-05T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-04",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 12.053,
-    "macroReplacementRate": 49.166,
-    "newsAdjustment": -0.947,
-    "categoryAdjustments": {
-      "healthcare": -0.051,
-      "life-physical-and-social-science": -0.076,
-      "architecture-and-engineering": -0.076,
-      "management": -0.066,
-      "business-and-financial": -0.132,
-      "construction-and-extraction": -0.027,
-      "production": -0.061,
-      "installation-maintenance-and-repair": -0.027,
-      "education-training-and-library": -0.01,
-      "office-and-administrative-support": -0.187,
-      "transportation-and-material-moving": -0.054,
-      "personal-care-and-service": -0.045,
-      "sales": -0.054,
-      "media-and-communication": -0.003,
-      "computer-and-information-technology": -0.264,
-      "community-and-social-service": -0.027,
-      "arts-and-design": -0.003,
-      "entertainment-and-sports": -0.027,
-      "protective-service": -0.027,
-      "food-preparation-and-serving": -0.027,
-      "legal": -0.048,
-      "math": -0.027,
-      "farming-fishing-and-forestry": -0.027,
-      "building-and-grounds-cleaning": -0.027
-    },
-    "newsFeed": [
-      {
-        "id": "anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
-        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-        "summary": "The acquisition of Coefficient Bio by Anthropic indicates growing investment in AI-driven biotech, potentially accelerating AI's role in job replacement across the sector.",
-        "date": "2026-04-03",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI investment",
-          "job replacement",
-          "biotech",
-          "acquisition"
-        ],
-        "fetchedAt": "2026-04-04T00:00:38.857Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "life-physical-and-social-science",
-          "healthcare",
-          "computer-and-information-technology"
-        ],
-        "occupationIDs": [
-          "biochemists-and-biophysicists",
-          "biomedical-engineers",
-          "medical-scientists",
-          "data-scientists",
-          "software-developers"
-        ]
-      },
-      {
-        "id": "us-department-of-labor-national-science-foundation-announce-collaborative-effort",
-        "title": "US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)",
-        "summary": "The initiative aims to prepare the workforce for AI, potentially slowing the replacement of human jobs by focusing on upskilling and accessibility.",
-        "date": "2026-04-02",
-        "source": "AI Workforce",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OQ25ZT3AwV0tfRk9aNVNqWUdIeTNXdVJkRnNpOVIydkZVOEQxMjhmMG15anpUVzZQM1QwSDJyQmN0dVdhZ1cyc1FsTG9nYVhMd0x5dzh4cnp1SUdCZ0Z6ZzV1UDlCZw?oc=5",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI workforce development",
-          "labor policy",
-          "job training"
-        ],
-        "fetchedAt": "2026-04-04T00:00:34.646Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 58,
-        "categories": [
-          "computer-and-information-technology",
-          "education-training-and-library",
-          "management"
-        ],
-        "occupationIDs": [
-          "computer-systems-analysts",
-          "software-developers",
-          "data-scientists",
-          "information-security-analysts",
-          "training-and-development-specialists"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports.",
-        "body": "This update is split between 1 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports\" (TechCrunch - AI), while the clearest drag comes from \"US Department of Labor, National Science Foundation announce collaborative efforts on AI workforce, TechAccess Initiative - U.S. Department of Labor (.gov)\" (AI Workforce). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -0.947 minutes. Updated 2026-04-04T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
