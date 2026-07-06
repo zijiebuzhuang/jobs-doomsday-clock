@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:22",
+  "displayTime": "00:00:29",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.366,
+  "exactMinutesToMidnight": -0.485,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.366,
+  "newsAdjustment": -13.485,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.025,
+  "macroReplacementRate": 50.034,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,133 +3448,83 @@
   ],
   "newsFeed": [
     {
-      "id": "introducing-claude-sonnet-5",
-      "title": "Introducing Claude Sonnet 5",
-      "summary": "The release of Claude Sonnet 5 indicates improved AI capabilities in coding, agents, and professional work, signaling increased AI adoption in the workplace.",
+      "id": "claude-science-an-ai-workbench-for-scientists-is-now-available",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "A new AI workbench for scientists is likely to increase productivity and change workflows in scientific research.",
       "date": "2026-06-30",
       "source": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-5",
+      "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI models",
-        "productivity",
-        "professional work"
+        "AI tools",
+        "workflows",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-05T11:01:00.991Z",
+      "fetchedAt": "2026-07-06T11:01:04.551Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
+        "life-physical-and-social-science",
         "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ireland-s-us-exposed-tech-sector-faces-ai-job-disruption",
+      "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
+      "summary": "AI-driven labor market disruption is affecting Ireland's tech sector, signaling increased pressure on AI adoption and job transformation in the technology industry.",
+      "date": "2026-07-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "labor market disruption",
+        "tech sector"
+      ],
+      "fetchedAt": "2026-07-06T11:01:04.551Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-workforce-retraining-fund-hits-500m-companies-cutting-jobs-are-paying-for-the",
+      "title": "AI Workforce Retraining Fund Hits $500M: Companies Cutting Jobs Are Paying for the Fix",
+      "summary": "A $500M AI workforce retraining fund indicates companies are preparing for job displacement, suggesting regulatory or social pressure to manage AI's impact on employment.",
+      "date": "2026-07-01",
+      "source": "Tech Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY21fcElxTEdHVlMyOHhQU2c5cGxIbndobGdob1ExNjJNeW5qME5sckZacTdQYjJvQmJkNUF6T1JMZ3dSMEVPanlvZ0VEUHBoNzZNanhSR1lQVnFnc29feHBoM1FkMnZrM3RWeDNUYjJmZHZudkxmRXNXSzZZZG4wN3JVdDhxVDFhWUgxUms0U0U2ekhIMnpEZ1MtaC04ZmhDX1FRWmd2R2pzQThpR1ItTWd3SGxHcWltOG5rV1FvdWRiOEJHd2xwejlzaw?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "workforce-transition",
+        "policy",
+        "retraining"
+      ],
+      "fetchedAt": "2026-07-06T11:01:04.551Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
         "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "how-chatgpt-adoption-has-expanded",
-      "title": "How ChatGPT adoption has expanded",
-      "summary": "Growing ChatGPT adoption indicates broader AI integration into work processes, signaling increased workplace pressure and productivity changes.",
-      "date": "2026-06-30",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "adoption",
-        "productivity",
-        "workplace-impact"
-      ],
-      "fetchedAt": "2026-07-05T11:01:00.991Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-fanfiction-community-is-at-war-with-ai-and-itself",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "Creative communities are pushing back against AI-generated content, highlighting tensions between human creativity and AI adoption in creative fields.",
-      "date": "2026-07-04",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "creative-industries",
-        "AI-ethics",
-        "workforce-resistance"
-      ],
-      "fetchedAt": "2026-07-05T11:01:00.991Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "arts-and-design",
-        "media-and-communication",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/AI_Hands_A_Bernis_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba's ban on Claude Code reflects growing concerns around AI tool security and regulatory compliance, potentially slowing adoption of external AI tools in enterprise environments.",
-      "date": "2026-07-04",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "enterprise-adoption",
-        "AI-security"
-      ],
-      "fetchedAt": "2026-07-05T11:01:00.991Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "summary": "Mistral AI's funding and open-source model efforts signal growing competition in AI development, potentially increasing access to advanced AI tools across industries.",
-      "date": "2026-07-04",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI models",
-        "open source",
-        "enterprise adoption",
-        "competition"
-      ],
-      "fetchedAt": "2026-07-05T11:01:00.991Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
-        "_all"
+        "computer-and-information-technology"
       ]
     }
   ],
-  "generatedAt": "2026-07-05T12:00:00.000Z",
+  "generatedAt": "2026-07-06T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption advances despite creative resistance",
-      "preview": "New tools and competition drive progress, while some sectors push back.",
-      "body": "Recent developments show continued AI advancement, with new models like Claude Sonnet 5 and growing ChatGPT adoption indicating increased workplace integration. However, tensions in creative fields and corporate restrictions on AI tools suggest ongoing challenges. Overall, the balance remains tilted toward acceleration."
+      "title": "AI job pressure remains steady with new tools and retraining efforts",
+      "preview": "New AI tools and retraining funds signal ongoing shifts in the job market.",
+      "body": "Recent developments show a balanced mix of advancements and mitigating measures. A new AI workbench for scientists and AI-driven job disruption in Ireland highlight continued pressure, while a $500M retraining fund suggests efforts to manage displacement. Overall, the trend reflects both acceleration and adaptation in AI's impact on employment."
     }
   }
 }

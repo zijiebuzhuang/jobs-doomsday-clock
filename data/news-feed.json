@@ -1,5 +1,76 @@
 [
   {
+    "id": "claude-science-an-ai-workbench-for-scientists-is-now-available",
+    "title": "Claude Science, an AI workbench for scientists, is now available",
+    "summary": "A new AI workbench for scientists is likely to increase productivity and change workflows in scientific research.",
+    "date": "2026-06-30",
+    "source": "Anthropic",
+    "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflows",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-06T11:01:04.551Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ireland-s-us-exposed-tech-sector-faces-ai-job-disruption",
+    "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
+    "summary": "AI-driven labor market disruption is affecting Ireland's tech sector, signaling increased pressure on AI adoption and job transformation in the technology industry.",
+    "date": "2026-07-06",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "labor market disruption",
+      "tech sector"
+    ],
+    "fetchedAt": "2026-07-06T11:01:04.551Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-workforce-retraining-fund-hits-500m-companies-cutting-jobs-are-paying-for-the",
+    "title": "AI Workforce Retraining Fund Hits $500M: Companies Cutting Jobs Are Paying for the Fix",
+    "summary": "A $500M AI workforce retraining fund indicates companies are preparing for job displacement, suggesting regulatory or social pressure to manage AI's impact on employment.",
+    "date": "2026-07-01",
+    "source": "Tech Times",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY21fcElxTEdHVlMyOHhQU2c5cGxIbndobGdob1ExNjJNeW5qME5sckZacTdQYjJvQmJkNUF6T1JMZ3dSMEVPanlvZ0VEUHBoNzZNanhSR1lQVnFnc29feHBoM1FkMnZrM3RWeDNUYjJmZHZudkxmRXNXSzZZZG4wN3JVdDhxVDFhWUgxUms0U0U2ekhIMnpEZ1MtaC04ZmhDX1FRWmd2R2pzQThpR1ItTWd3SGxHcWltOG5rV1FvdWRiOEJHd2xwejlzaw?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "workforce-transition",
+      "policy",
+      "retraining"
+    ],
+    "fetchedAt": "2026-07-06T11:01:04.551Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
     "id": "introducing-claude-sonnet-5",
     "title": "Introducing Claude Sonnet 5",
     "summary": "The release of Claude Sonnet 5 indicates improved AI capabilities in coding, agents, and professional work, signaling increased AI adoption in the workplace.",
@@ -12764,92 +12835,6 @@
       "computer-and-information-technology",
       "management",
       "_all"
-    ]
-  },
-  {
-    "id": "the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai",
-    "title": "The one piece of data that could actually shed light on your job and AI",
-    "summary": "The article highlights concerns about AI's impact on jobs but suggests that the extent of job replacement is still unclear and debated.",
-    "date": "2026-04-06",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI impact",
-      "job displacement",
-      "workforce analysis"
-    ],
-    "fetchedAt": "2026-04-07T00:00:39.852Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "openai-s-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-da",
-    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-    "summary": "The proposal for AI taxes and public wealth funds aims to mitigate job loss from AI, suggesting measures to slow AI's replacement of human jobs.",
-    "date": "2026-04-06",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI regulation",
-      "job displacement",
-      "economic policy"
-    ],
-    "fetchedAt": "2026-04-07T00:00:38.460Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "production",
-      "_all"
-    ],
-    "occupationIDs": [
-      "assemblers-and-fabricators",
-      "bakers",
-      "butchers-and-meat-cutters",
-      "welders-cutters-solderers-and-brazers",
-      "machinists-and-tool-and-die-makers"
-    ]
-  },
-  {
-    "id": "openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund-",
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "summary": "A new $100M fund backed by OpenAI alumni could accelerate AI development and potentially increase job displacement through AI innovation.",
-    "date": "2026-04-06",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI investment",
-      "job displacement",
-      "venture capital"
-    ],
-    "fetchedAt": "2026-04-07T00:00:36.813Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "data-scientists",
-      "information-security-analysts",
-      "computer-network-architects"
     ]
   }
 ]

@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-07-06",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.485,
+    "macroReplacementRate": 50.034,
+    "newsAdjustment": -13.485,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "claude-science-an-ai-workbench-for-scientists-is-now-available",
+        "title": "Claude Science, an AI workbench for scientists, is now available",
+        "summary": "A new AI workbench for scientists is likely to increase productivity and change workflows in scientific research.",
+        "date": "2026-06-30",
+        "source": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflows",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-06T11:01:04.551Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ireland-s-us-exposed-tech-sector-faces-ai-job-disruption",
+        "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
+        "summary": "AI-driven labor market disruption is affecting Ireland's tech sector, signaling increased pressure on AI adoption and job transformation in the technology industry.",
+        "date": "2026-07-06",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "labor market disruption",
+          "tech sector"
+        ],
+        "fetchedAt": "2026-07-06T11:01:04.551Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-workforce-retraining-fund-hits-500m-companies-cutting-jobs-are-paying-for-the",
+        "title": "AI Workforce Retraining Fund Hits $500M: Companies Cutting Jobs Are Paying for the Fix",
+        "summary": "A $500M AI workforce retraining fund indicates companies are preparing for job displacement, suggesting regulatory or social pressure to manage AI's impact on employment.",
+        "date": "2026-07-01",
+        "source": "Tech Times",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY21fcElxTEdHVlMyOHhQU2c5cGxIbndobGdob1ExNjJNeW5qME5sckZacTdQYjJvQmJkNUF6T1JMZ3dSMEVPanlvZ0VEUHBoNzZNanhSR1lQVnFnc29feHBoM1FkMnZrM3RWeDNUYjJmZHZudkxmRXNXSzZZZG4wN3JVdDhxVDFhWUgxUms0U0U2ekhIMnpEZ1MtaC04ZmhDX1FRWmd2R2pzQThpR1ItTWd3SGxHcWltOG5rV1FvdWRiOEJHd2xwejlzaw?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "workforce-transition",
+          "policy",
+          "retraining"
+        ],
+        "fetchedAt": "2026-07-06T11:01:04.551Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Claude Science, an AI workbench for scientists, is now available.",
+        "body": "This update is split between 2 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Claude Science, an AI workbench for scientists, is now available\" (Anthropic), while the clearest drag comes from \"AI Workforce Retraining Fund Hits $500M: Companies Cutting Jobs Are Paying for the Fix\" (Tech Times). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.485 minutes. Updated 2026-07-06T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-05",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.366,
@@ -16775,79 +16888,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by I let Gemini in Google Maps plan my day and it went surprisingly well.",
         "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"I let Gemini in Google Maps plan my day and it went surprisingly well\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.037 minutes. Updated 2026-04-06T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-05",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.975,
-    "macroReplacementRate": 49.171,
-    "newsAdjustment": -1.025,
-    "categoryAdjustments": {
-      "healthcare": -0.069,
-      "life-physical-and-social-science": -0.093,
-      "architecture-and-engineering": -0.092,
-      "management": -0.086,
-      "business-and-financial": -0.15,
-      "construction-and-extraction": -0.044,
-      "production": -0.078,
-      "installation-maintenance-and-repair": -0.044,
-      "education-training-and-library": -0.028,
-      "office-and-administrative-support": -0.204,
-      "transportation-and-material-moving": -0.071,
-      "personal-care-and-service": -0.061,
-      "sales": -0.071,
-      "media-and-communication": -0.021,
-      "computer-and-information-technology": -0.284,
-      "community-and-social-service": -0.044,
-      "arts-and-design": -0.021,
-      "entertainment-and-sports": -0.044,
-      "protective-service": -0.044,
-      "food-preparation-and-serving": -0.044,
-      "legal": -0.064,
-      "math": -0.044,
-      "farming-fishing-and-forestry": -0.044,
-      "building-and-grounds-cleaning": -0.044
-    },
-    "newsFeed": [
-      {
-        "id": "anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-usage",
-        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-        "summary": "The increase in cost for using AI coding tools may slow the adoption of AI in coding tasks, potentially delaying job replacement.",
-        "date": "2026-04-04",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-        "effect": "delay",
-        "impactScore": 2,
-        "tags": [
-          "AI costs",
-          "job replacement",
-          "coding tools"
-        ],
-        "fetchedAt": "2026-04-05T00:00:26.956Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "web-developers",
-          "computer-programmers",
-          "database-administrators",
-          "information-security-analysts"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage.",
-        "body": "This update leans defensive, with 1 delays against 0 advances, so the latest coverage is giving more weight to friction, safeguards, or slower rollout dynamics. The clearest drag comes from \"Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage\" (TechCrunch - AI), which acts as the main anchor on the feed. Rather than accelerating straight ahead, the day’s signal mix implies more resistance and more reasons for the clock to pause. The latest news adjustment stands at -1.025 minutes. Updated 2026-04-05T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
