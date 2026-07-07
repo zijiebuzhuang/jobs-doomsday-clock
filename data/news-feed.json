@@ -1,5 +1,174 @@
 [
   {
+    "id": "ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
+    "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
+    "summary": "AI-driven productivity gains are expected to take years, suggesting a slower-than-anticipated impact on workplace efficiency and labor dynamics.",
+    "date": "2026-07-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "productivity",
+      "adoption",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+    "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+    "summary": "A Nobel Prize-winning economist suggests AI may not restore past productivity growth, indicating potential limitations or challenges in AI's impact on economic growth.",
+    "date": "2026-07-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "productivity",
+      "economics",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial-sales",
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "summary": "Microsoft's layoffs raise concerns about AI's impact on jobs, signaling potential pressure on certain roles due to automation or efficiency shifts.",
+    "date": "2026-07-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "workforce changes",
+      "AI adoption concerns",
+      "corporate restructuring"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "sales"
+    ]
+  },
+  {
+    "id": "you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta",
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "summary": "Improvements to Siri's naturalness and personalization reflect AI advancements that may influence user interaction and productivity tools across industries.",
+    "date": "2026-07-06",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI assistant",
+      "user experience",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-goldman-sachs-exec-on-ai-wall-street-the-firm-that-went-bankrupt-in-40-minut",
+    "title": "The Goldman Sachs Exec on AI, Wall Street & the Firm That Went Bankrupt in 40 Minutes",
+    "summary": "An AI expert from Goldman Sachs discusses how AI is transforming enterprise software and labor on Wall Street, signaling increased AI adoption in finance and business operations.",
+    "date": "2026-07-06",
+    "source": "Apple Podcasts - Newcomer Pod",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/The-Goldman-Sachs-Exec-on-AI--Wall-Street--the-Firm-That-Went-Bankrupt-in-40-Minutes-e3lnp51",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise software",
+      "finance",
+      "labor impact"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1783354898406-462d301310b4.jpg",
+    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/122462817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427458690-44100-2-af69e845665ef.mp3",
+    "duration": "00:25:43"
+  },
+  {
+    "id": "india-s-ai-jobs-paradox-second-highest-tech-layoffs-but-ai-hiring-surges-as-skil",
+    "title": "India's AI Jobs Paradox: Second-Highest Tech Layoffs, But AI Hiring Surges As Skills Gap Widens",
+    "summary": "India's AI hiring surge highlights growing demand for AI skills despite tech layoffs, emphasizing the widening skills gap in the workforce.",
+    "date": "2026-07-06",
+    "source": "ETV Bharat",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTd3MlBnZmpfR3Y4S2tOM0JjcDZVZ3dLd3NvbUNpRHhuTngxT2xRNDZZWnd4aXV5dkhnUGtOa0JqNmJoM05zM0pzZmo3V2wzUjhGeFExaXpCUmE4X1M1bGRndkc3TlZJZ2pCbXRGZ1ozdEtGVDdIeDdYVzcwOXV6RDBvWHdoUDhGTm9IZE0yV0VfMURuMW1pSV9EbzlES21jTDBLR0Z1YnBsTWMwZHBkV2x1S3FDWGpVenAyQnhBVFFGWDN5WWF5NmtXelNwVFVTMDlhQUJNQlFkMjFKNWNieNIB5gFBVV95cUxOalVLNHRQOG84N2hKVjk2bDdWbDdWY3FwR3BjdGozYXNodXN1eERINjZTcFN2dWEzdnRmTXRHdWpGYjYwRXRldWtESUFaeHFyUEJOOE1nemx4aGVQQVU4VU5tVW8yMW5kTEZTZzVXbGVVQ1hKUXZ1ZWlfaU9mQTU3c2hja2VtUkJ1Yks3dUw1cWdjUGVJSnNYODF6aWE3Z2dfZXZ2NnVVN25IM3RiZ09tMjd5WnU5ZkctcEw4ajRQRHVxeTI3bFlxdF9WWFZFTU1MWEJiRXEwYTF3bG43Y0NHX2tycDVGZw?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "skills gap",
+      "hiring trends"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "microsoft-cuts-4-800-jobs-as-ai-automation-fears-escalate",
+    "title": "Microsoft cuts 4,800 jobs as AI automation fears escalate",
+    "summary": "Microsoft's job cuts highlight the growing pressure of AI automation on employment, signaling increased concerns about AI's impact on workforce stability.",
+    "date": "2026-07-06",
+    "source": "The Tech Buzz",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzVPVUs4TnBTYzFaV0R3QlhkX3EwbUNRb3NSQXZfZk9haGlQY1RlU0oySjNIRlQ1dmhTMDkyMDZxeGJBLWNGRXlNQTIyYXg1QldiOWIxaURNSGhJRnRYNzVQTTdkdHJQMVB4d3RTdUtuWkdtVUlPTkVoVVFDX1VVRHkxdGRvTjZYNWJtVTc4OWNzUzhZ?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce impact",
+      "automation"
+    ],
+    "fetchedAt": "2026-07-07T11:01:08.309Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "claude-science-an-ai-workbench-for-scientists-is-now-available",
     "title": "Claude Science, an AI workbench for scientists, is now available",
     "summary": "A new AI workbench for scientists is likely to increase productivity and change workflows in scientific research.",
@@ -12659,182 +12828,6 @@
       "database-administrators",
       "information-security-analysts",
       "web-developers"
-    ]
-  },
-  {
-    "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
-    "title": "Gemini is making it faster for distressed users to reach mental health resources",
-    "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
-    "date": "2026-04-07",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "safety concerns",
-      "regulatory impact"
-    ],
-    "fetchedAt": "2026-04-08T00:00:43.615Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "community-and-social-service",
-      "computer-and-information-technology",
-      "legal"
-    ],
-    "occupationIDs": [
-      "social-workers",
-      "rehabilitation-counselors",
-      "substance-abuse-behavioral-disorder-and-mental-health-counselors",
-      "community-health-workers",
-      "school-and-career-counselors"
-    ]
-  },
-  {
-    "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
-    "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-    "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
-    "date": "2026-04-07",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "cybersecurity",
-      "ai-development",
-      "automation"
-    ],
-    "fetchedAt": "2026-04-08T00:00:41.906Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "information-security-analysts",
-      "network-and-computer-systems-administrators",
-      "software-developers",
-      "computer-support-specialists",
-      "database-administrators"
-    ]
-  },
-  {
-    "id": "google-maps-can-now-write-captions-for-your-photos-using-ai",
-    "title": "Google Maps can now write captions for your photos using AI",
-    "summary": "AI's ability to generate captions for photos may contribute to automation in content creation and media roles, potentially affecting jobs in media and communication.",
-    "date": "2026-04-07",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-    "effect": "advance",
-    "impactScore": 2,
-    "tags": [
-      "AI capabilities",
-      "content creation",
-      "automation"
-    ],
-    "fetchedAt": "2026-04-08T00:00:40.408Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "photographers",
-      "technical-writers",
-      "editors",
-      "writers-and-authors",
-      "public-relations-specialists"
-    ]
-  },
-  {
-    "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
-    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-    "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
-    "date": "2026-04-07",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "compute infrastructure",
-      "business growth"
-    ],
-    "fetchedAt": "2026-04-08T00:00:38.846Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ],
-    "occupationIDs": [
-      "computer-and-information-systems-managers",
-      "software-developers",
-      "data-scientists",
-      "network-and-computer-systems-administrators",
-      "database-administrators"
-    ]
-  },
-  {
-    "id": "anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybersecurity-in",
-    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-    "summary": "The introduction of a new AI model for cybersecurity work signals AI's growing role in job functions that require technical expertise, potentially accelerating AI's impact on certain roles.",
-    "date": "2026-04-07",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "cybersecurity",
-      "AI development",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-08T00:00:37.499Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "protective-service"
-    ],
-    "occupationIDs": [
-      "information-security-analysts",
-      "network-and-computer-systems-administrators",
-      "software-developers",
-      "computer-systems-analysts",
-      "computer-network-architects"
-    ]
-  },
-  {
-    "id": "ai-job-replacement-fear-why-ai-creates-new-work-pakistan-today",
-    "title": "AI Job Replacement Fear: Why AI Creates New Work - Pakistan Today",
-    "summary": "The article suggests that AI creates new jobs, which may delay concerns about AI replacing human jobs.",
-    "date": "2026-04-07",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNm5uWlRUOU04N1h2X3hqNGlQMFlXUEQ2bjBKWVpGcVFucUNyeGFpcEd4YXgxOHJKeVA3TzMwM1BGQk5KNWdMM0EydG9hdW9mZ2oyMlp5NDhSMWZDc2FWYjZUM1YxMFl2NWpkSTlEazhvcEpHSnpORnA4M2VvS1Z1T0JaVXFtWGI1THRVbkxIUjRuQQ?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI job creation",
-      "labor market"
-    ],
-    "fetchedAt": "2026-04-08T00:00:35.776Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
     ]
   }
 ]

@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-07-07",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.291,
+    "macroReplacementRate": 50.02,
+    "newsAdjustment": -13.291,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
+        "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
+        "summary": "AI-driven productivity gains are expected to take years, suggesting a slower-than-anticipated impact on workplace efficiency and labor dynamics.",
+        "date": "2026-07-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "productivity",
+          "adoption",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "the-goldman-sachs-exec-on-ai-wall-street-the-firm-that-went-bankrupt-in-40-minut",
+        "title": "The Goldman Sachs Exec on AI, Wall Street & the Firm That Went Bankrupt in 40 Minutes",
+        "summary": "An AI expert from Goldman Sachs discusses how AI is transforming enterprise software and labor on Wall Street, signaling increased AI adoption in finance and business operations.",
+        "date": "2026-07-06",
+        "source": "Apple Podcasts - Newcomer Pod",
+        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/The-Goldman-Sachs-Exec-on-AI--Wall-Street--the-Firm-That-Went-Bankrupt-in-40-Minutes-e3lnp51",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise software",
+          "finance",
+          "labor impact"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1783354898406-462d301310b4.jpg",
+        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/122462817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427458690-44100-2-af69e845665ef.mp3",
+        "duration": "00:25:43"
+      },
+      {
+        "id": "ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+        "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
+        "summary": "A Nobel Prize-winning economist suggests AI may not restore past productivity growth, indicating potential limitations or challenges in AI's impact on economic growth.",
+        "date": "2026-07-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "productivity",
+          "economics",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial-sales",
+        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+        "summary": "Microsoft's layoffs raise concerns about AI's impact on jobs, signaling potential pressure on certain roles due to automation or efficiency shifts.",
+        "date": "2026-07-06",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "workforce changes",
+          "AI adoption concerns",
+          "corporate restructuring"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "sales"
+        ]
+      },
+      {
+        "id": "india-s-ai-jobs-paradox-second-highest-tech-layoffs-but-ai-hiring-surges-as-skil",
+        "title": "India's AI Jobs Paradox: Second-Highest Tech Layoffs, But AI Hiring Surges As Skills Gap Widens",
+        "summary": "India's AI hiring surge highlights growing demand for AI skills despite tech layoffs, emphasizing the widening skills gap in the workforce.",
+        "date": "2026-07-06",
+        "source": "ETV Bharat",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTd3MlBnZmpfR3Y4S2tOM0JjcDZVZ3dLd3NvbUNpRHhuTngxT2xRNDZZWnd4aXV5dkhnUGtOa0JqNmJoM05zM0pzZmo3V2wzUjhGeFExaXpCUmE4X1M1bGRndkc3TlZJZ2pCbXRGZ1ozdEtGVDdIeDdYVzcwOXV6RDBvWHdoUDhGTm9IZE0yV0VfMURuMW1pSV9EbzlES21jTDBLR0Z1YnBsTWMwZHBkV2x1S3FDWGpVenAyQnhBVFFGWDN5WWF5NmtXelNwVFVTMDlhQUJNQlFkMjFKNWNieNIB5gFBVV95cUxOalVLNHRQOG84N2hKVjk2bDdWbDdWY3FwR3BjdGozYXNodXN1eERINjZTcFN2dWEzdnRmTXRHdWpGYjYwRXRldWtESUFaeHFyUEJOOE1nemx4aGVQQVU4VU5tVW8yMW5kTEZTZzVXbGVVQ1hKUXZ1ZWlfaU9mQTU3c2hja2VtUkJ1Yks3dUw1cWdjUGVJSnNYODF6aWE3Z2dfZXZ2NnVVN25IM3RiZ09tMjd5WnU5ZkctcEw4ajRQRHVxeTI3bFlxdF9WWFZFTU1MWEJiRXEwYTF3bG43Y0NHX2tycDVGZw?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "skills gap",
+          "hiring trends"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "microsoft-cuts-4-800-jobs-as-ai-automation-fears-escalate",
+        "title": "Microsoft cuts 4,800 jobs as AI automation fears escalate",
+        "summary": "Microsoft's job cuts highlight the growing pressure of AI automation on employment, signaling increased concerns about AI's impact on workforce stability.",
+        "date": "2026-07-06",
+        "source": "The Tech Buzz",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzVPVUs4TnBTYzFaV0R3QlhkX3EwbUNRb3NSQXZfZk9haGlQY1RlU0oySjNIRlQ1dmhTMDkyMDZxeGJBLWNGRXlNQTIyYXg1QldiOWIxaURNSGhJRnRYNzVQTTdkdHJQMVB4d3RTdUtuWkdtVUlPTkVoVVFDX1VVRHkxdGRvTjZYNWJtVTc4OWNzUzhZ?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce impact",
+          "automation"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta",
+        "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+        "summary": "Improvements to Siri's naturalness and personalization reflect AI advancements that may influence user interaction and productivity tools across industries.",
+        "date": "2026-07-06",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI assistant",
+          "user experience",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-07-07T11:01:08.309Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by The Goldman Sachs Exec on AI, Wall Street & the Firm That Went Bankrupt in 40 Minutes.",
+        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"The Goldman Sachs Exec on AI, Wall Street & the Firm That Went Bankrupt in 40 Minutes\" (Apple Podcasts - Newcomer Pod), while the clearest drag comes from \"Microsoft cuts 4,800 jobs as AI automation fears escalate\" (The Tech Buzz). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.291 minutes. Updated 2026-07-07T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-06",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.485,
@@ -16815,79 +17026,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek.",
         "body": "This update is split between 1 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI alums have been quietly investing from a new, potentially $100M fund\" (TechCrunch - AI), while the clearest drag comes from \"OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.255 minutes. Updated 2026-04-07T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-06",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.963,
-    "macroReplacementRate": 49.172,
-    "newsAdjustment": -1.037,
-    "categoryAdjustments": {
-      "healthcare": -0.064,
-      "life-physical-and-social-science": -0.086,
-      "architecture-and-engineering": -0.086,
-      "management": -0.087,
-      "business-and-financial": -0.15,
-      "construction-and-extraction": -0.038,
-      "production": -0.071,
-      "installation-maintenance-and-repair": -0.038,
-      "education-training-and-library": -0.023,
-      "office-and-administrative-support": -0.198,
-      "transportation-and-material-moving": -0.065,
-      "personal-care-and-service": -0.055,
-      "sales": -0.065,
-      "media-and-communication": -0.016,
-      "computer-and-information-technology": -0.284,
-      "community-and-social-service": -0.038,
-      "arts-and-design": -0.016,
-      "entertainment-and-sports": -0.038,
-      "protective-service": -0.038,
-      "food-preparation-and-serving": -0.038,
-      "legal": -0.058,
-      "math": -0.038,
-      "farming-fishing-and-forestry": -0.038,
-      "building-and-grounds-cleaning": -0.038
-    },
-    "newsFeed": [
-      {
-        "id": "i-let-gemini-in-google-maps-plan-my-day-and-it-went-surprisingly-well",
-        "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-        "summary": "The integration of Gemini in Google Maps shows AI improving personal planning, hinting at potential future job displacement in service and administrative roles.",
-        "date": "2026-04-05",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-        "effect": "advance",
-        "impactScore": 2,
-        "tags": [
-          "AI integration",
-          "personal productivity",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-06T00:00:28.362Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "receptionists",
-          "secretaries-and-administrative-assistants",
-          "customer-service-representatives",
-          "meeting-convention-and-event-planners",
-          "project-management-specialists"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by I let Gemini in Google Maps plan my day and it went surprisingly well.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"I let Gemini in Google Maps plan my day and it went surprisingly well\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.037 minutes. Updated 2026-04-06T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
