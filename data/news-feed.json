@@ -1,5 +1,173 @@
 [
   {
+    "id": "mufg-aims-to-become-ai-native-with-openai",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "summary": "MUFG's adoption of ChatGPT Enterprise signals growing AI integration in financial services, impacting workflows and skill demands.",
+    "date": "2026-07-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/mufg",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "financial-services",
+      "AI-native-organization"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-download-your-stake-in-openai-and-the-treasury-s-ai-warning",
+    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+    "summary": "The discussion of AI wealth distribution highlights growing public and policy interest in the economic impact of AI, potentially influencing future regulation and workforce policies.",
+    "date": "2026-07-07",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI economics",
+      "policy",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+    "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
+    "summary": "OpenAI's global rollout of its most advanced model signals increased AI adoption and capability, potentially affecting various industries and workflows.",
+    "date": "2026-07-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "model-release",
+      "enterprise-adoption",
+      "ai-capability"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "temasek-assets-break-400-billion-as-ai-bets-boost-returns",
+    "title": "Temasek Assets Break $400 Billion as AI Bets Boost Returns",
+    "summary": "Temasek's increased AI investment signals growing confidence in AI's potential to drive returns, indicating broader adoption and integration of AI in enterprise and financial sectors.",
+    "date": "2026-07-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/temasek-assets-break-400-billion-as-ai-bets-boost-returns",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "enterprise adoption",
+      "financial impact"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-is-launching-claude-cowork-on-mobile-and-web",
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "summary": "Anthropic expanding Claude Cowork to mobile and web increases AI accessibility, potentially boosting productivity and workflow integration across multiple industries.",
+    "date": "2026-07-07",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workflow integration"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "claude-cowork-expands-to-mobile-and-web",
+    "title": "Claude Cowork expands to mobile and web",
+    "summary": "Claude Cowork's expansion to mobile and web improves workflow flexibility, suggesting AI tools are becoming more integrated into daily work tasks.",
+    "date": "2026-07-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workflow improvement",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "oecd-finds-london-jobs-highly-exposed-to-generative-ai",
+    "title": "OECD Finds London Jobs Highly Exposed to Generative AI",
+    "summary": "The OECD report highlights that London jobs are highly exposed to generative AI, signaling increased pressure for AI adoption and skill adaptation in the region.",
+    "date": "2026-07-07",
+    "source": "Let's Data Science",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmxRbWdWNkozdHMyWkdnWmVYNnVpbHhsOGVRVnJZT044d2NEQnFrS1Z3WWNiS3dPQjVseUFDMW9fdjVwM2paNFljUnVQRVNKM3hKdncza1JTdDVDV0dNRXNITmt1TWhDSW9kcDhxVkhMWjlvNElYREdsS0RsX2s0cTlJUEpQOXRncENjM1FiR0xCU292bVlZVlFadXU?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce impact",
+      "regional analysis"
+    ],
+    "fetchedAt": "2026-07-08T11:01:12.830Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ]
+  },
+  {
     "id": "ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
     "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
     "summary": "AI-driven productivity gains are expected to take years, suggesting a slower-than-anticipated impact on workplace efficiency and labor dynamics.",
@@ -12797,37 +12965,6 @@
       "software-developers",
       "computer-systems-analysts",
       "database-administrators"
-    ]
-  },
-  {
-    "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
-    "title": "Meta is reentering the AI race with a new model called Muse Spark",
-    "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
-    "date": "2026-04-08",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI development",
-      "job displacement",
-      "tech integration"
-    ],
-    "fetchedAt": "2026-04-09T00:00:40.789Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "database-administrators",
-      "information-security-analysts",
-      "web-developers"
     ]
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:17",
-  "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.291,
+  "displayTime": "00:00:42",
+  "minutesToMidnight": -1,
+  "exactMinutesToMidnight": -0.697,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.291,
+  "newsAdjustment": -13.697,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.02,
+  "macroReplacementRate": 50.048,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,165 +3448,92 @@
   ],
   "newsFeed": [
     {
-      "id": "ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
-      "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
-      "summary": "AI-driven productivity gains are expected to take years, suggesting a slower-than-anticipated impact on workplace efficiency and labor dynamics.",
+      "id": "mufg-aims-to-become-ai-native-with-openai",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "summary": "MUFG's adoption of ChatGPT Enterprise signals growing AI integration in financial services, impacting workflows and skill demands.",
       "date": "2026-07-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "productivity",
-        "adoption",
-        "regulation"
-      ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "the-goldman-sachs-exec-on-ai-wall-street-the-firm-that-went-bankrupt-in-40-minut",
-      "title": "The Goldman Sachs Exec on AI, Wall Street & the Firm That Went Bankrupt in 40 Minutes",
-      "summary": "An AI expert from Goldman Sachs discusses how AI is transforming enterprise software and labor on Wall Street, signaling increased AI adoption in finance and business operations.",
-      "date": "2026-07-06",
-      "source": "Apple Podcasts - Newcomer Pod",
-      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/The-Goldman-Sachs-Exec-on-AI--Wall-Street--the-Firm-That-Went-Bankrupt-in-40-Minutes-e3lnp51",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/mufg",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "enterprise software",
-        "finance",
-        "labor impact"
+        "enterprise-adoption",
+        "financial-services",
+        "AI-native-organization"
       ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1783354898406-462d301310b4.jpg",
-      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/122462817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F427458690-44100-2-af69e845665ef.mp3",
-      "duration": "00:25:43"
+      ]
     },
     {
-      "id": "ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
-      "title": "AI Won’t Bring Back Era of Rapid Growth, Says Nobel Prize Winner",
-      "summary": "A Nobel Prize-winning economist suggests AI may not restore past productivity growth, indicating potential limitations or challenges in AI's impact on economic growth.",
+      "id": "the-download-your-stake-in-openai-and-the-treasury-s-ai-warning",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "summary": "The discussion of AI wealth distribution highlights growing public and policy interest in the economic impact of AI, potentially influencing future regulation and workforce policies.",
       "date": "2026-07-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner",
-      "effect": "delay",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "productivity",
-        "economics",
-        "regulation"
+        "AI economics",
+        "policy",
+        "workforce impact"
       ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "microsoft-lays-off-nearly-5-000-employees-across-xbox-commercial-sales",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "Microsoft's layoffs raise concerns about AI's impact on jobs, signaling potential pressure on certain roles due to automation or efficiency shifts.",
-      "date": "2026-07-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "effect": "delay",
+      "id": "anthropic-is-launching-claude-cowork-on-mobile-and-web",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Anthropic expanding Claude Cowork to mobile and web increases AI accessibility, potentially boosting productivity and workflow integration across multiple industries.",
+      "date": "2026-07-07",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "workforce changes",
-        "AI adoption concerns",
-        "corporate restructuring"
+        "AI adoption",
+        "productivity tools",
+        "workflow integration"
       ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "sales"
+        "business-and-financial",
+        "office-and-administrative-support"
       ]
     },
     {
-      "id": "india-s-ai-jobs-paradox-second-highest-tech-layoffs-but-ai-hiring-surges-as-skil",
-      "title": "India's AI Jobs Paradox: Second-Highest Tech Layoffs, But AI Hiring Surges As Skills Gap Widens",
-      "summary": "India's AI hiring surge highlights growing demand for AI skills despite tech layoffs, emphasizing the widening skills gap in the workforce.",
-      "date": "2026-07-06",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTd3MlBnZmpfR3Y4S2tOM0JjcDZVZ3dLd3NvbUNpRHhuTngxT2xRNDZZWnd4aXV5dkhnUGtOa0JqNmJoM05zM0pzZmo3V2wzUjhGeFExaXpCUmE4X1M1bGRndkc3TlZJZ2pCbXRGZ1ozdEtGVDdIeDdYVzcwOXV6RDBvWHdoUDhGTm9IZE0yV0VfMURuMW1pSV9EbzlES21jTDBLR0Z1YnBsTWMwZHBkV2x1S3FDWGpVenAyQnhBVFFGWDN5WWF5NmtXelNwVFVTMDlhQUJNQlFkMjFKNWNieNIB5gFBVV95cUxOalVLNHRQOG84N2hKVjk2bDdWbDdWY3FwR3BjdGozYXNodXN1eERINjZTcFN2dWEzdnRmTXRHdWpGYjYwRXRldWtESUFaeHFyUEJOOE1nemx4aGVQQVU4VU5tVW8yMW5kTEZTZzVXbGVVQ1hKUXZ1ZWlfaU9mQTU3c2hja2VtUkJ1Yks3dUw1cWdjUGVJSnNYODF6aWE3Z2dfZXZ2NnVVN25IM3RiZ09tMjd5WnU5ZkctcEw4ajRQRHVxeTI3bFlxdF9WWFZFTU1MWEJiRXEwYTF3bG43Y0NHX2tycDVGZw?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "skills gap",
-        "hiring trends"
-      ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "microsoft-cuts-4-800-jobs-as-ai-automation-fears-escalate",
-      "title": "Microsoft cuts 4,800 jobs as AI automation fears escalate",
-      "summary": "Microsoft's job cuts highlight the growing pressure of AI automation on employment, signaling increased concerns about AI's impact on workforce stability.",
-      "date": "2026-07-06",
-      "source": "The Tech Buzz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzVPVUs4TnBTYzFaV0R3QlhkX3EwbUNRb3NSQXZfZk9haGlQY1RlU0oySjNIRlQ1dmhTMDkyMDZxeGJBLWNGRXlNQTIyYXg1QldiOWIxaURNSGhJRnRYNzVQTTdkdHJQMVB4d3RTdUtuWkdtVUlPTkVoVVFDX1VVRHkxdGRvTjZYNWJtVTc4OWNzUzhZ?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce impact",
-        "automation"
-      ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "you-can-now-customize-siri-s-pace-and-expressivity-in-the-latest-ios-27-beta",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "Improvements to Siri's naturalness and personalization reflect AI advancements that may influence user interaction and productivity tools across industries.",
-      "date": "2026-07-06",
+      "id": "claude-cowork-expands-to-mobile-and-web",
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "Claude Cowork's expansion to mobile and web improves workflow flexibility, suggesting AI tools are becoming more integrated into daily work tasks.",
+      "date": "2026-07-07",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI assistant",
-        "user experience",
+        "AI adoption",
+        "workflow improvement",
         "productivity tools"
       ],
-      "fetchedAt": "2026-07-07T11:01:08.309Z",
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3615,14 +3542,86 @@
         "office-and-administrative-support",
         "_all"
       ]
+    },
+    {
+      "id": "openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+      "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
+      "summary": "OpenAI's global rollout of its most advanced model signals increased AI adoption and capability, potentially affecting various industries and workflows.",
+      "date": "2026-07-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "model-release",
+        "enterprise-adoption",
+        "ai-capability"
+      ],
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "oecd-finds-london-jobs-highly-exposed-to-generative-ai",
+      "title": "OECD Finds London Jobs Highly Exposed to Generative AI",
+      "summary": "The OECD report highlights that London jobs are highly exposed to generative AI, signaling increased pressure for AI adoption and skill adaptation in the region.",
+      "date": "2026-07-07",
+      "source": "Let's Data Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmxRbWdWNkozdHMyWkdnWmVYNnVpbHhsOGVRVnJZT044d2NEQnFrS1Z3WWNiS3dPQjVseUFDMW9fdjVwM2paNFljUnVQRVNKM3hKdncza1JTdDVDV0dNRXNITmt1TWhDSW9kcDhxVkhMWjlvNElYREdsS0RsX2s0cTlJUEpQOXRncENjM1FiR0xCU292bVlZVlFadXU?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce impact",
+        "regional analysis"
+      ],
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ]
+    },
+    {
+      "id": "temasek-assets-break-400-billion-as-ai-bets-boost-returns",
+      "title": "Temasek Assets Break $400 Billion as AI Bets Boost Returns",
+      "summary": "Temasek's increased AI investment signals growing confidence in AI's potential to drive returns, indicating broader adoption and integration of AI in enterprise and financial sectors.",
+      "date": "2026-07-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/temasek-assets-break-400-billion-as-ai-bets-boost-returns",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "enterprise adoption",
+        "financial impact"
+      ],
+      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-07-07T12:00:00.000Z",
+  "generatedAt": "2026-07-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Amid Mixed Signals",
-      "preview": "Delays and advances in AI adoption shape current job market dynamics.",
-      "body": "Recent news shows a mixed impact on AI job replacement pressure, with delays in productivity gains and layoffs at Microsoft offset by increased AI hiring in India and advancements in enterprise tools. Key headlines like 'AI Won’t Bring Back Era of Rapid Growth' and 'India's AI Jobs Paradox' highlight the complex balance between automation concerns and emerging opportunities."
+      "title": "AI Integration Accelerates Across Sectors",
+      "preview": "New AI tools and reports signal rising adoption and economic impact.",
+      "body": "Several major developments show AI integration advancing across industries, including MUFG's use of OpenAI and Claude Cowork's expansion. Reports highlight growing concerns about job exposure and AI's economic influence, while Temasek's success underscores confidence in AI-driven returns. Overall, the trend suggests increased pressure for workforce adaptation."
     }
   }
 }
