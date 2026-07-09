@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:42",
+  "displayTime": "00:00:48",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.697,
+  "exactMinutesToMidnight": -0.806,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.697,
+  "newsAdjustment": -13.806,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.048,
+  "macroReplacementRate": 50.056,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,116 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "mufg-aims-to-become-ai-native-with-openai",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "summary": "MUFG's adoption of ChatGPT Enterprise signals growing AI integration in financial services, impacting workflows and skill demands.",
-      "date": "2026-07-07",
+      "id": "helping-k-12-educators-build-practical-ai-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "Initiatives to train K-12 educators in AI skills signal growing integration of AI into education and workforce preparation.",
+      "date": "2026-07-08",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/mufg",
+      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "financial-services",
-        "AI-native-organization"
+        "education",
+        "AI training",
+        "workforce development"
       ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
-        "business-and-financial",
+        "education-training-and-library",
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "the-download-your-stake-in-openai-and-the-treasury-s-ai-warning",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "summary": "The discussion of AI wealth distribution highlights growing public and policy interest in the economic impact of AI, potentially influencing future regulation and workforce policies.",
-      "date": "2026-07-07",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI economics",
-        "policy",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-is-launching-claude-cowork-on-mobile-and-web",
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "summary": "Anthropic expanding Claude Cowork to mobile and web increases AI accessibility, potentially boosting productivity and workflow integration across multiple industries.",
-      "date": "2026-07-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "workflow integration"
-      ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "office-and-administrative-support"
-      ]
-    },
-    {
-      "id": "claude-cowork-expands-to-mobile-and-web",
-      "title": "Claude Cowork expands to mobile and web",
-      "summary": "Claude Cowork's expansion to mobile and web improves workflow flexibility, suggesting AI tools are becoming more integrated into daily work tasks.",
-      "date": "2026-07-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "workflow improvement",
-        "productivity tools"
-      ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-to-roll-out-top-ai-model-globally-after-limited-preview",
-      "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
-      "summary": "OpenAI's global rollout of its most advanced model signals increased AI adoption and capability, potentially affecting various industries and workflows.",
-      "date": "2026-07-08",
+      "id": "recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+      "title": "Recruiters Shift Focus to Specialized AI Jobs to Stay Relevant",
+      "summary": "Recruiters are shifting focus to specialized AI roles, signaling growing demand for AI-related skills in the job market.",
+      "date": "2026-07-09",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "model-release",
-        "enterprise-adoption",
-        "ai-capability"
+        "AI adoption",
+        "hiring trends",
+        "career transformation"
       ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3568,44 +3496,164 @@
       ]
     },
     {
-      "id": "oecd-finds-london-jobs-highly-exposed-to-generative-ai",
-      "title": "OECD Finds London Jobs Highly Exposed to Generative AI",
-      "summary": "The OECD report highlights that London jobs are highly exposed to generative AI, signaling increased pressure for AI adoption and skill adaptation in the region.",
-      "date": "2026-07-07",
-      "source": "Let's Data Science",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmxRbWdWNkozdHMyWkdnWmVYNnVpbHhsOGVRVnJZT044d2NEQnFrS1Z3WWNiS3dPQjVseUFDMW9fdjVwM2paNFljUnVQRVNKM3hKdncza1JTdDVDV0dNRXNITmt1TWhDSW9kcDhxVkhMWjlvNElYREdsS0RsX2s0cTlJUEpQOXRncENjM1FiR0xCU292bVlZVlFadXU?oc=5",
-      "effect": "advance",
+      "id": "our-approach-to-government-and-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
+      "summary": "OpenAI's approach to government and national security partnerships highlights increased regulatory and ethical scrutiny, which may slow AI adoption in sensitive sectors.",
+      "date": "2026-07-08",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/government-national-security-partnerships",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce impact",
-        "regional analysis"
+        "regulation",
+        "policy",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "management"
+        "legal",
+        "_all"
       ]
     },
     {
-      "id": "temasek-assets-break-400-billion-as-ai-bets-boost-returns",
-      "title": "Temasek Assets Break $400 Billion as AI Bets Boost Returns",
-      "summary": "Temasek's increased AI investment signals growing confidence in AI's potential to drive returns, indicating broader adoption and integration of AI in enterprise and financial sectors.",
+      "id": "chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "summary": "Improved voice mode in ChatGPT enhances AI's ability to interact naturally, signaling progress in AI tools that could affect communication and productivity across multiple industries.",
       "date": "2026-07-08",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/temasek-assets-break-400-billion-as-ai-bets-boost-returns",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "enterprise adoption",
-        "financial impact"
+        "AI tools",
+        "productivity",
+        "workplace adoption"
       ],
-      "fetchedAt": "2026-07-08T11:01:12.830Z",
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-releases-new-voice-models-for-more-natural-live-conversations",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "New voice models from OpenAI improve real-time conversation capabilities, enhancing AI's potential in communication and customer service roles.",
+      "date": "2026-07-08",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "voice technology",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "media-and-communication"
+      ]
+    },
+    {
+      "id": "separating-signal-from-noise-in-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "Issues in a popular coding benchmark highlight challenges in evaluating AI models, potentially slowing adoption and trust in AI tools for software development.",
+      "date": "2026-07-08",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI evaluation",
+        "coding",
+        "benchmarking"
+      ],
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering"
+      ]
+    },
+    {
+      "id": "starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
+      "title": "Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software",
+      "summary": "Starbucks is developing in-house AI tools to replace third-party software, signaling a shift toward internal AI capabilities and reducing reliance on external vendors.",
+      "date": "2026-07-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "software-replacement",
+        "internal-development"
+      ],
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock",
+      "title": "AI Capex Cycle Hasn't Reached Overspend Yet: BlackRock",
+      "summary": "Increased investment in AI suggests growing adoption and pressure across industries, signaling a major shift in workplace dynamics.",
+      "date": "2026-07-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-09/ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "investment",
+        "adoption",
+        "capital"
+      ],
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
+      "title": "Wall Street Banks Miss Multibillion-Dollar AI Deals in Hong Kong",
+      "summary": "Wall Street banks missing out on major AI funding in Hong Kong suggests regulatory or strategic barriers to AI adoption in finance.",
+      "date": "2026-07-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "finance",
+        "regulation"
+      ],
+      "fetchedAt": "2026-07-09T11:06:09.397Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3616,12 +3664,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-07-08T12:00:00.000Z",
+  "generatedAt": "2026-07-09T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Integration Accelerates Across Sectors",
-      "preview": "New AI tools and reports signal rising adoption and economic impact.",
-      "body": "Several major developments show AI integration advancing across industries, including MUFG's use of OpenAI and Claude Cowork's expansion. Reports highlight growing concerns about job exposure and AI's economic influence, while Temasek's success underscores confidence in AI-driven returns. Overall, the trend suggests increased pressure for workforce adaptation."
+      "title": "AI job market shows mixed signals amid tech advancements",
+      "preview": "Advances in AI tools and recruitment trends contrast with regulatory delays.",
+      "body": "Recent news highlights both progress and challenges in AI integration, with advances in voice technology and specialized job demand offset by regulatory concerns and evaluation hurdles. Key developments include OpenAI's educational initiatives and Starbucks' move toward internal AI systems, while regulatory scrutiny and benchmark issues suggest ongoing barriers."
     }
   }
 }

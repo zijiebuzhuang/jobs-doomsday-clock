@@ -1,5 +1,263 @@
 [
   {
+    "date": "2026-07-09",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.806,
+    "macroReplacementRate": 50.056,
+    "newsAdjustment": -13.806,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "helping-k-12-educators-build-practical-ai-skills",
+        "title": "Helping K–12 educators build practical AI skills",
+        "summary": "Initiatives to train K-12 educators in AI skills signal growing integration of AI into education and workforce preparation.",
+        "date": "2026-07-08",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "education",
+          "AI training",
+          "workforce development"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+        "title": "Recruiters Shift Focus to Specialized AI Jobs to Stay Relevant",
+        "summary": "Recruiters are shifting focus to specialized AI roles, signaling growing demand for AI-related skills in the job market.",
+        "date": "2026-07-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "hiring trends",
+          "career transformation"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "our-approach-to-government-and-national-security-partnerships",
+        "title": "Our approach to government and national security partnerships",
+        "summary": "OpenAI's approach to government and national security partnerships highlights increased regulatory and ethical scrutiny, which may slow AI adoption in sensitive sectors.",
+        "date": "2026-07-08",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/government-national-security-partnerships",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up",
+        "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+        "summary": "Improved voice mode in ChatGPT enhances AI's ability to interact naturally, signaling progress in AI tools that could affect communication and productivity across multiple industries.",
+        "date": "2026-07-08",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-releases-new-voice-models-for-more-natural-live-conversations",
+        "title": "OpenAI releases new voice models for more natural live conversations",
+        "summary": "New voice models from OpenAI improve real-time conversation capabilities, enhancing AI's potential in communication and customer service roles.",
+        "date": "2026-07-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "voice technology",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "media-and-communication"
+        ]
+      },
+      {
+        "id": "separating-signal-from-noise-in-coding-evaluations",
+        "title": "Separating signal from noise in coding evaluations",
+        "summary": "Issues in a popular coding benchmark highlight challenges in evaluating AI models, potentially slowing adoption and trust in AI tools for software development.",
+        "date": "2026-07-08",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI evaluation",
+          "coding",
+          "benchmarking"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering"
+        ]
+      },
+      {
+        "id": "starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
+        "title": "Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software",
+        "summary": "Starbucks is developing in-house AI tools to replace third-party software, signaling a shift toward internal AI capabilities and reducing reliance on external vendors.",
+        "date": "2026-07-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-ai",
+          "software-replacement",
+          "internal-development"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock",
+        "title": "AI Capex Cycle Hasn't Reached Overspend Yet: BlackRock",
+        "summary": "Increased investment in AI suggests growing adoption and pressure across industries, signaling a major shift in workplace dynamics.",
+        "date": "2026-07-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-09/ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "investment",
+          "adoption",
+          "capital"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
+        "title": "Wall Street Banks Miss Multibillion-Dollar AI Deals in Hong Kong",
+        "summary": "Wall Street banks missing out on major AI funding in Hong Kong suggests regulatory or strategic barriers to AI adoption in finance.",
+        "date": "2026-07-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "finance",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-09T11:06:09.397Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Helping K–12 educators build practical AI skills.",
+        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Helping K–12 educators build practical AI skills\" (OpenAI), while the clearest drag comes from \"Our approach to government and national security partnerships\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.806 minutes. Updated 2026-07-09T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-08",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.697,
@@ -16868,246 +17126,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Meta is reentering the AI race with a new model called Muse Spark.",
         "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Meta is reentering the AI race with a new model called Muse Spark\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.383 minutes. Updated 2026-04-09T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-08",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.613,
-    "macroReplacementRate": 49.196,
-    "newsAdjustment": -1.387,
-    "categoryAdjustments": {
-      "healthcare": -0.13,
-      "life-physical-and-social-science": -0.149,
-      "architecture-and-engineering": -0.149,
-      "management": -0.187,
-      "business-and-financial": -0.23,
-      "construction-and-extraction": -0.101,
-      "production": -0.134,
-      "installation-maintenance-and-repair": -0.101,
-      "education-training-and-library": -0.089,
-      "office-and-administrative-support": -0.279,
-      "transportation-and-material-moving": -0.128,
-      "personal-care-and-service": -0.118,
-      "sales": -0.128,
-      "media-and-communication": -0.08,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.085,
-      "arts-and-design": -0.08,
-      "entertainment-and-sports": -0.101,
-      "protective-service": -0.114,
-      "food-preparation-and-serving": -0.101,
-      "legal": -0.105,
-      "math": -0.101,
-      "farming-fishing-and-forestry": -0.101,
-      "building-and-grounds-cleaning": -0.101
-    },
-    "newsFeed": [
-      {
-        "id": "gemini-is-making-it-faster-for-distressed-users-to-reach-mental-health-resources",
-        "title": "Gemini is making it faster for distressed users to reach mental health resources",
-        "summary": "The update to Gemini to provide mental health resources during crises highlights growing concerns about AI's ethical and safety implications, potentially slowing AI job replacement efforts due to increased regulatory scrutiny.",
-        "date": "2026-04-07",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "safety concerns",
-          "regulatory impact"
-        ],
-        "fetchedAt": "2026-04-08T00:00:43.615Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "community-and-social-service",
-          "computer-and-information-technology",
-          "legal"
-        ],
-        "occupationIDs": [
-          "social-workers",
-          "rehabilitation-counselors",
-          "substance-abuse-behavioral-disorder-and-mental-health-counselors",
-          "community-health-workers",
-          "school-and-career-counselors"
-        ]
-      },
-      {
-        "id": "a-new-anthropic-model-found-security-problems-8216-in-every-major-operating-syst",
-        "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-        "summary": "AI's ability to identify security vulnerabilities with minimal human intervention could accelerate automation in cybersecurity roles, potentially replacing some human jobs.",
-        "date": "2026-04-07",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "cybersecurity",
-          "ai-development",
-          "automation"
-        ],
-        "fetchedAt": "2026-04-08T00:00:41.906Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "information-security-analysts",
-          "network-and-computer-systems-administrators",
-          "software-developers",
-          "computer-support-specialists",
-          "database-administrators"
-        ]
-      },
-      {
-        "id": "google-maps-can-now-write-captions-for-your-photos-using-ai",
-        "title": "Google Maps can now write captions for your photos using AI",
-        "summary": "AI's ability to generate captions for photos may contribute to automation in content creation and media roles, potentially affecting jobs in media and communication.",
-        "date": "2026-04-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-        "effect": "advance",
-        "impactScore": 2,
-        "tags": [
-          "AI capabilities",
-          "content creation",
-          "automation"
-        ],
-        "fetchedAt": "2026-04-08T00:00:40.408Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "photographers",
-          "technical-writers",
-          "editors",
-          "writers-and-authors",
-          "public-relations-specialists"
-        ]
-      },
-      {
-        "id": "anthropic-ups-compute-deal-with-google-and-broadcom-amid-skyrocketing-demand",
-        "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-        "summary": "Increased compute deals suggest growing AI capabilities, potentially accelerating AI's role in job replacement across multiple industries.",
-        "date": "2026-04-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "compute infrastructure",
-          "business growth"
-        ],
-        "fetchedAt": "2026-04-08T00:00:38.846Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ],
-        "occupationIDs": [
-          "computer-and-information-systems-managers",
-          "software-developers",
-          "data-scientists",
-          "network-and-computer-systems-administrators",
-          "database-administrators"
-        ]
-      },
-      {
-        "id": "anthropic-debuts-preview-of-powerful-new-ai-model-mythos-in-new-cybersecurity-in",
-        "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-        "summary": "The introduction of a new AI model for cybersecurity work signals AI's growing role in job functions that require technical expertise, potentially accelerating AI's impact on certain roles.",
-        "date": "2026-04-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "cybersecurity",
-          "AI development",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-08T00:00:37.499Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "protective-service"
-        ],
-        "occupationIDs": [
-          "information-security-analysts",
-          "network-and-computer-systems-administrators",
-          "software-developers",
-          "computer-systems-analysts",
-          "computer-network-architects"
-        ]
-      },
-      {
-        "id": "ai-job-replacement-fear-why-ai-creates-new-work-pakistan-today",
-        "title": "AI Job Replacement Fear: Why AI Creates New Work - Pakistan Today",
-        "summary": "The article suggests that AI creates new jobs, which may delay concerns about AI replacing human jobs.",
-        "date": "2026-04-07",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNm5uWlRUOU04N1h2X3hqNGlQMFlXUEQ2bjBKWVpGcVFucUNyeGFpcEd4YXgxOHJKeVA3TzMwM1BGQk5KNWdMM0EydG9hdW9mZ2oyMlp5NDhSMWZDc2FWYjZUM1YxMFl2NWpkSTlEazhvcEpHSnpORnA4M2VvS1Z1T0JaVXFtWGI1THRVbkxIUjRuQQ?oc=5",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI job creation",
-          "labor market"
-        ],
-        "fetchedAt": "2026-04-08T00:00:35.776Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "what-jobs-will-ai-replace-snhu-edu",
-        "title": "What Jobs Will AI Replace? - snhu.edu",
-        "summary": "The article raises awareness about AI's potential to replace jobs but does not provide specific insights or developments that would accelerate or delay the process significantly.",
-        "date": "2026-02-13",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jOFFkLVhGdFd3aUZ1dDBhOFlyVGtFUGVBUXQ0OEM2eUhJTlVwQVJWQjFoTHZyaW1URWhaSUlQX1pWLWptakVXenpDOFlRUmxVVUxPbUd1RUF1U1Q3Z2tNbGhiNnJ0amZxbW9UT01kRkRsLU5mdjhCblFrOA?oc=5",
-        "effect": "delay",
-        "impactScore": 2,
-        "tags": [
-          "AI impact",
-          "job replacement",
-          "awareness"
-        ],
-        "fetchedAt": "2026-04-08T00:00:34.277Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by A new Anthropic model found security problems ‘in every major operating system and web browser’.",
-        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"A new Anthropic model found security problems ‘in every major operating system and web browser’\" (The Verge - AI), while the clearest drag comes from \"Gemini is making it faster for distressed users to reach mental health resources\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.387 minutes. Updated 2026-04-08T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
