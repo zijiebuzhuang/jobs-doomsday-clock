@@ -1,5 +1,173 @@
 [
   {
+    "id": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "summary": "Deutsche Telekom's integration of AI into customer service, workflows, and network operations shows AI adoption accelerating in the telecommunications industry.",
+    "date": "2026-07-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/deutsche-telekom",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "telecom industry",
+      "workflow transformation"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-chatgpt-browser-is-already-dead",
+    "title": "The ChatGPT browser is already dead",
+    "summary": "The shutdown of OpenAI's ChatGPT Atlas highlights challenges in AI adoption and the need for more focused productivity tools, signaling potential delays in AI-driven workflow automation.",
+    "date": "2026-07-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI product lifecycle",
+      "productivity tools",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness",
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "summary": "A key leader in OpenAI's AGI efforts steps down due to health issues, potentially slowing progress in advanced AI development.",
+    "date": "2026-07-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "leadership change",
+      "AGI development",
+      "health and work"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "china-omits-job-goal-for-first-time-in-decades-as-ai-spreads",
+    "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
+    "summary": "China's decision to omit job creation targets reflects growing concerns about AI's impact on employment and economic planning.",
+    "date": "2026-07-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "labor",
+      "adoption"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "sovereign-ai-may-mean-state-backed-models-and-political-tensions",
+    "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
+    "summary": "State-backed AI development may increase political and economic competition, influencing global AI adoption and workforce dynamics.",
+    "date": "2026-07-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "geopolitics"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breaku",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "Microsoft's continued reliance on OpenAI's models signals ongoing AI integration into workplace productivity tools, increasing AI's influence on work processes.",
+    "date": "2026-07-10",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise adoption",
+      "AI tools",
+      "workplace integration"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "summary": "OpenAI's shift from a standalone AI browser to integrated tools shows continued development of AI-driven productivity features.",
+    "date": "2026-07-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workplace integration"
+    ],
+    "fetchedAt": "2026-07-10T11:01:02.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
     "id": "helping-k-12-educators-build-practical-ai-skills",
     "title": "Helping K–12 educators build practical AI skills",
     "summary": "Initiatives to train K-12 educators in AI skills signal growing integration of AI into education and workforce preparation.",
@@ -13119,37 +13287,5 @@
       "database-administrators",
       "network-and-computer-systems-administrators"
     ]
-  },
-  {
-    "id": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-    "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-    "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and interactive analysis, potentially impacting jobs in technical and design fields.",
-    "date": "2026-04-09",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI capabilities",
-      "interactive simulations",
-      "technical automation"
-    ],
-    "fetchedAt": "2026-04-11T00:00:36.604Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "architecture-and-engineering",
-      "computer-and-information-technology",
-      "math"
-    ],
-    "occupationIDs": [
-      "drafters",
-      "architects",
-      "civil-engineers",
-      "industrial-engineers",
-      "computer-hardware-engineers"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]

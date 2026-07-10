@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:48",
+  "displayTime": "00:00:59",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.806,
+  "exactMinutesToMidnight": -0.984,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.806,
+  "newsAdjustment": -13.984,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.056,
+  "macroReplacementRate": 50.068,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,167 +3448,24 @@
   ],
   "newsFeed": [
     {
-      "id": "helping-k-12-educators-build-practical-ai-skills",
-      "title": "Helping K–12 educators build practical AI skills",
-      "summary": "Initiatives to train K-12 educators in AI skills signal growing integration of AI into education and workforce preparation.",
-      "date": "2026-07-08",
+      "id": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "Deutsche Telekom's integration of AI into customer service, workflows, and network operations shows AI adoption accelerating in the telecommunications industry.",
+      "date": "2026-07-10",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/k-12-educators-practical-skills",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "education",
-        "AI training",
-        "workforce development"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
-      "title": "Recruiters Shift Focus to Specialized AI Jobs to Stay Relevant",
-      "summary": "Recruiters are shifting focus to specialized AI roles, signaling growing demand for AI-related skills in the job market.",
-      "date": "2026-07-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/recruiters-shift-focus-to-specialized-ai-jobs-to-stay-relevant",
+      "sourceUrl": "https://openai.com/index/deutsche-telekom",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "hiring trends",
-        "career transformation"
+        "enterprise AI",
+        "telecom industry",
+        "workflow transformation"
       ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "our-approach-to-government-and-national-security-partnerships",
-      "title": "Our approach to government and national security partnerships",
-      "summary": "OpenAI's approach to government and national security partnerships highlights increased regulatory and ethical scrutiny, which may slow AI adoption in sensitive sectors.",
-      "date": "2026-07-08",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/government-national-security-partnerships",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "chatgpt-s-upgraded-voice-mode-is-better-at-shutting-up",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "summary": "Improved voice mode in ChatGPT enhances AI's ability to interact naturally, signaling progress in AI tools that could affect communication and productivity across multiple industries.",
-      "date": "2026-07-08",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-voice-upgrade.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-releases-new-voice-models-for-more-natural-live-conversations",
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "summary": "New voice models from OpenAI improve real-time conversation capabilities, enhancing AI's potential in communication and customer service roles.",
-      "date": "2026-07-08",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "voice technology",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "media-and-communication"
-      ]
-    },
-    {
-      "id": "separating-signal-from-noise-in-coding-evaluations",
-      "title": "Separating signal from noise in coding evaluations",
-      "summary": "Issues in a popular coding benchmark highlight challenges in evaluating AI models, potentially slowing adoption and trust in AI tools for software development.",
-      "date": "2026-07-08",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI evaluation",
-        "coding",
-        "benchmarking"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering"
-      ]
-    },
-    {
-      "id": "starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
-      "title": "Starbucks Taps AI to Reduce Reliance on Microsoft, IBM Software",
-      "summary": "Starbucks is developing in-house AI tools to replace third-party software, signaling a shift toward internal AI capabilities and reducing reliance on external vendors.",
-      "date": "2026-07-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-ai",
-        "software-replacement",
-        "internal-development"
-      ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
@@ -3616,60 +3473,155 @@
       ]
     },
     {
-      "id": "ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock",
-      "title": "AI Capex Cycle Hasn't Reached Overspend Yet: BlackRock",
-      "summary": "Increased investment in AI suggests growing adoption and pressure across industries, signaling a major shift in workplace dynamics.",
-      "date": "2026-07-09",
+      "id": "china-omits-job-goal-for-first-time-in-decades-as-ai-spreads",
+      "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
+      "summary": "China's decision to omit job creation targets reflects growing concerns about AI's impact on employment and economic planning.",
+      "date": "2026-07-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-09/ai-capex-cycle-hasn-t-reached-overspend-yet-blackrock-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "investment",
-        "adoption",
-        "capital"
+        "policy",
+        "labor",
+        "adoption"
       ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
-      "title": "Wall Street Banks Miss Multibillion-Dollar AI Deals in Hong Kong",
-      "summary": "Wall Street banks missing out on major AI funding in Hong Kong suggests regulatory or strategic barriers to AI adoption in finance.",
-      "date": "2026-07-09",
+      "id": "sovereign-ai-may-mean-state-backed-models-and-political-tensions",
+      "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
+      "summary": "State-backed AI development may increase political and economic competition, influencing global AI adoption and workforce dynamics.",
+      "date": "2026-07-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/wall-street-banks-miss-multibillion-dollar-ai-deals-in-hong-kong",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "finance",
-        "regulation"
+        "policy",
+        "regulation",
+        "geopolitics"
       ],
-      "fetchedAt": "2026-07-09T11:06:09.397Z",
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "the-chatgpt-browser-is-already-dead",
+      "title": "The ChatGPT browser is already dead",
+      "summary": "The shutdown of OpenAI's ChatGPT Atlas highlights challenges in AI adoption and the need for more focused productivity tools, signaling potential delays in AI-driven workflow automation.",
+      "date": "2026-07-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI product lifecycle",
+        "productivity tools",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breaku",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "summary": "Microsoft's continued reliance on OpenAI's models signals ongoing AI integration into workplace productivity tools, increasing AI's influence on work processes.",
+      "date": "2026-07-10",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise adoption",
+        "AI tools",
+        "workplace integration"
+      ],
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness",
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "summary": "A key leader in OpenAI's AGI efforts steps down due to health issues, potentially slowing progress in advanced AI development.",
+      "date": "2026-07-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "leadership change",
+        "AGI development",
+        "health and work"
+      ],
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "summary": "OpenAI's shift from a standalone AI browser to integrated tools shows continued development of AI-driven productivity features.",
+      "date": "2026-07-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "workplace integration"
+      ],
+      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-09T12:00:00.000Z",
+  "generatedAt": "2026-07-10T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job market shows mixed signals amid tech advancements",
-      "preview": "Advances in AI tools and recruitment trends contrast with regulatory delays.",
-      "body": "Recent news highlights both progress and challenges in AI integration, with advances in voice technology and specialized job demand offset by regulatory concerns and evaluation hurdles. Key developments include OpenAI's educational initiatives and Starbucks' move toward internal AI systems, while regulatory scrutiny and benchmark issues suggest ongoing barriers."
+      "title": "AI adoption accelerates despite some project setbacks",
+      "preview": "Positive AI progress contrasts with some delays in product development.",
+      "body": "Several major advances in AI integration were reported, including Deutsche Telekom's AI-driven telecom upgrades and Microsoft's continued reliance on OpenAI models. However, the shutdown of OpenAI's ChatGPT Atlas and a leadership change at OpenAI suggest potential bottlenecks. Overall, the trend remains forward-leaning but with some friction."
     }
   }
 }

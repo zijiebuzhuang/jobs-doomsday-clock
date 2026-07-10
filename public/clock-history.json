@@ -1,5 +1,215 @@
 [
   {
+    "date": "2026-07-10",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.984,
+    "macroReplacementRate": 50.068,
+    "newsAdjustment": -13.984,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "summary": "Deutsche Telekom's integration of AI into customer service, workflows, and network operations shows AI adoption accelerating in the telecommunications industry.",
+        "date": "2026-07-10",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/deutsche-telekom",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "telecom industry",
+          "workflow transformation"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "china-omits-job-goal-for-first-time-in-decades-as-ai-spreads",
+        "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
+        "summary": "China's decision to omit job creation targets reflects growing concerns about AI's impact on employment and economic planning.",
+        "date": "2026-07-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "labor",
+          "adoption"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "sovereign-ai-may-mean-state-backed-models-and-political-tensions",
+        "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
+        "summary": "State-backed AI development may increase political and economic competition, influencing global AI adoption and workforce dynamics.",
+        "date": "2026-07-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "geopolitics"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "the-chatgpt-browser-is-already-dead",
+        "title": "The ChatGPT browser is already dead",
+        "summary": "The shutdown of OpenAI's ChatGPT Atlas highlights challenges in AI adoption and the need for more focused productivity tools, signaling potential delays in AI-driven workflow automation.",
+        "date": "2026-07-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI product lifecycle",
+          "productivity tools",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breaku",
+        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "summary": "Microsoft's continued reliance on OpenAI's models signals ongoing AI integration into workplace productivity tools, increasing AI's influence on work processes.",
+        "date": "2026-07-10",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise adoption",
+          "AI tools",
+          "workplace integration"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness",
+        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+        "summary": "A key leader in OpenAI's AGI efforts steps down due to health issues, potentially slowing progress in advanced AI development.",
+        "date": "2026-07-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "leadership change",
+          "AGI development",
+          "health and work"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "summary": "OpenAI's shift from a standalone AI browser to integrated tools shows continued development of AI-driven productivity features.",
+        "date": "2026-07-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "workplace integration"
+        ],
+        "fetchedAt": "2026-07-10T11:01:02.471Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How Deutsche Telekom is rewiring telecommunications with AI.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How Deutsche Telekom is rewiring telecommunications with AI\" (OpenAI), while the clearest drag comes from \"The ChatGPT browser is already dead\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.984 minutes. Updated 2026-07-10T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-09",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.806,
@@ -17053,79 +17263,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Top 20 Predictions from Experts on AI Job Loss - AIMultiple.",
         "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Top 20 Predictions from Experts on AI Job Loss - AIMultiple\" (AI Jobs), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.335 minutes. Updated 2026-04-10T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-09",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.617,
-    "macroReplacementRate": 49.196,
-    "newsAdjustment": -1.383,
-    "categoryAdjustments": {
-      "healthcare": -0.103,
-      "life-physical-and-social-science": -0.121,
-      "architecture-and-engineering": -0.144,
-      "management": -0.162,
-      "business-and-financial": -0.203,
-      "construction-and-extraction": -0.074,
-      "production": -0.106,
-      "installation-maintenance-and-repair": -0.074,
-      "education-training-and-library": -0.063,
-      "office-and-administrative-support": -0.251,
-      "transportation-and-material-moving": -0.1,
-      "personal-care-and-service": -0.091,
-      "sales": -0.1,
-      "media-and-communication": -0.052,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.059,
-      "arts-and-design": -0.052,
-      "entertainment-and-sports": -0.074,
-      "protective-service": -0.087,
-      "food-preparation-and-serving": -0.074,
-      "legal": -0.079,
-      "math": -0.097,
-      "farming-fishing-and-forestry": -0.074,
-      "building-and-grounds-cleaning": -0.074
-    },
-    "newsFeed": [
-      {
-        "id": "meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark",
-        "title": "Meta is reentering the AI race with a new model called Muse Spark",
-        "summary": "Meta's new AI model Muse Spark is expanding across major platforms, accelerating AI integration and potential job replacement in tech and related fields.",
-        "date": "2026-04-08",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI development",
-          "job displacement",
-          "tech integration"
-        ],
-        "fetchedAt": "2026-04-09T00:00:40.789Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "database-administrators",
-          "information-security-analysts",
-          "web-developers"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Meta is reentering the AI race with a new model called Muse Spark.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Meta is reentering the AI race with a new model called Muse Spark\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.383 minutes. Updated 2026-04-09T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
