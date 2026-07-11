@@ -1,5 +1,213 @@
 [
   {
+    "date": "2026-07-11",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.727,
+    "macroReplacementRate": 50.05,
+    "newsAdjustment": -13.727,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
+        "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+        "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
+        "date": "2026-07-10",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI research",
+          "model transparency",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-sues-openai-for-trade-secret-theft",
+        "title": "Apple Sues OpenAI for Trade Secret Theft",
+        "summary": "Legal disputes over AI development may slow adoption and create regulatory friction in the tech and enterprise sectors.",
+        "date": "2026-07-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "legal",
+          "regulation",
+          "AI development"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-sues-openai-for-trade-secret-theft-in-pivotal-case",
+        "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+        "summary": "A legal battle between Apple and OpenAI over trade secrets may slow AI adoption and raise concerns about intellectual property in the tech industry.",
+        "date": "2026-07-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "enterprise"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+        "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+        "summary": "A key safety leader leaving OpenAI may signal increased regulatory or internal friction in AI development and deployment.",
+        "date": "2026-07-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "leadership"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+        "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+        "summary": "Easing export restrictions on the UAE will accelerate its access to advanced AI chips, boosting its AI capabilities and potentially increasing global competition in AI development.",
+        "date": "2026-07-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "regulation",
+          "technology access"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-sues-openai-for-allegedly-stealing-hardware-secrets",
+        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+        "summary": "Legal disputes over AI hardware secrets may slow down innovation and collaboration in the AI industry.",
+        "date": "2026-07-10",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "legal",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-",
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "summary": "Meta disabling an AI deepfake feature on Instagram reflects growing concerns over AI misuse, potentially slowing adoption of AI tools in creative and social media workflows.",
+        "date": "2026-07-10",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "deepfakes",
+          "workplace ethics"
+        ],
+        "fetchedAt": "2026-07-11T11:00:50.546Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Apple Sues OpenAI for Trade Secret Theft.",
+        "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"US Eases Export Curbs on UAE, Opening Door for AI Chip Sales\" (Bloomberg Technology), while the clearest drag comes from \"Apple Sues OpenAI for Trade Secret Theft\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.727 minutes. Updated 2026-07-11T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-07-10",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.984,
@@ -17159,110 +17367,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Google’s Gemini AI can answer your questions with 3D models and simulations.",
         "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.448 minutes. Updated 2026-04-11T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-10",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.665,
-    "macroReplacementRate": 49.192,
-    "newsAdjustment": -1.335,
-    "categoryAdjustments": {
-      "healthcare": -0.088,
-      "life-physical-and-social-science": -0.106,
-      "architecture-and-engineering": -0.129,
-      "management": -0.148,
-      "business-and-financial": -0.189,
-      "construction-and-extraction": -0.059,
-      "production": -0.092,
-      "installation-maintenance-and-repair": -0.059,
-      "education-training-and-library": -0.048,
-      "office-and-administrative-support": -0.235,
-      "transportation-and-material-moving": -0.085,
-      "personal-care-and-service": -0.076,
-      "sales": -0.085,
-      "media-and-communication": -0.038,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.045,
-      "arts-and-design": -0.038,
-      "entertainment-and-sports": -0.059,
-      "protective-service": -0.072,
-      "food-preparation-and-serving": -0.059,
-      "legal": -0.065,
-      "math": -0.082,
-      "farming-fishing-and-forestry": -0.059,
-      "building-and-grounds-cleaning": -0.059
-    },
-    "newsFeed": [
-      {
-        "id": "gemini-gets-notebooks-to-help-you-organize-projects",
-        "title": "Gemini gets notebooks to help you organize projects",
-        "summary": "The introduction of notebooks in Gemini enhances AI's ability to organize and manage project-related information, potentially increasing efficiency and reducing the need for human coordination in certain tasks.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "productivity tools",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-10T00:00:45.576Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "occupationIDs": [
-          "project-management-specialists",
-          "administrative-services-managers",
-          "software-developers",
-          "computer-systems-analysts",
-          "database-administrators"
-        ]
-      },
-      {
-        "id": "top-20-predictions-from-experts-on-ai-job-loss-aimultiple",
-        "title": "Top 20 Predictions from Experts on AI Job Loss - AIMultiple",
-        "summary": "The article highlights expert predictions about AI job loss, indicating growing concerns about AI's impact on employment.",
-        "date": "2026-04-06",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI job displacement",
-          "expert predictions",
-          "labor market"
-        ],
-        "fetchedAt": "2026-04-10T00:00:34.917Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 58,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "management-analysts",
-          "project-management-specialists",
-          "computer-systems-analysts",
-          "software-developers"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Top 20 Predictions from Experts on AI Job Loss - AIMultiple.",
-        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Top 20 Predictions from Experts on AI Job Loss - AIMultiple\" (AI Jobs), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.335 minutes. Updated 2026-04-10T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

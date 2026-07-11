@@ -1,5 +1,171 @@
 [
   {
+    "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
+    "date": "2026-07-10",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI research",
+      "model transparency",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-sues-openai-for-allegedly-stealing-hardware-secrets",
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "summary": "Legal disputes over AI hardware secrets may slow down innovation and collaboration in the AI industry.",
+    "date": "2026-07-10",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "legal",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-",
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "summary": "Meta disabling an AI deepfake feature on Instagram reflects growing concerns over AI misuse, potentially slowing adoption of AI tools in creative and social media workflows.",
+    "date": "2026-07-10",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "deepfakes",
+      "workplace ethics"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+    "summary": "A key safety leader leaving OpenAI may signal increased regulatory or internal friction in AI development and deployment.",
+    "date": "2026-07-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "leadership"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-sues-openai-for-trade-secret-theft",
+    "title": "Apple Sues OpenAI for Trade Secret Theft",
+    "summary": "Legal disputes over AI development may slow adoption and create regulatory friction in the tech and enterprise sectors.",
+    "date": "2026-07-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "legal",
+      "regulation",
+      "AI development"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-sues-openai-for-trade-secret-theft-in-pivotal-case",
+    "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+    "summary": "A legal battle between Apple and OpenAI over trade secrets may slow AI adoption and raise concerns about intellectual property in the tech industry.",
+    "date": "2026-07-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+    "summary": "Easing export restrictions on the UAE will accelerate its access to advanced AI chips, boosting its AI capabilities and potentially increasing global competition in AI development.",
+    "date": "2026-07-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "regulation",
+      "technology access"
+    ],
+    "fetchedAt": "2026-07-11T11:00:50.546Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "summary": "Deutsche Telekom's integration of AI into customer service, workflows, and network operations shows AI adoption accelerating in the telecommunications industry.",
@@ -13098,194 +13264,6 @@
       "computer-systems-analysts",
       "data-scientists",
       "information-security-analysts"
-    ]
-  },
-  {
-    "id": "your-article-about-ai-doesn-t-need-ai-art",
-    "title": "Your article about AI doesn’t need AI art",
-    "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
-    "date": "2026-04-11",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI art",
-      "creative industries",
-      "job replacement"
-    ],
-    "fetchedAt": "2026-04-12T10:12:30.157Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "arts-and-design",
-      "media-and-communication",
-      "_all"
-    ],
-    "occupationIDs": [
-      "graphic-designers",
-      "multimedia-artists-and-animators",
-      "set-and-exhibit-designers",
-      "art-directors"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "florida-launches-investigation-into-openai",
-    "title": "Florida launches investigation into OpenAI",
-    "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-    "date": "2026-04-09",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "ai-ethics",
-      "policy"
-    ],
-    "fetchedAt": "2026-04-12T10:12:32.960Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "information-security-analysts",
-      "database-administrators",
-      "network-and-computer-systems-administrators"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
-    "title": "ChatGPT has a new $100 per month Pro subscription",
-    "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
-    "date": "2026-04-09",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "coding",
-      "subscription model"
-    ],
-    "fetchedAt": "2026-04-12T10:12:32.172Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "web-developers",
-      "computer-programmers",
-      "database-administrators",
-      "information-security-analysts"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "summary": "This news highlights potential risks of AI systems, which may slow public and regulatory acceptance of AI in sensitive roles, potentially delaying AI job replacement efforts.",
-    "date": "2026-04-10",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "AI accountability",
-      "legal implications"
-    ],
-    "fetchedAt": "2026-04-12T10:12:26.060Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "community-and-social-service",
-      "_all"
-    ],
-    "occupationIDs": [
-      "social-workers",
-      "probation-officers-and-correctional-treatment-specialists",
-      "community-health-workers",
-      "rehabilitation-counselors",
-      "substance-abuse-behavioral-disorder-and-mental-health-counselors"
-    ]
-  },
-  {
-    "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
-    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-    "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
-    "date": "2026-04-09",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI ethics",
-      "cybersecurity",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-12T10:12:28.474Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "protective-service",
-      "_all"
-    ],
-    "occupationIDs": [
-      "information-security-analysts",
-      "network-and-computer-systems-administrators",
-      "software-developers",
-      "computer-support-specialists",
-      "computer-network-architects"
-    ]
-  },
-  {
-    "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "summary": "This news could slow AI job replacement efforts due to increased scrutiny and legal risks associated with AI use.",
-    "date": "2026-04-09",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI regulation",
-      "legal liability",
-      "AI ethics"
-    ],
-    "fetchedAt": "2026-04-12T10:12:27.637Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "information-security-analysts",
-      "database-administrators",
-      "network-and-computer-systems-administrators"
     ]
   }
 ]

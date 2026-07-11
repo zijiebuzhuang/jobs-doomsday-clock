@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:59",
+  "displayTime": "00:00:44",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.984,
+  "exactMinutesToMidnight": -0.727,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.984,
+  "newsAdjustment": -13.727,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.068,
+  "macroReplacementRate": 50.05,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,180 +3448,178 @@
   ],
   "newsFeed": [
     {
-      "id": "how-deutsche-telekom-is-rewiring-telecommunications-with-ai",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary": "Deutsche Telekom's integration of AI into customer service, workflows, and network operations shows AI adoption accelerating in the telecommunications industry.",
+      "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
       "date": "2026-07-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/deutsche-telekom",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI research",
+        "model transparency",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "apple-sues-openai-for-trade-secret-theft",
+      "title": "Apple Sues OpenAI for Trade Secret Theft",
+      "summary": "Legal disputes over AI development may slow adoption and create regulatory friction in the tech and enterprise sectors.",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "legal",
+        "regulation",
+        "AI development"
+      ],
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "apple-sues-openai-for-trade-secret-theft-in-pivotal-case",
+      "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+      "summary": "A legal battle between Apple and OpenAI over trade secrets may slow AI adoption and raise concerns about intellectual property in the tech industry.",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "legal",
+        "enterprise"
+      ],
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+      "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+      "summary": "A key safety leader leaving OpenAI may signal increased regulatory or internal friction in AI development and deployment.",
+      "date": "2026-07-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "leadership"
+      ],
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+      "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+      "summary": "Easing export restrictions on the UAE will accelerate its access to advanced AI chips, boosting its AI capabilities and potentially increasing global competition in AI development.",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "enterprise AI",
-        "telecom industry",
-        "workflow transformation"
+        "regulation",
+        "technology access"
       ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "china-omits-job-goal-for-first-time-in-decades-as-ai-spreads",
-      "title": "China Omits Job Goal for First Time in Decades as AI Spreads",
-      "summary": "China's decision to omit job creation targets reflects growing concerns about AI's impact on employment and economic planning.",
+      "id": "apple-sues-openai-for-allegedly-stealing-hardware-secrets",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "Legal disputes over AI hardware secrets may slow down innovation and collaboration in the AI industry.",
       "date": "2026-07-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/china-omits-job-goal-in-five-year-plan-for-first-time-in-decades",
-      "effect": "advance",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "policy",
-        "labor",
-        "adoption"
-      ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "sovereign-ai-may-mean-state-backed-models-and-political-tensions",
-      "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
-      "summary": "State-backed AI development may increase political and economic competition, influencing global AI adoption and workforce dynamics.",
-      "date": "2026-07-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
+        "legal",
         "regulation",
-        "geopolitics"
-      ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "the-chatgpt-browser-is-already-dead",
-      "title": "The ChatGPT browser is already dead",
-      "summary": "The shutdown of OpenAI's ChatGPT Atlas highlights challenges in AI adoption and the need for more focused productivity tools, signaling potential delays in AI-driven workflow automation.",
-      "date": "2026-07-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI product lifecycle",
-        "productivity tools",
         "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "architecture-and-engineering",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-amid-breaku",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "summary": "Microsoft's continued reliance on OpenAI's models signals ongoing AI integration into workplace productivity tools, increasing AI's influence on work processes.",
+      "id": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Meta disabling an AI deepfake feature on Instagram reflects growing concerns over AI misuse, potentially slowing adoption of AI tools in creative and social media workflows.",
       "date": "2026-07-10",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise adoption",
-        "AI tools",
-        "workplace integration"
-      ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "fidji-simo-steps-down-from-leading-openai-s-agi-work-due-to-illness",
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "summary": "A key leader in OpenAI's AGI efforts steps down due to health issues, potentially slowing progress in advanced AI development.",
-      "date": "2026-07-09",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "leadership change",
-        "AGI development",
-        "health and work"
+        "AI regulation",
+        "deepfakes",
+        "workplace ethics"
       ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
+      "fetchedAt": "2026-07-11T11:00:50.546Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-1239232101.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "summary": "OpenAI's shift from a standalone AI browser to integrated tools shows continued development of AI-driven productivity features.",
-      "date": "2026-07-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "workplace integration"
-      ],
-      "fetchedAt": "2026-07-10T11:01:02.471Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-07-10T12:00:00.000Z",
+  "generatedAt": "2026-07-11T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates despite some project setbacks",
-      "preview": "Positive AI progress contrasts with some delays in product development.",
-      "body": "Several major advances in AI integration were reported, including Deutsche Telekom's AI-driven telecom upgrades and Microsoft's continued reliance on OpenAI models. However, the shutdown of OpenAI's ChatGPT Atlas and a leadership change at OpenAI suggest potential bottlenecks. Overall, the trend remains forward-leaning but with some friction."
+      "title": "Legal disputes and regulatory shifts shape AI job dynamics",
+      "preview": "Lawsuits and policy changes impact AI adoption and development.",
+      "body": "Recent legal battles, including Apple's suit against OpenAI, and the departure of a key safety leader at OpenAI suggest increased regulatory and operational friction. Meanwhile, easing export restrictions on AI chips may accelerate global AI growth. Overall, the mix of delays and advances reflects a cautious but evolving landscape."
     }
   }
 }
