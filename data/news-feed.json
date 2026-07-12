@@ -1,5 +1,245 @@
 [
   {
+    "id": "anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "summary": "Anthropic's development of the Jacobian lens provides deeper insight into how large language models operate, advancing AI transparency and potentially influencing AI tool development and integration in work processes.",
+    "date": "2026-07-09",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI research",
+      "model transparency",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
+    "title": "Google will now tell you if an ad was made with AI",
+    "summary": "Google's AI ad labeling initiative increases transparency and accountability in AI-generated advertising, signaling broader adoption of AI in marketing and digital workflows.",
+    "date": "2026-07-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "transparency",
+      "advertising",
+      "AI regulation"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+    "summary": "A Chinese AI founder advocates for open access to frontier AI, influencing the direction of AI development and accessibility.",
+    "date": "2026-07-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI policy",
+      "open-source",
+      "AI ethics"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "OpenAI's focus on family-oriented AI experiences signals growing integration of AI into personal and caregiving roles, potentially influencing future workforce needs in healthcare and support services.",
+    "date": "2026-07-11",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workforce development",
+      "product design"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "healthcare",
+      "personal-care-and-service",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-sues-openai-over-ai-talent-fight",
+    "title": "Apple Sues OpenAI Over AI Talent Fight",
+    "summary": "Apple's lawsuit against OpenAI highlights the growing competition for AI talent and hardware, signaling increased pressure in AI development and workforce dynamics.",
+    "date": "2026-07-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "talent competition",
+      "intellectual property",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+    "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
+    "summary": "A high-profile engineer moving from Apple to OpenAI highlights growing competition in AI hardware development and signals increased pressure on tech companies to invest in AI capabilities.",
+    "date": "2026-07-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI talent competition",
+      "AI hardware",
+      "industry adoption"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-head-of-safety-is-leaving-the-company",
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "summary": "OpenAI's leadership change in safety could signal increased focus on regulatory and ethical considerations, potentially slowing AI deployment.",
+    "date": "2026-07-11",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "leadership"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "summary": "Legal disputes over AI company intellectual property may slow down collaboration and talent movement in the tech industry.",
+    "date": "2026-07-10",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "legal",
+      "regulation",
+      "talent"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-sues-openai-over-alleged-trade-secret-theft",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "Legal disputes between major tech companies may slow AI adoption or increase regulatory scrutiny.",
+    "date": "2026-07-10",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "legal",
+      "regulation",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-launches-its-new-family-of-models-with-gpt-5-6",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "OpenAI's new model family with enhanced cybersecurity features signals growing AI capabilities that could impact IT and security roles.",
+    "date": "2026-07-09",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "model-release",
+      "cybersecurity",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-07-12T11:01:57.741Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
     "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
@@ -13203,67 +13443,6 @@
       "computer-and-information-technology",
       "management",
       "_all"
-    ]
-  },
-  {
-    "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
-    "title": "At the HumanX conference, everyone was talking about Claude",
-    "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
-    "date": "2026-04-12",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "conference",
-      "technology adoption"
-    ],
-    "fetchedAt": "2026-04-13T00:00:41.622Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "data-scientists",
-      "information-security-analysts",
-      "web-developers"
-    ]
-  },
-  {
-    "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "summary": "Government interest in AI models like Anthropic's Mythos may accelerate AI adoption, potentially increasing job replacement in tech and financial sectors.",
-    "date": "2026-04-12",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "government influence",
-      "financial technology"
-    ],
-    "fetchedAt": "2026-04-13T00:00:40.451Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "software-developers",
-      "computer-systems-analysts",
-      "data-scientists",
-      "information-security-analysts"
     ]
   }
 ]

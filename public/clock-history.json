@@ -1,5 +1,287 @@
 [
   {
+    "date": "2026-07-12",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.836,
+    "macroReplacementRate": 50.058,
+    "newsAdjustment": -13.836,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "summary": "Anthropic's development of the Jacobian lens provides deeper insight into how large language models operate, advancing AI transparency and potentially influencing AI tool development and integration in work processes.",
+        "date": "2026-07-09",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI research",
+          "model transparency",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "summary": "OpenAI's focus on family-oriented AI experiences signals growing integration of AI into personal and caregiving roles, potentially influencing future workforce needs in healthcare and support services.",
+        "date": "2026-07-11",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "workforce development",
+          "product design"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "personal-care-and-service",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-sues-openai-over-ai-talent-fight",
+        "title": "Apple Sues OpenAI Over AI Talent Fight",
+        "summary": "Apple's lawsuit against OpenAI highlights the growing competition for AI talent and hardware, signaling increased pressure in AI development and workforce dynamics.",
+        "date": "2026-07-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "talent competition",
+          "intellectual property",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+        "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+        "summary": "A Chinese AI founder advocates for open access to frontier AI, influencing the direction of AI development and accessibility.",
+        "date": "2026-07-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI policy",
+          "open-source",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+        "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
+        "summary": "A high-profile engineer moving from Apple to OpenAI highlights growing competition in AI hardware development and signals increased pressure on tech companies to invest in AI capabilities.",
+        "date": "2026-07-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI talent competition",
+          "AI hardware",
+          "industry adoption"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
+        "title": "Google will now tell you if an ad was made with AI",
+        "summary": "Google's AI ad labeling initiative increases transparency and accountability in AI-generated advertising, signaling broader adoption of AI in marketing and digital workflows.",
+        "date": "2026-07-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "transparency",
+          "advertising",
+          "AI regulation"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "media-and-communication",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-s-head-of-safety-is-leaving-the-company",
+        "title": "OpenAI’s Head of Safety Is Leaving the Company",
+        "summary": "OpenAI's leadership change in safety could signal increased focus on regulatory and ethical considerations, potentially slowing AI deployment.",
+        "date": "2026-07-11",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "leadership"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets",
+        "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+        "summary": "Legal disputes over AI company intellectual property may slow down collaboration and talent movement in the tech industry.",
+        "date": "2026-07-10",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "legal",
+          "regulation",
+          "talent"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-launches-its-new-family-of-models-with-gpt-5-6",
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "summary": "OpenAI's new model family with enhanced cybersecurity features signals growing AI capabilities that could impact IT and security roles.",
+        "date": "2026-07-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "model-release",
+          "cybersecurity",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-sues-openai-over-alleged-trade-secret-theft",
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "summary": "Legal disputes between major tech companies may slow AI adoption or increase regulatory scrutiny.",
+        "date": "2026-07-10",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "legal",
+          "regulation",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-12T11:01:57.741Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic found a hidden space where Claude puzzles over concepts.",
+        "body": "This update is split between 7 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic found a hidden space where Claude puzzles over concepts\" (MIT Tech Review), while the clearest drag comes from \"OpenAI’s Head of Safety Is Leaving the Company\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.836 minutes. Updated 2026-07-12T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-11",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.727,
@@ -17293,80 +17575,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
         "body": "This update is split between 2 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Your article about AI doesn’t need AI art\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.632 minutes. Updated 2026-04-12T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-11",
-    "minutesToMidnight": 12,
-    "exactMinutesToMidnight": 11.552,
-    "macroReplacementRate": 49.2,
-    "newsAdjustment": -1.448,
-    "categoryAdjustments": {
-      "healthcare": -0.118,
-      "life-physical-and-social-science": -0.136,
-      "architecture-and-engineering": -0.159,
-      "management": -0.179,
-      "business-and-financial": -0.219,
-      "construction-and-extraction": -0.089,
-      "production": -0.121,
-      "installation-maintenance-and-repair": -0.089,
-      "education-training-and-library": -0.078,
-      "office-and-administrative-support": -0.265,
-      "transportation-and-material-moving": -0.115,
-      "personal-care-and-service": -0.106,
-      "sales": -0.115,
-      "media-and-communication": -0.068,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.077,
-      "arts-and-design": -0.068,
-      "entertainment-and-sports": -0.089,
-      "protective-service": -0.102,
-      "food-preparation-and-serving": -0.089,
-      "legal": -0.096,
-      "math": -0.112,
-      "farming-fishing-and-forestry": -0.089,
-      "building-and-grounds-cleaning": -0.089
-    },
-    "newsFeed": [
-      {
-        "id": "google-s-gemini-ai-can-answer-your-questions-with-3d-models-and-simulations",
-        "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
-        "summary": "Google's Gemini AI advancement in generating interactive 3D models and simulations could accelerate AI's role in tasks requiring visual and interactive analysis, potentially impacting jobs in technical and design fields.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI capabilities",
-          "interactive simulations",
-          "technical automation"
-        ],
-        "fetchedAt": "2026-04-11T00:00:36.604Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "architecture-and-engineering",
-          "computer-and-information-technology",
-          "math"
-        ],
-        "occupationIDs": [
-          "drafters",
-          "architects",
-          "civil-engineers",
-          "industrial-engineers",
-          "computer-hardware-engineers"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Google’s Gemini AI can answer your questions with 3D models and simulations.",
-        "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Google’s Gemini AI can answer your questions with 3D models and simulations\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.448 minutes. Updated 2026-04-11T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

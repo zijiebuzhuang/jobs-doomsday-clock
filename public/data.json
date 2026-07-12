@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:44",
+  "displayTime": "00:00:50",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.727,
+  "exactMinutesToMidnight": -0.836,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.727,
+  "newsAdjustment": -13.836,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.05,
+  "macroReplacementRate": 50.058,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,43 +3448,68 @@
   ],
   "newsFeed": [
     {
-      "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
-      "date": "2026-07-10",
+      "id": "anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "summary": "Anthropic's development of the Jacobian lens provides deeper insight into how large language models operate, advancing AI transparency and potentially influencing AI tool development and integration in work processes.",
+      "date": "2026-07-09",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
         "AI research",
         "model transparency",
         "workplace adoption"
       ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
       "sourceGroup": "research",
       "sourceTier": "research",
       "qualityScore": 94,
       "categories": [
         "computer-and-information-technology",
+        "life-physical-and-social-science",
         "_all"
       ]
     },
     {
-      "id": "apple-sues-openai-for-trade-secret-theft",
-      "title": "Apple Sues OpenAI for Trade Secret Theft",
-      "summary": "Legal disputes over AI development may slow adoption and create regulatory friction in the tech and enterprise sectors.",
-      "date": "2026-07-10",
+      "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "summary": "OpenAI's focus on family-oriented AI experiences signals growing integration of AI into personal and caregiving roles, potentially influencing future workforce needs in healthcare and support services.",
+      "date": "2026-07-11",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workforce development",
+        "product design"
+      ],
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "healthcare",
+        "personal-care-and-service",
+        "_all"
+      ]
+    },
+    {
+      "id": "apple-sues-openai-over-ai-talent-fight",
+      "title": "Apple Sues OpenAI Over AI Talent Fight",
+      "summary": "Apple's lawsuit against OpenAI highlights the growing competition for AI talent and hardware, signaling increased pressure in AI development and workforce dynamics.",
+      "date": "2026-07-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "legal",
-        "regulation",
-        "AI development"
+        "talent competition",
+        "intellectual property",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3495,35 +3520,85 @@
       ]
     },
     {
-      "id": "apple-sues-openai-for-trade-secret-theft-in-pivotal-case",
-      "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
-      "summary": "A legal battle between Apple and OpenAI over trade secrets may slow AI adoption and raise concerns about intellectual property in the tech industry.",
-      "date": "2026-07-10",
+      "id": "zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+      "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+      "summary": "A Chinese AI founder advocates for open access to frontier AI, influencing the direction of AI development and accessibility.",
+      "date": "2026-07-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
-      "effect": "delay",
-      "impactScore": 4,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
-        "regulation",
-        "legal",
-        "enterprise"
+        "AI policy",
+        "open-source",
+        "AI ethics"
       ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
-      "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-      "summary": "A key safety leader leaving OpenAI may signal increased regulatory or internal friction in AI development and deployment.",
+      "id": "openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+      "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
+      "summary": "A high-profile engineer moving from Apple to OpenAI highlights growing competition in AI hardware development and signals increased pressure on tech companies to invest in AI capabilities.",
       "date": "2026-07-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI talent competition",
+        "AI hardware",
+        "industry adoption"
+      ],
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
+      "title": "Google will now tell you if an ad was made with AI",
+      "summary": "Google's AI ad labeling initiative increases transparency and accountability in AI-generated advertising, signaling broader adoption of AI in marketing and digital workflows.",
+      "date": "2026-07-09",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "transparency",
+        "advertising",
+        "AI regulation"
+      ],
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "media-and-communication",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-s-head-of-safety-is-leaving-the-company",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "OpenAI's leadership change in safety could signal increased focus on regulatory and ethical considerations, potentially slowing AI deployment.",
+      "date": "2026-07-11",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
@@ -3531,95 +3606,94 @@
         "safety",
         "leadership"
       ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-      "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
-      "summary": "Easing export restrictions on the UAE will accelerate its access to advanced AI chips, boosting its AI capabilities and potentially increasing global competition in AI development.",
-      "date": "2026-07-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "regulation",
-        "technology access"
-      ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "apple-sues-openai-for-allegedly-stealing-hardware-secrets",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "summary": "Legal disputes over AI hardware secrets may slow down innovation and collaboration in the AI industry.",
-      "date": "2026-07-10",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "legal",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
+        "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Meta disabling an AI deepfake feature on Instagram reflects growing concerns over AI misuse, potentially slowing adoption of AI tools in creative and social media workflows.",
+      "id": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "Legal disputes over AI company intellectual property may slow down collaboration and talent movement in the tech industry.",
       "date": "2026-07-10",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "deepfakes",
-        "workplace ethics"
+        "legal",
+        "regulation",
+        "talent"
       ],
-      "fetchedAt": "2026-07-11T11:00:50.546Z",
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
-        "media-and-communication",
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-launches-its-new-family-of-models-with-gpt-5-6",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI's new model family with enhanced cybersecurity features signals growing AI capabilities that could impact IT and security roles.",
+      "date": "2026-07-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "model-release",
+        "cybersecurity",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "apple-sues-openai-over-alleged-trade-secret-theft",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Legal disputes between major tech companies may slow AI adoption or increase regulatory scrutiny.",
+      "date": "2026-07-10",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "legal",
+        "regulation",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-07-11T12:00:00.000Z",
+  "generatedAt": "2026-07-12T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Legal disputes and regulatory shifts shape AI job dynamics",
-      "preview": "Lawsuits and policy changes impact AI adoption and development.",
-      "body": "Recent legal battles, including Apple's suit against OpenAI, and the departure of a key safety leader at OpenAI suggest increased regulatory and operational friction. Meanwhile, easing export restrictions on AI chips may accelerate global AI growth. Overall, the mix of delays and advances reflects a cautious but evolving landscape."
+      "title": "AI development advances amid legal and ethical tensions",
+      "preview": "New AI tools and legal battles shape the evolving landscape.",
+      "body": "Recent developments highlight continued progress in AI capabilities, with advancements in transparency and household integration. However, legal disputes and leadership changes signal growing challenges in regulation and collaboration. Notable headlines include OpenAI's family-focused strategies and Apple's lawsuit against OpenAI over hardware secrets."
     }
   }
 }
