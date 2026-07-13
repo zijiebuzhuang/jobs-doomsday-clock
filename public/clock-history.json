@@ -1,5 +1,221 @@
 [
   {
+    "date": "2026-07-13",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.016,
+    "macroReplacementRate": 50.07,
+    "newsAdjustment": -14.016,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "hyundai-motor-workers-strike-over-bonuses-robot-job-security",
+        "title": "Hyundai Motor Workers Strike Over Bonuses, Robot Job Security",
+        "summary": "Worker concerns about AI and robot job displacement highlight growing labor resistance to AI adoption in manufacturing.",
+        "date": "2026-07-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "labor-concerns",
+          "ai-adoption",
+          "workforce-impact"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "production",
+          "installation-maintenance-and-repair",
+          "_all"
+        ]
+      },
+      {
+        "id": "why-ai-might-actually-create-more-work-for-lawyers",
+        "title": "Why AI Might Actually Create More Work for Lawyers",
+        "summary": "AI adoption in the legal profession may shift work responsibilities but not necessarily replace lawyers, highlighting AI's impact on professional workflows.",
+        "date": "2026-07-13",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/why-ai-might-actually-create-more-work-for-lawyers",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "professional services"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "legal",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "55 min"
+      },
+      {
+        "id": "meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "summary": "Meta's Muse Spark 1.1 introduces AI capabilities that enhance coding workflows, signaling increased AI adoption in software development and enterprise tech roles.",
+        "date": "2026-07-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "coding",
+          "enterprise adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "waze-is-getting-a-bunch-of-new-ai-powered-features",
+        "title": "Waze is getting a bunch of new AI-powered features",
+        "summary": "Waze integrating AI into its features shows AI adoption in consumer tech, potentially influencing future workplace tools and user expectations for AI-driven interfaces.",
+        "date": "2026-07-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI integration",
+          "workplace tools",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "transportation-and-material-moving",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "bill-gates-names-four-jobs-he-says-will-survive-ai-automation",
+        "title": "Bill Gates names four jobs he says will survive AI automation",
+        "summary": "Bill Gates' commentary on jobs that will survive AI automation provides insight into how AI may reshape workforce expectations and skill demands.",
+        "date": "2026-07-09",
+        "source": "MSN",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzBQcl9rZmtpUjNKQ1Y5M0w1NU9QNWJHMUluQUtqb0xQZUlrNDNTS0xmSlRiQkFwdk0waW1MR0hLNGhIemdDZ1d2N3JLLWRDQmkwVnNycm1JaUhOZ1pVYWlQUENtZWVJSDY3Y1lQVnZYeURqZjN5cnJFNFMzcFZpRnBCeTIwT2NwajFma1RCSm9GUXVXeWlqRVliMEQ?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "job resilience",
+          "career planning"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "management",
+          "community-and-social-service",
+          "healthcare"
+        ]
+      },
+      {
+        "id": "south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
+        "title": "South Korea to Tap Record AI Tax Windfall to Fund Future Growth",
+        "summary": "South Korea's AI-driven semiconductor tax windfall could accelerate AI adoption and investment across industries.",
+        "date": "2026-07-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI funding",
+          "government policy",
+          "semiconductor industry"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial",
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "summary": "Legal disputes over AI copyright practices may slow AI adoption and increase regulatory scrutiny in content-related industries.",
+        "date": "2026-07-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "copyright",
+          "regulation",
+          "legal"
+        ],
+        "fetchedAt": "2026-07-13T11:01:00.700Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Hyundai Motor Workers Strike Over Bonuses, Robot Job Security.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why AI Might Actually Create More Work for Lawyers\" (Apple Podcasts - Odd Lots), while the clearest drag comes from \"Hyundai Motor Workers Strike Over Bonuses, Robot Job Security\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.016 minutes. Updated 2026-07-13T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-12",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.836,
@@ -17345,236 +17561,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by At the HumanX conference, everyone was talking about Claude.",
         "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"At the HumanX conference, everyone was talking about Claude\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.741 minutes. Updated 2026-04-13T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-12",
-    "minutesToMidnight": 11,
-    "exactMinutesToMidnight": 11.368,
-    "macroReplacementRate": 49.213,
-    "newsAdjustment": -1.632,
-    "categoryAdjustments": {
-      "healthcare": -0.168,
-      "life-physical-and-social-science": -0.186,
-      "architecture-and-engineering": -0.209,
-      "management": -0.23,
-      "business-and-financial": -0.27,
-      "construction-and-extraction": -0.139,
-      "production": -0.171,
-      "installation-maintenance-and-repair": -0.139,
-      "education-training-and-library": -0.128,
-      "office-and-administrative-support": -0.314,
-      "transportation-and-material-moving": -0.165,
-      "personal-care-and-service": -0.156,
-      "sales": -0.165,
-      "media-and-communication": -0.118,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.128,
-      "arts-and-design": -0.118,
-      "entertainment-and-sports": -0.139,
-      "protective-service": -0.152,
-      "food-preparation-and-serving": -0.139,
-      "legal": -0.148,
-      "math": -0.162,
-      "farming-fishing-and-forestry": -0.139,
-      "building-and-grounds-cleaning": -0.139
-    },
-    "newsFeed": [
-      {
-        "id": "your-article-about-ai-doesn-t-need-ai-art",
-        "title": "Your article about AI doesn’t need AI art",
-        "summary": "The use of AI in creating illustrations for media highlights the growing role of AI in creative industries, signaling increased automation in design and artistic roles.",
-        "date": "2026-04-11",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI art",
-          "creative industries",
-          "job replacement"
-        ],
-        "fetchedAt": "2026-04-12T10:12:30.157Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "arts-and-design",
-          "media-and-communication",
-          "_all"
-        ],
-        "occupationIDs": [
-          "graphic-designers",
-          "multimedia-artists-and-animators",
-          "set-and-exhibit-designers",
-          "art-directors"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268452_New_Yorker_AI_art_CVirginia3.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "stalking-victim-sues-openai-claims-chatgpt-fueled-her-abuser-s-delusions-and-ign",
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-        "summary": "This news highlights potential risks of AI systems, which may slow public and regulatory acceptance of AI in sensitive roles, potentially delaying AI job replacement efforts.",
-        "date": "2026-04-10",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "AI accountability",
-          "legal implications"
-        ],
-        "fetchedAt": "2026-04-12T10:12:26.060Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "community-and-social-service",
-          "_all"
-        ],
-        "occupationIDs": [
-          "social-workers",
-          "probation-officers-and-correctional-treatment-specialists",
-          "community-health-workers",
-          "rehabilitation-counselors",
-          "substance-abuse-behavioral-disorder-and-mental-health-counselors"
-        ]
-      },
-      {
-        "id": "florida-launches-investigation-into-openai",
-        "title": "Florida launches investigation into OpenAI",
-        "summary": "The investigation into OpenAI may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/policy/909557/openai-florida-investigation",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "ai-ethics",
-          "policy"
-        ],
-        "fetchedAt": "2026-04-12T10:12:32.960Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "information-security-analysts",
-          "database-administrators",
-          "network-and-computer-systems-administrators"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "chatgpt-has-a-new-100-per-month-pro-subscription",
-        "title": "ChatGPT has a new $100 per month Pro subscription",
-        "summary": "The new $100/month ChatGPT Pro subscription enhances AI capabilities for coding, potentially increasing AI's role in software development and related fields.",
-        "date": "2026-04-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "coding",
-          "subscription model"
-        ],
-        "fetchedAt": "2026-04-12T10:12:32.172Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "web-developers",
-          "computer-programmers",
-          "database-administrators",
-          "information-security-analysts"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic",
-        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-        "summary": "Limiting the release of a powerful AI model may slow the adoption of AI in cybersecurity roles, potentially delaying job replacement in the field.",
-        "date": "2026-04-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI ethics",
-          "cybersecurity",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-12T10:12:28.474Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "protective-service",
-          "_all"
-        ],
-        "occupationIDs": [
-          "information-security-analysts",
-          "network-and-computer-systems-administrators",
-          "software-developers",
-          "computer-support-specialists",
-          "computer-network-architects"
-        ]
-      },
-      {
-        "id": "florida-ag-announces-investigation-into-openai-over-shooting-that-allegedly-invo",
-        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-        "summary": "This news could slow AI job replacement efforts due to increased scrutiny and legal risks associated with AI use.",
-        "date": "2026-04-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI regulation",
-          "legal liability",
-          "AI ethics"
-        ],
-        "fetchedAt": "2026-04-12T10:12:27.637Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "information-security-analysts",
-          "database-administrators",
-          "network-and-computer-systems-administrators"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?.",
-        "body": "This update is split between 2 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Your article about AI doesn’t need AI art\" (The Verge - AI), while the clearest drag comes from \"Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -1.632 minutes. Updated 2026-04-12T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

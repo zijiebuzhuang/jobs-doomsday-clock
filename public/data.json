@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:50",
+  "displayTime": "00:01:01",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.836,
+  "exactMinutesToMidnight": -1.016,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.836,
+  "newsAdjustment": -14.016,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.058,
+  "macroReplacementRate": 50.07,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,252 +3448,186 @@
   ],
   "newsFeed": [
     {
-      "id": "anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "summary": "Anthropic's development of the Jacobian lens provides deeper insight into how large language models operate, advancing AI transparency and potentially influencing AI tool development and integration in work processes.",
-      "date": "2026-07-09",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "effect": "advance",
+      "id": "hyundai-motor-workers-strike-over-bonuses-robot-job-security",
+      "title": "Hyundai Motor Workers Strike Over Bonuses, Robot Job Security",
+      "summary": "Worker concerns about AI and robot job displacement highlight growing labor resistance to AI adoption in manufacturing.",
+      "date": "2026-07-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI research",
-        "model transparency",
-        "workplace adoption"
+        "labor-concerns",
+        "ai-adoption",
+        "workforce-impact"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
+        "production",
+        "installation-maintenance-and-repair",
         "_all"
       ]
     },
     {
-      "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "OpenAI's focus on family-oriented AI experiences signals growing integration of AI into personal and caregiving roles, potentially influencing future workforce needs in healthcare and support services.",
-      "date": "2026-07-11",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "id": "why-ai-might-actually-create-more-work-for-lawyers",
+      "title": "Why AI Might Actually Create More Work for Lawyers",
+      "summary": "AI adoption in the legal profession may shift work responsibilities but not necessarily replace lawyers, highlighting AI's impact on professional workflows.",
+      "date": "2026-07-13",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/why-ai-might-actually-create-more-work-for-lawyers",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workforce development",
-        "product design"
+        "workforce transformation",
+        "professional services"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "legal",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "55 min"
+    },
+    {
+      "id": "meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "summary": "Meta's Muse Spark 1.1 introduces AI capabilities that enhance coding workflows, signaling increased AI adoption in software development and enterprise tech roles.",
+      "date": "2026-07-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "coding",
+        "enterprise adoption",
+        "productivity"
+      ],
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "healthcare",
-        "personal-care-and-service",
-        "_all"
-      ]
-    },
-    {
-      "id": "apple-sues-openai-over-ai-talent-fight",
-      "title": "Apple Sues OpenAI Over AI Talent Fight",
-      "summary": "Apple's lawsuit against OpenAI highlights the growing competition for AI talent and hardware, signaling increased pressure in AI development and workforce dynamics.",
-      "date": "2026-07-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "talent competition",
-        "intellectual property",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
         "management",
-        "_all"
+        "business-and-financial"
       ]
     },
     {
-      "id": "zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
-      "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
-      "summary": "A Chinese AI founder advocates for open access to frontier AI, influencing the direction of AI development and accessibility.",
-      "date": "2026-07-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI policy",
-        "open-source",
-        "AI ethics"
-      ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-      "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
-      "summary": "A high-profile engineer moving from Apple to OpenAI highlights growing competition in AI hardware development and signals increased pressure on tech companies to invest in AI capabilities.",
-      "date": "2026-07-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI talent competition",
-        "AI hardware",
-        "industry adoption"
-      ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
-      "title": "Google will now tell you if an ad was made with AI",
-      "summary": "Google's AI ad labeling initiative increases transparency and accountability in AI-generated advertising, signaling broader adoption of AI in marketing and digital workflows.",
-      "date": "2026-07-09",
+      "id": "waze-is-getting-a-bunch-of-new-ai-powered-features",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Waze integrating AI into its features shows AI adoption in consumer tech, potentially influencing future workplace tools and user expectations for AI-driven interfaces.",
+      "date": "2026-07-13",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "transparency",
-        "advertising",
-        "AI regulation"
+        "AI integration",
+        "workplace tools",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "media-and-communication",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-s-head-of-safety-is-leaving-the-company",
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "OpenAI's leadership change in safety could signal increased focus on regulatory and ethical considerations, potentially slowing AI deployment.",
-      "date": "2026-07-11",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "safety",
-        "leadership"
-      ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
-        "management",
+        "transportation-and-material-moving",
         "_all"
-      ]
-    },
-    {
-      "id": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets",
-      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-      "summary": "Legal disputes over AI company intellectual property may slow down collaboration and talent movement in the tech industry.",
-      "date": "2026-07-10",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "legal",
-        "regulation",
-        "talent"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-launches-its-new-family-of-models-with-gpt-5-6",
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "summary": "OpenAI's new model family with enhanced cybersecurity features signals growing AI capabilities that could impact IT and security roles.",
+      "id": "bill-gates-names-four-jobs-he-says-will-survive-ai-automation",
+      "title": "Bill Gates names four jobs he says will survive AI automation",
+      "summary": "Bill Gates' commentary on jobs that will survive AI automation provides insight into how AI may reshape workforce expectations and skill demands.",
       "date": "2026-07-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "MSN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzBQcl9rZmtpUjNKQ1Y5M0w1NU9QNWJHMUluQUtqb0xQZUlrNDNTS0xmSlRiQkFwdk0waW1MR0hLNGhIemdDZ1d2N3JLLWRDQmkwVnNycm1JaUhOZ1pVYWlQUENtZWVJSDY3Y1lQVnZYeURqZjN5cnJFNFMzcFZpRnBCeTIwT2NwajFma1RCSm9GUXVXeWlqRVliMEQ?oc=5",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "job resilience",
+        "career planning"
+      ],
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "management",
+        "community-and-social-service",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
+      "title": "South Korea to Tap Record AI Tax Windfall to Fund Future Growth",
+      "summary": "South Korea's AI-driven semiconductor tax windfall could accelerate AI adoption and investment across industries.",
+      "date": "2026-07-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "model-release",
-        "cybersecurity",
-        "enterprise-adoption"
+        "AI funding",
+        "government policy",
+        "semiconductor industry"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "apple-sues-openai-over-alleged-trade-secret-theft",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Legal disputes between major tech companies may slow AI adoption or increase regulatory scrutiny.",
-      "date": "2026-07-10",
+      "id": "new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "summary": "Legal disputes over AI copyright practices may slow AI adoption and increase regulatory scrutiny in content-related industries.",
+      "date": "2026-07-09",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "legal",
+        "copyright",
         "regulation",
-        "AI adoption"
+        "legal"
       ],
-      "fetchedAt": "2026-07-12T11:01:57.741Z",
+      "fetchedAt": "2026-07-13T11:01:00.700Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-12T12:00:00.000Z",
+  "generatedAt": "2026-07-13T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI development advances amid legal and ethical tensions",
-      "preview": "New AI tools and legal battles shape the evolving landscape.",
-      "body": "Recent developments highlight continued progress in AI capabilities, with advancements in transparency and household integration. However, legal disputes and leadership changes signal growing challenges in regulation and collaboration. Notable headlines include OpenAI's family-focused strategies and Apple's lawsuit against OpenAI over hardware secrets."
+      "title": "AI job dynamics show mixed signals on adoption and resistance",
+      "preview": "New AI tools advance, but labor concerns delay progress in some sectors.",
+      "body": "Today's news highlights both advances and delays in AI integration. Hyundai workers' strike underscores labor resistance, while Meta and Waze showcase AI's growing role in tech. Bill Gates' job predictions and South Korea's AI tax plan suggest long-term optimism, though legal disputes may slow some implementations."
     }
   }
 }
