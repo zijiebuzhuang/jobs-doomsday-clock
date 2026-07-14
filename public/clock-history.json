@@ -1,5 +1,187 @@
 [
   {
+    "date": "2026-07-14",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.043,
+    "macroReplacementRate": 50.072,
+    "newsAdjustment": -14.043,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "philippine-outsourcing-group-cuts-revenue-and-jobs-forecasts-on-ai",
+        "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
+        "summary": "AI adoption is causing a major shift in the outsourcing industry, leading to reduced revenue and job forecasts in the Philippines.",
+        "date": "2026-07-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "outsourcing",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-workforce-opportunities-congress-examines-jobs",
+        "title": "AI Workforce Opportunities: Congress Examines Jobs",
+        "summary": "Congress examining AI workforce opportunities suggests growing attention to how AI impacts job markets and labor policies.",
+        "date": "2026-07-13",
+        "source": "Legis1",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVNFAyS0dmYkl5QTRGOGRYWm5RMVF1ZWcxbFBQUWY4WWZMYmZxVjdKZDRveWEwSE0wQm1sWVU3eWJncGhGY3BtWVJTRFJqa1VpSnFDY0tSMTJ4dVdyNG00U1p0a19Ycml1eE9xZmNOTWlvbTlRTFI4ek5TRjR2UQ?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "workforce",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "waze-adds-new-ai-powered-features-and-customization-updates",
+        "title": "Waze adds new AI-powered features and customization updates",
+        "summary": "Waze's integration of Google's Gemini AI highlights growing AI adoption in consumer navigation tools, reflecting broader industry trends in AI-driven product enhancement.",
+        "date": "2026-07-13",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "navigation"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+        "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+        "summary": "A major AI infrastructure financing in Asia signals growing demand for GPU-backed computing, reflecting increased adoption of AI technologies in enterprise and data center operations.",
+        "date": "2026-07-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "GPU demand"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
+        "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
+        "summary": "Finland's NestAI is developing sovereign AI tools for military use, signaling increased adoption of AI in defense and related technical fields.",
+        "date": "2026-07-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "military",
+          "ai-development",
+          "sovereign-ai"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "sk-hynix-shares-rebound-after-early-rout-as-ai-jitters-persist",
+        "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+        "summary": "SK Hynix's stock rebound highlights the ongoing influence of AI demand on semiconductor markets, reflecting growing pressure for AI infrastructure.",
+        "date": "2026-07-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "market volatility",
+          "semiconductor industry"
+        ],
+        "fetchedAt": "2026-07-14T11:01:00.531Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI.",
+        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan\" (Bloomberg Technology), while the clearest drag comes from \"Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.043 minutes. Updated 2026-07-14T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-13",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -1.016,
@@ -17458,109 +17640,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-13",
-    "minutesToMidnight": 11,
-    "exactMinutesToMidnight": 11.259,
-    "macroReplacementRate": 49.221,
-    "newsAdjustment": -1.741,
-    "categoryAdjustments": {
-      "healthcare": -0.197,
-      "life-physical-and-social-science": -0.215,
-      "architecture-and-engineering": -0.237,
-      "management": -0.259,
-      "business-and-financial": -0.3,
-      "construction-and-extraction": -0.168,
-      "production": -0.2,
-      "installation-maintenance-and-repair": -0.168,
-      "education-training-and-library": -0.157,
-      "office-and-administrative-support": -0.342,
-      "transportation-and-material-moving": -0.194,
-      "personal-care-and-service": -0.184,
-      "sales": -0.194,
-      "media-and-communication": -0.147,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.158,
-      "arts-and-design": -0.147,
-      "entertainment-and-sports": -0.168,
-      "protective-service": -0.181,
-      "food-preparation-and-serving": -0.168,
-      "legal": -0.178,
-      "math": -0.191,
-      "farming-fishing-and-forestry": -0.168,
-      "building-and-grounds-cleaning": -0.168
-    },
-    "newsFeed": [
-      {
-        "id": "at-the-humanx-conference-everyone-was-talking-about-claude",
-        "title": "At the HumanX conference, everyone was talking about Claude",
-        "summary": "The prominence of Anthropic's Claude at a major AI conference suggests growing interest in advanced AI systems, potentially accelerating their integration into various industries.",
-        "date": "2026-04-12",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "conference",
-          "technology adoption"
-        ],
-        "fetchedAt": "2026-04-13T00:00:41.622Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "data-scientists",
-          "information-security-analysts",
-          "web-developers"
-        ]
-      },
-      {
-        "id": "trump-officials-may-be-encouraging-banks-to-test-anthropic-s-mythos-model",
-        "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-        "summary": "Government interest in AI models like Anthropic's Mythos may accelerate AI adoption, potentially increasing job replacement in tech and financial sectors.",
-        "date": "2026-04-12",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "government influence",
-          "financial technology"
-        ],
-        "fetchedAt": "2026-04-13T00:00:40.451Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "software-developers",
-          "computer-systems-analysts",
-          "data-scientists",
-          "information-security-analysts"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by At the HumanX conference, everyone was talking about Claude.",
-        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"At the HumanX conference, everyone was talking about Claude\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -1.741 minutes. Updated 2026-04-13T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }

@@ -1,5 +1,145 @@
 [
   {
+    "id": "philippine-outsourcing-group-cuts-revenue-and-jobs-forecasts-on-ai",
+    "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
+    "summary": "AI adoption is causing a major shift in the outsourcing industry, leading to reduced revenue and job forecasts in the Philippines.",
+    "date": "2026-07-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "outsourcing",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+    "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
+    "summary": "A major AI infrastructure financing in Asia signals growing demand for GPU-backed computing, reflecting increased adoption of AI technologies in enterprise and data center operations.",
+    "date": "2026-07-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "GPU demand"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
+    "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
+    "summary": "Finland's NestAI is developing sovereign AI tools for military use, signaling increased adoption of AI in defense and related technical fields.",
+    "date": "2026-07-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "military",
+      "ai-development",
+      "sovereign-ai"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "sk-hynix-shares-rebound-after-early-rout-as-ai-jitters-persist",
+    "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+    "summary": "SK Hynix's stock rebound highlights the ongoing influence of AI demand on semiconductor markets, reflecting growing pressure for AI infrastructure.",
+    "date": "2026-07-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "market volatility",
+      "semiconductor industry"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "waze-adds-new-ai-powered-features-and-customization-updates",
+    "title": "Waze adds new AI-powered features and customization updates",
+    "summary": "Waze's integration of Google's Gemini AI highlights growing AI adoption in consumer navigation tools, reflecting broader industry trends in AI-driven product enhancement.",
+    "date": "2026-07-13",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "navigation"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-workforce-opportunities-congress-examines-jobs",
+    "title": "AI Workforce Opportunities: Congress Examines Jobs",
+    "summary": "Congress examining AI workforce opportunities suggests growing attention to how AI impacts job markets and labor policies.",
+    "date": "2026-07-13",
+    "source": "Legis1",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVNFAyS0dmYkl5QTRGOGRYWm5RMVF1ZWcxbFBQUWY4WWZMYmZxVjdKZDRveWEwSE0wQm1sWVU3eWJncGhGY3BtWVJTRFJqa1VpSnFDY0tSMTJ4dVdyNG00U1p0a19Ycml1eE9xZmNOTWlvbTlRTFI4ek5TRjR2UQ?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "workforce",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-14T11:01:00.531Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "waze-is-getting-a-bunch-of-new-ai-powered-features",
     "title": "Waze is getting a bunch of new AI-powered features",
     "summary": "Waze integrating AI into its features shows AI adoption in consumer tech, potentially influencing future workplace tools and user expectations for AI-driven interfaces.",
@@ -13228,395 +13368,6 @@
       "database-administrators",
       "information-security-analysts",
       "network-and-computer-systems-administrators"
-    ]
-  },
-  {
-    "id": "has-google-s-ai-watermarking-system-been-reverse-engineered-",
-    "title": "Has Google’s AI watermarking system been reverse-engineered?",
-    "summary": "The potential reverse-engineering of Google's AI watermarking system could slow the adoption of AI content verification, potentially delaying efforts to manage AI-generated content in creative and professional fields.",
-    "date": "2026-04-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "content verification",
-      "technology security"
-    ],
-    "fetchedAt": "2026-04-15T00:00:49.630Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "media-and-communication",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "web-developers",
-      "computer-support-specialists",
-      "information-security-analysts",
-      "database-administrators"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
-    "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
-    "summary": "This feature accelerates AI's ability to automate repetitive tasks, increasing the potential for job replacement in administrative and technical roles.",
-    "date": "2026-04-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "automation",
-      "productivity",
-      "AI tools"
-    ],
-    "fetchedAt": "2026-04-15T00:00:48.154Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "secretaries-and-administrative-assistants",
-      "customer-service-representatives",
-      "bookkeeping-accounting-and-auditing-clerks",
-      "receptionists",
-      "financial-clerks"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
-    "title": "The attacks on Sam Altman are a warning for the AI world",
-    "summary": "The attacks on Sam Altman highlight growing public fear about AI's impact, potentially slowing its adoption and job replacement efforts.",
-    "date": "2026-04-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "public perception",
-      "AI safety"
-    ],
-    "fetchedAt": "2026-04-15T00:00:46.479Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "computer-and-information-systems-managers",
-      "software-developers",
-      "data-scientists",
-      "information-security-analysts",
-      "computer-programmers"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthr",
-    "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
-    "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
-    "date": "2026-04-13",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI competition",
-      "enterprise adoption",
-      "user retention"
-    ],
-    "fetchedAt": "2026-04-15T00:00:52.742Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "management-analysts",
-      "project-management-specialists",
-      "software-developers",
-      "data-scientists"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
-    "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
-    "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
-    "date": "2026-04-14",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "investment",
-      "AI development",
-      "startup"
-    ],
-    "fetchedAt": "2026-04-15T00:00:58.671Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "computer-and-information-systems-managers",
-      "software-developers",
-      "data-scientists",
-      "computer-programmers",
-      "information-security-analysts"
-    ]
-  },
-  {
-    "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
-    "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-    "summary": "New AI-powered features in Google Chrome may help users perform tasks more efficiently, potentially reducing the need for certain job functions.",
-    "date": "2026-04-14",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-    "effect": "advance",
-    "impactScore": 2,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-15T00:00:55.729Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "occupationIDs": [
-      "computer-support-specialists",
-      "software-developers",
-      "web-developers",
-      "database-administrators",
-      "information-security-analysts"
-    ]
-  },
-  {
-    "id": "in-the-wake-of-anthropic-s-mythos-openai-has-a-new-cybersecurity-model-and-strat",
-    "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-    "summary": "New cybersecurity AI models may increase reliance on AI for security tasks, potentially replacing some human roles in IT and cybersecurity.",
-    "date": "2026-04-14",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "cybersecurity",
-      "AI development",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-15T00:00:54.049Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "occupationIDs": [
-      "information-security-analysts",
-      "network-and-computer-systems-administrators",
-      "computer-support-specialists",
-      "software-developers",
-      "database-administrators"
-    ]
-  },
-  {
-    "id": "openai-has-bought-ai-personal-finance-startup-hiro",
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "summary": "OpenAI's acquisition of Hiro suggests increased integration of AI in financial planning, potentially automating tasks in the business and financial sectors.",
-    "date": "2026-04-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "financial technology",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-15T00:00:45.078Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology"
-    ],
-    "occupationIDs": [
-      "personal-financial-advisors",
-      "financial-analysts",
-      "loan-officers",
-      "budget-analysts",
-      "credit-counselors"
-    ]
-  },
-  {
-    "id": "google-brings-its-gemini-personal-intelligence-feature-to-india",
-    "title": "Google brings its Gemini Personal Intelligence feature to India",
-    "summary": "Google's Gemini Personal Intelligence feature in India could lead to more automation in personal and administrative tasks, potentially affecting jobs in office and administrative support.",
-    "date": "2026-04-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "personalization",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-15T00:00:43.611Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "office-and-administrative-support"
-    ],
-    "occupationIDs": [
-      "receptionists",
-      "secretaries-and-administrative-assistants",
-      "customer-service-representatives",
-      "general-office-clerks",
-      "financial-clerks"
-    ]
-  },
-  {
-    "id": "google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "summary": "Google's AI-powered Chrome Skills feature could increase efficiency in task automation, potentially reducing the need for certain manual or repetitive job tasks.",
-    "date": "2026-04-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI integration",
-      "productivity tools",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-15T00:00:42.291Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "occupationIDs": [
-      "computer-support-specialists",
-      "software-developers",
-      "web-developers",
-      "database-administrators",
-      "information-security-analysts"
-    ]
-  },
-  {
-    "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
-    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-    "summary": "The opposition to the AI liability bill may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-    "date": "2026-04-14",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI regulation",
-      "liability",
-      "policy"
-    ],
-    "fetchedAt": "2026-04-15T00:00:57.268Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "the-future-of-work-how-ai-automation-is-transforming-jobs-and-careers-worldwide-",
-    "title": "The Future of Work: How AI Automation Is Transforming Jobs and Careers Worldwide - Tech Times",
-    "summary": "The article highlights how AI automation is significantly transforming jobs and careers globally, suggesting increased replacement of human roles by AI.",
-    "date": "2026-04-14",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkFDb2N3QTN5UVI3RGt1ZGRlTVNwTFlBMzktTjNkVE1PMTZ4UkNqZ2w3aGRCc3JOVUE5bUwxUV9Cc0M1b0J1dS00R0hJNmQtR05haklsS1V1cmNMdnNOcGp5NjhZUWFVamoyNlFUYTJmbVlkTzkzSklWZjRyU1R3b1VUQ1FnQ2dGX3FCY0hDMnVHbVFmVl9ROVUta2Q0QUV5eFNQUHVIQXRubVRzQmZ5XzdWNGc2eEhhY1Brdw?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI impact",
-      "automation",
-      "future of work"
-    ],
-    "fetchedAt": "2026-04-15T00:00:38.443Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 58,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "office-and-administrative-support"
-    ],
-    "occupationIDs": [
-      "management-analysts",
-      "financial-analysts",
-      "project-management-specialists",
-      "computer-systems-analysts",
-      "software-developers"
-    ]
-  },
-  {
-    "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
-    "title": "MIT study challenges AI job apocalypse narrative - Axios",
-    "summary": "A MIT study challenges the idea that AI will cause a major job apocalypse, suggesting it may slow down the pace of AI-driven job replacement.",
-    "date": "2026-04-02",
-    "source": "AI Workforce",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVG94Sjk3b25lay1GODE5a1AzdmdnbzU5dDhKSloxbkU1N0N0czBvdGcxYWdjcEF3aU1XSU8tU2l0X1BvS213ZW16cVJXQV9yV3FoRGVMX0NMc2g1Z1h2aEJ4SFZQQWJGQzBTd3lmaXl4ZFpIOFE?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI",
-      "job market",
-      "research"
-    ],
-    "fetchedAt": "2026-04-15T00:00:39.900Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
     ]
   }
 ]
