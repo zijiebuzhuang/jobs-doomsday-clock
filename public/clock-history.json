@@ -1,5 +1,147 @@
 [
   {
+    "date": "2026-07-15",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.76,
+    "macroReplacementRate": 50.053,
+    "newsAdjustment": -13.76,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
+        "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+        "summary": "AI agents are becoming more capable of managing complex ML workflows, increasing productivity and changing the skills required for research roles.",
+        "date": "2026-07-14",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow automation",
+          "reinforcement learning",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-15T11:01:03.889Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png"
+      },
+      {
+        "id": "openai-may-announce-a-chatgpt-smart-speaker-this-year",
+        "title": "OpenAI may announce a ChatGPT smart speaker this year",
+        "summary": "OpenAI's potential smart speaker could integrate AI into everyday work and personal environments, increasing AI's presence in daily workflows.",
+        "date": "2026-07-14",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "consumer-products",
+          "ai-hardware",
+          "workplace-adoption"
+        ],
+        "fetchedAt": "2026-07-15T11:01:03.889Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-clou",
+        "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+        "summary": "A security flaw in SpaceXAI's Grok coding tool raised concerns about data privacy and could slow AI adoption in development workflows.",
+        "date": "2026-07-14",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "data-security",
+          "AI-tools",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-15T11:01:03.889Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us",
+        "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+        "summary": "Calls for a global AI watchdog led by the US may shape future AI regulation and adoption in workplaces.",
+        "date": "2026-07-14",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI governance"
+        ],
+        "fetchedAt": "2026-07-15T11:01:03.889Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo.",
+        "body": "This update is split between 2 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.760 minutes. Updated 2026-07-15T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-14",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -1.043,
@@ -17599,47 +17741,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Chrome now lets you turn AI prompts into repeatable ‘Skills’.",
         "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Chrome now lets you turn AI prompts into repeatable ‘Skills’\" (The Verge - AI), while the clearest drag comes from \"Has Google’s AI watermarking system been reverse-engineered?\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.065 minutes. Updated 2026-04-15T12:00:00.000Z, with the macro replacement estimate at 49.2%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-14",
-    "minutesToMidnight": 11,
-    "exactMinutesToMidnight": 11.105,
-    "macroReplacementRate": 49.231,
-    "newsAdjustment": -1.895,
-    "categoryAdjustments": {
-      "healthcare": -0.209,
-      "life-physical-and-social-science": -0.226,
-      "architecture-and-engineering": -0.249,
-      "management": -0.283,
-      "business-and-financial": -0.321,
-      "construction-and-extraction": -0.179,
-      "production": -0.212,
-      "installation-maintenance-and-repair": -0.179,
-      "education-training-and-library": -0.169,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.205,
-      "personal-care-and-service": -0.196,
-      "sales": -0.205,
-      "media-and-communication": -0.159,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.171,
-      "arts-and-design": -0.159,
-      "entertainment-and-sports": -0.179,
-      "protective-service": -0.192,
-      "food-preparation-and-serving": -0.179,
-      "legal": -0.191,
-      "math": -0.202,
-      "farming-fishing-and-forestry": -0.179,
-      "building-and-grounds-cleaning": -0.179
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-14T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.2%."
       }
     }
   }

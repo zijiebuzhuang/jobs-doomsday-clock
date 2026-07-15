@@ -1,5 +1,105 @@
 [
   {
+    "id": "how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
+    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+    "summary": "AI agents are becoming more capable of managing complex ML workflows, increasing productivity and changing the skills required for research roles.",
+    "date": "2026-07-14",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow automation",
+      "reinforcement learning",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-15T11:01:03.889Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png"
+  },
+  {
+    "id": "openai-may-announce-a-chatgpt-smart-speaker-this-year",
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "summary": "OpenAI's potential smart speaker could integrate AI into everyday work and personal environments, increasing AI's presence in daily workflows.",
+    "date": "2026-07-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "consumer-products",
+      "ai-hardware",
+      "workplace-adoption"
+    ],
+    "fetchedAt": "2026-07-15T11:01:03.889Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-clou",
+    "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+    "summary": "A security flaw in SpaceXAI's Grok coding tool raised concerns about data privacy and could slow AI adoption in development workflows.",
+    "date": "2026-07-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "data-security",
+      "AI-tools",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-15T11:01:03.889Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us",
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "summary": "Calls for a global AI watchdog led by the US may shape future AI regulation and adoption in workplaces.",
+    "date": "2026-07-14",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI governance"
+    ],
+    "fetchedAt": "2026-07-15T11:01:03.889Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
     "id": "philippine-outsourcing-group-cuts-revenue-and-jobs-forecasts-on-ai",
     "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
     "summary": "AI adoption is causing a major shift in the outsourcing industry, leading to reduced revenue and job forecasts in the Philippines.",
@@ -13213,161 +13313,6 @@
       "database-administrators",
       "information-security-analysts",
       "project-management-specialists"
-    ]
-  },
-  {
-    "id": "google-launches-a-gemini-ai-app-on-mac",
-    "title": "Google launches a Gemini AI app on Mac",
-    "summary": "The launch of the Gemini AI app on Mac may increase AI's integration into daily workflows, potentially accelerating its role in replacing certain job functions.",
-    "date": "2026-04-15",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "productivity tools",
-      "workplace technology"
-    ],
-    "fetchedAt": "2026-04-16T11:00:35.675Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 93,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "web-developers",
-      "computer-systems-analysts",
-      "database-administrators",
-      "information-security-analysts"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "anthropic-s-mythos-to-be-available-to-uk-banks-within-next-week-",
-    "title": "Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'",
-    "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased adoption of advanced AI in financial institutions, potentially accelerating job replacement in finance and related sectors.",
-    "date": "2026-04-16",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-16/anthropic-s-mythos-available-to-uk-banks-in-next-week-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "financial technology",
-      "cybersecurity"
-    ],
-    "fetchedAt": "2026-04-16T11:00:37.812Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "management"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "credit-counselors",
-      "loan-officers",
-      "management-analysts",
-      "financial-examiners"
-    ]
-  },
-  {
-    "id": "anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-    "title": "Anthropic Plans to Bring Mythos to UK Banks Within the Next Week",
-    "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased AI adoption in the financial sector, potentially accelerating job replacement in that industry.",
-    "date": "2026-04-16",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "financial sector",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-16T11:00:36.717Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology"
-    ],
-    "occupationIDs": [
-      "financial-analysts",
-      "loan-officers",
-      "credit-counselors",
-      "compliance-officers",
-      "accountants-and-auditors"
-    ]
-  },
-  {
-    "id": "google-rolls-out-a-native-gemini-app-for-mac",
-    "title": "Google rolls out a native Gemini app for Mac",
-    "summary": "The introduction of a native Gemini app for Mac could enhance AI's role in assisting with tasks, potentially increasing AI's integration into work processes and accelerating job replacement in certain areas.",
-    "date": "2026-04-15",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "productivity tools",
-      "workplace automation"
-    ],
-    "fetchedAt": "2026-04-16T11:00:33.250Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "management"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "database-administrators",
-      "information-security-analysts",
-      "web-developers"
-    ]
-  },
-  {
-    "id": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agent",
-    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-    "summary": "OpenAI's update to its Agents SDK enhances AI capabilities, potentially accelerating AI's role in replacing human jobs by making it easier for enterprises to build more advanced agents.",
-    "date": "2026-04-15",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "enterprise adoption",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-16T11:00:32.105Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 88,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "occupationIDs": [
-      "software-developers",
-      "computer-systems-analysts",
-      "database-administrators",
-      "information-security-analysts",
-      "network-and-computer-systems-administrators"
     ]
   }
 ]

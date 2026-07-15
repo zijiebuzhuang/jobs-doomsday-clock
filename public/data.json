@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:03",
+  "displayTime": "00:00:46",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.043,
+  "exactMinutesToMidnight": -0.76,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.043,
+  "newsAdjustment": -13.76,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.072,
+  "macroReplacementRate": 50.053,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,152 +3448,112 @@
   ],
   "newsFeed": [
     {
-      "id": "philippine-outsourcing-group-cuts-revenue-and-jobs-forecasts-on-ai",
-      "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
-      "summary": "AI adoption is causing a major shift in the outsourcing industry, leading to reduced revenue and job forecasts in the Philippines.",
+      "id": "how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+      "summary": "AI agents are becoming more capable of managing complex ML workflows, increasing productivity and changing the skills required for research roles.",
       "date": "2026-07-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workflow automation",
+        "reinforcement learning",
+        "productivity"
+      ],
+      "fetchedAt": "2026-07-15T11:01:03.889Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png"
+    },
+    {
+      "id": "openai-may-announce-a-chatgpt-smart-speaker-this-year",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "summary": "OpenAI's potential smart speaker could integrate AI into everyday work and personal environments, increasing AI's presence in daily workflows.",
+      "date": "2026-07-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "consumer-products",
+        "ai-hardware",
+        "workplace-adoption"
+      ],
+      "fetchedAt": "2026-07-15T11:01:03.889Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-clou",
+      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+      "summary": "A security flaw in SpaceXAI's Grok coding tool raised concerns about data privacy and could slow AI adoption in development workflows.",
+      "date": "2026-07-14",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "outsourcing",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "office-and-administrative-support",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-workforce-opportunities-congress-examines-jobs",
-      "title": "AI Workforce Opportunities: Congress Examines Jobs",
-      "summary": "Congress examining AI workforce opportunities suggests growing attention to how AI impacts job markets and labor policies.",
-      "date": "2026-07-13",
-      "source": "Legis1",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVNFAyS0dmYkl5QTRGOGRYWm5RMVF1ZWcxbFBQUWY4WWZMYmZxVjdKZDRveWEwSE0wQm1sWVU3eWJncGhGY3BtWVJTRFJqa1VpSnFDY0tSMTJ4dVdyNG00U1p0a19Ycml1eE9xZmNOTWlvbTlRTFI4ek5TRjR2UQ?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "workforce",
+        "data-security",
+        "AI-tools",
         "regulation"
       ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "waze-adds-new-ai-powered-features-and-customization-updates",
-      "title": "Waze adds new AI-powered features and customization updates",
-      "summary": "Waze's integration of Google's Gemini AI highlights growing AI adoption in consumer navigation tools, reflecting broader industry trends in AI-driven product enhancement.",
-      "date": "2026-07-13",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "navigation"
-      ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
+      "fetchedAt": "2026-07-15T11:01:03.889Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-      "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
-      "summary": "A major AI infrastructure financing in Asia signals growing demand for GPU-backed computing, reflecting increased adoption of AI technologies in enterprise and data center operations.",
+      "id": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us",
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "summary": "Calls for a global AI watchdog led by the US may shape future AI regulation and adoption in workplaces.",
       "date": "2026-07-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-      "effect": "advance",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "GPU demand"
+        "regulation",
+        "policy",
+        "AI governance"
       ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-07-15T11:01:03.889Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "legal",
         "_all"
-      ]
-    },
-    {
-      "id": "finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
-      "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
-      "summary": "Finland's NestAI is developing sovereign AI tools for military use, signaling increased adoption of AI in defense and related technical fields.",
-      "date": "2026-07-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "military",
-        "ai-development",
-        "sovereign-ai"
       ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "sk-hynix-shares-rebound-after-early-rout-as-ai-jitters-persist",
-      "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
-      "summary": "SK Hynix's stock rebound highlights the ongoing influence of AI demand on semiconductor markets, reflecting growing pressure for AI infrastructure.",
-      "date": "2026-07-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "market volatility",
-        "semiconductor industry"
-      ],
-      "fetchedAt": "2026-07-14T11:01:00.531Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-07-14T12:00:00.000Z",
+  "generatedAt": "2026-07-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "New signals show mixed momentum in AI job market dynamics.",
-      "body": "Recent news shows a mix of delays and advances in AI's impact on jobs. A Philippine outsourcing firm cut forecasts due to AI, while Congress and tech companies highlight growing AI opportunities. Overall, the trend remains balanced but with increasing focus on AI-driven transformations."
+      "title": "AI Advances and Concerns Shape Job Market Dynamics",
+      "preview": "New tools and security issues highlight mixed progress in AI integration.",
+      "body": "Two major advances in AI capabilities were reported, including improved research workflows and a potential new product from OpenAI. However, security concerns and regulatory calls for oversight introduced delays. The overall trend shows growing AI influence with both opportunities and risks emerging."
     }
   }
 }
