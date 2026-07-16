@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:46",
+  "displayTime": "00:00:58",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.76,
+  "exactMinutesToMidnight": -0.973,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.76,
+  "newsAdjustment": -13.973,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.053,
+  "macroReplacementRate": 50.067,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,87 +3448,36 @@
   ],
   "newsFeed": [
     {
-      "id": "how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
-      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-      "summary": "AI agents are becoming more capable of managing complex ML workflows, increasing productivity and changing the skills required for research roles.",
-      "date": "2026-07-14",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "summary": "AI implementation expertise is becoming a key focus for enterprise adoption, signaling a shift toward embedding AI professionals within companies.",
+      "date": "2026-07-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workflow automation",
-        "reinforcement learning",
-        "productivity"
+        "enterprise-adoption",
+        "AI-implementation",
+        "workforce-skills"
       ],
-      "fetchedAt": "2026-07-15T11:01:03.889Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png"
-    },
-    {
-      "id": "openai-may-announce-a-chatgpt-smart-speaker-this-year",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "summary": "OpenAI's potential smart speaker could integrate AI into everyday work and personal environments, increasing AI's presence in daily workflows.",
-      "date": "2026-07-14",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "consumer-products",
-        "ai-hardware",
-        "workplace-adoption"
-      ],
-      "fetchedAt": "2026-07-15T11:01:03.889Z",
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-clou",
-      "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-      "summary": "A security flaw in SpaceXAI's Grok coding tool raised concerns about data privacy and could slow AI adoption in development workflows.",
-      "date": "2026-07-14",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "data-security",
-        "AI-tools",
-        "regulation"
-      ],
-      "fetchedAt": "2026-07-15T11:01:03.889Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us",
-      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-      "summary": "Calls for a global AI watchdog led by the US may shape future AI regulation and adoption in workplaces.",
-      "date": "2026-07-14",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "id": "the-us-is-advancing-ai-safety-through-state-and-federal-action",
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "State and federal AI safety initiatives may slow or shape the pace of AI adoption in workplaces.",
+      "date": "2026-07-15",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
@@ -3536,24 +3485,168 @@
         "policy",
         "AI governance"
       ],
-      "fetchedAt": "2026-07-15T11:01:03.889Z",
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-finally-launches-hardware-for-codex",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI's Codex Micro hardware represents a new tool for developers, potentially increasing productivity and changing workflows in coding and software development.",
+      "date": "2026-07-15",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "coding",
+        "productivity"
+      ],
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "production"
+      ]
+    },
+    {
+      "id": "gpt-red-unlocking-self-improvement-for-robustness",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "GPT-Red represents a major advancement in AI safety and robustness, signaling progress in making AI systems more secure and reliable for real-world applications.",
+      "date": "2026-07-15",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "model development",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
+      ]
+    },
+    {
+      "id": "whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Whatnot's acquisition of Shaped highlights AI-driven personalization and real-time recommendations becoming central to e-commerce and retail workflows.",
+      "date": "2026-07-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "personalization",
+        "e-commerce",
+        "workplace productivity"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "sales"
+      ]
+    },
+    {
+      "id": "inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-ente",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "summary": "A startup backed by major investors is deploying AI engineers in enterprises, signaling increased adoption of AI in corporate workflows and consulting roles.",
+      "date": "2026-07-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise AI",
+        "AI workforce",
+        "consulting industry"
+      ],
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 79,
+      "contentType": "video",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+      "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+      "summary": "Nvidia's expanded partnership with Toyota signals increased AI adoption in manufacturing and urban infrastructure, accelerating AI-driven transformations in industrial and smart city workflows.",
+      "date": "2026-07-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise adoption",
+        "AI infrastructure",
+        "manufacturing automation"
+      ],
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "production",
+        "architecture-and-engineering",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "An AI coding startup achieving unicorn status highlights growing commercial adoption and potential for AI-driven productivity in software development and related fields.",
+      "date": "2026-07-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI startups",
+        "productivity",
+        "coding tools"
+      ],
+      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-07-15T12:00:00.000Z",
+  "generatedAt": "2026-07-16T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances and Concerns Shape Job Market Dynamics",
-      "preview": "New tools and security issues highlight mixed progress in AI integration.",
-      "body": "Two major advances in AI capabilities were reported, including improved research workflows and a potential new product from OpenAI. However, security concerns and regulatory calls for oversight introduced delays. The overall trend shows growing AI influence with both opportunities and risks emerging."
+      "title": "AI adoption accelerates with enterprise integration and safety progress",
+      "preview": "New developments highlight growing AI implementation and regulatory focus.",
+      "body": "Recent signals show strong momentum in AI deployment across enterprises, with several advancements in implementation and safety. However, new regulations may temper the pace of workplace adoption. Key highlights include Anthropic and Blackstone's focus on AI integration and OpenAI's safety improvements."
     }
   }
 }

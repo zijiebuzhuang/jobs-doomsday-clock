@@ -1,5 +1,240 @@
 [
   {
+    "date": "2026-07-16",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.973,
+    "macroReplacementRate": 50.067,
+    "newsAdjustment": -13.973,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-",
+        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "summary": "AI implementation expertise is becoming a key focus for enterprise adoption, signaling a shift toward embedding AI professionals within companies.",
+        "date": "2026-07-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "AI-implementation",
+          "workforce-skills"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-us-is-advancing-ai-safety-through-state-and-federal-action",
+        "title": "The US is advancing AI safety through state and federal action",
+        "summary": "State and federal AI safety initiatives may slow or shape the pace of AI adoption in workplaces.",
+        "date": "2026-07-15",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI governance"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-finally-launches-hardware-for-codex",
+        "title": "OpenAI finally launches hardware… for Codex",
+        "summary": "OpenAI's Codex Micro hardware represents a new tool for developers, potentially increasing productivity and changing workflows in coding and software development.",
+        "date": "2026-07-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "coding",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "production"
+        ]
+      },
+      {
+        "id": "gpt-red-unlocking-self-improvement-for-robustness",
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "summary": "GPT-Red represents a major advancement in AI safety and robustness, signaling progress in making AI systems more secure and reliable for real-world applications.",
+        "date": "2026-07-15",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "model development",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations",
+        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+        "summary": "Whatnot's acquisition of Shaped highlights AI-driven personalization and real-time recommendations becoming central to e-commerce and retail workflows.",
+        "date": "2026-07-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "personalization",
+          "e-commerce",
+          "workplace productivity"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "sales"
+        ]
+      },
+      {
+        "id": "inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-ente",
+        "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+        "summary": "A startup backed by major investors is deploying AI engineers in enterprises, signaling increased adoption of AI in corporate workflows and consulting roles.",
+        "date": "2026-07-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "AI workforce",
+          "consulting industry"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 79,
+        "contentType": "video",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+        "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+        "summary": "Nvidia's expanded partnership with Toyota signals increased AI adoption in manufacturing and urban infrastructure, accelerating AI-driven transformations in industrial and smart city workflows.",
+        "date": "2026-07-15",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise adoption",
+          "AI infrastructure",
+          "manufacturing automation"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "production",
+          "architecture-and-engineering",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c",
+        "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+        "summary": "An AI coding startup achieving unicorn status highlights growing commercial adoption and potential for AI-driven productivity in software development and related fields.",
+        "date": "2026-07-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI startups",
+          "productivity",
+          "coding tools"
+        ],
+        "fetchedAt": "2026-07-16T11:01:03.799Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models\" (TechCrunch - AI), while the clearest drag comes from \"The US is advancing AI safety through state and federal action\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.973 minutes. Updated 2026-07-16T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-15",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.76,
@@ -17310,437 +17545,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'.",
         "body": "This update leans forward, with 5 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -2.301 minutes. Updated 2026-04-16T12:00:00.000Z, with the macro replacement estimate at 49.3%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-15",
-    "minutesToMidnight": 11,
-    "exactMinutesToMidnight": 10.935,
-    "macroReplacementRate": 49.243,
-    "newsAdjustment": -2.065,
-    "categoryAdjustments": {
-      "healthcare": -0.236,
-      "life-physical-and-social-science": -0.254,
-      "architecture-and-engineering": -0.277,
-      "management": -0.332,
-      "business-and-financial": -0.348,
-      "construction-and-extraction": -0.207,
-      "production": -0.24,
-      "installation-maintenance-and-repair": -0.207,
-      "education-training-and-library": -0.197,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.233,
-      "personal-care-and-service": -0.224,
-      "sales": -0.233,
-      "media-and-communication": -0.187,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.199,
-      "arts-and-design": -0.187,
-      "entertainment-and-sports": -0.207,
-      "protective-service": -0.22,
-      "food-preparation-and-serving": -0.207,
-      "legal": -0.219,
-      "math": -0.23,
-      "farming-fishing-and-forestry": -0.207,
-      "building-and-grounds-cleaning": -0.207
-    },
-    "newsFeed": [
-      {
-        "id": "has-google-s-ai-watermarking-system-been-reverse-engineered-",
-        "title": "Has Google’s AI watermarking system been reverse-engineered?",
-        "summary": "The potential reverse-engineering of Google's AI watermarking system could slow the adoption of AI content verification, potentially delaying efforts to manage AI-generated content in creative and professional fields.",
-        "date": "2026-04-14",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "content verification",
-          "technology security"
-        ],
-        "fetchedAt": "2026-04-15T00:00:49.630Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "media-and-communication",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "web-developers",
-          "computer-support-specialists",
-          "information-security-analysts",
-          "database-administrators"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "chrome-now-lets-you-turn-ai-prompts-into-repeatable-skills-",
-        "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
-        "summary": "This feature accelerates AI's ability to automate repetitive tasks, increasing the potential for job replacement in administrative and technical roles.",
-        "date": "2026-04-14",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "automation",
-          "productivity",
-          "AI tools"
-        ],
-        "fetchedAt": "2026-04-15T00:00:48.154Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "secretaries-and-administrative-assistants",
-          "customer-service-representatives",
-          "bookkeeping-accounting-and-auditing-clerks",
-          "receptionists",
-          "financial-clerks"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK114_Google_Chrome_03.webp?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "the-attacks-on-sam-altman-are-a-warning-for-the-ai-world",
-        "title": "The attacks on Sam Altman are a warning for the AI world",
-        "summary": "The attacks on Sam Altman highlight growing public fear about AI's impact, potentially slowing its adoption and job replacement efforts.",
-        "date": "2026-04-14",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "public perception",
-          "AI safety"
-        ],
-        "fetchedAt": "2026-04-15T00:00:46.479Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "occupationIDs": [
-          "computer-and-information-systems-managers",
-          "software-developers",
-          "data-scientists",
-          "information-security-analysts",
-          "computer-programmers"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "anthropic-attracts-investor-offers-at-an-800-billion-valuation",
-        "title": "Anthropic Attracts Investor Offers at an $800 Billion Valuation",
-        "summary": "A high valuation of an AI startup suggests growing investment in AI, potentially accelerating AI's role in replacing human jobs.",
-        "date": "2026-04-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "investment",
-          "AI development",
-          "startup"
-        ],
-        "fetchedAt": "2026-04-15T00:00:58.671Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "occupationIDs": [
-          "computer-and-information-systems-managers",
-          "software-developers",
-          "data-scientists",
-          "computer-programmers",
-          "information-security-analysts"
-        ]
-      },
-      {
-        "id": "how-to-use-google-chrome-s-new-ai-powered-skills-",
-        "title": "How to Use Google Chrome’s New AI-Powered ‘Skills’",
-        "summary": "New AI-powered features in Google Chrome may help users perform tasks more efficiently, potentially reducing the need for certain job functions.",
-        "date": "2026-04-14",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-        "effect": "advance",
-        "impactScore": 2,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-15T00:00:55.729Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "occupationIDs": [
-          "computer-support-specialists",
-          "software-developers",
-          "web-developers",
-          "database-administrators",
-          "information-security-analysts"
-        ]
-      },
-      {
-        "id": "in-the-wake-of-anthropic-s-mythos-openai-has-a-new-cybersecurity-model-and-strat",
-        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-        "summary": "New cybersecurity AI models may increase reliance on AI for security tasks, potentially replacing some human roles in IT and cybersecurity.",
-        "date": "2026-04-14",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "cybersecurity",
-          "AI development",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-15T00:00:54.049Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "occupationIDs": [
-          "information-security-analysts",
-          "network-and-computer-systems-administrators",
-          "computer-support-specialists",
-          "software-developers",
-          "database-administrators"
-        ]
-      },
-      {
-        "id": "openai-has-bought-ai-personal-finance-startup-hiro",
-        "title": "OpenAI has bought AI personal finance startup Hiro",
-        "summary": "OpenAI's acquisition of Hiro suggests increased integration of AI in financial planning, potentially automating tasks in the business and financial sectors.",
-        "date": "2026-04-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "financial technology",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-15T00:00:45.078Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology"
-        ],
-        "occupationIDs": [
-          "personal-financial-advisors",
-          "financial-analysts",
-          "loan-officers",
-          "budget-analysts",
-          "credit-counselors"
-        ]
-      },
-      {
-        "id": "google-brings-its-gemini-personal-intelligence-feature-to-india",
-        "title": "Google brings its Gemini Personal Intelligence feature to India",
-        "summary": "Google's Gemini Personal Intelligence feature in India could lead to more automation in personal and administrative tasks, potentially affecting jobs in office and administrative support.",
-        "date": "2026-04-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "personalization",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-15T00:00:43.611Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "office-and-administrative-support"
-        ],
-        "occupationIDs": [
-          "receptionists",
-          "secretaries-and-administrative-assistants",
-          "customer-service-representatives",
-          "general-office-clerks",
-          "financial-clerks"
-        ]
-      },
-      {
-        "id": "google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-        "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-        "summary": "Google's AI-powered Chrome Skills feature could increase efficiency in task automation, potentially reducing the need for certain manual or repetitive job tasks.",
-        "date": "2026-04-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI integration",
-          "productivity tools",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-15T00:00:42.291Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "occupationIDs": [
-          "computer-support-specialists",
-          "software-developers",
-          "web-developers",
-          "database-administrators",
-          "information-security-analysts"
-        ]
-      },
-      {
-        "id": "anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed",
-        "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-        "summary": "The opposition to the AI liability bill may slow the adoption of AI technologies, potentially delaying AI's impact on job replacement.",
-        "date": "2026-04-14",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI regulation",
-          "liability",
-          "policy"
-        ],
-        "fetchedAt": "2026-04-15T00:00:57.268Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "the-future-of-work-how-ai-automation-is-transforming-jobs-and-careers-worldwide-",
-        "title": "The Future of Work: How AI Automation Is Transforming Jobs and Careers Worldwide - Tech Times",
-        "summary": "The article highlights how AI automation is significantly transforming jobs and careers globally, suggesting increased replacement of human roles by AI.",
-        "date": "2026-04-14",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkFDb2N3QTN5UVI3RGt1ZGRlTVNwTFlBMzktTjNkVE1PMTZ4UkNqZ2w3aGRCc3JOVUE5bUwxUV9Cc0M1b0J1dS00R0hJNmQtR05haklsS1V1cmNMdnNOcGp5NjhZUWFVamoyNlFUYTJmbVlkTzkzSklWZjRyU1R3b1VUQ1FnQ2dGX3FCY0hDMnVHbVFmVl9ROVUta2Q0QUV5eFNQUHVIQXRubVRzQmZ5XzdWNGc2eEhhY1Brdw?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI impact",
-          "automation",
-          "future of work"
-        ],
-        "fetchedAt": "2026-04-15T00:00:38.443Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 58,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "office-and-administrative-support"
-        ],
-        "occupationIDs": [
-          "management-analysts",
-          "financial-analysts",
-          "project-management-specialists",
-          "computer-systems-analysts",
-          "software-developers"
-        ]
-      },
-      {
-        "id": "read-openai-s-latest-internal-memo-about-beating-the-competition-including-anthr",
-        "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
-        "summary": "OpenAI's focus on locking in users and building a moat around its AI products suggests efforts to maintain competitive advantage, potentially accelerating AI adoption and job replacement in various sectors.",
-        "date": "2026-04-13",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI competition",
-          "enterprise adoption",
-          "user retention"
-        ],
-        "fetchedAt": "2026-04-15T00:00:52.742Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "management-analysts",
-          "project-management-specialists",
-          "software-developers",
-          "data-scientists"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "mit-study-challenges-ai-job-apocalypse-narrative-axios",
-        "title": "MIT study challenges AI job apocalypse narrative - Axios",
-        "summary": "A MIT study challenges the idea that AI will cause a major job apocalypse, suggesting it may slow down the pace of AI-driven job replacement.",
-        "date": "2026-04-02",
-        "source": "AI Workforce",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVG94Sjk3b25lay1GODE5a1AzdmdnbzU5dDhKSloxbkU1N0N0czBvdGcxYWdjcEF3aU1XSU8tU2l0X1BvS213ZW16cVJXQV9yV3FoRGVMX0NMc2g1Z1h2aEJ4SFZQQWJGQzBTd3lmaXl4ZFpIOFE?oc=5",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI",
-          "job market",
-          "research"
-        ],
-        "fetchedAt": "2026-04-15T00:00:39.900Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Chrome now lets you turn AI prompts into repeatable ‘Skills’.",
-        "body": "This update is split between 9 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Chrome now lets you turn AI prompts into repeatable ‘Skills’\" (The Verge - AI), while the clearest drag comes from \"Has Google’s AI watermarking system been reverse-engineered?\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.065 minutes. Updated 2026-04-15T12:00:00.000Z, with the macro replacement estimate at 49.2%."
       }
     }
   }
