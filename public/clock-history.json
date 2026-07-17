@@ -1,5 +1,218 @@
 [
   {
+    "date": "2026-07-17",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.17,
+    "macroReplacementRate": 50.081,
+    "newsAdjustment": -14.17,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "xi-promises-ai-for-all-in-debut-at-china-s-top-tech-summit",
+        "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit",
+        "summary": "President Xi's push for accessible AI highlights China's growing influence in AI development and its potential to reshape global tech dynamics and workforce trends.",
+        "date": "2026-07-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "global-influence",
+          "ai-adoption"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "claude-can-now-use-your-1password-credentials-for-you",
+        "title": "Claude can now use your 1Password credentials for you",
+        "summary": "AI chatbots like Claude are now able to securely access and use user credentials, streamlining task automation and improving productivity in workflows that require login-based actions.",
+        "date": "2026-07-16",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI integration",
+          "workflow automation",
+          "security",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-is-renaming-notebooklm-to-gemini-notebook",
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "summary": "Google rebranding its AI note-taking app reflects ongoing integration of AI into productivity tools, signaling increased adoption and refinement of AI in work workflows.",
+        "date": "2026-07-16",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI product development",
+          "workplace productivity",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-vids-now-lets-you-star-in-your-own-ai-videos",
+        "title": "Google Vids now lets you star in your own AI videos",
+        "summary": "Google's AI video tools enable users to create personalized content, signaling increased adoption of AI in media and creative workflows.",
+        "date": "2026-07-16",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "media-and-communication",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "japan-s-nikkei-225-enters-correction-on-fears-ai-rally-overdone",
+        "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+        "summary": "Concerns about an overdone AI rally may lead to reduced investment or slower adoption in AI-driven industries.",
+        "date": "2026-07-17",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "market-sentiment",
+          "investment",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "moonshot-s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic-s-opus-4-",
+        "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+        "summary": "Kimi 3's large parameter count signals increased AI capability in China, potentially affecting tech and enterprise workflows.",
+        "date": "2026-07-16",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model advancement",
+          "enterprise AI",
+          "global AI competition"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-ordered-to-open-android-and-search-to-rivals-in-europe",
+        "title": "Google ordered to open Android and Search to rivals in Europe",
+        "summary": "Regulatory action in Europe could limit Google's control over AI tools and platforms, potentially slowing the dominance of its AI capabilities like Gemini.",
+        "date": "2026-07-16",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "antitrust",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-17T11:00:58.931Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Xi Promises AI for All in Debut at China’s Top Tech Summit.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Xi Promises AI for All in Debut at China’s Top Tech Summit\" (Bloomberg Technology), while the clearest drag comes from \"Google ordered to open Android and Search to rivals in Europe\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.170 minutes. Updated 2026-07-17T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-16",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.973,
@@ -17348,203 +17561,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Nervous Indian Fintechs Push Anthropic for Access to Mythos.",
         "body": "This update is split between 11 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nervous Indian Fintechs Push Anthropic for Access to Mythos\" (Bloomberg Technology), while the clearest drag comes from \"Treating enterprise AI as an operating layer\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -2.268 minutes. Updated 2026-04-17T12:00:00.000Z, with the macro replacement estimate at 49.3%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-16",
-    "minutesToMidnight": 11,
-    "exactMinutesToMidnight": 10.699,
-    "macroReplacementRate": 49.259,
-    "newsAdjustment": -2.301,
-    "categoryAdjustments": {
-      "healthcare": -0.249,
-      "life-physical-and-social-science": -0.266,
-      "architecture-and-engineering": -0.289,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.22,
-      "production": -0.252,
-      "installation-maintenance-and-repair": -0.22,
-      "education-training-and-library": -0.209,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.246,
-      "personal-care-and-service": -0.236,
-      "sales": -0.246,
-      "media-and-communication": -0.208,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.212,
-      "arts-and-design": -0.208,
-      "entertainment-and-sports": -0.22,
-      "protective-service": -0.233,
-      "food-preparation-and-serving": -0.22,
-      "legal": -0.231,
-      "math": -0.243,
-      "farming-fishing-and-forestry": -0.22,
-      "building-and-grounds-cleaning": -0.22
-    },
-    "newsFeed": [
-      {
-        "id": "anthropic-s-mythos-to-be-available-to-uk-banks-within-next-week-",
-        "title": "Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'",
-        "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased adoption of advanced AI in financial institutions, potentially accelerating job replacement in finance and related sectors.",
-        "date": "2026-04-16",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-04-16/anthropic-s-mythos-available-to-uk-banks-in-next-week-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "financial technology",
-          "cybersecurity"
-        ],
-        "fetchedAt": "2026-04-16T11:00:37.812Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "management"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "credit-counselors",
-          "loan-officers",
-          "management-analysts",
-          "financial-examiners"
-        ]
-      },
-      {
-        "id": "anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-        "title": "Anthropic Plans to Bring Mythos to UK Banks Within the Next Week",
-        "summary": "The release of Anthropic's Mythos AI model to UK banks signals increased AI adoption in the financial sector, potentially accelerating job replacement in that industry.",
-        "date": "2026-04-16",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-16/anthropic-plans-to-bring-mythos-to-uk-banks-within-the-next-week",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "financial sector",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-16T11:00:36.717Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology"
-        ],
-        "occupationIDs": [
-          "financial-analysts",
-          "loan-officers",
-          "credit-counselors",
-          "compliance-officers",
-          "accountants-and-auditors"
-        ]
-      },
-      {
-        "id": "google-launches-a-gemini-ai-app-on-mac",
-        "title": "Google launches a Gemini AI app on Mac",
-        "summary": "The launch of the Gemini AI app on Mac may increase AI's integration into daily workflows, potentially accelerating its role in replacing certain job functions.",
-        "date": "2026-04-15",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "productivity tools",
-          "workplace technology"
-        ],
-        "fetchedAt": "2026-04-16T11:00:35.675Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 93,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "web-developers",
-          "computer-systems-analysts",
-          "database-administrators",
-          "information-security-analysts"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "google-rolls-out-a-native-gemini-app-for-mac",
-        "title": "Google rolls out a native Gemini app for Mac",
-        "summary": "The introduction of a native Gemini app for Mac could enhance AI's role in assisting with tasks, potentially increasing AI's integration into work processes and accelerating job replacement in certain areas.",
-        "date": "2026-04-15",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "productivity tools",
-          "workplace automation"
-        ],
-        "fetchedAt": "2026-04-16T11:00:33.250Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "management"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "database-administrators",
-          "information-security-analysts",
-          "web-developers"
-        ]
-      },
-      {
-        "id": "openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agent",
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-        "summary": "OpenAI's update to its Agents SDK enhances AI capabilities, potentially accelerating AI's role in replacing human jobs by making it easier for enterprises to build more advanced agents.",
-        "date": "2026-04-15",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "enterprise adoption",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-16T11:00:32.105Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 88,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "occupationIDs": [
-          "software-developers",
-          "computer-systems-analysts",
-          "database-administrators",
-          "information-security-analysts",
-          "network-and-computer-systems-administrators"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'.",
-        "body": "This update leans forward, with 5 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Anthropic's Mythos to Be Available to UK Banks Within 'Next Week'\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -2.301 minutes. Updated 2026-04-16T12:00:00.000Z, with the macro replacement estimate at 49.3%."
       }
     }
   }

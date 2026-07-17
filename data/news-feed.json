@@ -1,5 +1,176 @@
 [
   {
+    "id": "claude-can-now-use-your-1password-credentials-for-you",
+    "title": "Claude can now use your 1Password credentials for you",
+    "summary": "AI chatbots like Claude are now able to securely access and use user credentials, streamlining task automation and improving productivity in workflows that require login-based actions.",
+    "date": "2026-07-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI integration",
+      "workflow automation",
+      "security",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-is-renaming-notebooklm-to-gemini-notebook",
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "summary": "Google rebranding its AI note-taking app reflects ongoing integration of AI into productivity tools, signaling increased adoption and refinement of AI in work workflows.",
+    "date": "2026-07-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI product development",
+      "workplace productivity",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-ordered-to-open-android-and-search-to-rivals-in-europe",
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "summary": "Regulatory action in Europe could limit Google's control over AI tools and platforms, potentially slowing the dominance of its AI capabilities like Gemini.",
+    "date": "2026-07-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "antitrust",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "xi-promises-ai-for-all-in-debut-at-china-s-top-tech-summit",
+    "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit",
+    "summary": "President Xi's push for accessible AI highlights China's growing influence in AI development and its potential to reshape global tech dynamics and workforce trends.",
+    "date": "2026-07-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "global-influence",
+      "ai-adoption"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "japan-s-nikkei-225-enters-correction-on-fears-ai-rally-overdone",
+    "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+    "summary": "Concerns about an overdone AI rally may lead to reduced investment or slower adoption in AI-driven industries.",
+    "date": "2026-07-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "market-sentiment",
+      "investment",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-vids-now-lets-you-star-in-your-own-ai-videos",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "summary": "Google's AI video tools enable users to create personalized content, signaling increased adoption of AI in media and creative workflows.",
+    "date": "2026-07-16",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "media-and-communication",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "moonshot-s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic-s-opus-4-",
+    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+    "summary": "Kimi 3's large parameter count signals increased AI capability in China, potentially affecting tech and enterprise workflows.",
+    "date": "2026-07-16",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model advancement",
+      "enterprise AI",
+      "global AI competition"
+    ],
+    "fetchedAt": "2026-07-17T11:00:58.931Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "the-us-is-advancing-ai-safety-through-state-and-federal-action",
     "title": "The US is advancing AI safety through state and federal action",
     "summary": "State and federal AI safety initiatives may slow or shape the pace of AI adoption in workplaces.",

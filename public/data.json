@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:58",
+  "displayTime": "00:01:10",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.973,
+  "exactMinutesToMidnight": -1.17,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.973,
+  "newsAdjustment": -14.17,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.067,
+  "macroReplacementRate": 50.081,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,21 +3448,21 @@
   ],
   "newsFeed": [
     {
-      "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "AI implementation expertise is becoming a key focus for enterprise adoption, signaling a shift toward embedding AI professionals within companies.",
-      "date": "2026-07-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "id": "xi-promises-ai-for-all-in-debut-at-china-s-top-tech-summit",
+      "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit",
+      "summary": "President Xi's push for accessible AI highlights China's growing influence in AI development and its potential to reshape global tech dynamics and workforce trends.",
+      "date": "2026-07-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "AI-implementation",
-        "workforce-skills"
+        "policy",
+        "global-influence",
+        "ai-adoption"
       ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3472,166 +3472,119 @@
       ]
     },
     {
-      "id": "the-us-is-advancing-ai-safety-through-state-and-federal-action",
-      "title": "The US is advancing AI safety through state and federal action",
-      "summary": "State and federal AI safety initiatives may slow or shape the pace of AI adoption in workplaces.",
-      "date": "2026-07-15",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "effect": "delay",
+      "id": "claude-can-now-use-your-1password-credentials-for-you",
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "AI chatbots like Claude are now able to securely access and use user credentials, streamlining task automation and improving productivity in workflows that require login-based actions.",
+      "date": "2026-07-16",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "AI governance"
+        "AI integration",
+        "workflow automation",
+        "security",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-finally-launches-hardware-for-codex",
-      "title": "OpenAI finally launches hardware… for Codex",
-      "summary": "OpenAI's Codex Micro hardware represents a new tool for developers, potentially increasing productivity and changing workflows in coding and software development.",
-      "date": "2026-07-15",
+      "id": "google-is-renaming-notebooklm-to-gemini-notebook",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "summary": "Google rebranding its AI note-taking app reflects ongoing integration of AI into productivity tools, signaling increased adoption and refinement of AI in work workflows.",
+      "date": "2026-07-16",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "sourceUrl": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI product development",
+        "workplace productivity",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "google-vids-now-lets-you-star-in-your-own-ai-videos",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google's AI video tools enable users to create personalized content, signaling increased adoption of AI in media and creative workflows.",
+      "date": "2026-07-16",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "AI tools",
-        "coding",
+        "media-and-communication",
         "productivity"
       ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "media-and-communication",
         "computer-and-information-technology",
-        "management",
-        "production"
-      ]
-    },
-    {
-      "id": "gpt-red-unlocking-self-improvement-for-robustness",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary": "GPT-Red represents a major advancement in AI safety and robustness, signaling progress in making AI systems more secure and reliable for real-world applications.",
-      "date": "2026-07-15",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "model development",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Whatnot's acquisition of Shaped highlights AI-driven personalization and real-time recommendations becoming central to e-commerce and retail workflows.",
-      "date": "2026-07-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "effect": "advance",
-      "impactScore": 4,
+      "id": "japan-s-nikkei-225-enters-correction-on-fears-ai-rally-overdone",
+      "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+      "summary": "Concerns about an overdone AI rally may lead to reduced investment or slower adoption in AI-driven industries.",
+      "date": "2026-07-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "personalization",
-        "e-commerce",
-        "workplace productivity"
+        "market-sentiment",
+        "investment",
+        "regulation"
       ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
-        "sales"
+        "_all"
       ]
     },
     {
-      "id": "inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-ente",
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "summary": "A startup backed by major investors is deploying AI engineers in enterprises, signaling increased adoption of AI in corporate workflows and consulting roles.",
-      "date": "2026-07-15",
+      "id": "moonshot-s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic-s-opus-4-",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "Kimi 3's large parameter count signals increased AI capability in China, potentially affecting tech and enterprise workflows.",
+      "date": "2026-07-16",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "sourceUrl": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
+        "AI model advancement",
         "enterprise AI",
-        "AI workforce",
-        "consulting industry"
+        "global AI competition"
       ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 79,
-      "contentType": "video",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
-      "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
-      "summary": "Nvidia's expanded partnership with Toyota signals increased AI adoption in manufacturing and urban infrastructure, accelerating AI-driven transformations in industrial and smart city workflows.",
-      "date": "2026-07-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise adoption",
-        "AI infrastructure",
-        "manufacturing automation"
-      ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "production",
-        "architecture-and-engineering",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "An AI coding startup achieving unicorn status highlights growing commercial adoption and potential for AI-driven productivity in software development and related fields.",
-      "date": "2026-07-15",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI startups",
-        "productivity",
-        "coding tools"
-      ],
-      "fetchedAt": "2026-07-16T11:01:03.799Z",
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3639,14 +3592,39 @@
         "computer-and-information-technology",
         "_all"
       ]
+    },
+    {
+      "id": "google-ordered-to-open-android-and-search-to-rivals-in-europe",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "Regulatory action in Europe could limit Google's control over AI tools and platforms, potentially slowing the dominance of its AI capabilities like Gemini.",
+      "date": "2026-07-16",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "antitrust",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-07-17T11:00:58.931Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-2-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-07-16T12:00:00.000Z",
+  "generatedAt": "2026-07-17T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with enterprise integration and safety progress",
-      "preview": "New developments highlight growing AI implementation and regulatory focus.",
-      "body": "Recent signals show strong momentum in AI deployment across enterprises, with several advancements in implementation and safety. However, new regulations may temper the pace of workplace adoption. Key highlights include Anthropic and Blackstone's focus on AI integration and OpenAI's safety improvements."
+      "title": "AI Advancements and Regulatory Concerns Shape Job Market Outlook",
+      "preview": "Positive AI developments contrast with growing regulatory concerns.",
+      "body": "Recent news shows strong AI progress, including President Xi's push for accessible AI and Google's rebranding efforts. However, market corrections and regulatory actions in Europe signal potential slowdowns. Overall, the balance remains cautiously optimistic."
     }
   }
 }
