@@ -1,5 +1,170 @@
 [
   {
+    "id": "a-scorecard-for-the-ai-age",
+    "title": "A scorecard for the AI age",
+    "summary": "A practical AI scorecard introduced by OpenAI's CFO signals growing emphasis on measuring AI's real-world impact and efficiency in the workplace.",
+    "date": "2026-07-17",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity metrics",
+      "workplace AI"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "how-google-s-new-gemini-rates-work-and-how-to-track-your-usage",
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "summary": "Google's new usage quota system may limit AI access, affecting how users interact with AI tools and potentially slowing adoption in work environments.",
+    "date": "2026-07-18",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI usage limits",
+      "workplace adoption",
+      "AI infrastructure"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
+    "title": "China Joins Rush to Rethink the Smartphone for the AI Era",
+    "summary": "Chinese companies like ZTE are integrating AI into smartphones, signaling a shift toward AI-driven mobile technology that could influence various industries and workflows.",
+    "date": "2026-07-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "consumer tech",
+      "enterprise integration"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+    "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
+    "summary": "Allegations of AI technology theft highlight potential regulatory and geopolitical barriers to AI adoption and collaboration.",
+    "date": "2026-07-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "international relations",
+      "AI security"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "china-s-moonshot-unveils-ai-model-fueling-tech-rout",
+    "title": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
+    "summary": "China's Moonshot releases an AI model that rivals top US platforms, signaling increased global competition in AI development and potential shifts in tech workforce dynamics.",
+    "date": "2026-07-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "global competition",
+      "tech adoption"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-in-talks-to-sell-computing-power-to-anthropic",
+    "title": "Meta in Talks to Sell Computing Power to Anthropic",
+    "summary": "Meta's potential deal with Anthropic shows growing AI infrastructure as a valuable service, signaling increased adoption and commercialization of AI in enterprise workflows.",
+    "date": "2026-07-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "computing power"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+    "summary": "ASML's bonus reflects growing AI demand driving higher compensation in the chip industry, signaling increased pressure and value in AI-related roles.",
+    "date": "2026-07-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace compensation",
+      "industry growth"
+    ],
+    "fetchedAt": "2026-07-18T11:01:09.075Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
     "id": "claude-can-now-use-your-1password-credentials-for-you",
     "title": "Claude can now use your 1Password credentials for you",
     "summary": "AI chatbots like Claude are now able to securely access and use user credentials, streamlining task automation and improving productivity in workflows that require login-based actions.",
@@ -13012,269 +13177,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV9624736069.mp3?key=b6f2f6a52afc6002514a7a4068996e41&request_event_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&session_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&timetoken=1777178620_52CFF933B777C06A61507E8FFE4C9F67",
     "duration": "7 min"
-  },
-  {
-    "id": "anthropic-s-new-cybersecurity-model-could-get-it-back-in-the-government-s-good-g",
-    "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-    "summary": "Anthropic's new cybersecurity model may lead to increased AI adoption in government sectors, potentially replacing human roles in cybersecurity and related fields.",
-    "date": "2026-04-17",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "government contracts",
-      "cybersecurity"
-    ],
-    "fetchedAt": "2026-04-19T11:00:41.961Z",
-    "sourceGroup": "policy",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "protective-service",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "openai-s-former-sora-boss-is-leaving",
-    "title": "OpenAI’s former Sora boss is leaving",
-    "summary": "The departure of OpenAI's Sora team leader suggests a shift in focus away from video generation, potentially slowing progress in AI-driven content creation jobs.",
-    "date": "2026-04-17",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "job market",
-      "company restructuring"
-    ],
-    "fetchedAt": "2026-04-19T11:00:40.038Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "media-and-communication",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "schematik-is-cursor-for-hardware-anthropic-wants-in",
-    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "summary": "A new tool for coding physical devices could accelerate AI's role in automating tasks in engineering and technology fields.",
-    "date": "2026-04-18",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "automation",
-      "hardware coding"
-    ],
-    "fetchedAt": "2026-04-19T11:00:42.966Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "production"
-    ]
-  },
-  {
-    "id": "ai-chip-startup-cerebras-files-for-ipo",
-    "title": "AI chip startup Cerebras files for IPO",
-    "summary": "The IPO of AI chip startup Cerebras and its major deals with AWS and OpenAI indicate growing investment in AI infrastructure, accelerating AI's potential to replace human jobs.",
-    "date": "2026-04-18",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI development",
-      "corporate investment",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-19T11:00:34.227Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-trump-officials-meet-to-discuss-mythos-access",
-    "title": "Anthropic, Trump Officials Meet to Discuss Mythos Access",
-    "summary": "The meeting between Anthropic and Trump officials suggests increased government interest in AI, potentially accelerating AI adoption and its impact on jobs.",
-    "date": "2026-04-17",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-amodei-to-meet-wiles-with-us-seeking-mythos-access",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "government policy",
-      "corporate collaboration"
-    ],
-    "fetchedAt": "2026-04-19T11:00:44.933Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-executive-kevin-weil-is-leaving-the-company",
-    "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-    "summary": "A key executive leaving OpenAI may slow the development of AI tools that could replace certain jobs, particularly in tech and software development.",
-    "date": "2026-04-17",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "effect": "delay",
-    "impactScore": 2,
-    "tags": [
-      "executive-changes",
-      "ai-development"
-    ],
-    "fetchedAt": "2026-04-19T11:00:43.906Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-    "summary": "Claude Design enables non-designers to create visuals quickly, potentially reducing the need for professional designers.",
-    "date": "2026-04-17",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "automation",
-      "design"
-    ],
-    "fetchedAt": "2026-04-19T11:00:37.890Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "arts-and-design",
-      "computer-and-information-technology",
-      "management"
-    ]
-  },
-  {
-    "id": "tokenmaxxing-openai-s-shopping-spree-and-the-ai-anxiety-gap",
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "summary": "The article highlights growing AI investment and insider knowledge gaps, suggesting increased AI adoption and potential job displacement across industries.",
-    "date": "2026-04-17",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "job displacement",
-      "industry trends"
-    ],
-    "fetchedAt": "2026-04-19T11:00:36.936Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
-    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "summary": "OpenAI's shift away from consumer-focused AI projects may slow the pace of AI-driven job replacement in certain sectors.",
-    "date": "2026-04-17",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "organizational change",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-04-19T11:00:35.923Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "are-we-tokenmaxxing-our-way-to-nowhere-",
-    "title": "Are we tokenmaxxing our way to nowhere?",
-    "summary": "The growing divide between AI insiders and the general public, along with corporate moves to rebrand and control powerful AI models, suggests increased AI adoption and potential job displacement.",
-    "date": "2026-04-17",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "corporate strategy",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-19T11:00:38.959Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "video",
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ],
-    "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675"
-  },
-  {
-    "id": "elon-musk-s-fix-for-ai-replacing-jobs-just-send-everyone-a-cheque-international-",
-    "title": "Elon Musk's Fix for AI Replacing Jobs? Just Send Everyone a Cheque - International Business Times UK",
-    "summary": "Elon Musk suggests a universal basic income as a solution to AI replacing jobs, implying a delay in the acceleration of job displacement by AI.",
-    "date": "2026-04-17",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNF9GUnZJZ3VIWWVSdVJJTnRqT2F0LW1iY3JGMVZSOGdjeFlRbnB4M1NIdXhQNVVZT3hzNzcxMDJnNmZEUk1nYlJ4MDRqLWs5RVN5dmc4T1JmejdvbEgtbjc1cTd1R2RkamRsN1d1TlBmbDBuaVF5MG8xVmN5X1U?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "universal-basic-income",
-      "AI-employment-impact",
-      "policy-response"
-    ],
-    "fetchedAt": "2026-04-19T11:00:33.153Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
   }
 ]
