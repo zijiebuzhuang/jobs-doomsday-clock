@@ -1,5 +1,77 @@
 [
   {
+    "id": "how-cars24-scales-conversations-and-builds-faster-with-openai",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "summary": "Cars24 is using OpenAI-powered agents to improve customer service and sales workflows, showing AI's growing role in business operations.",
+    "date": "2026-07-16",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/cars24",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workflow automation",
+      "customer service",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-07-19T11:00:47.793Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "sales",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them",
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "summary": "Patreon's move to block AI scraping reflects growing regulatory and technical friction around AI training, potentially slowing adoption of AI models that rely on user-generated content.",
+    "date": "2026-07-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "data privacy",
+      "workplace AI adoption"
+    ],
+    "fetchedAt": "2026-07-19T11:00:47.793Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "jpmorgan-ceo-jamie-dimon-discusses-ai-workforce-impact-and-reskilling-strategy-n",
+    "title": "JPMorgan CEO Jamie Dimon Discusses AI Workforce Impact and Reskilling Strategy - News and Statistics",
+    "summary": "JPMorgan's CEO discussing AI's workforce impact and reskilling strategy signals growing AI adoption in finance and the need for workforce retraining.",
+    "date": "2026-07-16",
+    "source": "IndexBox",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWElnZ25ibF9WbzdOZHh0S2ZvQ1VzNWlqcEs0TXhkdkRybW1lQXZ6VTFlZWE0ajU0ZDc2Z19QXzBvNW5UdmhjSWNqQU5DaGdXVDVTRkxQeWtpX1BJQTRuR0VKLUxmQVg5YzVCWTV4V1o1VXJERE1Yci1xSWNzb251WEctUjZDalAzTFNyREhhb1BXclNsaVE?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "reskilling",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-07-19T11:00:47.793Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "a-scorecard-for-the-ai-age",
     "title": "A scorecard for the AI age",
     "summary": "A practical AI scorecard introduced by OpenAI's CFO signals growing emphasis on measuring AI's real-world impact and efficiency in the workplace.",

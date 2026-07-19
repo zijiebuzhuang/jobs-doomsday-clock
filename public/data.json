@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:18",
+  "displayTime": "00:01:24",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.297,
+  "exactMinutesToMidnight": -1.403,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.297,
+  "newsAdjustment": -14.403,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.09,
+  "macroReplacementRate": 50.097,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,91 +3448,45 @@
   ],
   "newsFeed": [
     {
-      "id": "a-scorecard-for-the-ai-age",
-      "title": "A scorecard for the AI age",
-      "summary": "A practical AI scorecard introduced by OpenAI's CFO signals growing emphasis on measuring AI's real-world impact and efficiency in the workplace.",
-      "date": "2026-07-17",
+      "id": "how-cars24-scales-conversations-and-builds-faster-with-openai",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "Cars24 is using OpenAI-powered agents to improve customer service and sales workflows, showing AI's growing role in business operations.",
+      "date": "2026-07-16",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "sourceUrl": "https://openai.com/index/cars24",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "productivity metrics",
-        "workplace AI"
+        "workflow automation",
+        "customer service",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
+      "fetchedAt": "2026-07-19T11:00:47.793Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "china-s-moonshot-unveils-ai-model-fueling-tech-rout",
-      "title": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
-      "summary": "China's Moonshot releases an AI model that rivals top US platforms, signaling increased global competition in AI development and potential shifts in tech workforce dynamics.",
-      "date": "2026-07-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "global competition",
-        "tech adoption"
-      ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "meta-in-talks-to-sell-computing-power-to-anthropic",
-      "title": "Meta in Talks to Sell Computing Power to Anthropic",
-      "summary": "Meta's potential deal with Anthropic shows growing AI infrastructure as a valuable service, signaling increased adoption and commercialization of AI in enterprise workflows.",
-      "date": "2026-07-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "computing power"
-      ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
-        "_all"
+        "sales",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "how-google-s-new-gemini-rates-work-and-how-to-track-your-usage",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Google's new usage quota system may limit AI access, affecting how users interact with AI tools and potentially slowing adoption in work environments.",
-      "date": "2026-07-18",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "id": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon's move to block AI scraping reflects growing regulatory and technical friction around AI training, potentially slowing adoption of AI models that rely on user-generated content.",
+      "date": "2026-07-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI usage limits",
-        "workplace adoption",
-        "AI infrastructure"
+        "AI regulation",
+        "data privacy",
+        "workplace AI adoption"
       ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
+      "fetchedAt": "2026-07-19T11:00:47.793Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3542,83 +3496,36 @@
       ]
     },
     {
-      "id": "china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
-      "title": "China Joins Rush to Rethink the Smartphone for the AI Era",
-      "summary": "Chinese companies like ZTE are integrating AI into smartphones, signaling a shift toward AI-driven mobile technology that could influence various industries and workflows.",
-      "date": "2026-07-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "consumer tech",
-        "enterprise integration"
-      ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
-      "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
-      "summary": "Allegations of AI technology theft highlight potential regulatory and geopolitical barriers to AI adoption and collaboration.",
-      "date": "2026-07-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "international relations",
-        "AI security"
-      ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
-      "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
-      "summary": "ASML's bonus reflects growing AI demand driving higher compensation in the chip industry, signaling increased pressure and value in AI-related roles.",
-      "date": "2026-07-17",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+      "id": "jpmorgan-ceo-jamie-dimon-discusses-ai-workforce-impact-and-reskilling-strategy-n",
+      "title": "JPMorgan CEO Jamie Dimon Discusses AI Workforce Impact and Reskilling Strategy - News and Statistics",
+      "summary": "JPMorgan's CEO discussing AI's workforce impact and reskilling strategy signals growing AI adoption in finance and the need for workforce retraining.",
+      "date": "2026-07-16",
+      "source": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWElnZ25ibF9WbzdOZHh0S2ZvQ1VzNWlqcEs0TXhkdkRybW1lQXZ6VTFlZWE0ajU0ZDc2Z19QXzBvNW5UdmhjSWNqQU5DaGdXVDVTRkxQeWtpX1BJQTRuR0VKLUxmQVg5YzVCWTV4V1o1VXJERE1Yci1xSWNzb251WEctUjZDalAzTFNyREhhb1BXclNsaVE?oc=5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workplace compensation",
-        "industry growth"
+        "reskilling",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-07-18T11:01:09.075Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-07-19T11:00:47.793Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "production",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-18T12:00:00.000Z",
+  "generatedAt": "2026-07-19T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue Amid Regulatory Headwinds",
-      "preview": "Global AI progress faces mixed signals with new tools and tensions.",
-      "body": "Recent developments show strong AI advancements, including OpenAI's scorecard and China's new AI model, while Google's usage limits and geopolitical concerns introduce delays. Overall, the feed reflects a dynamic balance between innovation and regulatory challenges."
+      "title": "AI job pressure sees mixed signals as adoption and resistance rise",
+      "preview": "New AI advances contrast with growing regulatory pushback.",
+      "body": "Recent news shows both progress and obstacles in AI integration. Cars24's use of OpenAI agents and JPMorgan's reskilling plans highlight AI's expanding role in business, while Patreon's crackdown on AI scraping reflects increasing technical and regulatory challenges. The overall balance suggests continued momentum but with emerging friction."
     }
   }
 }
