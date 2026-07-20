@@ -1,5 +1,201 @@
 [
   {
+    "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance",
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "summary": "China's advancements in AI models challenge U.S. dominance, signaling increased global competition and faster adoption of AI capabilities in key industries.",
+    "date": "2026-07-20",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "geopolitical impact",
+      "AI development",
+      "workforce competition"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
+    "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
+    "summary": "AI is driving economic growth in China, signaling increased adoption and investment in AI infrastructure that may influence workforce development and job markets.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "economic-growth",
+      "ai-infrastructure",
+      "workforce-adoption"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+    "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
+    "summary": "Moonshot AI's Kimi K3 release challenges leading AI companies, signaling rapid advancements in AI capabilities and shifting industry dynamics.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "industry competition",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "moonshot-is-creating-new-winners-and-losers-in-the-ai-trade",
+    "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
+    "summary": "Moonshot AI's new model release signals increased competition and innovation in the AI space, potentially accelerating adoption and reshaping tech industry dynamics.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "tech competition",
+      "market impact"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+    "title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027",
+    "summary": "Teleperformance's plan to AI-enable its entire workforce signals a major shift in how BPO companies are integrating AI into daily operations, increasing productivity and reshaping labor demands.",
+    "date": "2026-07-19",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "workforce-adoption",
+      "BPO",
+      "AI-integration"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "alibaba-shares-rise-after-unveiling-upgraded-flagship-ai-model",
+    "title": "Alibaba Shares Rise After Unveiling Upgraded Flagship AI Model",
+    "summary": "Alibaba's upgraded AI model launch signals increased AI capability and competitive pressure in the tech industry.",
+    "date": "2026-07-19",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "enterprise adoption",
+      "tech competition"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
+    "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
+    "summary": "A coding agent from Anthropic is reshaping software development workflows and influencing the broader tech industry.",
+    "date": "2026-07-20",
+    "source": "Apple Podcasts - Odd Lots",
+    "sourceUrl": "https://omny.fm/shows/odd-lots/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "coding",
+      "workflows",
+      "software development"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+    "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef32f81a-cd8d-4184-8eb6-b48a015709b4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "duration": "67 min"
+  },
+  {
+    "id": "ai-automation-hits-insurance-jobs-as-allianz-plans-cuts",
+    "title": "AI automation hits insurance jobs as Allianz plans cuts",
+    "summary": "Allianz's use of AI automation to plan job cuts signals increased pressure on insurance industry roles due to AI adoption.",
+    "date": "2026-07-20",
+    "source": "Life Insurance International",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaW1fR2puTkg4OU4wWmJ6VC0wWnNPaUw0am5seUR6U2t0NnVWVUtuR0h2MXBJVXRRV3U1eHBCaTdoWkZVenZPZEZ6V3VDLXl2TjltMmJlU2ZselNOQ2hSal9kbnpnNW1NU0xaY093dnNlNVVwanYyc3oyRDVMMFh4Zl8yeTZwTG15bUVBNmJwa0YtWkVZdEVuQ01NNHVTbUpiVlllcWxZQ05iZzV5TE5iRHd3?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI automation",
+      "job impact",
+      "insurance"
+    ],
+    "fetchedAt": "2026-07-20T11:00:51.470Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "business-and-financial",
+      "office-and-administrative-support",
+      "computer-and-information-technology"
+    ]
+  },
+  {
     "id": "how-cars24-scales-conversations-and-builds-faster-with-openai",
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "summary": "Cars24 is using OpenAI-powered agents to improve customer service and sales workflows, showing AI's growing role in business operations.",
