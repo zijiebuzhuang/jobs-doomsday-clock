@@ -1,5 +1,201 @@
 [
   {
+    "id": "safety-and-alignment-in-an-era-of-long-horizon-models",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "summary": "OpenAI's focus on safety and alignment in long-horizon models highlights growing regulatory and technical challenges that may slow AI deployment in workplaces.",
+    "date": "2026-07-20",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "safety",
+      "regulation",
+      "model development"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "automated-hardware-validation-test-plan-generation-for-large-scale-ai-datacenter",
+    "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
+    "summary": "A generative AI multi-agents architecture is being used to automate hardware validation test plan generation for large-scale AI datacenter platforms, indicating progress in AI-driven automation of complex engineering workflows.",
+    "date": "2026-07-17",
+    "source": "arXiv - AI Labor",
+    "sourceUrl": "https://arxiv.org/abs/2607.16388v1",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow automation",
+      "datacenter infrastructure",
+      "generative AI"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "adobe-s-natural-look-camera-app-embraces-generative-ai",
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "summary": "Adobe's integration of generative AI into its camera app signals growing adoption of AI in creative and design workflows, potentially altering skill requirements and productivity tools.",
+    "date": "2026-07-20",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "creative tools",
+      "workflow change"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "arts-and-design",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+    "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
+    "summary": "AI-driven demand for semiconductors is boosting South Korea's exports, signaling increased AI adoption and economic impact.",
+    "date": "2026-07-21",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "semiconductors",
+      "economic impact"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-shares-gain-on-report-of-chip-to-boost-ai-efficiency",
+    "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+    "summary": "Google's development of a specialized AI chip signals increased investment in AI efficiency, likely boosting productivity and adoption across tech and related fields.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise AI",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "burnham-appoints-first-ai-minister-to-cabinet-in-tech-reshuffle",
+    "title": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
+    "summary": "The appointment of a cabinet-level AI minister signals increased government focus on AI, likely accelerating its integration into public and private sector workflows.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "government-policy",
+      "AI-adoption",
+      "leadership"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+    "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
+    "summary": "Concerns about the return on investment in AI are affecting Oracle's credit risk, signaling potential hesitation in enterprise AI adoption.",
+    "date": "2026-07-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "enterprise AI",
+      "investment risks",
+      "financial impact"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "creating-shared-prosperity-with-ai-stanford-digital-economy-lab-s-erik-brynjolfs",
+    "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+    "summary": "Erik Brynjolfsson emphasizes that human choices, not AI technology, will shape the future of work and economic growth.",
+    "date": "2026-07-21",
+    "source": "Apple Podcasts - Me, Myself, and AI",
+    "sourceUrl": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "human-in-the-loop",
+      "policy",
+      "workforce-adaptation"
+    ],
+    "fetchedAt": "2026-07-21T11:00:56.872Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/f2907ef0-7581-11f1-a49a-531e3566f5a6/image/d07e1bfe1c0baa84fbf335c55ade8d89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4965432437.mp3",
+    "duration": "40 min"
+  },
+  {
     "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance",
     "title": "China delivers a one-two punch to America’s AI dominance",
     "summary": "China's advancements in AI models challenge U.S. dominance, signaling increased global competition and faster adoption of AI capabilities in key industries.",

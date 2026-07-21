@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:55",
+  "displayTime": "00:02:08",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.909,
+  "exactMinutesToMidnight": -2.129,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.909,
+  "newsAdjustment": -15.129,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.132,
+  "macroReplacementRate": 50.147,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,44 +3448,45 @@
   ],
   "newsFeed": [
     {
-      "id": "teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
-      "title": "Teleperformance Wants Entire BPO Staff to Be AI-Enabled by 2027",
-      "summary": "Teleperformance's plan to AI-enable its entire workforce signals a major shift in how BPO companies are integrating AI into daily operations, increasing productivity and reshaping labor demands.",
-      "date": "2026-07-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/teleperformance-wants-entire-bpo-staff-to-be-ai-enabled-by-2027",
+      "id": "automated-hardware-validation-test-plan-generation-for-large-scale-ai-datacenter",
+      "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
+      "summary": "A generative AI multi-agents architecture is being used to automate hardware validation test plan generation for large-scale AI datacenter platforms, indicating progress in AI-driven automation of complex engineering workflows.",
+      "date": "2026-07-17",
+      "source": "arXiv - AI Labor",
+      "sourceUrl": "https://arxiv.org/abs/2607.16388v1",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "workforce-adoption",
-        "BPO",
-        "AI-integration"
+        "AI tools",
+        "workflow automation",
+        "datacenter infrastructure",
+        "generative AI"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
-        "office-and-administrative-support",
-        "business-and-financial",
+        "computer-and-information-technology",
+        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
-      "title": "AI Is ‘New Engine’ Keeping Chinese Economy From Harder Landing",
-      "summary": "AI is driving economic growth in China, signaling increased adoption and investment in AI infrastructure that may influence workforce development and job markets.",
+      "id": "google-shares-gain-on-report-of-chip-to-boost-ai-efficiency",
+      "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+      "summary": "Google's development of a specialized AI chip signals increased investment in AI efficiency, likely boosting productivity and adoption across tech and related fields.",
       "date": "2026-07-20",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "economic-growth",
-        "ai-infrastructure",
-        "workforce-adoption"
+        "AI infrastructure",
+        "enterprise AI",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3496,160 +3497,159 @@
       ]
     },
     {
-      "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "China's advancements in AI models challenge U.S. dominance, signaling increased global competition and faster adoption of AI capabilities in key industries.",
+      "id": "adobe-s-natural-look-camera-app-embraces-generative-ai",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "summary": "Adobe's integration of generative AI into its camera app signals growing adoption of AI in creative and design workflows, potentially altering skill requirements and productivity tools.",
       "date": "2026-07-20",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "geopolitical impact",
-        "AI development",
-        "workforce competition"
+        "AI adoption",
+        "creative tools",
+        "workflow change"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "arts-and-design",
         "computer-and-information-technology",
-        "business-and-financial",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
-      "title": "The Creator of Claude Code on The Hottest Piece of Software in the World",
-      "summary": "A coding agent from Anthropic is reshaping software development workflows and influencing the broader tech industry.",
+      "id": "safety-and-alignment-in-an-era-of-long-horizon-models",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI's focus on safety and alignment in long-horizon models highlights growing regulatory and technical challenges that may slow AI deployment in workplaces.",
       "date": "2026-07-20",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/the-creator-of-claude-code-on-the-hottest-piece-of-software-in-the-world",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "safety",
+        "regulation",
+        "model development"
+      ],
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "creating-shared-prosperity-with-ai-stanford-digital-economy-lab-s-erik-brynjolfs",
+      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+      "summary": "Erik Brynjolfsson emphasizes that human choices, not AI technology, will shape the future of work and economic growth.",
+      "date": "2026-07-21",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "coding",
-        "workflows",
-        "software development"
+        "human-in-the-loop",
+        "policy",
+        "workforce-adaptation"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "media",
       "qualityScore": 84,
       "contentType": "podcast",
       "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
         "_all"
       ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef32f81a-cd8d-4184-8eb6-b48a015709b4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "67 min"
+      "imageUrl": "https://megaphone.imgix.net/podcasts/f2907ef0-7581-11f1-a49a-531e3566f5a6/image/d07e1bfe1c0baa84fbf335c55ade8d89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4965432437.mp3",
+      "duration": "40 min"
     },
     {
-      "id": "moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
-      "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
-      "summary": "Moonshot AI's Kimi K3 release challenges leading AI companies, signaling rapid advancements in AI capabilities and shifting industry dynamics.",
+      "id": "burnham-appoints-first-ai-minister-to-cabinet-in-tech-reshuffle",
+      "title": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
+      "summary": "The appointment of a cabinet-level AI minister signals increased government focus on AI, likely accelerating its integration into public and private sector workflows.",
       "date": "2026-07-20",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI model release",
-        "industry competition",
-        "workplace adoption"
+        "government-policy",
+        "AI-adoption",
+        "leadership"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "management",
         "computer-and-information-technology",
-        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "ai-automation-hits-insurance-jobs-as-allianz-plans-cuts",
-      "title": "AI automation hits insurance jobs as Allianz plans cuts",
-      "summary": "Allianz's use of AI automation to plan job cuts signals increased pressure on insurance industry roles due to AI adoption.",
+      "id": "oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+      "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
+      "summary": "Concerns about the return on investment in AI are affecting Oracle's credit risk, signaling potential hesitation in enterprise AI adoption.",
       "date": "2026-07-20",
-      "source": "Life Insurance International",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaW1fR2puTkg4OU4wWmJ6VC0wWnNPaUw0am5seUR6U2t0NnVWVUtuR0h2MXBJVXRRV3U1eHBCaTdoWkZVenZPZEZ6V3VDLXl2TjltMmJlU2ZselNOQ2hSal9kbnpnNW1NU0xaY093dnNlNVVwanYyc3oyRDVMMFh4Zl8yeTZwTG15bUVBNmJwa0YtWkVZdEVuQ01NNHVTbUpiVlllcWxZQ05iZzV5TE5iRHd3?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "AI automation",
-        "job impact",
-        "insurance"
+        "enterprise AI",
+        "investment risks",
+        "financial impact"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "business-and-financial",
-        "office-and-administrative-support",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "alibaba-shares-rise-after-unveiling-upgraded-flagship-ai-model",
-      "title": "Alibaba Shares Rise After Unveiling Upgraded Flagship AI Model",
-      "summary": "Alibaba's upgraded AI model launch signals increased AI capability and competitive pressure in the tech industry.",
-      "date": "2026-07-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "enterprise adoption",
-        "tech competition"
-      ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "moonshot-is-creating-new-winners-and-losers-in-the-ai-trade",
-      "title": "Moonshot Is Creating New Winners and Losers in the AI Trade",
-      "summary": "Moonshot AI's new model release signals increased competition and innovation in the AI space, potentially accelerating adoption and reshaping tech industry dynamics.",
-      "date": "2026-07-20",
+      "id": "south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+      "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
+      "summary": "AI-driven demand for semiconductors is boosting South Korea's exports, signaling increased AI adoption and economic impact.",
+      "date": "2026-07-21",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI model release",
-        "tech competition",
-        "market impact"
+        "AI adoption",
+        "semiconductors",
+        "economic impact"
       ],
-      "fetchedAt": "2026-07-20T11:00:51.470Z",
+      "fetchedAt": "2026-07-21T11:00:56.872Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "production",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-20T12:00:00.000Z",
+  "generatedAt": "2026-07-21T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates across industries, pressure grows",
-      "preview": "Major AI advances and job cuts signal rising pressure in multiple sectors.",
-      "body": "Recent developments show strong AI integration across industries, with companies like Teleperformance and Allianz leading the charge. Key headlines highlight competitive advancements and economic impacts, reinforcing a trend of increased AI-driven labor shifts. The overall feed reflects a balanced but accelerating momentum toward AI adoption."
+      "title": "AI Advances Outpace Concerns in Mixed News Landscape",
+      "preview": "Positive AI developments continue, though some concerns remain.",
+      "body": "Recent news highlights strong AI advancements, including Google's AI chip and Adobe's generative AI integration. However, concerns about safety and ROI are also present. Overall, the balance of signals suggests continued momentum in AI adoption."
     }
   }
 }

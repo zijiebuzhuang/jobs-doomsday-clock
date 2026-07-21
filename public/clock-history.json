@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-07-21",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.129,
+    "macroReplacementRate": 50.147,
+    "newsAdjustment": -15.129,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "automated-hardware-validation-test-plan-generation-for-large-scale-ai-datacenter",
+        "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
+        "summary": "A generative AI multi-agents architecture is being used to automate hardware validation test plan generation for large-scale AI datacenter platforms, indicating progress in AI-driven automation of complex engineering workflows.",
+        "date": "2026-07-17",
+        "source": "arXiv - AI Labor",
+        "sourceUrl": "https://arxiv.org/abs/2607.16388v1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow automation",
+          "datacenter infrastructure",
+          "generative AI"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-shares-gain-on-report-of-chip-to-boost-ai-efficiency",
+        "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+        "summary": "Google's development of a specialized AI chip signals increased investment in AI efficiency, likely boosting productivity and adoption across tech and related fields.",
+        "date": "2026-07-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise AI",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "adobe-s-natural-look-camera-app-embraces-generative-ai",
+        "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+        "summary": "Adobe's integration of generative AI into its camera app signals growing adoption of AI in creative and design workflows, potentially altering skill requirements and productivity tools.",
+        "date": "2026-07-20",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "creative tools",
+          "workflow change"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "arts-and-design",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "safety-and-alignment-in-an-era-of-long-horizon-models",
+        "title": "Safety and alignment in an era of long-horizon models",
+        "summary": "OpenAI's focus on safety and alignment in long-horizon models highlights growing regulatory and technical challenges that may slow AI deployment in workplaces.",
+        "date": "2026-07-20",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "safety",
+          "regulation",
+          "model development"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "creating-shared-prosperity-with-ai-stanford-digital-economy-lab-s-erik-brynjolfs",
+        "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+        "summary": "Erik Brynjolfsson emphasizes that human choices, not AI technology, will shape the future of work and economic growth.",
+        "date": "2026-07-21",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "human-in-the-loop",
+          "policy",
+          "workforce-adaptation"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/f2907ef0-7581-11f1-a49a-531e3566f5a6/image/d07e1bfe1c0baa84fbf335c55ade8d89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4965432437.mp3",
+        "duration": "40 min"
+      },
+      {
+        "id": "burnham-appoints-first-ai-minister-to-cabinet-in-tech-reshuffle",
+        "title": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
+        "summary": "The appointment of a cabinet-level AI minister signals increased government focus on AI, likely accelerating its integration into public and private sector workflows.",
+        "date": "2026-07-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "government-policy",
+          "AI-adoption",
+          "leadership"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+        "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
+        "summary": "Concerns about the return on investment in AI are affecting Oracle's credit risk, signaling potential hesitation in enterprise AI adoption.",
+        "date": "2026-07-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "enterprise AI",
+          "investment risks",
+          "financial impact"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+        "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
+        "summary": "AI-driven demand for semiconductors is boosting South Korea's exports, signaling increased AI adoption and economic impact.",
+        "date": "2026-07-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "semiconductors",
+          "economic impact"
+        ],
+        "fetchedAt": "2026-07-21T11:00:56.872Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture\" (arXiv - AI Labor), while the clearest drag comes from \"Safety and alignment in an era of long-horizon models\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.129 minutes. Updated 2026-07-21T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-07-20",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.909,
@@ -17264,47 +17502,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-20",
-    "minutesToMidnight": 10,
-    "exactMinutesToMidnight": 10.41,
-    "macroReplacementRate": 49.279,
-    "newsAdjustment": -2.59,
-    "categoryAdjustments": {
-      "healthcare": -0.306,
-      "life-physical-and-social-science": -0.324,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.278,
-      "production": -0.33,
-      "installation-maintenance-and-repair": -0.278,
-      "education-training-and-library": -0.267,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.303,
-      "personal-care-and-service": -0.294,
-      "sales": -0.303,
-      "media-and-communication": -0.266,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.27,
-      "arts-and-design": -0.274,
-      "entertainment-and-sports": -0.278,
-      "protective-service": -0.29,
-      "food-preparation-and-serving": -0.278,
-      "legal": -0.289,
-      "math": -0.3,
-      "farming-fishing-and-forestry": -0.278,
-      "building-and-grounds-cleaning": -0.278
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-20T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
       }
     }
   }
