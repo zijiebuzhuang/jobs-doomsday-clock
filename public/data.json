@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:08",
+  "displayTime": "00:02:19",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.129,
+  "exactMinutesToMidnight": -2.315,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.129,
+  "newsAdjustment": -15.315,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.147,
+  "macroReplacementRate": 50.16,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,208 +3448,202 @@
   ],
   "newsFeed": [
     {
-      "id": "automated-hardware-validation-test-plan-generation-for-large-scale-ai-datacenter",
-      "title": "Automated Hardware Validation Test Plan Generation for Large Scale AI Datacenter Platforms Using a Generative AI Multi-Agents Architecture",
-      "summary": "A generative AI multi-agents architecture is being used to automate hardware validation test plan generation for large-scale AI datacenter platforms, indicating progress in AI-driven automation of complex engineering workflows.",
-      "date": "2026-07-17",
-      "source": "arXiv - AI Labor",
-      "sourceUrl": "https://arxiv.org/abs/2607.16388v1",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "workflow automation",
-        "datacenter infrastructure",
-        "generative AI"
-      ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-shares-gain-on-report-of-chip-to-boost-ai-efficiency",
-      "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
-      "summary": "Google's development of a specialized AI chip signals increased investment in AI efficiency, likely boosting productivity and adoption across tech and related fields.",
-      "date": "2026-07-20",
+      "id": "sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
+      "title": "Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories",
+      "summary": "A joint AI vision venture between Sony and Mitsubishi signals increased adoption of AI in factory automation, likely boosting productivity and changing manufacturing workflows.",
+      "date": "2026-07-22",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise AI",
-        "productivity"
-      ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "adobe-s-natural-look-camera-app-embraces-generative-ai",
-      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
-      "summary": "Adobe's integration of generative AI into its camera app signals growing adoption of AI in creative and design workflows, potentially altering skill requirements and productivity tools.",
-      "date": "2026-07-20",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
+        "factory automation",
         "AI adoption",
-        "creative tools",
-        "workflow change"
+        "workplace productivity"
       ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Adobe-Indigo-AI-Playground-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "safety-and-alignment-in-an-era-of-long-horizon-models",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "summary": "OpenAI's focus on safety and alignment in long-horizon models highlights growing regulatory and technical challenges that may slow AI deployment in workplaces.",
-      "date": "2026-07-20",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "safety",
-        "regulation",
-        "model development"
-      ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "creating-shared-prosperity-with-ai-stanford-digital-economy-lab-s-erik-brynjolfs",
-      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
-      "summary": "Erik Brynjolfsson emphasizes that human choices, not AI technology, will shape the future of work and economic growth.",
-      "date": "2026-07-21",
-      "source": "Apple Podcasts - Me, Myself, and AI",
-      "sourceUrl": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "human-in-the-loop",
-        "policy",
-        "workforce-adaptation"
-      ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/f2907ef0-7581-11f1-a49a-531e3566f5a6/image/d07e1bfe1c0baa84fbf335c55ade8d89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4965432437.mp3",
-      "duration": "40 min"
-    },
-    {
-      "id": "burnham-appoints-first-ai-minister-to-cabinet-in-tech-reshuffle",
-      "title": "Burnham Appoints First AI Minister to Cabinet in Tech Reshuffle",
-      "summary": "The appointment of a cabinet-level AI minister signals increased government focus on AI, likely accelerating its integration into public and private sector workflows.",
-      "date": "2026-07-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "government-policy",
-        "AI-adoption",
-        "leadership"
-      ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "management",
+        "production",
+        "installation-maintenance-and-repair",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+      "title": "Newborn Town Targets Global Viewers With AI-Made Short Dramas",
+      "summary": "AI is being used to create cost-effective short dramas, signaling increased adoption of AI in content creation and entertainment workflows.",
+      "date": "2026-07-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI content creation",
+        "workforce automation",
+        "emerging markets"
+      ],
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "media-and-communication",
+        "entertainment-and-sports",
+        "_all"
+      ]
+    },
+    {
+      "id": "china-s-ai-for-all-push-defies-us-containment-playbook",
+      "title": "China’s ‘AI for All’ Push Defies US Containment Playbook",
+      "summary": "China's growing AI capabilities challenge U.S. containment strategies, signaling increased global competition in AI development and potential shifts in workforce dynamics.",
+      "date": "2026-07-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "geopolitics",
+        "ai-competitiveness",
+        "policy"
+      ],
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
-      "title": "Oracle Credit Risk Hits Near 18-Year High on AI Debt Load Angst",
-      "summary": "Concerns about the return on investment in AI are affecting Oracle's credit risk, signaling potential hesitation in enterprise AI adoption.",
-      "date": "2026-07-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-20/oracle-credit-risk-hits-near-18-year-high-on-ai-debt-load-angst",
-      "effect": "delay",
+      "id": "synthesia-s-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "AI-powered training platforms are enhancing workplace skill development and performance measurement, signaling a shift in how companies train and evaluate employees.",
+      "date": "2026-07-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI training",
+        "workforce development",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "education-training-and-library",
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Rumors of major AI company acquisitions suggest increased consolidation and competition in the AI industry, potentially accelerating AI adoption and workforce changes.",
+      "date": "2026-07-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "enterprise AI",
-        "investment risks",
-        "financial impact"
+        "company strategy",
+        "industry consolidation",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
+      "title": "OpenAI and Hugging Face Hacking Incident Highlights Growing AI Risk",
+      "summary": "A security incident involving AI platforms highlights growing risks and potential regulatory scrutiny affecting AI adoption in the workplace.",
+      "date": "2026-07-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "regulation",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
-      "title": "South Korea’s Early Exports Jump to July Record on AI-Led Gains",
-      "summary": "AI-driven demand for semiconductors is boosting South Korea's exports, signaling increased AI adoption and economic impact.",
+      "id": "openai-models-hacked-another-company-s-systems-by-mistake",
+      "title": "OpenAI Models Hacked Another Company’s Systems by Mistake",
+      "summary": "An AI model accidentally hacking another company's systems highlights security risks and may lead to increased regulation of AI technologies.",
       "date": "2026-07-21",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/south-korea-s-early-exports-jump-to-july-record-on-ai-led-gains",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "semiconductors",
-        "economic impact"
+        "AI security",
+        "regulation",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-21T11:00:56.872Z",
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "production",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-job-apocalypse-or-augmentation-new-data-reveals-reality",
+      "title": "AI Job Apocalypse or Augmentation? New Data Reveals Reality",
+      "summary": "New data provides insight into how AI is affecting different job categories, shedding light on whether it leads to job loss or augmentation.",
+      "date": "2026-07-22",
+      "source": "The Tech Buzz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkt0UHVObUVwZEx2M21qcVBYYXI3Z0RCakV1TEFJZWtxa3JrRGtWX082MjNRbGdZQWttNnNiV25PTGtNV2dUakZ3SGNSZ0NxUm85NzlLSkxmNFdjN1NmR3ZhbVpTekhPY0oxakdPWnljZUY4M3ZmRlJ3SFdybUhsVkljR2lacjNiZW1xR2p5WEhWWVNYYVE?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "workforce impact",
+        "AI adoption",
+        "job transformation"
+      ],
+      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-21T12:00:00.000Z",
+  "generatedAt": "2026-07-22T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Concerns in Mixed News Landscape",
-      "preview": "Positive AI developments continue, though some concerns remain.",
-      "body": "Recent news highlights strong AI advancements, including Google's AI chip and Adobe's generative AI integration. However, concerns about safety and ROI are also present. Overall, the balance of signals suggests continued momentum in AI adoption."
+      "title": "AI Advances Outpace Security Concerns in Daily News",
+      "preview": "New AI applications continue to drive progress despite security risks.",
+      "body": "Recent news highlights significant AI advancements, including Sony and Mitsubishi's joint venture for factory automation and Synthesia's expansion into live coaching. However, security incidents involving OpenAI and Hugging Face underscore ongoing risks. Overall, the balance of signals leans toward progress, with multiple sectors adopting AI to enhance productivity and workflows."
     }
   }
 }

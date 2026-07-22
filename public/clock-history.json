@@ -1,5 +1,237 @@
 [
   {
+    "date": "2026-07-22",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.315,
+    "macroReplacementRate": 50.16,
+    "newsAdjustment": -15.315,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
+        "title": "Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories",
+        "summary": "A joint AI vision venture between Sony and Mitsubishi signals increased adoption of AI in factory automation, likely boosting productivity and changing manufacturing workflows.",
+        "date": "2026-07-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "factory automation",
+          "AI adoption",
+          "workplace productivity"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "production",
+          "installation-maintenance-and-repair",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+        "title": "Newborn Town Targets Global Viewers With AI-Made Short Dramas",
+        "summary": "AI is being used to create cost-effective short dramas, signaling increased adoption of AI in content creation and entertainment workflows.",
+        "date": "2026-07-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI content creation",
+          "workforce automation",
+          "emerging markets"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "entertainment-and-sports",
+          "_all"
+        ]
+      },
+      {
+        "id": "china-s-ai-for-all-push-defies-us-containment-playbook",
+        "title": "China’s ‘AI for All’ Push Defies US Containment Playbook",
+        "summary": "China's growing AI capabilities challenge U.S. containment strategies, signaling increased global competition in AI development and potential shifts in workforce dynamics.",
+        "date": "2026-07-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "geopolitics",
+          "ai-competitiveness",
+          "policy"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "synthesia-s-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "summary": "AI-powered training platforms are enhancing workplace skill development and performance measurement, signaling a shift in how companies train and evaluate employees.",
+        "date": "2026-07-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI training",
+          "workforce development",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "education-training-and-library",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "summary": "Rumors of major AI company acquisitions suggest increased consolidation and competition in the AI industry, potentially accelerating AI adoption and workforce changes.",
+        "date": "2026-07-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "company strategy",
+          "industry consolidation",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
+        "title": "OpenAI and Hugging Face Hacking Incident Highlights Growing AI Risk",
+        "summary": "A security incident involving AI platforms highlights growing risks and potential regulatory scrutiny affecting AI adoption in the workplace.",
+        "date": "2026-07-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-models-hacked-another-company-s-systems-by-mistake",
+        "title": "OpenAI Models Hacked Another Company’s Systems by Mistake",
+        "summary": "An AI model accidentally hacking another company's systems highlights security risks and may lead to increased regulation of AI technologies.",
+        "date": "2026-07-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-job-apocalypse-or-augmentation-new-data-reveals-reality",
+        "title": "AI Job Apocalypse or Augmentation? New Data Reveals Reality",
+        "summary": "New data provides insight into how AI is affecting different job categories, shedding light on whether it leads to job loss or augmentation.",
+        "date": "2026-07-22",
+        "source": "The Tech Buzz",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkt0UHVObUVwZEx2M21qcVBYYXI3Z0RCakV1TEFJZWtxa3JrRGtWX082MjNRbGdZQWttNnNiV25PTGtNV2dUakZ3SGNSZ0NxUm85NzlLSkxmNFdjN1NmR3ZhbVpTekhPY0oxakdPWnljZUY4M3ZmRlJ3SFdybUhsVkljR2lacjNiZW1xR2p5WEhWWVNYYVE?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workforce impact",
+          "AI adoption",
+          "job transformation"
+        ],
+        "fetchedAt": "2026-07-22T11:00:55.147Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI and Hugging Face Hacking Incident Highlights Growing AI Risk\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.315 minutes. Updated 2026-07-22T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-21",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.129,
@@ -17461,47 +17693,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-21",
-    "minutesToMidnight": 10,
-    "exactMinutesToMidnight": 10.287,
-    "macroReplacementRate": 49.288,
-    "newsAdjustment": -2.713,
-    "categoryAdjustments": {
-      "healthcare": -0.341,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.313,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.313,
-      "education-training-and-library": -0.302,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.338,
-      "personal-care-and-service": -0.329,
-      "sales": -0.338,
-      "media-and-communication": -0.301,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.305,
-      "arts-and-design": -0.309,
-      "entertainment-and-sports": -0.313,
-      "protective-service": -0.325,
-      "food-preparation-and-serving": -0.313,
-      "legal": -0.324,
-      "math": -0.335,
-      "farming-fishing-and-forestry": -0.313,
-      "building-and-grounds-cleaning": -0.313
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-21T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
       }
     }
   }
