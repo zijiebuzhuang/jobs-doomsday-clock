@@ -1,5 +1,241 @@
 [
   {
+    "date": "2026-07-23",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.81,
+    "macroReplacementRate": 50.195,
+    "newsAdjustment": -15.81,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-news-organizations-are-using-ai-to-advance-their-vital-missions",
+        "title": "How news organizations are using AI to advance their vital missions",
+        "summary": "News organizations are leveraging AI tools to enhance reporting, audience growth, and operations, signaling broader AI adoption in media and communication workflows.",
+        "date": "2026-07-22",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "media workflow",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "development-of-an-automated-reliable-and-clinically-meaningful-artificial-intell",
+        "title": "Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images",
+        "summary": "An AI tool for diagnosing cardiac disease from CMR images represents a major advancement in healthcare AI, potentially transforming diagnostic workflows and skill requirements.",
+        "date": "2026-07-22",
+        "source": "arXiv - AI Labor",
+        "sourceUrl": "https://arxiv.org/abs/2607.20087v1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "medical-diagnosis",
+          "AI-advancements",
+          "healthcare-technology"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "healthcare",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "building-ai-infrastructure-with-the-effingham-county-community",
+        "title": "Building AI infrastructure with the Effingham County community",
+        "summary": "OpenAI's Project Camellia in Effingham County signals increased AI infrastructure investment and potential job creation, highlighting real-world AI adoption and community integration.",
+        "date": "2026-07-22",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "job creation",
+          "community investment"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "construction-and-extraction",
+          "production"
+        ]
+      },
+      {
+        "id": "ai-data-center-boom-sparks-80-surge-in-first-half-fdi-applications-to-thailand",
+        "title": "AI Data Center Boom Sparks 80% Surge in First-Half FDI Applications to Thailand",
+        "summary": "A surge in AI and data center investments in Thailand signals growing adoption of AI infrastructure, likely increasing demand for tech and related workforce skills.",
+        "date": "2026-07-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-23/ai-data-center-boom-sparks-surge-fdi-applications-thailand",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "data centers"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "building-an-autonomous-delivery-experience-with-doordash-co-founders-andy-fang-a",
+        "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
+        "summary": "DoorDash's integration of AI and autonomous delivery tech signals growing adoption of AI in logistics and delivery workflows, impacting productivity and job roles.",
+        "date": "2026-07-23",
+        "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+        "sourceUrl": "https://traffic.megaphone.fm/PDP3380514610.mp3",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "autonomous systems",
+          "AI in logistics",
+          "workplace automation"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "transportation-and-material-moving",
+          "computer-and-information-technology",
+          "production"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/67540c92-8640-11f1-8f2a-e322343e668d/image/7117c68b7f633d2b72f99d31e26d27f8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://traffic.megaphone.fm/PDP3380514610.mp3",
+        "duration": "49 min"
+      },
+      {
+        "id": "menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl",
+        "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+        "summary": "Rapid growth of AI startup Anthropic highlights the accelerating adoption and investment in AI capabilities, signaling increased pressure for innovation and workforce adaptation.",
+        "date": "2026-07-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI startups",
+          "investment",
+          "workforce adaptation"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "alphabet-s-205-billion-spending-target-fuels-ai-cost-fears",
+        "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
+        "summary": "Alphabet's massive spending on AI highlights growing investment and potential pressure to adopt AI technologies across industries.",
+        "date": "2026-07-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise",
+          "investment",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
+        "title": "Israel’s AI Czar Seeks Chip Fab, New Data Centers to Keep Edge",
+        "summary": "Israel's push for advanced AI infrastructure signals growing global competition and investment in AI capabilities, which could drive demand for tech and engineering roles.",
+        "date": "2026-07-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "chipmaking",
+          "data centers"
+        ],
+        "fetchedAt": "2026-07-23T11:01:05.016Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How news organizations are using AI to advance their vital missions.",
+        "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"How news organizations are using AI to advance their vital missions\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -15.810 minutes. Updated 2026-07-23T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-22",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.315,
@@ -17652,47 +17888,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-22",
-    "minutesToMidnight": 10,
-    "exactMinutesToMidnight": 10.177,
-    "macroReplacementRate": 49.295,
-    "newsAdjustment": -2.823,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.322,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.322,
-      "education-training-and-library": -0.312,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.348,
-      "personal-care-and-service": -0.338,
-      "sales": -0.348,
-      "media-and-communication": -0.332,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.314,
-      "arts-and-design": -0.319,
-      "entertainment-and-sports": -0.343,
-      "protective-service": -0.335,
-      "food-preparation-and-serving": -0.322,
-      "legal": -0.333,
-      "math": -0.344,
-      "farming-fishing-and-forestry": -0.322,
-      "building-and-grounds-cleaning": -0.322
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-22T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
       }
     }
   }

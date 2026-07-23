@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:19",
-  "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.315,
+  "displayTime": "00:02:49",
+  "minutesToMidnight": -3,
+  "exactMinutesToMidnight": -2.81,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.315,
+  "newsAdjustment": -15.81,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.16,
+  "macroReplacementRate": 50.195,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,92 @@
   ],
   "newsFeed": [
     {
-      "id": "sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
-      "title": "Sony and Mitsubishi Set Up AI Vision Joint Venture for Factories",
-      "summary": "A joint AI vision venture between Sony and Mitsubishi signals increased adoption of AI in factory automation, likely boosting productivity and changing manufacturing workflows.",
+      "id": "how-news-organizations-are-using-ai-to-advance-their-vital-missions",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "summary": "News organizations are leveraging AI tools to enhance reporting, audience growth, and operations, signaling broader AI adoption in media and communication workflows.",
       "date": "2026-07-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-news-organizations-are-using-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "factory automation",
         "AI adoption",
-        "workplace productivity"
+        "media workflow",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "production",
-        "installation-maintenance-and-repair",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "newborn-town-targets-global-viewers-with-ai-made-short-dramas",
-      "title": "Newborn Town Targets Global Viewers With AI-Made Short Dramas",
-      "summary": "AI is being used to create cost-effective short dramas, signaling increased adoption of AI in content creation and entertainment workflows.",
-      "date": "2026-07-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI content creation",
-        "workforce automation",
-        "emerging markets"
-      ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "media-and-communication",
-        "entertainment-and-sports",
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "china-s-ai-for-all-push-defies-us-containment-playbook",
-      "title": "China’s ‘AI for All’ Push Defies US Containment Playbook",
-      "summary": "China's growing AI capabilities challenge U.S. containment strategies, signaling increased global competition in AI development and potential shifts in workforce dynamics.",
+      "id": "development-of-an-automated-reliable-and-clinically-meaningful-artificial-intell",
+      "title": "Development of an automated, reliable, and clinically meaningful artificial intelligence (AI) tool for diagnosing cardiac disease from conventional cardiovascular magnetic resonance (CMR) images",
+      "summary": "An AI tool for diagnosing cardiac disease from CMR images represents a major advancement in healthcare AI, potentially transforming diagnostic workflows and skill requirements.",
       "date": "2026-07-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
+      "source": "arXiv - AI Labor",
+      "sourceUrl": "https://arxiv.org/abs/2607.20087v1",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "geopolitics",
-        "ai-competitiveness",
-        "policy"
+        "medical-diagnosis",
+        "AI-advancements",
+        "healthcare-technology"
       ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "healthcare",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI's Project Camellia in Effingham County signals increased AI infrastructure investment and potential job creation, highlighting real-world AI adoption and community integration.",
+      "date": "2026-07-22",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "job creation",
+        "community investment"
+      ],
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "construction-and-extraction",
+        "production"
+      ]
+    },
+    {
+      "id": "ai-data-center-boom-sparks-80-surge-in-first-half-fdi-applications-to-thailand",
+      "title": "AI Data Center Boom Sparks 80% Surge in First-Half FDI Applications to Thailand",
+      "summary": "A surge in AI and data center investments in Thailand signals growing adoption of AI infrastructure, likely increasing demand for tech and related workforce skills.",
+      "date": "2026-07-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-23/ai-data-center-boom-sparks-surge-fdi-applications-thailand",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "investment",
+        "data centers"
+      ],
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3519,131 +3543,111 @@
       ]
     },
     {
-      "id": "synthesia-s-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "summary": "AI-powered training platforms are enhancing workplace skill development and performance measurement, signaling a shift in how companies train and evaluate employees.",
-      "date": "2026-07-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "id": "building-an-autonomous-delivery-experience-with-doordash-co-founders-andy-fang-a",
+      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
+      "summary": "DoorDash's integration of AI and autonomous delivery tech signals growing adoption of AI in logistics and delivery workflows, impacting productivity and job roles.",
+      "date": "2026-07-23",
+      "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
+      "sourceUrl": "https://traffic.megaphone.fm/PDP3380514610.mp3",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI training",
-        "workforce development",
-        "enterprise AI"
+        "autonomous systems",
+        "AI in logistics",
+        "workplace automation"
       ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "transportation-and-material-moving",
+        "computer-and-information-technology",
+        "production"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/67540c92-8640-11f1-8f2a-e322343e668d/image/7117c68b7f633d2b72f99d31e26d27f8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://traffic.megaphone.fm/PDP3380514610.mp3",
+      "duration": "49 min"
+    },
+    {
+      "id": "menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl",
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "summary": "Rapid growth of AI startup Anthropic highlights the accelerating adoption and investment in AI capabilities, signaling increased pressure for innovation and workforce adaptation.",
+      "date": "2026-07-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI startups",
+        "investment",
+        "workforce adaptation"
+      ],
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "education-training-and-library",
-        "business-and-financial",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "management",
+        "_all"
       ]
     },
     {
-      "id": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "summary": "Rumors of major AI company acquisitions suggest increased consolidation and competition in the AI industry, potentially accelerating AI adoption and workforce changes.",
+      "id": "alphabet-s-205-billion-spending-target-fuels-ai-cost-fears",
+      "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
+      "summary": "Alphabet's massive spending on AI highlights growing investment and potential pressure to adopt AI technologies across industries.",
       "date": "2026-07-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "company strategy",
-        "industry consolidation",
+        "enterprise",
+        "investment",
         "AI adoption"
       ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
-      "title": "OpenAI and Hugging Face Hacking Incident Highlights Growing AI Risk",
-      "summary": "A security incident involving AI platforms highlights growing risks and potential regulatory scrutiny affecting AI adoption in the workplace.",
-      "date": "2026-07-22",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "openai-models-hacked-another-company-s-systems-by-mistake",
-      "title": "OpenAI Models Hacked Another Company’s Systems by Mistake",
-      "summary": "An AI model accidentally hacking another company's systems highlights security risks and may lead to increased regulation of AI technologies.",
-      "date": "2026-07-21",
+      "id": "israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
+      "title": "Israel’s AI Czar Seeks Chip Fab, New Data Centers to Keep Edge",
+      "summary": "Israel's push for advanced AI infrastructure signals growing global competition and investment in AI capabilities, which could drive demand for tech and engineering roles.",
+      "date": "2026-07-23",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-job-apocalypse-or-augmentation-new-data-reveals-reality",
-      "title": "AI Job Apocalypse or Augmentation? New Data Reveals Reality",
-      "summary": "New data provides insight into how AI is affecting different job categories, shedding light on whether it leads to job loss or augmentation.",
-      "date": "2026-07-22",
-      "source": "The Tech Buzz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkt0UHVObUVwZEx2M21qcVBYYXI3Z0RCakV1TEFJZWtxa3JrRGtWX082MjNRbGdZQWttNnNiV25PTGtNV2dUakZ3SGNSZ0NxUm85NzlLSkxmNFdjN1NmR3ZhbVpTekhPY0oxakdPWnljZUY4M3ZmRlJ3SFdybUhsVkljR2lacjNiZW1xR2p5WEhWWVNYYVE?oc=5",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-23/israel-s-ai-czar-seeks-chip-fab-new-data-centers-to-keep-edge",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "workforce impact",
-        "AI adoption",
-        "job transformation"
+        "AI infrastructure",
+        "chipmaking",
+        "data centers"
       ],
-      "fetchedAt": "2026-07-22T11:00:55.147Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-07-23T11:01:05.016Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
-        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-22T12:00:00.000Z",
+  "generatedAt": "2026-07-23T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Security Concerns in Daily News",
-      "preview": "New AI applications continue to drive progress despite security risks.",
-      "body": "Recent news highlights significant AI advancements, including Sony and Mitsubishi's joint venture for factory automation and Synthesia's expansion into live coaching. However, security incidents involving OpenAI and Hugging Face underscore ongoing risks. Overall, the balance of signals leans toward progress, with multiple sectors adopting AI to enhance productivity and workflows."
+      "title": "AI adoption accelerates across industries, boosting job market pressures",
+      "preview": "New AI advancements signal growing integration and workforce impact.",
+      "body": "Recent developments show AI advancing in healthcare, media, logistics, and infrastructure, with multiple reports highlighting increased investment and adoption. Key headlines include AI tools for cardiac diagnostics and autonomous delivery systems, reflecting broader industry shifts. The overall trend suggests rising pressure for skill adaptation and new job demands."
     }
   }
 }
