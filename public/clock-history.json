@@ -1,5 +1,267 @@
 [
   {
+    "date": "2026-07-24",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.578,
+    "macroReplacementRate": 50.178,
+    "newsAdjustment": -15.578,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "openai-is-making-big-claims-as-it-rolls-out-chatgpt-health-to-everyone",
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "summary": "OpenAI's ChatGPT Health rollout shows AI advancing in healthcare, potentially changing workflows and skill requirements for medical professionals.",
+        "date": "2026-07-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "healthcare",
+          "AI adoption",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "healthcare",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-updates-claude-voice-mode-with-more-capable-models",
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "summary": "Anthropic's update to Claude voice mode enhances AI's ability to handle routine administrative tasks, increasing workplace productivity and shifting skill demands.",
+        "date": "2026-07-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflow changes"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-s-gemini-nears-billion-user-milestone",
+        "title": "Google’s Gemini nears billion-user milestone",
+        "summary": "Google's Gemini reaching a large user base indicates growing AI adoption, potentially influencing productivity and workflows across multiple industries.",
+        "date": "2026-07-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "user growth",
+          "enterprise impact"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet",
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "summary": "Claude's voice mode expansion to more powerful models enhances AI integration into productivity tools, increasing workplace adoption and efficiency.",
+        "date": "2026-07-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "summary": "AI guardrails are hindering the ability of cybersecurity researchers to test and develop tools, slowing innovation in offensive security.",
+        "date": "2026-07-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "cybersecurity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-makes-chatgpt-health-available-to-all-us-users",
+        "title": "OpenAI makes ChatGPT Health available to all US users",
+        "summary": "ChatGPT Health integration with personal health data could influence healthcare and tech workflows, improving personalized care and data-driven decision-making.",
+        "date": "2026-07-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI in healthcare",
+          "data integration",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
+        "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+        "summary": "Proposed AI 'kill switch' legislation introduces regulatory constraints that may slow AI adoption and shape how AI systems are deployed in the workplace.",
+        "date": "2026-07-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
+        "title": "Top Environmental Fund Sees Japan Key to AI Energy Challenge",
+        "summary": "Japan's technology sector is expected to play a key role in addressing AI's growing energy demands, signaling increased importance for energy-efficient tech and infrastructure roles.",
+        "date": "2026-07-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI energy demands",
+          "technology adoption",
+          "infrastructure"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "patreon-is-laying-off-20-percent-of-workers",
+        "title": "Patreon is laying off 20 percent of workers",
+        "summary": "A company's decision to lay off workers cites AI as a transformative force in the tech industry, suggesting broader workplace changes are underway.",
+        "date": "2026-07-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "workplace-transformation",
+          "AI-impact",
+          "company-changes"
+        ],
+        "fetchedAt": "2026-07-24T11:02:10.915Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI is making big claims as it rolls out ChatGPT Health to everyone.",
+        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI is making big claims as it rolls out ChatGPT Health to everyone\" (The Verge - AI), while the clearest drag comes from \"How AI guardrails are impeding the work of offensive cybersecurity researchers\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.578 minutes. Updated 2026-07-24T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-23",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.81,
@@ -17847,47 +18109,6 @@
         "title": "Daily signal pulse",
         "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
         "body": "No new qualifying signals were retained for 2026-04-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-23",
-    "minutesToMidnight": 10,
-    "exactMinutesToMidnight": 9.711,
-    "macroReplacementRate": 49.328,
-    "newsAdjustment": -3.289,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-23T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.3%."
       }
     }
   }

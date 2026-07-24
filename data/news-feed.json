@@ -1,5 +1,225 @@
 [
   {
+    "id": "openai-is-making-big-claims-as-it-rolls-out-chatgpt-health-to-everyone",
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "summary": "OpenAI's ChatGPT Health rollout shows AI advancing in healthcare, potentially changing workflows and skill requirements for medical professionals.",
+    "date": "2026-07-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "healthcare",
+      "AI adoption",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "healthcare",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "summary": "Claude's voice mode expansion to more powerful models enhances AI integration into productivity tools, increasing workplace adoption and efficiency.",
+    "date": "2026-07-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "summary": "Proposed AI 'kill switch' legislation introduces regulatory constraints that may slow AI adoption and shape how AI systems are deployed in the workplace.",
+    "date": "2026-07-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "patreon-is-laying-off-20-percent-of-workers",
+    "title": "Patreon is laying off 20 percent of workers",
+    "summary": "A company's decision to lay off workers cites AI as a transformative force in the tech industry, suggesting broader workplace changes are underway.",
+    "date": "2026-07-23",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "workplace-transformation",
+      "AI-impact",
+      "company-changes"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "summary": "AI guardrails are hindering the ability of cybersecurity researchers to test and develop tools, slowing innovation in offensive security.",
+    "date": "2026-07-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "cybersecurity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
+    "title": "Top Environmental Fund Sees Japan Key to AI Energy Challenge",
+    "summary": "Japan's technology sector is expected to play a key role in addressing AI's growing energy demands, signaling increased importance for energy-efficient tech and infrastructure roles.",
+    "date": "2026-07-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI energy demands",
+      "technology adoption",
+      "infrastructure"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-updates-claude-voice-mode-with-more-capable-models",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Anthropic's update to Claude voice mode enhances AI's ability to handle routine administrative tasks, increasing workplace productivity and shifting skill demands.",
+    "date": "2026-07-23",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflow changes"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-gemini-nears-billion-user-milestone",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "summary": "Google's Gemini reaching a large user base indicates growing AI adoption, potentially influencing productivity and workflows across multiple industries.",
+    "date": "2026-07-23",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "user growth",
+      "enterprise impact"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-makes-chatgpt-health-available-to-all-us-users",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "summary": "ChatGPT Health integration with personal health data could influence healthcare and tech workflows, improving personalized care and data-driven decision-making.",
+    "date": "2026-07-23",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI in healthcare",
+      "data integration",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-07-24T11:02:10.915Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "healthcare",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "how-news-organizations-are-using-ai-to-advance-their-vital-missions",
     "title": "How news organizations are using AI to advance their vital missions",
     "summary": "News organizations are leveraging AI tools to enhance reporting, audience growth, and operations, signaling broader AI adoption in media and communication workflows.",
@@ -13825,205 +14045,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/6619dd6c-2253-11f1-ba94-939004352ba3/image/b2cc3848484a1ee89fdd4d35c590abe2.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://dcs-cached.megaphone.fm/CONCENT2094947999.mp3?key=983ec4a0d5f03895160a266831c19f57&request_event_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&session_id=1f3b5079-5ab0-4c68-b8a7-1cb3ef04aaea&timetoken=1777208467_1AC3E9149F2270645E2BA22A6CC67FFD",
     "duration": "24 min"
-  },
-  {
-    "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
-    "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-    "summary": "AI advancements in drug design may lead to increased automation in pharmaceutical research, potentially impacting jobs in life-physical-and-social-science and computer-and-information-technology sectors.",
-    "date": "2026-04-24",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI",
-      "healthcare",
-      "pharmaceuticals"
-    ],
-    "fetchedAt": "2026-04-25T12:21:23.160Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "life-physical-and-social-science",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
-    "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-    "summary": "China's DeepSeek releasing an advanced AI model could accelerate AI's ability to replace jobs in tech and coding-related fields.",
-    "date": "2026-04-24",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI development",
-      "job replacement",
-      "tech innovation"
-    ],
-    "fetchedAt": "2026-04-25T12:21:24.450Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "production",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
-    "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-    "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
-    "date": "2026-04-23",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI integration",
-      "personal productivity",
-      "job automation"
-    ],
-    "fetchedAt": "2026-04-25T12:21:25.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "personal-care-and-service"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "summary": "Google's $40B investment in Anthropic accelerates AI development, potentially increasing the pace of AI replacing human jobs in tech and related fields.",
-    "date": "2026-04-24",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "tech advancement",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-25T12:21:22.278Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-    "summary": "The release of GPT-5.5 by OpenAI is a significant step toward an AI 'super app,' potentially accelerating AI's ability to replace human jobs across multiple industries.",
-    "date": "2026-04-23",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI advancement",
-      "job displacement",
-      "technology development"
-    ],
-    "fetchedAt": "2026-04-25T12:21:27.299Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
-    "date": "2026-04-23",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "startup acquisition",
-      "customer service"
-    ],
-    "fetchedAt": "2026-04-25T12:21:26.291Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-s-vision-for-the-ai-economy",
-    "title": "OpenAI's vision for the AI economy",
-    "summary": "OpenAI's policy proposals suggest a shift in how wealth and work are structured in an AI-driven economy, potentially accelerating AI's role in replacing human jobs.",
-    "date": "2026-04-07",
-    "source": "TechCrunch Daily Crunch",
-    "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1807379045.mp3",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI economy",
-      "policy",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-25T12:21:19.706Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV1807379045.mp3?key=459125855e09d93dbfdad76830292d3a&request_event_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&session_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&timetoken=1777178613_9D1F024C96D7C4676CE93B17F7ABFD9B",
-    "duration": "8 min"
-  },
-  {
-    "id": "an-ai-heavy-makeover-coming-to-slack",
-    "title": "An AI-heavy makeover coming to Slack",
-    "summary": "An AI-heavy makeover for Slack suggests increased use of AI in workplace communication, potentially impacting jobs in office and administrative support.",
-    "date": "2026-04-02",
-    "source": "TechCrunch Daily Crunch",
-    "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9624736069.mp3",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "workplace automation",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-04-25T12:21:20.530Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV9624736069.mp3?key=b6f2f6a52afc6002514a7a4068996e41&request_event_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&session_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&timetoken=1777178620_52CFF933B777C06A61507E8FFE4C9F67",
-    "duration": "7 min"
   }
 ]
