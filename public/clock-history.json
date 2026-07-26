@@ -1,5 +1,241 @@
 [
   {
+    "date": "2026-07-26",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.71,
+    "macroReplacementRate": 50.188,
+    "newsAdjustment": -15.71,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "introducing-claude-opus-5",
+        "title": "Introducing Claude Opus 5",
+        "summary": "Claude Opus 5 improves AI capabilities for coding and professional work, signaling progress in AI tools that could enhance productivity across multiple industries.",
+        "date": "2026-07-24",
+        "source": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "coding"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightl",
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "OpenAI's new AI keypad introduces a novel tool that may enhance coding workflows for some developers, signaling ongoing AI integration into software development tasks.",
+        "date": "2026-07-25",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "coding",
+          "productivity"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "meta-is-making-its-ai-chatbot-more-like-an-assistant",
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "summary": "Meta is enhancing its AI chatbot to act as a more capable personal assistant, increasing AI's role in productivity and workflow management.",
+        "date": "2026-07-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "workplace integration"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476"
+      },
+      {
+        "id": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "summary": "OpenAI's integration of voice mode into ChatGPT desktop app enhances AI tool adoption, improving productivity and workflow efficiency across multiple industries.",
+        "date": "2026-07-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-launches-opus-5",
+        "title": "Anthropic launches Opus 5",
+        "summary": "Anthropic's Opus 5 release suggests improved AI models that could increase adoption and productivity across industries due to cost and flexibility improvements.",
+        "date": "2026-07-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "productivity",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-tech-broification-of-american-science-has-officially-begun",
+        "title": "The tech-broification of American science has officially begun",
+        "summary": "Government investment in AI-driven science projects signals growing adoption of AI in research and development, potentially increasing demand for AI-related skills across multiple industries.",
+        "date": "2026-07-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "government-policy",
+          "ai-adoption",
+          "research"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities",
+        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "summary": "Anthropic's release of Opus 5 highlights advancements in AI capabilities, particularly in coding, which could impact tech and related fields.",
+        "date": "2026-07-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "coding capabilities",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "you-can-t-ignore-google-zero-anymore",
+        "title": "You can’t ignore Google Zero anymore",
+        "summary": "Google's shift away from traditional web indexing may impact digital visibility and traffic, affecting roles in digital marketing, content creation, and online business operations.",
+        "date": "2026-07-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "web-traffic",
+          "digital-marketing",
+          "search-engine"
+        ],
+        "fetchedAt": "2026-07-26T11:00:44.877Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "media-and-communication"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Introducing Claude Opus 5.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Introducing Claude Opus 5\" (Anthropic), while the clearest drag comes from \"You can’t ignore Google Zero anymore\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.710 minutes. Updated 2026-07-26T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-24",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.578,
@@ -18068,47 +18304,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by China’s DeepSeek previews new AI model a year after jolting US rivals.",
         "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"China’s DeepSeek previews new AI model a year after jolting US rivals\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -3.838 minutes. Updated 2026-04-25T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-24",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 9.322,
-    "macroReplacementRate": 49.355,
-    "newsAdjustment": -3.678,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-24T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.4%."
       }
     }
   }

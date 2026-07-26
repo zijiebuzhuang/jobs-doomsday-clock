@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:35",
+  "displayTime": "00:02:43",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.578,
+  "exactMinutesToMidnight": -2.71,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.578,
+  "newsAdjustment": -15.71,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.178,
+  "macroReplacementRate": 50.188,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,69 +3448,115 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-is-making-big-claims-as-it-rolls-out-chatgpt-health-to-everyone",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "summary": "OpenAI's ChatGPT Health rollout shows AI advancing in healthcare, potentially changing workflows and skill requirements for medical professionals.",
-      "date": "2026-07-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "healthcare",
-        "AI adoption",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "healthcare",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-updates-claude-voice-mode-with-more-capable-models",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Anthropic's update to Claude voice mode enhances AI's ability to handle routine administrative tasks, increasing workplace productivity and shifting skill demands.",
-      "date": "2026-07-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "id": "introducing-claude-opus-5",
+      "title": "Introducing Claude Opus 5",
+      "summary": "Claude Opus 5 improves AI capabilities for coding and professional work, signaling progress in AI tools that could enhance productivity across multiple industries.",
+      "date": "2026-07-24",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
         "productivity",
-        "workflow changes"
+        "coding"
       ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightl",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "summary": "OpenAI's new AI keypad introduces a novel tool that may enhance coding workflows for some developers, signaling ongoing AI integration into software development tasks.",
+      "date": "2026-07-25",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "coding",
+        "productivity"
+      ],
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "_all"
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "google-s-gemini-nears-billion-user-milestone",
-      "title": "Google’s Gemini nears billion-user milestone",
-      "summary": "Google's Gemini reaching a large user base indicates growing AI adoption, potentially influencing productivity and workflows across multiple industries.",
-      "date": "2026-07-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "id": "meta-is-making-its-ai-chatbot-more-like-an-assistant",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "summary": "Meta is enhancing its AI chatbot to act as a more capable personal assistant, increasing AI's role in productivity and workflow management.",
+      "date": "2026-07-24",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "user growth",
-        "enterprise impact"
+        "productivity tools",
+        "workplace integration"
       ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476"
+    },
+    {
+      "id": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "OpenAI's integration of voice mode into ChatGPT desktop app enhances AI tool adoption, improving productivity and workflow efficiency across multiple industries.",
+      "date": "2026-07-24",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-launches-opus-5",
+      "title": "Anthropic launches Opus 5",
+      "summary": "Anthropic's Opus 5 release suggests improved AI models that could increase adoption and productivity across industries due to cost and flexibility improvements.",
+      "date": "2026-07-24",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI model release",
+        "productivity",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3521,142 +3567,45 @@
       ]
     },
     {
-      "id": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet",
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "summary": "Claude's voice mode expansion to more powerful models enhances AI integration into productivity tools, increasing workplace adoption and efficiency.",
-      "date": "2026-07-23",
+      "id": "the-tech-broification-of-american-science-has-officially-begun",
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "Government investment in AI-driven science projects signals growing adoption of AI in research and development, potentially increasing demand for AI-related skills across multiple industries.",
+      "date": "2026-07-24",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "sourceUrl": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI tools",
-        "productivity",
-        "workplace adoption"
+        "government-policy",
+        "ai-adoption",
+        "research"
       ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "life-physical-and-social-science",
         "computer-and-information-technology",
-        "office-and-administrative-support",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "AI guardrails are hindering the ability of cybersecurity researchers to test and develop tools, slowing innovation in offensive security.",
+      "id": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "summary": "Anthropic's release of Opus 5 highlights advancements in AI capabilities, particularly in coding, which could impact tech and related fields.",
       "date": "2026-07-24",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "effect": "delay",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI regulation",
-        "cybersecurity",
-        "workflows"
+        "AI model release",
+        "coding capabilities",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-makes-chatgpt-health-available-to-all-us-users",
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "summary": "ChatGPT Health integration with personal health data could influence healthcare and tech workflows, improving personalized care and data-driven decision-making.",
-      "date": "2026-07-23",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI in healthcare",
-        "data integration",
-        "productivity tools"
-      ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "lawmakers-prepare-bill-requiring-ai-kill-switch-",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "summary": "Proposed AI 'kill switch' legislation introduces regulatory constraints that may slow AI adoption and shape how AI systems are deployed in the workplace.",
-      "date": "2026-07-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI safety"
-      ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK_414_AI_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
-      "title": "Top Environmental Fund Sees Japan Key to AI Energy Challenge",
-      "summary": "Japan's technology sector is expected to play a key role in addressing AI's growing energy demands, signaling increased importance for energy-efficient tech and infrastructure roles.",
-      "date": "2026-07-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI energy demands",
-        "technology adoption",
-        "infrastructure"
-      ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "_all"
-      ]
-    },
-    {
-      "id": "patreon-is-laying-off-20-percent-of-workers",
-      "title": "Patreon is laying off 20 percent of workers",
-      "summary": "A company's decision to lay off workers cites AI as a transformative force in the tech industry, suggesting broader workplace changes are underway.",
-      "date": "2026-07-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "workplace-transformation",
-        "AI-impact",
-        "company-changes"
-      ],
-      "fetchedAt": "2026-07-24T11:02:10.915Z",
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3665,15 +3614,40 @@
         "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK326_PATREON_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "you-can-t-ignore-google-zero-anymore",
+      "title": "You can’t ignore Google Zero anymore",
+      "summary": "Google's shift away from traditional web indexing may impact digital visibility and traffic, affecting roles in digital marketing, content creation, and online business operations.",
+      "date": "2026-07-24",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "web-traffic",
+        "digital-marketing",
+        "search-engine"
+      ],
+      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "media-and-communication"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-07-24T12:00:00.000Z",
+  "generatedAt": "2026-07-26T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue Amid Regulatory Headwinds",
-      "preview": "New AI tools boost productivity, but guardrails and legislation slow progress.",
-      "body": "Recent updates from OpenAI and Anthropic highlight AI's growing role in healthcare and workplace efficiency, while new guardrails and proposed regulations introduce delays. Overall, the feed shows a balance between innovation and oversight."
+      "title": "AI Advances Continue to Shape Productivity Tools",
+      "preview": "New AI tools signal growing integration into professional workflows.",
+      "body": "Recent updates from Anthropic, OpenAI, and Meta highlight ongoing progress in AI capabilities for coding, productivity, and personal assistance. While most signals point to advancements, Google's shift away from traditional indexing introduces a potential delay in digital visibility. The overall trend suggests increasing AI adoption across industries, with mixed implications for job roles."
     }
   }
 }
