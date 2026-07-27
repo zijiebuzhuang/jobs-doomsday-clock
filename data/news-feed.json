@@ -1,5 +1,201 @@
 [
   {
+    "id": "how-ai-is-expanding-what-people-do-at-work",
+    "title": "How AI is expanding what people do at work",
+    "summary": "AI is enabling workers to take on a broader range of tasks across roles, reshaping job boundaries and expanding the scope of work.",
+    "date": "2026-07-27",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "workflows",
+      "job boundaries",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+    "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
+    "summary": "HSBC's expansion of AI capabilities in Singapore signals growing investment in AI talent and infrastructure, reflecting broader industry adoption and workforce transformation.",
+    "date": "2026-07-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "hiring trends",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ]
+  },
+  {
+    "id": "this-is-donald-trump-s-ai-brain-trust",
+    "title": "This Is Donald Trump’s AI Brain Trust",
+    "summary": "The formation of Donald Trump's AI brain trust signals increased political and regulatory focus on AI, potentially slowing or shaping its adoption in the workforce.",
+    "date": "2026-07-27",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "political-impact"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+    "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
+    "summary": "Multiverse's funding boost indicates growing investment in AI cost reduction, accelerating AI adoption across industries.",
+    "date": "2026-07-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "AI cost reduction",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+    "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
+    "summary": "SoftBank's $40 billion loan for OpenAI highlights growing financial support for AI development, signaling increased investment and potential acceleration in AI adoption across industries.",
+    "date": "2026-07-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "enterprise-adoption",
+      "AI-investment"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-in-talks-to-back-openai-lease-of-500-billion-data-center",
+    "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
+    "summary": "Nvidia's potential financing support for OpenAI highlights growing investment in AI infrastructure, accelerating AI adoption and capabilities.",
+    "date": "2026-07-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "computing power"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "-ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "summary": "The emergence of the Kimi model and security issues with OpenAI highlight growing AI capabilities and risks, influencing industry adoption and regulatory scrutiny.",
+    "date": "2026-07-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI models",
+      "security",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-models-go-rogue-kimi-k3-freakout-a-i-superforecasting",
+    "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
+    "summary": "AI models escaping testing environments and potential geopolitical tensions around AI development highlight growing risks and pressures in AI adoption and regulation.",
+    "date": "2026-07-24",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "AI security",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-27T11:01:00.771Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2ae707fe-4b47-4aca-a964-88378115b3cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2ae707fe-4b47-4aca-a964-88378115b3cd&feed=6HKOhNgS",
+    "duration": "01:08:14"
+  },
+  {
     "id": "introducing-claude-opus-5",
     "title": "Introducing Claude Opus 5",
     "summary": "Claude Opus 5 improves AI capabilities for coding and professional work, signaling progress in AI tools that could enhance productivity across multiple industries.",
@@ -13840,135 +14036,5 @@
     "imageUrl": "https://megaphone.imgix.net/podcasts/4f287460-137b-11f1-98c9-97c3a224eb1a/image/d2362eb08f465426a6d7ae24b5c5111c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
     "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO8817201608.mp3?updated=1772156150",
     "duration": "30 min"
-  },
-  {
-    "id": "attack-of-the-killer-script-kiddies",
-    "title": "Attack of the killer script kiddies",
-    "summary": "AI systems are demonstrating enhanced capabilities in identifying software vulnerabilities, suggesting increased automation in cybersecurity roles.",
-    "date": "2026-04-28",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI capabilities",
-      "cybersecurity",
-      "automation"
-    ],
-    "fetchedAt": "2026-04-28T11:00:52.310Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/rogers-script-kiddies-ANIMATION.gif?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "openai-linked-stocks-slump-on-report-of-startup-missing-targets",
-    "title": "OpenAI-Linked Stocks Slump on Report of Startup Missing Targets",
-    "summary": "The news suggests challenges in AI startup performance, which may slow investment and adoption of AI technologies, potentially delaying job replacement by AI.",
-    "date": "2026-04-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-28/openai-linked-stocks-slump-on-report-of-startup-missing-targets",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "investment",
-      "job market"
-    ],
-    "fetchedAt": "2026-04-28T11:00:53.368Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "google-s-liz-reid-on-who-will-own-search-in-a-world-of-ai",
-    "title": "Google's Liz Reid on Who Will Own Search in a World of AI",
-    "summary": "The shift from traditional search engines to AI-driven information retrieval signals a growing role for AI in replacing human-driven online queries, impacting jobs related to search and digital services.",
-    "date": "2026-04-23",
-    "source": "Apple Podcasts - Odd Lots",
-    "sourceUrl": "https://omny.fm/shows/odd-lots/googles-liz-reid-on-who-will-own-search-in-a-world-of-ai",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "tech disruption",
-      "job replacement"
-    ],
-    "fetchedAt": "2026-04-28T11:00:46.107Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "media-and-communication"
-    ],
-    "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-    "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/96deb7b5-7fae-4040-a3c7-b4350008bd04/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-    "duration": "51 min"
-  },
-  {
-    "id": "nsa-spies-are-reportedly-using-anthropic-s-mythos",
-    "title": "NSA spies are reportedly using Anthropic’s Mythos",
-    "summary": "The use of AI by NSA spies suggests increased adoption of AI in sensitive roles, potentially accelerating AI's role in replacing human jobs.",
-    "date": "2026-04-21",
-    "source": "TechCrunch Daily Crunch",
-    "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "government technology"
-    ],
-    "fetchedAt": "2026-04-28T11:00:47.157Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "protective-service",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9376022999.mp3",
-    "duration": "7 min"
-  },
-  {
-    "id": "planet-money-turned-everyday-annoyances-into-an-economics-book",
-    "title": "Planet Money Turned Everyday Annoyances Into an Economics Book",
-    "summary": "The article highlights common concerns about AI replacing jobs but does not directly address how AI is impacting or will impact specific job roles, suggesting a more general discussion rather than a concrete development in AI's effect on labor.",
-    "date": "2026-04-17",
-    "source": "Apple Podcasts - Odd Lots",
-    "sourceUrl": "https://omny.fm/shows/odd-lots/041726-odd-lots-planet-money-edit-v2",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI",
-      "job concerns",
-      "economic impact"
-    ],
-    "fetchedAt": "2026-04-28T11:00:48.237Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "_all"
-    ],
-    "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-    "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/eb4d0306-44c8-4b54-88dd-b42e01171174/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-    "duration": "39 min"
   }
 ]

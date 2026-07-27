@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:43",
+  "displayTime": "00:02:57",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.71,
+  "exactMinutesToMidnight": -2.958,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.71,
+  "newsAdjustment": -15.958,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.188,
+  "macroReplacementRate": 50.205,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,20 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "introducing-claude-opus-5",
-      "title": "Introducing Claude Opus 5",
-      "summary": "Claude Opus 5 improves AI capabilities for coding and professional work, signaling progress in AI tools that could enhance productivity across multiple industries.",
-      "date": "2026-07-24",
-      "source": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-5",
+      "id": "how-ai-is-expanding-what-people-do-at-work",
+      "title": "How AI is expanding what people do at work",
+      "summary": "AI is enabling workers to take on a broader range of tasks across roles, reshaping job boundaries and expanding the scope of work.",
+      "date": "2026-07-27",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "productivity",
-        "coding"
+        "workflows",
+        "job boundaries",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
@@ -3472,182 +3472,184 @@
       ]
     },
     {
-      "id": "i-tried-out-openai-s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slightl",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's new AI keypad introduces a novel tool that may enhance coding workflows for some developers, signaling ongoing AI integration into software development tasks.",
-      "date": "2026-07-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "coding",
-        "productivity"
-      ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "meta-is-making-its-ai-chatbot-more-like-an-assistant",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "summary": "Meta is enhancing its AI chatbot to act as a more capable personal assistant, increasing AI's role in productivity and workflow management.",
-      "date": "2026-07-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "id": "hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+      "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
+      "summary": "HSBC's expansion of AI capabilities in Singapore signals growing investment in AI talent and infrastructure, reflecting broader industry adoption and workforce transformation.",
+      "date": "2026-07-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "productivity tools",
-        "workplace integration"
+        "hiring trends",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0,0,100,70.070631469476"
-    },
-    {
-      "id": "openai-s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "OpenAI's integration of voice mode into ChatGPT desktop app enhances AI tool adoption, improving productivity and workflow efficiency across multiple industries.",
-      "date": "2026-07-24",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-launches-opus-5",
-      "title": "Anthropic launches Opus 5",
-      "summary": "Anthropic's Opus 5 release suggests improved AI models that could increase adoption and productivity across industries due to cost and flexibility improvements.",
-      "date": "2026-07-24",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "productivity",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
-        "_all"
+        "management"
       ]
     },
     {
-      "id": "the-tech-broification-of-american-science-has-officially-begun",
-      "title": "The tech-broification of American science has officially begun",
-      "summary": "Government investment in AI-driven science projects signals growing adoption of AI in research and development, potentially increasing demand for AI-related skills across multiple industries.",
-      "date": "2026-07-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "effect": "advance",
+      "id": "this-is-donald-trump-s-ai-brain-trust",
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "summary": "The formation of Donald Trump's AI brain trust signals increased political and regulatory focus on AI, potentially slowing or shaping its adoption in the workforce.",
+      "date": "2026-07-27",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "government-policy",
-        "ai-adoption",
-        "research"
+        "policy",
+        "regulation",
+        "political-impact"
       ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "life-physical-and-social-science",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Anthropic's release of Opus 5 highlights advancements in AI capabilities, particularly in coding, which could impact tech and related fields.",
-      "date": "2026-07-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "coding capabilities",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "you-can-t-ignore-google-zero-anymore",
-      "title": "You can’t ignore Google Zero anymore",
-      "summary": "Google's shift away from traditional web indexing may impact digital visibility and traffic, affecting roles in digital marketing, content creation, and online business operations.",
-      "date": "2026-07-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+      "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
+      "summary": "Multiverse's funding boost indicates growing investment in AI cost reduction, accelerating AI adoption across industries.",
+      "date": "2026-07-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "web-traffic",
-        "digital-marketing",
-        "search-engine"
+        "funding",
+        "AI cost reduction",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-26T11:00:44.877Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
-        "media-and-communication"
+        "_all"
+      ]
+    },
+    {
+      "id": "softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+      "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
+      "summary": "SoftBank's $40 billion loan for OpenAI highlights growing financial support for AI development, signaling increased investment and potential acceleration in AI adoption across industries.",
+      "date": "2026-07-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "funding",
+        "enterprise-adoption",
+        "AI-investment"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-in-talks-to-back-openai-lease-of-500-billion-data-center",
+      "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
+      "summary": "Nvidia's potential financing support for OpenAI highlights growing investment in AI infrastructure, accelerating AI adoption and capabilities.",
+      "date": "2026-07-26",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "enterprise adoption",
+        "computing power"
+      ],
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-models-go-rogue-kimi-k3-freakout-a-i-superforecasting",
+      "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
+      "summary": "AI models escaping testing environments and potential geopolitical tensions around AI development highlight growing risks and pressures in AI adoption and regulation.",
+      "date": "2026-07-24",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "AI security",
+        "regulation"
+      ],
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2ae707fe-4b47-4aca-a964-88378115b3cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2ae707fe-4b47-4aca-a964-88378115b3cd&feed=6HKOhNgS",
+      "duration": "01:08:14"
+    },
+    {
+      "id": "-ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "summary": "The emergence of the Kimi model and security issues with OpenAI highlight growing AI capabilities and risks, influencing industry adoption and regulatory scrutiny.",
+      "date": "2026-07-24",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI models",
+        "security",
+        "regulation"
+      ],
+      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-07-26T12:00:00.000Z",
+  "generatedAt": "2026-07-27T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Shape Productivity Tools",
-      "preview": "New AI tools signal growing integration into professional workflows.",
-      "body": "Recent updates from Anthropic, OpenAI, and Meta highlight ongoing progress in AI capabilities for coding, productivity, and personal assistance. While most signals point to advancements, Google's shift away from traditional indexing introduces a potential delay in digital visibility. The overall trend suggests increasing AI adoption across industries, with mixed implications for job roles."
+      "title": "AI Workforce Expansion Continues Amid Regulatory Scrutiny",
+      "preview": "Positive AI advances balance with growing regulatory concerns.",
+      "body": "Recent signals show continued AI advancement, with OpenAI and HSBC investing heavily in AI capabilities. However, political focus on AI, as seen in Trump's AI brain trust, introduces potential delays. The overall trend remains forward-moving, with a mix of innovation and emerging risks shaping the workforce landscape."
     }
   }
 }

@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-07-27",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.958,
+    "macroReplacementRate": 50.205,
+    "newsAdjustment": -15.958,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-ai-is-expanding-what-people-do-at-work",
+        "title": "How AI is expanding what people do at work",
+        "summary": "AI is enabling workers to take on a broader range of tasks across roles, reshaping job boundaries and expanding the scope of work.",
+        "date": "2026-07-27",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workflows",
+          "job boundaries",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+        "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
+        "summary": "HSBC's expansion of AI capabilities in Singapore signals growing investment in AI talent and infrastructure, reflecting broader industry adoption and workforce transformation.",
+        "date": "2026-07-27",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "hiring trends",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "management"
+        ]
+      },
+      {
+        "id": "this-is-donald-trump-s-ai-brain-trust",
+        "title": "This Is Donald Trump’s AI Brain Trust",
+        "summary": "The formation of Donald Trump's AI brain trust signals increased political and regulatory focus on AI, potentially slowing or shaping its adoption in the workforce.",
+        "date": "2026-07-27",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "political-impact"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+        "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
+        "summary": "Multiverse's funding boost indicates growing investment in AI cost reduction, accelerating AI adoption across industries.",
+        "date": "2026-07-27",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "funding",
+          "AI cost reduction",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+        "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
+        "summary": "SoftBank's $40 billion loan for OpenAI highlights growing financial support for AI development, signaling increased investment and potential acceleration in AI adoption across industries.",
+        "date": "2026-07-27",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "funding",
+          "enterprise-adoption",
+          "AI-investment"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-in-talks-to-back-openai-lease-of-500-billion-data-center",
+        "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
+        "summary": "Nvidia's potential financing support for OpenAI highlights growing investment in AI infrastructure, accelerating AI adoption and capabilities.",
+        "date": "2026-07-26",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "computing power"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-models-go-rogue-kimi-k3-freakout-a-i-superforecasting",
+        "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
+        "summary": "AI models escaping testing environments and potential geopolitical tensions around AI development highlight growing risks and pressures in AI adoption and regulation.",
+        "date": "2026-07-24",
+        "source": "Apple Podcasts - Hard Fork",
+        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "AI security",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2ae707fe-4b47-4aca-a964-88378115b3cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2ae707fe-4b47-4aca-a964-88378115b3cd&feed=6HKOhNgS",
+        "duration": "01:08:14"
+      },
+      {
+        "id": "-ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "summary": "The emergence of the Kimi model and security issues with OpenAI highlight growing AI capabilities and risks, influencing industry adoption and regulatory scrutiny.",
+        "date": "2026-07-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI models",
+          "security",
+          "regulation"
+        ],
+        "fetchedAt": "2026-07-27T11:01:00.771Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How AI is expanding what people do at work.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How AI is expanding what people do at work\" (OpenAI), while the clearest drag comes from \"This Is Donald Trump’s AI Brain Trust\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.958 minutes. Updated 2026-07-27T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-26",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.71,
@@ -18062,248 +18300,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT.",
         "body": "This update is split between 4 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT\" (Apple Podcasts - Hard Fork), while the clearest drag comes from \"A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming\" (Apple Podcasts - Hard Fork). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -3.823 minutes. Updated 2026-04-26T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-25",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 9.162,
-    "macroReplacementRate": 49.366,
-    "newsAdjustment": -3.838,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "ai-designed-drugs-by-a-deepmind-spinoff-are-headed-to-human-trials",
-        "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-        "summary": "AI advancements in drug design may lead to increased automation in pharmaceutical research, potentially impacting jobs in life-physical-and-social-science and computer-and-information-technology sectors.",
-        "date": "2026-04-24",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI",
-          "healthcare",
-          "pharmaceuticals"
-        ],
-        "fetchedAt": "2026-04-25T12:21:23.160Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "life-physical-and-social-science",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "china-s-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals",
-        "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-        "summary": "China's DeepSeek releasing an advanced AI model could accelerate AI's ability to replace jobs in tech and coding-related fields.",
-        "date": "2026-04-24",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI development",
-          "job replacement",
-          "tech innovation"
-        ],
-        "fetchedAt": "2026-04-25T12:21:24.450Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute",
-        "title": "Google to invest up to $40B in Anthropic in cash and compute",
-        "summary": "Google's $40B investment in Anthropic accelerates AI development, potentially increasing the pace of AI replacing human jobs in tech and related fields.",
-        "date": "2026-04-24",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "tech advancement",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-25T12:21:22.278Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "claude-is-connecting-directly-to-your-personal-apps-like-spotify-uber-eats-and-t",
-        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-        "summary": "Claude's integration with personal apps could increase AI's role in daily tasks, potentially impacting jobs that involve routine app-based interactions.",
-        "date": "2026-04-23",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI integration",
-          "personal productivity",
-          "job automation"
-        ],
-        "fetchedAt": "2026-04-25T12:21:25.329Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "personal-care-and-service"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anthropic-claude-personal-apps.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "openai-releases-gpt-5-5-bringing-company-one-step-closer-to-an-ai-super-app-",
-        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-        "summary": "The release of GPT-5.5 by OpenAI is a significant step toward an AI 'super app,' potentially accelerating AI's ability to replace human jobs across multiple industries.",
-        "date": "2026-04-23",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI advancement",
-          "job displacement",
-          "technology development"
-        ],
-        "fetchedAt": "2026-04-25T12:21:27.299Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "bret-taylor-s-sierra-buys-yc-backed-ai-startup-fragment",
-        "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-        "summary": "The acquisition of Fragment by Sierra indicates growing investment in AI customer service, potentially accelerating AI's role in replacing human jobs in support and administrative roles.",
-        "date": "2026-04-23",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "startup acquisition",
-          "customer service"
-        ],
-        "fetchedAt": "2026-04-25T12:21:26.291Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-s-vision-for-the-ai-economy",
-        "title": "OpenAI's vision for the AI economy",
-        "summary": "OpenAI's policy proposals suggest a shift in how wealth and work are structured in an AI-driven economy, potentially accelerating AI's role in replacing human jobs.",
-        "date": "2026-04-07",
-        "source": "TechCrunch Daily Crunch",
-        "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1807379045.mp3",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI economy",
-          "policy",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-25T12:21:19.706Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV1807379045.mp3?key=459125855e09d93dbfdad76830292d3a&request_event_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&session_id=b38978db-6eb7-4a60-a34e-2e8f4fc50221&timetoken=1777178613_9D1F024C96D7C4676CE93B17F7ABFD9B",
-        "duration": "8 min"
-      },
-      {
-        "id": "an-ai-heavy-makeover-coming-to-slack",
-        "title": "An AI-heavy makeover coming to Slack",
-        "summary": "An AI-heavy makeover for Slack suggests increased use of AI in workplace communication, potentially impacting jobs in office and administrative support.",
-        "date": "2026-04-02",
-        "source": "TechCrunch Daily Crunch",
-        "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV9624736069.mp3",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workplace automation",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-04-25T12:21:20.530Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://dcs-spotify.megaphone.fm/AIRWV9624736069.mp3?key=b6f2f6a52afc6002514a7a4068996e41&request_event_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&session_id=820123d9-2b1c-4f66-ae23-45f26c1bba81&timetoken=1777178620_52CFF933B777C06A61507E8FFE4C9F67",
-        "duration": "7 min"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by China’s DeepSeek previews new AI model a year after jolting US rivals.",
-        "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"China’s DeepSeek previews new AI model a year after jolting US rivals\" (The Verge - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -3.838 minutes. Updated 2026-04-25T12:00:00.000Z, with the macro replacement estimate at 49.4%."
       }
     }
   }
