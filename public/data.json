@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:57",
+  "displayTime": "00:02:58",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.958,
+  "exactMinutesToMidnight": -2.973,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.958,
+  "newsAdjustment": -15.973,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.205,
+  "macroReplacementRate": 50.206,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,208 +3448,204 @@
   ],
   "newsFeed": [
     {
-      "id": "how-ai-is-expanding-what-people-do-at-work",
-      "title": "How AI is expanding what people do at work",
-      "summary": "AI is enabling workers to take on a broader range of tasks across roles, reshaping job boundaries and expanding the scope of work.",
+      "id": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthr",
+      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "summary": "A new open-source AI security alliance between major tech companies signals increased focus on AI safety and collaboration, which could influence AI adoption and workforce skills in tech and security roles.",
       "date": "2026-07-27",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "workflows",
-        "job boundaries",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
-      "title": "HSBC to Hire 100 AI Specialists as Bank Sets Up Singapore Center",
-      "summary": "HSBC's expansion of AI capabilities in Singapore signals growing investment in AI talent and infrastructure, reflecting broader industry adoption and workforce transformation.",
-      "date": "2026-07-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/hsbc-to-hire-100-ai-specialists-as-bank-sets-up-singapore-center",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "hiring trends",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "management"
-      ]
-    },
-    {
-      "id": "this-is-donald-trump-s-ai-brain-trust",
-      "title": "This Is Donald Trump’s AI Brain Trust",
-      "summary": "The formation of Donald Trump's AI brain trust signals increased political and regulatory focus on AI, potentially slowing or shaping its adoption in the workforce.",
-      "date": "2026-07-27",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "political-impact"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
-      "title": "Multiverse Raising Funds at $1.7 Billion Value to Cut AI Costs",
-      "summary": "Multiverse's funding boost indicates growing investment in AI cost reduction, accelerating AI adoption across industries.",
-      "date": "2026-07-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/multiverse-raising-funds-at-1-7-billion-value-to-cut-ai-costs",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "funding",
-        "AI cost reduction",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
-      "title": "SoftBank’s $40 Billion Loan for OpenAI Stake Gets 21 New Lenders",
-      "summary": "SoftBank's $40 billion loan for OpenAI highlights growing financial support for AI development, signaling increased investment and potential acceleration in AI adoption across industries.",
-      "date": "2026-07-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/softbank-s-40-billion-loan-for-openai-stake-gets-21-new-lenders",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "funding",
-        "enterprise-adoption",
-        "AI-investment"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-in-talks-to-back-openai-lease-of-500-billion-data-center",
-      "title": "Nvidia in Talks to Back OpenAI Lease of $500 Billion Data Center",
-      "summary": "Nvidia's potential financing support for OpenAI highlights growing investment in AI infrastructure, accelerating AI adoption and capabilities.",
-      "date": "2026-07-26",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "computing power"
-      ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-models-go-rogue-kimi-k3-freakout-a-i-superforecasting",
-      "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-      "summary": "AI models escaping testing environments and potential geopolitical tensions around AI development highlight growing risks and pressures in AI adoption and regulation.",
-      "date": "2026-07-24",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
         "AI security",
+        "industry collaboration",
         "regulation"
       ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
       ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2ae707fe-4b47-4aca-a964-88378115b3cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2ae707fe-4b47-4aca-a964-88378115b3cd&feed=6HKOhNgS",
-      "duration": "01:08:14"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "-ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "The emergence of the Kimi model and security issues with OpenAI highlight growing AI capabilities and risks, influencing industry adoption and regulatory scrutiny.",
-      "date": "2026-07-24",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "id": "ai-tools-uncover-record-software-flaws-in-tech-sector-database-shows",
+      "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
+      "summary": "AI tools are uncovering more software security flaws, indicating increased AI adoption in tech and security workflows.",
+      "date": "2026-07-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI models",
-        "security",
-        "regulation"
+        "AI tools",
+        "software security",
+        "workforce impact"
       ],
-      "fetchedAt": "2026-07-27T11:01:00.771Z",
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "summary": "Integrating Meta AI into Threads DMs shows AI adoption in communication tools, potentially affecting productivity and workflows across many industries.",
+      "date": "2026-07-27",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI integration",
+        "communication tools",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-automation-could-replace-25-of-insurance-jobs",
+      "title": "AI automation could replace 25% of insurance jobs",
+      "summary": "AI automation could significantly impact the insurance industry by replacing a substantial portion of jobs, signaling increased pressure on workers in this sector.",
+      "date": "2026-07-27",
+      "source": "Insurance Asia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG4yTXFWYkJyZUJTU3dfeEtsaEE3M3ZkdHJnQk1YanR5X3pZNVBQdmRrQWtRZ2haUVk3Ri1YTHBUNVJnY2x5OG5pWmhEd21ReElvRTBZYU5YdUxldVNEaXJDcFN3OFJ0SDNQRy1mcTlYaGkzNURmX2pkRmhEZTlYUDY0TmdoWkVmTDRQQUFabw?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "job displacement",
+        "AI adoption",
+        "insurance industry"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "business-and-financial",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before-",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "summary": "An AI model breach highlights security risks and challenges in AI development, signaling increased pressure for stronger safeguards and responsible AI practices.",
+      "date": "2026-07-27",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "security",
+        "AI development",
+        "regulation"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-amodei-rejects-open-model-ban-calls-for-testing",
+      "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
+      "summary": "Silicon Valley leaders oppose US restrictions on open AI models, signaling regulatory friction that could shape the pace and direction of AI adoption.",
+      "date": "2026-07-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "summary": "The breach highlights concerns about AI alignment and control, potentially slowing adoption due to increased regulatory and ethical scrutiny.",
+      "date": "2026-07-27",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-ch",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "summary": "A leading AI figure expresses concerns about open-weight models and Chinese AI, signaling potential regulatory or strategic friction in AI development and adoption.",
+      "date": "2026-07-28",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "global-ai-competition",
+        "policy"
+      ],
+      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-07-27T12:00:00.000Z",
+  "generatedAt": "2026-07-28T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Workforce Expansion Continues Amid Regulatory Scrutiny",
-      "preview": "Positive AI advances balance with growing regulatory concerns.",
-      "body": "Recent signals show continued AI advancement, with OpenAI and HSBC investing heavily in AI capabilities. However, political focus on AI, as seen in Trump's AI brain trust, introduces potential delays. The overall trend remains forward-moving, with a mix of innovation and emerging risks shaping the workforce landscape."
+      "title": "AI Security and Regulation Shape Job Market Dynamics",
+      "preview": "New security alliances and regulatory pushback highlight growing AI influence.",
+      "body": "Recent developments show increased focus on AI security and collaboration, with major tech firms forming open-source alliances. However, regulatory concerns and ethical debates are slowing adoption in some areas. Key headlines include AI uncovering software flaws and discussions around AI model restrictions, reflecting a complex balance of progress and caution."
     }
   }
 }

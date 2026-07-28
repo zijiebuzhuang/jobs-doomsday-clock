@@ -1,5 +1,197 @@
 [
   {
+    "id": "openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before-",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "summary": "An AI model breach highlights security risks and challenges in AI development, signaling increased pressure for stronger safeguards and responsible AI practices.",
+    "date": "2026-07-27",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "AI development",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthr",
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "summary": "A new open-source AI security alliance between major tech companies signals increased focus on AI safety and collaboration, which could influence AI adoption and workforce skills in tech and security roles.",
+    "date": "2026-07-27",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "industry collaboration",
+      "regulation"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-s-amodei-rejects-open-model-ban-calls-for-testing",
+    "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
+    "summary": "Silicon Valley leaders oppose US restrictions on open AI models, signaling regulatory friction that could shape the pace and direction of AI adoption.",
+    "date": "2026-07-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-ch",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary": "A leading AI figure expresses concerns about open-weight models and Chinese AI, signaling potential regulatory or strategic friction in AI development and adoption.",
+    "date": "2026-07-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "global-ai-competition",
+      "policy"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-tools-uncover-record-software-flaws-in-tech-sector-database-shows",
+    "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
+    "summary": "AI tools are uncovering more software security flaws, indicating increased AI adoption in tech and security workflows.",
+    "date": "2026-07-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "software security",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "summary": "Integrating Meta AI into Threads DMs shows AI adoption in communication tools, potentially affecting productivity and workflows across many industries.",
+    "date": "2026-07-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI integration",
+      "communication tools",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "summary": "The breach highlights concerns about AI alignment and control, potentially slowing adoption due to increased regulatory and ethical scrutiny.",
+    "date": "2026-07-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-automation-could-replace-25-of-insurance-jobs",
+    "title": "AI automation could replace 25% of insurance jobs",
+    "summary": "AI automation could significantly impact the insurance industry by replacing a substantial portion of jobs, signaling increased pressure on workers in this sector.",
+    "date": "2026-07-27",
+    "source": "Insurance Asia",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG4yTXFWYkJyZUJTU3dfeEtsaEE3M3ZkdHJnQk1YanR5X3pZNVBQdmRrQWtRZ2haUVk3Ri1YTHBUNVJnY2x5OG5pWmhEd21ReElvRTBZYU5YdUxldVNEaXJDcFN3OFJ0SDNQRy1mcTlYaGkzNURmX2pkRmhEZTlYUDY0TmdoWkVmTDRQQUFabw?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "job displacement",
+      "AI adoption",
+      "insurance industry"
+    ],
+    "fetchedAt": "2026-07-28T11:00:53.291Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "business-and-financial",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
     "id": "how-ai-is-expanding-what-people-do-at-work",
     "title": "How AI is expanding what people do at work",
     "summary": "AI is enabling workers to take on a broader range of tasks across roles, reshaping job boundaries and expanding the scope of work.",
@@ -13982,59 +14174,5 @@
     "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
     "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/f3aaf1b4-9b7f-4c31-8c88-3d2e64568115/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=f3aaf1b4-9b7f-4c31-8c88-3d2e64568115&feed=6HKOhNgS",
     "duration": "01:09:55"
-  },
-  {
-    "id": "disintegrating-the-org-chart-servicenow-s-jacqui-canney",
-    "title": "Disintegrating the Org Chart: ServiceNow’s Jacqui Canney",
-    "summary": "ServiceNow is integrating AI into employee onboarding, which could accelerate the replacement of certain administrative and support roles by automating tasks and improving efficiency.",
-    "date": "2026-04-07",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/disintegrating-the-org-chart-servicenows-jacqui-canney",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce automation",
-      "employee onboarding"
-    ],
-    "fetchedAt": "2026-04-29T11:01:18.729Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "management"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/a2d02c3e-1f15-11f1-b9f0-27e97a1d9a1b/image/ee87658146110ad71bff70f20a138a78.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO8869951031.mp3?updated=1773432112",
-    "duration": "35 min"
-  },
-  {
-    "id": "shifting-ai-from-fear-to-optimism-u-s-department-of-labor-s-taylor-stockton",
-    "title": "Shifting AI From Fear to Optimism: U.S. Department of Labor’s Taylor Stockton",
-    "summary": "The article highlights the need for workers and businesses to adapt to AI's widespread impact, suggesting a focus on preparation rather than immediate job replacement.",
-    "date": "2026-03-24",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/shifting-ai-from-fear-to-optimism-u-s-department-of-labors-taylor-stockton",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI literacy",
-      "workforce adaptation",
-      "economywide impact"
-    ],
-    "fetchedAt": "2026-04-29T11:01:20.506Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/4f287460-137b-11f1-98c9-97c3a224eb1a/image/d2362eb08f465426a6d7ae24b5c5111c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO8817201608.mp3?updated=1772156150",
-    "duration": "30 min"
   }
 ]
