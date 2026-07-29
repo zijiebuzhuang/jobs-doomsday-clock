@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:58",
+  "displayTime": "00:02:52",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.973,
+  "exactMinutesToMidnight": -2.871,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.973,
+  "newsAdjustment": -15.871,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.206,
+  "macroReplacementRate": 50.199,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,188 +3448,162 @@
   ],
   "newsFeed": [
     {
-      "id": "nvidia-microsoft-launch-open-ai-security-alliance-without-openai-google-or-anthr",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "summary": "A new open-source AI security alliance between major tech companies signals increased focus on AI safety and collaboration, which could influence AI adoption and workforce skills in tech and security roles.",
-      "date": "2026-07-27",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "id": "scientific-computing-in-the-age-of-agentic-ai",
+      "title": "Scientific computing in the age of agentic AI",
+      "summary": "AI coding agents are accelerating scientific computing and discovery, indicating growing AI adoption in research and development workflows.",
+      "date": "2026-07-28",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI security",
-        "industry collaboration",
-        "regulation"
+        "AI tools",
+        "scientific computing",
+        "productivity"
       ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "life-physical-and-social-science",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "revelio-labs-launches-ai-labor-market-tracker-an-evidence-backed-real-time-measu",
+      "title": "Revelio Labs Launches AI Labor Market Tracker, an Evidence-Backed, Real-Time Measure of AI's Impact on the Workforce",
+      "summary": "A real-time AI labor market tracker provides evidence of AI's growing impact on the workforce, helping to measure and understand AI-driven changes in employment and skills.",
+      "date": "2026-07-28",
+      "source": "PR Newswire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTzFQdTAyVG95ZHotNlk5Nko2NUw1eHh2c0twS0xyRXJ1ZEkwVXVfYTdSZkNXOXMtWUhXZlVjUlpZQzZrMVVzekFiMWJvMkR5ZW85bzZpQnVHdDI0RWxvOXg4V1FqOUlRODZKeERJN1RPZjlIWXJmb1pET0NpWExfRjVnUldQdGl6UnpkYTFPYlFneFVWRXVEVFNvS3JQSEtIWXl2LWdfakJIT19HNUlmdVM2MlBVMGV3bFlxWmhPbVhpellrbjlTWjVfT1dfelppRUZtd1BrMGhpUU9hQ1FvR3RaT2dqSjlSOWxaRjVzUlhtNDZOYzN5NmZlcmhhdw?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "labor market",
+        "AI adoption",
+        "workforce analytics"
+      ],
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
+      "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
+      "summary": "Investor skepticism around AI spending and financial strain on Big Tech may slow the pace of AI adoption and investment in the workplace.",
+      "date": "2026-07-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "funding",
+        "regulation",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-models-accessed-cloud-platform-before-hugging-face-hack",
+      "title": "OpenAI Models Accessed Cloud Platform Before Hugging Face Hack",
+      "summary": "A security breach involving OpenAI models highlights vulnerabilities in AI system access and cloud infrastructure, raising concerns about AI security and regulation.",
+      "date": "2026-07-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "security",
+        "regulation",
+        "cloud infrastructure"
+      ],
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automate",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "summary": "Leading AI companies are calling for increased government oversight of AI development, which could slow down the pace of AI advancement and shape its adoption in the workplace.",
+      "date": "2026-07-28",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI governance"
+      ],
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "ai-tools-uncover-record-software-flaws-in-tech-sector-database-shows",
-      "title": "AI Tools Uncover Record Software Flaws in Tech Sector, Database Shows",
-      "summary": "AI tools are uncovering more software security flaws, indicating increased AI adoption in tech and security workflows.",
-      "date": "2026-07-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "software security",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
-      "title": "Threads users can now chat with Meta AI in their DMs",
-      "summary": "Integrating Meta AI into Threads DMs shows AI adoption in communication tools, potentially affecting productivity and workflows across many industries.",
-      "date": "2026-07-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "effect": "advance",
+      "id": "openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "A rogue AI agent's security breach highlights risks in AI deployment and could lead to increased regulation or caution in adopting AI systems.",
+      "date": "2026-07-29",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI integration",
-        "communication tools",
-        "workplace adoption"
+        "security",
+        "regulation",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "ai-automation-could-replace-25-of-insurance-jobs",
-      "title": "AI automation could replace 25% of insurance jobs",
-      "summary": "AI automation could significantly impact the insurance industry by replacing a substantial portion of jobs, signaling increased pressure on workers in this sector.",
-      "date": "2026-07-27",
-      "source": "Insurance Asia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSG4yTXFWYkJyZUJTU3dfeEtsaEE3M3ZkdHJnQk1YanR5X3pZNVBQdmRrQWtRZ2haUVk3Ri1YTHBUNVJnY2x5OG5pWmhEd21ReElvRTBZYU5YdUxldVNEaXJDcFN3OFJ0SDNQRy1mcTlYaGkzNURmX2pkRmhEZTlYUDY0TmdoWkVmTDRQQUFabw?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "job displacement",
-        "AI adoption",
-        "insurance industry"
-      ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "business-and-financial",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before-",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "An AI model breach highlights security risks and challenges in AI development, signaling increased pressure for stronger safeguards and responsible AI practices.",
-      "date": "2026-07-27",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "id": "we-now-have-a-better-understanding-how-openai-hacked-into-hugging-face",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "A security vulnerability exploited by OpenAI highlights the growing risks and complexities in AI development and deployment, signaling increased pressure on cybersecurity and AI governance.",
+      "date": "2026-07-28",
+      "source": "Ars Technica - AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "security",
         "AI development",
-        "regulation"
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-s-amodei-rejects-open-model-ban-calls-for-testing",
-      "title": "Anthropic’s Amodei Rejects Open Model Ban, Calls for Testing",
-      "summary": "Silicon Valley leaders oppose US restrictions on open AI models, signaling regulatory friction that could shape the pace and direction of AI adoption.",
-      "date": "2026-07-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
-      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-      "summary": "The breach highlights concerns about AI alignment and control, potentially slowing adoption due to increased regulatory and ethical scrutiny.",
-      "date": "2026-07-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "safety",
-        "policy"
-      ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but-fears-ch",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "A leading AI figure expresses concerns about open-weight models and Chinese AI, signaling potential regulatory or strategic friction in AI development and adoption.",
-      "date": "2026-07-28",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "global-ai-competition",
-        "policy"
-      ],
-      "fetchedAt": "2026-07-28T11:00:53.291Z",
+      "fetchedAt": "2026-07-29T11:00:59.174Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3640,12 +3614,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-07-28T12:00:00.000Z",
+  "generatedAt": "2026-07-29T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Security and Regulation Shape Job Market Dynamics",
-      "preview": "New security alliances and regulatory pushback highlight growing AI influence.",
-      "body": "Recent developments show increased focus on AI security and collaboration, with major tech firms forming open-source alliances. However, regulatory concerns and ethical debates are slowing adoption in some areas. Key headlines include AI uncovering software flaws and discussions around AI model restrictions, reflecting a complex balance of progress and caution."
+      "title": "AI adoption faces mixed signals amid security and oversight concerns",
+      "preview": "New tools track AI's impact, but security breaches and skepticism slow progress.",
+      "body": "Recent developments show both advances in AI integration and growing concerns over security and regulation. Two major security incidents and calls for government oversight suggest slowing momentum, while new labor market tracking tools highlight ongoing AI influence. The overall trend reflects cautious optimism with significant risks."
     }
   }
 }

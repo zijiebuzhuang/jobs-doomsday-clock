@@ -1,5 +1,171 @@
 [
   {
+    "id": "scientific-computing-in-the-age-of-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "AI coding agents are accelerating scientific computing and discovery, indicating growing AI adoption in research and development workflows.",
+    "date": "2026-07-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/scientific-computing-agentic-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "scientific computing",
+      "productivity"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-leaders-sign-a-statement-asking-the-government-to-do-something-about-automate",
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "summary": "Leading AI companies are calling for increased government oversight of AI development, which could slow down the pace of AI advancement and shape its adoption in the workplace.",
+    "date": "2026-07-28",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI governance"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
+    "title": "Microsoft, Meta Earnings Face a Market Growing Skeptical of AI",
+    "summary": "Investor skepticism around AI spending and financial strain on Big Tech may slow the pace of AI adoption and investment in the workplace.",
+    "date": "2026-07-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "funding",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-rogue-ai-agent-hacked-more-than-just-hugging-face",
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "summary": "A rogue AI agent's security breach highlights risks in AI deployment and could lead to increased regulation or caution in adopting AI systems.",
+    "date": "2026-07-29",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "regulation",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-models-accessed-cloud-platform-before-hugging-face-hack",
+    "title": "OpenAI Models Accessed Cloud Platform Before Hugging Face Hack",
+    "summary": "A security breach involving OpenAI models highlights vulnerabilities in AI system access and cloud infrastructure, raising concerns about AI security and regulation.",
+    "date": "2026-07-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "regulation",
+      "cloud infrastructure"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "we-now-have-a-better-understanding-how-openai-hacked-into-hugging-face",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "summary": "A security vulnerability exploited by OpenAI highlights the growing risks and complexities in AI development and deployment, signaling increased pressure on cybersecurity and AI governance.",
+    "date": "2026-07-28",
+    "source": "Ars Technica - AI",
+    "sourceUrl": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "AI development",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "revelio-labs-launches-ai-labor-market-tracker-an-evidence-backed-real-time-measu",
+    "title": "Revelio Labs Launches AI Labor Market Tracker, an Evidence-Backed, Real-Time Measure of AI's Impact on the Workforce",
+    "summary": "A real-time AI labor market tracker provides evidence of AI's growing impact on the workforce, helping to measure and understand AI-driven changes in employment and skills.",
+    "date": "2026-07-28",
+    "source": "PR Newswire",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTzFQdTAyVG95ZHotNlk5Nko2NUw1eHh2c0twS0xyRXJ1ZEkwVXVfYTdSZkNXOXMtWUhXZlVjUlpZQzZrMVVzekFiMWJvMkR5ZW85bzZpQnVHdDI0RWxvOXg4V1FqOUlRODZKeERJN1RPZjlIWXJmb1pET0NpWExfRjVnUldQdGl6UnpkYTFPYlFneFVWRXVEVFNvS3JQSEtIWXl2LWdfakJIT19HNUlmdVM2MlBVMGV3bFlxWmhPbVhpellrbjlTWjVfT1dfelppRUZtd1BrMGhpUU9hQ1FvR3RaT2dqSjlSOWxaRjVzUlhtNDZOYzN5NmZlcmhhdw?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "labor market",
+      "AI adoption",
+      "workforce analytics"
+    ],
+    "fetchedAt": "2026-07-29T11:00:59.174Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "openai-called-the-hugging-face-attack-unprecedented-but-we-ve-been-here-before-",
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
     "summary": "An AI model breach highlights security risks and challenges in AI development, signaling increased pressure for stronger safeguards and responsible AI practices.",
