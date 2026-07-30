@@ -1,5 +1,227 @@
 [
   {
+    "id": "how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails",
+    "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+    "summary": "This article highlights the growing adoption of AI in software development workflows, particularly in secure and regulated environments, indicating increased use of AI coding assistants.",
+    "date": "2026-07-29",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflows",
+      "productivity",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/synthetic-gen-rep-768x432.jpg"
+  },
+  {
+    "id": "a-fundamental-flaw-leaves-llms-strikingly-vulnerable-to-attack",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "summary": "A fundamental security flaw in LLMs could slow AI adoption due to increased safety concerns and regulatory scrutiny.",
+    "date": "2026-07-30",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "security",
+      "regulation",
+      "AI development"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-president-says-it-s-building-a-family-of-devices-for-its-ai-chatbots",
+    "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+    "summary": "OpenAI's development of a 'family of devices' for AI chatbots signals progress in making AI more accessible and integrated into daily workflows.",
+    "date": "2026-07-29",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "we-re-running-out-of-reasons-to-ignore-ai-safety",
+    "title": "We’re running out of reasons to ignore AI safety",
+    "summary": "AI safety concerns and incidents may slow down the adoption of AI in critical work areas due to increased regulatory scrutiny and risk management needs.",
+    "date": "2026-07-29",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-s-rogue-ai-agent-didn-t-stop-at-hacking-hugging-face",
+    "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+    "summary": "A rogue AI agent's security breach highlights risks in AI systems, prompting calls for stronger oversight and regulation.",
+    "date": "2026-07-29",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "security"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-scammers-are-better-at-building-trust-than-humans",
+    "title": "AI Scammers Are Better at Building Trust Than Humans",
+    "summary": "AI's ability to build trust in interactions could impact roles involving communication, customer service, and security.",
+    "date": "2026-07-30",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capabilities",
+      "trust and deception",
+      "workplace security"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "community-and-social-service",
+      "protective-service"
+    ]
+  },
+  {
+    "id": "meta-s-zuckerberg-strains-to-assuage-investor-worries-on-ai-bet",
+    "title": "Meta’s Zuckerberg strains to assuage investor worries on AI bet",
+    "summary": "Meta's underwhelming revenue forecast suggests challenges in realizing AI-driven returns, signaling potential delays in AI adoption or its impact on business performance.",
+    "date": "2026-07-30",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-30/meta-strains-to-assuage-investor-worries-on-ai-bet-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "business impact",
+      "investor sentiment"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "meta-s-zuckerberg-defends-ai-bets-to-skeptical-investors",
+    "title": "Meta’s Zuckerberg Defends AI Bets to Skeptical Investors",
+    "summary": "Meta's continued investment in AI, despite investor skepticism, signals ongoing pressure to integrate AI into business operations and workflows.",
+    "date": "2026-07-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "corporate strategy"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "how-generative-ai-will-reshape-india-s-job-market",
+    "title": "How Generative AI Will Reshape India's Job Market",
+    "summary": "The article explores how generative AI is expected to significantly impact India's job market across multiple sectors.",
+    "date": "2026-07-29",
+    "source": "Rediff",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1lhNks1N3hNbWlEYTNBNjRURkVVdElSeXBKTmtpRy1pOTlTMW9BNVFBc2g5S0tzNFJDMXVEMWJQWVdSSWhDV3pBYmkxc2ZKeU9KbGRrd1loZENDZllNelRBVVYxakpGX3pDZkdJS3hkTE0tYURKTnBlVE9uVFpIWHVmSUpVOGZMRFI2NnNiMzBESmR2SmZCTGFfZWZDQUFyeHNPQ3NzRVY1QdIBrAFBVV95cUxNaThTazBsNnloSGFZT3M3SDJDOTd3aFczMlJjSmZUWHdhcExTblBDLURjWVlPdjNxUFJCLTlyWjF2WjVwZVZOeGJnck04ZVpEOTFncUNtemxJTUJ4ZGo0ZUpzQXhwd3BtTnhGSkRnZ2ZFUHZUQVNYWEplNWlzeU1Qd1Y3ZXVsaW05dTlZLVNUQUp0a3AzbXEyRV9nbGpvNDBlTU5vZ2RJYkd3ODZr?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce transformation",
+      "job market trends"
+    ],
+    "fetchedAt": "2026-07-30T11:00:54.571Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "scientific-computing-in-the-age-of-agentic-ai",
     "title": "Scientific computing in the age of agentic AI",
     "summary": "AI coding agents are accelerating scientific computing and discovery, indicating growing AI adoption in research and development workflows.",
@@ -14288,57 +14510,5 @@
       "business-and-financial",
       "_all"
     ]
-  },
-  {
-    "id": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks",
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "summary": "A potential $900B+ valuation for Anthropic suggests growing investment in AI, which could accelerate AI's impact on job markets.",
-    "date": "2026-04-30",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "valuation",
-      "job market"
-    ],
-    "fetchedAt": "2026-05-01T11:01:13.487Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
-    "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
-    "summary": "The integration of AI in medical settings suggests increased automation in healthcare, potentially replacing certain roles and accelerating AI's impact on jobs.",
-    "date": "2026-05-01",
-    "source": "Apple Podcasts - Hard Fork",
-    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI in healthcare",
-      "job displacement",
-      "technological advancement"
-    ],
-    "fetchedAt": "2026-05-01T11:01:02.657Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "healthcare",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/f3aaf1b4-9b7f-4c31-8c88-3d2e64568115/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=f3aaf1b4-9b7f-4c31-8c88-3d2e64568115&feed=6HKOhNgS",
-    "duration": "01:09:55"
   }
 ]
