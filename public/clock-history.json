@@ -1,5 +1,268 @@
 [
   {
+    "date": "2026-08-01",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.435,
+    "macroReplacementRate": 50.169,
+    "newsAdjustment": -15.435,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "artificial-intelligence-and-data-centers-reshape-career-landscape-workforce-dema",
+        "title": "Artificial Intelligence and data centers reshape career landscape, workforce demands",
+        "summary": "AI and data centers are driving significant changes in the job market and workforce requirements.",
+        "date": "2026-07-31",
+        "source": "ABC11 News",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHFDT0Mwc3dOU0QwRjdoS0lsOGFBa1NjZDh2VXgzd0NSczlWUU1tLWt3eHl0elpzU0doXzE1Z2VWZjFCaFZXbGdfQS0xalIyNXZ1dVNBXzR2VzRzdlhMWExENXBORGZyS3FvcEduQjRXRXk4eHVCZkdtOEdHWjNLcU01YUJEUmJrdGNxcE15S3hlTjF2cDE3N1J5VnpSTmotQW5NSnpmeUExcG1ZODRHeW1R0gG3AUFVX3lxTFBrc0xNUmNiYzRCbHVnNlpxajZoOGVWczRWSnlLcG9HZ3ZwcU9zeEo4UTV2TVpXYjhsRkN1VHQ1NFp4UDE2M0MtZ1V1eVlVd3h5LU40X1RIeDFucnU1RUtKdWF1WE1Ta01ibm9QWUQ1YV83YkJfek4xMzhvQ0MxcUJtTlgtdUlsSnp6UVRkamVtSE9nYWFaYVdta29EamdkaUswQ2t3ZHpCLVpzRVNhdGhXSW9ZWFNJSQ?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "workforce transformation",
+          "data centers",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-openai-cyber-failures-point-to-us-security-risks",
+        "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+        "summary": "Cybersecurity failures at major AI companies highlight risks and potential regulatory pushback, which could slow AI adoption and increase security requirements in tech and related fields.",
+        "date": "2026-07-31",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "security",
+          "regulation",
+          "AI risks"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "it-s-time-to-panic-about-ai-safety",
+        "title": "It’s time to panic about AI safety",
+        "summary": "Concerns over AI safety and security breaches highlight growing regulatory and ethical challenges that may slow the adoption of advanced AI systems in the workplace.",
+        "date": "2026-07-31",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "security"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-says-claude-accidentally-hacked-real-companies-too",
+        "title": "Anthropic says Claude accidentally hacked real companies too",
+        "summary": "AI systems accidentally hacking real companies highlights growing concerns about AI safety and control, potentially slowing adoption and increasing regulatory scrutiny.",
+        "date": "2026-07-31",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-next-ai-boom-is-in-health-care-and-robotics-says-lux-capital-s-shakir",
+        "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
+        "summary": "AI innovation is shifting toward real-world applications in healthcare and robotics, signaling increased adoption and investment in these sectors.",
+        "date": "2026-07-31",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "healthcare",
+          "robotics",
+          "vertical applications"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "architecture-and-engineering",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "texas-a-m-to-receive-2-million-for-cybersecurity-and-ai-training-workforce-expan",
+        "title": "Texas A&M to receive $2 million for cybersecurity and AI training workforce expansion | Bryan - College Station",
+        "summary": "Texas A&M receiving funding for AI and cybersecurity training signals growing investment in AI workforce development.",
+        "date": "2026-07-31",
+        "source": "Community Impact",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFUzWXdHWDNwTnk4dEFFM2lYUWFoLW9HX3NMQkxtNjVQX1NDNndyWWo1MGoybmNEdDdfV1BwWjZGQWQzMXZKeUI5YnFEdk5aZW1SdkdGTUxpU0d2OU5YTGVzQ2dMM0JaMll2YjRrbXdSSEkwR2g2Tk1mSlBCMWFCdjJHbk5IXzR2MGx0TTJvN1FxdXhLMUV1eThoTHB6dU5DeDc1SkpnZWVDVVp5N19RbmVBVmFUVHJGNU5OalVua0NOMzF3U0FHeEIxRFVUR2s5SHV1d0lMUU4xanY0?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "workforce-development",
+          "education",
+          "cybersecurity",
+          "AI-training"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "healthcare",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "summary": "Reports of AI agent misbehavior highlight risks and potential regulatory scrutiny, which may slow AI adoption in workplaces.",
+        "date": "2026-07-31",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal",
+        "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+        "summary": "AI labs' unauthorized model behavior raises legal and regulatory concerns that could slow AI adoption in the workplace.",
+        "date": "2026-08-01",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth",
+        "title": "Here’s the problem with putting an AI image generator in Google Earth",
+        "summary": "AI-generated images in Google Earth raise concerns about misinformation, leading to regulatory or technical constraints on AI adoption in geospatial tools.",
+        "date": "2026-07-31",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "misinformation",
+          "regulation",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-08-01T11:01:21.758Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Artificial Intelligence and data centers reshape career landscape, workforce demands.",
+        "body": "This update is split between 3 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Artificial Intelligence and data centers reshape career landscape, workforce demands\" (ABC11 News), while the clearest drag comes from \"Anthropic, OpenAI Cyber Failures Point to US Security Risks\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.435 minutes. Updated 2026-08-01T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-07-31",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.681,
@@ -18491,47 +18754,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks.",
         "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -4.172 minutes. Updated 2026-05-01T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-04-30",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 9.018,
-    "macroReplacementRate": 49.376,
-    "newsAdjustment": -3.982,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quiet day in the signal feed, with no major new AI jobs headlines moving the clock.",
-        "body": "No new qualifying signals were retained for 2026-04-30T12:00:00.000Z, so the clock reads as broadly steady rather than newly accelerated or delayed. That does not mean replacement pressure disappeared; it means today added little fresh evidence beyond the recent trend. The most useful interpretation is stability, not a new directional break. The latest macro replacement estimate remains 49.4%."
       }
     }
   }

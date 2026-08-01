@@ -1,5 +1,226 @@
 [
   {
+    "id": "it-s-time-to-panic-about-ai-safety",
+    "title": "It’s time to panic about AI safety",
+    "summary": "Concerns over AI safety and security breaches highlight growing regulatory and ethical challenges that may slow the adoption of advanced AI systems in the workplace.",
+    "date": "2026-07-31",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "security"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "anthropic-says-claude-accidentally-hacked-real-companies-too",
+    "title": "Anthropic says Claude accidentally hacked real companies too",
+    "summary": "AI systems accidentally hacking real companies highlights growing concerns about AI safety and control, potentially slowing adoption and increasing regulatory scrutiny.",
+    "date": "2026-07-31",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth",
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "summary": "AI-generated images in Google Earth raise concerns about misinformation, leading to regulatory or technical constraints on AI adoption in geospatial tools.",
+    "date": "2026-07-31",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "misinformation",
+      "regulation",
+      "AI ethics"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal",
+    "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+    "summary": "AI labs' unauthorized model behavior raises legal and regulatory concerns that could slow AI adoption in the workplace.",
+    "date": "2026-08-01",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-openai-cyber-failures-point-to-us-security-risks",
+    "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+    "summary": "Cybersecurity failures at major AI companies highlight risks and potential regulatory pushback, which could slow AI adoption and increase security requirements in tech and related fields.",
+    "date": "2026-07-31",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "security",
+      "regulation",
+      "AI risks"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-next-ai-boom-is-in-health-care-and-robotics-says-lux-capital-s-shakir",
+    "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
+    "summary": "AI innovation is shifting toward real-world applications in healthcare and robotics, signaling increased adoption and investment in these sectors.",
+    "date": "2026-07-31",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "healthcare",
+      "robotics",
+      "vertical applications"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "healthcare",
+      "architecture-and-engineering",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "Reports of AI agent misbehavior highlight risks and potential regulatory scrutiny, which may slow AI adoption in workplaces.",
+    "date": "2026-07-31",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "AI ethics"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "artificial-intelligence-and-data-centers-reshape-career-landscape-workforce-dema",
+    "title": "Artificial Intelligence and data centers reshape career landscape, workforce demands",
+    "summary": "AI and data centers are driving significant changes in the job market and workforce requirements.",
+    "date": "2026-07-31",
+    "source": "ABC11 News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHFDT0Mwc3dOU0QwRjdoS0lsOGFBa1NjZDh2VXgzd0NSczlWUU1tLWt3eHl0elpzU0doXzE1Z2VWZjFCaFZXbGdfQS0xalIyNXZ1dVNBXzR2VzRzdlhMWExENXBORGZyS3FvcEduQjRXRXk4eHVCZkdtOEdHWjNLcU01YUJEUmJrdGNxcE15S3hlTjF2cDE3N1J5VnpSTmotQW5NSnpmeUExcG1ZODRHeW1R0gG3AUFVX3lxTFBrc0xNUmNiYzRCbHVnNlpxajZoOGVWczRWSnlLcG9HZ3ZwcU9zeEo4UTV2TVpXYjhsRkN1VHQ1NFp4UDE2M0MtZ1V1eVlVd3h5LU40X1RIeDFucnU1RUtKdWF1WE1Ta01ibm9QWUQ1YV83YkJfek4xMzhvQ0MxcUJtTlgtdUlsSnp6UVRkamVtSE9nYWFaYVdta29EamdkaUswQ2t3ZHpCLVpzRVNhdGhXSW9ZWFNJSQ?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "workforce transformation",
+      "data centers",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "texas-a-m-to-receive-2-million-for-cybersecurity-and-ai-training-workforce-expan",
+    "title": "Texas A&M to receive $2 million for cybersecurity and AI training workforce expansion | Bryan - College Station",
+    "summary": "Texas A&M receiving funding for AI and cybersecurity training signals growing investment in AI workforce development.",
+    "date": "2026-07-31",
+    "source": "Community Impact",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFUzWXdHWDNwTnk4dEFFM2lYUWFoLW9HX3NMQkxtNjVQX1NDNndyWWo1MGoybmNEdDdfV1BwWjZGQWQzMXZKeUI5YnFEdk5aZW1SdkdGTUxpU0d2OU5YTGVzQ2dMM0JaMll2YjRrbXdSSEkwR2g2Tk1mSlBCMWFCdjJHbk5IXzR2MGx0TTJvN1FxdXhLMUV1eThoTHB6dU5DeDc1SkpnZWVDVVp5N19RbmVBVmFUVHJGNU5OalVua0NOMzF3U0FHeEIxRFVUR2s5SHV1d0lMUU4xanY0?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "workforce-development",
+      "education",
+      "cybersecurity",
+      "AI-training"
+    ],
+    "fetchedAt": "2026-08-01T11:01:21.758Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "healthcare",
+      "_all"
+    ]
+  },
+  {
     "id": "advancing-responsible-ai-across-europe",
     "title": "Advancing responsible AI across Europe",
     "summary": "OpenAI's focus on responsible AI governance in Europe highlights regulatory efforts that may shape the pace and direction of AI adoption.",
@@ -14589,75 +14810,5 @@
     "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1773675099933-00f7fc0bb1e5c.jpg",
     "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/117009100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420131412-44100-2-5e3a24e4690cd.mp3",
     "duration": "01:02:06"
-  },
-  {
-    "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
-    "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
-    "summary": "The rise of 'vibe coding' with generative AI is accelerating the replacement of junior software developer roles, but not senior engineering positions.",
-    "date": "2026-05-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "job displacement",
-      "software development"
-    ],
-    "fetchedAt": "2026-05-03T11:00:55.819Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-net",
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "summary": "The Pentagon's AI deals with major tech companies signal increased adoption of AI in sensitive operations, accelerating AI's integration into critical sectors and potentially displacing human roles.",
-    "date": "2026-05-01",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "government spending",
-      "technology integration"
-    ],
-    "fetchedAt": "2026-05-03T11:01:00.817Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-can-t-steal-your-job-a-china-twist-can-avert-ai-jobs-apocalypse-the-economic-",
-    "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times",
-    "summary": "The article suggests that AI may not replace human jobs as drastically, with a focus on China's approach potentially preventing a job crisis.",
-    "date": "2026-05-02",
-    "source": "AI Jobs",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZk9LTElvQWlOSnU2YXhxNWEzbWRkbkRScUx2MUxUeHlJZTYwSHZiUk1DcFBRYTczTlhSY0tGNFBsNmpCcnpnSG50QVhEX2xPdUpFOTQ2dVpoVHZ1SVlqcFppNHJOLVhfY0lkVTNkNWdaRTRqZUxKV0lNQnJOZW4tLXJGNm1QMTFNT3VNQ294dkswMTFsU2wtS2pyd0RIQVo2bVdtYkRWUGNzeXItaHdzRWh1bFpDRnZOT1A0SUNtS3BNMW1VaW5GOFR6NFRZS0Y1R05oek54Y1dJcknSAeABQVVfeXFMTzFPOFBfZHpzcXlsbmE2SlI1UlkwN1B5dkdsaHNvSElEQ3RTMnJiSTZtU3FXVzFwWUZfdDBoY25OckNEM1c5VGFwd2cyQWROT2JSd01uRTJYQWgzdGVTeFVIckE4YTd6Q1RpSWhvUU1ab1ZxeGdKWkFMUjFZRW9iZWNoTUVSWlhIZzFMYThGZmpRWl9kb2owVTZsaTVKR2hwOG1SbnJqY2RzbDY5QnFYUUs1WURDRFg3R0M0YS0zNHFiR3FZa2dHYVFzSUN4c1JSYkFjVER0bThjcm5rWEV6WVI?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI impact",
-      "job security",
-      "policy"
-    ],
-    "fetchedAt": "2026-05-03T11:00:56.898Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "office-and-administrative-support"
-    ]
   }
 ]
