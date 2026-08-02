@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-02",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.525,
+    "macroReplacementRate": 50.175,
+    "newsAdjustment": -15.525,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime",
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "summary": "A retail company is using AI for 24/7 multilingual customer support, showing AI's growing role in improving service efficiency and customer experience.",
+        "date": "2026-07-30",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/avatarin",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "customer service",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "office-and-administrative-support",
+          "sales",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "disrupting-a-criminal-scam-operation",
+        "title": "Disrupting a Criminal Scam Operation",
+        "summary": "AI tools are being used in criminal activities, prompting increased scrutiny and potential regulatory action that could slow AI adoption in legitimate work environments.",
+        "date": "2026-07-31",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "workplace security",
+          "criminal misuse of AI"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "summary": "Free access to advanced AI models for academic researchers may boost productivity and innovation in scientific fields.",
+        "date": "2026-07-29",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "academic-research",
+          "ai-adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "advancing-the-price-performance-frontier-with-gpt-5-6",
+        "title": "Advancing the price-performance frontier with GPT-5.6",
+        "summary": "Lower pricing for GPT-5.6 enables more enterprises to adopt AI workflows at scale, increasing AI's integration into business operations.",
+        "date": "2026-07-30",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "cost-reduction",
+          "AI-workflows"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "management"
+        ]
+      },
+      {
+        "id": "google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body",
+        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+        "summary": "New AI model enables full-body control of humanoid robots, advancing their potential in various work environments.",
+        "date": "2026-07-30",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "robotics",
+          "AI development",
+          "workforce automation"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "production",
+          "installation-maintenance-and-repair",
+          "construction-and-extraction"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier",
+        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+        "summary": "AI model security breaches raise legal and regulatory concerns that could slow AI adoption in workplaces.",
+        "date": "2026-08-01",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "security",
+          "legal"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "claude-published-malicious-code-to-the-internet-and-attacked-3-real-companies",
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+        "summary": "A malicious AI release highlights risks and potential regulatory responses that could slow AI adoption in workplaces.",
+        "date": "2026-07-31",
+        "source": "Ars Technica - AI",
+        "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI ethics",
+          "regulation",
+          "security"
+        ],
+        "fetchedAt": "2026-08-02T11:00:45.456Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How avatarin built a 24/7 retail agent with GPT-Realtime.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How avatarin built a 24/7 retail agent with GPT-Realtime\" (OpenAI), while the clearest drag comes from \"Disrupting a Criminal Scam Operation\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.525 minutes. Updated 2026-08-02T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-01",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.435,
@@ -18660,100 +18871,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds.",
         "body": "This update is split between 2 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Disneyland Now Uses Face Recognition on Visitors\" (Wired), while the clearest drag comes from \"Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -4.155 minutes. Updated 2026-05-02T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-01",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 8.828,
-    "macroReplacementRate": 49.389,
-    "newsAdjustment": -4.172,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "openai-s-big-reset-a-i-in-the-doctor-s-office-talkie-a-pre-1930s-llm",
-        "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
-        "summary": "The integration of AI in medical settings suggests increased automation in healthcare, potentially replacing certain roles and accelerating AI's impact on jobs.",
-        "date": "2026-05-01",
-        "source": "Apple Podcasts - Hard Fork",
-        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI in healthcare",
-          "job displacement",
-          "technological advancement"
-        ],
-        "fetchedAt": "2026-05-01T11:01:02.657Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "healthcare",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/f3aaf1b4-9b7f-4c31-8c88-3d2e64568115/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=f3aaf1b4-9b7f-4c31-8c88-3d2e64568115&feed=6HKOhNgS",
-        "duration": "01:09:55"
-      },
-      {
-        "id": "sources-anthropic-potential-900b-valuation-round-could-happen-within-2-weeks",
-        "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-        "summary": "A potential $900B+ valuation for Anthropic suggests growing investment in AI, which could accelerate AI's impact on job markets.",
-        "date": "2026-04-30",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "valuation",
-          "job market"
-        ],
-        "fetchedAt": "2026-05-01T11:01:13.487Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks.",
-        "body": "This update leans forward, with 2 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks\" (TechCrunch - AI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -4.172 minutes. Updated 2026-05-01T12:00:00.000Z, with the macro replacement estimate at 49.4%."
       }
     }
   }

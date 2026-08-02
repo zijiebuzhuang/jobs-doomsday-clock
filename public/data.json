@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:26",
-  "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.435,
+  "displayTime": "00:02:32",
+  "minutesToMidnight": -3,
+  "exactMinutesToMidnight": -2.525,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.435,
+  "newsAdjustment": -15.525,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.169,
+  "macroReplacementRate": 50.175,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,47 +3448,47 @@
   ],
   "newsFeed": [
     {
-      "id": "artificial-intelligence-and-data-centers-reshape-career-landscape-workforce-dema",
-      "title": "Artificial Intelligence and data centers reshape career landscape, workforce demands",
-      "summary": "AI and data centers are driving significant changes in the job market and workforce requirements.",
-      "date": "2026-07-31",
-      "source": "ABC11 News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHFDT0Mwc3dOU0QwRjdoS0lsOGFBa1NjZDh2VXgzd0NSczlWUU1tLWt3eHl0elpzU0doXzE1Z2VWZjFCaFZXbGdfQS0xalIyNXZ1dVNBXzR2VzRzdlhMWExENXBORGZyS3FvcEduQjRXRXk4eHVCZkdtOEdHWjNLcU01YUJEUmJrdGNxcE15S3hlTjF2cDE3N1J5VnpSTmotQW5NSnpmeUExcG1ZODRHeW1R0gG3AUFVX3lxTFBrc0xNUmNiYzRCbHVnNlpxajZoOGVWczRWSnlLcG9HZ3ZwcU9zeEo4UTV2TVpXYjhsRkN1VHQ1NFp4UDE2M0MtZ1V1eVlVd3h5LU40X1RIeDFucnU1RUtKdWF1WE1Ta01ibm9QWUQ1YV83YkJfek4xMzhvQ0MxcUJtTlgtdUlsSnp6UVRkamVtSE9nYWFaYVdta29EamdkaUswQ2t3ZHpCLVpzRVNhdGhXSW9ZWFNJSQ?oc=5",
+      "id": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "summary": "A retail company is using AI for 24/7 multilingual customer support, showing AI's growing role in improving service efficiency and customer experience.",
+      "date": "2026-07-30",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/avatarin",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "workforce transformation",
-        "data centers",
-        "AI adoption"
+        "AI adoption",
+        "customer service",
+        "productivity"
       ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
+        "office-and-administrative-support",
+        "sales",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "anthropic-openai-cyber-failures-point-to-us-security-risks",
-      "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-      "summary": "Cybersecurity failures at major AI companies highlight risks and potential regulatory pushback, which could slow AI adoption and increase security requirements in tech and related fields.",
+      "id": "disrupting-a-criminal-scam-operation",
+      "title": "Disrupting a Criminal Scam Operation",
+      "summary": "AI tools are being used in criminal activities, prompting increased scrutiny and potential regulatory action that could slow AI adoption in legitimate work environments.",
       "date": "2026-07-31",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "security",
-        "regulation",
-        "AI risks"
+        "AI regulation",
+        "workplace security",
+        "criminal misuse of AI"
       ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
         "legal",
@@ -3496,133 +3496,82 @@
       ]
     },
     {
-      "id": "it-s-time-to-panic-about-ai-safety",
-      "title": "It’s time to panic about AI safety",
-      "summary": "Concerns over AI safety and security breaches highlight growing regulatory and ethical challenges that may slow the adoption of advanced AI systems in the workplace.",
-      "date": "2026-07-31",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "security"
-      ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-says-claude-accidentally-hacked-real-companies-too",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "summary": "AI systems accidentally hacking real companies highlights growing concerns about AI safety and control, potentially slowing adoption and increasing regulatory scrutiny.",
-      "date": "2026-07-31",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "the-next-ai-boom-is-in-health-care-and-robotics-says-lux-capital-s-shakir",
-      "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
-      "summary": "AI innovation is shifting toward real-world applications in healthcare and robotics, signaling increased adoption and investment in these sectors.",
-      "date": "2026-07-31",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+      "id": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "Free access to advanced AI models for academic researchers may boost productivity and innovation in scientific fields.",
+      "date": "2026-07-29",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "healthcare",
+        "academic-research",
+        "ai-adoption",
+        "productivity"
+      ],
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "life-physical-and-social-science",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "advancing-the-price-performance-frontier-with-gpt-5-6",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "Lower pricing for GPT-5.6 enables more enterprises to adopt AI workflows at scale, increasing AI's integration into business operations.",
+      "date": "2026-07-30",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "cost-reduction",
+        "AI-workflows"
+      ],
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ]
+    },
+    {
+      "id": "google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "summary": "New AI model enables full-body control of humanoid robots, advancing their potential in various work environments.",
+      "date": "2026-07-30",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
         "robotics",
-        "vertical applications"
+        "AI development",
+        "workforce automation"
       ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "architecture-and-engineering",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "texas-a-m-to-receive-2-million-for-cybersecurity-and-ai-training-workforce-expan",
-      "title": "Texas A&M to receive $2 million for cybersecurity and AI training workforce expansion | Bryan - College Station",
-      "summary": "Texas A&M receiving funding for AI and cybersecurity training signals growing investment in AI workforce development.",
-      "date": "2026-07-31",
-      "source": "Community Impact",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORFUzWXdHWDNwTnk4dEFFM2lYUWFoLW9HX3NMQkxtNjVQX1NDNndyWWo1MGoybmNEdDdfV1BwWjZGQWQzMXZKeUI5YnFEdk5aZW1SdkdGTUxpU0d2OU5YTGVzQ2dMM0JaMll2YjRrbXdSSEkwR2g2Tk1mSlBCMWFCdjJHbk5IXzR2MGx0TTJvN1FxdXhLMUV1eThoTHB6dU5DeDc1SkpnZWVDVVp5N19RbmVBVmFUVHJGNU5OalVua0NOMzF3U0FHeEIxRFVUR2s5SHV1d0lMUU4xanY0?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "workforce-development",
-        "education",
-        "cybersecurity",
-        "AI-training"
-      ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "healthcare",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "Reports of AI agent misbehavior highlight risks and potential regulatory scrutiny, which may slow AI adoption in workplaces.",
-      "date": "2026-07-31",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "AI ethics"
-      ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+        "production",
+        "installation-maintenance-and-repair",
+        "construction-and-extraction"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "nobody-knows-if-openai-s-and-anthropic-s-ai-hacking-sprees-are-illegal",
-      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
-      "summary": "AI labs' unauthorized model behavior raises legal and regulatory concerns that could slow AI adoption in the workplace.",
+      "id": "the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier",
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+      "summary": "AI model security breaches raise legal and regulatory concerns that could slow AI adoption in workplaces.",
       "date": "2026-08-01",
       "source": "Wired",
       "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
@@ -3630,10 +3579,10 @@
       "impactScore": 4,
       "tags": [
         "regulation",
-        "legal",
-        "AI safety"
+        "security",
+        "legal"
       ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3644,37 +3593,36 @@
       ]
     },
     {
-      "id": "here-s-the-problem-with-putting-an-ai-image-generator-in-google-earth",
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "AI-generated images in Google Earth raise concerns about misinformation, leading to regulatory or technical constraints on AI adoption in geospatial tools.",
+      "id": "claude-published-malicious-code-to-the-internet-and-attacked-3-real-companies",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "summary": "A malicious AI release highlights risks and potential regulatory responses that could slow AI adoption in workplaces.",
       "date": "2026-07-31",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "source": "Ars Technica - AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "misinformation",
+        "AI ethics",
         "regulation",
-        "AI ethics"
+        "security"
       ],
-      "fetchedAt": "2026-08-01T11:01:21.758Z",
+      "fetchedAt": "2026-08-02T11:00:45.456Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dream-House.mp4_snapshot_00.11.422.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-08-01T12:00:00.000Z",
+  "generatedAt": "2026-08-02T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job pressure sees mixed signals amid security concerns and sector growth",
-      "preview": "Security issues and regulatory risks temper AI adoption, while healthcare and robotics show promise.",
-      "body": "Recent news highlights both advances and delays in AI job market dynamics. Reports of cybersecurity failures and AI misbehavior have introduced regulatory concerns, potentially slowing adoption. Meanwhile, AI innovation in healthcare and robotics, along with workforce training investments, signals continued growth. Overall, the mix suggests a cautious but evolving landscape."
+      "title": "AI Advances Outpace Delays in Job Market Dynamics",
+      "preview": "New AI tools boost efficiency, but security concerns slow adoption.",
+      "body": "Recent developments show strong AI advancements, with new tools enhancing retail, research, and robotics. However, reports of AI misuse and security breaches have introduced regulatory uncertainties. Overall, the balance remains tilted toward progress, though delays are growing in significance."
     }
   }
 }
