@@ -1,5 +1,149 @@
 [
   {
+    "id": "is-paying-artists-enough-to-convince-them-to-embrace-ai-",
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "summary": "Legal and ethical concerns around AI training on artists' work are shaping the adoption of AI tools in creative industries.",
+    "date": "2026-08-02",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI ethics",
+      "intellectual property",
+      "creative industries"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "arts-and-design",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516,0,97.311874389648,100"
+  },
+  {
+    "id": "how-siri-ai-stacks-up-against-the-new-chatgpt",
+    "title": "How Siri AI Stacks Up Against the New ChatGPT",
+    "summary": "Apple's AI upgrade to Siri shows increasing integration of AI tools into personal productivity, affecting workplace workflows and user expectations.",
+    "date": "2026-08-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "consumer tech"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better-",
+    "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+    "summary": "The release of Siri AI in iOS 27 represents a major step in the widespread adoption of AI assistants, potentially influencing workflows and productivity across multiple industries.",
+    "date": "2026-08-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "consumer technology"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "alibaba-s-qwen3-8-max-ai-model-claims-benchmark-scores-rivaling-anthropic",
+    "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+    "summary": "Alibaba's new AI model shows growing global competition in AI capabilities, signaling increased pressure on tech and related industries to adopt advanced AI tools.",
+    "date": "2026-08-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "global competition",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks",
+    "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+    "summary": "Discussion of AI cybersecurity risks highlights growing concerns and potential changes in security practices and roles within tech and corporate environments.",
+    "date": "2026-08-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "cybersecurity",
+      "AI adoption",
+      "workplace security"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+    "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+    "summary": "Increased valuation of an AI chip designer signals growing investment and momentum in AI infrastructure, which can impact multiple industries reliant on advanced computing power.",
+    "date": "2026-08-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "investment",
+      "chip design"
+    ],
+    "fetchedAt": "2026-08-03T11:00:57.740Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
     "id": "disrupting-a-criminal-scam-operation",
     "title": "Disrupting a Criminal Scam Operation",
     "summary": "AI tools are being used in criminal activities, prompting increased scrutiny and potential regulatory action that could slow AI adoption in legitimate work environments.",
@@ -14923,33 +15067,5 @@
       "education-training-and-library",
       "_all"
     ]
-  },
-  {
-    "id": "behind-the-ai-in-the-newsroom-the-washington-post-s-vineet-khosla",
-    "title": "Behind the AI in the Newsroom: The Washington Post’s Vineet Khosla",
-    "summary": "The Washington Post's use of AI in news production highlights how AI is transforming journalism and could lead to job changes in media and communication roles.",
-    "date": "2026-05-05",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/behind-the-ai-in-the-newsroom-the-washington-posts-vineet-khosla",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "news industry",
-      "job transformation"
-    ],
-    "fetchedAt": "2026-05-05T11:01:24.137Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "management"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/ec662e0c-2a23-11f1-a30d-c7e5cfc3e62d/image/aab8bc08c0555769c3562a5b93d095e6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO5497272734.mp3?updated=1774647760",
-    "duration": "39 min"
   }
 ]

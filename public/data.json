@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:32",
+  "displayTime": "00:02:48",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.525,
+  "exactMinutesToMidnight": -2.8,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.525,
+  "newsAdjustment": -15.8,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.175,
+  "macroReplacementRate": 50.194,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,181 +3448,156 @@
   ],
   "newsFeed": [
     {
-      "id": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "summary": "A retail company is using AI for 24/7 multilingual customer support, showing AI's growing role in improving service efficiency and customer experience.",
-      "date": "2026-07-30",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/avatarin",
+      "id": "how-siri-ai-stacks-up-against-the-new-chatgpt",
+      "title": "How Siri AI Stacks Up Against the New ChatGPT",
+      "summary": "Apple's AI upgrade to Siri shows increasing integration of AI tools into personal productivity, affecting workplace workflows and user expectations.",
+      "date": "2026-08-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "AI adoption",
-        "customer service",
-        "productivity"
+        "productivity tools",
+        "consumer tech"
       ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "office-and-administrative-support",
-        "sales",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "disrupting-a-criminal-scam-operation",
-      "title": "Disrupting a Criminal Scam Operation",
-      "summary": "AI tools are being used in criminal activities, prompting increased scrutiny and potential regulatory action that could slow AI adoption in legitimate work environments.",
-      "date": "2026-07-31",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI regulation",
-        "workplace security",
-        "criminal misuse of AI"
-      ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary": "Free access to advanced AI models for academic researchers may boost productivity and innovation in scientific fields.",
-      "date": "2026-07-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "academic-research",
-        "ai-adoption",
-        "productivity"
-      ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "life-physical-and-social-science",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "advancing-the-price-performance-frontier-with-gpt-5-6",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "summary": "Lower pricing for GPT-5.6 enables more enterprises to adopt AI workflows at scale, increasing AI's integration into business operations.",
-      "date": "2026-07-30",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "cost-reduction",
-        "AI-workflows"
-      ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "management"
-      ]
-    },
-    {
-      "id": "google-deepmind-s-new-ai-model-can-control-a-robot-s-entire-body",
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "New AI model enables full-body control of humanoid robots, advancing their potential in various work environments.",
-      "date": "2026-07-30",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "robotics",
-        "AI development",
-        "workforce automation"
-      ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "production",
-        "installation-maintenance-and-repair",
-        "construction-and-extraction"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "the-openai-and-anthropic-ai-hacking-sprees-are-a-messy-new-legal-frontier",
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "summary": "AI model security breaches raise legal and regulatory concerns that could slow AI adoption in workplaces.",
-      "date": "2026-08-01",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "security",
-        "legal"
-      ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "claude-published-malicious-code-to-the-internet-and-attacked-3-real-companies",
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "summary": "A malicious AI release highlights risks and potential regulatory responses that could slow AI adoption in workplaces.",
-      "date": "2026-07-31",
-      "source": "Ars Technica - AI",
-      "sourceUrl": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "id": "apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better-",
+      "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+      "summary": "The release of Siri AI in iOS 27 represents a major step in the widespread adoption of AI assistants, potentially influencing workflows and productivity across multiple industries.",
+      "date": "2026-08-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "consumer technology"
+      ],
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "is-paying-artists-enough-to-convince-them-to-embrace-ai-",
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "summary": "Legal and ethical concerns around AI training on artists' work are shaping the adoption of AI tools in creative industries.",
+      "date": "2026-08-02",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI ethics",
-        "regulation",
-        "security"
+        "intellectual property",
+        "creative industries"
       ],
-      "fetchedAt": "2026-08-02T11:00:45.456Z",
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
       "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "arts-and-design",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516,0,97.311874389648,100"
+    },
+    {
+      "id": "alibaba-s-qwen3-8-max-ai-model-claims-benchmark-scores-rivaling-anthropic",
+      "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+      "summary": "Alibaba's new AI model shows growing global competition in AI capabilities, signaling increased pressure on tech and related industries to adopt advanced AI tools.",
+      "date": "2026-08-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI model release",
+        "global competition",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks",
+      "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+      "summary": "Discussion of AI cybersecurity risks highlights growing concerns and potential changes in security practices and roles within tech and corporate environments.",
+      "date": "2026-08-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "cybersecurity",
+        "AI adoption",
+        "workplace security"
+      ],
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+      "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+      "summary": "Increased valuation of an AI chip designer signals growing investment and momentum in AI infrastructure, which can impact multiple industries reliant on advanced computing power.",
+      "date": "2026-08-03",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "investment",
+        "chip design"
+      ],
+      "fetchedAt": "2026-08-03T11:00:57.740Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-08-02T12:00:00.000Z",
+  "generatedAt": "2026-08-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Delays in Job Market Dynamics",
-      "preview": "New AI tools boost efficiency, but security concerns slow adoption.",
-      "body": "Recent developments show strong AI advancements, with new tools enhancing retail, research, and robotics. However, reports of AI misuse and security breaches have introduced regulatory uncertainties. Overall, the balance remains tilted toward progress, though delays are growing in significance."
+      "title": "AI Advancements and Ethical Concerns Shape Job Market Dynamics",
+      "preview": "New AI tools and ethical debates influence workplace trends.",
+      "body": "Recent developments show strong progress in AI capabilities, with new models and tools from Apple, Alibaba, and DeepX. However, concerns over AI's impact on creative industries remain a key challenge. Overall, the balance of signals suggests continued pressure for AI integration across sectors."
     }
   }
 }

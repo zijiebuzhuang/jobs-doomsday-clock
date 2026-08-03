@@ -1,5 +1,191 @@
 [
   {
+    "date": "2026-08-03",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.8,
+    "macroReplacementRate": 50.194,
+    "newsAdjustment": -15.8,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-siri-ai-stacks-up-against-the-new-chatgpt",
+        "title": "How Siri AI Stacks Up Against the New ChatGPT",
+        "summary": "Apple's AI upgrade to Siri shows increasing integration of AI tools into personal productivity, affecting workplace workflows and user expectations.",
+        "date": "2026-08-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/how-siri-ai-stacks-up-against-the-new-chatgpt",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "consumer tech"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better-",
+        "title": "Apple Siri AI vs. ChatGPT: Which AI Assistant Is Better?",
+        "summary": "The release of Siri AI in iOS 27 represents a major step in the widespread adoption of AI assistants, potentially influencing workflows and productivity across multiple industries.",
+        "date": "2026-08-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/apple-siri-ai-vs-chatgpt-which-ai-assistant-is-better",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "consumer technology"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "is-paying-artists-enough-to-convince-them-to-embrace-ai-",
+        "title": "Is paying artists enough to convince them to embrace AI?",
+        "summary": "Legal and ethical concerns around AI training on artists' work are shaping the adoption of AI tools in creative industries.",
+        "date": "2026-08-02",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI ethics",
+          "intellectual property",
+          "creative industries"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "arts-and-design",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516,0,97.311874389648,100"
+      },
+      {
+        "id": "alibaba-s-qwen3-8-max-ai-model-claims-benchmark-scores-rivaling-anthropic",
+        "title": "Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic",
+        "summary": "Alibaba's new AI model shows growing global competition in AI capabilities, signaling increased pressure on tech and related industries to adopt advanced AI tools.",
+        "date": "2026-08-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "global competition",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks",
+        "title": "The Cyber Alchemist's Ghosh on AI Cyber-security risks",
+        "summary": "Discussion of AI cybersecurity risks highlights growing concerns and potential changes in security practices and roles within tech and corporate environments.",
+        "date": "2026-08-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-03/the-cyber-alchemist-s-ghosh-on-ai-cyber-security-risks-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "cybersecurity",
+          "AI adoption",
+          "workplace security"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+        "title": "AI Chip Designer DeepX’s Value Surges to $2.2 Billion in Funding",
+        "summary": "Increased valuation of an AI chip designer signals growing investment and momentum in AI infrastructure, which can impact multiple industries reliant on advanced computing power.",
+        "date": "2026-08-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-03/ai-chip-designer-deepx-s-value-surges-to-2-2-billion-in-funding",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "chip design"
+        ],
+        "fetchedAt": "2026-08-03T11:00:57.740Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Is paying artists enough to convince them to embrace AI?.",
+        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Alibaba’s Qwen3.8-Max AI Model Claims Benchmark Scores Rivaling Anthropic\" (Bloomberg Technology), while the clearest drag comes from \"Is paying artists enough to convince them to embrace AI?\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.800 minutes. Updated 2026-08-03T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-02",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.525,
@@ -18733,144 +18919,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Why Vibe Coding Isn’t the End of the Software Engineer.",
         "body": "This update is split between 2 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why Vibe Coding Isn’t the End of the Software Engineer\" (Bloomberg Technology), while the clearest drag comes from \"AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times\" (AI Jobs). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -4.163 minutes. Updated 2026-05-03T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-02",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 8.845,
-    "macroReplacementRate": 49.388,
-    "newsAdjustment": -4.155,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
-        "title": "Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds",
-        "summary": "A Chinese court ruling prevents companies from laying off workers solely to adopt AI, slowing AI's impact on job replacement.",
-        "date": "2026-05-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "labor-policy",
-          "ai-regulation",
-          "job-stability"
-        ],
-        "fetchedAt": "2026-05-02T11:00:53.028Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "_all"
-        ]
-      },
-      {
-        "id": "disneyland-now-uses-face-recognition-on-visitors",
-        "title": "Disneyland Now Uses Face Recognition on Visitors",
-        "summary": "The use of face recognition at Disneyland indicates AI is being integrated into customer service roles, potentially replacing human jobs in the process.",
-        "date": "2026-05-02",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "automation",
-          "labor market"
-        ],
-        "fetchedAt": "2026-05-02T11:00:52.043Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "personal-care-and-service",
-          "entertainment-and-sports",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "musk-v-altman-week-1-elon-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-",
-        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-        "summary": "Elon Musk's public concerns and legal battle with OpenAI highlight the growing risks and ethical dilemmas of AI, potentially accelerating its development and integration into various sectors.",
-        "date": "2026-05-01",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "legal disputes",
-          "AI development"
-        ],
-        "fetchedAt": "2026-05-02T11:00:54.757Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "legal"
-        ]
-      },
-      {
-        "id": "openai-enables-marketing-cookies-by-default-for-free-chatgpt-users",
-        "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-        "summary": "The use of marketing cookies by ChatGPT may increase user tracking and conversion, potentially slowing AI's direct replacement of human jobs in certain sectors.",
-        "date": "2026-05-01",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-        "effect": "delay",
-        "impactScore": 2,
-        "tags": [
-          "data privacy",
-          "user tracking",
-          "AI business model"
-        ],
-        "fetchedAt": "2026-05-02T11:00:55.895Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds.",
-        "body": "This update is split between 2 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Disneyland Now Uses Face Recognition on Visitors\" (Wired), while the clearest drag comes from \"Chinese Court Rules Firms Can’t Lay Off Workers on AI Grounds\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -4.155 minutes. Updated 2026-05-02T12:00:00.000Z, with the macro replacement estimate at 49.4%."
       }
     }
   }
