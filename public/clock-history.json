@@ -1,5 +1,196 @@
 [
   {
+    "date": "2026-08-04",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.859,
+    "macroReplacementRate": 50.198,
+    "newsAdjustment": -15.859,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "circles-powers-telco-personalization-with-openai-technology",
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "summary": "AI integration in telecommunications improves customer engagement and operational efficiency, signaling growing AI adoption in enterprise workflows.",
+        "date": "2026-08-03",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/circles",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "workflow automation",
+          "telco innovation"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "congress-favorite-ai-tool-chatgpt",
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "summary": "Congressional use of ChatGPT shows AI is being adopted in government workflows, signaling increased workplace AI integration and potential shifts in job tasks and productivity.",
+        "date": "2026-08-03",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace productivity",
+          "government technology"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "office-and-administrative-support",
+          "legal"
+        ]
+      },
+      {
+        "id": "this-ai-was-trained-on-a-billion-video-game-clips-now-it-controls-robots-",
+        "title": "This AI Was Trained on a Billion Video Game Clips. Now It Controls Robots.",
+        "summary": "Using video game data to train AI for robotics shows a novel approach to improving AI capabilities in real-world tasks.",
+        "date": "2026-08-03",
+        "source": "Apple Podcasts - Newcomer Pod",
+        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/This-AI-Was-Trained-on-a-Billion-Video-Game-Clips--Now-It-Controls-Robots-e3msm53",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "robotics",
+          "AI training",
+          "workplace automation"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ],
+        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1785716925593-5782caa878cf9.jpg",
+        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/123672163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429093198-44100-2-1e20aa653a075.mp3",
+        "duration": "00:58:32"
+      },
+      {
+        "id": "81-ai-job-replacement-statistics-2026-new-reports-",
+        "title": "81 AI Job Replacement Statistics 2026 (New Reports)",
+        "summary": "A compilation of AI job replacement statistics for 2026 provides insight into how AI may impact various occupations and workforce trends.",
+        "date": "2026-07-29",
+        "source": "DemandSage",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdUJPdndXclhCcXBsQ3Z4UEgtejhPS1pIdzdCbkdHMUtuaHh4TVRkWTBrQkU2SEpKOWJnU0RBQ0NmMVhwVkp5SkhhVlk4MmtES29mWWJVMGpacjlpVTZmaDFn?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "job replacement",
+          "workforce trends",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "europe-s-ai-labeling-and-transparency-rules-are-now-in-effect",
+        "title": "Europe’s AI labeling and transparency rules are now in effect",
+        "summary": "New EU AI transparency rules require companies to label AI-generated content, adding regulatory friction to AI adoption in the workplace.",
+        "date": "2026-08-03",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "transparency",
+          "workplace-ai"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy",
+        "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+        "summary": "Alibaba's release of a major AI model signals increased competition in the global AI landscape, potentially accelerating AI adoption and innovation in tech and related industries.",
+        "date": "2026-08-03",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "global AI competition",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-08-04T11:00:52.633Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Circles powers telco personalization with OpenAI technology.",
+        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Circles powers telco personalization with OpenAI technology\" (OpenAI), while the clearest drag comes from \"Europe’s AI labeling and transparency rules are now in effect\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.859 minutes. Updated 2026-08-04T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-03",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.8,
@@ -18807,118 +18998,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Barry McCardel on Why Everyone Is Copying Palantir’s Playbook (And Getting It Wrong).",
         "body": "This update leans forward, with 1 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Barry McCardel on Why Everyone Is Copying Palantir’s Playbook (And Getting It Wrong)\" (Apple Podcasts - Newcomer Pod), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -4.263 minutes. Updated 2026-05-04T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-03",
-    "minutesToMidnight": 9,
-    "exactMinutesToMidnight": 8.837,
-    "macroReplacementRate": 49.388,
-    "newsAdjustment": -4.163,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "why-vibe-coding-isn-t-the-end-of-the-software-engineer",
-        "title": "Why Vibe Coding Isn’t the End of the Software Engineer",
-        "summary": "The rise of 'vibe coding' with generative AI is accelerating the replacement of junior software developer roles, but not senior engineering positions.",
-        "date": "2026-05-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "job displacement",
-          "software development"
-        ],
-        "fetchedAt": "2026-05-03T11:00:55.819Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "ai-can-t-steal-your-job-a-china-twist-can-avert-ai-jobs-apocalypse-the-economic-",
-        "title": "AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times",
-        "summary": "The article suggests that AI may not replace human jobs as drastically, with a focus on China's approach potentially preventing a job crisis.",
-        "date": "2026-05-02",
-        "source": "AI Jobs",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZk9LTElvQWlOSnU2YXhxNWEzbWRkbkRScUx2MUxUeHlJZTYwSHZiUk1DcFBRYTczTlhSY0tGNFBsNmpCcnpnSG50QVhEX2xPdUpFOTQ2dVpoVHZ1SVlqcFppNHJOLVhfY0lkVTNkNWdaRTRqZUxKV0lNQnJOZW4tLXJGNm1QMTFNT3VNQ294dkswMTFsU2wtS2pyd0RIQVo2bVdtYkRWUGNzeXItaHdzRWh1bFpDRnZOT1A0SUNtS3BNMW1VaW5GOFR6NFRZS0Y1R05oek54Y1dJcknSAeABQVVfeXFMTzFPOFBfZHpzcXlsbmE2SlI1UlkwN1B5dkdsaHNvSElEQ3RTMnJiSTZtU3FXVzFwWUZfdDBoY25OckNEM1c5VGFwd2cyQWROT2JSd01uRTJYQWgzdGVTeFVIckE4YTd6Q1RpSWhvUU1ab1ZxeGdKWkFMUjFZRW9iZWNoTUVSWlhIZzFMYThGZmpRWl9kb2owVTZsaTVKR2hwOG1SbnJqY2RzbDY5QnFYUUs1WURDRFg3R0M0YS0zNHFiR3FZa2dHYVFzSUN4c1JSYkFjVER0bThjcm5rWEV6WVI?oc=5",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI impact",
-          "job security",
-          "policy"
-        ],
-        "fetchedAt": "2026-05-03T11:00:56.898Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "office-and-administrative-support"
-        ]
-      },
-      {
-        "id": "pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-net",
-        "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-        "summary": "The Pentagon's AI deals with major tech companies signal increased adoption of AI in sensitive operations, accelerating AI's integration into critical sectors and potentially displacing human roles.",
-        "date": "2026-05-01",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "government spending",
-          "technology integration"
-        ],
-        "fetchedAt": "2026-05-03T11:01:00.817Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Why Vibe Coding Isn’t the End of the Software Engineer.",
-        "body": "This update is split between 2 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why Vibe Coding Isn’t the End of the Software Engineer\" (Bloomberg Technology), while the clearest drag comes from \"AI can't steal your job! A China twist can avert AI jobs apocalypse - The Economic Times\" (AI Jobs). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -4.163 minutes. Updated 2026-05-03T12:00:00.000Z, with the macro replacement estimate at 49.4%."
       }
     }
   }

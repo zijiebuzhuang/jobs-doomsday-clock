@@ -1,5 +1,154 @@
 [
   {
+    "id": "circles-powers-telco-personalization-with-openai-technology",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "AI integration in telecommunications improves customer engagement and operational efficiency, signaling growing AI adoption in enterprise workflows.",
+    "date": "2026-08-03",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/circles",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "workflow automation",
+      "telco innovation"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "europe-s-ai-labeling-and-transparency-rules-are-now-in-effect",
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "summary": "New EU AI transparency rules require companies to label AI-generated content, adding regulatory friction to AI adoption in the workplace.",
+    "date": "2026-08-03",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "transparency",
+      "workplace-ai"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy",
+    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+    "summary": "Alibaba's release of a major AI model signals increased competition in the global AI landscape, potentially accelerating AI adoption and innovation in tech and related industries.",
+    "date": "2026-08-03",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "global AI competition",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "congress-favorite-ai-tool-chatgpt",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "summary": "Congressional use of ChatGPT shows AI is being adopted in government workflows, signaling increased workplace AI integration and potential shifts in job tasks and productivity.",
+    "date": "2026-08-03",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace productivity",
+      "government technology"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "office-and-administrative-support",
+      "legal"
+    ]
+  },
+  {
+    "id": "this-ai-was-trained-on-a-billion-video-game-clips-now-it-controls-robots-",
+    "title": "This AI Was Trained on a Billion Video Game Clips. Now It Controls Robots.",
+    "summary": "Using video game data to train AI for robotics shows a novel approach to improving AI capabilities in real-world tasks.",
+    "date": "2026-08-03",
+    "source": "Apple Podcasts - Newcomer Pod",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/This-AI-Was-Trained-on-a-Billion-Video-Game-Clips--Now-It-Controls-Robots-e3msm53",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "robotics",
+      "AI training",
+      "workplace automation"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1785716925593-5782caa878cf9.jpg",
+    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/123672163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429093198-44100-2-1e20aa653a075.mp3",
+    "duration": "00:58:32"
+  },
+  {
+    "id": "81-ai-job-replacement-statistics-2026-new-reports-",
+    "title": "81 AI Job Replacement Statistics 2026 (New Reports)",
+    "summary": "A compilation of AI job replacement statistics for 2026 provides insight into how AI may impact various occupations and workforce trends.",
+    "date": "2026-07-29",
+    "source": "DemandSage",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdUJPdndXclhCcXBsQ3Z4UEgtejhPS1pIdzdCbkdHMUtuaHh4TVRkWTBrQkU2SEpKOWJnU0RBQ0NmMVhwVkp5SkhhVlk4MmtES29mWWJVMGpacjlpVTZmaDFn?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "job replacement",
+      "workforce trends",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-04T11:00:52.633Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "is-paying-artists-enough-to-convince-them-to-embrace-ai-",
     "title": "Is paying artists enough to convince them to embrace AI?",
     "summary": "Legal and ethical concerns around AI training on artists' work are shaping the adoption of AI tools in creative industries.",
@@ -14894,178 +15043,6 @@
       "healthcare",
       "computer-and-information-technology",
       "management"
-    ]
-  },
-  {
-    "id": "how-frontier-firms-are-pulling-ahead",
-    "title": "How frontier firms are pulling ahead",
-    "summary": "Frontier enterprises are deepening AI adoption and building competitive advantages through advanced AI tools like Codex-powered workflows.",
-    "date": "2026-05-06",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/introducing-b2b-signals",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "workflow automation",
-      "productivity"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "uber-uses-openai-to-help-people-earn-smarter-and-book-faster",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "summary": "Uber adopting OpenAI tools to enhance driver earnings and rider experience shows AI integration into real-time transportation workflows, increasing productivity and efficiency.",
-    "date": "2026-05-06",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/uber",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "productivity-enhancement",
-      "workplace-ai"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "transportation-and-material-moving",
-      "computer-and-information-technology",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design",
-    "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
-    "summary": "The development of agentic systems represents a major shift in AI capabilities, enabling more complex and autonomous workflows that could transform many industries.",
-    "date": "2026-05-05",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI agents",
-      "workflow transformation",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/image3-768x432.png"
-  },
-  {
-    "id": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "summary": "OpenAI and PwC's collaboration signals AI adoption in finance workflows, increasing efficiency and reshaping CFO roles.",
-    "date": "2026-05-04",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "finance automation",
-      "workforce transformation"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "how-openai-delivers-low-latency-voice-ai-at-scale",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "summary": "OpenAI's low-latency voice AI advancement improves real-time communication tools, impacting workflows and productivity in multiple industries.",
-    "date": "2026-05-04",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "real-time communication",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui",
-    "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
-    "summary": "AI tools like ComfyUI are enabling more efficient and automated creative workflows, increasing productivity for design and media teams.",
-    "date": "2026-04-30",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "creative workflows"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "arts-and-design",
-      "media-and-communication"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1.gif"
-  },
-  {
-    "id": "upskilling-with-generative-ai-practices-and-challenges-for-freelance-knowledge-w",
-    "title": "Upskilling with Generative AI: Practices and Challenges for Freelance Knowledge Workers",
-    "summary": "The article highlights how freelance knowledge workers are adapting to and facing challenges with generative AI, signaling increased pressure to upskill in AI tools.",
-    "date": "2026-04-29",
-    "source": "arXiv - AI Labor",
-    "sourceUrl": "https://arxiv.org/abs/2604.27231v1",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "upskilling",
-      "freelance",
-      "AI tools",
-      "workforce adaptation"
-    ],
-    "fetchedAt": "2026-05-06T12:00:00.000Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "_all"
     ]
   }
 ]
