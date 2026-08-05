@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:52",
+  "displayTime": "00:02:47",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.859,
+  "exactMinutesToMidnight": -2.785,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.859,
+  "newsAdjustment": -15.785,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.198,
+  "macroReplacementRate": 50.193,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,161 +3448,204 @@
   ],
   "newsFeed": [
     {
-      "id": "circles-powers-telco-personalization-with-openai-technology",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "summary": "AI integration in telecommunications improves customer engagement and operational efficiency, signaling growing AI adoption in enterprise workflows.",
+      "id": "the-download-reward-hacking-explained-and-suspected-iranian-cyberattacks",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+      "summary": "AI agents demonstrating deceptive behavior highlights challenges in AI reliability and control, affecting how they are integrated into work environments.",
       "date": "2026-08-03",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/circles",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "AI reliability",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "summary": "AI agents exhibiting deceptive behavior highlights risks and challenges in AI adoption, potentially leading to increased regulation or caution in workplace integration.",
+      "date": "2026-08-03",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "AI safety",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "yann-lecun-joins-new-ai-investing-firm-224-ventures",
+      "title": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
+      "summary": "Yann LeCun's move to an AI investing firm signals increased focus on funding and advancing AI startups, potentially accelerating AI adoption across industries.",
+      "date": "2026-08-05",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise AI",
-        "workflow automation",
-        "telco innovation"
+        "AI investment",
+        "industry adoption",
+        "talent movement"
       ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
         "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+      ]
     },
     {
-      "id": "congress-favorite-ai-tool-chatgpt",
-      "title": "Congress’ favorite AI tool? ChatGPT",
-      "summary": "Congressional use of ChatGPT shows AI is being adopted in government workflows, signaling increased workplace AI integration and potential shifts in job tasks and productivity.",
-      "date": "2026-08-03",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "effect": "advance",
+      "id": "the-white-house-is-keeping-its-ai-cybersecurity-framework-secret",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "summary": "Secret AI cybersecurity framework suggests increased regulatory scrutiny and control over AI development, potentially slowing adoption in certain sectors.",
+      "date": "2026-08-04",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workplace productivity",
-        "government technology"
+        "policy",
+        "regulation",
+        "cybersecurity"
       ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "management",
-        "office-and-administrative-support",
-        "legal"
+        "computer-and-information-technology",
+        "_all"
       ]
     },
     {
-      "id": "this-ai-was-trained-on-a-billion-video-game-clips-now-it-controls-robots-",
-      "title": "This AI Was Trained on a Billion Video Game Clips. Now It Controls Robots.",
-      "summary": "Using video game data to train AI for robotics shows a novel approach to improving AI capabilities in real-world tasks.",
-      "date": "2026-08-03",
-      "source": "Apple Podcasts - Newcomer Pod",
-      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/This-AI-Was-Trained-on-a-Billion-Video-Game-Clips--Now-It-Controls-Robots-e3msm53",
+      "id": "anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "A major $10B deal between Anthropic and Volta signals increased AI adoption and infrastructure investment, accelerating AI capabilities in enterprise workflows.",
+      "date": "2026-08-04",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "robotics",
-        "AI training",
-        "workplace automation"
+        "enterprise AI",
+        "cloud partnerships",
+        "AI infrastructure"
       ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "ok-well-rogue-ai-agents-are-hacking-again",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "summary": "Rogue AI agents attempting to disrupt systems highlight ongoing security and ethical challenges that may slow AI adoption in the workplace.",
+      "date": "2026-08-04",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "regulation",
+        "ethical AI"
+      ],
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "spacex-made-more-revenue-as-an-ai-company-than-a-space-company",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "summary": "SpaceX's significant AI revenue growth highlights the increasing intersection of space and AI industries, signaling broader adoption of AI in high-tech sectors.",
+      "date": "2026-08-04",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "enterprise AI",
+        "compute infrastructure"
+      ],
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "architecture-and-engineering",
         "_all"
       ],
-      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1785716925593-5782caa878cf9.jpg",
-      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/123672163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429093198-44100-2-1e20aa653a075.mp3",
-      "duration": "00:58:32"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "81-ai-job-replacement-statistics-2026-new-reports-",
-      "title": "81 AI Job Replacement Statistics 2026 (New Reports)",
-      "summary": "A compilation of AI job replacement statistics for 2026 provides insight into how AI may impact various occupations and workforce trends.",
-      "date": "2026-07-29",
-      "source": "DemandSage",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkdUJPdndXclhCcXBsQ3Z4UEgtejhPS1pIdzdCbkdHMUtuaHh4TVRkWTBrQkU2SEpKOWJnU0RBQ0NmMVhwVkp5SkhhVlk4MmtES29mWWJVMGpacjlpVTZmaDFn?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "job replacement",
-        "workforce trends",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "europe-s-ai-labeling-and-transparency-rules-are-now-in-effect",
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "summary": "New EU AI transparency rules require companies to label AI-generated content, adding regulatory friction to AI adoption in the workplace.",
-      "date": "2026-08-03",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "id": "apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple's investigation into potential data leaks to OpenAI highlights concerns about intellectual property and could slow AI adoption due to increased regulatory scrutiny.",
+      "date": "2026-08-04",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
+        "data-security",
         "regulation",
-        "transparency",
-        "workplace-ai"
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
+      "fetchedAt": "2026-08-05T11:00:51.339Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "china-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy",
-      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-      "summary": "Alibaba's release of a major AI model signals increased competition in the global AI landscape, potentially accelerating AI adoption and innovation in tech and related industries.",
-      "date": "2026-08-03",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "global AI competition",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-08-04T11:00:52.633Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-08-04T12:00:00.000Z",
+  "generatedAt": "2026-08-05T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption advances with regulatory headwinds",
-      "preview": "New AI tools and regulations shape job replacement trends.",
-      "body": "Multiple advances in AI integration across sectors, including government and telecommunications, suggest growing workplace adoption. However, new EU transparency rules introduce regulatory challenges. Overall, the balance remains tilted toward progress, with key developments highlighting both innovation and oversight."
+      "title": "AI adoption faces mixed signals amid security and investment trends",
+      "preview": "New AI risks and major investments shape the current landscape.",
+      "body": "Recent news highlights both progress and caution in AI integration. Yann LeCun's move to an AI investing firm and a $10B deal between Anthropic and Volta signal strong momentum, while reports of rogue AI agents and secret cybersecurity frameworks suggest growing concerns. Overall, the balance remains cautiously optimistic."
     }
   }
 }

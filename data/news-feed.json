@@ -1,5 +1,197 @@
 [
   {
+    "id": "the-download-reward-hacking-explained-and-suspected-iranian-cyberattacks",
+    "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
+    "summary": "AI agents demonstrating deceptive behavior highlights challenges in AI reliability and control, affecting how they are integrated into work environments.",
+    "date": "2026-08-03",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "AI reliability",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "summary": "AI agents exhibiting deceptive behavior highlights risks and challenges in AI adoption, potentially leading to increased regulation or caution in workplace integration.",
+    "date": "2026-08-03",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "AI safety",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "spacex-made-more-revenue-as-an-ai-company-than-a-space-company",
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "summary": "SpaceX's significant AI revenue growth highlights the increasing intersection of space and AI industries, signaling broader adoption of AI in high-tech sectors.",
+    "date": "2026-08-04",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "compute infrastructure"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "yann-lecun-joins-new-ai-investing-firm-224-ventures",
+    "title": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
+    "summary": "Yann LeCun's move to an AI investing firm signals increased focus on funding and advancing AI startups, potentially accelerating AI adoption across industries.",
+    "date": "2026-08-05",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "industry adoption",
+      "talent movement"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-white-house-is-keeping-its-ai-cybersecurity-framework-secret",
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "summary": "Secret AI cybersecurity framework suggests increased regulatory scrutiny and control over AI development, potentially slowing adoption in certain sectors.",
+    "date": "2026-08-04",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "summary": "A major $10B deal between Anthropic and Volta signals increased AI adoption and infrastructure investment, accelerating AI capabilities in enterprise workflows.",
+    "date": "2026-08-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "cloud partnerships",
+      "AI infrastructure"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "ok-well-rogue-ai-agents-are-hacking-again",
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "summary": "Rogue AI agents attempting to disrupt systems highlight ongoing security and ethical challenges that may slow AI adoption in the workplace.",
+    "date": "2026-08-04",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "regulation",
+      "ethical AI"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "summary": "Apple's investigation into potential data leaks to OpenAI highlights concerns about intellectual property and could slow AI adoption due to increased regulatory scrutiny.",
+    "date": "2026-08-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "data-security",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-05T11:00:51.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "circles-powers-telco-personalization-with-openai-technology",
     "title": "Circles powers telco personalization with OpenAI technology",
     "summary": "AI integration in telecommunications improves customer engagement and operational efficiency, signaling growing AI adoption in enterprise workflows.",
@@ -14877,172 +15069,6 @@
       "computer-and-information-technology",
       "business-and-financial",
       "education-training-and-library"
-    ]
-  },
-  {
-    "id": "parloa-builds-service-agents-customers-want-to-talk-to",
-    "title": "Parloa builds service agents customers want to talk to",
-    "summary": "AI-powered customer service agents are becoming more scalable and reliable, signaling increased adoption of AI in enterprise workflows.",
-    "date": "2026-05-07",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/parloa",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "enterprise adoption",
-      "customer service"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "advancing-voice-intelligence-with-new-models-in-the-api",
-    "title": "Advancing voice intelligence with new models in the API",
-    "summary": "New voice models in the OpenAI API enhance real-time speech processing, improving AI's ability to interact naturally with users and impacting workflows in multiple industries.",
-    "date": "2026-05-07",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "voice intelligence",
-      "productivity",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "scaling-trusted-access-for-cyber-with-gpt-5-5-and-gpt-5-5-cyber",
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "summary": "OpenAI's expansion of Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber enhances cybersecurity workflows by enabling verified professionals to accelerate vulnerability research and protect critical infrastructure.",
-    "date": "2026-05-07",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "cybersecurity",
-      "AI tools",
-      "workforce adoption"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "protective-service",
-      "_all"
-    ]
-  },
-  {
-    "id": "unlocking-large-scale-ai-training-networks-with-mrc-multipath-reliable-connectio",
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "summary": "OpenAI's release of MRC improves large-scale AI training infrastructure, advancing AI development and deployment capabilities.",
-    "date": "2026-05-05",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/mrc-supercomputer-networking",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "AI training",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "advancing-youth-safety-and-wellbeing-in-emea",
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "summary": "OpenAI's initiative to improve youth safety and wellbeing in EMEA reflects growing regulatory and ethical concerns around AI, potentially slowing its adoption in certain sectors.",
-    "date": "2026-05-05",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "ethics",
-      "AI safety"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "_all"
-    ]
-  },
-  {
-    "id": "senators-seek-labor-led-database-on-ai-workforce-impacts",
-    "title": "Senators seek Labor-led database on AI workforce impacts",
-    "summary": "Senators are pushing for a labor-led database to track AI's impact on the workforce, indicating growing regulatory attention and potential constraints on AI adoption.",
-    "date": "2026-05-04",
-    "source": "FedScoop",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKMXBWaTMtWnRRMHVDMWRuZXpOQk5nSlBZUnY1bmZQWUMtU0V6a0RoNEtNZkZsczhTRXg1aVJrV0g3WDRPSHNBUTlPWkxZY3BQbUVBaGFlTjhwaTFKeUtjd2hsZEh4ZHhKRVBmMlJ2T0pFeTN2THlDMURVbG1oZw?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "workforce"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-study-reveals-which-jobs-are-most-exposed-to-real-world-ai-risks",
-    "title": "Anthropic Study Reveals Which Jobs Are Most Exposed to Real-World AI Risks",
-    "summary": "A study identifying jobs most exposed to AI risks highlights potential regulatory and ethical concerns that could slow AI adoption in certain industries.",
-    "date": "2026-04-30",
-    "source": "Investopedia",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmlHaFBQQnZ4UUR1bENZTGZpNkQtZ0lBN0dJRF9kQXpjNTlESE1RemZQVUpoVk1zTDhpNzVUc1FWczZGS1EzSmRoOWsyN3JlQllGdnAwb2RXbnhjOVEtX2g5YUlrRXRPTC1ocVZZZDFNMmJxeHRaQXkxM21HNEZhUjc2dnlreFBoRFU2UVp3eURCVHZRTXFQb2FvYVhRdTMyQjc5WURCM2tOSFRjTlFkM0k0S1ktVEl2Z0d6blNDSTNZeDJUUFJ5SHlB?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "risk",
-      "workforce"
-    ],
-    "fetchedAt": "2026-05-07T12:00:00.000Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "healthcare",
-      "computer-and-information-technology",
-      "management"
     ]
   }
 ]
