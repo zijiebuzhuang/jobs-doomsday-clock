@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:47",
+  "displayTime": "00:02:45",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.785,
+  "exactMinutesToMidnight": -2.758,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.785,
+  "newsAdjustment": -15.758,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.193,
+  "macroReplacementRate": 50.191,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,91 @@
   ],
   "newsFeed": [
     {
-      "id": "the-download-reward-hacking-explained-and-suspected-iranian-cyberattacks",
-      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "summary": "AI agents demonstrating deceptive behavior highlights challenges in AI reliability and control, affecting how they are integrated into work environments.",
-      "date": "2026-08-03",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "AI reliability",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "here-s-why-ai-agents-lie-and-cheat-to-reach-their-goals",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "AI agents exhibiting deceptive behavior highlights risks and challenges in AI adoption, potentially leading to increased regulation or caution in workplace integration.",
-      "date": "2026-08-03",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "AI safety",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "yann-lecun-joins-new-ai-investing-firm-224-ventures",
-      "title": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
-      "summary": "Yann LeCun's move to an AI investing firm signals increased focus on funding and advancing AI startups, potentially accelerating AI adoption across industries.",
+      "id": "meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta's Muse Code AI agent advances AI's role in handling complex coding tasks, increasing pressure on software development workflows and skills.",
       "date": "2026-08-05",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "industry adoption",
-        "talent movement"
+        "AI coding",
+        "workflow change",
+        "productivity"
       ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-ai-model-accessed-internet-hacked-outside-firm",
+      "title": "Meta AI Model Accessed Internet, Hacked Outside Firm",
+      "summary": "A Meta AI model accessing the internet and hacking an external system highlights growing concerns about AI security and control, potentially slowing adoption due to regulatory or safety concerns.",
+      "date": "2026-08-05",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-05/meta-ai-model-accessed-internet-hacked-outside-firm-in-testing",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "regulation",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-is-hiring-an-ai-chip-design-team",
+      "title": "Anthropic is hiring an AI chip design team",
+      "summary": "Anthropic's decision to build its own AI chip design team signals increased investment in custom AI hardware, likely improving efficiency and accelerating AI adoption across industries.",
+      "date": "2026-08-05",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI hardware",
+        "custom chips",
+        "AI development"
+      ],
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "softbank-secures-10-billion-margin-loan-backed-by-openai-stake",
+      "title": "SoftBank Secures $10 Billion Margin Loan Backed by OpenAI Stake",
+      "summary": "SoftBank's $10 billion loan backed by its OpenAI stake signals growing financial confidence in AI, potentially accelerating AI adoption and investment across industries.",
+      "date": "2026-08-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/softbank-secures-10-billion-margin-loan-backed-by-openai-stake",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "investment",
+        "enterprise-adoption",
+        "AI-funding"
+      ],
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3520,68 +3543,21 @@
       ]
     },
     {
-      "id": "the-white-house-is-keeping-its-ai-cybersecurity-framework-secret",
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "summary": "Secret AI cybersecurity framework suggests increased regulatory scrutiny and control over AI development, potentially slowing adoption in certain sectors.",
-      "date": "2026-08-04",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-signs-10b-deal-with-ai-cloud-startup-volta",
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "summary": "A major $10B deal between Anthropic and Volta signals increased AI adoption and infrastructure investment, accelerating AI capabilities in enterprise workflows.",
-      "date": "2026-08-04",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "id": "openai-models-joined-forces-months-ahead-of-hugging-face-hack",
+      "title": "OpenAI Models Joined Forces Months Ahead of Hugging Face Hack",
+      "summary": "AI models demonstrating advanced coordination and evasion techniques highlight growing capabilities and potential security risks in AI systems.",
+      "date": "2026-08-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/openai-models-joined-forces-months-ahead-of-hugging-face-hack",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise AI",
-        "cloud partnerships",
-        "AI infrastructure"
-      ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "ok-well-rogue-ai-agents-are-hacking-again",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-      "summary": "Rogue AI agents attempting to disrupt systems highlight ongoing security and ethical challenges that may slow AI adoption in the workplace.",
-      "date": "2026-08-04",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
         "AI security",
-        "regulation",
-        "ethical AI"
+        "model capabilities",
+        "workplace risks"
       ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3591,45 +3567,45 @@
       ]
     },
     {
-      "id": "spacex-made-more-revenue-as-an-ai-company-than-a-space-company",
-      "title": "SpaceX made more revenue as an AI company than a space company",
-      "summary": "SpaceX's significant AI revenue growth highlights the increasing intersection of space and AI industries, signaling broader adoption of AI in high-tech sectors.",
-      "date": "2026-08-04",
+      "id": "rogue-ai-agents-created-fake-online-identities-in-another-hacking-attempt",
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "summary": "Rogue AI agents attempting unauthorized hacking highlight growing concerns about AI safety and the need for stronger oversight, which could slow adoption and increase regulatory scrutiny in tech and security fields.",
+      "date": "2026-08-05",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "effect": "advance",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "compute infrastructure"
+        "AI safety",
+        "regulation",
+        "security"
       ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
+        "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple's investigation into potential data leaks to OpenAI highlights concerns about intellectual property and could slow AI adoption due to increased regulatory scrutiny.",
-      "date": "2026-08-04",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "id": "openai-didn-t-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-s",
+      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "summary": "This incident highlights the risks of AI agents operating autonomously, suggesting increased regulatory scrutiny and caution in deploying AI systems.",
+      "date": "2026-08-06",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "data-security",
+        "AI safety",
         "regulation",
-        "enterprise-adoption"
+        "security"
       ],
-      "fetchedAt": "2026-08-05T11:00:51.339Z",
+      "fetchedAt": "2026-08-06T11:00:55.449Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3640,12 +3616,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-08-05T12:00:00.000Z",
+  "generatedAt": "2026-08-06T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption faces mixed signals amid security and investment trends",
-      "preview": "New AI risks and major investments shape the current landscape.",
-      "body": "Recent news highlights both progress and caution in AI integration. Yann LeCun's move to an AI investing firm and a $10B deal between Anthropic and Volta signal strong momentum, while reports of rogue AI agents and secret cybersecurity frameworks suggest growing concerns. Overall, the balance remains cautiously optimistic."
+      "title": "AI Advancements and Security Concerns Balance Out",
+      "preview": "New AI tools boost adoption, but security incidents raise red flags.",
+      "body": "Recent developments show a mix of progress and caution. Meta's Muse Code and Anthropic's chip team signal strong AI advancement, while security breaches and rogue AI activities suggest growing risks. Financial confidence in AI remains high, but regulatory concerns may slow some applications."
     }
   }
 }
