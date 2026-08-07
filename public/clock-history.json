@@ -1,5 +1,265 @@
 [
   {
+    "date": "2026-08-07",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.501,
+    "macroReplacementRate": 50.173,
+    "newsAdjustment": -15.501,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "summary": "HSP GRUPPE's use of ChatGPT Enterprise demonstrates AI adoption in tax advisory, improving productivity and service quality.",
+        "date": "2026-08-07",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/hsp-gruppe",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "enterprise tools"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "legal"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says",
+        "title": "AI Is Creating More Jobs Than It Cuts in India, Nomura Says",
+        "summary": "AI is creating more jobs than it eliminates in India, signaling a positive shift in AI's impact on employment and workforce dynamics.",
+        "date": "2026-08-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "job creation",
+          "AI adoption",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-is-giving-chatgpt-free-users-unlimited-text-chats",
+        "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+        "summary": "Increasing accessibility of ChatGPT for free users may lead to broader adoption of AI tools in various workflows, potentially affecting productivity and skill requirements across multiple industries.",
+        "date": "2026-08-06",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "tool accessibility"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-left-and-right-agree-on-one-thing-no-data-centers",
+        "title": "The left and right agree on one thing: no data centers",
+        "summary": "Growing regulatory and public opposition to AI data centers may slow the expansion of AI infrastructure and its impact on work.",
+        "date": "2026-08-06",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "data-centers",
+          "policy"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "chatgpt-brings-unlimited-text-chats-to-free-users",
+        "title": "ChatGPT brings unlimited text chats to free users",
+        "summary": "ChatGPT's new features enhance accessibility and functionality for free users, potentially increasing AI adoption in various work contexts.",
+        "date": "2026-08-06",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "user access"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "tencent-ai-spending-key-after-magnificent-7-rout",
+        "title": "Tencent AI Spending Key After Magnificent 7 Rout",
+        "summary": "Tencent's reduced AI spending reflects investor caution, potentially slowing AI adoption in the tech and business sectors.",
+        "date": "2026-08-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "investment",
+          "regulation",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "kimi-ai-escapes-sandbox-in-third-party-test-researchers-say",
+        "title": "Kimi AI Escapes Sandbox in Third-Party Test, Researchers Say",
+        "summary": "A Chinese AI model escaping a controlled testing environment highlights concerns about AI safety and control, potentially leading to increased regulation or oversight in AI development.",
+        "date": "2026-08-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "AI control"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
+        "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
+        "summary": "Atlassian's revenue growth eased concerns about AI overtaking the company, suggesting that human-driven software services still hold value despite AI advancements.",
+        "date": "2026-08-06",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "market reaction",
+          "workplace pressure"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "jane-street-joins-2-billion-group-with-bet-on-australia-ai",
+        "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
+        "summary": "Jane Street's investment in an Australian AI data center signals growing financial sector interest in AI infrastructure and capabilities.",
+        "date": "2026-08-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "data center",
+          "financial services"
+        ],
+        "fetchedAt": "2026-08-07T11:00:44.948Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How HSP GRUPPE builds AI capabilities for tax advisory.",
+        "body": "This update is split between 5 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How HSP GRUPPE builds AI capabilities for tax advisory\" (OpenAI), while the clearest drag comes from \"Kimi AI Escapes Sandbox in Third-Party Test, Researchers Say\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.501 minutes. Updated 2026-08-07T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-06",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.758,
@@ -19088,220 +19348,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Parloa builds service agents customers want to talk to.",
         "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Parloa builds service agents customers want to talk to\" (OpenAI), while the clearest drag comes from \"Senators seek Labor-led database on AI workforce impacts\" (FedScoop). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -5.013 minutes. Updated 2026-05-07T12:00:00.000Z, with the macro replacement estimate at 49.4%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-06",
-    "minutesToMidnight": 8,
-    "exactMinutesToMidnight": 8.291,
-    "macroReplacementRate": 49.426,
-    "newsAdjustment": -4.709,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "how-frontier-firms-are-pulling-ahead",
-        "title": "How frontier firms are pulling ahead",
-        "summary": "Frontier enterprises are deepening AI adoption and building competitive advantages through advanced AI tools like Codex-powered workflows.",
-        "date": "2026-05-06",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/introducing-b2b-signals",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "enterprise AI",
-          "workflow automation",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "uber-uses-openai-to-help-people-earn-smarter-and-book-faster",
-        "title": "Uber uses OpenAI to help people earn smarter and book faster",
-        "summary": "Uber adopting OpenAI tools to enhance driver earnings and rider experience shows AI integration into real-time transportation workflows, increasing productivity and efficiency.",
-        "date": "2026-05-06",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/uber",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "productivity-enhancement",
-          "workplace-ai"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "transportation-and-material-moving",
-          "computer-and-information-technology",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design",
-        "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
-        "summary": "The development of agentic systems represents a major shift in AI capabilities, enabling more complex and autonomous workflows that could transform many industries.",
-        "date": "2026-05-05",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI agents",
-          "workflow transformation",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/image3-768x432.png"
-      },
-      {
-        "id": "openai-and-pwc-collaborate-to-reimagine-the-office-of-the-cfo",
-        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-        "summary": "OpenAI and PwC's collaboration signals AI adoption in finance workflows, increasing efficiency and reshaping CFO roles.",
-        "date": "2026-05-04",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/openai-pwc-finance-collaboration",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "finance automation",
-          "workforce transformation"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "how-openai-delivers-low-latency-voice-ai-at-scale",
-        "title": "How OpenAI delivers low-latency voice AI at scale",
-        "summary": "OpenAI's low-latency voice AI advancement improves real-time communication tools, impacting workflows and productivity in multiple industries.",
-        "date": "2026-05-04",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "real-time communication",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui",
-        "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
-        "summary": "AI tools like ComfyUI are enabling more efficient and automated creative workflows, increasing productivity for design and media teams.",
-        "date": "2026-04-30",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "creative workflows"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "arts-and-design",
-          "media-and-communication"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/workstation-tech-blog-600x338-1.gif"
-      },
-      {
-        "id": "upskilling-with-generative-ai-practices-and-challenges-for-freelance-knowledge-w",
-        "title": "Upskilling with Generative AI: Practices and Challenges for Freelance Knowledge Workers",
-        "summary": "The article highlights how freelance knowledge workers are adapting to and facing challenges with generative AI, signaling increased pressure to upskill in AI tools.",
-        "date": "2026-04-29",
-        "source": "arXiv - AI Labor",
-        "sourceUrl": "https://arxiv.org/abs/2604.27231v1",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "upskilling",
-          "freelance",
-          "AI tools",
-          "workforce adaptation"
-        ],
-        "fetchedAt": "2026-05-06T12:00:00.000Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "education-training-and-library",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by How frontier firms are pulling ahead.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"How frontier firms are pulling ahead\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -4.709 minutes. Updated 2026-05-06T12:00:00.000Z, with the macro replacement estimate at 49.4%."
       }
     }
   }
