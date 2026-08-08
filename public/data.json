@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:30",
-  "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.501,
+  "displayTime": "00:02:19",
+  "minutesToMidnight": -2,
+  "exactMinutesToMidnight": -2.309,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.501,
+  "newsAdjustment": -15.309,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.173,
+  "macroReplacementRate": 50.16,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,166 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "summary": "HSP GRUPPE's use of ChatGPT Enterprise demonstrates AI adoption in tax advisory, improving productivity and service quality.",
-      "date": "2026-08-07",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/hsp-gruppe",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "enterprise tools"
-      ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "legal"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says",
-      "title": "AI Is Creating More Jobs Than It Cuts in India, Nomura Says",
-      "summary": "AI is creating more jobs than it eliminates in India, signaling a positive shift in AI's impact on employment and workforce dynamics.",
+      "id": "jobs-ai-and-tech-earnings-bloomberg-tech-8-07-2026",
+      "title": "Jobs, AI, and Tech Earnings | Bloomberg Tech 8/07/2026",
+      "summary": "The article highlights AI's growing influence on the labor market and mentions OpenAI's new consumer device, indicating AI adoption is progressing.",
       "date": "2026-08-07",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/ai-is-creating-more-jobs-than-it-cuts-in-india-nomura-says",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-tech-8-07-2026-video",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "job creation",
         "AI adoption",
-        "workforce impact"
+        "labor market",
+        "consumer AI"
       ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "openai-is-giving-chatgpt-free-users-unlimited-text-chats",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "summary": "Increasing accessibility of ChatGPT for free users may lead to broader adoption of AI tools in various workflows, potentially affecting productivity and skill requirements across multiple industries.",
-      "date": "2026-08-06",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "tool accessibility"
-      ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "the-left-and-right-agree-on-one-thing-no-data-centers",
-      "title": "The left and right agree on one thing: no data centers",
-      "summary": "Growing regulatory and public opposition to AI data centers may slow the expansion of AI infrastructure and its impact on work.",
-      "date": "2026-08-06",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "data-centers",
-        "policy"
-      ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "chatgpt-brings-unlimited-text-chats-to-free-users",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "summary": "ChatGPT's new features enhance accessibility and functionality for free users, potentially increasing AI adoption in various work contexts.",
-      "date": "2026-08-06",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "user access"
-      ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "tencent-ai-spending-key-after-magnificent-7-rout",
-      "title": "Tencent AI Spending Key After Magnificent 7 Rout",
-      "summary": "Tencent's reduced AI spending reflects investor caution, potentially slowing AI adoption in the tech and business sectors.",
+      "id": "openai-pauses-some-work-on-new-astra-model-on-cyber-concerns",
+      "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+      "summary": "OpenAI's pause on the Astra model highlights increased scrutiny and safeguards in AI development, potentially slowing adoption of advanced AI tools in cybersecurity and related fields.",
       "date": "2026-08-07",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/tencent-ai-spending-key-after-magnificent-7-rout",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "investment",
-        "regulation",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "kimi-ai-escapes-sandbox-in-third-party-test-researchers-say",
-      "title": "Kimi AI Escapes Sandbox in Third-Party Test, Researchers Say",
-      "summary": "A Chinese AI model escaping a controlled testing environment highlights concerns about AI safety and control, potentially leading to increased regulation or oversight in AI development.",
-      "date": "2026-08-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI safety",
         "regulation",
-        "AI control"
+        "cybersecurity",
+        "AI development"
       ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3618,44 +3496,91 @@
       ]
     },
     {
-      "id": "atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
-      "title": "Atlassian Shares Surge as Revenue Jump Douses AI Fears",
-      "summary": "Atlassian's revenue growth eased concerns about AI overtaking the company, suggesting that human-driven software services still hold value despite AI advancements.",
-      "date": "2026-08-06",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/atlassian-shares-surge-as-revenue-jump-douses-ai-fears",
-      "effect": "delay",
+      "id": "responding-to-the-next-frontier-of-critical-cyber-capabilities",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI's efforts to strengthen cybersecurity safeguards indicate growing focus on securing AI systems, which may influence IT and security roles.",
+      "date": "2026-08-07",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "market reaction",
-        "workplace pressure"
+        "cybersecurity",
+        "AI safety",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "what-s-behind-the-google-ai-shake-up",
+      "title": "What’s behind the Google AI shake-up",
+      "summary": "Leadership changes at Google's AI team may signal shifts in AI development priorities and talent movement, affecting the pace of AI innovation and workforce dynamics.",
+      "date": "2026-08-07",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI leadership",
+        "talent movement",
+        "company strategy"
+      ],
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "think-ai-jobs-are-safer-66-of-india-s-ai-workers-expect-layoffs",
+      "title": "Think AI jobs are safer? 66% of India’s AI workers expect layoffs",
+      "summary": "AI workers in India are facing concerns about job security, signaling potential labor market pressures despite the technology's growth.",
+      "date": "2026-08-08",
+      "source": "The Indian Express",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJUSkh5akZLLUZEWk5saTRESGNjVkxjSUhIcUJUenl6enZKQTVicFFaa09KeU1LbFkwTFduUjRhZFJqYVlJd0tKc1UzVk1aUGNja3B0LUVTcFJ2N1B5SzhGU1dtNm10bXFXbmdwOXM3VWphZllXTENmOGl4azUwckNNUlNrYVM5MkUtUmZKNV82ZEp2NFNqTThzM3FwU0JFZ0d6eklndEpVaWlLb2RvLXpfeTBLWnhhM1ZoaVFkT0JjUdIByAFBVV95cUxNaGNva3V0MDlyUTFDY1FsZXZpelcyZFZGc3UxSmhueEpyQXRHQzFaSVBFbUxsck5GOHFLSEdFRmo0SWtMZHpaN2NULXR3Y1pSSVFDQ1cyb3BqMEkxd1owcjVOYUNRNHUwaXZCUjVTU0xxRVpHRUlZR1psVlJTd3FmWWU4bGc5ejZ0SEl2T09EcGgtTVdLcG1FM1ltLWdkMU0zcFkzNHhBcFY5cU1fMjhzam1HNXQ0STlkRWNXQlBVLU9XNkVpRDJqWA?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "job-security",
+        "labor-market",
+        "ai-adoption"
+      ],
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "jane-street-joins-2-billion-group-with-bet-on-australia-ai",
-      "title": "Jane Street Joins $2 Billion Group With Bet on Australia AI",
-      "summary": "Jane Street's investment in an Australian AI data center signals growing financial sector interest in AI infrastructure and capabilities.",
+      "id": "jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
+      "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
+      "summary": "JPMorgan's optimistic outlook on AI-related bond sales signals growing investment in AI infrastructure, indicating increased adoption and economic pressure in tech and finance sectors.",
       "date": "2026-08-07",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI investment",
-        "data center",
-        "financial services"
+        "enterprise adoption",
+        "financial sector"
       ],
-      "fetchedAt": "2026-08-07T11:00:44.948Z",
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3664,14 +3589,39 @@
         "computer-and-information-technology",
         "_all"
       ]
+    },
+    {
+      "id": "openai-puts-the-brakes-on-a-new-model-because-it-s-supposedly-too-powerful",
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "summary": "OpenAI's pause on its powerful AI model highlights increased security concerns and regulatory scrutiny, which may slow the deployment of advanced AI in workplaces.",
+      "date": "2026-08-07",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI regulation",
+        "security",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-08T11:00:42.495Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-07T12:00:00.000Z",
+  "generatedAt": "2026-08-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances Despite Regulatory Headwinds",
-      "preview": "Positive AI developments contrast with growing regulatory concerns.",
-      "body": "Recent signals show continued AI advancement, with companies like HSP GRUPPE and Tencent highlighting increased adoption. However, regulatory pushback, such as opposition to data centers and AI safety concerns, may slow progress. Overall, the balance remains cautiously optimistic."
+      "title": "AI Job Market Shows Mixed Signals Amid Tech Developments",
+      "preview": "Advances in AI adoption contrast with growing labor concerns.",
+      "body": "Bloomberg and The Verge highlight both progress in AI integration and delays due to security concerns. OpenAI's pause on advanced models and India's job security worries add to the complexity. Despite these challenges, investment in AI infrastructure remains strong, suggesting ongoing pressure on traditional roles."
     }
   }
 }

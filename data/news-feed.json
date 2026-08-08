@@ -1,5 +1,173 @@
 [
   {
+    "id": "responding-to-the-next-frontier-of-critical-cyber-capabilities",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "summary": "OpenAI's efforts to strengthen cybersecurity safeguards indicate growing focus on securing AI systems, which may influence IT and security roles.",
+    "date": "2026-08-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "cybersecurity",
+      "AI safety",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "what-s-behind-the-google-ai-shake-up",
+    "title": "What’s behind the Google AI shake-up",
+    "summary": "Leadership changes at Google's AI team may signal shifts in AI development priorities and talent movement, affecting the pace of AI innovation and workforce dynamics.",
+    "date": "2026-08-07",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI leadership",
+      "talent movement",
+      "company strategy"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-puts-the-brakes-on-a-new-model-because-it-s-supposedly-too-powerful",
+    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+    "summary": "OpenAI's pause on its powerful AI model highlights increased security concerns and regulatory scrutiny, which may slow the deployment of advanced AI in workplaces.",
+    "date": "2026-08-07",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "security",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "jobs-ai-and-tech-earnings-bloomberg-tech-8-07-2026",
+    "title": "Jobs, AI, and Tech Earnings | Bloomberg Tech 8/07/2026",
+    "summary": "The article highlights AI's growing influence on the labor market and mentions OpenAI's new consumer device, indicating AI adoption is progressing.",
+    "date": "2026-08-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-tech-8-07-2026-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "labor market",
+      "consumer AI"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-pauses-some-work-on-new-astra-model-on-cyber-concerns",
+    "title": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+    "summary": "OpenAI's pause on the Astra model highlights increased scrutiny and safeguards in AI development, potentially slowing adoption of advanced AI tools in cybersecurity and related fields.",
+    "date": "2026-08-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "cybersecurity",
+      "AI development"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
+    "title": "JPMorgan Boosts Tech Bond Sales Outlook as AI Debt Binge Expands",
+    "summary": "JPMorgan's optimistic outlook on AI-related bond sales signals growing investment in AI infrastructure, indicating increased adoption and economic pressure in tech and finance sectors.",
+    "date": "2026-08-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-07/jpmorgan-boosts-tech-bond-sales-outlook-as-ai-debt-binge-expands",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "enterprise adoption",
+      "financial sector"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "think-ai-jobs-are-safer-66-of-india-s-ai-workers-expect-layoffs",
+    "title": "Think AI jobs are safer? 66% of India’s AI workers expect layoffs",
+    "summary": "AI workers in India are facing concerns about job security, signaling potential labor market pressures despite the technology's growth.",
+    "date": "2026-08-08",
+    "source": "The Indian Express",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjJUSkh5akZLLUZEWk5saTRESGNjVkxjSUhIcUJUenl6enZKQTVicFFaa09KeU1LbFkwTFduUjRhZFJqYVlJd0tKc1UzVk1aUGNja3B0LUVTcFJ2N1B5SzhGU1dtNm10bXFXbmdwOXM3VWphZllXTENmOGl4azUwckNNUlNrYVM5MkUtUmZKNV82ZEp2NFNqTThzM3FwU0JFZ0d6eklndEpVaWlLb2RvLXpfeTBLWnhhM1ZoaVFkT0JjUdIByAFBVV95cUxNaGNva3V0MDlyUTFDY1FsZXZpelcyZFZGc3UxSmhueEpyQXRHQzFaSVBFbUxsck5GOHFLSEdFRmo0SWtMZHpaN2NULXR3Y1pSSVFDQ1cyb3BqMEkxd1owcjVOYUNRNHUwaXZCUjVTU0xxRVpHRUlZR1psVlJTd3FmWWU4bGc5ejZ0SEl2T09EcGgtTVdLcG1FM1ltLWdkMU0zcFkzNHhBcFY5cU1fMjhzam1HNXQ0STlkRWNXQlBVLU9XNkVpRDJqWA?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "job-security",
+      "labor-market",
+      "ai-adoption"
+    ],
+    "fetchedAt": "2026-08-08T11:00:42.495Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory",
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "summary": "HSP GRUPPE's use of ChatGPT Enterprise demonstrates AI adoption in tax advisory, improving productivity and service quality.",
@@ -15018,154 +15186,5 @@
     "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
     "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
     "duration": "00:29:41"
-  },
-  {
-    "id": "winning-a-kaggle-competition-with-generative-ai-assisted-coding",
-    "title": "Winning a Kaggle Competition with Generative AI–Assisted Coding",
-    "summary": "LLM agents significantly accelerate the machine learning development process, demonstrating AI's growing role in enhancing productivity and innovation in data science and tech fields.",
-    "date": "2026-04-23",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/winning-a-kaggle-competition-with-generative-ai-assisted-coding/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "productivity",
-      "machine learning"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/agentic-ai-768x432.jpg"
-  },
-  {
-    "id": "all-the-latest-updates-on-ai-data-centers",
-    "title": "All the latest updates on AI data centers",
-    "summary": "The expansion of AI data centers highlights growing infrastructure needs for AI, signaling increased adoption and pressure on tech and related industries.",
-    "date": "2026-05-08",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "data centers",
-      "infrastructure",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "construction-and-extraction",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ecb-s-escriv-says-ai-risks-prompt-finance-infrastructure-review",
-    "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
-    "summary": "Regulatory scrutiny of AI's impact on financial infrastructure may slow or shape its adoption in finance and related fields.",
-    "date": "2026-05-09",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "finance",
-      "infrastructure"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "how-anthropic-s-mythos-has-rewritten-firefox-s-approach-to-cybersecurity",
-    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-    "summary": "Anthropic's Mythos AI tool is helping Mozilla identify critical security vulnerabilities in Firefox, showing AI's growing role in cybersecurity and software development workflows.",
-    "date": "2026-05-07",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "cybersecurity",
-      "software development",
-      "workflow change"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "understanding-the-most-viral-chart-in-artificial-intelligence",
-    "title": "Understanding the Most Viral Chart in Artificial Intelligence",
-    "summary": "A viral AI capability chart highlights growing AI performance trends, signaling increased pressure across industries.",
-    "date": "2026-04-25",
-    "source": "Apple Podcasts - Odd Lots",
-    "sourceUrl": "https://omny.fm/shows/odd-lots/understand-the-most-viral-chart-in-artificial-intelligence",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI capabilities",
-      "workplace adoption",
-      "industry trends"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-    "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b5332c19-d958-475c-ad93-b4360136c71d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-    "duration": "57 min"
-  },
-  {
-    "id": "labor-department-nears-launch-of-ai-workforce-hub",
-    "title": "Labor Department nears launch of AI workforce hub",
-    "summary": "The Labor Department's AI workforce hub signals increased focus on AI's role in shaping future job markets and worker training.",
-    "date": "2026-04-28",
-    "source": "FedScoop",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9remRQTUhZZjVKY0stUTlFS19FOVYxS1lMc1N4eVduXy16c0dYTXNwbUw0aHpydEdGcmlLdFdnaUppdzh5TVJLcjRTRS1pTk1ibnlOUXR4NzNPUEMwV2E3WW9La2pIR295LUdQeERGUQ?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "workforce-development",
-      "AI-adoption"
-    ],
-    "fetchedAt": "2026-05-10T11:00:46.138Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
   }
 ]
