@@ -1,5 +1,148 @@
 [
   {
+    "id": "from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "New data on ChatGPT usage provides insight into how AI is being adopted globally, signaling increased workplace integration and productivity pressure.",
+    "date": "2026-08-06",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "adoption",
+      "workplace-integration",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+    "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+    "summary": "Moore Threads' planned Hong Kong listing signals growing investor confidence in AI chip development, which could accelerate AI adoption across industries.",
+    "date": "2026-08-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "chip development",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+    "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+    "summary": "Singapore's government is leveraging AI to boost productivity and address worker concerns, signaling proactive AI integration in the workforce.",
+    "date": "2026-08-08",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "government-policy",
+      "workforce-impact",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-acquires-presentation-startup-nextslide",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "OpenAI's acquisition of NextSlide signals increased integration of AI into presentation and productivity tools, potentially reshaping workflows in office and administrative roles.",
+    "date": "2026-08-08",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "jill-lepore-on-the-artificial-state-and-why-silicon-valley-s-leaders-are-bad-sci",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "summary": "A historian critiques Silicon Valley's overblown rhetoric around AI, suggesting regulatory or societal friction may slow its adoption.",
+    "date": "2026-08-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "labour"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-says-it-slowed-astra-model-development-over-security-concerns",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI slowing development of a powerful AI model due to security concerns highlights increased regulatory and safety scrutiny in AI development.",
+    "date": "2026-08-07",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "cybersecurity",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-08-09T11:01:21.899Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "responding-to-the-next-frontier-of-critical-cyber-capabilities",
     "title": "Responding to the next frontier of critical cyber capabilities",
     "summary": "OpenAI's efforts to strengthen cybersecurity safeguards indicate growing focus on securing AI systems, which may influence IT and security roles.",
@@ -15017,174 +15160,5 @@
       "management",
       "business-and-financial"
     ]
-  },
-  {
-    "id": "openai-campus-network-student-club-interest-form",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
-    "date": "2026-05-11",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "education",
-      "AI adoption",
-      "student engagement"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "education-training-and-library",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "a-400-ai-bet-that-s-actually-a-high-stakes-wager-on-the-future-of-work",
-    "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
-    "summary": "Two economists debate the speed of AI's impact on the US job market, highlighting ongoing uncertainty about its future effects on work.",
-    "date": "2026-05-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "economic-impact",
-      "workforce-transformation",
-      "policy-discussion"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "behind-the-claude-frenzy-that-ate-up-all-the-mac-minis",
-    "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
-    "summary": "The surge in demand for Apple Mac Minis highlights growing AI adoption in professional and personal workflows, indicating increased use of AI tools across industries.",
-    "date": "2026-05-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce tools",
-      "AI infrastructure"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "healthcare",
-      "_all"
-    ]
-  },
-  {
-    "id": "jpmorgan-says-equities-at-all-time-highs-make-sense-",
-    "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
-    "summary": "JPMorgan's focus on AI investment and equity market trends indicates growing integration of AI in financial services and investment strategies.",
-    "date": "2026-05-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-11/jpmorgan-says-equities-at-all-time-highs-make-sense-video",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI investment",
-      "financial services",
-      "equity markets"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
-    "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
-    "summary": "Alphabet's yen bond sale indicates increased financial commitment to AI, signaling growing investment in AI capabilities as competition intensifies.",
-    "date": "2026-05-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI investment",
-      "enterprise adoption",
-      "funding"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "goldman-sees-ai-driven-super-surplus-swelling-in-korea-taiwan",
-    "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
-    "summary": "AI-driven chip booms in South Korea and Taiwan are boosting economic surpluses and may lead to higher interest rates, signaling increased AI adoption and economic pressure.",
-    "date": "2026-05-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "economic impact",
-      "chip industry"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "is-china-winning-the-a-i-race-",
-    "title": "Is China Winning the A.I. Race?",
-    "summary": "The article highlights the geopolitical competition between China and the U.S. in AI, signaling increased global focus and investment in AI capabilities that may affect workplace adoption and labor dynamics.",
-    "date": "2026-05-11",
-    "source": "Apple Podcasts - The Daily",
-    "sourceUrl": "https://www.nytimes.com/the-daily",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "geopolitics",
-      "AI competition",
-      "global adoption"
-    ],
-    "fetchedAt": "2026-05-11T11:01:02.160Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
-    "duration": "00:29:41"
   }
 ]

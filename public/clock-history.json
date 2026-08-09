@@ -1,5 +1,190 @@
 [
   {
+    "date": "2026-08-09",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.202,
+    "macroReplacementRate": 50.152,
+    "newsAdjustment": -15.202,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+        "title": "Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says",
+        "summary": "Singapore's government is leveraging AI to boost productivity and address worker concerns, signaling proactive AI integration in the workforce.",
+        "date": "2026-08-08",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-08/singapore-to-ensure-ai-helps-workers-worried-about-jobs-pm-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "government-policy",
+          "workforce-impact",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work",
+        "title": "From asking to doing: How the world is putting ChatGPT to work",
+        "summary": "New data on ChatGPT usage provides insight into how AI is being adopted globally, signaling increased workplace integration and productivity pressure.",
+        "date": "2026-08-06",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "adoption",
+          "workplace-integration",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "openai-acquires-presentation-startup-nextslide",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "summary": "OpenAI's acquisition of NextSlide signals increased integration of AI into presentation and productivity tools, potentially reshaping workflows in office and administrative roles.",
+        "date": "2026-08-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "jill-lepore-on-the-artificial-state-and-why-silicon-valley-s-leaders-are-bad-sci",
+        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+        "summary": "A historian critiques Silicon Valley's overblown rhetoric around AI, suggesting regulatory or societal friction may slow its adoption.",
+        "date": "2026-08-07",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "labour"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+        "title": "China AI Chip Designer Moore Threads Plans Hong Kong Listing",
+        "summary": "Moore Threads' planned Hong Kong listing signals growing investor confidence in AI chip development, which could accelerate AI adoption across industries.",
+        "date": "2026-08-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "chip development",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-says-it-slowed-astra-model-development-over-security-concerns",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "summary": "OpenAI slowing development of a powerful AI model due to security concerns highlights increased regulatory and safety scrutiny in AI development.",
+        "date": "2026-08-07",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "cybersecurity",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-08-09T11:01:21.899Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says.",
+        "body": "This update is split between 4 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Singapore to Ensure AI Helps Workers Worried About Jobs, PM Says\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI says it slowed Astra model development over security concerns\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.202 minutes. Updated 2026-08-09T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-08",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.309,
@@ -19189,167 +19374,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP.",
         "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -5.608 minutes. Updated 2026-05-09T12:00:00.000Z, with the macro replacement estimate at 49.5%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-08",
-    "minutesToMidnight": 8,
-    "exactMinutesToMidnight": 7.884,
-    "macroReplacementRate": 49.454,
-    "newsAdjustment": -5.116,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "running-codex-safely-at-openai",
-        "title": "Running Codex safely at OpenAI",
-        "summary": "OpenAI's secure implementation of Codex demonstrates progress in adopting AI coding agents safely, signaling increased workplace integration of AI tools.",
-        "date": "2026-05-08",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/running-codex-safely",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workplace tools",
-          "coding agents",
-          "security"
-        ],
-        "fetchedAt": "2026-05-08T12:00:00.000Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "there-s-a-long-shot-proposal-to-protect-california-workers-from-ai",
-        "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-        "summary": "A proposal to protect workers displaced by AI highlights growing concerns about AI's impact on employment and potential regulatory responses.",
-        "date": "2026-05-08",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "policy",
-          "labor",
-          "regulation"
-        ],
-        "fetchedAt": "2026-05-08T12:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "the-people-s-airline-and-the-enterprise-ai-gold-rush",
-        "title": "The “people’s airline” and the enterprise AI gold rush",
-        "summary": "Enterprise AI adoption is accelerating with major investments and partnerships, signaling growing pressure for AI integration across industries.",
-        "date": "2026-05-08",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-ai",
-          "startup-acquisition",
-          "ai-adoption"
-        ],
-        "fetchedAt": "2026-05-08T12:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "trump-pivots-on-ai-regulation-worker-ousted-by-doge-runs-for-office-and-hantavir",
-        "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-        "summary": "The Trump administration considering federal oversight of AI models could slow or shape the adoption of AI in the workplace.",
-        "date": "2026-05-07",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "adoption"
-        ],
-        "fetchedAt": "2026-05-08T12:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-launches-new-voice-intelligence-features-in-its-api",
-        "title": "OpenAI launches new voice intelligence features in its API",
-        "summary": "New voice intelligence features from OpenAI could enhance customer service and other workplace applications, increasing AI's role in various industries.",
-        "date": "2026-05-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "workplace adoption",
-          "customer service"
-        ],
-        "fetchedAt": "2026-05-08T12:00:00.000Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "education-training-and-library"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Running Codex safely at OpenAI.",
-        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Running Codex safely at OpenAI\" (OpenAI), while the clearest drag comes from \"There’s a Long-Shot Proposal to Protect California Workers From AI\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -5.116 minutes. Updated 2026-05-08T12:00:00.000Z, with the macro replacement estimate at 49.5%."
       }
     }
   }
