@@ -1,5 +1,194 @@
 [
   {
+    "date": "2026-08-10",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.287,
+    "macroReplacementRate": 50.158,
+    "newsAdjustment": -15.287,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
+        "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
+        "summary": "Increased AI investment by major financial institutions signals growing confidence in AI's productivity benefits, potentially influencing broader corporate adoption and workforce strategies.",
+        "date": "2026-08-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "corporate investment",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "summary": "Claude Code's default auto mode suggests increased automation in coding, reducing human oversight and potentially shifting software development workflows.",
+        "date": "2026-08-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "coding",
+          "workflow automation"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "third-party-cyber-evaluations-involving-openai-models",
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "summary": "OpenAI's new safeguards for AI model testing indicate progress in improving AI security and reliability, which could influence how AI is adopted across industries.",
+        "date": "2026-08-04",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI security",
+          "model testing",
+          "regulation"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-safety-fears-grow-after-multiple-breaches",
+        "title": "AI Safety Fears Grow After Multiple Breaches",
+        "summary": "Growing AI safety concerns and breaches are prompting calls for stricter regulations, which may slow the adoption of AI in workplaces.",
+        "date": "2026-08-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "cybersecurity"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
+        "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+        "summary": "The New York Times is using AI tools in reporting, signaling increased adoption of AI in media and journalism workflows.",
+        "date": "2026-08-10",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI in media",
+          "workflow transformation",
+          "news production"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "60 min"
+      },
+      {
+        "id": "nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
+        "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+        "summary": "The New York Times is using AI in reporting and legal action against AI companies, showing AI's growing influence in media and journalism workflows.",
+        "date": "2026-08-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-kopit-levien-on-running-a-media-brand-in-ai-age-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "media industry",
+          "legal implications"
+        ],
+        "fetchedAt": "2026-08-10T11:00:50.967Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off.",
+        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off\" (Bloomberg Technology), while the clearest drag comes from \"AI Safety Fears Grow After Multiple Breaches\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.287 minutes. Updated 2026-08-10T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-09",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.202,
@@ -19162,218 +19351,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review.",
         "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"All the latest updates on AI data centers\" (The Verge - AI), while the clearest drag comes from \"ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -5.725 minutes. Updated 2026-05-10T12:00:00.000Z, with the macro replacement estimate at 49.5%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-09",
-    "minutesToMidnight": 7,
-    "exactMinutesToMidnight": 7.392,
-    "macroReplacementRate": 49.488,
-    "newsAdjustment": -5.608,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "china-s-top-economic-planner-urges-stronger-coordination-on-ai",
-        "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
-        "summary": "China's push for stronger coordination in AI development signals increased focus on structured AI adoption, potentially accelerating its integration into various industries.",
-        "date": "2026-05-09",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-top-economic-planner-urges-stronger-coordination-on-ai",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "enterprise-adoption"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
-        "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
-        "summary": "Growth in AI investment is boosting trade and export activity, signaling increased adoption of AI in economic and industrial workflows.",
-        "date": "2026-05-09",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI investment",
-          "economic impact",
-          "trade growth"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-        "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
-        "summary": "ByteDance's significant increase in AI infrastructure spending signals growing investment in AI capabilities, likely driving changes in tech and related industries.",
-        "date": "2026-05-09",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "corporate investment"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "improving-bash-generation-in-small-language-models-with-grammar-constrained-deco",
-        "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
-        "summary": "Improving bash generation in small language models enhances AI's ability to perform complex system tasks, increasing its utility in technical workflows.",
-        "date": "2026-05-08",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "coding"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/person-desk-three-computers-768x432-jpg.webp"
-      },
-      {
-        "id": "playstation-sees-ai-as-a-powerful-tool-to-help-make-games",
-        "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-        "summary": "Sony's adoption of AI in game development signals growing integration of AI in creative and tech industries, influencing workflows and skill requirements.",
-        "date": "2026-05-08",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "game-development",
-          "AI-in-creativity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "arts-and-design",
-          "entertainment-and-sports"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "carlyle-global-research-head-on-ai-s-economic-impact",
-        "title": "Carlyle Global Research Head on AI's Economic Impact",
-        "summary": "A top investment strategist highlights the potential for significant AI-driven productivity gains, signaling growing confidence in AI's economic impact.",
-        "date": "2026-05-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-08/carlyle-global-research-head-on-ai-s-economic-impact-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "productivity",
-          "investment strategy"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-inks-1-8-billion-computing-deal-with-akamai",
-        "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
-        "summary": "A major computing deal between Anthropic and Akamai signals increased AI adoption and infrastructure investment, indicating growing demand for AI capabilities in enterprise settings.",
-        "date": "2026-05-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise AI",
-          "computing deals"
-        ],
-        "fetchedAt": "2026-05-09T11:00:46.649Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -5.608 minutes. Updated 2026-05-09T12:00:00.000Z, with the macro replacement estimate at 49.5%."
       }
     }
   }
