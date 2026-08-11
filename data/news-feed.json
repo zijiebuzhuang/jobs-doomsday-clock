@@ -1,5 +1,201 @@
 [
   {
+    "id": "what-building-an-ai-native-finance-function-taught-me",
+    "title": "What building an AI-native finance function taught me",
+    "summary": "An AI-native finance function demonstrates how AI is being integrated into core business operations, signaling increased adoption and transformation in financial workflows.",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "finance",
+      "workplace transformation"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "putting-frontier-cyber-models-in-more-trusted-hands",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "summary": "Approved partners can now use advanced AI models for secure cybersecurity services, indicating increased adoption of AI in enterprise security workflows.",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "cybersecurity",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas",
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "summary": "OpenAI's letter to Texas Governor Abbott shows AI companies engaging with policymakers, potentially shaping responsible AI adoption and regulatory frameworks.",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "summary": "OpenAI's GPT-5.6-Cyber model, available through Daybreak Red, enhances cybersecurity capabilities and could influence roles in computer and information technology, as well as security-related fields.",
+    "date": "2026-08-10",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "AI tools",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "four-takeaways-from-mark-zuckerberg-s-massive-ai-manifesto",
+    "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+    "summary": "Mark Zuckerberg's AI manifesto outlines Meta's vision for AI development and regulation, signaling increased focus on AI integration and its societal implications.",
+    "date": "2026-08-10",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI policy",
+      "enterprise adoption",
+      "regulation"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+    "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
+    "summary": "Indian banking regulators are pushing lenders to adopt AI faster, signaling increased pressure for AI integration in financial services and related roles.",
+    "date": "2026-08-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI adoption",
+      "financial services"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
+    "title": "Five Takeaways From Zuckerberg's 6,500-word Manifesto on AI",
+    "summary": "Zuckerberg's manifesto highlights the importance of wider AI model access, signaling increased focus on AI adoption and development across industries.",
+    "date": "2026-08-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "industry influence",
+      "AI policy"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-taps-wall-street-for-500-billion-funding-commitment",
+    "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
+    "summary": "Major financial backing for AI infrastructure signals increased investment and acceleration in AI adoption across industries.",
+    "date": "2026-08-10",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "funding",
+      "infrastructure"
+    ],
+    "fetchedAt": "2026-08-11T11:00:45.981Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "third-party-cyber-evaluations-involving-openai-models",
     "title": "Third-party cyber evaluations involving OpenAI models",
     "summary": "OpenAI's new safeguards for AI model testing indicate progress in improving AI security and reliability, which could influence how AI is adopted across industries.",
@@ -14965,178 +15161,5 @@
       "computer-and-information-technology",
       "_all"
     ]
-  },
-  {
-    "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
-    "title": "Meta won’t let you block its AI account on Threads",
-    "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
-    "date": "2026-05-12",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "platform integration",
-      "user experience"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-    "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
-    "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
-    "date": "2026-05-13",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "workplace transformation"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "healthcare",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
-    "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
-    "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
-    "date": "2026-05-13",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise AI",
-      "AI adoption",
-      "cybersecurity"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-    "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
-    "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
-    "date": "2026-05-13",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "energy",
-      "infrastructure",
-      "regulation"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
-    "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
-    "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
-    "date": "2026-05-13",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "investment",
-      "AI adoption",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
-    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-    "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
-    "date": "2026-05-12",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "productivity tools",
-      "enterprise AI",
-      "consumer tech"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
-    "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
-    "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
-    "date": "2026-05-12",
-    "source": "Apple Podcasts - Newcomer Pod",
-    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce transformation",
-      "capitalism",
-      "job displacement"
-    ],
-    "fetchedAt": "2026-05-13T11:00:59.289Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "_all"
-    ],
-    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
-    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
-    "duration": "01:05:26"
   }
 ]

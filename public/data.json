@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:17",
+  "displayTime": "00:02:29",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.287,
+  "exactMinutesToMidnight": -2.484,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.287,
+  "newsAdjustment": -15.484,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.158,
+  "macroReplacementRate": 50.172,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,66 +3448,70 @@
   ],
   "newsFeed": [
     {
-      "id": "jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
-      "title": "JPMorgan Strategists Raise S&P 500 Target as AI Capex Pays Off",
-      "summary": "Increased AI investment by major financial institutions signals growing confidence in AI's productivity benefits, potentially influencing broader corporate adoption and workforce strategies.",
+      "id": "what-building-an-ai-native-finance-function-taught-me",
+      "title": "What building an AI-native finance function taught me",
+      "summary": "An AI-native finance function demonstrates how AI is being integrated into core business operations, signaling increased adoption and transformation in financial workflows.",
       "date": "2026-08-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/jpmorgan-strategists-raise-s-p-500-target-as-ai-capex-pays-off",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "corporate investment",
-        "productivity"
+        "finance",
+        "workplace transformation"
       ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "summary": "Claude Code's default auto mode suggests increased automation in coding, reducing human oversight and potentially shifting software development workflows.",
-      "date": "2026-08-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "id": "putting-frontier-cyber-models-in-more-trusted-hands",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "summary": "Approved partners can now use advanced AI models for secure cybersecurity services, indicating increased adoption of AI in enterprise security workflows.",
+      "date": "2026-08-10",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "coding",
-        "workflow automation"
+        "AI adoption",
+        "cybersecurity",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
-        "computer-and-information-technology"
-      ]
+        "computer-and-information-technology",
+        "protective-service",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "third-party-cyber-evaluations-involving-openai-models",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "summary": "OpenAI's new safeguards for AI model testing indicate progress in improving AI security and reliability, which could influence how AI is adopted across industries.",
-      "date": "2026-08-04",
+      "id": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI's letter to Texas Governor Abbott shows AI companies engaging with policymakers, potentially shaping responsible AI adoption and regulatory frameworks.",
+      "date": "2026-08-10",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "effect": "advance",
+      "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI security",
-        "model testing",
-        "regulation"
+        "policy",
+        "regulation",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
@@ -3519,88 +3523,133 @@
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "ai-safety-fears-grow-after-multiple-breaches",
-      "title": "AI Safety Fears Grow After Multiple Breaches",
-      "summary": "Growing AI safety concerns and breaches are prompting calls for stricter regulations, which may slow the adoption of AI in workplaces.",
+      "id": "expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "OpenAI's GPT-5.6-Cyber model, available through Daybreak Red, enhances cybersecurity capabilities and could influence roles in computer and information technology, as well as security-related fields.",
       "date": "2026-08-10",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "cybersecurity",
+        "AI tools",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+      "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
+      "summary": "Indian banking regulators are pushing lenders to adopt AI faster, signaling increased pressure for AI integration in financial services and related roles.",
+      "date": "2026-08-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/ai-safety-fears-grow-after-multiple-breaches-video",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "safety",
-        "cybersecurity"
+        "AI adoption",
+        "financial services"
       ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "legal",
-        "_all"
+        "management"
       ]
     },
     {
-      "id": "nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
-      "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
-      "summary": "The New York Times is using AI tools in reporting, signaling increased adoption of AI in media and journalism workflows.",
-      "date": "2026-08-10",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI in media",
-        "workflow transformation",
-        "news production"
-      ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "60 min"
-    },
-    {
-      "id": "nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
-      "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
-      "summary": "The New York Times is using AI in reporting and legal action against AI companies, showing AI's growing influence in media and journalism workflows.",
+      "id": "five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
+      "title": "Five Takeaways From Zuckerberg's 6,500-word Manifesto on AI",
+      "summary": "Zuckerberg's manifesto highlights the importance of wider AI model access, signaling increased focus on AI adoption and development across industries.",
       "date": "2026-08-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/nyt-ceo-kopit-levien-on-running-a-media-brand-in-ai-age-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "media industry",
-        "legal implications"
+        "industry influence",
+        "AI policy"
       ],
-      "fetchedAt": "2026-08-10T11:00:50.967Z",
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "media-and-communication",
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
+    },
+    {
+      "id": "nvidia-taps-wall-street-for-500-billion-funding-commitment",
+      "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
+      "summary": "Major financial backing for AI infrastructure signals increased investment and acceleration in AI adoption across industries.",
+      "date": "2026-08-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "funding",
+        "infrastructure"
+      ],
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "four-takeaways-from-mark-zuckerberg-s-massive-ai-manifesto",
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "summary": "Mark Zuckerberg's AI manifesto outlines Meta's vision for AI development and regulation, signaling increased focus on AI integration and its societal implications.",
+      "date": "2026-08-10",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI policy",
+        "enterprise adoption",
+        "regulation"
+      ],
+      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-10T12:00:00.000Z",
+  "generatedAt": "2026-08-11T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances Amid Safety Concerns",
-      "preview": "Positive AI developments face growing regulatory pushback.",
-      "body": "Recent news highlights increased AI investment and automation, with JPMorgan and the New York Times showcasing broader corporate adoption. However, rising safety concerns and breaches are prompting calls for stricter regulations, creating a mixed outlook for AI integration in workplaces."
+      "title": "AI adoption accelerates with regulatory engagement",
+      "preview": "New AI advancements and regulatory dialogue signal growing integration.",
+      "body": "Recent updates show strong momentum in AI adoption, with multiple advances in finance, cybersecurity, and infrastructure. OpenAI's efforts in secure model deployment and India's push for faster AI spending highlight industry-wide transformation. However, regulatory engagement, such as OpenAI's letter to Texas Governor Abbott, suggests a balancing act between innovation and oversight."
     }
   }
 }
