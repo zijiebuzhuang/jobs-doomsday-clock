@@ -1,5 +1,203 @@
 [
   {
+    "id": "chatgpt-and-gemini-both-just-passed-1-billion-users",
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "summary": "The rapid user growth of AI models like ChatGPT and Gemini signals increased adoption and integration of AI tools into everyday use, potentially influencing workplace productivity and skill demands.",
+    "date": "2026-08-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "user growth",
+      "enterprise impact"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "summary": "AI content watermarking introduces regulatory compliance requirements that may shape how AI tools are adopted in professional and public contexts.",
+    "date": "2026-08-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "transparency",
+      "enterprise-ai"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+    "title": "Wintermute Plans $1 Billion AI Investment to Compete on Wall Street",
+    "summary": "A major AI investment by a financial firm signals increased AI adoption in high-frequency trading and traditional financial markets, potentially transforming job roles and skill requirements in finance and tech.",
+    "date": "2026-08-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "financial technology",
+      "high-frequency trading",
+      "AI infrastructure"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-launches-chatgpt-desktop-app-for-linux",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "The release of a dedicated ChatGPT desktop app for Linux expands AI accessibility, potentially increasing productivity and workflow integration across tech and other industries.",
+    "date": "2026-08-11",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-gemini-app-surges-to-1-billion-users",
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "summary": "Google's Gemini app reaching 1 billion users indicates rapid AI adoption and increased usage of AI tools in everyday work and consumer interactions.",
+    "date": "2026-08-11",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "consumer AI",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "chinese-ai-upstart-manus-charts-solo-path-after-meta-split",
+    "title": "Chinese AI Upstart Manus Charts Solo Path After Meta Split",
+    "summary": "A Chinese AI startup's split from Meta highlights regulatory and geopolitical challenges for global expansion of AI companies.",
+    "date": "2026-08-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "global expansion",
+      "AI startups"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "coreweave-shares-soar-after-booming-ai-demand-boosts-outlook",
+    "title": "CoreWeave Shares Soar After Booming AI Demand Boosts Outlook",
+    "summary": "Increased AI demand is driving growth for computing providers, signaling stronger adoption and investment in AI infrastructure.",
+    "date": "2026-08-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "AI adoption",
+      "market trends"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "making-taxes-fun-with-pikachu-and-ai-cadi-zhang",
+    "title": "Making taxes fun with Pikachu and AI | Cadi Zhang",
+    "summary": "AI tools are being used to accelerate game development and virtual world creation, indicating growing adoption of AI in creative and technical workflows.",
+    "date": "2026-08-12",
+    "source": "Apple Podcasts - Possible",
+    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "game development",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-12T11:01:30.631Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "arts-and-design",
+      "construction-and-extraction"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/4e419a74-95d3-11f1-9dcf-837db0d89475/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+    "duration": "35 min"
+  },
+  {
     "id": "what-building-an-ai-native-finance-function-taught-me",
     "title": "What building an AI-native finance function taught me",
     "summary": "An AI-native finance function demonstrates how AI is being integrated into core business operations, signaling increased adoption and transformation in financial workflows.",
@@ -14991,175 +15189,6 @@
     "categories": [
       "computer-and-information-technology",
       "architecture-and-engineering"
-    ]
-  },
-  {
-    "id": "ai-chatbots-are-giving-out-people-s-real-phone-numbers",
-    "title": "AI chatbots are giving out people’s real phone numbers",
-    "summary": "AI chatbots exposing personal contact information highlights privacy and security risks, potentially slowing AI adoption in workplaces.",
-    "date": "2026-05-13",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "privacy",
-      "security",
-      "regulation"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
-    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "summary": "Legal tech startups like Clio are seeing significant adoption, signaling AI and automation are reshaping legal workflows and productivity.",
-    "date": "2026-05-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "legal-tech",
-      "workflow-automation",
-      "productivity"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "legal",
-      "computer-and-information-technology",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
-    "title": "Blackstone’s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
-    "summary": "A major AI-driven tech financing in Southeast Asia signals growing investment in infrastructure that supports AI workloads and adoption.",
-    "date": "2026-05-14",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "data centers"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
-    "title": "DayOne Is Said to Consider Upsizing Funding Round to $4 Billion",
-    "summary": "Increased funding for DayOne Data Centers signals growing investment in AI infrastructure, accelerating AI adoption across industries.",
-    "date": "2026-05-14",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "infrastructure",
-      "funding",
-      "ai-adoption"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-    "title": "Notion just turned its workspace into a hub for AI agents",
-    "summary": "Notion's integration of AI agents into its workspace signals growing adoption of agentic productivity tools, reshaping workflows and skill requirements across multiple industries.",
-    "date": "2026-05-13",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "workflow change",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "office-and-administrative-support"
-    ]
-  },
-  {
-    "id": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-",
-    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "summary": "AI's shift toward proactive capabilities could significantly alter workflows and productivity across multiple industries.",
-    "date": "2026-05-13",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI capabilities",
-      "workflows",
-      "proactive AI"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-courts-a-new-kind-of-customer-small-business-owners",
-    "title": "Anthropic courts a new kind of customer: small business owners",
-    "summary": "Anthropic's expansion into serving small businesses signals increased AI adoption in the broader market, indicating a shift toward more accessible AI tools for non-enterprise users.",
-    "date": "2026-05-13",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI platform expansion",
-      "small business adoption",
-      "user acquisition"
-    ],
-    "fetchedAt": "2026-05-14T11:00:51.731Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
     ]
   }
 ]

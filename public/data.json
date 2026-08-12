@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:29",
+  "displayTime": "00:02:28",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.484,
+  "exactMinutesToMidnight": -2.473,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.484,
+  "newsAdjustment": -15.473,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.172,
+  "macroReplacementRate": 50.171,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,191 +3448,45 @@
   ],
   "newsFeed": [
     {
-      "id": "what-building-an-ai-native-finance-function-taught-me",
-      "title": "What building an AI-native finance function taught me",
-      "summary": "An AI-native finance function demonstrates how AI is being integrated into core business operations, signaling increased adoption and transformation in financial workflows.",
-      "date": "2026-08-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/building-an-ai-native-finance-function",
+      "id": "wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+      "title": "Wintermute Plans $1 Billion AI Investment to Compete on Wall Street",
+      "summary": "A major AI investment by a financial firm signals increased AI adoption in high-frequency trading and traditional financial markets, potentially transforming job roles and skill requirements in finance and tech.",
+      "date": "2026-08-12",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "finance",
-        "workplace transformation"
+        "AI investment",
+        "financial technology",
+        "high-frequency trading",
+        "AI infrastructure"
       ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+      ]
     },
     {
-      "id": "putting-frontier-cyber-models-in-more-trusted-hands",
-      "title": "Putting frontier cyber models in more trusted hands",
-      "summary": "Approved partners can now use advanced AI models for secure cybersecurity services, indicating increased adoption of AI in enterprise security workflows.",
-      "date": "2026-08-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "cybersecurity",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "protective-service",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-texas",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "summary": "OpenAI's letter to Texas Governor Abbott shows AI companies engaging with policymakers, potentially shaping responsible AI adoption and regulatory frameworks.",
-      "date": "2026-08-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary": "OpenAI's GPT-5.6-Cyber model, available through Daybreak Red, enhances cybersecurity capabilities and could influence roles in computer and information technology, as well as security-related fields.",
-      "date": "2026-08-10",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "AI tools",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
-      "title": "India’s Banking Regulator Urges Lenders to Accelerate AI Spend",
-      "summary": "Indian banking regulators are pushing lenders to adopt AI faster, signaling increased pressure for AI integration in financial services and related roles.",
+      "id": "chatgpt-and-gemini-both-just-passed-1-billion-users",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "The rapid user growth of AI models like ChatGPT and Gemini signals increased adoption and integration of AI tools into everyday use, potentially influencing workplace productivity and skill demands.",
       "date": "2026-08-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-banking-regulator-urges-lenders-to-accelerate-ai-spend",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI adoption",
-        "financial services"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
-      "title": "Five Takeaways From Zuckerberg's 6,500-word Manifesto on AI",
-      "summary": "Zuckerberg's manifesto highlights the importance of wider AI model access, signaling increased focus on AI adoption and development across industries.",
-      "date": "2026-08-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "industry influence",
-        "AI policy"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-taps-wall-street-for-500-billion-funding-commitment",
-      "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
-      "summary": "Major financial backing for AI infrastructure signals increased investment and acceleration in AI adoption across industries.",
-      "date": "2026-08-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "funding",
-        "infrastructure"
-      ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "four-takeaways-from-mark-zuckerberg-s-massive-ai-manifesto",
-      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
-      "summary": "Mark Zuckerberg's AI manifesto outlines Meta's vision for AI development and regulation, signaling increased focus on AI integration and its societal implications.",
-      "date": "2026-08-10",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI policy",
-        "enterprise adoption",
-        "regulation"
+        "AI adoption",
+        "user growth",
+        "enterprise impact"
       ],
-      "fetchedAt": "2026-08-11T11:00:45.981Z",
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3641,15 +3495,163 @@
         "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546248/STK169_Mark_Zuckerburg_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-launches-chatgpt-desktop-app-for-linux",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "The release of a dedicated ChatGPT desktop app for Linux expands AI accessibility, potentially increasing productivity and workflow integration across tech and other industries.",
+      "date": "2026-08-11",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "making-taxes-fun-with-pikachu-and-ai-cadi-zhang",
+      "title": "Making taxes fun with Pikachu and AI | Cadi Zhang",
+      "summary": "AI tools are being used to accelerate game development and virtual world creation, indicating growing adoption of AI in creative and technical workflows.",
+      "date": "2026-08-12",
+      "source": "Apple Podcasts - Possible",
+      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "game development",
+        "productivity"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "arts-and-design",
+        "construction-and-extraction"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/4e419a74-95d3-11f1-9dcf-837db0d89475/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+      "duration": "35 min"
+    },
+    {
+      "id": "google-s-gemini-app-surges-to-1-billion-users",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google's Gemini app reaching 1 billion users indicates rapid AI adoption and increased usage of AI tools in everyday work and consumer interactions.",
+      "date": "2026-08-11",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "consumer AI",
+        "productivity"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "chinese-ai-upstart-manus-charts-solo-path-after-meta-split",
+      "title": "Chinese AI Upstart Manus Charts Solo Path After Meta Split",
+      "summary": "A Chinese AI startup's split from Meta highlights regulatory and geopolitical challenges for global expansion of AI companies.",
+      "date": "2026-08-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "global expansion",
+        "AI startups"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "coreweave-shares-soar-after-booming-ai-demand-boosts-outlook",
+      "title": "CoreWeave Shares Soar After Booming AI Demand Boosts Outlook",
+      "summary": "Increased AI demand is driving growth for computing providers, signaling stronger adoption and investment in AI infrastructure.",
+      "date": "2026-08-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "AI adoption",
+        "market trends"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ]
+    },
+    {
+      "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "AI content watermarking introduces regulatory compliance requirements that may shape how AI tools are adopted in professional and public contexts.",
+      "date": "2026-08-11",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "transparency",
+        "enterprise-ai"
+      ],
+      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-11T12:00:00.000Z",
+  "generatedAt": "2026-08-12T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with regulatory engagement",
-      "preview": "New AI advancements and regulatory dialogue signal growing integration.",
-      "body": "Recent updates show strong momentum in AI adoption, with multiple advances in finance, cybersecurity, and infrastructure. OpenAI's efforts in secure model deployment and India's push for faster AI spending highlight industry-wide transformation. However, regulatory engagement, such as OpenAI's letter to Texas Governor Abbott, suggests a balancing act between innovation and oversight."
+      "title": "AI adoption accelerates with major investments and user growth",
+      "preview": "New AI advances and user milestones signal rising integration across industries.",
+      "body": "Recent developments show strong momentum in AI adoption, including a $1 billion investment by Wintermute and user growth for ChatGPT and Gemini. However, regulatory challenges like content watermarking and geopolitical shifts remain concerns. Overall, the trend points to increasing AI influence in finance, tech, and creative fields."
     }
   }
 }

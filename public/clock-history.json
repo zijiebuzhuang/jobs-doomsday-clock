@@ -1,5 +1,245 @@
 [
   {
+    "date": "2026-08-12",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.473,
+    "macroReplacementRate": 50.171,
+    "newsAdjustment": -15.473,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+        "title": "Wintermute Plans $1 Billion AI Investment to Compete on Wall Street",
+        "summary": "A major AI investment by a financial firm signals increased AI adoption in high-frequency trading and traditional financial markets, potentially transforming job roles and skill requirements in finance and tech.",
+        "date": "2026-08-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "financial technology",
+          "high-frequency trading",
+          "AI infrastructure"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "chatgpt-and-gemini-both-just-passed-1-billion-users",
+        "title": "ChatGPT and Gemini both just passed 1 billion users",
+        "summary": "The rapid user growth of AI models like ChatGPT and Gemini signals increased adoption and integration of AI tools into everyday use, potentially influencing workplace productivity and skill demands.",
+        "date": "2026-08-11",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "user growth",
+          "enterprise impact"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-launches-chatgpt-desktop-app-for-linux",
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "summary": "The release of a dedicated ChatGPT desktop app for Linux expands AI accessibility, potentially increasing productivity and workflow integration across tech and other industries.",
+        "date": "2026-08-11",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "productivity tools",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "making-taxes-fun-with-pikachu-and-ai-cadi-zhang",
+        "title": "Making taxes fun with Pikachu and AI | Cadi Zhang",
+        "summary": "AI tools are being used to accelerate game development and virtual world creation, indicating growing adoption of AI in creative and technical workflows.",
+        "date": "2026-08-12",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "game development",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "arts-and-design",
+          "construction-and-extraction"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/4e419a74-95d3-11f1-9dcf-837db0d89475/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
+        "duration": "35 min"
+      },
+      {
+        "id": "google-s-gemini-app-surges-to-1-billion-users",
+        "title": "Google’s Gemini app surges to 1 billion users",
+        "summary": "Google's Gemini app reaching 1 billion users indicates rapid AI adoption and increased usage of AI tools in everyday work and consumer interactions.",
+        "date": "2026-08-11",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "consumer AI",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "chinese-ai-upstart-manus-charts-solo-path-after-meta-split",
+        "title": "Chinese AI Upstart Manus Charts Solo Path After Meta Split",
+        "summary": "A Chinese AI startup's split from Meta highlights regulatory and geopolitical challenges for global expansion of AI companies.",
+        "date": "2026-08-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "global expansion",
+          "AI startups"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "coreweave-shares-soar-after-booming-ai-demand-boosts-outlook",
+        "title": "CoreWeave Shares Soar After Booming AI Demand Boosts Outlook",
+        "summary": "Increased AI demand is driving growth for computing providers, signaling stronger adoption and investment in AI infrastructure.",
+        "date": "2026-08-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "AI adoption",
+          "market trends"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
+        "title": "Claude will apply invisible watermarks to AI text and images",
+        "summary": "AI content watermarking introduces regulatory compliance requirements that may shape how AI tools are adopted in professional and public contexts.",
+        "date": "2026-08-11",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "transparency",
+          "enterprise-ai"
+        ],
+        "fetchedAt": "2026-08-12T11:01:30.631Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Wintermute Plans $1 Billion AI Investment to Compete on Wall Street.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Wintermute Plans $1 Billion AI Investment to Compete on Wall Street\" (Bloomberg Technology), while the clearest drag comes from \"Claude will apply invisible watermarks to AI text and images\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.473 minutes. Updated 2026-08-12T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-11",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.484,
@@ -19187,217 +19427,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Why AI Matters More Than Iran War in Markets.",
         "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why AI Matters More Than Iran War in Markets\" (Bloomberg Technology), while the clearest drag comes from \"Australia Watchdog Says Money Launderers Ramping Up AI for Scams\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -6.252 minutes. Updated 2026-05-12T12:00:00.000Z, with the macro replacement estimate at 49.5%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-11",
-    "minutesToMidnight": 7,
-    "exactMinutesToMidnight": 6.84,
-    "macroReplacementRate": 49.526,
-    "newsAdjustment": -6.16,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "openai-campus-network-student-club-interest-form",
-        "title": "OpenAI Campus Network: Student club interest form",
-        "summary": "OpenAI's Campus Network initiative promotes AI adoption among students, fostering future AI literacy and workforce readiness.",
-        "date": "2026-05-11",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "education",
-          "AI adoption",
-          "student engagement"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "education-training-and-library",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "a-400-ai-bet-that-s-actually-a-high-stakes-wager-on-the-future-of-work",
-        "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
-        "summary": "Two economists debate the speed of AI's impact on the US job market, highlighting ongoing uncertainty about its future effects on work.",
-        "date": "2026-05-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "economic-impact",
-          "workforce-transformation",
-          "policy-discussion"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "behind-the-claude-frenzy-that-ate-up-all-the-mac-minis",
-        "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
-        "summary": "The surge in demand for Apple Mac Minis highlights growing AI adoption in professional and personal workflows, indicating increased use of AI tools across industries.",
-        "date": "2026-05-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce tools",
-          "AI infrastructure"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "healthcare",
-          "_all"
-        ]
-      },
-      {
-        "id": "jpmorgan-says-equities-at-all-time-highs-make-sense-",
-        "title": "JPMorgan Says Equities at All-Time Highs 'Make Sense'",
-        "summary": "JPMorgan's focus on AI investment and equity market trends indicates growing integration of AI in financial services and investment strategies.",
-        "date": "2026-05-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-11/jpmorgan-says-equities-at-all-time-highs-make-sense-video",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI investment",
-          "financial services",
-          "equity markets"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
-        "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
-        "summary": "Alphabet's yen bond sale indicates increased financial commitment to AI, signaling growing investment in AI capabilities as competition intensifies.",
-        "date": "2026-05-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/alphabet-plans-debut-yen-bond-sale-as-ai-race-accelerates",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI investment",
-          "enterprise adoption",
-          "funding"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "goldman-sees-ai-driven-super-surplus-swelling-in-korea-taiwan",
-        "title": "Goldman Sees ‘AI-Driven Super Surplus’ Swelling in Korea, Taiwan",
-        "summary": "AI-driven chip booms in South Korea and Taiwan are boosting economic surpluses and may lead to higher interest rates, signaling increased AI adoption and economic pressure.",
-        "date": "2026-05-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-11/goldman-sees-rates-pressure-as-ai-fuels-k-shaped-korea-taiwan",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "economic impact",
-          "chip industry"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "is-china-winning-the-a-i-race-",
-        "title": "Is China Winning the A.I. Race?",
-        "summary": "The article highlights the geopolitical competition between China and the U.S. in AI, signaling increased global focus and investment in AI capabilities that may affect workplace adoption and labor dynamics.",
-        "date": "2026-05-11",
-        "source": "Apple Podcasts - The Daily",
-        "sourceUrl": "https://www.nytimes.com/the-daily",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "geopolitics",
-          "AI competition",
-          "global adoption"
-        ],
-        "fetchedAt": "2026-05-11T11:01:02.160Z",
-        "sourceGroup": "business",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/fa402bf8-8030-49ac-b900-c0119ea22cb1/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=fa402bf8-8030-49ac-b900-c0119ea22cb1&feed=Sl5CSM3S",
-        "duration": "00:29:41"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Behind the Claude Frenzy That Ate Up All the Mac Minis.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Behind the Claude Frenzy That Ate Up All the Mac Minis\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -6.160 minutes. Updated 2026-05-11T12:00:00.000Z, with the macro replacement estimate at 49.5%."
       }
     }
   }
