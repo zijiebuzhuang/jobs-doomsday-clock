@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:28",
+  "displayTime": "00:02:23",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.473,
+  "exactMinutesToMidnight": -2.377,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.473,
+  "newsAdjustment": -15.377,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.171,
+  "macroReplacementRate": 50.165,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,210 +3448,206 @@
   ],
   "newsFeed": [
     {
-      "id": "wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
-      "title": "Wintermute Plans $1 Billion AI Investment to Compete on Wall Street",
-      "summary": "A major AI investment by a financial firm signals increased AI adoption in high-frequency trading and traditional financial markets, potentially transforming job roles and skill requirements in finance and tech.",
+      "id": "from-assistance-to-execution-how-enterprises-put-ai-to-work",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "Enterprises are increasingly adopting agentic AI, indicating faster AI integration into work processes and potential shifts in job roles and skills.",
       "date": "2026-08-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/wintermute-plans-1-billion-ai-investment-to-compete-on-wall-street",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "financial technology",
-        "high-frequency trading",
-        "AI infrastructure"
+        "enterprise-adoption",
+        "agentic-ai",
+        "workplace-transformation"
       ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "anthropic-said-in-talks-to-buy-startup-decart-for-6-billion",
+      "title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+      "summary": "Anthropic's potential $6B acquisition of Decart AI signals increased consolidation and investment in AI capabilities, accelerating adoption and workforce demand for AI expertise.",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "acquisition",
+        "AI adoption",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "chatgpt-and-gemini-both-just-passed-1-billion-users",
-      "title": "ChatGPT and Gemini both just passed 1 billion users",
-      "summary": "The rapid user growth of AI models like ChatGPT and Gemini signals increased adoption and integration of AI tools into everyday use, potentially influencing workplace productivity and skill demands.",
-      "date": "2026-08-11",
+      "id": "grok-is-now-an-ai-teammate-you-can-assign-work",
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "summary": "Grok Bot represents a significant advancement in AI-driven workplace automation, enabling AI agents to perform complex, multi-step tasks independently.",
+      "date": "2026-08-12",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "user growth",
-        "enterprise impact"
+        "AI teammates",
+        "workplace automation",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "management",
-        "_all"
+        "office-and-administrative-support"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-launches-chatgpt-desktop-app-for-linux",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary": "The release of a dedicated ChatGPT desktop app for Linux expands AI accessibility, potentially increasing productivity and workflow integration across tech and other industries.",
-      "date": "2026-08-11",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity tools",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "making-taxes-fun-with-pikachu-and-ai-cadi-zhang",
-      "title": "Making taxes fun with Pikachu and AI | Cadi Zhang",
-      "summary": "AI tools are being used to accelerate game development and virtual world creation, indicating growing adoption of AI in creative and technical workflows.",
+      "id": "some-claude-users-are-mad-that-anthropic-s-new-watermarks-will-catch-them-using-",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Watermarking in AI tools may lead to stricter workplace policies and reduced adoption of AI in professional settings.",
       "date": "2026-08-12",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "game development",
-        "productivity"
-      ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "arts-and-design",
-        "construction-and-extraction"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/4e419a74-95d3-11f1-9dcf-837db0d89475/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3570079669.mp3",
-      "duration": "35 min"
-    },
-    {
-      "id": "google-s-gemini-app-surges-to-1-billion-users",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "summary": "Google's Gemini app reaching 1 billion users indicates rapid AI adoption and increased usage of AI tools in everyday work and consumer interactions.",
-      "date": "2026-08-11",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "effect": "advance",
-      "impactScore": 4,
+      "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "consumer AI",
-        "productivity"
+        "regulation",
+        "workplace-adoption",
+        "AI-ethics"
       ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "education-training-and-library",
         "_all"
       ]
     },
     {
-      "id": "chinese-ai-upstart-manus-charts-solo-path-after-meta-split",
-      "title": "Chinese AI Upstart Manus Charts Solo Path After Meta Split",
-      "summary": "A Chinese AI startup's split from Meta highlights regulatory and geopolitical challenges for global expansion of AI companies.",
-      "date": "2026-08-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal",
-      "effect": "delay",
+      "id": "guitar-company-d-addario-admits-that-ai-music-was-used-in-a-promotional-video",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "summary": "A music company's admission that AI was used in a promotional video highlights the growing integration of AI in creative industries and raises questions about transparency and labor practices.",
+      "date": "2026-08-12",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "global expansion",
-        "AI startups"
-      ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "coreweave-shares-soar-after-booming-ai-demand-boosts-outlook",
-      "title": "CoreWeave Shares Soar After Booming AI Demand Boosts Outlook",
-      "summary": "Increased AI demand is driving growth for computing providers, signaling stronger adoption and investment in AI infrastructure.",
-      "date": "2026-08-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
         "AI adoption",
-        "market trends"
+        "creative industries",
+        "transparency"
       ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images",
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "summary": "AI content watermarking introduces regulatory compliance requirements that may shape how AI tools are adopted in professional and public contexts.",
-      "date": "2026-08-11",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "transparency",
-        "enterprise-ai"
-      ],
-      "fetchedAt": "2026-08-12T11:01:30.631Z",
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "computer-and-information-technology",
-        "legal",
+        "arts-and-design",
+        "media-and-communication",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "oracle-plans-more-layoffs-as-ai-spending-surges-is-the-ai-jobs-apocalypse-finall",
+      "title": "Oracle plans more layoffs as AI spending surges. Is the AI jobs apocalypse finally here?",
+      "summary": "Oracle's AI spending surge and planned layoffs signal increased pressure on jobs due to AI adoption in enterprise environments.",
+      "date": "2026-08-12",
+      "source": "The Economic Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNREZWQkdDbVl2MjVqZWt1bXp5SlJEQjg0bHBTeHp6WHVMSWVyWFlRNmVGa0xrS01hb1kzTmd0MmZpa2hScFF6X21xT1Iyal9CbjJtaEFHQ3BmSTRBSGRLaVR3S3JMTU40WHhpZkVIVkFWQl8tNDdoLWR1VGFqWFpKTVBrRXlrZThZSUU5ZzBLM1Y4NnVSVVk1Xy1ZVlk1OHFNNUJUQ2ljWUNTOEZodzhZZ3FXUjQtZG1ocE0wc3RZalY0eTlMTnUtNXA1RUhXdzFBU2RremFFSHl0b0xGN0ZTMk8xTEJpWVY0c3kyN1BYRnU1azNEejl3SDdKVG5EdlpsSVRR0gGIAkFVX3lxTE8zMG1WY0JVbmJPUjloRlF2WDZHc3g3UnpVek5obHFNMjU4bHpPQkhaNC1aOFd4OHBlLWhaUm1kZUNjcTJMTHVpVkN4X3ZNOXdXRzZtdW9UdUpxWjhsbDYwVHF1VlktS1pya25RNXowQUZaUllKam11VTIxd0ppQU1CeUZxeDc1eW9jUnlIcDFhMk9pOVlKNFV0WlpWQlh1aElYYy14aGJkT0k1S3dFR1B1RzNURmhWdEhScjNRcW1RbnZaS0tpeTlwZzA4WW1CbG1EY0dGRzBYOGwwRk1sYmhVRFRXX08zbXhXbzdWRThJUVNqdnZhRFFTM3FFckdCSTlMWFA3RGw4SQ?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce impact",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-eyes-6-billion-offer-for-ai-startup-decart",
+      "title": "Anthropic Eyes $6 Billion Offer For AI Startup Decart",
+      "summary": "Anthropic's potential $6 billion acquisition of Decart signals increased investment in AI capabilities, particularly in improving AI training efficiency and accelerating development.",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-13/anthropic-eyes-6-billion-offer-for-ai-startup-decart-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "acquisition",
+        "AI development",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "can-india-meet-ai-s-power-demands-emerging",
+      "title": "Can India Meet AI’s Power Demands? | Emerging",
+      "summary": "AI's growing power demands could strain India's energy infrastructure, potentially slowing AI adoption and affecting industries reliant on stable electricity.",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-13/can-india-meet-ai-s-power-demands-emerging-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "energy",
+        "infrastructure",
+        "regulation"
+      ],
+      "fetchedAt": "2026-08-13T11:00:54.616Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "construction-and-extraction",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-08-12T12:00:00.000Z",
+  "generatedAt": "2026-08-13T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with major investments and user growth",
-      "preview": "New AI advances and user milestones signal rising integration across industries.",
-      "body": "Recent developments show strong momentum in AI adoption, including a $1 billion investment by Wintermute and user growth for ChatGPT and Gemini. However, regulatory challenges like content watermarking and geopolitical shifts remain concerns. Overall, the trend points to increasing AI influence in finance, tech, and creative fields."
+      "title": "AI adoption accelerates with enterprise integration and consolidation",
+      "preview": "Positive momentum in AI integration, but some adoption barriers persist.",
+      "body": "Recent signals show strong progress in AI deployment across enterprises, with notable acquisitions and advanced AI tools. However, challenges like AI watermarking and energy constraints may slow broader adoption. Overall, the trend leans toward increased AI influence in the workforce."
     }
   }
 }
