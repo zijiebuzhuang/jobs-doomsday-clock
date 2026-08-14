@@ -1,5 +1,214 @@
 [
   {
+    "date": "2026-08-14",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.534,
+    "macroReplacementRate": 50.175,
+    "newsAdjustment": -15.534,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+        "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
+        "summary": "India's labor market may face less AI-driven job disruption compared to other countries, according to Goldman Sachs.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "geographic-impact",
+          "labor-market",
+          "policy"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "hong-kong-raises-growth-outlook-as-global-ai-demand-boosts-trade",
+        "title": "Hong Kong Raises Growth Outlook as Global AI Demand Boosts Trade",
+        "summary": "Increased global AI investment is boosting Hong Kong's trade and economic growth, signaling AI's growing influence on business and productivity.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/hong-kong-lifts-economic-forecast-as-ai-boom-turbocharges-growth",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "economic impact",
+          "global investment"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "suno-is-trying-to-look-more-like-a-real-music-production-tool",
+        "title": "Suno is trying to look more like a real music production tool",
+        "summary": "Suno's Studio 2.0 upgrades, including MIDI support, signal AI tools becoming more integrated into professional music production workflows.",
+        "date": "2026-08-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow changes",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "arts-and-design",
+          "computer-and-information-technology",
+          "media-and-communication"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-sp",
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "summary": "A faster version of GPT-5.6 could improve enterprise productivity and AI adoption in work processes.",
+        "date": "2026-08-13",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI performance",
+          "enterprise adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot",
+        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+        "summary": "Microsoft is repositioning its AI avatar Mico to a learning platform, signaling ongoing evolution in how AI interfaces are integrated into work and training environments.",
+        "date": "2026-08-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI interface",
+          "workplace adoption",
+          "AI tools"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "z-ai-to-rival-anthropic-openai-in-coding-with-new-ai-model",
+        "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
+        "summary": "A new AI model from Z.ai could increase competition in coding tools, potentially influencing software development and tech workflows.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI models",
+          "coding",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "kushner-s-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets",
+        "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
+        "summary": "A significant increase in a venture capital fund focused on AI and tech startups signals growing investment and potential acceleration in AI-driven innovation and workplace transformation.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "venture-capital",
+          "ai-adoption",
+          "investment"
+        ],
+        "fetchedAt": "2026-08-14T11:00:49.922Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Suno is trying to look more like a real music production tool.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Suno is trying to look more like a real music production tool\" (The Verge - AI), while the clearest drag comes from \"India Less Exposed to AI Job Risks Than Others, Goldman Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.534 minutes. Updated 2026-08-14T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-13",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.377,
@@ -19237,221 +19446,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Clio’s $500M milestone arrives just as Anthropic ups the ante.",
         "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Clio’s $500M milestone arrives just as Anthropic ups the ante\" (TechCrunch - AI), while the clearest drag comes from \"AI chatbots are giving out people’s real phone numbers\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -6.983 minutes. Updated 2026-05-14T12:00:00.000Z, with the macro replacement estimate at 49.6%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-13",
-    "minutesToMidnight": 6,
-    "exactMinutesToMidnight": 6.372,
-    "macroReplacementRate": 49.559,
-    "newsAdjustment": -6.628,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-        "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
-        "summary": "Ant Group's increased AI investment highlights growing adoption of AI in financial and healthcare services, signaling broader workplace transformation.",
-        "date": "2026-05-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "enterprise AI",
-          "workplace transformation"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "healthcare",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "japan-megabanks-set-to-win-mythos-access-after-bessent-visit",
-        "title": "Japan Megabanks Set to Win Mythos Access After Bessent Visit",
-        "summary": "Japanese megabanks gaining access to Anthropic's AI model signals increased adoption of advanced AI in financial services and cybersecurity.",
-        "date": "2026-05-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/japan-s-megabanks-set-to-win-mythos-access-after-bessent-visit",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise AI",
-          "AI adoption",
-          "cybersecurity"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-        "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
-        "summary": "The energy demands of AI are causing power shortages and increased costs in Lake Tahoe, highlighting infrastructure and regulatory challenges that could slow AI adoption.",
-        "date": "2026-05-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "energy",
-          "infrastructure",
-          "regulation"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "softbank-profit-jumps-emboldens-masa-son-to-bet-more-on-openai",
-        "title": "SoftBank Profit Jumps, Emboldens Masa Son to Bet More on OpenAI",
-        "summary": "SoftBank's increased investment in OpenAI signals growing confidence in AI's potential, likely accelerating AI adoption across industries.",
-        "date": "2026-05-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "investment",
-          "AI adoption",
-          "enterprise AI"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "meta-won-t-let-you-block-its-ai-account-on-threads",
-        "title": "Meta won’t let you block its AI account on Threads",
-        "summary": "Meta's unblockable AI account on Threads shows increasing integration of AI into social media workflows, affecting user interaction and platform dynamics.",
-        "date": "2026-05-12",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "platform integration",
-          "user experience"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w",
-        "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-        "summary": "Google's new AI features and devices signal increased integration of AI into everyday computing and mobile workflows, potentially boosting productivity and reshaping tech-related job requirements.",
-        "date": "2026-05-12",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "productivity tools",
-          "enterprise AI",
-          "consumer tech"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "vinod-khosla-on-the-end-of-jobs-and-the-future-of-capitalism",
-        "title": "Vinod Khosla on the End of Jobs and the Future of Capitalism",
-        "summary": "A prominent venture capitalist discusses how AI could eliminate traditional jobs and reshape capitalism, signaling growing concern about AI's transformative impact on work and labor structures.",
-        "date": "2026-05-12",
-        "source": "Apple Podcasts - Newcomer Pod",
-        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Vinod-Khosla-on-the-End-of-Jobs-and-the-Future-of-Capitalism-e3j957g",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce transformation",
-          "capitalism",
-          "job displacement"
-        ],
-        "fetchedAt": "2026-05-13T11:00:59.289Z",
-        "sourceGroup": "business",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "_all"
-        ],
-        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1778608366506-ee7b53d4c5d59.jpg",
-        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/119886512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-12%2F424019909-44100-2-51339e34d2193.mp3",
-        "duration": "01:05:26"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Japan Megabanks Set to Win Mythos Access After Bessent Visit.",
-        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Japan Megabanks Set to Win Mythos Access After Bessent Visit\" (Bloomberg Technology), while the clearest drag comes from \"Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -6.628 minutes. Updated 2026-05-13T12:00:00.000Z, with the macro replacement estimate at 49.6%."
       }
     }
   }

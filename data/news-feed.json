@@ -1,5 +1,172 @@
 [
   {
+    "id": "suno-is-trying-to-look-more-like-a-real-music-production-tool",
+    "title": "Suno is trying to look more like a real music production tool",
+    "summary": "Suno's Studio 2.0 upgrades, including MIDI support, signal AI tools becoming more integrated into professional music production workflows.",
+    "date": "2026-08-13",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow changes",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "arts-and-design",
+      "computer-and-information-technology",
+      "media-and-communication"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot",
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "summary": "Microsoft is repositioning its AI avatar Mico to a learning platform, signaling ongoing evolution in how AI interfaces are integrated into work and training environments.",
+    "date": "2026-08-13",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI interface",
+      "workplace adoption",
+      "AI tools"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+    "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
+    "summary": "India's labor market may face less AI-driven job disruption compared to other countries, according to Goldman Sachs.",
+    "date": "2026-08-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "geographic-impact",
+      "labor-market",
+      "policy"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "hong-kong-raises-growth-outlook-as-global-ai-demand-boosts-trade",
+    "title": "Hong Kong Raises Growth Outlook as Global AI Demand Boosts Trade",
+    "summary": "Increased global AI investment is boosting Hong Kong's trade and economic growth, signaling AI's growing influence on business and productivity.",
+    "date": "2026-08-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/hong-kong-lifts-economic-forecast-as-ai-boom-turbocharges-growth",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "economic impact",
+      "global investment"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "z-ai-to-rival-anthropic-openai-in-coding-with-new-ai-model",
+    "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
+    "summary": "A new AI model from Z.ai could increase competition in coding tools, potentially influencing software development and tech workflows.",
+    "date": "2026-08-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI models",
+      "coding",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "kushner-s-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets",
+    "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
+    "summary": "A significant increase in a venture capital fund focused on AI and tech startups signals growing investment and potential acceleration in AI-driven innovation and workplace transformation.",
+    "date": "2026-08-14",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "venture-capital",
+      "ai-adoption",
+      "investment"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-sp",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "A faster version of GPT-5.6 could improve enterprise productivity and AI adoption in work processes.",
+    "date": "2026-08-13",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI performance",
+      "enterprise adoption",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-14T11:00:49.922Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "from-assistance-to-execution-how-enterprises-put-ai-to-work",
     "title": "From assistance to execution: How enterprises put AI to work",
     "summary": "Enterprises are increasingly adopting agentic AI, indicating faster AI integration into work processes and potential shifts in job roles and skills.",
@@ -15047,175 +15214,5 @@
     "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
     "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/4ab754b9-70ba-4ccb-9542-e596224f3a9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=4ab754b9-70ba-4ccb-9542-e596224f3a9f&feed=6HKOhNgS",
     "duration": "01:07:46"
-  },
-  {
-    "id": "openai-and-malta-partner-to-bring-chatgpt-plus-to-all-citizens",
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "summary": "Expanding access to AI tools and training in Malta signals increased AI adoption and skill development, potentially influencing workforce readiness and productivity across multiple industries.",
-    "date": "2026-05-16",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce training",
-      "AI accessibility"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-    "summary": "OpenAI's reorganization and focus on AI agents signals a major push toward AI-driven workflows and product development, increasing pressure on tech and related industries to adapt.",
-    "date": "2026-05-15",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "product strategy",
-      "workforce impact"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "openai-now-wants-chatgpt-to-access-your-bank-accounts",
-    "title": "OpenAI now wants ChatGPT to access your bank accounts",
-    "summary": "OpenAI's integration of ChatGPT with banking data signals increased AI adoption in financial services and related industries, enhancing productivity and workflow capabilities.",
-    "date": "2026-05-15",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "financial technology",
-      "data access"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "legal"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ChatGPT-financial-accounts.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "google-updates-its-spam-rules-to-include-attempts-to-manipulate-ai",
-    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-    "summary": "Google's updated spam policy to block AI manipulation attempts introduces regulatory friction that may shape how AI is used in search and content creation.",
-    "date": "2026-05-15",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "AI ethics",
-      "search"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "summary": "OpenAI's ChatGPT integration with personal finance tools signals AI's growing role in financial management and productivity, affecting work in finance and tech sectors.",
-    "date": "2026-05-15",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "financial technology",
-      "productivity tools"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "office-and-administrative-support"
-    ]
-  },
-  {
-    "id": "trump-discussed-nvidia-chips-with-xi-jinping-bloomberg-tech-5-15-2026",
-    "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
-    "summary": "Discussion of AI chip technology between political leaders signals growing importance of advanced AI hardware in global tech strategy.",
-    "date": "2026-05-15",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI hardware",
-      "policy",
-      "global tech"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn-t-be-the-fir",
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "summary": "Legal disputes between AI companies and tech giants may slow down AI integration in workplaces and affect collaboration between AI developers and enterprise partners.",
-    "date": "2026-05-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "legal",
-      "enterprise adoption",
-      "AI partnerships"
-    ],
-    "fetchedAt": "2026-05-16T11:00:43.507Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
   }
 ]
