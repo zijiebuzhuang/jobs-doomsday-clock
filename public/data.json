@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:32",
+  "displayTime": "00:02:44",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.534,
+  "exactMinutesToMidnight": -2.732,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.534,
+  "newsAdjustment": -15.732,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.175,
+  "macroReplacementRate": 50.189,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,92 +3448,21 @@
   ],
   "newsFeed": [
     {
-      "id": "india-less-exposed-to-ai-job-risks-than-others-goldman-says",
-      "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
-      "summary": "India's labor market may face less AI-driven job disruption compared to other countries, according to Goldman Sachs.",
+      "id": "ai-companies-work-for-better-data-not-better-models",
+      "title": "AI Companies Work for Better Data, Not Better Models",
+      "summary": "AI companies are focusing on improving data efficiency rather than just model performance, signaling a shift in how AI capabilities are being developed and applied.",
       "date": "2026-08-14",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "geographic-impact",
-        "labor-market",
-        "policy"
-      ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "hong-kong-raises-growth-outlook-as-global-ai-demand-boosts-trade",
-      "title": "Hong Kong Raises Growth Outlook as Global AI Demand Boosts Trade",
-      "summary": "Increased global AI investment is boosting Hong Kong's trade and economic growth, signaling AI's growing influence on business and productivity.",
-      "date": "2026-08-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/hong-kong-lifts-economic-forecast-as-ai-boom-turbocharges-growth",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "economic impact",
-        "global investment"
-      ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "suno-is-trying-to-look-more-like-a-real-music-production-tool",
-      "title": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno's Studio 2.0 upgrades, including MIDI support, signal AI tools becoming more integrated into professional music production workflows.",
-      "date": "2026-08-13",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "workflow changes",
-        "productivity"
-      ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "arts-and-design",
-        "computer-and-information-technology",
-        "media-and-communication"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-sp",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "A faster version of GPT-5.6 could improve enterprise productivity and AI adoption in work processes.",
-      "date": "2026-08-13",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI performance",
         "enterprise adoption",
-        "productivity"
+        "AI development",
+        "business strategy"
       ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-08-15T11:00:46.997Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3543,84 +3472,84 @@
       ]
     },
     {
-      "id": "microsoft-s-clippy-like-mico-character-is-no-longer-the-face-of-copilot",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Microsoft is repositioning its AI avatar Mico to a learning platform, signaling ongoing evolution in how AI interfaces are integrated into work and training environments.",
-      "date": "2026-08-13",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI interface",
-        "workplace adoption",
-        "AI tools"
-      ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "education-training-and-library",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "z-ai-to-rival-anthropic-openai-in-coding-with-new-ai-model",
-      "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
-      "summary": "A new AI model from Z.ai could increase competition in coding tools, potentially influencing software development and tech workflows.",
+      "id": "beyond-chatbots-the-next-wave-of-ai",
+      "title": "Beyond Chatbots: The Next Wave of AI",
+      "summary": "A new AI-focused venture firm with significant funding and expertise signals growing investment in AI-driven innovation, particularly in work-related areas like robotics and infrastructure.",
       "date": "2026-08-14",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI models",
-        "coding",
+        "AI investment",
+        "venture capital",
+        "workplace innovation"
+      ],
+      "fetchedAt": "2026-08-15T11:00:46.997Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "production"
+      ]
+    },
+    {
+      "id": "openai-s-explosive-growth-continues-bloomberg-tech-8-14-2026",
+      "title": "OpenAI’s Explosive Growth Continues | Bloomberg Tech 8/14/2026",
+      "summary": "OpenAI's rapid revenue growth signals strong AI adoption and investment, indicating increased pressure on industries to integrate AI capabilities.",
+      "date": "2026-08-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI company growth",
+        "revenue milestone",
+        "workplace AI adoption"
+      ],
+      "fetchedAt": "2026-08-15T11:00:46.997Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "Competition among AI companies and the emergence of Chinese rivals are pushing AI model pricing down, accelerating adoption and affecting workplace dynamics.",
+      "date": "2026-08-14",
+      "source": "Ars Technica - AI",
+      "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI competition",
+        "pricing strategy",
         "enterprise adoption"
       ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-08-15T11:00:46.997Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "kushner-s-thrive-fund-grows-sevenfold-to-3-7-billion-on-ai-bets",
-      "title": "Kushner’s Thrive Fund Grows Sevenfold to $3.7 Billion on AI Bets",
-      "summary": "A significant increase in a venture capital fund focused on AI and tech startups signals growing investment and potential acceleration in AI-driven innovation and workplace transformation.",
-      "date": "2026-08-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "venture-capital",
-        "ai-adoption",
-        "investment"
-      ],
-      "fetchedAt": "2026-08-14T11:00:49.922Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-08-14T12:00:00.000Z",
+  "generatedAt": "2026-08-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Dynamics Shift as Global Markets Adapt",
-      "preview": "India's lower AI risk profile contrasts with Hong Kong's growth surge.",
-      "body": "Today's signals show mixed effects, with some regions and sectors experiencing delays while others see advances. Goldman Sachs highlights India's relatively lower exposure to AI job risks, while Hong Kong benefits from increased global AI demand. New tools like Suno's Studio 2.0 and OpenAI's Ultrafast mode signal growing integration of AI into professional workflows, reinforcing the pace of change in work environments."
+      "title": "AI Development Shifts Toward Data and Competition",
+      "preview": "New developments highlight growing AI investment and competitive pressures.",
+      "body": "Recent reports show AI companies focusing on data efficiency and expanding into new areas like robotics. OpenAI and Anthropic are in a pricing battle, while Chinese competitors gain ground. These trends suggest continued momentum in AI adoption and workplace transformation."
     }
   }
 }

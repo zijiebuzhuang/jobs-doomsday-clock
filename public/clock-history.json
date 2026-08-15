@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-08-15",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.732,
+    "macroReplacementRate": 50.189,
+    "newsAdjustment": -15.732,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "ai-companies-work-for-better-data-not-better-models",
+        "title": "AI Companies Work for Better Data, Not Better Models",
+        "summary": "AI companies are focusing on improving data efficiency rather than just model performance, signaling a shift in how AI capabilities are being developed and applied.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "enterprise adoption",
+          "AI development",
+          "business strategy"
+        ],
+        "fetchedAt": "2026-08-15T11:00:46.997Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "beyond-chatbots-the-next-wave-of-ai",
+        "title": "Beyond Chatbots: The Next Wave of AI",
+        "summary": "A new AI-focused venture firm with significant funding and expertise signals growing investment in AI-driven innovation, particularly in work-related areas like robotics and infrastructure.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "venture capital",
+          "workplace innovation"
+        ],
+        "fetchedAt": "2026-08-15T11:00:46.997Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "production"
+        ]
+      },
+      {
+        "id": "openai-s-explosive-growth-continues-bloomberg-tech-8-14-2026",
+        "title": "OpenAI’s Explosive Growth Continues | Bloomberg Tech 8/14/2026",
+        "summary": "OpenAI's rapid revenue growth signals strong AI adoption and investment, indicating increased pressure on industries to integrate AI capabilities.",
+        "date": "2026-08-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI company growth",
+          "revenue milestone",
+          "workplace AI adoption"
+        ],
+        "fetchedAt": "2026-08-15T11:00:46.997Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "summary": "Competition among AI companies and the emergence of Chinese rivals are pushing AI model pricing down, accelerating adoption and affecting workplace dynamics.",
+        "date": "2026-08-14",
+        "source": "Ars Technica - AI",
+        "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI competition",
+          "pricing strategy",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-15T11:00:46.997Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Beyond Chatbots: The Next Wave of AI.",
+        "body": "This update leans forward, with 4 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Beyond Chatbots: The Next Wave of AI\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -15.732 minutes. Updated 2026-08-15T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-14",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.534,
@@ -19235,217 +19373,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Mira Murati Wants Her AI to ‘Keep Humans in the Loop’.",
         "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Mira Murati Wants Her AI to ‘Keep Humans in the Loop’\" (Wired), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -7.562 minutes. Updated 2026-05-15T12:00:00.000Z, with the macro replacement estimate at 49.6%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-14",
-    "minutesToMidnight": 6,
-    "exactMinutesToMidnight": 6.017,
-    "macroReplacementRate": 49.583,
-    "newsAdjustment": -6.983,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "clio-s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
-        "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-        "summary": "Legal tech startups like Clio are seeing significant adoption, signaling AI and automation are reshaping legal workflows and productivity.",
-        "date": "2026-05-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "legal-tech",
-          "workflow-automation",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "legal",
-          "computer-and-information-technology",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
-        "title": "Blackstone’s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
-        "summary": "A major AI-driven tech financing in Southeast Asia signals growing investment in infrastructure that supports AI workloads and adoption.",
-        "date": "2026-05-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "data centers"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
-        "title": "DayOne Is Said to Consider Upsizing Funding Round to $4 Billion",
-        "summary": "Increased funding for DayOne Data Centers signals growing investment in AI infrastructure, accelerating AI adoption across industries.",
-        "date": "2026-05-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-14/dayone-is-said-to-consider-upsizing-funding-round-to-4-billion",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "infrastructure",
-          "funding",
-          "ai-adoption"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-chatbots-are-giving-out-people-s-real-phone-numbers",
-        "title": "AI chatbots are giving out people’s real phone numbers",
-        "summary": "AI chatbots exposing personal contact information highlights privacy and security risks, potentially slowing AI adoption in workplaces.",
-        "date": "2026-05-13",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "privacy",
-          "security",
-          "regulation"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "notion-just-turned-its-workspace-into-a-hub-for-ai-agents",
-        "title": "Notion just turned its workspace into a hub for AI agents",
-        "summary": "Notion's integration of AI agents into its workspace signals growing adoption of agentic productivity tools, reshaping workflows and skill requirements across multiple industries.",
-        "date": "2026-05-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflow change",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "office-and-administrative-support"
-        ]
-      },
-      {
-        "id": "anthropic-s-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-",
-        "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-        "summary": "AI's shift toward proactive capabilities could significantly alter workflows and productivity across multiple industries.",
-        "date": "2026-05-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI capabilities",
-          "workflows",
-          "proactive AI"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-courts-a-new-kind-of-customer-small-business-owners",
-        "title": "Anthropic courts a new kind of customer: small business owners",
-        "summary": "Anthropic's expansion into serving small businesses signals increased AI adoption in the broader market, indicating a shift toward more accessible AI tools for non-enterprise users.",
-        "date": "2026-05-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI platform expansion",
-          "small business adoption",
-          "user acquisition"
-        ],
-        "fetchedAt": "2026-05-14T11:00:51.731Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Clio’s $500M milestone arrives just as Anthropic ups the ante.",
-        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Clio’s $500M milestone arrives just as Anthropic ups the ante\" (TechCrunch - AI), while the clearest drag comes from \"AI chatbots are giving out people’s real phone numbers\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -6.983 minutes. Updated 2026-05-14T12:00:00.000Z, with the macro replacement estimate at 49.6%."
       }
     }
   }
