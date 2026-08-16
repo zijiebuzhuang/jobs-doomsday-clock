@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:44",
+  "displayTime": "00:03:01",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.732,
+  "exactMinutesToMidnight": -3.017,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.732,
+  "newsAdjustment": -16.017,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.189,
+  "macroReplacementRate": 50.209,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,108 +3448,185 @@
   ],
   "newsFeed": [
     {
-      "id": "ai-companies-work-for-better-data-not-better-models",
-      "title": "AI Companies Work for Better Data, Not Better Models",
-      "summary": "AI companies are focusing on improving data efficiency rather than just model performance, signaling a shift in how AI capabilities are being developed and applied.",
+      "id": "previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "Ultrafast mode for GPT-5.6 Sol significantly boosts AI processing speed, enhancing productivity and efficiency across industries reliant on large-scale language model tasks.",
+      "date": "2026-08-13",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI performance",
+        "enterprise adoption",
+        "productivity tools"
+      ],
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "openai-appoints-dali-rajic-as-chief-revenue-officer",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI's appointment of a Chief Revenue Officer signals growing commercialization and enterprise focus in AI, indicating increased adoption and integration of AI into business operations.",
+      "date": "2026-08-13",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise adoption",
+        "leadership change",
+        "revenue strategy"
+      ],
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "you-can-now-turn-off-google-gemini-s-visible-watermarks",
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "summary": "Google allowing removal of visible AI watermarks may increase adoption of AI-generated content by reducing perceived transparency barriers.",
       "date": "2026-08-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "enterprise adoption",
-        "AI development",
-        "business strategy"
+        "AI tools",
+        "workflows",
+        "productivity",
+        "regulation"
       ],
-      "fetchedAt": "2026-08-15T11:00:46.997Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "media-and-communication",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "beyond-chatbots-the-next-wave-of-ai",
-      "title": "Beyond Chatbots: The Next Wave of AI",
-      "summary": "A new AI-focused venture firm with significant funding and expertise signals growing investment in AI-driven innovation, particularly in work-related areas like robotics and infrastructure.",
-      "date": "2026-08-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
+      "id": "does-google-even-want-to-win-at-ai-",
+      "title": "Does Google even want to win at AI?",
+      "summary": "Google's reorganization of its AI division signals shifting priorities and potential changes in AI development and leadership, which could influence the pace of AI adoption and workforce dynamics in tech and related fields.",
+      "date": "2026-08-13",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "venture capital",
-        "workplace innovation"
+        "AI leadership",
+        "organizational change",
+        "AI development"
       ],
-      "fetchedAt": "2026-08-15T11:00:46.997Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
-        "production"
-      ]
-    },
-    {
-      "id": "openai-s-explosive-growth-continues-bloomberg-tech-8-14-2026",
-      "title": "OpenAI’s Explosive Growth Continues | Bloomberg Tech 8/14/2026",
-      "summary": "OpenAI's rapid revenue growth signals strong AI adoption and investment, indicating increased pressure on industries to integrate AI capabilities.",
-      "date": "2026-08-14",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI company growth",
-        "revenue milestone",
-        "workplace AI adoption"
-      ],
-      "fetchedAt": "2026-08-15T11:00:46.997Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
+        "management",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "summary": "Competition among AI companies and the emergence of Chinese rivals are pushing AI model pricing down, accelerating adoption and affecting workplace dynamics.",
-      "date": "2026-08-14",
-      "source": "Ars Technica - AI",
-      "sourceUrl": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "id": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "Claude's new watermarking technology could influence how AI-generated content is regulated and used in professional settings, affecting transparency and accountability in work environments.",
+      "date": "2026-08-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI competition",
-        "pricing strategy",
-        "enterprise adoption"
+        "AI regulation",
+        "content authentication",
+        "workplace transparency"
       ],
-      "fetchedAt": "2026-08-15T11:00:46.997Z",
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "spacex-officially-closes-its-cursor-acquisition",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "summary": "SpaceX's acquisition of AI coding startup Cursor signals increased integration of AI tools into aerospace and software development workflows.",
+      "date": "2026-08-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "enterprise AI",
+        "coding tools"
+      ],
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "ibm-partners-with-openai-to-bolster-enterprise-ai-push",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM's partnership with OpenAI signals increased enterprise adoption of AI, likely boosting demand for AI-trained professionals.",
+      "date": "2026-08-13",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "training-and-certification",
+        "industry-partnership"
+      ],
+      "fetchedAt": "2026-08-16T11:00:43.506Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-08-15T12:00:00.000Z",
+  "generatedAt": "2026-08-16T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Development Shifts Toward Data and Competition",
-      "preview": "New developments highlight growing AI investment and competitive pressures.",
-      "body": "Recent reports show AI companies focusing on data efficiency and expanding into new areas like robotics. OpenAI and Anthropic are in a pricing battle, while Chinese competitors gain ground. These trends suggest continued momentum in AI adoption and workplace transformation."
+      "title": "AI Advancements Drive Job Market Shifts",
+      "preview": "New AI tools and partnerships signal growing industry adoption.",
+      "body": "Recent updates from OpenAI, Google, and IBM highlight increased AI integration into enterprise workflows, with faster models and new partnerships. While some developments focus on transparency and regulation, others emphasize speed and commercialization. Overall, the trend suggests a continued push toward AI-driven efficiency, influencing job market dynamics."
     }
   }
 }

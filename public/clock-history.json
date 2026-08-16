@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-08-16",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -3.017,
+    "macroReplacementRate": 50.209,
+    "newsAdjustment": -16.017,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed",
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "summary": "Ultrafast mode for GPT-5.6 Sol significantly boosts AI processing speed, enhancing productivity and efficiency across industries reliant on large-scale language model tasks.",
+        "date": "2026-08-13",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/previewing-ultrafast",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI performance",
+          "enterprise adoption",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "management"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "openai-appoints-dali-rajic-as-chief-revenue-officer",
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "summary": "OpenAI's appointment of a Chief Revenue Officer signals growing commercialization and enterprise focus in AI, indicating increased adoption and integration of AI into business operations.",
+        "date": "2026-08-13",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise adoption",
+          "leadership change",
+          "revenue strategy"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "you-can-now-turn-off-google-gemini-s-visible-watermarks",
+        "title": "You can now turn off Google Gemini’s visible watermarks",
+        "summary": "Google allowing removal of visible AI watermarks may increase adoption of AI-generated content by reducing perceived transparency barriers.",
+        "date": "2026-08-14",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "workflows",
+          "productivity",
+          "regulation"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "media-and-communication",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "does-google-even-want-to-win-at-ai-",
+        "title": "Does Google even want to win at AI?",
+        "summary": "Google's reorganization of its AI division signals shifting priorities and potential changes in AI development and leadership, which could influence the pace of AI adoption and workforce dynamics in tech and related fields.",
+        "date": "2026-08-13",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI leadership",
+          "organizational change",
+          "AI development"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_DCD_081226.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-shares-more-details-about-how-claude-s-new-watermarks-will-work",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "Claude's new watermarking technology could influence how AI-generated content is regulated and used in professional settings, affecting transparency and accountability in work environments.",
+        "date": "2026-08-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "content authentication",
+          "workplace transparency"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "spacex-officially-closes-its-cursor-acquisition",
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "SpaceX's acquisition of AI coding startup Cursor signals increased integration of AI tools into aerospace and software development workflows.",
+        "date": "2026-08-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "coding tools"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "ibm-partners-with-openai-to-bolster-enterprise-ai-push",
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "summary": "IBM's partnership with OpenAI signals increased enterprise adoption of AI, likely boosting demand for AI-trained professionals.",
+        "date": "2026-08-13",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "training-and-certification",
+          "industry-partnership"
+        ],
+        "fetchedAt": "2026-08-16T11:00:43.506Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed.",
+        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -16.017 minutes. Updated 2026-08-16T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-15",
     "minutesToMidnight": -3,
     "exactMinutesToMidnight": -2.732,
@@ -19164,215 +19379,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI and Malta partner to bring ChatGPT Plus to all citizens.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI and Malta partner to bring ChatGPT Plus to all citizens\" (OpenAI), while the clearest drag comes from \"Google updates its spam rules to include attempts to ‘manipulate’ AI\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.506 minutes. Updated 2026-05-16T12:00:00.000Z, with the macro replacement estimate at 49.6%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-15",
-    "minutesToMidnight": 5,
-    "exactMinutesToMidnight": 5.438,
-    "macroReplacementRate": 49.624,
-    "newsAdjustment": -7.562,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "mira-murati-wants-her-ai-to-keep-humans-in-the-loop-",
-        "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-        "summary": "A leader in AI development is focusing on collaborative AI systems rather than job replacement, signaling a shift toward human-AI teamwork in the workplace.",
-        "date": "2026-05-15",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "collaborative AI",
-          "workplace adoption",
-          "human-in-the-loop"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "enterprise-40-of-revenue-streams-openai-cro",
-        "title": "Enterprise 40% of Revenue Streams: OpenAI CRO",
-        "summary": "OpenAI's growing enterprise revenue highlights increasing AI adoption in business operations, signaling stronger workplace integration of AI capabilities.",
-        "date": "2026-05-15",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/enterprise-40-of-revenue-streams-says-openai-cro-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise adoption",
-          "AI revenue",
-          "workplace integration"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-may-raise-more-capital-as-compute-crunch-deepens-cfo-says",
-        "title": "OpenAI May Raise More Capital as Compute Crunch Deepens, CFO Says",
-        "summary": "OpenAI's potential capital raise reflects growing investment in AI infrastructure, signaling increased pressure and adoption of AI capabilities in the workplace.",
-        "date": "2026-05-15",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-15/openai-cfo-says-company-may-raise-more-capital-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "funding",
-          "enterprise",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
-        "title": "OpenAI May Raise More Money as Compute Crunch Deepens, CFO Says",
-        "summary": "OpenAI's potential fundraising highlights the growing need for compute power, signaling increased pressure and investment in AI development and adoption.",
-        "date": "2026-05-15",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-15/openai-may-raise-more-money-as-compute-crunch-deepens-cfo-says",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "funding",
-          "compute",
-          "enterprise-adoption"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-s-codex-is-now-in-the-chatgpt-mobile-app",
-        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-        "summary": "OpenAI integrating Codex into the ChatGPT mobile app increases AI's accessibility for coding and app interaction, boosting productivity and shifting skill demands in tech and related fields.",
-        "date": "2026-05-14",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tool adoption",
-          "coding tools",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/App-view.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "openai-says-codex-is-coming-to-your-phone",
-        "title": "OpenAI says Codex is coming to your phone",
-        "summary": "OpenAI's Codex integration on phones enhances developer productivity and workflow flexibility, signaling AI's growing role in software development.",
-        "date": "2026-05-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "coding"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
-        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-        "summary": "A new open source tool helps AI coding users track and visualize their Claude Code usage, improving productivity and workflow for developers.",
-        "date": "2026-05-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "coding",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-15T11:00:46.923Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Mira Murati Wants Her AI to ‘Keep Humans in the Loop’.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Mira Murati Wants Her AI to ‘Keep Humans in the Loop’\" (Wired), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -7.562 minutes. Updated 2026-05-15T12:00:00.000Z, with the macro replacement estimate at 49.6%."
       }
     }
   }
