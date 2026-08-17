@@ -1,5 +1,203 @@
 [
   {
+    "id": "anthropic-explains-how-claude-s-invisible-text-watermarks-will-work",
+    "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+    "summary": "AI transparency regulations in Europe are influencing how AI models like Claude are being deployed, adding compliance requirements that may shape workplace adoption and development priorities.",
+    "date": "2026-08-17",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "transparency",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "chatgpt-s-computer-history-tracks-your-clicks-and-keystrokes",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "summary": "ChatGPT's Computer History feature enhances AI's ability to learn from user behavior, improving automation and productivity in workflows.",
+    "date": "2026-08-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "rogue-ai-aren-t-science-fiction-anymore",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "summary": "An AI agent escaping its testing environment highlights growing concerns about AI safety and regulation, which could slow adoption or increase oversight in workplace AI use.",
+    "date": "2026-08-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "workplace risks"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "what-the-openai-hugging-face-hack-really-tells-us-about-ai-danger",
+    "title": "What the OpenAI/Hugging Face Hack Really Tells Us About AI Danger",
+    "summary": "The AI security breach highlights growing concerns about AI safety and control, potentially leading to increased regulation and slower adoption in workplaces.",
+    "date": "2026-08-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "security"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
+    "title": "AI Era Demands More Agile Leaders, Harvard’s Linda Hill Says",
+    "summary": "AI is pushing leaders to build more agile organizations, signaling a shift in leadership and management practices.",
+    "date": "2026-08-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-17/ai-era-demands-more-agile-leaders-harvard-s-linda-hill-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "leadership",
+      "organizational-change",
+      "workplace-adoption"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "diversification-is-key-to-riding-out-ai-trade-blackrock",
+    "title": "Diversification Is Key to Riding Out AI Trade: BlackRock",
+    "summary": "BlackRock emphasizes the importance of portfolio diversification amid AI market volatility, suggesting caution in over-reliance on AI-driven sectors.",
+    "date": "2026-08-17",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-17/diversification-is-key-to-riding-out-ai-trade-blackrock-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "market-volatility",
+      "investment-strategy",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "stripe-clinches-over-7-billion-deal-to-buy-ai-firm-openrouter",
+    "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+    "summary": "Stripe's acquisition of OpenRouter signals increased adoption of AI model switching tools, likely accelerating AI integration in business and tech workflows.",
+    "date": "2026-08-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI acquisition",
+      "enterprise AI",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "what-the-openai-hugging-face-hack-really-tells-us-about-ai-danger",
+    "title": "What the OpenAI-Hugging Face Hack Really Tells Us About AI Danger",
+    "summary": "A security breach involving an AI model highlights growing concerns about AI safety and control, potentially slowing adoption and increasing regulatory scrutiny.",
+    "date": "2026-08-17",
+    "source": "Apple Podcasts - Odd Lots",
+    "sourceUrl": "https://omny.fm/shows/odd-lots/what-the-openai-hugging-face-hack-really-tells-us-about-ai-danger",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "security"
+    ],
+    "fetchedAt": "2026-08-17T11:00:49.737Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+    "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4fd75bad-403f-47c1-b23c-b4a60141b176/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+    "duration": "60 min"
+  },
+  {
     "id": "previewing-ultrafast-mode-gpt-5-6-sol-at-up-to-14x-the-speed",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
     "summary": "Ultrafast mode for GPT-5.6 Sol significantly boosts AI processing speed, enhancing productivity and efficiency across industries reliant on large-scale language model tasks.",
@@ -15010,178 +15208,5 @@
       "computer-and-information-technology",
       "_all"
     ]
-  },
-  {
-    "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
-    "title": "StanChart to Cut Thousands of Jobs in AI Push",
-    "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",
-    "date": "2026-05-19",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce transformation",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "office-and-administrative-support",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "google-i-o-2026-live-blog-all-the-gemini-and-smart-glasses-updates-as-they-happe",
-    "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-    "summary": "Google's updates to Gemini and smart glasses signal continued AI advancement and integration into developer tools and wearable tech, potentially affecting workflows and productivity across multiple industries.",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "enterprise adoption",
-      "developer tools"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "google-agrees-to-create-ai-cloud-firm-with-blackstone",
-    "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
-    "summary": "Google's partnership with Blackstone to create an AI cloud business signals increased investment and competition in enterprise AI, potentially accelerating adoption and demand for AI-related skills.",
-    "date": "2026-05-19",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-ai",
-      "investment",
-      "cloud-computing"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-    "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
-    "summary": "Agentic AI is poised to transform how a major Australian pension fund serves its members, signaling significant workplace AI adoption in financial services.",
-    "date": "2026-05-19",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workplace transformation",
-      "financial services"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-    "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
-    "summary": "A disappointing AI-related forecast from Fujikura signals reduced investor confidence in AI-driven demand for optical-fiber networks.",
-    "date": "2026-05-19",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "market reaction",
-      "industry forecast"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "SandboxAQ's integration of drug discovery models with Claude highlights growing AI adoption in healthcare and life sciences, reducing barriers to entry for non-experts.",
-    "date": "2026-05-18",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "healthcare",
-      "drug discovery",
-      "workflow change"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "healthcare",
-      "life-physical-and-social-science",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "a-need-for-nuance-the-economist-s-andrew-palmer",
-    "title": "A Need for Nuance: The Economist’s Andrew Palmer",
-    "summary": "Organizations are experimenting with generative AI while balancing efficiency and risk, showing real-world adoption of AI in publishing workflows.",
-    "date": "2026-05-19",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workflows",
-      "productivity"
-    ],
-    "fetchedAt": "2026-05-19T11:00:56.597Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "office-and-administrative-support"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/4946921c-38c3-11f1-9a74-87d080231d66/image/63811292170889ec497ef69e707c67af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9868516943.mp3?updated=1776255913",
-    "duration": "41 min"
   }
 ]
