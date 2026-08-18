@@ -1,5 +1,176 @@
 [
   {
+    "id": "the-defender-s-window",
+    "title": "The Defender’s Window",
+    "summary": "AI is improving cybersecurity defenses, signaling increased adoption of AI in security workflows and roles.",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/the-defenders-window",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "AI adoption",
+      "workforce skills"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "new-policy-ideas-for-the-intelligence-age",
+    "title": "New policy ideas for the Intelligence Age",
+    "summary": "New AI policy initiatives aim to address societal and economic challenges, potentially shaping the pace and direction of AI adoption in the workforce.",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "openai-joins-ports-pike-project",
+    "title": "OpenAI joins PORTS-Pike project",
+    "summary": "OpenAI's involvement in the PORTS-Pike project suggests increased AI investment and potential impact on workforce development and job creation in Southern Ohio.",
+    "date": "2026-08-17",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/openai-joins-ports-pike-project",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workforce development",
+      "community investment"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "community-and-social-service",
+      "education-training-and-library",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "we-still-don-t-know-how-people-are-really-using-ai",
+    "title": "We still don’t know how people are really using AI",
+    "summary": "Concerns about the lack of transparency in AI usage data may slow down trust and adoption in enterprise and workplace settings.",
+    "date": "2026-08-18",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "transparency",
+      "regulation",
+      "workplace-adoption"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-reportedly-disbanded-its-preparedness-team",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "summary": "Disbanding of OpenAI's preparedness team signals a shift in risk management priorities, potentially slowing the development of safety measures for AI systems.",
+    "date": "2026-08-16",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "organizational-changes"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-is-starting-to-create-jobs-in-the-uk",
+    "title": "AI Is Starting to Create Jobs in the UK",
+    "summary": "AI is creating new roles in the UK, indicating a shift in job creation driven by AI adoption.",
+    "date": "2026-08-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "job creation",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-automation-startup-relay-shuts-down-staff-joins-google-s-chrome-team",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "A startup focused on AI automation in work processes is shutting down, with its team joining a major tech company, signaling continued movement of AI talent and expertise into established tech ecosystems.",
+    "date": "2026-08-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "startup",
+      "AI adoption",
+      "talent movement",
+      "workplace automation"
+    ],
+    "fetchedAt": "2026-08-18T11:00:54.790Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "anthropic-explains-how-claude-s-invisible-text-watermarks-will-work",
     "title": "Anthropic explains how Claude’s invisible text watermarks will work",
     "summary": "AI transparency regulations in Europe are influencing how AI models like Claude are being deployed, adding compliance requirements that may shape workplace adoption and development priorities.",
@@ -15036,176 +15207,6 @@
     "categories": [
       "computer-and-information-technology",
       "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "the-next-phase-of-openai-s-education-for-countries",
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
-    "date": "2026-05-20",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "education",
-      "AI adoption",
-      "teacher training",
-      "global learning"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "education-training-and-library",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "introducing-openai-for-singapore",
-    "title": "Introducing OpenAI for Singapore",
-    "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
-    "date": "2026-05-19",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI partnership",
-      "talent development",
-      "workforce adoption"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "google-s-ai-future-demands-trust-and-your-personal-data",
-    "title": "Google’s AI future demands trust — and your personal data",
-    "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
-    "date": "2026-05-19",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workplace adoption",
-      "productivity"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
-    "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
-    "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
-    "date": "2026-05-20",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce restructuring",
-      "productivity",
-      "hiring trends"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
-    "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
-    "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
-    "date": "2026-05-20",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "global expansion"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
-    "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
-    "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
-    "date": "2026-05-19",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce restructuring",
-      "AI efficiency"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
-    "date": "2026-05-19",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "productivity tools",
-      "workplace technology"
-    ],
-    "fetchedAt": "2026-05-20T11:01:15.989Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
       "_all"
     ]
   }
