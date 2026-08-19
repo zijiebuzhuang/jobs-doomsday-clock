@@ -1,5 +1,250 @@
 [
   {
+    "id": "how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
+    "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+    "summary": "AI coding agents and tools like NVIDIA ALCHEMI Toolkit are improving materials simulation, increasing productivity and efficiency in scientific research and engineering workflows.",
+    "date": "2026-08-18",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "scientific computing"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "life-physical-and-social-science",
+      "architecture-and-engineering",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image5-768x432.png"
+  },
+  {
+    "id": "partnering-with-codeai-to-prepare-the-first-ai-generation",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "summary": "Partnership between OpenAI and CodeAI aims to build AI literacy and skills in students, preparing future workers for AI-driven workplaces.",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "education",
+      "skills-development",
+      "workforce-training"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "asana-cleared-5-years-of-engineering-work-in-2-weeks-with-codex",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "summary": "Asana significantly accelerated engineering work using AI, demonstrating AI's growing impact on productivity and software development workflows.",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/asana",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "software development"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "pacing-model-development-in-an-era-of-cyber-critical-capabilities",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "summary": "OpenAI's focus on monitoring and security for AI models suggests increased regulatory scrutiny and slower deployment of advanced AI systems.",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "strengthening-democratic-oversight-in-national-security",
+    "title": "Strengthening democratic oversight in national security",
+    "summary": "OpenAI's initiative to strengthen democratic oversight of AI in national security introduces regulatory and institutional constraints that may shape the adoption and use of AI in sensitive sectors.",
+    "date": "2026-08-18",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "national-security",
+      "AI-oversight"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "legal",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "google-s-pet-memory-forgot-who-my-cats-are",
+    "title": "Google’s Pet Memory forgot who my cats are",
+    "summary": "Google's Pet Memory feature demonstrates AI's growing ability to enhance smart home capabilities, signaling progress in AI-driven personal and household automation.",
+    "date": "2026-08-18",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "smart home",
+      "AI adoption",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "installation-maintenance-and-repair",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "summary": "OpenAI's security updates and pause in AI development highlight increased regulatory and safety concerns, potentially slowing AI adoption in workplaces.",
+    "date": "2026-08-18",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "security",
+      "regulation",
+      "AI development"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
+    "title": "Kuaishou Earnings Drop by a Third, Hit by AI and Creator Costs",
+    "summary": "Kuaishou's earnings drop highlights the financial pressure of AI investment and creator compensation in the tech industry.",
+    "date": "2026-08-19",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "costs",
+      "workplace impact"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "traders-weigh-concerns-surrounding-ai-buildout",
+    "title": "Traders Weigh Concerns Surrounding AI Buildout",
+    "summary": "Concerns over fiscal policy and borrowing related to AI development may slow adoption and keep yields high, signaling potential economic friction for AI projects.",
+    "date": "2026-08-19",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-19/traders-weigh-concerns-surrounding-ai-buildout-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "fiscal-policy",
+      "ai-adoption",
+      "economic-impact"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "summary": "OpenAI's decision to halt training runs and strengthen safety protocols indicates increased regulatory and safety concerns, potentially slowing AI adoption in the workplace.",
+    "date": "2026-08-18",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "safety",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-19T11:00:48.215Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "the-defender-s-window",
     "title": "The Defender’s Window",
     "summary": "AI is improving cybersecurity defenses, signaling increased adoption of AI in security workflows and roles.",
@@ -15037,176 +15282,6 @@
     "sourceTier": "aggregator",
     "qualityScore": 55,
     "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "add-a-specialized-deep-research-skill-to-agent-harnesses",
-    "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
-    "summary": "AI agent frameworks are improving their ability to handle complex, data-driven research tasks, increasing their utility in knowledge-intensive workflows.",
-    "date": "2026-05-20",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflows",
-      "productivity",
-      "deep research"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/Agentic-AI-768x432.jpg"
-  },
-  {
-    "id": "it-s-make-or-break-time-for-ai-labeling-systems",
-    "title": "It’s make or break time for AI labeling systems",
-    "summary": "New AI labeling systems are being tested to detect deepfakes, which could impact content verification and trust in digital media.",
-    "date": "2026-05-20",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI regulation",
-      "content verification",
-      "deepfakes"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "nvidia-targets-new-revenue-engine-beyond-hyperscalers",
-    "title": "Nvidia Targets New Revenue Engine Beyond Hyperscalers",
-    "summary": "Nvidia's expansion beyond hyperscalers signals growing AI adoption across diverse industries, increasing demand for AI-related skills and roles.",
-    "date": "2026-05-21",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/nvidia-targets-new-revenue-engine-beyond-hyperscalers-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "ai-infrastructure",
-      "market-growth"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "former-google-deepmind-researcher-on-new-ai-startup",
-    "title": "Former Google Deepmind Researcher on New AI Startup",
-    "summary": "A former Google DeepMind researcher launching a new AI startup signals growing AI talent movement and potential advancements in visual reasoning AI capabilities.",
-    "date": "2026-05-21",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/former-google-deepmind-researcher-on-new-ai-startup-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "startup",
-      "talent-movement",
-      "visual-reasoning"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "summary": "Anthropic's projected revenue growth signals increasing commercial success and potential for broader AI adoption in enterprise and business operations.",
-    "date": "2026-05-21",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "financial-performance",
-      "ai-commercialization"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
-    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "summary": "OpenAI's AI model solving a long-standing math problem demonstrates significant progress in AI reasoning capabilities, potentially influencing fields requiring advanced problem-solving skills.",
-    "date": "2026-05-20",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI reasoning",
-      "mathematical advancement",
-      "AI capability"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "math",
-      "computer-and-information-technology",
-      "architecture-and-engineering"
-    ]
-  },
-  {
-    "id": "ai-layoffs-2026-tech-workforce-crisis-and-investment-outlook",
-    "title": "AI Layoffs 2026: Tech Workforce Crisis and Investment Outlook",
-    "summary": "This headline signals a major AI-driven workforce shift in the tech industry, indicating growing pressure on jobs and investment trends.",
-    "date": "2026-05-21",
-    "source": "Intellectia AI",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRU42eklZWGY3NVRmSzJ0YjQ4S2RzSGx5RmgwbTRFTkpUZTdOZGVkZWVUejdMejN3M1NXWm1ENDdiTVAzbGZfalBMbzZaU3Qxcl9vbHhkY1M2VTF1Y0JqVFV0X0EyZkhsVzFiRkQ4c012SkU?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI workforce impact",
-      "tech industry",
-      "job market trends"
-    ],
-    "fetchedAt": "2026-05-21T11:01:25.769Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
       "_all"
     ]
   }

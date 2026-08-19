@@ -1,5 +1,292 @@
 [
   {
+    "date": "2026-08-19",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -1.623,
+    "macroReplacementRate": 50.112,
+    "newsAdjustment": -14.623,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
+        "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+        "summary": "AI coding agents and tools like NVIDIA ALCHEMI Toolkit are improving materials simulation, increasing productivity and efficiency in scientific research and engineering workflows.",
+        "date": "2026-08-18",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "scientific computing"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "life-physical-and-social-science",
+          "architecture-and-engineering",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image5-768x432.png"
+      },
+      {
+        "id": "partnering-with-codeai-to-prepare-the-first-ai-generation",
+        "title": "Partnering with CodeAI to prepare the first AI generation",
+        "summary": "Partnership between OpenAI and CodeAI aims to build AI literacy and skills in students, preparing future workers for AI-driven workplaces.",
+        "date": "2026-08-18",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "skills-development",
+          "workforce-training"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "asana-cleared-5-years-of-engineering-work-in-2-weeks-with-codex",
+        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": "Asana significantly accelerated engineering work using AI, demonstrating AI's growing impact on productivity and software development workflows.",
+        "date": "2026-08-18",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/asana",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "software development"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "pacing-model-development-in-an-era-of-cyber-critical-capabilities",
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "summary": "OpenAI's focus on monitoring and security for AI models suggests increased regulatory scrutiny and slower deployment of advanced AI systems.",
+        "date": "2026-08-18",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "google-s-pet-memory-forgot-who-my-cats-are",
+        "title": "Google’s Pet Memory forgot who my cats are",
+        "summary": "Google's Pet Memory feature demonstrates AI's growing ability to enhance smart home capabilities, signaling progress in AI-driven personal and household automation.",
+        "date": "2026-08-18",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "smart home",
+          "AI adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "installation-maintenance-and-repair",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "strengthening-democratic-oversight-in-national-security",
+        "title": "Strengthening democratic oversight in national security",
+        "summary": "OpenAI's initiative to strengthen democratic oversight of AI in national security introduces regulatory and institutional constraints that may shape the adoption and use of AI in sensitive sectors.",
+        "date": "2026-08-18",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "national-security",
+          "AI-oversight"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "legal",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
+        "title": "Kuaishou Earnings Drop by a Third, Hit by AI and Creator Costs",
+        "summary": "Kuaishou's earnings drop highlights the financial pressure of AI investment and creator compensation in the tech industry.",
+        "date": "2026-08-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "costs",
+          "workplace impact"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "traders-weigh-concerns-surrounding-ai-buildout",
+        "title": "Traders Weigh Concerns Surrounding AI Buildout",
+        "summary": "Concerns over fiscal policy and borrowing related to AI development may slow adoption and keep yields high, signaling potential economic friction for AI projects.",
+        "date": "2026-08-19",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-19/traders-weigh-concerns-surrounding-ai-buildout-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "fiscal-policy",
+          "ai-adoption",
+          "economic-impact"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
+        "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+        "summary": "OpenAI's decision to halt training runs and strengthen safety protocols indicates increased regulatory and safety concerns, potentially slowing AI adoption in the workplace.",
+        "date": "2026-08-18",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "safety",
+          "regulation",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face",
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "summary": "OpenAI's security updates and pause in AI development highlight increased regulatory and safety concerns, potentially slowing AI adoption in workplaces.",
+        "date": "2026-08-18",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "security",
+          "regulation",
+          "AI development"
+        ],
+        "fetchedAt": "2026-08-19T11:00:48.215Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit.",
+        "body": "This update is split between 4 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Pacing model development in an era of cyber-critical capabilities\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.623 minutes. Updated 2026-08-19T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-18",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.208,
@@ -19236,177 +19523,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by StanChart to Cut Thousands of Jobs in AI Push.",
         "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"StanChart to Cut Thousands of Jobs in AI Push\" (Bloomberg Technology), while the clearest drag comes from \"Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.985 minutes. Updated 2026-05-19T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-18",
-    "minutesToMidnight": 5,
-    "exactMinutesToMidnight": 5.452,
-    "macroReplacementRate": 49.623,
-    "newsAdjustment": -7.548,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
-        "title": "US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan",
-        "summary": "A large AI and supply chain hub between the US and Philippines signals increased global investment and adoption of AI infrastructure, potentially affecting multiple industries.",
-        "date": "2026-05-18",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-18/us-philippines-moving-very-quickly-on-4-000-acre-ai-hub-plan",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "geopolitics",
-          "infrastructure",
-          "enterprise-adoption"
-        ],
-        "fetchedAt": "2026-05-18T11:00:44.621Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-radio-hosts-demonstrate-why-ai-can-t-be-trusted-alone",
-        "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-        "summary": "AI radio hosts highlight the limitations and unpredictability of AI in professional roles, suggesting ongoing need for human oversight.",
-        "date": "2026-05-15",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workplace limitations",
-          "human oversight"
-        ],
-        "fetchedAt": "2026-05-18T11:00:44.621Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PODCASTS.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "pax-silica-inside-the-trump-administration-s-tech-strategy-with-us-under-secreta",
-        "title": "Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg",
-        "summary": "A new international coalition aims to secure the AI supply chain, indicating increased regulatory and geopolitical efforts to control AI development and adoption.",
-        "date": "2026-05-14",
-        "source": "Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups",
-        "sourceUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI supply chain",
-          "geopolitics",
-          "regulation"
-        ],
-        "fetchedAt": "2026-05-18T11:00:44.621Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789/image/0f25c984b5876747e80d7b3b79683088.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://traffic.megaphone.fm/PDP3893443147.mp3",
-        "duration": "38 min"
-      },
-      {
-        "id": "anthropic-s-push-into-finance",
-        "title": "Anthropic’s push into finance",
-        "summary": "Anthropic's expansion into finance highlights the growing integration of AI in financial workflows, with implications for accuracy, regulation, and fraud detection.",
-        "date": "2026-05-13",
-        "source": "Apple Podcasts - Possible",
-        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "financial services",
-          "regulation"
-        ],
-        "fetchedAt": "2026-05-18T11:00:44.621Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/22b5acc0-4e7e-11f1-b656-db49fb93781a/image/2ba6af6a5cf334ddcda032a0caf99b1f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT8107235207.mp3",
-        "duration": "33 min"
-      },
-      {
-        "id": "what-parameter-golf-taught-us-about-ai-assisted-research",
-        "title": "What Parameter Golf taught us about AI-assisted research",
-        "summary": "A large-scale AI-assisted research competition highlights growing capabilities in model optimization and coding agents, signaling progress in AI's role in scientific and technical workflows.",
-        "date": "2026-05-12",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/what-parameter-golf-taught-us",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI research",
-          "coding agents",
-          "model optimization"
-        ],
-        "fetchedAt": "2026-05-18T11:00:44.621Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "life-physical-and-social-science",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan.",
-        "body": "This update is split between 3 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"US, Philippines Moving ‘Very Quickly’ on 4,000-Acre AI Hub Plan\" (Bloomberg Technology), while the clearest drag comes from \"Pax Silica: Inside the Trump Administration’s Tech Strategy with US Under Secretary of State for Economic Affairs Jacob Helberg\" (Apple Podcasts - No Priors: Artificial Intelligence | Technology | Startups). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.548 minutes. Updated 2026-05-18T12:00:00.000Z, with the macro replacement estimate at 49.6%."
       }
     }
   }
