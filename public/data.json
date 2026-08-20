@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:37",
+  "displayTime": "00:01:51",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.623,
+  "exactMinutesToMidnight": -1.845,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.623,
+  "newsAdjustment": -14.845,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.112,
+  "macroReplacementRate": 50.128,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,257 +3448,185 @@
   ],
   "newsFeed": [
     {
-      "id": "how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
-      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-      "summary": "AI coding agents and tools like NVIDIA ALCHEMI Toolkit are improving materials simulation, increasing productivity and efficiency in scientific research and engineering workflows.",
-      "date": "2026-08-18",
+      "id": "developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
+      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+      "summary": "NVIDIA's development of AI coding agents for Holoscan highlights progress in making AI tools more accessible for real-time edge applications, impacting technical workflows and skill requirements.",
+      "date": "2026-08-19",
       "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+      "sourceUrl": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "productivity",
-        "scientific computing"
+        "workflow automation",
+        "edge computing",
+        "coding agents"
       ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
-        "life-physical-and-social-science",
+        "computer-and-information-technology",
         "architecture-and-engineering",
-        "computer-and-information-technology"
+        "healthcare"
       ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image5-768x432.png"
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg"
     },
     {
-      "id": "partnering-with-codeai-to-prepare-the-first-ai-generation",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary": "Partnership between OpenAI and CodeAI aims to build AI literacy and skills in students, preparing future workers for AI-driven workplaces.",
-      "date": "2026-08-18",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/partnering-with-codeai",
+      "id": "hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+      "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
+      "summary": "Recruitment firm Hays is shifting hiring toward roles less vulnerable to AI, signaling a response to AI-driven labor market pressures.",
+      "date": "2026-08-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "hiring-strategy",
+        "workforce-adaptation",
+        "AI-impact"
+      ],
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "moonshot-zai-close-to-openai-and-anthropic-model-performance",
+      "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+      "summary": "Chinese AI models are demonstrating competitive capabilities in website development, potentially affecting design and development workflows.",
+      "date": "2026-08-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "web development"
+      ],
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "office-and-administrative-support"
+      ]
+    },
+    {
+      "id": "google-gemini-is-getting-a-dedicated-student-hub",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "Google's new student hub with AI-powered study tools signals growing AI adoption in education and learning workflows, potentially shaping future skill development and productivity tools.",
+      "date": "2026-08-19",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "education",
-        "skills-development",
-        "workforce-training"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "education-training-and-library",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "asana-cleared-5-years-of-engineering-work-in-2-weeks-with-codex",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary": "Asana significantly accelerated engineering work using AI, demonstrating AI's growing impact on productivity and software development workflows.",
-      "date": "2026-08-18",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/asana",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "software development"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "pacing-model-development-in-an-era-of-cyber-critical-capabilities",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary": "OpenAI's focus on monitoring and security for AI models suggests increased regulatory scrutiny and slower deployment of advanced AI systems.",
-      "date": "2026-08-18",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "safety",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "google-s-pet-memory-forgot-who-my-cats-are",
-      "title": "Google’s Pet Memory forgot who my cats are",
-      "summary": "Google's Pet Memory feature demonstrates AI's growing ability to enhance smart home capabilities, signaling progress in AI-driven personal and household automation.",
-      "date": "2026-08-18",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "smart home",
-        "AI adoption",
+        "AI tools",
         "productivity"
       ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
+        "education-training-and-library",
         "computer-and-information-technology",
-        "installation-maintenance-and-repair",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "strengthening-democratic-oversight-in-national-security",
-      "title": "Strengthening democratic oversight in national security",
-      "summary": "OpenAI's initiative to strengthen democratic oversight of AI in national security introduces regulatory and institutional constraints that may shape the adoption and use of AI in sensitive sectors.",
-      "date": "2026-08-18",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "effect": "delay",
+      "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-user",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary": "Binance enabling AI agents for trading shows increased adoption of AI in financial workflows, increasing pressure on traders and analysts to adapt to AI-driven decision-making.",
+      "date": "2026-08-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "effect": "advance",
       "impactScore": 4,
-      "tags": [
-        "regulation",
-        "national-security",
-        "AI-oversight"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "legal",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
-      "title": "Kuaishou Earnings Drop by a Third, Hit by AI and Creator Costs",
-      "summary": "Kuaishou's earnings drop highlights the financial pressure of AI investment and creator compensation in the tech industry.",
-      "date": "2026-08-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
-      "effect": "delay",
-      "impactScore": 3,
       "tags": [
         "AI adoption",
-        "costs",
-        "workplace impact"
+        "financial technology",
+        "workflow automation"
       ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "traders-weigh-concerns-surrounding-ai-buildout",
-      "title": "Traders Weigh Concerns Surrounding AI Buildout",
-      "summary": "Concerns over fiscal policy and borrowing related to AI development may slow adoption and keep yields high, signaling potential economic friction for AI projects.",
-      "date": "2026-08-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-19/traders-weigh-concerns-surrounding-ai-buildout-video",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "fiscal-policy",
-        "ai-adoption",
-        "economic-impact"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue",
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "summary": "OpenAI's decision to halt training runs and strengthen safety protocols indicates increased regulatory and safety concerns, potentially slowing AI adoption in the workplace.",
-      "date": "2026-08-18",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "safety",
-        "regulation",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "management"
+      ]
+    },
+    {
+      "id": "offering-zero-data-retention-for-frontier-models",
+      "title": "Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI's commitment to zero data retention and private safety processing enhances trust in AI tools, potentially accelerating enterprise adoption of frontier models.",
+      "date": "2026-08-19",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "data privacy",
+        "AI safety",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI's security updates and pause in AI development highlight increased regulatory and safety concerns, potentially slowing AI adoption in workplaces.",
-      "date": "2026-08-18",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "effect": "delay",
+      "id": "google-packs-search-and-gemini-with-new-ai-study-tools",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "Google's new AI study tools signal growing AI adoption in education and learning, potentially impacting skills development and productivity across multiple industries.",
+      "date": "2026-08-19",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "security",
-        "regulation",
-        "AI development"
+        "education",
+        "AI tools",
+        "productivity"
       ],
-      "fetchedAt": "2026-08-19T11:00:48.215Z",
+      "fetchedAt": "2026-08-20T11:00:52.163Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
+        "education-training-and-library",
         "computer-and-information-technology",
-        "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-08-19T12:00:00.000Z",
+  "generatedAt": "2026-08-20T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue Amid Regulatory and Financial Headwinds",
-      "preview": "Advances in AI tools and applications face growing regulatory and economic challenges.",
-      "body": "Recent developments show continued progress in AI capabilities, with notable advances in coding agents and materials simulation. However, regulatory focus and financial pressures are introducing delays. OpenAI's emphasis on security and oversight, along with Kuaishou's earnings decline, highlight the evolving landscape of AI adoption."
+      "title": "AI Tools Expand, Hiring Shifts as Job Pressures Evolve",
+      "preview": "New AI tools and hiring strategies signal ongoing shifts in job market dynamics.",
+      "body": "Recent developments show continued progress in AI tooling, with NVIDIA, Google, and Binance advancing AI integration into workflows. However, Hays' shift toward hard-to-replace roles suggests a cautious response to AI-driven labor pressures. Overall, the mix points to growing adoption alongside measured adaptation efforts."
     }
   }
 }

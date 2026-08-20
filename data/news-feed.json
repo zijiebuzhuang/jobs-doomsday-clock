@@ -1,5 +1,178 @@
 [
   {
+    "id": "developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
+    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+    "summary": "NVIDIA's development of AI coding agents for Holoscan highlights progress in making AI tools more accessible for real-time edge applications, impacting technical workflows and skill requirements.",
+    "date": "2026-08-19",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow automation",
+      "edge computing",
+      "coding agents"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "healthcare"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg"
+  },
+  {
+    "id": "offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models",
+    "summary": "OpenAI's commitment to zero data retention and private safety processing enhances trust in AI tools, potentially accelerating enterprise adoption of frontier models.",
+    "date": "2026-08-19",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "data privacy",
+      "AI safety",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "google-gemini-is-getting-a-dedicated-student-hub",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "summary": "Google's new student hub with AI-powered study tools signals growing AI adoption in education and learning workflows, potentially shaping future skill development and productivity tools.",
+    "date": "2026-08-19",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "education",
+      "AI tools",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "education-training-and-library",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+    "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
+    "summary": "Recruitment firm Hays is shifting hiring toward roles less vulnerable to AI, signaling a response to AI-driven labor market pressures.",
+    "date": "2026-08-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "hiring-strategy",
+      "workforce-adaptation",
+      "AI-impact"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "moonshot-zai-close-to-openai-and-anthropic-model-performance",
+    "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+    "summary": "Chinese AI models are demonstrating competitive capabilities in website development, potentially affecting design and development workflows.",
+    "date": "2026-08-20",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "web development"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-user",
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "summary": "Binance enabling AI agents for trading shows increased adoption of AI in financial workflows, increasing pressure on traders and analysts to adapt to AI-driven decision-making.",
+    "date": "2026-08-20",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial technology",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "google-packs-search-and-gemini-with-new-ai-study-tools",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "Google's new AI study tools signal growing AI adoption in education and learning, potentially impacting skills development and productivity across multiple industries.",
+    "date": "2026-08-19",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "education",
+      "AI tools",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-20T11:00:52.163Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "education-training-and-library",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit",
     "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
     "summary": "AI coding agents and tools like NVIDIA ALCHEMI Toolkit are improving materials simulation, increasing productivity and efficiency in scientific research and engineering workflows.",
@@ -15108,176 +15281,6 @@
       "workforce"
     ],
     "fetchedAt": "2026-05-23T11:00:49.951Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "google-i-o-showed-how-the-path-for-ai-driven-science-is-shifting",
-    "title": "Google I/O showed how the path for AI-driven science is shifting",
-    "summary": "Google's emphasis on AI-driven science signals growing AI capability and potential for transformative workplace changes.",
-    "date": "2026-05-22",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI research",
-      "scientific advancement",
-      "industry impact"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "_all"
-    ]
-  },
-  {
-    "id": "eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-    "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
-    "summary": "Regulatory concerns are slowing the adoption of Anthropic's Mythos AI model, which could affect how companies and banks manage digital vulnerabilities.",
-    "date": "2026-05-22",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "enterprise-adoption",
-      "AI-security"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "blackrock-s-li-sees-earnings-momentum-driven-by-ai",
-    "title": "BlackRock's Li Sees Earnings Momentum Driven by AI",
-    "summary": "AI is influencing equity market earnings, signaling growing AI impact on financial and investment sectors.",
-    "date": "2026-05-22",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/blackrock-s-li-sees-earnings-momentum-driven-by-ai-video",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "financial-services",
-      "market-trends",
-      "AI-adoption"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "insilico-on-applying-ai-to-transform-drug-discovery",
-    "title": "Insilico on Applying AI to Transform Drug Discovery",
-    "summary": "AI is being applied to transform drug discovery and longevity research, indicating growing adoption of AI in healthcare and life sciences.",
-    "date": "2026-05-22",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/insilico-on-applying-ai-to-transform-drug-discovery-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "drug-discovery",
-      "ai-adoption",
-      "healthcare-innovation"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "healthcare",
-      "life-physical-and-social-science",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "ai-capex-drives-memory-demand-and-asia-tech-outlook",
-    "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
-    "summary": "Increased AI capital expenditure is boosting demand for semiconductors and influencing Asia's tech supply chain, signaling growing adoption of AI technologies.",
-    "date": "2026-05-22",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/ai-capex-drives-memory-demand-and-asia-tech-outlook-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "semiconductor demand",
-      "tech supply chain"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "production",
-      "_all"
-    ]
-  },
-  {
-    "id": "our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update",
-    "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-    "summary": "Google's updates to Gemini and agentic tools signal increased AI adoption in enterprise and developer workflows, potentially affecting tech and productivity across industries.",
-    "date": "2026-05-22",
-    "source": "Apple Podcasts - Hard Fork",
-    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "enterprise adoption",
-      "model updates"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&feed=6HKOhNgS",
-    "duration": "00:55:21"
-  },
-  {
-    "id": "california-eyes-ai-regulation-as-gov-newsom-orders-new-workforce-protections-ami",
-    "title": "California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs",
-    "summary": "California's potential AI regulation and workforce protections signal increased oversight that may slow AI adoption in the workplace.",
-    "date": "2026-05-22",
-    "source": "ABC7 San Francisco",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFI0RzFJcHpQaWg2UEpza080aFg5aEFTeXpmNzZpMlc3MGwzT0V2WG44NGJUZENibVBxelN5WmtVQTVMbkk1VS1wR00tbndjN3FUbTkzN1lRbW9aTm4zbUlKVXlLYjBiNTg4ZzA1V2E2dGxMLTU3S3dZVHp2X0EyQXZOV3RLb3N0akR1TEd2Y3FMaFpPd0lIdzI3LTB5RlZuUWJFZ3BSTmJXTFJmZkFjQ05wTFBaSVZ1elNCYktnbkoyZm9vR0JNZnphejU5bG5QZUlfNdIB2gFBVV95cUxNWnl3Y1UxNUxXaFdfblNlNDhNNkl4RllDWWtxZG9HNXZHSmF4ajNSWWo3ZTEyaEhlTGExQXN1aTQyN2hncEVOR3VSY0xwQ2Y5c3lpRHJOOVlPeFFjYmhrWVExSUd3SF96ZlVhQVdOcWdkOG0yX2c1Q1NhUUdMYkhqQktPNEU4Ykk4X3hTYWZONG9FbjBXeGhDM1RtRWtuVDZNbzZLck5lQ0lXQWo4NV9YYlZGM25zc0pFeDZ4NEtVN3Y4cjVtNkpDTTJ4WndsZFU3WVc0WDdYU3BYQQ?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "workforce-protections",
-      "policy"
-    ],
-    "fetchedAt": "2026-05-22T11:00:59.923Z",
     "sourceGroup": "labor-market",
     "sourceTier": "aggregator",
     "qualityScore": 55,

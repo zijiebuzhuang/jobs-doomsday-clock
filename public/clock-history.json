@@ -1,5 +1,220 @@
 [
   {
+    "date": "2026-08-20",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -1.845,
+    "macroReplacementRate": 50.128,
+    "newsAdjustment": -14.845,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
+        "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+        "summary": "NVIDIA's development of AI coding agents for Holoscan highlights progress in making AI tools more accessible for real-time edge applications, impacting technical workflows and skill requirements.",
+        "date": "2026-08-19",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow automation",
+          "edge computing",
+          "coding agents"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "healthcare"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg"
+      },
+      {
+        "id": "hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+        "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
+        "summary": "Recruitment firm Hays is shifting hiring toward roles less vulnerable to AI, signaling a response to AI-driven labor market pressures.",
+        "date": "2026-08-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "hiring-strategy",
+          "workforce-adaptation",
+          "AI-impact"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "moonshot-zai-close-to-openai-and-anthropic-model-performance",
+        "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
+        "summary": "Chinese AI models are demonstrating competitive capabilities in website development, potentially affecting design and development workflows.",
+        "date": "2026-08-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "web development"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "google-gemini-is-getting-a-dedicated-student-hub",
+        "title": "Google Gemini is getting a dedicated student hub",
+        "summary": "Google's new student hub with AI-powered study tools signals growing AI adoption in education and learning workflows, potentially shaping future skill development and productivity tools.",
+        "date": "2026-08-19",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "AI tools",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-user",
+        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+        "summary": "Binance enabling AI agents for trading shows increased adoption of AI in financial workflows, increasing pressure on traders and analysts to adapt to AI-driven decision-making.",
+        "date": "2026-08-20",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "financial technology",
+          "workflow automation"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "management"
+        ]
+      },
+      {
+        "id": "offering-zero-data-retention-for-frontier-models",
+        "title": "Offering Zero Data Retention for frontier models",
+        "summary": "OpenAI's commitment to zero data retention and private safety processing enhances trust in AI tools, potentially accelerating enterprise adoption of frontier models.",
+        "date": "2026-08-19",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "data privacy",
+          "AI safety",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "google-packs-search-and-gemini-with-new-ai-study-tools",
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "summary": "Google's new AI study tools signal growing AI adoption in education and learning, potentially impacting skills development and productivity across multiple industries.",
+        "date": "2026-08-19",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "education",
+          "AI tools",
+          "productivity"
+        ],
+        "fetchedAt": "2026-08-20T11:00:52.163Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "education-training-and-library",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.845 minutes. Updated 2026-08-20T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-19",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.623,
@@ -19308,221 +19523,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by The next phase of OpenAI’s Education for Countries.",
         "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"The next phase of OpenAI’s Education for Countries\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -8.356 minutes. Updated 2026-05-20T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-19",
-    "minutesToMidnight": 5,
-    "exactMinutesToMidnight": 5.015,
-    "macroReplacementRate": 49.653,
-    "newsAdjustment": -7.985,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "stanchart-to-cut-thousands-of-jobs-in-ai-push",
-        "title": "StanChart to Cut Thousands of Jobs in AI Push",
-        "summary": "Standard Chartered's job cuts highlight AI's growing role in reshaping corporate productivity and workforce structure in the finance sector.",
-        "date": "2026-05-19",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce transformation",
-          "enterprise AI"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "office-and-administrative-support",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "google-i-o-2026-live-blog-all-the-gemini-and-smart-glasses-updates-as-they-happe",
-        "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-        "summary": "Google's updates to Gemini and smart glasses signal continued AI advancement and integration into developer tools and wearable tech, potentially affecting workflows and productivity across multiple industries.",
-        "date": "2026-05-19",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "enterprise adoption",
-          "developer tools"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "google-agrees-to-create-ai-cloud-firm-with-blackstone",
-        "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
-        "summary": "Google's partnership with Blackstone to create an AI cloud business signals increased investment and competition in enterprise AI, potentially accelerating adoption and demand for AI-related skills.",
-        "date": "2026-05-19",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-ai",
-          "investment",
-          "cloud-computing"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-        "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
-        "summary": "Agentic AI is poised to transform how a major Australian pension fund serves its members, signaling significant workplace AI adoption in financial services.",
-        "date": "2026-05-19",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workplace transformation",
-          "financial services"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-        "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
-        "summary": "A disappointing AI-related forecast from Fujikura signals reduced investor confidence in AI-driven demand for optical-fiber networks.",
-        "date": "2026-05-19",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "market reaction",
-          "industry forecast"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "a-need-for-nuance-the-economist-s-andrew-palmer",
-        "title": "A Need for Nuance: The Economist’s Andrew Palmer",
-        "summary": "Organizations are experimenting with generative AI while balancing efficiency and risk, showing real-world adoption of AI in publishing workflows.",
-        "date": "2026-05-19",
-        "source": "Apple Podcasts - Me, Myself, and AI",
-        "sourceUrl": "https://sloanreview.mit.edu/audio/a-need-for-nuance-the-economists-andrew-palmer",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workflows",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "office-and-administrative-support"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/4946921c-38c3-11f1-9a74-87d080231d66/image/63811292170889ec497ef69e707c67af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9868516943.mp3?updated=1776255913",
-        "duration": "41 min"
-      },
-      {
-        "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
-        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-        "summary": "SandboxAQ's integration of drug discovery models with Claude highlights growing AI adoption in healthcare and life sciences, reducing barriers to entry for non-experts.",
-        "date": "2026-05-18",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "healthcare",
-          "drug discovery",
-          "workflow change"
-        ],
-        "fetchedAt": "2026-05-19T11:00:56.597Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "healthcare",
-          "life-physical-and-social-science",
-          "computer-and-information-technology"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by StanChart to Cut Thousands of Jobs in AI Push.",
-        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"StanChart to Cut Thousands of Jobs in AI Push\" (Bloomberg Technology), while the clearest drag comes from \"Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -7.985 minutes. Updated 2026-05-19T12:00:00.000Z, with the macro replacement estimate at 49.7%."
       }
     }
   }
