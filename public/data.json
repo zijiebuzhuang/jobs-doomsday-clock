@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:51",
+  "displayTime": "00:02:06",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.845,
+  "exactMinutesToMidnight": -2.104,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.845,
+  "newsAdjustment": -15.104,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.128,
+  "macroReplacementRate": 50.146,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,144 +3448,45 @@
   ],
   "newsFeed": [
     {
-      "id": "developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents",
-      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-      "summary": "NVIDIA's development of AI coding agents for Holoscan highlights progress in making AI tools more accessible for real-time edge applications, impacting technical workflows and skill requirements.",
-      "date": "2026-08-19",
+      "id": "how-generative-recommenders-are-redefining-recsys-at-scale",
+      "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+      "summary": "Generative AI is transforming large-scale recommender systems, potentially improving personalization and user engagement in tech-driven industries.",
+      "date": "2026-08-20",
       "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "workflow automation",
-        "edge computing",
-        "coding agents"
+        "workflow change",
+        "machine learning"
       ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "architecture-and-engineering",
-        "healthcare"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image6-2-768x432.jpg"
-    },
-    {
-      "id": "hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-      "title": "Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring",
-      "summary": "Recruitment firm Hays is shifting hiring toward roles less vulnerable to AI, signaling a response to AI-driven labor market pressures.",
-      "date": "2026-08-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "hiring-strategy",
-        "workforce-adaptation",
-        "AI-impact"
-      ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "management",
         "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "moonshot-zai-close-to-openai-and-anthropic-model-performance",
-      "title": "Moonshot, ZAI Close to OpenAI and Anthropic Model Performance",
-      "summary": "Chinese AI models are demonstrating competitive capabilities in website development, potentially affecting design and development workflows.",
-      "date": "2026-08-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-20/moonshot-zai-close-to-openai-and-anthropic-model-performance",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "web development"
-      ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "office-and-administrative-support"
-      ]
-    },
-    {
-      "id": "google-gemini-is-getting-a-dedicated-student-hub",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "summary": "Google's new student hub with AI-powered study tools signals growing AI adoption in education and learning workflows, potentially shaping future skill development and productivity tools.",
-      "date": "2026-08-19",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "AI tools",
-        "productivity"
-      ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image2-3-768x432.png"
     },
     {
-      "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-user",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance enabling AI agents for trading shows increased adoption of AI in financial workflows, increasing pressure on traders and analysts to adapt to AI-driven decision-making.",
+      "id": "introducing-ai-futures",
+      "title": "Introducing AI Futures",
+      "summary": "OpenAI's AI Futures blog explores how transformative AI could reshape economic and societal structures, signaling increased focus on AI's broad implications for work and governance.",
       "date": "2026-08-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial technology",
-        "workflow automation"
-      ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "offering-zero-data-retention-for-frontier-models",
-      "title": "Offering Zero Data Retention for frontier models",
-      "summary": "OpenAI's commitment to zero data retention and private safety processing enhances trust in AI tools, potentially accelerating enterprise adoption of frontier models.",
-      "date": "2026-08-19",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "sourceUrl": "https://openai.com/index/introducing-ai-futures",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "data privacy",
-        "AI safety",
-        "enterprise adoption"
+        "policy",
+        "economic-impact",
+        "ai-research"
       ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
@@ -3597,36 +3498,137 @@
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "google-packs-search-and-gemini-with-new-ai-study-tools",
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "Google's new AI study tools signal growing AI adoption in education and learning, potentially impacting skills development and productivity across multiple industries.",
-      "date": "2026-08-19",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "id": "slack-is-launching-collaborative-vibe-coding-channels",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "summary": "Slack's new AI-powered coding channels aim to streamline collaboration and productivity for software development teams.",
+      "date": "2026-08-20",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "education",
-        "AI tools",
-        "productivity"
+        "AI workflow integration",
+        "productivity tools",
+        "coding agents"
       ],
-      "fetchedAt": "2026-08-20T11:00:52.163Z",
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "when-ai-designs-a-drug-who-gets-the-credit-",
+      "title": "When AI designs a drug, who gets the credit?",
+      "summary": "AI is increasingly being credited with drug discovery, signaling a major shift in how scientific and healthcare work is conducted.",
+      "date": "2026-08-21",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "scientific innovation",
+        "workplace transformation"
+      ],
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "healthcare",
+        "life-physical-and-social-science",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-apps",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary": "Meta AI's new Mac app enables voice-controlled interaction with apps, potentially improving productivity and changing user workflows.",
+      "date": "2026-08-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "user interface"
+      ],
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "education-training-and-library",
         "computer-and-information-technology",
+        "office-and-administrative-support",
         "_all"
       ]
+    },
+    {
+      "id": "cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+      "title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak",
+      "summary": "China's AI hardware sector gains momentum as CXMT Corp.'s success signals growing domestic capability in AI development.",
+      "date": "2026-08-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI hardware",
+        "strategic competition",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+      "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+      "summary": "The article highlights how the AI industry underestimated public concerns about data center construction, indicating a potential regulatory or social delay in AI adoption.",
+      "date": "2026-08-21",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "public-perception",
+        "adoption-barriers"
+      ],
+      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "construction-and-extraction",
+        "_all"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "52 min"
     }
   ],
-  "generatedAt": "2026-08-20T12:00:00.000Z",
+  "generatedAt": "2026-08-21T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Tools Expand, Hiring Shifts as Job Pressures Evolve",
-      "preview": "New AI tools and hiring strategies signal ongoing shifts in job market dynamics.",
-      "body": "Recent developments show continued progress in AI tooling, with NVIDIA, Google, and Binance advancing AI integration into workflows. However, Hays' shift toward hard-to-replace roles suggests a cautious response to AI-driven labor pressures. Overall, the mix points to growing adoption alongside measured adaptation efforts."
+      "title": "AI Advances Continue to Shape Workforce Dynamics",
+      "preview": "Major AI developments signal ongoing shifts in job landscapes.",
+      "body": "Most signals today highlight AI advancements, such as improved recommenders and drug discovery, indicating growing integration of AI into core business functions. However, a single delay signal notes public concerns about AI infrastructure, suggesting potential regulatory challenges. Overall, the feed leans toward progress with mixed implications for workforce adaptation."
     }
   }
 }

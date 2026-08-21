@@ -1,5 +1,222 @@
 [
   {
+    "date": "2026-08-21",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.104,
+    "macroReplacementRate": 50.146,
+    "newsAdjustment": -15.104,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-generative-recommenders-are-redefining-recsys-at-scale",
+        "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+        "summary": "Generative AI is transforming large-scale recommender systems, potentially improving personalization and user engagement in tech-driven industries.",
+        "date": "2026-08-20",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow change",
+          "machine learning"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image2-3-768x432.png"
+      },
+      {
+        "id": "introducing-ai-futures",
+        "title": "Introducing AI Futures",
+        "summary": "OpenAI's AI Futures blog explores how transformative AI could reshape economic and societal structures, signaling increased focus on AI's broad implications for work and governance.",
+        "date": "2026-08-20",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/introducing-ai-futures",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "economic-impact",
+          "ai-research"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "slack-is-launching-collaborative-vibe-coding-channels",
+        "title": "Slack is launching collaborative vibe-coding channels",
+        "summary": "Slack's new AI-powered coding channels aim to streamline collaboration and productivity for software development teams.",
+        "date": "2026-08-20",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI workflow integration",
+          "productivity tools",
+          "coding agents"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "when-ai-designs-a-drug-who-gets-the-credit-",
+        "title": "When AI designs a drug, who gets the credit?",
+        "summary": "AI is increasingly being credited with drug discovery, signaling a major shift in how scientific and healthcare work is conducted.",
+        "date": "2026-08-21",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "scientific innovation",
+          "workplace transformation"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-apps",
+        "title": "Meta AI’s new Mac app wants you to talk to your apps",
+        "summary": "Meta AI's new Mac app enables voice-controlled interaction with apps, potentially improving productivity and changing user workflows.",
+        "date": "2026-08-20",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "user interface"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+        "title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak",
+        "summary": "China's AI hardware sector gains momentum as CXMT Corp.'s success signals growing domestic capability in AI development.",
+        "date": "2026-08-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI hardware",
+          "strategic competition",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+        "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
+        "summary": "The article highlights how the AI industry underestimated public concerns about data center construction, indicating a potential regulatory or social delay in AI adoption.",
+        "date": "2026-08-21",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "public-perception",
+          "adoption-barriers"
+        ],
+        "fetchedAt": "2026-08-21T11:00:55.384Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "construction-and-extraction",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "52 min"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How Generative Recommenders Are Redefining RecSys at Scale.",
+        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How Generative Recommenders Are Redefining RecSys at Scale\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash\" (Apple Podcasts - Odd Lots). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.104 minutes. Updated 2026-08-21T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-20",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.845,
@@ -19311,218 +19528,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Nvidia Targets New Revenue Engine Beyond Hyperscalers.",
         "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Nvidia Targets New Revenue Engine Beyond Hyperscalers\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -8.959 minutes. Updated 2026-05-21T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-20",
-    "minutesToMidnight": 5,
-    "exactMinutesToMidnight": 4.644,
-    "macroReplacementRate": 49.678,
-    "newsAdjustment": -8.356,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "the-next-phase-of-openai-s-education-for-countries",
-        "title": "The next phase of OpenAI’s Education for Countries",
-        "summary": "OpenAI's expansion of AI in education signals increased adoption of AI tools in teaching and learning, potentially reshaping skills development and workforce preparation.",
-        "date": "2026-05-20",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "education",
-          "AI adoption",
-          "teacher training",
-          "global learning"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "education-training-and-library",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "meta-starts-8-000-global-job-cuts-in-ai-efficiency-push",
-        "title": "Meta Starts 8,000 Global Job Cuts in AI Efficiency Push",
-        "summary": "Meta's large-scale layoffs highlight the growing pressure on workers due to AI-driven efficiency efforts, signaling a shift in workforce dynamics as companies prioritize AI adoption.",
-        "date": "2026-05-20",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-20/meta-starts-8-000-global-job-cuts-in-ai-efficiency-push-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce restructuring",
-          "productivity",
-          "hiring trends"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-commits-234-million-for-new-ai-lab-in-singapore",
-        "title": "OpenAI Commits $234 Million for New AI Lab in Singapore",
-        "summary": "OpenAI's investment in a new AI lab in Singapore signals increased global AI infrastructure and capability development, likely boosting tech and research job opportunities.",
-        "date": "2026-05-20",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-20/openai-commits-234-million-for-new-ai-lab-in-singapore",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "global expansion"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "introducing-openai-for-singapore",
-        "title": "Introducing OpenAI for Singapore",
-        "summary": "OpenAI's partnership in Singapore signals increased AI adoption and local talent development, impacting multiple industries through enhanced AI deployment.",
-        "date": "2026-05-19",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/introducing-openai-for-singapore",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI partnership",
-          "talent development",
-          "workforce adoption"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "google-s-ai-future-demands-trust-and-your-personal-data",
-        "title": "Google’s AI future demands trust — and your personal data",
-        "summary": "Google is expanding AI tools into daily work tasks like email management and event organization, increasing workplace AI adoption and productivity.",
-        "date": "2026-05-19",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "workplace adoption",
-          "productivity"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gemini-spark-tasks.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "meta-begins-8-000-global-job-cuts-in-ai-efficiency-push",
-        "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
-        "summary": "Meta's job cuts highlight AI-driven efficiency efforts, signaling increased pressure on workforce roles due to AI adoption.",
-        "date": "2026-05-19",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-19/meta-begins-job-cuts-in-efficiency-push-spurred-on-by-ai",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce restructuring",
-          "AI efficiency"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
-        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-        "summary": "Google's AI-powered voice search in Gmail improves productivity and workflow for office and administrative tasks.",
-        "date": "2026-05-19",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "productivity tools",
-          "workplace technology"
-        ],
-        "fetchedAt": "2026-05-20T11:01:15.989Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "office-and-administrative-support",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by The next phase of OpenAI’s Education for Countries.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"The next phase of OpenAI’s Education for Countries\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -8.356 minutes. Updated 2026-05-20T12:00:00.000Z, with the macro replacement estimate at 49.7%."
       }
     }
   }
