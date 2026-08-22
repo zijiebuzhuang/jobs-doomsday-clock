@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:06",
+  "displayTime": "00:02:09",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.104,
+  "exactMinutesToMidnight": -2.149,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.104,
+  "newsAdjustment": -15.149,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.146,
+  "macroReplacementRate": 50.149,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,143 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "how-generative-recommenders-are-redefining-recsys-at-scale",
-      "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-      "summary": "Generative AI is transforming large-scale recommender systems, potentially improving personalization and user engagement in tech-driven industries.",
-      "date": "2026-08-20",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "workflow change",
-        "machine learning"
-      ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/image2-3-768x432.png"
-    },
-    {
-      "id": "introducing-ai-futures",
-      "title": "Introducing AI Futures",
-      "summary": "OpenAI's AI Futures blog explores how transformative AI could reshape economic and societal structures, signaling increased focus on AI's broad implications for work and governance.",
-      "date": "2026-08-20",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-ai-futures",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "economic-impact",
-        "ai-research"
-      ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "slack-is-launching-collaborative-vibe-coding-channels",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "summary": "Slack's new AI-powered coding channels aim to streamline collaboration and productivity for software development teams.",
-      "date": "2026-08-20",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI workflow integration",
-        "productivity tools",
-        "coding agents"
-      ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "when-ai-designs-a-drug-who-gets-the-credit-",
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "AI is increasingly being credited with drug discovery, signaling a major shift in how scientific and healthcare work is conducted.",
+      "id": "apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+      "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
+      "summary": "Apple's job cuts in AI and immersive tech teams signal a strategic shift toward new AI-driven products and devices, reflecting increased pressure to adopt AI in work processes.",
       "date": "2026-08-21",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "scientific innovation",
-        "workplace transformation"
+        "workforce changes",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "healthcare",
-        "life-physical-and-social-science",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "meta-ai-s-new-mac-app-wants-you-to-talk-to-your-apps",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary": "Meta AI's new Mac app enables voice-controlled interaction with apps, potentially improving productivity and changing user workflows.",
-      "date": "2026-08-20",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "user interface"
-      ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
-      "title": "CXMT, AI Hardware Firms Take Helm as China Earnings Enter Peak",
-      "summary": "China's AI hardware sector gains momentum as CXMT Corp.'s success signals growing domestic capability in AI development.",
-      "date": "2026-08-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI hardware",
-        "strategic competition",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3595,40 +3472,183 @@
       ]
     },
     {
-      "id": "jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
-      "title": "Jasmine Sun on What the AI Industry Got Wrong About the Public Backlash",
-      "summary": "The article highlights how the AI industry underestimated public concerns about data center construction, indicating a potential regulatory or social delay in AI adoption.",
+      "id": "anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+      "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+      "summary": "Anthropic's hiring of a Google chip expert signals increased focus on hardware development, potentially accelerating AI capabilities and workforce demand in tech and engineering fields.",
       "date": "2026-08-21",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
-      "effect": "delay",
-      "impactScore": 3,
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "public-perception",
-        "adoption-barriers"
+        "AI hardware",
+        "enterprise adoption",
+        "talent acquisition"
       ],
-      "fetchedAt": "2026-08-21T11:00:55.384Z",
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
       "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "construction-and-extraction",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+      "title": "Nvidia to Pay AI Startup Poolside a $6 Billion License, Newcomer Says",
+      "summary": "Nvidia's $6 billion AI model licensing deal signals growing adoption of advanced AI capabilities in enterprise workflows and hiring practices.",
+      "date": "2026-08-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "AI-licensing",
+        "hiring-trends"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Enterprise AI adoption is volatile, indicating rapid changes in AI tool usage and potential shifts in workforce skills and hiring priorities.",
+      "date": "2026-08-20",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "AI-competition",
+        "workplace-adoption"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "welcome-to-the-ai-crisis-in-math",
+      "title": "Welcome to the AI crisis in math",
+      "summary": "AI is making significant advances in mathematics, causing debate and potential shifts in the field's future.",
+      "date": "2026-08-20",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "mathematics",
+        "workforce impact"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "math",
+        "computer-and-information-technology",
+        "life-physical-and-social-science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-preps-for-blockbuster-public-listing-bloomberg-tech-8-21-2026",
+      "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
+      "summary": "Anthropic's potential blockbuster IPO signals growing AI company valuation and increased investment in AI infrastructure, likely boosting AI adoption and workforce demand in tech and related fields.",
+      "date": "2026-08-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI company valuation",
+        "IPO",
+        "AI infrastructure",
+        "investment"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "wall-street-struggles-to-absorb-ai-s-debt-boom",
+      "title": "Wall Street Struggles to Absorb AI’s Debt Boom",
+      "summary": "Large-scale AI investment and debt financing highlight growing pressure and financial challenges in the AI industry, signaling increased adoption and demand for AI infrastructure.",
+      "date": "2026-08-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI funding",
+        "AI infrastructure",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "production"
+      ]
+    },
+    {
+      "id": "openai-hit-the-brakes-now-what-",
+      "title": "OpenAI hit the brakes. Now what?",
+      "summary": "OpenAI slowing AI development due to security and safeguards highlights growing regulatory and safety concerns affecting AI adoption and workplace integration.",
+      "date": "2026-08-19",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "adoption"
+      ],
+      "fetchedAt": "2026-08-22T11:00:49.423Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
         "_all"
       ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8387538d-5ecf-4b07-a3f0-b4ab00e1cbc5/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "52 min"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-21T12:00:00.000Z",
+  "generatedAt": "2026-08-22T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Shape Workforce Dynamics",
-      "preview": "Major AI developments signal ongoing shifts in job landscapes.",
-      "body": "Most signals today highlight AI advancements, such as improved recommenders and drug discovery, indicating growing integration of AI into core business functions. However, a single delay signal notes public concerns about AI infrastructure, suggesting potential regulatory challenges. Overall, the feed leans toward progress with mixed implications for workforce adaptation."
+      "title": "AI Job Replacement Pressure Stabilizes Slightly",
+      "preview": "New hires and strategic shifts signal ongoing AI integration.",
+      "body": "Recent signals show a mix of AI-driven job cuts and new hiring, reflecting both pressure and opportunity. Apple's layoffs and OpenAI's slowdown highlight challenges, while Anthropic's hardware focus and Nvidia's licensing deal indicate growing AI adoption. Overall, the balance remains tight but stable."
     }
   }
 }

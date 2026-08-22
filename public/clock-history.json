@@ -1,5 +1,242 @@
 [
   {
+    "date": "2026-08-22",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.149,
+    "macroReplacementRate": 50.149,
+    "newsAdjustment": -15.149,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+        "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
+        "summary": "Apple's job cuts in AI and immersive tech teams signal a strategic shift toward new AI-driven products and devices, reflecting increased pressure to adopt AI in work processes.",
+        "date": "2026-08-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce changes",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+        "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+        "summary": "Anthropic's hiring of a Google chip expert signals increased focus on hardware development, potentially accelerating AI capabilities and workforce demand in tech and engineering fields.",
+        "date": "2026-08-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI hardware",
+          "enterprise adoption",
+          "talent acquisition"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+        "title": "Nvidia to Pay AI Startup Poolside a $6 Billion License, Newcomer Says",
+        "summary": "Nvidia's $6 billion AI model licensing deal signals growing adoption of advanced AI capabilities in enterprise workflows and hiring practices.",
+        "date": "2026-08-20",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "AI-licensing",
+          "hiring-trends"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "summary": "Enterprise AI adoption is volatile, indicating rapid changes in AI tool usage and potential shifts in workforce skills and hiring priorities.",
+        "date": "2026-08-20",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "AI-competition",
+          "workplace-adoption"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "welcome-to-the-ai-crisis-in-math",
+        "title": "Welcome to the AI crisis in math",
+        "summary": "AI is making significant advances in mathematics, causing debate and potential shifts in the field's future.",
+        "date": "2026-08-20",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "mathematics",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "math",
+          "computer-and-information-technology",
+          "life-physical-and-social-science"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-preps-for-blockbuster-public-listing-bloomberg-tech-8-21-2026",
+        "title": "Anthropic Preps for Blockbuster Public Listing | Bloomberg Tech 8/21/2026",
+        "summary": "Anthropic's potential blockbuster IPO signals growing AI company valuation and increased investment in AI infrastructure, likely boosting AI adoption and workforce demand in tech and related fields.",
+        "date": "2026-08-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-tech-8-21-2026-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI company valuation",
+          "IPO",
+          "AI infrastructure",
+          "investment"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "wall-street-struggles-to-absorb-ai-s-debt-boom",
+        "title": "Wall Street Struggles to Absorb AI’s Debt Boom",
+        "summary": "Large-scale AI investment and debt financing highlight growing pressure and financial challenges in the AI industry, signaling increased adoption and demand for AI infrastructure.",
+        "date": "2026-08-21",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-struggles-to-absorb-ai-s-debt-boom-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI funding",
+          "AI infrastructure",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "production"
+        ]
+      },
+      {
+        "id": "openai-hit-the-brakes-now-what-",
+        "title": "OpenAI hit the brakes. Now what?",
+        "summary": "OpenAI slowing AI development due to security and safeguards highlights growing regulatory and safety concerns affecting AI adoption and workplace integration.",
+        "date": "2026-08-19",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "adoption"
+        ],
+        "fetchedAt": "2026-08-22T11:00:49.423Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI hit the brakes. Now what?\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.149 minutes. Updated 2026-08-22T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-21",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.104,
@@ -19316,218 +19553,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Google I/O showed how the path for AI-driven science is shifting.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Google I/O showed how the path for AI-driven science is shifting\" (MIT Tech Review), while the clearest drag comes from \"California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs\" (ABC7 San Francisco). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.125 minutes. Updated 2026-05-22T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-21",
-    "minutesToMidnight": 4,
-    "exactMinutesToMidnight": 4.041,
-    "macroReplacementRate": 49.72,
-    "newsAdjustment": -8.959,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "nvidia-targets-new-revenue-engine-beyond-hyperscalers",
-        "title": "Nvidia Targets New Revenue Engine Beyond Hyperscalers",
-        "summary": "Nvidia's expansion beyond hyperscalers signals growing AI adoption across diverse industries, increasing demand for AI-related skills and roles.",
-        "date": "2026-05-21",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/nvidia-targets-new-revenue-engine-beyond-hyperscalers-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "ai-infrastructure",
-          "market-growth"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "former-google-deepmind-researcher-on-new-ai-startup",
-        "title": "Former Google Deepmind Researcher on New AI Startup",
-        "summary": "A former Google DeepMind researcher launching a new AI startup signals growing AI talent movement and potential advancements in visual reasoning AI capabilities.",
-        "date": "2026-05-21",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-21/former-google-deepmind-researcher-on-new-ai-startup-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "startup",
-          "talent-movement",
-          "visual-reasoning"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-says-it-s-about-to-have-its-first-profitable-quarter",
-        "title": "Anthropic says it’s about to have its first profitable quarter",
-        "summary": "Anthropic's projected revenue growth signals increasing commercial success and potential for broader AI adoption in enterprise and business operations.",
-        "date": "2026-05-21",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "financial-performance",
-          "ai-commercialization"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-layoffs-2026-tech-workforce-crisis-and-investment-outlook",
-        "title": "AI Layoffs 2026: Tech Workforce Crisis and Investment Outlook",
-        "summary": "This headline signals a major AI-driven workforce shift in the tech industry, indicating growing pressure on jobs and investment trends.",
-        "date": "2026-05-21",
-        "source": "Intellectia AI",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FRU42eklZWGY3NVRmSzJ0YjQ4S2RzSGx5RmgwbTRFTkpUZTdOZGVkZWVUejdMejN3M1NXWm1ENDdiTVAzbGZfalBMbzZaU3Qxcl9vbHhkY1M2VTF1Y0JqVFV0X0EyZkhsVzFiRkQ4c012SkU?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI workforce impact",
-          "tech industry",
-          "job market trends"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "add-a-specialized-deep-research-skill-to-agent-harnesses",
-        "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
-        "summary": "AI agent frameworks are improving their ability to handle complex, data-driven research tasks, increasing their utility in knowledge-intensive workflows.",
-        "date": "2026-05-20",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "workflows",
-          "productivity",
-          "deep research"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/Agentic-AI-768x432.jpg"
-      },
-      {
-        "id": "it-s-make-or-break-time-for-ai-labeling-systems",
-        "title": "It’s make or break time for AI labeling systems",
-        "summary": "New AI labeling systems are being tested to detect deepfakes, which could impact content verification and trust in digital media.",
-        "date": "2026-05-20",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI regulation",
-          "content verification",
-          "deepfakes"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ai-label-swag-pope.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
-        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-        "summary": "OpenAI's AI model solving a long-standing math problem demonstrates significant progress in AI reasoning capabilities, potentially influencing fields requiring advanced problem-solving skills.",
-        "date": "2026-05-20",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI reasoning",
-          "mathematical advancement",
-          "AI capability"
-        ],
-        "fetchedAt": "2026-05-21T11:01:25.769Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "math",
-          "computer-and-information-technology",
-          "architecture-and-engineering"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Nvidia Targets New Revenue Engine Beyond Hyperscalers.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Nvidia Targets New Revenue Engine Beyond Hyperscalers\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -8.959 minutes. Updated 2026-05-21T12:00:00.000Z, with the macro replacement estimate at 49.7%."
       }
     }
   }
