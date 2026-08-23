@@ -1,5 +1,194 @@
 [
   {
+    "id": "meta-ai-is-getting-a-mac-app",
+    "title": "Meta AI is getting a Mac app",
+    "summary": "Meta AI's new Mac app enhances productivity by integrating AI into daily workflows, suggesting content and assisting with tasks based on screen activity.",
+    "date": "2026-08-19",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "alibaba-seeks-10-billion-from-share-sale-for-ai-expansion",
+    "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
+    "summary": "Alibaba's $10 billion raise signals increased investment in AI, likely accelerating AI development and adoption across industries.",
+    "date": "2026-08-23",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "enterprise AI",
+      "corporate strategy"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+    "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
+    "summary": "A mysterious AI model offering free access could accelerate developer adoption and innovation in AI tools.",
+    "date": "2026-08-23",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI model",
+      "developer adoption",
+      "open access"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+    "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
+    "summary": "AI is affecting wages without necessarily reducing jobs, indicating potential labor market shifts influenced by AI adoption.",
+    "date": "2026-08-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "wage impact",
+      "labor market",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthr",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "summary": "An AI agent developed by DeepMind alumni outperforms major AI labs in replicating scientific research, signaling progress in AI's role in scientific innovation and work processes.",
+    "date": "2026-08-22",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capabilities",
+      "scientific research",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "nvidia-customers-notified-about-ai-related-price-hikes-above-15-",
+    "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+    "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across tech and related industries.",
+    "date": "2026-08-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "cost trends",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "oracle-mulls-more-layoffs-to-fund-ai-ambitions-is-this-the-real-ai-job-threat-",
+    "title": "Oracle Mulls More Layoffs to Fund AI Ambitions—Is This the Real AI Job Threat?",
+    "summary": "Oracle's potential layoffs to fund AI ambitions signal increased pressure on workforce as companies invest in AI, potentially reshaping job roles and priorities.",
+    "date": "2026-08-21",
+    "source": "UC Today",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUExUeXU0SnZNQTZ4dkZRTkctVE1acENvVnFnTzFYYUZHQ3hRdVRvcVAzb2htZ1g0b1piZXBqcm9fMXotM2tiSUJYcUhERlZFbGZKNW5BRjlWTkZKMXY2SXhPZFE1M0NBZl85MTRkWksxZnRQQzJjNWJjSkt5ZWVNMTNxRlh0bkt0ZS0yZkY0a0JEdGRzMzdlcnB5ZkdCUQ?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce transformation",
+      "corporate strategy"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "governor-hochul-launches-futureworks-commission-listening-sessions-as-part-of-pl",
+    "title": "Governor Hochul Launches FutureWorks Commission Listening Sessions as Part of Plan to Address AI Workforce Impacts Across New York",
+    "summary": "A state initiative to assess AI's impact on the workforce signals regulatory and policy efforts shaping AI adoption.",
+    "date": "2026-08-19",
+    "source": "Governor Kathy Hochul (.gov)",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXhtdnZQaEhxR18xd1dtVFNfVGs2cnFYMjM3T1JzNC1fT3pqcDhsWUV4dVExeGxJaFdOa1ZMbkJya1NKVWdZRFZMbERGcjdvZGxDZEN4QlB2ZXg3VW1QMWQ2QjhOQ0VkQ1NOV1dVOTFYYlFMUmQ2dFF3TmhHRGw3ZjVERHlNNGxnVEkydEptRGFYZkhGN29DTkRzVFZrcldDQi1NWGFxVG5wRmFHOHBScXBncTRZU19KS2V0Mg?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "workforce"
+    ],
+    "fetchedAt": "2026-08-23T11:00:46.956Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "welcome-to-the-ai-crisis-in-math",
     "title": "Welcome to the AI crisis in math",
     "summary": "AI is making significant advances in mathematics, causing debate and potential shifts in the field's future.",
@@ -15157,170 +15346,6 @@
       "labor"
     ],
     "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "generative-ai-and-the-reorganization-of-labor-demand",
-    "title": "Generative AI and the Reorganization of Labor Demand",
-    "summary": "The article explores how generative AI is reshaping labor demand across various industries, signaling a major shift in workforce needs and job roles.",
-    "date": "2026-05-22",
-    "source": "arXiv - AI Labor",
-    "sourceUrl": "https://arxiv.org/abs/2605.23159v1",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "labor demand",
-      "workforce transformation"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "pope-leo-warns-ai-should-be-prevented-from-dominating-humanity-",
-    "title": "Pope Leo Warns AI Should Be Prevented From ‘Dominating Humanity’",
-    "summary": "Pope's warning about AI highlights growing ethical and regulatory concerns that could slow AI adoption in the workplace.",
-    "date": "2026-05-25",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/pope-leo-warns-ai-should-be-prevented-from-dominating-humanity",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "ethics",
-      "policy"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "sakura-internet-eyes-more-spending-to-meet-japan-s-ai-demand",
-    "title": "Sakura Internet Eyes More Spending to Meet Japan’s AI Demand",
-    "summary": "Sakura Internet's potential massive increase in capital spending signals growing AI demand in Japan, indicating increased investment and adoption of AI technologies.",
-    "date": "2026-05-25",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-25/sakura-internet-eyes-more-spending-to-meet-ai-data-center-demand",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "capital spending"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
-    "title": "ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says",
-    "summary": "Regulatory action by the ECB highlights growing concerns about AI-driven cybersecurity risks, prompting banks to strengthen IT security measures.",
-    "date": "2026-05-24",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-convenes-banks-to-fix-flaws-exposed-by-ai-models-ft-says",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "cybersecurity",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "hyperscaler-debt-flood-brings-derivatives-bonanza",
-    "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-    "summary": "Hyperscalers' increased AI investment leads to more credit derivatives trading, signaling growing financial complexity around AI funding and adoption.",
-    "date": "2026-05-23",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI funding",
-      "financial systems",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "las-vegas-students-and-schools-weigh-impact-of-artificial-intelligence-on-entry-",
-    "title": "Las Vegas students and schools weigh impact of artificial intelligence on entry-level employment",
-    "summary": "Students and schools in Las Vegas are assessing how AI is influencing entry-level employment, signaling growing awareness of AI's impact on job markets.",
-    "date": "2026-05-23",
-    "source": "FOX5 Vegas",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzY3YTFkN0swTmZSTGhXQ0J4cS1ZRmh6eGUxV1NnWXNtemZrdnFvQjk3bGxiVnpMRl9ydzJFNmgxOUZGYzFIRWxIVWdPTE05cjR1MG5ZbW5DemFVQ1FRekJ1dzdiVC03Sm8xMnF6ZWkzZENHcE80d1Z4OVl1bzhIN25xSG00d2JpUWloejA2c3FMb0RnN2pVTktyU1FBcnhlRjZFZWJ5MHJKODNEc2RFYUdMT2lfWm96MGFhZklfVGgzQdIB1gFBVV95cUxNd1JqZHFpTVlqVUtWWlp0aHB1SzV1U2NYR1hLN3NZSXgydy1QMnlEMlFoMGNfS3R1WTN0S0VfcVcteXp4dE5rM0FDVkNycEV0YVBCZmkzSkY0WTdSX2F5Zld3MVRLXy1EQ3dWQmNnanBaTElCN0JkMFFkTWZJTTZwZDVSSHBrRUVtU0sxeldGZ1piLUNnMEJaQ3dVcXlfc2NyMWRQbWpWVTlFN1VadGhLZ1hHbVlHclNEQmF5QUtzTWM1djEwd3E1ajEtZ3ZPazA3UFFlR3Nn?oc=5",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "education",
-      "workforce-development",
-      "AI-impact"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "education-training-and-library",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "top-20-predictions-from-experts-on-ai-job-loss",
-    "title": "Top 20+ Predictions from Experts on AI Job Loss",
-    "summary": "This article highlights expert predictions about AI job loss, signaling growing awareness of AI's impact on employment across various industries.",
-    "date": "2026-05-21",
-    "source": "AIMultiple",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LckFPekg2eWZXd2JuN19Bam5tNWV2WmtqOWVTbDJFT0lMNF9MSVpQUjZzZkkwaEJrZ0lmaHhYZ3FZRFVUcTJuVWx3?oc=5",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "job market",
-      "AI impact",
-      "career signals"
-    ],
-    "fetchedAt": "2026-05-25T11:01:07.531Z",
     "sourceGroup": "labor-market",
     "sourceTier": "aggregator",
     "qualityScore": 55,

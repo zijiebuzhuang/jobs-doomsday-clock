@@ -1,5 +1,236 @@
 [
   {
+    "date": "2026-08-23",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.24,
+    "macroReplacementRate": 50.155,
+    "newsAdjustment": -15.24,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+        "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
+        "summary": "AI is affecting wages without necessarily reducing jobs, indicating potential labor market shifts influenced by AI adoption.",
+        "date": "2026-08-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "wage impact",
+          "labor market",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "meta-ai-is-getting-a-mac-app",
+        "title": "Meta AI is getting a Mac app",
+        "summary": "Meta AI's new Mac app enhances productivity by integrating AI into daily workflows, suggesting content and assisting with tasks based on screen activity.",
+        "date": "2026-08-19",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflows"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthr",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "summary": "An AI agent developed by DeepMind alumni outperforms major AI labs in replicating scientific research, signaling progress in AI's role in scientific innovation and work processes.",
+        "date": "2026-08-22",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI capabilities",
+          "scientific research",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "nvidia-customers-notified-about-ai-related-price-hikes-above-15-",
+        "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+        "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across tech and related industries.",
+        "date": "2026-08-22",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "cost trends",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "oracle-mulls-more-layoffs-to-fund-ai-ambitions-is-this-the-real-ai-job-threat-",
+        "title": "Oracle Mulls More Layoffs to Fund AI Ambitions—Is This the Real AI Job Threat?",
+        "summary": "Oracle's potential layoffs to fund AI ambitions signal increased pressure on workforce as companies invest in AI, potentially reshaping job roles and priorities.",
+        "date": "2026-08-21",
+        "source": "UC Today",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUExUeXU0SnZNQTZ4dkZRTkctVE1acENvVnFnTzFYYUZHQ3hRdVRvcVAzb2htZ1g0b1piZXBqcm9fMXotM2tiSUJYcUhERlZFbGZKNW5BRjlWTkZKMXY2SXhPZFE1M0NBZl85MTRkWksxZnRQQzJjNWJjSkt5ZWVNMTNxRlh0bkt0ZS0yZkY0a0JEdGRzMzdlcnB5ZkdCUQ?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "corporate strategy"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "governor-hochul-launches-futureworks-commission-listening-sessions-as-part-of-pl",
+        "title": "Governor Hochul Launches FutureWorks Commission Listening Sessions as Part of Plan to Address AI Workforce Impacts Across New York",
+        "summary": "A state initiative to assess AI's impact on the workforce signals regulatory and policy efforts shaping AI adoption.",
+        "date": "2026-08-19",
+        "source": "Governor Kathy Hochul (.gov)",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXhtdnZQaEhxR18xd1dtVFNfVGs2cnFYMjM3T1JzNC1fT3pqcDhsWUV4dVExeGxJaFdOa1ZMbkJya1NKVWdZRFZMbERGcjdvZGxDZEN4QlB2ZXg3VW1QMWQ2QjhOQ0VkQ1NOV1dVOTFYYlFMUmQ2dFF3TmhHRGw3ZjVERHlNNGxnVEkydEptRGFYZkhGN29DTkRzVFZrcldDQi1NWGFxVG5wRmFHOHBScXBncTRZU19KS2V0Mg?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "workforce"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "alibaba-seeks-10-billion-from-share-sale-for-ai-expansion",
+        "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
+        "summary": "Alibaba's $10 billion raise signals increased investment in AI, likely accelerating AI development and adoption across industries.",
+        "date": "2026-08-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "enterprise AI",
+          "corporate strategy"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+        "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
+        "summary": "A mysterious AI model offering free access could accelerate developer adoption and innovation in AI tools.",
+        "date": "2026-08-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI model",
+          "developer adoption",
+          "open access"
+        ],
+        "fetchedAt": "2026-08-23T11:00:46.956Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research\" (TechCrunch - AI), while the clearest drag comes from \"Governor Hochul Launches FutureWorks Commission Listening Sessions as Part of Plan to Address AI Workforce Impacts Across New York\" (Governor Kathy Hochul (.gov)). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.240 minutes. Updated 2026-08-23T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-08-22",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.149,
@@ -19341,218 +19572,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI named a Leader in enterprise coding agents by Gartner.",
         "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI named a Leader in enterprise coding agents by Gartner\" (OpenAI), while the clearest drag comes from \"California Governor Acts on AI Workforce Disruption as Silicon Valley Sheds 114,000 Jobs\" (BeInCrypto). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -8.953 minutes. Updated 2026-05-23T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-22",
-    "minutesToMidnight": 4,
-    "exactMinutesToMidnight": 3.875,
-    "macroReplacementRate": 49.732,
-    "newsAdjustment": -9.125,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "google-i-o-showed-how-the-path-for-ai-driven-science-is-shifting",
-        "title": "Google I/O showed how the path for AI-driven science is shifting",
-        "summary": "Google's emphasis on AI-driven science signals growing AI capability and potential for transformative workplace changes.",
-        "date": "2026-05-22",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI research",
-          "scientific advancement",
-          "industry impact"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "life-physical-and-social-science",
-          "_all"
-        ]
-      },
-      {
-        "id": "eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-        "title": "EU-Anthropic Talks Over Mythos Concerns Are Stalled, Spain Says",
-        "summary": "Regulatory concerns are slowing the adoption of Anthropic's Mythos AI model, which could affect how companies and banks manage digital vulnerabilities.",
-        "date": "2026-05-22",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/eu-anthropic-talks-over-mythos-concerns-are-stalled-spain-says",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "enterprise-adoption",
-          "AI-security"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "blackrock-s-li-sees-earnings-momentum-driven-by-ai",
-        "title": "BlackRock's Li Sees Earnings Momentum Driven by AI",
-        "summary": "AI is influencing equity market earnings, signaling growing AI impact on financial and investment sectors.",
-        "date": "2026-05-22",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/blackrock-s-li-sees-earnings-momentum-driven-by-ai-video",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "financial-services",
-          "market-trends",
-          "AI-adoption"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "insilico-on-applying-ai-to-transform-drug-discovery",
-        "title": "Insilico on Applying AI to Transform Drug Discovery",
-        "summary": "AI is being applied to transform drug discovery and longevity research, indicating growing adoption of AI in healthcare and life sciences.",
-        "date": "2026-05-22",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/insilico-on-applying-ai-to-transform-drug-discovery-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "drug-discovery",
-          "ai-adoption",
-          "healthcare-innovation"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "healthcare",
-          "life-physical-and-social-science",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "ai-capex-drives-memory-demand-and-asia-tech-outlook",
-        "title": "AI Capex Drives Memory Demand and Asia Tech Outlook",
-        "summary": "Increased AI capital expenditure is boosting demand for semiconductors and influencing Asia's tech supply chain, signaling growing adoption of AI technologies.",
-        "date": "2026-05-22",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-22/ai-capex-drives-memory-demand-and-asia-tech-outlook-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "semiconductor demand",
-          "tech supply chain"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "_all"
-        ]
-      },
-      {
-        "id": "our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update",
-        "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-        "summary": "Google's updates to Gemini and agentic tools signal increased AI adoption in enterprise and developer workflows, potentially affecting tech and productivity across industries.",
-        "date": "2026-05-22",
-        "source": "Apple Podcasts - Hard Fork",
-        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "enterprise adoption",
-          "model updates"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/17a004d7-b40b-4836-b2d0-2ad7f830e13c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=17a004d7-b40b-4836-b2d0-2ad7f830e13c&feed=6HKOhNgS",
-        "duration": "00:55:21"
-      },
-      {
-        "id": "california-eyes-ai-regulation-as-gov-newsom-orders-new-workforce-protections-ami",
-        "title": "California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs",
-        "summary": "California's potential AI regulation and workforce protections signal increased oversight that may slow AI adoption in the workplace.",
-        "date": "2026-05-22",
-        "source": "ABC7 San Francisco",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFI0RzFJcHpQaWg2UEpza080aFg5aEFTeXpmNzZpMlc3MGwzT0V2WG44NGJUZENibVBxelN5WmtVQTVMbkk1VS1wR00tbndjN3FUbTkzN1lRbW9aTm4zbUlKVXlLYjBiNTg4ZzA1V2E2dGxMLTU3S3dZVHp2X0EyQXZOV3RLb3N0akR1TEd2Y3FMaFpPd0lIdzI3LTB5RlZuUWJFZ3BSTmJXTFJmZkFjQ05wTFBaSVZ1elNCYktnbkoyZm9vR0JNZnphejU5bG5QZUlfNdIB2gFBVV95cUxNWnl3Y1UxNUxXaFdfblNlNDhNNkl4RllDWWtxZG9HNXZHSmF4ajNSWWo3ZTEyaEhlTGExQXN1aTQyN2hncEVOR3VSY0xwQ2Y5c3lpRHJOOVlPeFFjYmhrWVExSUd3SF96ZlVhQVdOcWdkOG0yX2c1Q1NhUUdMYkhqQktPNEU4Ykk4X3hTYWZONG9FbjBXeGhDM1RtRWtuVDZNbzZLck5lQ0lXQWo4NV9YYlZGM25zc0pFeDZ4NEtVN3Y4cjVtNkpDTTJ4WndsZFU3WVc0WDdYU3BYQQ?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "workforce-protections",
-          "policy"
-        ],
-        "fetchedAt": "2026-05-22T11:00:59.923Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Google I/O showed how the path for AI-driven science is shifting.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Google I/O showed how the path for AI-driven science is shifting\" (MIT Tech Review), while the clearest drag comes from \"California eyes AI regulation as Gov. Newsom orders new workforce protections amid job shifts, mass layoffs\" (ABC7 San Francisco). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.125 minutes. Updated 2026-05-22T12:00:00.000Z, with the macro replacement estimate at 49.7%."
       }
     }
   }
