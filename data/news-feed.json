@@ -1,5 +1,199 @@
 [
   {
+    "id": "anthropic-says-australia-is-falling-behind-in-claude-coding-use",
+    "title": "Anthropic Says Australia is Falling Behind in Claude Coding Use",
+    "summary": "Australia is lagging in adopting advanced AI coding capabilities, indicating potential regional disparities in AI-driven productivity and skill development.",
+    "date": "2026-08-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/anthropic-says-australia-is-falling-behind-in-claude-coding-use",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "regional disparity",
+      "coding tools"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "_all"
+    ]
+  },
+  {
+    "id": "bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+    "title": "ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent",
+    "summary": "ByteDance integrating AI tools into its super-app reflects growing AI adoption in consumer tech, signaling increased pressure for AI integration in workplace tools and services.",
+    "date": "2026-08-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise tools",
+      "workplace integration"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-notifies-customers-about-ai-related-price-hikes",
+    "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+    "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across industries.",
+    "date": "2026-08-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "costs",
+      "adoption"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
+    "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
+    "summary": "Significant investment in digital infrastructure signals growing AI adoption and increased demand for tech and data-related roles in the UK.",
+    "date": "2026-08-24",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "investment",
+      "digital transformation"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-says-california-should-strengthen-its-ai-safety-bill",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "summary": "OpenAI's call for stronger AI safety regulation in California may slow the adoption of AI technologies in workplaces by introducing more oversight and compliance requirements.",
+    "date": "2026-08-22",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-s-opus-4-6-is-a-smut-machine",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "AI content moderation limitations highlight challenges in regulating AI-generated material, potentially slowing adoption in certain industries.",
+    "date": "2026-08-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "content-moderation"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-",
+    "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+    "summary": "OpenAI's pause in AI model training highlights growing concerns around AI safety and regulation, which may slow down AI adoption in the workplace.",
+    "date": "2026-08-21",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "adoption"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/c2f4606d-43aa-4cae-aa9b-45e47c523e61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=c2f4606d-43aa-4cae-aa9b-45e47c523e61&feed=6HKOhNgS",
+    "duration": "01:03:07"
+  },
+  {
+    "id": "90-of-firms-see-no-measurable-ai-impact-on-productivity-or-jobs-study",
+    "title": "90% of firms see no measurable AI impact on productivity or jobs: Study",
+    "summary": "A study shows that most firms have not yet seen measurable AI impact on productivity or jobs, suggesting slower adoption or implementation challenges.",
+    "date": "2026-08-24",
+    "source": "People Matters - HR News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVR0dVFhNnBsS2RPblNpSDVLdjlkcTc0a3YyR2xBQWxQV1E0V3FRMmlWUV9rREV1TnU0aDRPclJsU2Y3UWJpQVQ1cFZTZzhnZkpRWENLY3B0eWZ3Y1I5XzFXNmVha3JhZVNwbzFZVWhLV1RJdi13Z0xkNS01NnhFaEJfSWdJR1V4ZjM0TkhGc2JUaVBjazdkUzB2T1A5RFh4RG1lNW1nblBkYXdvLVhGN2REYl9nUkNLTDFPcjRFWEtKZ05BSVpyWFczZTZ0bW0zc0RJ?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "adoption-challenges",
+      "productivity",
+      "workplace-impact"
+    ],
+    "fetchedAt": "2026-08-24T11:00:47.951Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
     "id": "meta-ai-is-getting-a-mac-app",
     "title": "Meta AI is getting a Mac app",
     "summary": "Meta AI's new Mac app enhances productivity by integrating AI into daily workflows, suggesting content and assisting with tasks based on screen activity.",

@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:14",
+  "displayTime": "00:02:09",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.24,
+  "exactMinutesToMidnight": -2.156,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.24,
+  "newsAdjustment": -15.156,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.155,
+  "macroReplacementRate": 50.149,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,162 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
-      "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
-      "summary": "AI is affecting wages without necessarily reducing jobs, indicating potential labor market shifts influenced by AI adoption.",
-      "date": "2026-08-22",
+      "id": "anthropic-says-australia-is-falling-behind-in-claude-coding-use",
+      "title": "Anthropic Says Australia is Falling Behind in Claude Coding Use",
+      "summary": "Australia is lagging in adopting advanced AI coding capabilities, indicating potential regional disparities in AI-driven productivity and skill development.",
+      "date": "2026-08-24",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/anthropic-says-australia-is-falling-behind-in-claude-coding-use",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "wage impact",
-        "labor market",
-        "AI adoption"
+        "AI adoption",
+        "regional disparity",
+        "coding tools"
       ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "management",
-        "business-and-financial",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "meta-ai-is-getting-a-mac-app",
-      "title": "Meta AI is getting a Mac app",
-      "summary": "Meta AI's new Mac app enhances productivity by integrating AI into daily workflows, suggesting content and assisting with tasks based on screen activity.",
-      "date": "2026-08-19",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "architecture-and-engineering",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthr",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "An AI agent developed by DeepMind alumni outperforms major AI labs in replicating scientific research, signaling progress in AI's role in scientific innovation and work processes.",
-      "date": "2026-08-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capabilities",
-        "scientific research",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "life-physical-and-social-science",
-        "computer-and-information-technology"
       ]
     },
     {
-      "id": "nvidia-customers-notified-about-ai-related-price-hikes-above-15-",
-      "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
-      "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across tech and related industries.",
-      "date": "2026-08-22",
+      "id": "bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+      "title": "ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent",
+      "summary": "ByteDance integrating AI tools into its super-app reflects growing AI adoption in consumer tech, signaling increased pressure for AI integration in workplace tools and services.",
+      "date": "2026-08-24",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "cost trends",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "oracle-mulls-more-layoffs-to-fund-ai-ambitions-is-this-the-real-ai-job-threat-",
-      "title": "Oracle Mulls More Layoffs to Fund AI Ambitions—Is This the Real AI Job Threat?",
-      "summary": "Oracle's potential layoffs to fund AI ambitions signal increased pressure on workforce as companies invest in AI, potentially reshaping job roles and priorities.",
-      "date": "2026-08-21",
-      "source": "UC Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUExUeXU0SnZNQTZ4dkZRTkctVE1acENvVnFnTzFYYUZHQ3hRdVRvcVAzb2htZ1g0b1piZXBqcm9fMXotM2tiSUJYcUhERlZFbGZKNW5BRjlWTkZKMXY2SXhPZFE1M0NBZl85MTRkWksxZnRQQzJjNWJjSkt5ZWVNMTNxRlh0bkt0ZS0yZkY0a0JEdGRzMzdlcnB5ZkdCUQ?oc=5",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workforce transformation",
-        "corporate strategy"
+        "enterprise tools",
+        "workplace integration"
       ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "governor-hochul-launches-futureworks-commission-listening-sessions-as-part-of-pl",
-      "title": "Governor Hochul Launches FutureWorks Commission Listening Sessions as Part of Plan to Address AI Workforce Impacts Across New York",
-      "summary": "A state initiative to assess AI's impact on the workforce signals regulatory and policy efforts shaping AI adoption.",
-      "date": "2026-08-19",
-      "source": "Governor Kathy Hochul (.gov)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXhtdnZQaEhxR18xd1dtVFNfVGs2cnFYMjM3T1JzNC1fT3pqcDhsWUV4dVExeGxJaFdOa1ZMbkJya1NKVWdZRFZMbERGcjdvZGxDZEN4QlB2ZXg3VW1QMWQ2QjhOQ0VkQ1NOV1dVOTFYYlFMUmQ2dFF3TmhHRGw3ZjVERHlNNGxnVEkydEptRGFYZkhGN29DTkRzVFZrcldDQi1NWGFxVG5wRmFHOHBScXBncTRZU19KS2V0Mg?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "workforce"
-      ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "alibaba-seeks-10-billion-from-share-sale-for-ai-expansion",
-      "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
-      "summary": "Alibaba's $10 billion raise signals increased investment in AI, likely accelerating AI development and adoption across industries.",
-      "date": "2026-08-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "enterprise AI",
-        "corporate strategy"
-      ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3614,35 +3496,158 @@
       ]
     },
     {
-      "id": "mystery-ai-model-ox-alpha-draws-developers-with-free-access",
-      "title": "Mystery AI Model Ox Alpha Draws Developers With Free Access",
-      "summary": "A mysterious AI model offering free access could accelerate developer adoption and innovation in AI tools.",
-      "date": "2026-08-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
-      "effect": "advance",
+      "id": "90-of-firms-see-no-measurable-ai-impact-on-productivity-or-jobs-study",
+      "title": "90% of firms see no measurable AI impact on productivity or jobs: Study",
+      "summary": "A study shows that most firms have not yet seen measurable AI impact on productivity or jobs, suggesting slower adoption or implementation challenges.",
+      "date": "2026-08-24",
+      "source": "People Matters - HR News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVR0dVFhNnBsS2RPblNpSDVLdjlkcTc0a3YyR2xBQWxQV1E0V3FRMmlWUV9rREV1TnU0aDRPclJsU2Y3UWJpQVQ1cFZTZzhnZkpRWENLY3B0eWZ3Y1I5XzFXNmVha3JhZVNwbzFZVWhLV1RJdi13Z0xkNS01NnhFaEJfSWdJR1V4ZjM0TkhGc2JUaVBjazdkUzB2T1A5RFh4RG1lNW1nblBkYXdvLVhGN2REYl9nUkNLTDFPcjRFWEtKZ05BSVpyWFczZTZ0bW0zc0RJ?oc=5",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI model",
-        "developer adoption",
-        "open access"
+        "adoption-challenges",
+        "productivity",
+        "workplace-impact"
       ],
-      "fetchedAt": "2026-08-23T11:00:46.956Z",
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-notifies-customers-about-ai-related-price-hikes",
+      "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
+      "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across industries.",
+      "date": "2026-08-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "costs",
+        "adoption"
+      ],
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "production",
+        "_all"
+      ]
+    },
+    {
+      "id": "uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
+      "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
+      "summary": "Significant investment in digital infrastructure signals growing AI adoption and increased demand for tech and data-related roles in the UK.",
+      "date": "2026-08-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "investment",
+        "digital transformation"
+      ],
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-says-california-should-strengthen-its-ai-safety-bill",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI's call for stronger AI safety regulation in California may slow the adoption of AI technologies in workplaces by introducing more oversight and compliance requirements.",
+      "date": "2026-08-22",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI safety"
+      ],
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-",
+      "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+      "summary": "OpenAI's pause in AI model training highlights growing concerns around AI safety and regulation, which may slow down AI adoption in the workplace.",
+      "date": "2026-08-21",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "adoption"
+      ],
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/c2f4606d-43aa-4cae-aa9b-45e47c523e61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=c2f4606d-43aa-4cae-aa9b-45e47c523e61&feed=6HKOhNgS",
+      "duration": "01:03:07"
+    },
+    {
+      "id": "anthropic-s-opus-4-6-is-a-smut-machine",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "AI content moderation limitations highlight challenges in regulating AI-generated material, potentially slowing adoption in certain industries.",
+      "date": "2026-08-21",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "content-moderation"
+      ],
+      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-08-23T12:00:00.000Z",
+  "generatedAt": "2026-08-24T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances, but Labor Market Shifts Remain",
-      "preview": "New AI tools and investments signal progress, but labor concerns persist.",
-      "body": "Recent developments show strong AI advancement, including Meta's new Mac app and a high-performing AI research agent. However, reports like Oracle's potential layoffs highlight ongoing job market pressures. Meanwhile, regulatory efforts, such as New York's FutureWorks initiative, suggest a growing focus on managing AI's workforce impact."
+      "title": "AI Adoption Faces Mixed Signals Amid Regional and Regulatory Challenges",
+      "preview": "New reports highlight both progress and delays in AI integration.",
+      "body": "Recent signals show a mixed landscape, with advances like ByteDance's AI integration and rising investment in the UK, but also delays from regional disparities and regulatory concerns. A study indicating minimal AI impact on productivity further complicates the picture."
     }
   }
 }
