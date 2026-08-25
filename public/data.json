@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:09",
+  "displayTime": "00:02:06",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.156,
+  "exactMinutesToMidnight": -2.096,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.156,
+  "newsAdjustment": -15.096,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.149,
+  "macroReplacementRate": 50.145,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,206 +3448,181 @@
   ],
   "newsFeed": [
     {
-      "id": "anthropic-says-australia-is-falling-behind-in-claude-coding-use",
-      "title": "Anthropic Says Australia is Falling Behind in Claude Coding Use",
-      "summary": "Australia is lagging in adopting advanced AI coding capabilities, indicating potential regional disparities in AI-driven productivity and skill development.",
-      "date": "2026-08-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/anthropic-says-australia-is-falling-behind-in-claude-coding-use",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw-",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "summary": "China's focus on embodied AI and humanoid robots signals growing integration of AI into physical systems, potentially affecting multiple industries.",
+      "date": "2026-08-25",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "regional disparity",
-        "coding tools"
+        "embodied AI",
+        "workforce adoption",
+        "AI strategy"
       ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
         "computer-and-information-technology",
         "architecture-and-engineering",
-        "_all"
+        "production"
       ]
     },
     {
-      "id": "bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
-      "title": "ByteDance Folds AI Tools Into Doubao Super-App to Fight Tencent",
-      "summary": "ByteDance integrating AI tools into its super-app reflects growing AI adoption in consumer tech, signaling increased pressure for AI integration in workplace tools and services.",
-      "date": "2026-08-24",
+      "id": "lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+      "title": "Lunar Founders Raise €8 Million for Auditing Startup Built on AI",
+      "summary": "An AI-powered audit firm backed by a digital bank signals growing adoption of AI in financial and professional services, potentially transforming traditional auditing workflows.",
+      "date": "2026-08-25",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/bytedance-folds-ai-tools-into-doubao-super-app-to-fight-tencent",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "enterprise tools",
-        "workplace integration"
+        "financial services",
+        "workflow transformation"
       ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
+        "computer-and-information-technology",
+        "legal"
+      ]
+    },
+    {
+      "id": "how-claude-s-text-watermark-works",
+      "title": "How Claude’s text watermark works",
+      "summary": "Watermarking technology for AI outputs introduces regulatory and ethical considerations that may slow AI adoption in professional settings.",
+      "date": "2026-08-14",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "AI tools"
+      ],
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "90-of-firms-see-no-measurable-ai-impact-on-productivity-or-jobs-study",
-      "title": "90% of firms see no measurable AI impact on productivity or jobs: Study",
-      "summary": "A study shows that most firms have not yet seen measurable AI impact on productivity or jobs, suggesting slower adoption or implementation challenges.",
+      "id": "openai-is-building-ai-agents-for-everything-will-everyone-use-them-",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "OpenAI's development of AI agents for general use signals a major shift in workplace automation and productivity tools.",
       "date": "2026-08-24",
-      "source": "People Matters - HR News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVR0dVFhNnBsS2RPblNpSDVLdjlkcTc0a3YyR2xBQWxQV1E0V3FRMmlWUV9rREV1TnU0aDRPclJsU2Y3UWJpQVQ1cFZTZzhnZkpRWENLY3B0eWZ3Y1I5XzFXNmVha3JhZVNwbzFZVWhLV1RJdi13Z0xkNS01NnhFaEJfSWdJR1V4ZjM0TkhGc2JUaVBjazdkUzB2T1A5RFh4RG1lNW1nblBkYXdvLVhGN2REYl9nUkNLTDFPcjRFWEtKZ05BSVpyWFczZTZ0bW0zc0RJ?oc=5",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI agents",
+        "workplace automation",
+        "productivity tools"
+      ],
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "it-should-be-harder-to-apply-for-a-job-no-really",
+      "title": "It Should Be Harder to Apply for a Job. No, Really",
+      "summary": "AI is making job applications easier, increasing competition and potentially altering hiring dynamics.",
+      "date": "2026-08-25",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "hiring",
+        "productivity",
+        "workplace-adoption"
+      ],
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "disrupting-a-new-covert-influence-campaign-from-russia",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "summary": "AI tools are being used for covert influence campaigns, prompting increased scrutiny and potential regulatory action that could slow AI adoption in the workplace.",
+      "date": "2026-08-25",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI regulation",
+        "workplace security",
+        "misinformation"
+      ],
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "ai-layoffs-real-workforce-strategy-or-scapegoat-",
+      "title": "AI Layoffs: Real Workforce Strategy or Scapegoat?",
+      "summary": "The article questions whether AI layoffs are a genuine workforce strategy or a scapegoat, highlighting concerns about how AI adoption is being framed in the labor market.",
+      "date": "2026-08-25",
+      "source": "Revelio Labs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWG1xeHNabXhMYTNJOEZDeTRUaGtKOTJwZV9zUHprWi1YbkE5ZjExaHhaeTNLS2hSOHUybEdJdmduSjF2X05UdnFFY3REVE9aRmUxUWo2aXY5V1BIbWdHc3JSS0F4OFNhWm1PeXR2RFNLNHJ6MWtpRWRhbDk3ZDdZdTltTFlFdw?oc=5",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "adoption-challenges",
-        "productivity",
-        "workplace-impact"
+        "workforce-strategy",
+        "AI-impact",
+        "labor-market"
       ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
+      "fetchedAt": "2026-08-25T11:01:25.779Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
       "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-notifies-customers-about-ai-related-price-hikes",
-      "title": "Nvidia Notifies Customers About AI-Related Price Hikes",
-      "summary": "Rising AI chip prices signal increased demand and investment in AI infrastructure, potentially accelerating adoption across industries.",
-      "date": "2026-08-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "costs",
-        "adoption"
-      ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
-      "title": "UK Digital Investment Soars to Dot-Com Boom Levels on AI Rollout",
-      "summary": "Significant investment in digital infrastructure signals growing AI adoption and increased demand for tech and data-related roles in the UK.",
-      "date": "2026-08-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-24/uk-digital-investment-soars-to-dot-com-boom-levels-on-ai-rollout",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "investment",
-        "digital transformation"
-      ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
         "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-says-california-should-strengthen-its-ai-safety-bill",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI's call for stronger AI safety regulation in California may slow the adoption of AI technologies in workplaces by introducing more oversight and compliance requirements.",
-      "date": "2026-08-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI safety"
-      ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-",
-      "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
-      "summary": "OpenAI's pause in AI model training highlights growing concerns around AI safety and regulation, which may slow down AI adoption in the workplace.",
-      "date": "2026-08-21",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "safety",
-        "adoption"
-      ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/c2f4606d-43aa-4cae-aa9b-45e47c523e61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=c2f4606d-43aa-4cae-aa9b-45e47c523e61&feed=6HKOhNgS",
-      "duration": "01:03:07"
-    },
-    {
-      "id": "anthropic-s-opus-4-6-is-a-smut-machine",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "AI content moderation limitations highlight challenges in regulating AI-generated material, potentially slowing adoption in certain industries.",
-      "date": "2026-08-21",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "safety",
-        "content-moderation"
-      ],
-      "fetchedAt": "2026-08-24T11:00:47.951Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-08-24T12:00:00.000Z",
+  "generatedAt": "2026-08-25T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Faces Mixed Signals Amid Regional and Regulatory Challenges",
-      "preview": "New reports highlight both progress and delays in AI integration.",
-      "body": "Recent signals show a mixed landscape, with advances like ByteDance's AI integration and rising investment in the UK, but also delays from regional disparities and regulatory concerns. A study indicating minimal AI impact on productivity further complicates the picture."
+      "title": "AI job replacement pressure stabilizes slightly",
+      "preview": "Advances in AI tools contrast with growing regulatory concerns.",
+      "body": "Today's signals show a mix of progress and caution, with developments in AI agents and embodied systems advancing automation potential. However, concerns over AI misuse and ethical challenges are slowing adoption in some areas. Overall, the balance remains tight as AI continues to reshape work environments."
     }
   }
 }

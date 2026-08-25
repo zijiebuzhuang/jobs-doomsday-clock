@@ -1,5 +1,174 @@
 [
   {
+    "id": "disrupting-a-new-covert-influence-campaign-from-russia",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "summary": "AI tools are being used for covert influence campaigns, prompting increased scrutiny and potential regulatory action that could slow AI adoption in the workplace.",
+    "date": "2026-08-25",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "workplace security",
+      "misinformation"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "how-claude-s-text-watermark-works",
+    "title": "How Claude’s text watermark works",
+    "summary": "Watermarking technology for AI outputs introduces regulatory and ethical considerations that may slow AI adoption in professional settings.",
+    "date": "2026-08-14",
+    "source": "Anthropic",
+    "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "AI tools"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw-",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "summary": "China's focus on embodied AI and humanoid robots signals growing integration of AI into physical systems, potentially affecting multiple industries.",
+    "date": "2026-08-25",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "embodied AI",
+      "workforce adoption",
+      "AI strategy"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "production"
+    ]
+  },
+  {
+    "id": "lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+    "title": "Lunar Founders Raise €8 Million for Auditing Startup Built on AI",
+    "summary": "An AI-powered audit firm backed by a digital bank signals growing adoption of AI in financial and professional services, potentially transforming traditional auditing workflows.",
+    "date": "2026-08-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial services",
+      "workflow transformation"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "legal"
+    ]
+  },
+  {
+    "id": "it-should-be-harder-to-apply-for-a-job-no-really",
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "summary": "AI is making job applications easier, increasing competition and potentially altering hiring dynamics.",
+    "date": "2026-08-25",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "hiring",
+      "productivity",
+      "workplace-adoption"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "openai-is-building-ai-agents-for-everything-will-everyone-use-them-",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "summary": "OpenAI's development of AI agents for general use signals a major shift in workplace automation and productivity tools.",
+    "date": "2026-08-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "workplace automation",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-layoffs-real-workforce-strategy-or-scapegoat-",
+    "title": "AI Layoffs: Real Workforce Strategy or Scapegoat?",
+    "summary": "The article questions whether AI layoffs are a genuine workforce strategy or a scapegoat, highlighting concerns about how AI adoption is being framed in the labor market.",
+    "date": "2026-08-25",
+    "source": "Revelio Labs",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWG1xeHNabXhMYTNJOEZDeTRUaGtKOTJwZV9zUHprWi1YbkE5ZjExaHhaeTNLS2hSOHUybEdJdmduSjF2X05UdnFFY3REVE9aRmUxUWo2aXY5V1BIbWdHc3JSS0F4OFNhWm1PeXR2RFNLNHJ6MWtpRWRhbDk3ZDdZdTltTFlFdw?oc=5",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "workforce-strategy",
+      "AI-impact",
+      "labor-market"
+    ],
+    "fetchedAt": "2026-08-25T11:01:25.779Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "management",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "anthropic-says-australia-is-falling-behind-in-claude-coding-use",
     "title": "Anthropic Says Australia is Falling Behind in Claude Coding Use",
     "summary": "Australia is lagging in adopting advanced AI coding capabilities, indicating potential regional disparities in AI-driven productivity and skill development.",
@@ -15377,169 +15546,6 @@
       "labor-market"
     ],
     "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-may-impact-120-million-workers-in-advanced-economies",
-    "title": "AI May Impact 120 Million Workers in Advanced Economies",
-    "summary": "AI is expected to impact a significant portion of workers in advanced economies, signaling growing pressure on labor markets and workforce adaptation.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/ai-may-impact-120-million-workers-in-advanced-economies-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "workforce impact",
-      "adoption trends",
-      "economic implications"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-automation-job-loss-fears-and-where-new-work-emerges",
-    "title": "AI Automation, Job Loss Fears and Where New Work Emerges",
-    "summary": "The article discusses the growing concerns about AI-driven job loss and the potential for new employment opportunities, highlighting the global race to adopt AI technologies.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/ai-automation-job-loss-fears-and-where-new-work-emerges-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "job displacement",
-      "economic impact"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "more-companies-turn-to-monitoring-employee-ai-skills",
-    "title": "More Companies Turn to Monitoring Employee AI Skills",
-    "summary": "More companies are incorporating AI skill monitoring into employee evaluations, signaling increased focus on AI literacy and capability in the workforce.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-27/ai-skills-evaluated-at-okx-kpmg-as-companies-tie-jobs-to-ai-fluency",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "workforce training",
-      "performance evaluation"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "taiwan-suspects-nvidia-ai-chip-shipment-smuggled-to-china",
-    "title": "Taiwan Suspects Nvidia AI Chip Shipment Smuggled to China",
-    "summary": "Regulatory actions and smuggling concerns may slow the adoption of advanced AI chips in China, affecting global AI development and workforce dynamics.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-27/taiwan-suspects-nvidia-chip-shipment-smuggled-to-china-video",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "supply-chain",
-      "AI hardware"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
-    "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
-    "summary": "ByteDance's significant AI investment signals increased competition and advancement in AI capabilities, likely influencing tech and related industries.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "enterprise adoption",
-      "market competition"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "why-huawei-s-new-chipmaking-plan-has-investors-buzzing",
-    "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
-    "summary": "Huawei's chipmaking plan reflects growing AI-driven demand for advanced computing power, signaling increased investment in AI infrastructure and semiconductor capabilities.",
-    "date": "2026-05-27",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "semiconductors",
-      "AI infrastructure",
-      "computing power"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "california-governor-executive-order-mandates-review-of-labor-policies-amid-ai-wo",
-    "title": "California governor executive order mandates review of labor policies amid AI workforce displacement",
-    "summary": "California's executive order signals increased regulatory scrutiny of AI's impact on labor, potentially slowing or shaping AI adoption in the workforce.",
-    "date": "2026-05-26",
-    "source": "A&O Shearman",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ0tUb1hibVl0YlZsMTJ1bS1zM29yZzJrLVY3NVFvdjZLbGtPb09SZ01nLXdhb0lLdXJsWk16SEo1M01xdnFWdmpPaHBraGV4S2F0emMxSGgyUjNTYXJQVFhCZVRlYW5PVGl0SW5UMWJUTUxKdGNhY3NObWRSUDJSd3B0dlJyY3pob29aUVg5X1A0QjBseV95UlpJellUMndnN2w1R2hfWGlEdG1aRFdvOFZYVndTSzJHQmVzWWJFT2lHcXNCNjBsSVcyQV9Xc2ZTaUhWblZRSndmQnRTcXFyNWVXV1V0NWxzTFdqS2t2Umo?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "labor"
-    ],
-    "fetchedAt": "2026-05-27T11:01:05.782Z",
     "sourceGroup": "labor-market",
     "sourceTier": "aggregator",
     "qualityScore": 55,

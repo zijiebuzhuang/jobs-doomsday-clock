@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-08-25",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.096,
+    "macroReplacementRate": 50.145,
+    "newsAdjustment": -15.096,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "i-spent-a-day-at-a-robot-carnival-in-shanghai-here-s-what-i-saw-",
+        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+        "summary": "China's focus on embodied AI and humanoid robots signals growing integration of AI into physical systems, potentially affecting multiple industries.",
+        "date": "2026-08-25",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "embodied AI",
+          "workforce adoption",
+          "AI strategy"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "production"
+        ]
+      },
+      {
+        "id": "lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+        "title": "Lunar Founders Raise €8 Million for Auditing Startup Built on AI",
+        "summary": "An AI-powered audit firm backed by a digital bank signals growing adoption of AI in financial and professional services, potentially transforming traditional auditing workflows.",
+        "date": "2026-08-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/lunar-founders-raise-8-million-for-auditing-startup-built-on-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "financial services",
+          "workflow transformation"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "legal"
+        ]
+      },
+      {
+        "id": "how-claude-s-text-watermark-works",
+        "title": "How Claude’s text watermark works",
+        "summary": "Watermarking technology for AI outputs introduces regulatory and ethical considerations that may slow AI adoption in professional settings.",
+        "date": "2026-08-14",
+        "source": "Anthropic",
+        "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "AI tools"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-is-building-ai-agents-for-everything-will-everyone-use-them-",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "summary": "OpenAI's development of AI agents for general use signals a major shift in workplace automation and productivity tools.",
+        "date": "2026-08-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workplace automation",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "it-should-be-harder-to-apply-for-a-job-no-really",
+        "title": "It Should Be Harder to Apply for a Job. No, Really",
+        "summary": "AI is making job applications easier, increasing competition and potentially altering hiring dynamics.",
+        "date": "2026-08-25",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "hiring",
+          "productivity",
+          "workplace-adoption"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "disrupting-a-new-covert-influence-campaign-from-russia",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "summary": "AI tools are being used for covert influence campaigns, prompting increased scrutiny and potential regulatory action that could slow AI adoption in the workplace.",
+        "date": "2026-08-25",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "workplace security",
+          "misinformation"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-layoffs-real-workforce-strategy-or-scapegoat-",
+        "title": "AI Layoffs: Real Workforce Strategy or Scapegoat?",
+        "summary": "The article questions whether AI layoffs are a genuine workforce strategy or a scapegoat, highlighting concerns about how AI adoption is being framed in the labor market.",
+        "date": "2026-08-25",
+        "source": "Revelio Labs",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWG1xeHNabXhMYTNJOEZDeTRUaGtKOTJwZV9zUHprWi1YbkE5ZjExaHhaeTNLS2hSOHUybEdJdmduSjF2X05UdnFFY3REVE9aRmUxUWo2aXY5V1BIbWdHc3JSS0F4OFNhWm1PeXR2RFNLNHJ6MWtpRWRhbDk3ZDdZdTltTFlFdw?oc=5",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "workforce-strategy",
+          "AI-impact",
+          "labor-market"
+        ],
+        "fetchedAt": "2026-08-25T11:01:25.779Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "management",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by I spent a day at a robot “carnival” in Shanghai. Here’s what I saw..",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.\" (MIT Tech Review), while the clearest drag comes from \"Disrupting a new covert influence campaign from Russia\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.096 minutes. Updated 2026-08-25T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-24",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.156,
@@ -19394,215 +19605,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Sakura Internet Eyes More Spending to Meet Japan’s AI Demand.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Sakura Internet Eyes More Spending to Meet Japan’s AI Demand\" (Bloomberg Technology), while the clearest drag comes from \"ECB Convenes Banks to Fix Flaws Exposed by AI Models, FT Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.062 minutes. Updated 2026-05-25T12:00:00.000Z, with the macro replacement estimate at 49.7%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-24",
-    "minutesToMidnight": 4,
-    "exactMinutesToMidnight": 3.915,
-    "macroReplacementRate": 49.729,
-    "newsAdjustment": -9.085,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "zoom-s-anthropic-investment-has-netted-the-company-1-billion",
-        "title": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion",
-        "summary": "Zoom's $1 billion gain from its investment in Anthropic highlights growing financial and technological momentum for AI startups, signaling increased AI adoption and potential workplace transformation.",
-        "date": "2026-05-22",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "enterprise AI",
-          "AI startup success"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-job-disruption-2026-layoffs-at-meta-intuit-and-workforce-automation-trends-ne",
-        "title": "AI Job Disruption 2026: Layoffs at Meta, Intuit, and Workforce Automation Trends - News and Statistics",
-        "summary": "News about AI-driven layoffs and automation trends at major companies signals growing workplace adoption of AI and its impact on employment.",
-        "date": "2026-05-22",
-        "source": "IndexBox",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFhTU1VUSTk4UWlFMEdLczY5RkFUOWRqLUJLMk1xWmw1TjR0aTJ4TTdYUWg1WmhHWlhQdnJhSy1OUERHZHdBTTZxclRSZ1NPWW1FbGgxQTQ1MktpVUVjTVpCT0lkV3hleGl5d1R5dGxwbkdQVzdGTjFrVFZpM3pPX2d1UGNUX2lKbGVfaks5S28wSHBJbEdOMm9kUkM1RjVBdFdv?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "workforce automation",
-          "AI adoption",
-          "job disruption"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "ai-job-cuts-are-rising-but-experts-say-layoffs-are-only-part-of-the-story",
-        "title": "AI job cuts are rising, but experts say layoffs are only part of the story",
-        "summary": "The article highlights the growing impact of AI on employment, suggesting that job cuts are part of a larger transformation in the workforce.",
-        "date": "2026-05-22",
-        "source": "CBS News",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84bkNHbTgycEdoWHB5dWVKU1RjN0xVc3E2Nmt3ak9kSVgtaDFsUU9kM0pPNW5mdHp6ejd0aENFRUFKcDY3RU01MGYtV0c5Ni1zLVMwclA1UUlUeVNmNV81dWJzWkd3endmUktYa1FQeDBEeUZnT3fSAXtBVV95cUxQWXNFZUZqVXVFbDY0bjZDaExIMUk0dXBJQ2gxdTB3MkhyRHNLMHdmTXcwQ0NzeUE1QU95ZnY3V0pLNnYxMDFveXJwR0FHQTFDYndXbXYzVXQ3ZXo0Y0d6UVY3N01YNFFkaldKU1E2NkNlc2JQWllid3FVVFE?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce change",
-          "job market"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "adventhealth-advances-whole-person-care-with-openai",
-        "title": "AdventHealth advances whole-person care with OpenAI",
-        "summary": "AdventHealth is leveraging AI to improve healthcare workflows and patient care, signaling growing AI adoption in the healthcare sector.",
-        "date": "2026-05-21",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/adventhealth",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workflow improvement",
-          "healthcare"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "healthcare",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-s-code-with-claude-showed-off-coding-s-future-whether-you-like-it-or-n",
-        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-        "summary": "Anthropic's Code with Claude event highlights the growing integration of AI into software development workflows, signaling a shift in coding practices and skills.",
-        "date": "2026-05-21",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "coding tools",
-          "developer workflows"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "management"
-        ]
-      },
-      {
-        "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "summary": "An AI model has made a major breakthrough in mathematics, demonstrating AI's growing capability to solve complex scientific problems.",
-        "date": "2026-05-20",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI research",
-          "mathematical innovation",
-          "AI-driven science"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "life-physical-and-social-science",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "gen-ai-tecture-using-generative-ai-to-support-architectural-students-in-design-t",
-        "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
-        "summary": "Generative AI is being used to support architectural students in design tasks, indicating AI's growing role in education and creative workflows.",
-        "date": "2026-05-20",
-        "source": "arXiv - Generative AI Employment",
-        "sourceUrl": "https://arxiv.org/abs/2605.21361v1",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "education",
-          "design",
-          "AI tools"
-        ],
-        "fetchedAt": "2026-05-24T11:00:46.611Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "education-training-and-library",
-          "arts-and-design",
-          "architecture-and-engineering"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Zoom’s Anthropic Investment Has Netted the Company $1 Billion.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Zoom’s Anthropic Investment Has Netted the Company $1 Billion\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -9.085 minutes. Updated 2026-05-24T12:00:00.000Z, with the macro replacement estimate at 49.7%."
       }
     }
   }
