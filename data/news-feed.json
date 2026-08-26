@@ -1,5 +1,204 @@
 [
   {
+    "id": "how-loveholidays-is-making-everyone-a-builder-with-codex",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "summary": "A company is using AI to democratize software development, enabling non-experts to build products faster.",
+    "date": "2026-08-26",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/loveholidays",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "software development"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "openai-says-its-jalape-o-chip-can-power-faster-ai-responses-than-the-competition",
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "summary": "OpenAI's Jalapeño chip improves AI performance, potentially increasing productivity and efficiency in AI-driven workflows.",
+    "date": "2026-08-25",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI hardware",
+      "productivity",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk",
+    "title": "Google’s Gemini AI Is Changing How Deutsche Bank Assesses Credit Risk",
+    "summary": "Deutsche Bank is using Google's Gemini AI to improve credit risk assessment, showing AI adoption in financial services and data analysis workflows.",
+    "date": "2026-08-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "financial services",
+      "credit risk",
+      "workflow change"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ]
+  },
+  {
+    "id": "nvidia-results-on-deck-bessent-bounce-begins-to-emerge-opening-trade-8-26-2026",
+    "title": "Nvidia Results on Deck, Bessent Bounce Begins to Emerge | Opening Trade 8/26/2026",
+    "summary": "Nvidia's earnings are seen as a key indicator of AI investment and market momentum, signaling growing pressure and adoption of AI technologies in the workforce.",
+    "date": "2026-08-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-26/the-opening-trade-8-26-2026-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "market influence",
+      "investment trends"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "how-ai-is-making-cyberattacks-harder-to-stop",
+    "title": "How AI Is Making Cyberattacks Harder to Stop",
+    "summary": "AI-powered cyberattacks are raising security concerns, potentially slowing AI adoption in critical industries due to increased regulatory and safety scrutiny.",
+    "date": "2026-08-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/how-ai-is-making-cyberattacks-harder-to-stop",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "regulation",
+      "AI risks"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-has-earnings-pricing-power-blackrock-s-li-says",
+    "title": "Nvidia Has Earnings Pricing Power, BlackRock's Li Says",
+    "summary": "Nvidia's pricing power and earnings momentum signal strong demand for AI infrastructure, indicating continued growth in AI adoption across industries.",
+    "date": "2026-08-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-26/blackrock-s-li-says-nvidia-has-earnings-pricing-power-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "market trends"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "summary": "Improved AI memory and context retention in Claude Cowork enhances productivity and workflow efficiency for knowledge workers.",
+    "date": "2026-08-25",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow improvement",
+      "productivity"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "inside-an-ai-powered-personal-dashboard-matthew-tiemann",
+    "title": "Inside an AI-powered personal dashboard | Matthew Tiemann",
+    "summary": "AI tools are being used to automate knowledge work and improve productivity in personal and professional contexts.",
+    "date": "2026-08-26",
+    "source": "Apple Podcasts - Possible",
+    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5935965850.mp3",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-08-26T11:00:52.379Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/74478ace-a0d4-11f1-a43f-cbd94cc21a81/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5935965850.mp3",
+    "duration": "32 min"
+  },
+  {
     "id": "disrupting-a-new-covert-influence-campaign-from-russia",
     "title": "Disrupting a new covert influence campaign from Russia",
     "summary": "AI tools are being used for covert influence campaigns, prompting increased scrutiny and potential regulatory action that could slow AI adoption in the workplace.",
@@ -15381,171 +15580,6 @@
       "hiring-practices"
     ],
     "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "what-it-takes-to-get-a-job-at-anthropic",
-    "title": "What It Takes to Get a Job at Anthropic",
-    "summary": "A top AI company emphasizes human critical thinking and worldview in hiring, suggesting a continued need for human judgment alongside AI adoption.",
-    "date": "2026-05-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "hiring-practices",
-      "human-role-in-ai",
-      "workforce-skills"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "mistral-signs-with-airbus-and-bmw-as-it-expands-into-physical-ai",
-    "title": "Mistral Signs with Airbus and BMW as it Expands Into Physical AI",
-    "summary": "Mistral AI's expansion into physical AI with major industrial clients like Airbus and BMW signals growing adoption of AI in advanced manufacturing and industrial workflows.",
-    "date": "2026-05-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-28/mistral-expands-into-physical-ai-including-airbus-bmw-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "manufacturing",
-      "physical AI"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "production",
-      "architecture-and-engineering",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "mistral-signs-airbus-bmw-as-it-brings-ai-to-manufacturing",
-    "title": "Mistral Signs Airbus, BMW as It Brings AI to Manufacturing",
-    "summary": "Mistral AI's expansion into manufacturing with major companies like Airbus and BMW signals growing AI adoption in industrial and production workflows.",
-    "date": "2026-05-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/mistral-signs-airbus-and-bmw-as-it-brings-ai-to-manufacturing",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "manufacturing",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "production",
-      "architecture-and-engineering",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "atlasedge-gets-1-2-billion-in-loans-for-european-data-centers",
-    "title": "AtlasEdge Gets €1.2 Billion in Loans for European Data Centers",
-    "summary": "Large-scale financing for AI infrastructure in under-served European regions signals increased adoption of AI capabilities in data centers, supporting broader AI integration across industries.",
-    "date": "2026-05-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/atlasedge-gets-1-2-billion-in-loans-for-european-data-centers",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "data-center-infrastructure",
-      "ai-adoption",
-      "enterprise-ai"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "china-is-increasingly-keeping-its-best-ai-talent-to-itself",
-    "title": "China is increasingly keeping its best AI talent to itself",
-    "summary": "China's efforts to retain top AI talent may limit global collaboration and affect the flow of expertise in AI-driven industries.",
-    "date": "2026-05-27",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "talent retention",
-      "AI workforce",
-      "geopolitics"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "_all"
-    ]
-  },
-  {
-    "id": "editorial-urges-commission-to-study-ai-job-impact",
-    "title": "Editorial Urges Commission to Study AI Job Impact",
-    "summary": "An editorial calls for a commission to study the impact of AI on jobs, signaling growing concern and potential regulatory scrutiny.",
-    "date": "2026-05-28",
-    "source": "Let's Data Science",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXdRRXdRSU43dVlXVmtBNHlSWE1abFo1LU5XbWpUTjhPX2lGZ2lUa3BtNXhkb1ZjRXFVNk5lRDZObUhjMXpySjd1X1J6enJJR1lYaENiTHFjbXNGR3YzN0FqSWRBSWhWWlZ4WjJLT2hVWWhLY0FBcWh2QUVZbWZUdHpNNTlyRlhNNGR6TDBGbWszQTdwbUE?oc=5",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "policy",
-      "regulation",
-      "labor"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "bracing-for-impact-california-focuses-its-agencies-on-ai-s-threat-to-the-labor-m",
-    "title": "Bracing for Impact: California Focuses Its Agencies on AI’s Threat to the Labor Market",
-    "summary": "California is proactively assessing AI's impact on the labor market, indicating regulatory attention that may shape AI adoption and workforce planning.",
-    "date": "2026-05-27",
-    "source": "JD Supra",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjJXc09lZGRsR3htS2tlVXZaX2UzbnpMSEpLUHpVVFBHbnp3b3F5SFBGbnJYZlBELVJKMzZ6aC1IZHNod0d3V1BZOHgyMmN3ekN2dVQtdEk3U05XdDZCZUM1WjY0aTJzNjg1YTdDWU1TNUU2YmZPdkJnN2stVFhpVUdNd0VEMFE?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "labor-market"
-    ],
-    "fetchedAt": "2026-05-28T11:01:27.851Z",
     "sourceGroup": "labor-market",
     "sourceTier": "aggregator",
     "qualityScore": 55,
