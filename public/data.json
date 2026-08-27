@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:25",
-  "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.416,
+  "displayTime": "00:02:32",
+  "minutesToMidnight": -3,
+  "exactMinutesToMidnight": -2.537,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.416,
+  "newsAdjustment": -15.537,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.167,
+  "macroReplacementRate": 50.176,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,70 +3448,117 @@
   ],
   "newsFeed": [
     {
-      "id": "how-loveholidays-is-making-everyone-a-builder-with-codex",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "summary": "A company is using AI to democratize software development, enabling non-experts to build products faster.",
+      "id": "the-inside-story-on-why-openai-agents-hacked-hugging-face",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "A security vulnerability in AI agents highlights the growing risks and complexities of AI adoption in cybersecurity and software development.",
       "date": "2026-08-26",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/loveholidays",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "productivity",
-        "software development"
+        "AI security",
+        "workflow changes",
+        "technical risks"
       ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "expanding-openai-s-presence-in-brazil",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "summary": "OpenAI's expansion into Brazil signals increased AI adoption and integration into local businesses and developer ecosystems.",
+      "date": "2026-08-27",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "enterprise adoption",
+        "AI expansion",
+        "developer engagement"
+      ],
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "business-and-financial",
         "_all"
       ],
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk",
-      "title": "Google’s Gemini AI Is Changing How Deutsche Bank Assesses Credit Risk",
-      "summary": "Deutsche Bank is using Google's Gemini AI to improve credit risk assessment, showing AI adoption in financial services and data analysis workflows.",
-      "date": "2026-08-26",
+      "id": "stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
+      "title": "Stripe Says AI Helps Asian Firms Expand Globally at Record Pace",
+      "summary": "AI is accelerating global expansion for Asian businesses, indicating growing AI adoption in international commerce and business operations.",
+      "date": "2026-08-27",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-08-26/google-s-gemini-ai-is-changing-how-deutsche-bank-assesses-credit-risk",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "financial services",
-        "credit risk",
-        "workflow change"
+        "global expansion",
+        "business operations"
       ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
         "computer-and-information-technology",
-        "management"
+        "_all"
       ]
     },
     {
-      "id": "nvidia-results-on-deck-bessent-bounce-begins-to-emerge-opening-trade-8-26-2026",
-      "title": "Nvidia Results on Deck, Bessent Bounce Begins to Emerge | Opening Trade 8/26/2026",
-      "summary": "Nvidia's earnings are seen as a key indicator of AI investment and market momentum, signaling growing pressure and adoption of AI technologies in the workforce.",
-      "date": "2026-08-26",
+      "id": "germany-running-short-of-ai-compute-capacity-minister-says",
+      "title": "Germany Running Short of AI Compute Capacity, Minister Says",
+      "summary": "Germany's shortage of AI compute capacity highlights a bottleneck in AI adoption, potentially slowing progress in AI-driven industries.",
+      "date": "2026-08-27",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-26/the-opening-trade-8-26-2026-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/germany-running-short-of-ai-compute-capacity-minister-says",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "compute",
+        "adoption",
+        "regulation"
+      ],
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-s-upbeat-sales-outlook-eases-concerns-about-ai-economy",
+      "title": "Nvidia's Upbeat Sales Outlook Eases Concerns About AI Economy",
+      "summary": "Nvidia's strong sales forecast signals continued growth and confidence in the AI economy, indicating increased adoption and investment in AI infrastructure.",
+      "date": "2026-08-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-s-upbeat-outlook-eases-concerns-about-ai-economy-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "market influence",
-        "investment trends"
+        "economic impact",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3522,137 +3569,86 @@
       ]
     },
     {
-      "id": "claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "summary": "Improved AI memory and context retention in Claude Cowork enhances productivity and workflow efficiency for knowledge workers.",
-      "date": "2026-08-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "id": "lopez-ai-biggest-infrastructure-upgrade-since-internet",
+      "title": "Lopez: AI Biggest Infrastructure Upgrade Since Internet",
+      "summary": "Nvidia's bullish outlook signals continued strong AI investment and infrastructure growth, indicating increased adoption and pressure across tech and related industries.",
+      "date": "2026-08-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/lopez-ai-biggest-infrastructure-upgrade-since-internet-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workflow improvement",
-        "productivity"
+        "AI infrastructure",
+        "investment",
+        "chipmakers",
+        "adoption"
       ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "openai-says-its-jalape-o-chip-can-power-faster-ai-responses-than-the-competition",
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "summary": "OpenAI's Jalapeño chip improves AI performance, potentially increasing productivity and efficiency in AI-driven workflows.",
-      "date": "2026-08-25",
+      "id": "nvidia-sees-ai-fueled-demand-boosting-sales-70-next-year",
+      "title": "Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year",
+      "summary": "Nvidia's projected 70% revenue growth signals strong AI demand, indicating increased adoption and investment in AI technologies across industries.",
+      "date": "2026-08-26",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "industry growth",
+        "chipmaker influence"
+      ],
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary": "A rogue AI model incident highlights security and control challenges, potentially slowing AI adoption and increasing regulatory scrutiny.",
+      "date": "2026-08-26",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "effect": "advance",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI hardware",
-        "productivity",
-        "workplace adoption"
+        "AI security",
+        "regulation",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
+      "fetchedAt": "2026-08-27T11:00:51.763Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "production",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "inside-an-ai-powered-personal-dashboard-matthew-tiemann",
-      "title": "Inside an AI-powered personal dashboard | Matthew Tiemann",
-      "summary": "AI tools are being used to automate knowledge work and improve productivity in personal and professional contexts.",
-      "date": "2026-08-26",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5935965850.mp3",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "workflow automation"
-      ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
         "management",
         "_all"
       ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/74478ace-a0d4-11f1-a43f-cbd94cc21a81/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT5935965850.mp3",
-      "duration": "32 min"
-    },
-    {
-      "id": "how-ai-is-making-cyberattacks-harder-to-stop",
-      "title": "How AI Is Making Cyberattacks Harder to Stop",
-      "summary": "AI-powered cyberattacks are raising security concerns, potentially slowing AI adoption in critical industries due to increased regulatory and safety scrutiny.",
-      "date": "2026-08-26",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/how-ai-is-making-cyberattacks-harder-to-stop",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "regulation",
-        "AI risks"
-      ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-has-earnings-pricing-power-blackrock-s-li-says",
-      "title": "Nvidia Has Earnings Pricing Power, BlackRock's Li Says",
-      "summary": "Nvidia's pricing power and earnings momentum signal strong demand for AI infrastructure, indicating continued growth in AI adoption across industries.",
-      "date": "2026-08-26",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-26/blackrock-s-li-says-nvidia-has-earnings-pricing-power-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "market trends"
-      ],
-      "fetchedAt": "2026-08-26T11:00:52.379Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-26T12:00:00.000Z",
+  "generatedAt": "2026-08-27T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Cybersecurity Concerns",
-      "preview": "Positive AI developments dominate, with cybersecurity risks lingering.",
-      "body": "Most news highlights AI advancements in software development, financial services, and productivity tools. However, a single report on AI-powered cyberattacks introduces a cautionary note. Overall, the balance remains positive, with significant momentum in AI adoption."
+      "title": "AI Adoption Advances Despite Security and Capacity Concerns",
+      "preview": "Positive momentum in AI expansion contrasts with security risks and infrastructure bottlenecks.",
+      "body": "Recent developments show strong AI adoption, with OpenAI's Brazil expansion and Nvidia's sales forecasts indicating growing confidence. However, Germany's compute capacity shortage and a rogue AI incident highlight ongoing challenges. Overall, the trend remains positive but with increasing caution."
     }
   }
 }

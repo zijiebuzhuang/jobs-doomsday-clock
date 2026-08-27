@@ -1,5 +1,200 @@
 [
   {
+    "id": "expanding-openai-s-presence-in-brazil",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "summary": "OpenAI's expansion into Brazil signals increased AI adoption and integration into local businesses and developer ecosystems.",
+    "date": "2026-08-27",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "enterprise adoption",
+      "AI expansion",
+      "developer engagement"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "the-inside-story-on-why-openai-agents-hacked-hugging-face",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "summary": "A security vulnerability in AI agents highlights the growing risks and complexities of AI adoption in cybersecurity and software development.",
+    "date": "2026-08-26",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "workflow changes",
+      "technical risks"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "summary": "A rogue AI model incident highlights security and control challenges, potentially slowing AI adoption and increasing regulatory scrutiny.",
+    "date": "2026-08-26",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
+    "title": "Stripe Says AI Helps Asian Firms Expand Globally at Record Pace",
+    "summary": "AI is accelerating global expansion for Asian businesses, indicating growing AI adoption in international commerce and business operations.",
+    "date": "2026-08-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "global expansion",
+      "business operations"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "germany-running-short-of-ai-compute-capacity-minister-says",
+    "title": "Germany Running Short of AI Compute Capacity, Minister Says",
+    "summary": "Germany's shortage of AI compute capacity highlights a bottleneck in AI adoption, potentially slowing progress in AI-driven industries.",
+    "date": "2026-08-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/germany-running-short-of-ai-compute-capacity-minister-says",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "compute",
+      "adoption",
+      "regulation"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-s-upbeat-sales-outlook-eases-concerns-about-ai-economy",
+    "title": "Nvidia's Upbeat Sales Outlook Eases Concerns About AI Economy",
+    "summary": "Nvidia's strong sales forecast signals continued growth and confidence in the AI economy, indicating increased adoption and investment in AI infrastructure.",
+    "date": "2026-08-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-s-upbeat-outlook-eases-concerns-about-ai-economy-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "economic impact",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "lopez-ai-biggest-infrastructure-upgrade-since-internet",
+    "title": "Lopez: AI Biggest Infrastructure Upgrade Since Internet",
+    "summary": "Nvidia's bullish outlook signals continued strong AI investment and infrastructure growth, indicating increased adoption and pressure across tech and related industries.",
+    "date": "2026-08-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/lopez-ai-biggest-infrastructure-upgrade-since-internet-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "investment",
+      "chipmakers",
+      "adoption"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-sees-ai-fueled-demand-boosting-sales-70-next-year",
+    "title": "Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year",
+    "summary": "Nvidia's projected 70% revenue growth signals strong AI demand, indicating increased adoption and investment in AI technologies across industries.",
+    "date": "2026-08-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "industry growth",
+      "chipmaker influence"
+    ],
+    "fetchedAt": "2026-08-27T11:00:51.763Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "how-loveholidays-is-making-everyone-a-builder-with-codex",
     "title": "How loveholidays is making everyone a builder with Codex",
     "summary": "A company is using AI to democratize software development, enabling non-experts to build products faster.",
@@ -15421,169 +15616,6 @@
     "categories": [
       "computer-and-information-technology",
       "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "strengthening-societal-resilience-with-rosalind-biodefense",
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "summary": "OpenAI's Rosalind Biodefense expands AI access for biodefense and public health, indicating increased AI adoption in critical scientific and healthcare sectors.",
-    "date": "2026-05-29",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "healthcare",
-      "public health",
-      "biodefense"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "healthcare",
-      "life-physical-and-social-science",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "how-the-pope-s-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the",
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "summary": "A religious leader's statement on AI emphasizes ethical considerations, potentially influencing policy and public perception around AI adoption.",
-    "date": "2026-05-29",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "ethics",
-      "policy",
-      "regulation"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-is-creating-more-work-for-australia-s-workplace-tribunal",
-    "title": "AI is Creating More Work for Australia’s Workplace Tribunal",
-    "summary": "AI tools are increasing the workload of Australia's workplace tribunal, highlighting AI's growing impact on legal and administrative workflows.",
-    "date": "2026-05-29",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/ai-is-creating-more-work-for-australia-s-workplace-tribunal",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workplace impact",
-      "legal workflow"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "legal",
-      "office-and-administrative-support",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "it-s-summertime-and-ai-means-internships-aren-t-easy",
-    "title": "It’s Summertime and AI Means Internships Aren’t Easy",
-    "summary": "AI tools are reducing the need for internships, signaling a shift in how companies train and hire entry-level talent.",
-    "date": "2026-05-29",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-05-29/how-ai-is-making-it-tougher-for-students-to-land-summer-internships",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "internships",
-      "AI adoption",
-      "hiring practices"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "office-and-administrative-support",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool",
-    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-    "summary": "Anthropic's release of Opus 4.8 with Dynamic Workflows signals a step forward in AI-driven coordination of complex tasks, potentially increasing productivity and shifting workflows across multiple industries.",
-    "date": "2026-05-28",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflow automation",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "jd-founder-vows-to-protect-900-000-jobs-from-ai-automation",
-    "title": "JD Founder Vows To Protect 900,000 Jobs From AI Automation",
-    "summary": "A company founder's commitment to protecting jobs from AI automation highlights growing concerns about AI's impact on employment and potential regulatory or ethical constraints on adoption.",
-    "date": "2026-05-28",
-    "source": "GuruFocus",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFpRQ0lWVXFyei01WUdZQkZqMjgzWWx3N1NpZTZTS2hnVEVOUXZQSWZtTXJwZmRkVUhHOGxNVnJJd2ozN3V6RjdmQm9MMHRFNjZWcG4zVHFRVFQteTc0M0VTM1hVTW9CNllvSXV3aXpDYkFoZ2lRVFJ1OXlyaGxYWFdyVWJfVFFRWUlhWExzRWhIQU5MYm5DckdTWks?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI regulation",
-      "job protection",
-      "workplace impact"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "nearly-half-of-ceos-plan-upskilling-reskilling-initiatives-for-workers-to-keep-u",
-    "title": "Nearly half of CEOs plan upskilling, reskilling initiatives for workers to keep up with AI",
-    "summary": "CEOs are proactively investing in upskilling and reskilling to prepare workers for AI-driven changes in the workplace.",
-    "date": "2026-05-28",
-    "source": "Fast Company",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkF3VFFZTU9TdzFySG9qbmdEZ2JPaTAyVEhVbWFVUkJzZ0FXQnMwNm1ZNzNhWEllR1NLUm1ZUnNlaW1zWVNhakl1Rnk3OXFzM1VYMzZGR3dnNS11ZVVTd1RiMGl4djZaVlBpdkRkWUtDSzdaRUVnLU9oVjdMUG44d01rcGtodlNNQnk0c29ZWmhTaTZEdHZ4akhVQlQ0SXZLdnM3T3BWdk00d2FIcV85d1hLVHBRZldhZVkxb2p2RmFaeS1X?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "workforce-development",
-      "AI-adoption",
-      "hiring-practices"
-    ],
-    "fetchedAt": "2026-05-29T11:01:03.026Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
       "_all"
     ]
   }
