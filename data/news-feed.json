@@ -1,5 +1,202 @@
 [
   {
+    "id": "google-s-ai-note-taking-app-now-allows-you-to-interact-with-books",
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "summary": "Google's new AI feature enhances productivity by integrating book content into note-taking, suggesting AI is becoming more embedded in knowledge work and information management.",
+    "date": "2026-08-27",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "information management"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-hires-meta-executive-to-lead-southeast-asia-australia",
+    "title": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia",
+    "summary": "OpenAI expanding its presence in Southeast Asia and Australia by hiring a Meta executive signals increased AI market focus and potential for local workforce integration.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/openai-hires-meta-executive-to-lead-southeast-asia-australia",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "enterprise-adoption",
+      "geographic-expansion",
+      "executive-hiring"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+    "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
+    "summary": "A court ruling allows Anthropic's AI technology to be used by federal agencies, accelerating AI adoption in government work.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "enterprise-adoption",
+      "AI-technology"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
+    "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
+    "summary": "SoftBank's $10 billion loan to refinance its OpenAI investment signals continued financial support for AI development, indicating growing confidence in AI's potential impact on work and industry.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "funding",
+      "AI-investment"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
+    "title": "Tencent Touts New AI Model It Claims Outperforms Z.AI, Moonshot",
+    "summary": "Tencent's new AI model positions it as a major player in the AI landscape, signaling increased competition and advancement in AI capabilities.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI development",
+      "enterprise AI",
+      "model performance"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "yotta-eyes-20-billion-gpu-buildout-as-ai-demand-soars",
+    "title": "Yotta Eyes $20 Billion GPU Buildout as AI Demand Soars",
+    "summary": "Yotta's $20 billion GPU buildout signals a major expansion in AI infrastructure, increasing computing power available for AI development and deployment.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/yotta-plans-ipo-very-soon-to-keep-up-with-ai-demand-ceo-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "infrastructure",
+      "AI adoption",
+      "computing power"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "barret-zoph-the-thinking-machines-co-founder-ousted-before-joining-openai-is-now",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "A key AI figure's career move highlights the fluidity of talent in the AI industry and the growing influence of major tech companies.",
+    "date": "2026-08-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "talent movement",
+      "industry leadership",
+      "AI workforce"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-shifts-the-blame-do-data-center-bans-work-the-final-hatgpt",
+    "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
+    "summary": "Regulatory pressure and data center bans are discussed as potential constraints on AI progress, highlighting the role of policy in shaping AI adoption.",
+    "date": "2026-08-28",
+    "source": "Apple Podcasts - Hard Fork",
+    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "policy",
+      "data-center-bans",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-08-28T11:00:55.916Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/95108f33-c923-4c83-837e-f48795e7ae23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=95108f33-c923-4c83-837e-f48795e7ae23&feed=6HKOhNgS",
+    "duration": "01:02:56"
+  },
+  {
     "id": "expanding-openai-s-presence-in-brazil",
     "title": "Expanding OpenAI’s presence in Brazil",
     "summary": "OpenAI's expansion into Brazil signals increased AI adoption and integration into local businesses and developer ecosystems.",
@@ -15447,175 +15644,6 @@
     "categories": [
       "computer-and-information-technology",
       "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "boston-children-s-uses-ai-to-unlock-new-diagnoses",
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "summary": "AI is being used in healthcare to improve diagnostics and patient care, signaling increased AI adoption in medical workflows.",
-    "date": "2026-05-29",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/boston-childrens-hospital",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "healthcare",
-      "ai-adopted-in-work",
-      "diagnostics"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "healthcare",
-      "life-physical-and-social-science",
-      "_all"
-    ]
-  },
-  {
-    "id": "tech-companies-desperately-want-to-film-you-doing-chores",
-    "title": "Tech companies desperately want to film you doing chores",
-    "summary": "A startup is using AI training by capturing domestic labor footage, indicating growing interest in real-world data for AI development and potential implications for labor and automation.",
-    "date": "2026-05-29",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI data collection",
-      "labor surveillance",
-      "workplace automation"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "personal-care-and-service",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "minimax-eyes-china-listing-takes-on-ai-rivals-like-deepseek",
-    "title": "MiniMax Eyes China Listing, Takes on AI Rivals Like DeepSeek",
-    "summary": "MiniMax's move toward a China listing signals growing AI industry competition and increased investment in AI startups, potentially driving innovation and workforce changes in tech and related fields.",
-    "date": "2026-05-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI startup",
-      "market competition",
-      "funding"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "cognition-s-scott-wu-says-ai-coding-agents-shouldn-t-replace-humans",
-    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-    "summary": "A leading AI coding agent developer emphasizes that AI should not replace human programmers, suggesting ongoing human involvement in software development.",
-    "date": "2026-05-29",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "coding",
-      "workforce integration"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos",
-    "title": "BOE's Bailey Says UK Banks Don't Have Access to Mythos",
-    "summary": "UK banks are restricted from using a powerful AI tool, indicating regulatory or security constraints on AI adoption in finance.",
-    "date": "2026-05-29",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos-video",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "enterprise-adoption",
-      "AI-security"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "boe-s-bailey-says-uk-banks-still-lack-access-to-mythos",
-    "title": "BOE’s Bailey Says UK Banks Still Lack Access to Mythos",
-    "summary": "UK banks are restricted from using a powerful AI tool, highlighting regulatory and cybersecurity challenges in AI adoption.",
-    "date": "2026-05-29",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "cybersecurity",
-      "enterprise-adoption"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "the-vatican-s-man-inside-anthropic",
-    "title": "The Vatican’s Man Inside Anthropic",
-    "summary": "The Vatican's involvement with Anthropic signals growing institutional interest in AI, potentially influencing ethical and regulatory frameworks for AI development.",
-    "date": "2026-05-29",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "institutional-interest",
-      "ethics",
-      "regulation"
-    ],
-    "fetchedAt": "2026-05-30T11:01:09.067Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
       "_all"
     ]
   }

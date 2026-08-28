@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:32",
+  "displayTime": "00:02:42",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.537,
+  "exactMinutesToMidnight": -2.697,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.537,
+  "newsAdjustment": -15.697,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.176,
+  "macroReplacementRate": 50.187,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,93 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "the-inside-story-on-why-openai-agents-hacked-hugging-face",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "A security vulnerability in AI agents highlights the growing risks and complexities of AI adoption in cybersecurity and software development.",
-      "date": "2026-08-26",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "workflow changes",
-        "technical risks"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "expanding-openai-s-presence-in-brazil",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "summary": "OpenAI's expansion into Brazil signals increased AI adoption and integration into local businesses and developer ecosystems.",
-      "date": "2026-08-27",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "id": "openai-hires-meta-executive-to-lead-southeast-asia-australia",
+      "title": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia",
+      "summary": "OpenAI expanding its presence in Southeast Asia and Australia by hiring a Meta executive signals increased AI market focus and potential for local workforce integration.",
+      "date": "2026-08-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/openai-hires-meta-executive-to-lead-southeast-asia-australia",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "enterprise adoption",
-        "AI expansion",
-        "developer engagement"
+        "enterprise-adoption",
+        "geographic-expansion",
+        "executive-hiring"
       ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
-      "title": "Stripe Says AI Helps Asian Firms Expand Globally at Record Pace",
-      "summary": "AI is accelerating global expansion for Asian businesses, indicating growing AI adoption in international commerce and business operations.",
-      "date": "2026-08-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/stripe-says-ai-helps-asian-firms-expand-globally-at-record-pace",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "global expansion",
-        "business operations"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "germany-running-short-of-ai-compute-capacity-minister-says",
-      "title": "Germany Running Short of AI Compute Capacity, Minister Says",
-      "summary": "Germany's shortage of AI compute capacity highlights a bottleneck in AI adoption, potentially slowing progress in AI-driven industries.",
-      "date": "2026-08-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-27/germany-running-short-of-ai-compute-capacity-minister-says",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "compute",
-        "adoption",
-        "regulation"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3545,110 +3472,185 @@
       ]
     },
     {
-      "id": "nvidia-s-upbeat-sales-outlook-eases-concerns-about-ai-economy",
-      "title": "Nvidia's Upbeat Sales Outlook Eases Concerns About AI Economy",
-      "summary": "Nvidia's strong sales forecast signals continued growth and confidence in the AI economy, indicating increased adoption and investment in AI infrastructure.",
-      "date": "2026-08-27",
+      "id": "anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+      "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
+      "summary": "A court ruling allows Anthropic's AI technology to be used by federal agencies, accelerating AI adoption in government work.",
+      "date": "2026-08-28",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-s-upbeat-outlook-eases-concerns-about-ai-economy-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "economic impact",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "lopez-ai-biggest-infrastructure-upgrade-since-internet",
-      "title": "Lopez: AI Biggest Infrastructure Upgrade Since Internet",
-      "summary": "Nvidia's bullish outlook signals continued strong AI investment and infrastructure growth, indicating increased adoption and pressure across tech and related industries.",
-      "date": "2026-08-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-27/lopez-ai-biggest-infrastructure-upgrade-since-internet-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "investment",
-        "chipmakers",
-        "adoption"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-sees-ai-fueled-demand-boosting-sales-70-next-year",
-      "title": "Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year",
-      "summary": "Nvidia's projected 70% revenue growth signals strong AI demand, indicating increased adoption and investment in AI technologies across industries.",
-      "date": "2026-08-26",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "industry growth",
-        "chipmaker influence"
-      ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "summary": "A rogue AI model incident highlights security and control challenges, potentially slowing AI adoption and increasing regulatory scrutiny.",
-      "date": "2026-08-26",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
         "regulation",
-        "enterprise adoption"
+        "enterprise-adoption",
+        "AI-technology"
       ],
-      "fetchedAt": "2026-08-27T11:00:51.763Z",
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
+      "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
+      "summary": "SoftBank's $10 billion loan to refinance its OpenAI investment signals continued financial support for AI development, indicating growing confidence in AI's potential impact on work and industry.",
+      "date": "2026-08-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-adoption",
+        "funding",
+        "AI-investment"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-s-ai-note-taking-app-now-allows-you-to-interact-with-books",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "summary": "Google's new AI feature enhances productivity by integrating book content into note-taking, suggesting AI is becoming more embedded in knowledge work and information management.",
+      "date": "2026-08-27",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity tools",
+        "information management"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "barret-zoph-the-thinking-machines-co-founder-ousted-before-joining-openai-is-now",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "A key AI figure's career move highlights the fluidity of talent in the AI industry and the growing influence of major tech companies.",
+      "date": "2026-08-27",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "talent movement",
+        "industry leadership",
+        "AI workforce"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-shifts-the-blame-do-data-center-bans-work-the-final-hatgpt",
+      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
+      "summary": "Regulatory pressure and data center bans are discussed as potential constraints on AI progress, highlighting the role of policy in shaping AI adoption.",
+      "date": "2026-08-28",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "policy",
+        "data-center-bans",
+        "AI-adoption"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/95108f33-c923-4c83-837e-f48795e7ae23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=95108f33-c923-4c83-837e-f48795e7ae23&feed=6HKOhNgS",
+      "duration": "01:02:56"
+    },
+    {
+      "id": "tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
+      "title": "Tencent Touts New AI Model It Claims Outperforms Z.AI, Moonshot",
+      "summary": "Tencent's new AI model positions it as a major player in the AI landscape, signaling increased competition and advancement in AI capabilities.",
+      "date": "2026-08-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI development",
+        "enterprise AI",
+        "model performance"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "yotta-eyes-20-billion-gpu-buildout-as-ai-demand-soars",
+      "title": "Yotta Eyes $20 Billion GPU Buildout as AI Demand Soars",
+      "summary": "Yotta's $20 billion GPU buildout signals a major expansion in AI infrastructure, increasing computing power available for AI development and deployment.",
+      "date": "2026-08-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/yotta-plans-ipo-very-soon-to-keep-up-with-ai-demand-ceo-says",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "infrastructure",
+        "AI adoption",
+        "computing power"
+      ],
+      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-08-27T12:00:00.000Z",
+  "generatedAt": "2026-08-28T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances Despite Security and Capacity Concerns",
-      "preview": "Positive momentum in AI expansion contrasts with security risks and infrastructure bottlenecks.",
-      "body": "Recent developments show strong AI adoption, with OpenAI's Brazil expansion and Nvidia's sales forecasts indicating growing confidence. However, Germany's compute capacity shortage and a rogue AI incident highlight ongoing challenges. Overall, the trend remains positive but with increasing caution."
+      "title": "AI Industry Expansion Continues Amid Regulatory Concerns",
+      "preview": "Positive momentum in AI development persists despite growing regulatory scrutiny.",
+      "body": "Recent developments show strong AI advancement, with OpenAI and Anthropic making significant strides. However, discussions around data center bans and regulatory challenges highlight ongoing concerns. Overall, the industry remains focused on growth and innovation."
     }
   }
 }
