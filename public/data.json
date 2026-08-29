@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:42",
+  "displayTime": "00:02:32",
   "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.697,
+  "exactMinutesToMidnight": -2.537,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.697,
+  "newsAdjustment": -15.537,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.187,
+  "macroReplacementRate": 50.176,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,44 +3448,43 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-hires-meta-executive-to-lead-southeast-asia-australia",
-      "title": "OpenAI Hires Meta Executive to Lead Southeast Asia, Australia",
-      "summary": "OpenAI expanding its presence in Southeast Asia and Australia by hiring a Meta executive signals increased AI market focus and potential for local workforce integration.",
+      "id": "cisco-president-patel-makes-the-case-for-ai-in-the-classroom",
+      "title": "Cisco President Patel Makes the Case for AI in the Classroom",
+      "summary": "A top tech executive advocates for AI in education, signaling growing integration of AI into learning systems and potential long-term impacts on workforce skills.",
       "date": "2026-08-28",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/openai-hires-meta-executive-to-lead-southeast-asia-australia",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "enterprise-adoption",
-        "geographic-expansion",
-        "executive-hiring"
+        "education",
+        "AI adoption",
+        "workforce development"
       ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "management",
+        "education-training-and-library",
         "_all"
       ]
     },
     {
-      "id": "anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
-      "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
-      "summary": "A court ruling allows Anthropic's AI technology to be used by federal agencies, accelerating AI adoption in government work.",
+      "id": "jackson-hole-anthropic-s-court-win-and-paypal-deal-collapse-bloomberg-tech-8-28-",
+      "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
+      "summary": "A court ruling lifting the ban on Anthropic's AI tech for federal agencies signals increased adoption of AI in government and public sector work.",
       "date": "2026-08-28",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "enterprise-adoption",
-        "AI-technology"
+        "adoption",
+        "enterprise"
       ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3496,20 +3495,120 @@
       ]
     },
     {
-      "id": "softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
-      "title": "SoftBank Seeks Another $10 Billion Loan for OpenAI Stake Funding",
-      "summary": "SoftBank's $10 billion loan to refinance its OpenAI investment signals continued financial support for AI development, indicating growing confidence in AI's potential impact on work and industry.",
+      "id": "openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Google's AI Mode expanding to track flight prices and book hotels shows AI adoption in consumer-facing services, which may influence workplace productivity and automation trends.",
       "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/softbank-seeks-another-10-billion-loan-for-openai-stake-funding",
+      "source": "TechCrunch Daily Crunch",
+      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "productivity",
+        "consumer tech"
+      ],
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
+      "duration": "6 min"
+    },
+    {
+      "id": "our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "The decision to stop providing OpenAI models to Cursor after its acquisition by SpaceX may slow AI tool adoption in software development and related fields.",
+      "date": "2026-08-28",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "enterprise-adoption",
+        "model-licensing",
+        "company-acquisition"
+      ],
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Self-improving AI systems show progress in aligning with human goals, potentially increasing AI's effectiveness and adoption in work environments.",
+      "date": "2026-08-28",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "funding",
-        "AI-investment"
+        "AI capability",
+        "self-improving systems",
+        "workplace adoption"
       ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+      "summary": "The end of OpenAI's partnership with Cursor may signal regulatory or strategic shifts affecting AI tool adoption in software development and tech industries.",
+      "date": "2026-08-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI partnerships",
+        "enterprise AI",
+        "regulatory impact"
+      ],
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+      "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
+      "summary": "A major venture capital firm raising significant funds for AI infrastructure signals increased investment and momentum in AI development and adoption.",
+      "date": "2026-08-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "funding",
+        "infrastructure",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3520,137 +3619,37 @@
       ]
     },
     {
-      "id": "google-s-ai-note-taking-app-now-allows-you-to-interact-with-books",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "summary": "Google's new AI feature enhances productivity by integrating book content into note-taking, suggesting AI is becoming more embedded in knowledge work and information management.",
-      "date": "2026-08-27",
+      "id": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "A court ruling against the Trump administration's blacklisting of Anthropic highlights regulatory friction that can slow AI development and adoption.",
+      "date": "2026-08-28",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "effect": "advance",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "productivity tools",
-        "information management"
+        "regulation",
+        "legal",
+        "policy"
       ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
+      "fetchedAt": "2026-08-29T11:00:43.978Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "barret-zoph-the-thinking-machines-co-founder-ousted-before-joining-openai-is-now",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "A key AI figure's career move highlights the fluidity of talent in the AI industry and the growing influence of major tech companies.",
-      "date": "2026-08-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "talent movement",
-        "industry leadership",
-        "AI workforce"
-      ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "meta-shifts-the-blame-do-data-center-bans-work-the-final-hatgpt",
-      "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
-      "summary": "Regulatory pressure and data center bans are discussed as potential constraints on AI progress, highlighting the role of policy in shaping AI adoption.",
-      "date": "2026-08-28",
-      "source": "Apple Podcasts - Hard Fork",
-      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "policy",
-        "data-center-bans",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
         "legal",
         "_all"
       ],
-      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/95108f33-c923-4c83-837e-f48795e7ae23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=95108f33-c923-4c83-837e-f48795e7ae23&feed=6HKOhNgS",
-      "duration": "01:02:56"
-    },
-    {
-      "id": "tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
-      "title": "Tencent Touts New AI Model It Claims Outperforms Z.AI, Moonshot",
-      "summary": "Tencent's new AI model positions it as a major player in the AI landscape, signaling increased competition and advancement in AI capabilities.",
-      "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/tencent-touts-new-ai-model-it-claims-outperforms-z-ai-moonshot",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI development",
-        "enterprise AI",
-        "model performance"
-      ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "yotta-eyes-20-billion-gpu-buildout-as-ai-demand-soars",
-      "title": "Yotta Eyes $20 Billion GPU Buildout as AI Demand Soars",
-      "summary": "Yotta's $20 billion GPU buildout signals a major expansion in AI infrastructure, increasing computing power available for AI development and deployment.",
-      "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/yotta-plans-ipo-very-soon-to-keep-up-with-ai-demand-ceo-says",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "infrastructure",
-        "AI adoption",
-        "computing power"
-      ],
-      "fetchedAt": "2026-08-28T11:00:55.916Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-28T12:00:00.000Z",
+  "generatedAt": "2026-08-29T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Industry Expansion Continues Amid Regulatory Concerns",
-      "preview": "Positive momentum in AI development persists despite growing regulatory scrutiny.",
-      "body": "Recent developments show strong AI advancement, with OpenAI and Anthropic making significant strides. However, discussions around data center bans and regulatory challenges highlight ongoing concerns. Overall, the industry remains focused on growth and innovation."
+      "title": "AI Adoption Advances Amid Regulatory Hurdles",
+      "preview": "Positive AI developments contrast with regulatory delays.",
+      "body": "Recent news highlights growing AI integration in education and government, with notable advances from Anthropic and OpenAI. However, regulatory challenges, including court rulings and partnership changes, introduce delays. Overall, the balance leans toward progress, though obstacles remain."
     }
   }
 }

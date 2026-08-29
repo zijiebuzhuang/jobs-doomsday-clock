@@ -1,5 +1,201 @@
 [
   {
+    "id": "our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "The decision to stop providing OpenAI models to Cursor after its acquisition by SpaceX may slow AI tool adoption in software development and related fields.",
+    "date": "2026-08-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "enterprise-adoption",
+      "model-licensing",
+      "company-acquisition"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "summary": "A court ruling against the Trump administration's blacklisting of Anthropic highlights regulatory friction that can slow AI development and adoption.",
+    "date": "2026-08-28",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "policy"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+    "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+    "summary": "The end of OpenAI's partnership with Cursor may signal regulatory or strategic shifts affecting AI tool adoption in software development and tech industries.",
+    "date": "2026-08-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI partnerships",
+      "enterprise AI",
+      "regulatory impact"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "cisco-president-patel-makes-the-case-for-ai-in-the-classroom",
+    "title": "Cisco President Patel Makes the Case for AI in the Classroom",
+    "summary": "A top tech executive advocates for AI in education, signaling growing integration of AI into learning systems and potential long-term impacts on workforce skills.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "education",
+      "AI adoption",
+      "workforce development"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "education-training-and-library",
+      "_all"
+    ]
+  },
+  {
+    "id": "jackson-hole-anthropic-s-court-win-and-paypal-deal-collapse-bloomberg-tech-8-28-",
+    "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
+    "summary": "A court ruling lifting the ban on Anthropic's AI tech for federal agencies signals increased adoption of AI in government and public sector work.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "adoption",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "summary": "Self-improving AI systems show progress in aligning with human goals, potentially increasing AI's effectiveness and adoption in work environments.",
+    "date": "2026-08-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capability",
+      "self-improving systems",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+    "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
+    "summary": "A major venture capital firm raising significant funds for AI infrastructure signals increased investment and momentum in AI development and adoption.",
+    "date": "2026-08-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "infrastructure",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Google's AI Mode expanding to track flight prices and book hotels shows AI adoption in consumer-facing services, which may influence workplace productivity and automation trends.",
+    "date": "2026-08-28",
+    "source": "TechCrunch Daily Crunch",
+    "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "consumer tech"
+    ],
+    "fetchedAt": "2026-08-29T11:00:43.978Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
+    "duration": "6 min"
+  },
+  {
     "id": "google-s-ai-note-taking-app-now-allows-you-to-interact-with-books",
     "title": "Google’s AI note-taking app now allows you to interact with books",
     "summary": "Google's new AI feature enhances productivity by integrating book content into note-taking, suggesting AI is becoming more embedded in knowledge work and information management.",
@@ -15475,175 +15671,6 @@
     "sourceTier": "aggregator",
     "qualityScore": 55,
     "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "a-shared-playbook-for-trustworthy-third-party-evaluations",
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "summary": "OpenAI's guidance on third-party AI evaluations helps standardize trustworthiness assessments, potentially accelerating responsible AI adoption across industries.",
-    "date": "2026-05-29",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "trust",
-      "model evaluation"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "this-ai-startup-will-clean-your-home-for-free-to-train-future-robots",
-    "title": "This AI startup will clean your home for free to train future robots",
-    "summary": "An AI startup is using human cleaning data to train robots, indicating progress in AI's integration into physical labor and service industries.",
-    "date": "2026-05-29",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI training",
-      "robotics",
-      "workforce automation"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "personal-care-and-service",
-      "building-and-grounds-cleaning",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "how-turkey-hacked-the-hair-transplant-industry",
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "summary": "AI and innovation are transforming the hair transplant industry in Turkey, showing how AI can influence specialized sectors beyond traditional tech fields.",
-    "date": "2026-05-31",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "workforce innovation",
-      "industry transformation"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "healthcare",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-    "title": "Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds",
-    "summary": "A Federal Reserve official downplays the threat of AI to economist jobs, suggesting human expertise remains valuable despite AI advancements.",
-    "date": "2026-05-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI in professional roles",
-      "labor market impact",
-      "regulation and adoption"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-work-and-it-s-actually-pretty-u",
-    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-    "summary": "Google's Gemini Spark AI assistant demonstrates AI's growing role in automating daily tasks, signaling increased workplace productivity and potential shifts in job responsibilities.",
-    "date": "2026-05-30",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "workflows"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "tech-stars-from-the-90s-reborn-nokia-dell-cisco-surge-on-ai",
-    "title": "Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI",
-    "summary": "Established tech companies are regaining prominence due to increased AI spending, signaling a shift in industry power and potential demand for AI-related skills.",
-    "date": "2026-05-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "industry power",
-      "enterprise tech"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "softbank-plans-up-to-75-billion-investment-in-french-ai-centers",
-    "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
-    "summary": "SoftBank's massive investment in French AI data centers signals growing infrastructure for AI adoption, likely boosting tech and related industries.",
-    "date": "2026-05-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "investment",
-      "data centers"
-    ],
-    "fetchedAt": "2026-05-31T11:00:51.390Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
       "_all"
     ]
   }
