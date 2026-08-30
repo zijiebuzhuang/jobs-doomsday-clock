@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:32",
-  "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.537,
+  "displayTime": "00:02:17",
+  "minutesToMidnight": -2,
+  "exactMinutesToMidnight": -2.279,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.537,
+  "newsAdjustment": -15.279,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.176,
+  "macroReplacementRate": 50.158,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,120 +3448,70 @@
   ],
   "newsFeed": [
     {
-      "id": "cisco-president-patel-makes-the-case-for-ai-in-the-classroom",
-      "title": "Cisco President Patel Makes the Case for AI in the Classroom",
-      "summary": "A top tech executive advocates for AI in education, signaling growing integration of AI into learning systems and potential long-term impacts on workforce skills.",
+      "id": "supporting-thailand-s-next-generation-of-ai-startups",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "summary": "OpenAI's collaboration with Thai startups signals growing AI adoption in health, wellness, and education sectors, accelerating AI integration into professional workflows.",
       "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/cisco-s-patel-makes-the-case-for-ai-in-the-classroom-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "AI adoption",
-        "workforce development"
-      ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "education-training-and-library",
-        "_all"
-      ]
-    },
-    {
-      "id": "jackson-hole-anthropic-s-court-win-and-paypal-deal-collapse-bloomberg-tech-8-28-",
-      "title": "Jackson Hole, Anthropic’s Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
-      "summary": "A court ruling lifting the ban on Anthropic's AI tech for federal agencies signals increased adoption of AI in government and public sector work.",
-      "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "adoption",
-        "enterprise"
+        "AI startup support",
+        "workforce development",
+        "AI productization"
       ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Google's AI Mode expanding to track flight prices and book hotels shows AI adoption in consumer-facing services, which may influence workplace productivity and automation trends.",
-      "date": "2026-08-28",
-      "source": "TechCrunch Daily Crunch",
-      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "productivity",
-        "consumer tech"
-      ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV1913664548.mp3",
-      "duration": "6 min"
-    },
-    {
-      "id": "our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "summary": "The decision to stop providing OpenAI models to Cursor after its acquisition by SpaceX may slow AI tool adoption in software development and related fields.",
-      "date": "2026-08-28",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "enterprise-adoption",
-        "model-licensing",
-        "company-acquisition"
-      ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
+        "healthcare",
+        "education-training-and-library",
+        "computer-and-information-technology"
       ],
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Self-improving AI systems show progress in aligning with human goals, potentially increasing AI's effectiveness and adoption in work environments.",
-      "date": "2026-08-28",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "effect": "advance",
+      "id": "sony-music-and-warner-chappell-are-suing-anthropic",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Legal disputes over AI training data highlight regulatory and legal challenges that could slow AI adoption in creative industries.",
+      "date": "2026-08-29",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI capability",
-        "self-improving systems",
-        "workplace adoption"
+        "copyright",
+        "legal",
+        "AI regulation"
       ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "media-and-communication",
+        "arts-and-design",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks",
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "summary": "Unowned code installed in corporate networks highlights risks and challenges in AI tool adoption, suggesting potential regulatory or operational delays.",
+      "date": "2026-08-27",
+      "source": "Ars Technica - AI",
+      "sourceUrl": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "enterprise adoption",
+        "regulatory constraints"
+      ],
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3572,44 +3522,21 @@
       ]
     },
     {
-      "id": "openai-to-end-partnership-with-cursor-after-spacex-acquisition",
-      "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
-      "summary": "The end of OpenAI's partnership with Cursor may signal regulatory or strategic shifts affecting AI tool adoption in software development and tech industries.",
-      "date": "2026-08-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI partnerships",
-        "enterprise AI",
-        "regulatory impact"
-      ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
-      "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
-      "summary": "A major venture capital firm raising significant funds for AI infrastructure signals increased investment and momentum in AI development and adoption.",
+      "id": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda's $1B debt to buy AI chips highlights the growing investment in AI infrastructure, signaling increased adoption and pressure on tech and data-driven industries.",
       "date": "2026-08-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "funding",
-        "infrastructure",
-        "AI adoption"
+        "AI infrastructure",
+        "enterprise adoption",
+        "chip demand"
       ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3619,37 +3546,84 @@
       ]
     },
     {
-      "id": "anthropic-was-illegally-blacklisted-by-the-trump-administration-court-rules",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "summary": "A court ruling against the Trump administration's blacklisting of Anthropic highlights regulatory friction that can slow AI development and adoption.",
+      "id": "anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-risk-label",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A court ruling against the Trump administration's supply-chain risk label for Anthropic highlights regulatory friction that could slow AI adoption in government contracts.",
       "date": "2026-08-28",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "legal",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutin",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "A Meta executive joining OpenAI may signal increased talent movement and competition in AI development, potentially accelerating AI adoption in tech and related fields.",
+      "date": "2026-08-28",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "talent movement",
+        "AI adoption",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-prope",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "A lawsuit against Anthropic over alleged intellectual property theft highlights legal risks and regulatory challenges in AI development, potentially slowing adoption and increasing scrutiny.",
+      "date": "2026-08-29",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
         "legal",
-        "policy"
+        "AI adoption"
       ],
-      "fetchedAt": "2026-08-29T11:00:43.978Z",
+      "fetchedAt": "2026-08-30T11:00:45.471Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-08-29T12:00:00.000Z",
+  "generatedAt": "2026-08-30T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Advances Amid Regulatory Hurdles",
-      "preview": "Positive AI developments contrast with regulatory delays.",
-      "body": "Recent news highlights growing AI integration in education and government, with notable advances from Anthropic and OpenAI. However, regulatory challenges, including court rulings and partnership changes, introduce delays. Overall, the balance leans toward progress, though obstacles remain."
+      "title": "AI job pressure sees mixed signals amid legal and investment shifts",
+      "preview": "Legal battles and new investments highlight ongoing tensions in AI adoption.",
+      "body": "Recent news shows a mix of progress and setbacks, with OpenAI's Thai startup collaboration and Neocloud Lambda's chip investment indicating growth, while lawsuits against Anthropic and regulatory hurdles suggest delays. The overall balance remains volatile but leans slightly toward advancement."
     }
   }
 }

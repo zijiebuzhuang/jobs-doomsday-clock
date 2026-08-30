@@ -1,5 +1,175 @@
 [
   {
+    "id": "supporting-thailand-s-next-generation-of-ai-startups",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "summary": "OpenAI's collaboration with Thai startups signals growing AI adoption in health, wellness, and education sectors, accelerating AI integration into professional workflows.",
+    "date": "2026-08-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI startup support",
+      "workforce development",
+      "AI productization"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "healthcare",
+      "education-training-and-library",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "sony-music-and-warner-chappell-are-suing-anthropic",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "summary": "Legal disputes over AI training data highlight regulatory and legal challenges that could slow AI adoption in creative industries.",
+    "date": "2026-08-29",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "copyright",
+      "legal",
+      "AI regulation"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "arts-and-design",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-prope",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "A lawsuit against Anthropic over alleged intellectual property theft highlights legal risks and regulatory challenges in AI development, potentially slowing adoption and increasing scrutiny.",
+    "date": "2026-08-29",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "summary": "Neocloud Lambda's $1B debt to buy AI chips highlights the growing investment in AI infrastructure, signaling increased adoption and pressure on tech and data-driven industries.",
+    "date": "2026-08-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "chip demand"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-gets-its-first-court-win-over-the-pentagon-s-supply-chain-risk-label",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "summary": "A court ruling against the Trump administration's supply-chain risk label for Anthropic highlights regulatory friction that could slow AI adoption in government contracts.",
+    "date": "2026-08-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "legal",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutin",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "summary": "A Meta executive joining OpenAI may signal increased talent movement and competition in AI development, potentially accelerating AI adoption in tech and related fields.",
+    "date": "2026-08-28",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "talent movement",
+      "AI adoption",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks",
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "summary": "Unowned code installed in corporate networks highlights risks and challenges in AI tool adoption, suggesting potential regulatory or operational delays.",
+    "date": "2026-08-27",
+    "source": "Ars Technica - AI",
+    "sourceUrl": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "enterprise adoption",
+      "regulatory constraints"
+    ],
+    "fetchedAt": "2026-08-30T11:00:45.471Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "our-decision-on-cursor-following-its-acquisition-by-spacex",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
     "summary": "The decision to stop providing OpenAI models to Cursor after its acquisition by SpaceX may slow AI tool adoption in software development and related fields.",
@@ -15497,180 +15667,6 @@
       "computer-and-information-technology",
       "management",
       "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-s-frontier-governance-framework",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "summary": "OpenAI's governance framework aligns with new regulations, indicating increased regulatory scrutiny that may slow AI adoption in the workplace.",
-    "date": "2026-05-28",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/openai-frontier-governance-framework",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "safety",
-      "policy"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "nvidia-says-anthropic-openai-among-users-of-new-vera-chip",
-    "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip",
-    "summary": "Major AI companies adopting Nvidia's new chip signals increased AI capability and infrastructure development, likely boosting productivity and workflow changes across tech and data-driven industries.",
-    "date": "2026-06-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "chip technology"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "nvidia-s-huang-calls-ai-jobs-concerns-nonsense-",
-    "title": "Nvidia's Huang Calls AI Jobs Concerns 'Nonsense'",
-    "summary": "Nvidia's CEO dismisses AI job concerns, suggesting AI adoption is increasing demand for software engineers.",
-    "date": "2026-06-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-s-huang-calls-ai-jobs-concerns-nonsense-video",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "workforce impact",
-      "industry sentiment"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-    "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos",
-    "summary": "Anthropic's decision to provide its AI tool Mythos to the EU cybersecurity agency signals increased adoption of advanced AI in critical security operations.",
-    "date": "2026-06-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "cybersecurity",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-for-interoperability-in-health-care-philips-s-carla-goulart-peron",
-    "title": "AI for Interoperability in Health Care: Philips’s Carla Goulart Peron",
-    "summary": "AI is being used to improve healthcare outcomes by enhancing diagnostics and freeing up clinicians, signaling a shift in how AI supports rather than replaces medical professionals.",
-    "date": "2026-06-01",
-    "source": "Apple Podcasts - Me, Myself, and AI",
-    "sourceUrl": "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "healthcare",
-      "ai-adoptions",
-      "productivity"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "healthcare",
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://megaphone.imgix.net/podcasts/499218be-4f0b-11f1-b37f-0b0591ec3021/image/ae291127f6965432b65f8770e58490c6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4227354569.mp3",
-    "duration": "34 min"
-  },
-  {
-    "id": "can-a-i-make-people-feel-less-lonely-",
-    "title": "Can A.I. Make People Feel Less Lonely?",
-    "summary": "AI is being used to address social isolation among older adults, indicating its growing role in healthcare and personal care services.",
-    "date": "2026-05-28",
-    "source": "Apple Podcasts - The Daily",
-    "sourceUrl": "https://www.nytimes.com/the-daily",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "healthcare",
-      "social-isolation",
-      "AI-adoptions"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "healthcare",
-      "personal-care-and-service",
-      "_all"
-    ],
-    "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/bebd1cf2-dd84-42af-b690-54c1c435ebb9/3000x3000/28thedaily_applespotify_2.jpg?aid=rss_feed",
-    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71cbb1e4-cf87-4858-b46c-1f48f779e424/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71cbb1e4-cf87-4858-b46c-1f48f779e424&feed=Sl5CSM3S",
-    "duration": "00:29:04"
-  },
-  {
-    "id": "california-state-agencies-ordered-to-study-the-impact-of-ai-in-employment",
-    "title": "California State Agencies Ordered to Study the Impact of AI in Employment",
-    "summary": "California's order for state agencies to study AI's impact on employment signals increased regulatory scrutiny, potentially slowing AI adoption in the workforce.",
-    "date": "2026-05-28",
-    "source": "Duane Morris LLP",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSl9KdEZNUHY4em4zZElqYjF6d2N2TEg0WjRPWFpwdjVqM2Y0YWN1VVJPVHcyY0c0QnBmMzBjR25keDFaR1Q4aFdTcVdfWkhTMExtbW1HX0plQmRPZ2Nlc1ZJWHpOM2NzSndOVEx3UHo1U3oyT1JBdENIeEktR1g1b3VpdEJRMW1uSlR2THZqVDlYV1BPTjV4Wlp1WEZoVXFhNmVqSXJVbWo?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "policy",
-      "workforce"
-    ],
-    "fetchedAt": "2026-06-01T11:01:06.499Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
       "_all"
     ]
   }
