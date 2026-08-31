@@ -1,5 +1,149 @@
 [
   {
+    "id": "learning-never-stops-how-ai-makes-learning-continuous",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "summary": "AI tools like ChatGPT are enabling continuous learning beyond traditional classroom settings, reshaping education and skill development.",
+    "date": "2026-08-26",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/learning-never-stops",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "education",
+      "learning-tools",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "education-training-and-library",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "the-download-inside-openai-s-hugging-face-hack-and-a-new-ev-takes-on-the-us",
+    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "summary": "A security incident involving AI models highlights risks in AI adoption and the need for better safeguards in enterprise systems.",
+    "date": "2026-08-27",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "enterprise adoption",
+      "model vulnerabilities"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "sony-music-publishing-and-warner-chappell-are-suing-anthropic",
+    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+    "summary": "Legal disputes over AI training data highlight regulatory and legal challenges that could slow AI adoption in the workplace.",
+    "date": "2026-08-29",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
+    "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
+    "summary": "China's regulatory push against US AI companies may slow cross-border AI collaboration and shape the global AI landscape.",
+    "date": "2026-08-31",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "international-relations",
+      "AI-policy"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "g20-faces-divide-over-debt-ai-and-global-growth",
+    "title": "G20 Faces Divide Over Debt, AI and Global Growth",
+    "summary": "Discussions among global leaders and tech figures on AI regulation highlight growing pressure for AI adoption and policy development.",
+    "date": "2026-08-30",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "enterprise-adoption",
+      "policy"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "summary": "Incidents of AI systems going rogue highlight risks and potential regulatory concerns that could slow AI adoption in workplaces.",
+    "date": "2026-08-27",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-08-31T11:01:30.339Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "supporting-thailand-s-next-generation-of-ai-startups",
     "title": "Supporting Thailand’s next generation of AI startups",
     "summary": "OpenAI's collaboration with Thai startups signals growing AI adoption in health, wellness, and education sectors, accelerating AI integration into professional workflows.",
@@ -15497,177 +15641,6 @@
       "business-and-financial",
       "computer-and-information-technology",
       "management"
-    ]
-  },
-  {
-    "id": "codex-is-becoming-a-productivity-tool-for-everyone",
-    "title": "Codex is becoming a productivity tool for everyone",
-    "summary": "Codex's expansion as a productivity tool signals AI's growing influence in enhancing work efficiency across multiple industries.",
-    "date": "2026-06-02",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "workflow automation"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "our-views-on-ai-policy-and-political-advocacy",
-    "title": "Our views on AI policy and political advocacy",
-    "summary": "The company's stance on AI policy and regulation suggests a focus on controlled adoption, which may slow or shape the pace of AI integration in the workplace.",
-    "date": "2026-06-01",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "policy",
-      "regulation",
-      "AI safety"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "gemini-s-new-ai-agent-is-about-as-good-as-google-s-demo",
-    "title": "Gemini’s new AI agent is about as good as Google’s demo",
-    "summary": "Google's new AI agent, Gemini Spark, represents a significant step forward in AI-driven task automation and workplace productivity.",
-    "date": "2026-06-01",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI agents",
-      "productivity tools",
-      "workplace automation"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "tencent-jumps-after-report-it-s-set-to-launch-wechat-ai-agent",
-    "title": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent",
-    "summary": "Tencent's reported development of an AI agent signals growing AI adoption in consumer tech and enterprise applications, potentially influencing productivity and workflow changes.",
-    "date": "2026-06-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/tencent-gains-after-report-it-s-set-to-launch-wechat-ai-agent",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "company innovation"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-    "title": "MediaTek Pledges Hiring Spree to Boost Push Into New AI Spheres",
-    "summary": "MediaTek's hiring surge signals growing AI adoption in the tech sector, indicating increased demand for AI-related skills and roles.",
-    "date": "2026-06-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "hiring",
-      "AI adoption",
-      "tech industry"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "softbank-in-early-talks-to-back-800-million-agile-robots-round",
-    "title": "SoftBank in Early Talks to Back $800 Million Agile Robots Round",
-    "summary": "Major funding for an AI-driven industrial robotics startup signals growing investment in real-world AI applications, potentially increasing automation and productivity in manufacturing and related fields.",
-    "date": "2026-06-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "robotics",
-      "investment",
-      "automation"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "production",
-      "installation-maintenance-and-repair",
-      "construction-and-extraction"
-    ]
-  },
-  {
-    "id": "uh-partners-on-ai-workforce-readiness-symposium-series",
-    "title": "UH partners on AI workforce readiness symposium series",
-    "summary": "A partnership for an AI workforce readiness symposium series indicates growing efforts to prepare workers for AI-driven changes in the job market.",
-    "date": "2026-06-01",
-    "source": "University of Hawaii System",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemVpVlpjeEstbjc3MVlGeXAySzhFbEl4ZjV5Tk9nTjBZaU5qU1NhYUx2WDFFaks4Z1BkbG9ob0dmcEpEdGVlTnBPVEszdTZOaFRFdF93VzRuUzNCdXFvTWJQUWdJeWh3YUxXMUZ5WXdiakxmb01tdE5UWmpDc0NsVkViYnllZw?oc=5",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "workforce-development",
-      "education-training",
-      "AI-adoption"
-    ],
-    "fetchedAt": "2026-06-02T11:01:03.159Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial",
-      "_all"
     ]
   }
 ]

@@ -1,5 +1,191 @@
 [
   {
+    "date": "2026-08-31",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.011,
+    "macroReplacementRate": 50.139,
+    "newsAdjustment": -15.011,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "learning-never-stops-how-ai-makes-learning-continuous",
+        "title": "Learning never stops: How AI makes learning continuous",
+        "summary": "AI tools like ChatGPT are enabling continuous learning beyond traditional classroom settings, reshaping education and skill development.",
+        "date": "2026-08-26",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/learning-never-stops",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "education",
+          "learning-tools",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "education-training-and-library",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
+        "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
+        "summary": "China's regulatory push against US AI companies may slow cross-border AI collaboration and shape the global AI landscape.",
+        "date": "2026-08-31",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "international-relations",
+          "AI-policy"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "g20-faces-divide-over-debt-ai-and-global-growth",
+        "title": "G20 Faces Divide Over Debt, AI and Global Growth",
+        "summary": "Discussions among global leaders and tech figures on AI regulation highlight growing pressure for AI adoption and policy development.",
+        "date": "2026-08-30",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "policy"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-download-inside-openai-s-hugging-face-hack-and-a-new-ev-takes-on-the-us",
+        "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+        "summary": "A security incident involving AI models highlights risks in AI adoption and the need for better safeguards in enterprise systems.",
+        "date": "2026-08-27",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI security",
+          "enterprise adoption",
+          "model vulnerabilities"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "sony-music-publishing-and-warner-chappell-are-suing-anthropic",
+        "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+        "summary": "Legal disputes over AI training data highlight regulatory and legal challenges that could slow AI adoption in the workplace.",
+        "date": "2026-08-29",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "summary": "Incidents of AI systems going rogue highlight risks and potential regulatory concerns that could slow AI adoption in workplaces.",
+        "date": "2026-08-27",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-08-31T11:01:30.339Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Learning never stops: How AI makes learning continuous.",
+        "body": "This update is split between 3 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Learning never stops: How AI makes learning continuous\" (OpenAI), while the clearest drag comes from \"China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.011 minutes. Updated 2026-08-31T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-30",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.279,
@@ -19527,217 +19713,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI’s Frontier Governance Framework\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.003 minutes. Updated 2026-06-01T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-05-31",
-    "minutesToMidnight": 3,
-    "exactMinutesToMidnight": 3.264,
-    "macroReplacementRate": 49.774,
-    "newsAdjustment": -9.736,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "how-turkey-hacked-the-hair-transplant-industry",
-        "title": "How Turkey Hacked the Hair Transplant Industry",
-        "summary": "AI and innovation are transforming the hair transplant industry in Turkey, showing how AI can influence specialized sectors beyond traditional tech fields.",
-        "date": "2026-05-31",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workforce innovation",
-          "industry transformation"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "healthcare",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-        "title": "Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds",
-        "summary": "A Federal Reserve official downplays the threat of AI to economist jobs, suggesting human expertise remains valuable despite AI advancements.",
-        "date": "2026-05-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/fed-s-williams-quips-economist-jobs-are-safe-as-ai-shift-unfolds",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI in professional roles",
-          "labor market impact",
-          "regulation and adoption"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "i-put-google-s-24-7-ai-assistant-gemini-spark-to-work-and-it-s-actually-pretty-u",
-        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-        "summary": "Google's Gemini Spark AI assistant demonstrates AI's growing role in automating daily tasks, signaling increased workplace productivity and potential shifts in job responsibilities.",
-        "date": "2026-05-30",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "tech-stars-from-the-90s-reborn-nokia-dell-cisco-surge-on-ai",
-        "title": "Tech Stars From the 90s Reborn: Nokia, Dell, Cisco Surge on AI",
-        "summary": "Established tech companies are regaining prominence due to increased AI spending, signaling a shift in industry power and potential demand for AI-related skills.",
-        "date": "2026-05-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "industry power",
-          "enterprise tech"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "softbank-plans-up-to-75-billion-investment-in-french-ai-centers",
-        "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
-        "summary": "SoftBank's massive investment in French AI data centers signals growing infrastructure for AI adoption, likely boosting tech and related industries.",
-        "date": "2026-05-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "investment",
-          "data centers"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "a-shared-playbook-for-trustworthy-third-party-evaluations",
-        "title": "A shared playbook for trustworthy third party evaluations",
-        "summary": "OpenAI's guidance on third-party AI evaluations helps standardize trustworthiness assessments, potentially accelerating responsible AI adoption across industries.",
-        "date": "2026-05-29",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "trust",
-          "model evaluation"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "this-ai-startup-will-clean-your-home-for-free-to-train-future-robots",
-        "title": "This AI startup will clean your home for free to train future robots",
-        "summary": "An AI startup is using human cleaning data to train robots, indicating progress in AI's integration into physical labor and service industries.",
-        "date": "2026-05-29",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI training",
-          "robotics",
-          "workforce automation"
-        ],
-        "fetchedAt": "2026-05-31T11:00:51.390Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "personal-care-and-service",
-          "building-and-grounds-cleaning",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-29-at-12.44.12.png?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful.",
-        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful\" (TechCrunch - AI), while the clearest drag comes from \"Fed’s Williams Quips Economist Jobs Are Safe as AI Shift Unfolds\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -9.736 minutes. Updated 2026-05-31T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }
