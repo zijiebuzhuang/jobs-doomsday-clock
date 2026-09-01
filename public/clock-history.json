@@ -1,5 +1,267 @@
 [
   {
+    "date": "2026-09-01",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.114,
+    "macroReplacementRate": 50.146,
+    "newsAdjustment": -15.114,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-",
+        "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+        "summary": "AI is advancing scientific research by enabling agentic workflows that improve hypothesis generation and experimental design.",
+        "date": "2026-08-31",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "scientific research",
+          "workflow automation"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AdobeStock_842772489-e1787092703768-768x431.webp"
+      },
+      {
+        "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure",
+        "title": "Polimill builds Japan's next-generation public AI infrastructure",
+        "summary": "Polimill's use of AI models in public administration improves efficiency and sets a precedent for AI adoption in government workflows.",
+        "date": "2026-08-31",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/polimill",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "public sector adoption",
+          "workflow automation"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+        "title": "AI Job Risks Spread to PR, Web Development and Hotel Workers",
+        "summary": "AI job risks are expanding into new sectors like PR, web development, and hospitality, signaling broader workplace pressure from AI adoption.",
+        "date": "2026-09-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "job displacement",
+          "AI adoption",
+          "workplace transformation"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "personal-care-and-service"
+        ]
+      },
+      {
+        "id": "debian-won-t-ban-ai-code-from-its-linux-distribution",
+        "title": "Debian won’t ban AI code from its Linux distribution",
+        "summary": "Debian's decision to allow AI tools in its development process signals growing acceptance of AI in software development workflows, boosting productivity and shaping future skill requirements.",
+        "date": "2026-08-31",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workflows",
+          "productivity"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-supports-california-s-bill-to-advance-youth-ai-safety",
+        "title": "OpenAI supports California’s bill to advance youth AI safety",
+        "summary": "OpenAI's support for California's AI safety bill signals increased regulatory focus on AI use by youth, potentially shaping future AI adoption in workplaces involving younger employees.",
+        "date": "2026-08-31",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "summary": "The Pentagon adopting advanced AI models like ChatGPT and Grok signals increased AI integration in government and defense sectors, likely influencing workforce skills and AI adoption in related industries.",
+        "date": "2026-08-31",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "government adoption",
+          "AI tools",
+          "workplace integration"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-agrees-to-35-billion-cloud-deal-with-lambda",
+        "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
+        "summary": "A major cloud deal between Anthropic and Lambda indicates increased AI capacity and infrastructure investment, accelerating AI adoption in enterprises.",
+        "date": "2026-09-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise AI",
+          "cloud computing"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+        "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+        "summary": "A major cloud computing deal between Anthropic and Lambda signals increased AI capacity and infrastructure investment, accelerating AI adoption across industries.",
+        "date": "2026-08-31",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise AI",
+          "cloud infrastructure",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "chatgpt-to-face-tougher-regulation-in-the-eu",
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "summary": "Tighter EU regulation of ChatGPT could slow AI adoption and affect how AI tools are developed and deployed in workplaces.",
+        "date": "2026-08-31",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-01T11:00:51.210Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science.",
+        "body": "This update is split between 7 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"ChatGPT to face tougher regulation in the EU\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.114 minutes. Updated 2026-09-01T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-08-31",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.011,
@@ -19497,222 +19759,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Codex is becoming a productivity tool for everyone.",
         "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Codex is becoming a productivity tool for everyone\" (OpenAI), while the clearest drag comes from \"Our views on AI policy and political advocacy\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.360 minutes. Updated 2026-06-02T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-01",
-    "minutesToMidnight": 3,
-    "exactMinutesToMidnight": 2.997,
-    "macroReplacementRate": 49.793,
-    "newsAdjustment": -10.003,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "nvidia-says-anthropic-openai-among-users-of-new-vera-chip",
-        "title": "Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip",
-        "summary": "Major AI companies adopting Nvidia's new chip signals increased AI capability and infrastructure development, likely boosting productivity and workflow changes across tech and data-driven industries.",
-        "date": "2026-06-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/nvidia-says-anthropic-openai-among-big-users-of-new-vera-chip",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "chip technology"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "nvidia-s-huang-calls-ai-jobs-concerns-nonsense-",
-        "title": "Nvidia's Huang Calls AI Jobs Concerns 'Nonsense'",
-        "summary": "Nvidia's CEO dismisses AI job concerns, suggesting AI adoption is increasing demand for software engineers.",
-        "date": "2026-06-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-01/nvidia-s-huang-calls-ai-jobs-concerns-nonsense-video",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workforce impact",
-          "industry sentiment"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-        "title": "Anthropic to Give EU’s Cybersecurity Agency Access to Mythos",
-        "summary": "Anthropic's decision to provide its AI tool Mythos to the EU cybersecurity agency signals increased adoption of advanced AI in critical security operations.",
-        "date": "2026-06-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-01/anthropic-to-give-eu-s-cybersecurity-agency-access-to-mythos",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "cybersecurity",
-          "enterprise AI"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-for-interoperability-in-health-care-philips-s-carla-goulart-peron",
-        "title": "AI for Interoperability in Health Care: Philips’s Carla Goulart Peron",
-        "summary": "AI is being used to improve healthcare outcomes by enhancing diagnostics and freeing up clinicians, signaling a shift in how AI supports rather than replaces medical professionals.",
-        "date": "2026-06-01",
-        "source": "Apple Podcasts - Me, Myself, and AI",
-        "sourceUrl": "https://sloanreview.mit.edu/audio/ai-for-interoperability-in-health-care-philipss-carla-goulart-peron",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "healthcare",
-          "ai-adoptions",
-          "productivity"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "healthcare",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/499218be-4f0b-11f1-b37f-0b0591ec3021/image/ae291127f6965432b65f8770e58490c6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4227354569.mp3",
-        "duration": "34 min"
-      },
-      {
-        "id": "openai-s-frontier-governance-framework",
-        "title": "OpenAI’s Frontier Governance Framework",
-        "summary": "OpenAI's governance framework aligns with new regulations, indicating increased regulatory scrutiny that may slow AI adoption in the workplace.",
-        "date": "2026-05-28",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/openai-frontier-governance-framework",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "safety",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "can-a-i-make-people-feel-less-lonely-",
-        "title": "Can A.I. Make People Feel Less Lonely?",
-        "summary": "AI is being used to address social isolation among older adults, indicating its growing role in healthcare and personal care services.",
-        "date": "2026-05-28",
-        "source": "Apple Podcasts - The Daily",
-        "sourceUrl": "https://www.nytimes.com/the-daily",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "healthcare",
-          "social-isolation",
-          "AI-adoptions"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "business",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "healthcare",
-          "personal-care-and-service",
-          "_all"
-        ],
-        "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/bebd1cf2-dd84-42af-b690-54c1c435ebb9/3000x3000/28thedaily_applespotify_2.jpg?aid=rss_feed",
-        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/71cbb1e4-cf87-4858-b46c-1f48f779e424/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=71cbb1e4-cf87-4858-b46c-1f48f779e424&feed=Sl5CSM3S",
-        "duration": "00:29:04"
-      },
-      {
-        "id": "california-state-agencies-ordered-to-study-the-impact-of-ai-in-employment",
-        "title": "California State Agencies Ordered to Study the Impact of AI in Employment",
-        "summary": "California's order for state agencies to study AI's impact on employment signals increased regulatory scrutiny, potentially slowing AI adoption in the workforce.",
-        "date": "2026-05-28",
-        "source": "Duane Morris LLP",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSl9KdEZNUHY4em4zZElqYjF6d2N2TEg0WjRPWFpwdjVqM2Y0YWN1VVJPVHcyY0c0QnBmMzBjR25keDFaR1Q4aFdTcVdfWkhTMExtbW1HX0plQmRPZ2Nlc1ZJWHpOM2NzSndOVEx3UHo1U3oyT1JBdENIeEktR1g1b3VpdEJRMW1uSlR2THZqVDlYV1BPTjV4Wlp1WEZoVXFhNmVqSXJVbWo?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "workforce"
-        ],
-        "fetchedAt": "2026-06-01T11:01:06.499Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Says Anthropic, OpenAI Among Users of New Vera Chip\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI’s Frontier Governance Framework\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.003 minutes. Updated 2026-06-01T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }

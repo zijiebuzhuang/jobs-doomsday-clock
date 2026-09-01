@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:01",
+  "displayTime": "00:02:07",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.011,
+  "exactMinutesToMidnight": -2.114,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.011,
+  "newsAdjustment": -15.114,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.139,
+  "macroReplacementRate": 50.146,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,69 +3448,144 @@
   ],
   "newsFeed": [
     {
-      "id": "learning-never-stops-how-ai-makes-learning-continuous",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "summary": "AI tools like ChatGPT are enabling continuous learning beyond traditional classroom settings, reshaping education and skill development.",
-      "date": "2026-08-26",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/learning-never-stops",
+      "id": "run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-",
+      "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+      "summary": "AI is advancing scientific research by enabling agentic workflows that improve hypothesis generation and experimental design.",
+      "date": "2026-08-31",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "education",
-        "learning-tools",
-        "AI-adoption"
+        "AI tools",
+        "scientific research",
+        "workflow automation"
       ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
+        "life-physical-and-social-science",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AdobeStock_842772489-e1787092703768-768x431.webp"
+    },
+    {
+      "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "Polimill's use of AI models in public administration improves efficiency and sets a precedent for AI adoption in government workflows.",
+      "date": "2026-08-31",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/polimill",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "public sector adoption",
+        "workflow automation"
+      ],
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+      "title": "AI Job Risks Spread to PR, Web Development and Hotel Workers",
+      "summary": "AI job risks are expanding into new sectors like PR, web development, and hospitality, signaling broader workplace pressure from AI adoption.",
+      "date": "2026-09-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "job displacement",
+        "AI adoption",
+        "workplace transformation"
+      ],
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "media-and-communication",
+        "computer-and-information-technology",
+        "personal-care-and-service"
+      ]
+    },
+    {
+      "id": "debian-won-t-ban-ai-code-from-its-linux-distribution",
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "summary": "Debian's decision to allow AI tools in its development process signals growing acceptance of AI in software development workflows, boosting productivity and shaping future skill requirements.",
+      "date": "2026-08-31",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workflows",
+        "productivity"
+      ],
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-supports-california-s-bill-to-advance-youth-ai-safety",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary": "OpenAI's support for California's AI safety bill signals increased regulatory focus on AI use by youth, potentially shaping future AI adoption in workplaces involving younger employees.",
+      "date": "2026-08-31",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
         "education-training-and-library",
         "_all"
       ],
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
-      "title": "China Rebukes Anthropic, Sets Terms for Key US-China AI Dialogue",
-      "summary": "China's regulatory push against US AI companies may slow cross-border AI collaboration and shape the global AI landscape.",
+      "id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "The Pentagon adopting advanced AI models like ChatGPT and Grok signals increased AI integration in government and defense sectors, likely influencing workforce skills and AI adoption in related industries.",
       "date": "2026-08-31",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/china-rebukes-anthropic-sets-terms-for-key-us-china-ai-dialogue",
-      "effect": "delay",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "international-relations",
-        "AI-policy"
+        "government adoption",
+        "AI tools",
+        "workplace integration"
       ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "g20-faces-divide-over-debt-ai-and-global-growth",
-      "title": "G20 Faces Divide Over Debt, AI and Global Growth",
-      "summary": "Discussions among global leaders and tech figures on AI regulation highlight growing pressure for AI adoption and policy development.",
-      "date": "2026-08-30",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "enterprise-adoption",
-        "policy"
-      ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3520,43 +3595,68 @@
       ]
     },
     {
-      "id": "the-download-inside-openai-s-hugging-face-hack-and-a-new-ev-takes-on-the-us",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "summary": "A security incident involving AI models highlights risks in AI adoption and the need for better safeguards in enterprise systems.",
-      "date": "2026-08-27",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "id": "anthropic-agrees-to-35-billion-cloud-deal-with-lambda",
+      "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
+      "summary": "A major cloud deal between Anthropic and Lambda indicates increased AI capacity and infrastructure investment, accelerating AI adoption in enterprises.",
+      "date": "2026-09-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI security",
-        "enterprise adoption",
-        "model vulnerabilities"
+        "AI infrastructure",
+        "enterprise AI",
+        "cloud computing"
       ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "sony-music-publishing-and-warner-chappell-are-suing-anthropic",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "summary": "Legal disputes over AI training data highlight regulatory and legal challenges that could slow AI adoption in the workplace.",
-      "date": "2026-08-29",
+      "id": "anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+      "summary": "A major cloud computing deal between Anthropic and Lambda signals increased AI capacity and infrastructure investment, accelerating AI adoption across industries.",
+      "date": "2026-08-31",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise AI",
+        "cloud infrastructure",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "chatgpt-to-face-tougher-regulation-in-the-eu",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "Tighter EU regulation of ChatGPT could slow AI adoption and affect how AI tools are developed and deployed in workplaces.",
+      "date": "2026-08-31",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "legal",
-        "enterprise-adoption"
+        "policy",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
+      "fetchedAt": "2026-09-01T11:00:51.210Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3565,39 +3665,15 @@
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "here-s-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "Incidents of AI systems going rogue highlight risks and potential regulatory concerns that could slow AI adoption in workplaces.",
-      "date": "2026-08-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-08-31T11:01:30.339Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-08-31T12:00:00.000Z",
+  "generatedAt": "2026-09-01T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption faces mixed signals amid regulatory and technical challenges",
-      "preview": "New developments highlight both progress and hurdles in AI integration.",
-      "body": "Recent news shows a mix of advancement and delay, with AI continuing to reshape learning and innovation but facing regulatory pushback and legal challenges. Standout headlines include concerns over AI security and cross-border collaboration tensions. Overall, the balance remains cautiously optimistic but with growing scrutiny."
+      "title": "AI Advances and Job Risks Continue to Shape Workforce Dynamics",
+      "preview": "New AI developments and job risk expansions highlight ongoing shifts in the labor market.",
+      "body": "Recent news shows continued AI advancement across sectors, including scientific research, government infrastructure, and cloud computing. However, job risks are also spreading into fields like PR and hospitality. Regulatory efforts, such as California's AI safety bill, suggest growing oversight, but overall momentum remains forward."
     }
   }
 }

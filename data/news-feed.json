@@ -1,5 +1,225 @@
 [
   {
+    "id": "run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-",
+    "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+    "summary": "AI is advancing scientific research by enabling agentic workflows that improve hypothesis generation and experimental design.",
+    "date": "2026-08-31",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "scientific research",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/AdobeStock_842772489-e1787092703768-768x431.webp"
+  },
+  {
+    "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "Polimill's use of AI models in public administration improves efficiency and sets a precedent for AI adoption in government workflows.",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/polimill",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "public sector adoption",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "openai-supports-california-s-bill-to-advance-youth-ai-safety",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI's support for California's AI safety bill signals increased regulatory focus on AI use by youth, potentially shaping future AI adoption in workplaces involving younger employees.",
+    "date": "2026-08-31",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "education-training-and-library",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "debian-won-t-ban-ai-code-from-its-linux-distribution",
+    "title": "Debian won’t ban AI code from its Linux distribution",
+    "summary": "Debian's decision to allow AI tools in its development process signals growing acceptance of AI in software development workflows, boosting productivity and shaping future skill requirements.",
+    "date": "2026-08-31",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workflows",
+      "productivity"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0009_7.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "chatgpt-to-face-tougher-regulation-in-the-eu",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "summary": "Tighter EU regulation of ChatGPT could slow AI adoption and affect how AI tools are developed and deployed in workplaces.",
+    "date": "2026-08-31",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+    "title": "AI Job Risks Spread to PR, Web Development and Hotel Workers",
+    "summary": "AI job risks are expanding into new sectors like PR, web development, and hospitality, signaling broader workplace pressure from AI adoption.",
+    "date": "2026-09-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-01/ai-job-risks-spread-to-pr-web-development-and-hotel-workers",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "job displacement",
+      "AI adoption",
+      "workplace transformation"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "personal-care-and-service"
+    ]
+  },
+  {
+    "id": "anthropic-agrees-to-35-billion-cloud-deal-with-lambda",
+    "title": "Anthropic Agrees to $35 Billion Cloud Deal With Lambda",
+    "summary": "A major cloud deal between Anthropic and Lambda indicates increased AI capacity and infrastructure investment, accelerating AI adoption in enterprises.",
+    "date": "2026-09-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-01/anthropic-agrees-to-35-billion-cloud-deal-with-lambda-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise AI",
+      "cloud computing"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "summary": "The Pentagon adopting advanced AI models like ChatGPT and Grok signals increased AI integration in government and defense sectors, likely influencing workforce skills and AI adoption in related industries.",
+    "date": "2026-08-31",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "government adoption",
+      "AI tools",
+      "workplace integration"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+    "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+    "summary": "A major cloud computing deal between Anthropic and Lambda signals increased AI capacity and infrastructure investment, accelerating AI adoption across industries.",
+    "date": "2026-08-31",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "cloud infrastructure",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-01T11:00:51.210Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "learning-never-stops-how-ai-makes-learning-continuous",
     "title": "Learning never stops: How AI makes learning continuous",
     "summary": "AI tools like ChatGPT are enabling continuous learning beyond traditional classroom settings, reshaping education and skill development.",
@@ -15471,176 +15691,5 @@
     "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/0936526b-6410-4021-8c16-3c66c713dde9/3000x3000/04thedaily_applespotify_4.jpg?aid=rss_feed",
     "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/30130dc1-c7e2-425e-a395-0af04b04871b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=30130dc1-c7e2-425e-a395-0af04b04871b&feed=Sl5CSM3S",
     "duration": "00:34:14"
-  },
-  {
-    "id": "build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
-    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
-    "summary": "New tools from Microsoft and NVIDIA enable developers to build AI agents on Windows PCs, increasing AI adoption in personal and professional workflows.",
-    "date": "2026-06-02",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflows",
-      "productivity",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/ai-hardware-768x432.png"
-  },
-  {
-    "id": "travelers-deploys-ai-powered-claims-countrywide-with-openai",
-    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-    "summary": "Travelers is adopting AI to enhance customer support and operational efficiency in claims processing, signaling increased AI integration in insurance workflows.",
-    "date": "2026-06-02",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/travelers",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "customer support",
-      "insurance industry",
-      "workforce automation"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "business-and-financial",
-      "office-and-administrative-support",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "ai-saves-time-but-most-companies-waste-the-gain-study-shows",
-    "title": "AI Saves Time But Most Companies Waste the Gain, Study Shows",
-    "summary": "A study shows that while AI is widely adopted, its productivity gains are not being fully realized, indicating potential inefficiencies or mismanagement in implementation.",
-    "date": "2026-06-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/ai-saves-time-but-most-companies-waste-the-gain-study-shows",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "productivity",
-      "workflows",
-      "adoption-challenges"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "spain-earmarks-up-to-800m-for-massive-eu-data-center-project",
-    "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
-    "summary": "Spain's investment in an EU AI data center project signals increased infrastructure and adoption of AI capabilities, potentially boosting tech and related industries.",
-    "date": "2026-06-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "infrastructure",
-      "ai-adoption",
-      "eu-policy"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
-    "title": "DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal",
-    "summary": "A major funding round for DeepSeek signals growing AI capability and investment in China's AI industry, potentially increasing competition and adoption of AI technologies.",
-    "date": "2026-06-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "funding",
-      "AI development",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "eu-s-ai-data-center-plans-stumble-due-to-delays-funding",
-    "title": "EU’s AI Data Center Plans Stumble Due to Delays, Funding",
-    "summary": "Delays and funding issues in the EU's AI data center plan may slow the adoption of AI infrastructure and its impact on workforce technologies.",
-    "date": "2026-06-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "infrastructure",
-      "regulation",
-      "adoption"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-launches-new-codex-tools-for-white-collar-work",
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "summary": "OpenAI's new Codex tools for white-collar work signal increased AI adoption in professional and business roles, potentially altering workflows and skill requirements.",
-    "date": "2026-06-02",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflows",
-      "productivity",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-06-03T11:00:49.236Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "management"
-    ]
   }
 ]
