@@ -1,5 +1,241 @@
 [
   {
+    "date": "2026-09-02",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -1.916,
+    "macroReplacementRate": 50.133,
+    "newsAdjustment": -14.916,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "anthropic-launches-claude-fable-5-1-and-says-it-s-up-to-45-percent-cheaper-for-a",
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "summary": "Anthropic's cheaper AI models for agentic work could increase adoption and reduce costs for businesses using AI, potentially affecting productivity and hiring in tech and related fields.",
+        "date": "2026-09-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "cost reduction",
+          "agentic work"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "nvidia-nears-14-billion-hugging-face-deal-this-week",
+        "title": "Nvidia Nears $14 Billion Hugging Face Deal This Week",
+        "summary": "A potential $14 billion acquisition of Hugging Face by Nvidia signals increased investment in AI tools and models, accelerating their integration into enterprise workflows and professional settings.",
+        "date": "2026-09-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "ai-acquisition",
+          "model-development"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-new-fable-release-is-cheaper-less-restrictive",
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "summary": "Anthropic's Fable 5.1 update makes AI more accessible and less restrictive, potentially increasing its adoption in work environments.",
+        "date": "2026-09-01",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "workplace adoption",
+          "model improvements"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-may-be-close-to-14-billion-deal-for-hugging-face",
+        "title": "Nvidia May Be Close to $14 Billion Deal for Hugging Face",
+        "summary": "A potential $14 billion acquisition of Hugging Face by Nvidia signals increased investment in AI infrastructure and tools, accelerating AI adoption across industries.",
+        "date": "2026-09-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise adoption",
+          "AI infrastructure",
+          "acquisition"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-delayed-its-new-model-s-development-after-the-hugging-face-hack",
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "summary": "OpenAI delayed development of a new model due to security concerns following a previous AI model's breach, highlighting increased caution in AI deployment.",
+        "date": "2026-09-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "model development"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-rise-of-ai-civilizations-and-the-fall-of-corporate-responsibility",
+        "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+        "summary": "A cybersecurity incident involving AI tools highlights growing concerns about AI safety and responsibility, potentially slowing adoption and increasing regulatory scrutiny.",
+        "date": "2026-09-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "cybersecurity"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-syste",
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "summary": "OpenAI's Astra model highlights growing concerns about AI security, potentially slowing adoption due to increased regulatory and safety scrutiny.",
+        "date": "2026-09-01",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "apple-accuses-openai-of-destroying-evidence",
+        "title": "Apple accuses OpenAI of destroying evidence",
+        "summary": "Legal disputes over evidence destruction between Apple and OpenAI highlight growing regulatory and legal scrutiny around AI development and data practices.",
+        "date": "2026-09-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "legal",
+          "regulation",
+          "data-privacy"
+        ],
+        "fetchedAt": "2026-09-02T11:00:48.500Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work.",
+        "body": "This update is split between 4 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work\" (The Verge - AI), while the clearest drag comes from \"OpenAI delayed its new model’s development after the Hugging Face hack\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.916 minutes. Updated 2026-09-02T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-01",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.114,
@@ -19546,219 +19782,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by AI Saves Time But Most Companies Waste the Gain, Study Shows.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Spain Earmarks Up to €800M for Massive EU Data Center Project\" (Bloomberg Technology), while the clearest drag comes from \"AI Saves Time But Most Companies Waste the Gain, Study Shows\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.466 minutes. Updated 2026-06-03T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-02",
-    "minutesToMidnight": 3,
-    "exactMinutesToMidnight": 2.64,
-    "macroReplacementRate": 49.817,
-    "newsAdjustment": -10.36,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "codex-is-becoming-a-productivity-tool-for-everyone",
-        "title": "Codex is becoming a productivity tool for everyone",
-        "summary": "Codex's expansion as a productivity tool signals AI's growing influence in enhancing work efficiency across multiple industries.",
-        "date": "2026-06-02",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/codex-for-knowledge-work",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflow automation"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "tencent-jumps-after-report-it-s-set-to-launch-wechat-ai-agent",
-        "title": "Tencent Jumps After Report It’s Set to Launch WeChat AI Agent",
-        "summary": "Tencent's reported development of an AI agent signals growing AI adoption in consumer tech and enterprise applications, potentially influencing productivity and workflow changes.",
-        "date": "2026-06-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/tencent-gains-after-report-it-s-set-to-launch-wechat-ai-agent",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "enterprise AI",
-          "company innovation"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-        "title": "MediaTek Pledges Hiring Spree to Boost Push Into New AI Spheres",
-        "summary": "MediaTek's hiring surge signals growing AI adoption in the tech sector, indicating increased demand for AI-related skills and roles.",
-        "date": "2026-06-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/mediatek-pledges-hiring-spree-to-boost-push-into-new-ai-spheres",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "hiring",
-          "AI adoption",
-          "tech industry"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "softbank-in-early-talks-to-back-800-million-agile-robots-round",
-        "title": "SoftBank in Early Talks to Back $800 Million Agile Robots Round",
-        "summary": "Major funding for an AI-driven industrial robotics startup signals growing investment in real-world AI applications, potentially increasing automation and productivity in manufacturing and related fields.",
-        "date": "2026-06-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/softbank-in-early-talks-to-back-800-million-agile-robots-round",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "robotics",
-          "investment",
-          "automation"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "production",
-          "installation-maintenance-and-repair",
-          "construction-and-extraction"
-        ]
-      },
-      {
-        "id": "our-views-on-ai-policy-and-political-advocacy",
-        "title": "Our views on AI policy and political advocacy",
-        "summary": "The company's stance on AI policy and regulation suggests a focus on controlled adoption, which may slow or shape the pace of AI integration in the workplace.",
-        "date": "2026-06-01",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "AI safety"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "gemini-s-new-ai-agent-is-about-as-good-as-google-s-demo",
-        "title": "Gemini’s new AI agent is about as good as Google’s demo",
-        "summary": "Google's new AI agent, Gemini Spark, represents a significant step forward in AI-driven task automation and workplace productivity.",
-        "date": "2026-06-01",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI agents",
-          "productivity tools",
-          "workplace automation"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "uh-partners-on-ai-workforce-readiness-symposium-series",
-        "title": "UH partners on AI workforce readiness symposium series",
-        "summary": "A partnership for an AI workforce readiness symposium series indicates growing efforts to prepare workers for AI-driven changes in the job market.",
-        "date": "2026-06-01",
-        "source": "University of Hawaii System",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemVpVlpjeEstbjc3MVlGeXAySzhFbEl4ZjV5Tk9nTjBZaU5qU1NhYUx2WDFFaks4Z1BkbG9ob0dmcEpEdGVlTnBPVEszdTZOaFRFdF93VzRuUzNCdXFvTWJQUWdJeWh3YUxXMUZ5WXdiakxmb01tdE5UWmpDc0NsVkViYnllZw?oc=5",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "workforce-development",
-          "education-training",
-          "AI-adoption"
-        ],
-        "fetchedAt": "2026-06-02T11:01:03.159Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Codex is becoming a productivity tool for everyone.",
-        "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Codex is becoming a productivity tool for everyone\" (OpenAI), while the clearest drag comes from \"Our views on AI policy and political advocacy\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.360 minutes. Updated 2026-06-02T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }
