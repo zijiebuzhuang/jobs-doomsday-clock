@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:55",
+  "displayTime": "00:01:52",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.916,
+  "exactMinutesToMidnight": -1.874,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.916,
+  "newsAdjustment": -14.874,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.133,
+  "macroReplacementRate": 50.13,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,68 +3448,69 @@
   ],
   "newsFeed": [
     {
-      "id": "anthropic-launches-claude-fable-5-1-and-says-it-s-up-to-45-percent-cheaper-for-a",
-      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic's cheaper AI models for agentic work could increase adoption and reduce costs for businesses using AI, potentially affecting productivity and hiring in tech and related fields.",
-      "date": "2026-09-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "cost reduction",
-        "agentic work"
-      ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "nvidia-nears-14-billion-hugging-face-deal-this-week",
-      "title": "Nvidia Nears $14 Billion Hugging Face Deal This Week",
-      "summary": "A potential $14 billion acquisition of Hugging Face by Nvidia signals increased investment in AI tools and models, accelerating their integration into enterprise workflows and professional settings.",
-      "date": "2026-09-02",
+      "id": "broadcom-forecasts-boom-in-ai-chip-sales",
+      "title": "Broadcom Forecasts Boom in AI Chip Sales",
+      "summary": "Broadcom's forecast of increased AI chip sales signals growing demand for AI infrastructure, which could drive adoption and influence hiring in tech and related fields.",
+      "date": "2026-09-03",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "enterprise-adoption",
-        "ai-acquisition",
-        "model-development"
+        "AI infrastructure",
+        "chip industry",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "anthropic-s-new-fable-release-is-cheaper-less-restrictive",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "summary": "Anthropic's Fable 5.1 update makes AI more accessible and less restrictive, potentially increasing its adoption in work environments.",
-      "date": "2026-09-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-more",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "summary": "Google's new Gemini 3.8 Flash model shows improved AI capabilities, potentially increasing productivity but also raising cost concerns for users.",
+      "date": "2026-09-02",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workplace adoption",
-        "model improvements"
+        "AI models",
+        "productivity",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-s-new-reasoning-technique-alarms-ai-safety-experts",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI's new reasoning technique could lead to more advanced AI capabilities that may impact various industries and job functions.",
+      "date": "2026-09-02",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI research",
+        "reasoning models",
+        "AI safety"
+      ],
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3520,93 +3521,92 @@
       ]
     },
     {
-      "id": "nvidia-may-be-close-to-14-billion-deal-for-hugging-face",
-      "title": "Nvidia May Be Close to $14 Billion Deal for Hugging Face",
-      "summary": "A potential $14 billion acquisition of Hugging Face by Nvidia signals increased investment in AI infrastructure and tools, accelerating AI adoption across industries.",
+      "id": "us-strikes-light-touch-ai-regulation-accord-with-g20-members",
+      "title": "US Strikes Light-Touch AI Regulation Accord With G20 Members",
+      "summary": "Light-touch AI regulation may slow the pace of AI adoption and oversight, affecting how industries implement AI responsibly.",
       "date": "2026-09-02",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/us-strikes-light-touch-ai-regulation-accord-with-g20-members",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "enterprise adoption",
-        "AI infrastructure",
-        "acquisition"
+        "regulation",
+        "policy",
+        "enterprise"
       ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "broadcom-predicts-surge-in-ai-chip-sales-over-next-two-years",
+      "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
+      "summary": "Increased AI chip sales signal growing demand for AI infrastructure, accelerating adoption across industries.",
+      "date": "2026-09-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI hardware",
+        "market trends",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
         "_all"
       ]
     },
     {
-      "id": "openai-delayed-its-new-model-s-development-after-the-hugging-face-hack",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "summary": "OpenAI delayed development of a new model due to security concerns following a previous AI model's breach, highlighting increased caution in AI deployment.",
-      "date": "2026-09-01",
+      "id": "researchers-fear-safety-disaster-ahead-of-openai-s-astra-release",
+      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "summary": "Concerns over AI safety may slow the adoption of OpenAI's Astra, a powerful new model, highlighting regulatory and ethical challenges in AI development.",
+      "date": "2026-09-02",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI safety",
-        "regulation",
-        "model development"
-      ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "the-rise-of-ai-civilizations-and-the-fall-of-corporate-responsibility",
-      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-      "summary": "A cybersecurity incident involving AI tools highlights growing concerns about AI safety and responsibility, potentially slowing adoption and increasing regulatory scrutiny.",
-      "date": "2026-09-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-syste",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "summary": "OpenAI's Astra model highlights growing concerns about AI security, potentially slowing adoption due to increased regulatory and safety scrutiny.",
-      "date": "2026-09-01",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
         "regulation",
         "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-materia",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "US government support for OpenAI's use of copyrighted material in training LLMs may influence legal and regulatory frameworks affecting AI development and deployment.",
+      "date": "2026-09-02",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "legal",
+        "AI development"
+      ],
+      "fetchedAt": "2026-09-03T11:00:56.236Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3615,39 +3615,14 @@
         "legal",
         "_all"
       ]
-    },
-    {
-      "id": "apple-accuses-openai-of-destroying-evidence",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "summary": "Legal disputes over evidence destruction between Apple and OpenAI highlight growing regulatory and legal scrutiny around AI development and data practices.",
-      "date": "2026-09-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "legal",
-        "regulation",
-        "data-privacy"
-      ],
-      "fetchedAt": "2026-09-02T11:00:48.500Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-02T12:00:00.000Z",
+  "generatedAt": "2026-09-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances and Delays Shape Job Market Dynamics",
-      "preview": "New AI tools and security concerns influence job replacement trends.",
-      "body": "Recent developments show a mix of AI advancements and delays. Nvidia's potential Hugging Face deal and cheaper AI models from Anthropic suggest increased adoption, while security issues and legal disputes highlight ongoing challenges. The overall balance reflects both progress and caution in AI integration."
+      "title": "AI Industry Momentum Outpaces Regulatory Concerns",
+      "preview": "Positive signals on AI infrastructure and capabilities dominate the news.",
+      "body": "Recent reports highlight strong demand for AI chips and advanced models, suggesting continued growth in AI adoption. However, regulatory and safety concerns remain, with some delays noted in implementation. Overall, the balance of news points toward forward momentum in AI development."
     }
   }
 }

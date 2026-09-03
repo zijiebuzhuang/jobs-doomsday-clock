@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-09-03",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -1.874,
+    "macroReplacementRate": 50.13,
+    "newsAdjustment": -14.874,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "broadcom-forecasts-boom-in-ai-chip-sales",
+        "title": "Broadcom Forecasts Boom in AI Chip Sales",
+        "summary": "Broadcom's forecast of increased AI chip sales signals growing demand for AI infrastructure, which could drive adoption and influence hiring in tech and related fields.",
+        "date": "2026-09-03",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "chip industry",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-more",
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "summary": "Google's new Gemini 3.8 Flash model shows improved AI capabilities, potentially increasing productivity but also raising cost concerns for users.",
+        "date": "2026-09-02",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI models",
+          "productivity",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-s-new-reasoning-technique-alarms-ai-safety-experts",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "summary": "OpenAI's new reasoning technique could lead to more advanced AI capabilities that may impact various industries and job functions.",
+        "date": "2026-09-02",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI research",
+          "reasoning models",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "us-strikes-light-touch-ai-regulation-accord-with-g20-members",
+        "title": "US Strikes Light-Touch AI Regulation Accord With G20 Members",
+        "summary": "Light-touch AI regulation may slow the pace of AI adoption and oversight, affecting how industries implement AI responsibly.",
+        "date": "2026-09-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/us-strikes-light-touch-ai-regulation-accord-with-g20-members",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "enterprise"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "broadcom-predicts-surge-in-ai-chip-sales-over-next-two-years",
+        "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
+        "summary": "Increased AI chip sales signal growing demand for AI infrastructure, accelerating adoption across industries.",
+        "date": "2026-09-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI hardware",
+          "market trends",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "researchers-fear-safety-disaster-ahead-of-openai-s-astra-release",
+        "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+        "summary": "Concerns over AI safety may slow the adoption of OpenAI's Astra, a powerful new model, highlighting regulatory and ethical challenges in AI development.",
+        "date": "2026-09-02",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-materia",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "summary": "US government support for OpenAI's use of copyrighted material in training LLMs may influence legal and regulatory frameworks affecting AI development and deployment.",
+        "date": "2026-09-02",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "AI development"
+        ],
+        "fetchedAt": "2026-09-03T11:00:56.236Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Broadcom Forecasts Boom in AI Chip Sales.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Broadcom Forecasts Boom in AI Chip Sales\" (Bloomberg Technology), while the clearest drag comes from \"US Strikes Light-Touch AI Regulation Accord With G20 Members\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.874 minutes. Updated 2026-09-03T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-02",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.916,
@@ -19569,219 +19780,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs.",
         "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Thailand’s Richest Man Plans $4.3 Billion Expansion Amid AI Boom\" (Bloomberg Technology), while the clearest drag comes from \"China’s Robotaxi Dilemma Shows AI Policy Tension Between Growth and Jobs\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.595 minutes. Updated 2026-06-04T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-03",
-    "minutesToMidnight": 3,
-    "exactMinutesToMidnight": 2.534,
-    "macroReplacementRate": 49.825,
-    "newsAdjustment": -10.466,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "ai-saves-time-but-most-companies-waste-the-gain-study-shows",
-        "title": "AI Saves Time But Most Companies Waste the Gain, Study Shows",
-        "summary": "A study shows that while AI is widely adopted, its productivity gains are not being fully realized, indicating potential inefficiencies or mismanagement in implementation.",
-        "date": "2026-06-03",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/ai-saves-time-but-most-companies-waste-the-gain-study-shows",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "productivity",
-          "workflows",
-          "adoption-challenges"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "spain-earmarks-up-to-800m-for-massive-eu-data-center-project",
-        "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
-        "summary": "Spain's investment in an EU AI data center project signals increased infrastructure and adoption of AI capabilities, potentially boosting tech and related industries.",
-        "date": "2026-06-03",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "infrastructure",
-          "ai-adoption",
-          "eu-policy"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
-        "title": "DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal",
-        "summary": "A major funding round for DeepSeek signals growing AI capability and investment in China's AI industry, potentially increasing competition and adoption of AI technologies.",
-        "date": "2026-06-03",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "funding",
-          "AI development",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia",
-        "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
-        "summary": "New tools from Microsoft and NVIDIA enable developers to build AI agents on Windows PCs, increasing AI adoption in personal and professional workflows.",
-        "date": "2026-06-02",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "workflows",
-          "productivity",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/ai-hardware-768x432.png"
-      },
-      {
-        "id": "travelers-deploys-ai-powered-claims-countrywide-with-openai",
-        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-        "summary": "Travelers is adopting AI to enhance customer support and operational efficiency in claims processing, signaling increased AI integration in insurance workflows.",
-        "date": "2026-06-02",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/travelers",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "customer support",
-          "insurance industry",
-          "workforce automation"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "business-and-financial",
-          "office-and-administrative-support",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "eu-s-ai-data-center-plans-stumble-due-to-delays-funding",
-        "title": "EU’s AI Data Center Plans Stumble Due to Delays, Funding",
-        "summary": "Delays and funding issues in the EU's AI data center plan may slow the adoption of AI infrastructure and its impact on workforce technologies.",
-        "date": "2026-06-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "infrastructure",
-          "regulation",
-          "adoption"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-launches-new-codex-tools-for-white-collar-work",
-        "title": "OpenAI launches new Codex tools for white-collar work",
-        "summary": "OpenAI's new Codex tools for white-collar work signal increased AI adoption in professional and business roles, potentially altering workflows and skill requirements.",
-        "date": "2026-06-02",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "workflows",
-          "productivity",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-03T11:00:49.236Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "management"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by AI Saves Time But Most Companies Waste the Gain, Study Shows.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Spain Earmarks Up to €800M for Massive EU Data Center Project\" (Bloomberg Technology), while the clearest drag comes from \"AI Saves Time But Most Companies Waste the Gain, Study Shows\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.466 minutes. Updated 2026-06-03T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }
