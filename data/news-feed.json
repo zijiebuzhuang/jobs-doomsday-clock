@@ -1,5 +1,176 @@
 [
   {
+    "id": "daybreak-for-frontline-defenders-1b-to-protect-essential-services",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "summary": "OpenAI's $1B investment in cyber AI for essential services signals increased adoption of AI in critical infrastructure and security roles.",
+    "date": "2026-09-03",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise AI",
+      "cybersecurity",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "healthcare"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "google-now-lets-you-chat-with-gmail-docs-and-keep",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "summary": "Google's AI-powered voice assistant features in Gmail, Docs, and Keep signal increased workplace adoption of AI tools to improve productivity and workflow efficiency.",
+    "date": "2026-09-03",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "openai-s-next-big-ai-model-has-entered-the-agi-era-",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "summary": "OpenAI's GPT-6 Astra marks a major advancement in AI capabilities, with implications for cybersecurity, professional work, and software engineering.",
+    "date": "2026-09-03",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "cybersecurity",
+      "professional work"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "nvidia-is-buying-hugging-face-for-almost-13-billion",
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "summary": "Nvidia's acquisition of Hugging Face signals increased integration of AI tools into development workflows and enterprise adoption, accelerating AI capabilities in tech and related fields.",
+    "date": "2026-09-03",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "ai-infrastructure",
+      "model-platforms"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "los-angeles-schools-ban-student-use-of-ai-tools-on-district-devices",
+    "title": "Los Angeles Schools Ban Student Use of AI Tools on District Devices",
+    "summary": "Restricting AI use in schools may shape future workforce preparedness and influence how AI is integrated into education and professional training.",
+    "date": "2026-09-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "education",
+      "workforce-preparation"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "education-training-and-library",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-launches-astra-its-powerful-and-controversial-new-model",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "summary": "OpenAI's Astra model represents a significant advancement in AI capabilities for computer and browser tasks, potentially affecting productivity and workflows across multiple industries.",
+    "date": "2026-09-03",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "productivity",
+      "workflows"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "hr-needs-an-ai-workforce-strategy-before-the-layoffs",
+    "title": "HR Needs an AI Workforce Strategy Before the Layoffs",
+    "summary": "The article highlights the growing need for HR to develop AI workforce strategies, signaling increased pressure on organizations to adapt to AI-driven changes in hiring and labor management.",
+    "date": "2026-09-01",
+    "source": "HR Daily Advisor",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajd1VC1JRGxxTkRleWJlM2paWFd3NW5lbW5XWU1ObS1hd3AwWHJKcXRhQ0FQTnBsbUhmYmJ6OTM1eF9jRjdjY1daZEFDX1NHVE81NEJVS1NnUVhCT293cXdwemFyM2E1ZmV4WEVhYUVmT1pQWExTVU1UQVFWQ1llZENmcUt4YlIzQkM3WkRxei1pNVlucl9SNXR1UQ?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "workforce-strategy",
+      "HR",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-09-04T11:01:07.192Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-more",
     "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
     "summary": "Google's new Gemini 3.8 Flash model shows improved AI capabilities, potentially increasing productivity but also raising cost concerns for users.",
@@ -15535,175 +15706,6 @@
     ],
     "fetchedAt": "2026-06-07T11:00:42.788Z",
     "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-public-policy-agenda",
-    "title": "OpenAI public policy agenda",
-    "summary": "OpenAI's public policy agenda highlights regulatory and ethical considerations that may shape the pace and direction of AI adoption in the workforce.",
-    "date": "2026-06-03",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/public-policy-agenda",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "workforce"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "a-blueprint-for-democratic-governance-of-frontier-ai",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "summary": "A proposed federal framework for governing frontier AI could shape how AI is adopted and regulated in the workplace.",
-    "date": "2026-06-03",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/frontier-safety-blueprint",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "AI governance"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "advancing-youth-safety-and-opportunity-through-global-leadership",
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "summary": "OpenAI's call for a global youth AI safety institute signals increased regulatory focus on AI ethics, potentially slowing adoption and shaping workforce development in AI-related fields.",
-    "date": "2026-06-02",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "safety",
-      "policy"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "_all"
-    ]
-  },
-  {
-    "id": "building-the-infrastructure-for-the-intelligence-age-in-michigan",
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "summary": "OpenAI's new data center in Michigan signals increased AI infrastructure investment, likely boosting tech and related industries with new jobs and capabilities.",
-    "date": "2026-06-01",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/stargate-michigan-data-center",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "job creation",
-      "data center"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "construction-and-extraction",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-frontier-models-and-codex-are-now-available-on-aws",
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "summary": "Enterprises can now more easily adopt OpenAI models and Codex through AWS, accelerating AI integration into business workflows.",
-    "date": "2026-06-01",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "tooling",
-      "cloud-infrastructure"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "this-is-your-laptop-on-ai",
-    "title": "This is your laptop… on AI",
-    "summary": "New AI-powered laptop concepts from Big Tech signal a shift in how work tools are designed and used, potentially affecting productivity and workflows across industries.",
-    "date": "2026-06-05",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workplace tools",
-      "tech innovation"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
-    "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
-    "summary": "Concerns about energy capacity may limit AI adoption across economic sectors, slowing its integration into workplaces.",
-    "date": "2026-06-05",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "infrastructure",
-      "adoption"
-    ],
-    "fetchedAt": "2026-06-06T11:00:47.828Z",
-    "sourceGroup": "business",
     "sourceTier": "editorial",
     "qualityScore": 85,
     "categories": [

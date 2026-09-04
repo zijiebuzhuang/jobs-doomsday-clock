@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:52",
+  "displayTime": "00:02:15",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.874,
+  "exactMinutesToMidnight": -2.257,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.874,
+  "newsAdjustment": -15.257,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.13,
+  "macroReplacementRate": 50.156,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,181 +3448,183 @@
   ],
   "newsFeed": [
     {
-      "id": "broadcom-forecasts-boom-in-ai-chip-sales",
-      "title": "Broadcom Forecasts Boom in AI Chip Sales",
-      "summary": "Broadcom's forecast of increased AI chip sales signals growing demand for AI infrastructure, which could drive adoption and influence hiring in tech and related fields.",
+      "id": "los-angeles-schools-ban-student-use-of-ai-tools-on-district-devices",
+      "title": "Los Angeles Schools Ban Student Use of AI Tools on District Devices",
+      "summary": "Restricting AI use in schools may shape future workforce preparedness and influence how AI is integrated into education and professional training.",
       "date": "2026-09-03",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-03/broadcom-forecasts-boom-in-ai-chip-sales-video",
-      "effect": "advance",
-      "impactScore": 4,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-03/los-angeles-schools-bar-students-from-ai-on-district-devices",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
-        "AI infrastructure",
-        "chip industry",
-        "AI adoption"
+        "regulation",
+        "education",
+        "workforce-preparation"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
+        "education-training-and-library",
         "_all"
       ]
     },
     {
-      "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-more",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "summary": "Google's new Gemini 3.8 Flash model shows improved AI capabilities, potentially increasing productivity but also raising cost concerns for users.",
-      "date": "2026-09-02",
+      "id": "google-now-lets-you-chat-with-gmail-docs-and-keep",
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "summary": "Google's AI-powered voice assistant features in Gmail, Docs, and Keep signal increased workplace adoption of AI tools to improve productivity and workflow efficiency.",
+      "date": "2026-09-03",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "sourceUrl": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI models",
-        "productivity",
-        "enterprise adoption"
+        "AI adoption",
+        "productivity tools",
+        "workflow automation"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Gmail-Docs-and-Keep-Live.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-s-new-reasoning-technique-alarms-ai-safety-experts",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "summary": "OpenAI's new reasoning technique could lead to more advanced AI capabilities that may impact various industries and job functions.",
-      "date": "2026-09-02",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "id": "daybreak-for-frontline-defenders-1b-to-protect-essential-services",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI's $1B investment in cyber AI for essential services signals increased adoption of AI in critical infrastructure and security roles.",
+      "date": "2026-09-03",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/daybreak-for-frontline-defenders",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI research",
-        "reasoning models",
-        "AI safety"
+        "enterprise AI",
+        "cybersecurity",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "protective-service",
+        "healthcare"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "openai-launches-astra-its-powerful-and-controversial-new-model",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI's Astra model represents a significant advancement in AI capabilities for computer and browser tasks, potentially affecting productivity and workflows across multiple industries.",
+      "date": "2026-09-03",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI model release",
+        "productivity",
+        "workflows"
+      ],
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "us-strikes-light-touch-ai-regulation-accord-with-g20-members",
-      "title": "US Strikes Light-Touch AI Regulation Accord With G20 Members",
-      "summary": "Light-touch AI regulation may slow the pace of AI adoption and oversight, affecting how industries implement AI responsibly.",
-      "date": "2026-09-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/us-strikes-light-touch-ai-regulation-accord-with-g20-members",
-      "effect": "delay",
+      "id": "openai-s-next-big-ai-model-has-entered-the-agi-era-",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "summary": "OpenAI's GPT-6 Astra marks a major advancement in AI capabilities, with implications for cybersecurity, professional work, and software engineering.",
+      "date": "2026-09-03",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "enterprise"
+        "AI model release",
+        "cybersecurity",
+        "professional work"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "management",
         "business-and-financial"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "broadcom-predicts-surge-in-ai-chip-sales-over-next-two-years",
-      "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
-      "summary": "Increased AI chip sales signal growing demand for AI infrastructure, accelerating adoption across industries.",
-      "date": "2026-09-02",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
+      "id": "hr-needs-an-ai-workforce-strategy-before-the-layoffs",
+      "title": "HR Needs an AI Workforce Strategy Before the Layoffs",
+      "summary": "The article highlights the growing need for HR to develop AI workforce strategies, signaling increased pressure on organizations to adapt to AI-driven changes in hiring and labor management.",
+      "date": "2026-09-01",
+      "source": "HR Daily Advisor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPajd1VC1JRGxxTkRleWJlM2paWFd3NW5lbW5XWU1ObS1hd3AwWHJKcXRhQ0FQTnBsbUhmYmJ6OTM1eF9jRjdjY1daZEFDX1NHVE81NEJVS1NnUVhCT293cXdwemFyM2E1ZmV4WEVhYUVmT1pQWExTVU1UQVFWQ1llZENmcUt4YlIzQkM3WkRxei1pNVlucl9SNXR1UQ?oc=5",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI hardware",
-        "market trends",
-        "enterprise adoption"
+        "workforce-strategy",
+        "HR",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
-        "computer-and-information-technology",
-        "production",
+        "management",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "researchers-fear-safety-disaster-ahead-of-openai-s-astra-release",
-      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "summary": "Concerns over AI safety may slow the adoption of OpenAI's Astra, a powerful new model, highlighting regulatory and ethical challenges in AI development.",
-      "date": "2026-09-02",
+      "id": "nvidia-is-buying-hugging-face-for-almost-13-billion",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "summary": "Nvidia's acquisition of Hugging Face signals increased integration of AI tools into development workflows and enterprise adoption, accelerating AI capabilities in tech and related fields.",
+      "date": "2026-09-03",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "effect": "delay",
+      "sourceUrl": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI safety",
-        "regulation",
-        "enterprise adoption"
+        "enterprise-adoption",
+        "ai-infrastructure",
+        "model-platforms"
       ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
+      "fetchedAt": "2026-09-04T11:01:07.192Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
+        "life-physical-and-social-science",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-materia",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "US government support for OpenAI's use of copyrighted material in training LLMs may influence legal and regulatory frameworks affecting AI development and deployment.",
-      "date": "2026-09-02",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "legal",
-        "AI development"
-      ],
-      "fetchedAt": "2026-09-03T11:00:56.236Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-03T12:00:00.000Z",
+  "generatedAt": "2026-09-04T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Industry Momentum Outpaces Regulatory Concerns",
-      "preview": "Positive signals on AI infrastructure and capabilities dominate the news.",
-      "body": "Recent reports highlight strong demand for AI chips and advanced models, suggesting continued growth in AI adoption. However, regulatory and safety concerns remain, with some delays noted in implementation. Overall, the balance of news points toward forward momentum in AI development."
+      "title": "AI Adoption Accelerates Despite Educational Restrictions",
+      "preview": "New AI tools and investments drive progress, while schools restrict access.",
+      "body": "Recent developments show strong AI advancement, with Google and OpenAI launching new tools that enhance productivity and security. However, educational restrictions like LA Schools' AI ban may affect long-term workforce readiness. The overall trend remains forward-moving, with a mix of innovation and caution."
     }
   }
 }
