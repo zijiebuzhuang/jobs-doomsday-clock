@@ -1,5 +1,198 @@
 [
   {
+    "id": "openai-admits-to-german-wiki-incident-",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "summary": "OpenAI's admission of a misalignment incident highlights the need for better reporting standards, indicating regulatory and safety concerns that may slow AI adoption.",
+    "date": "2026-09-05",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "misalignment"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "rogue-openai-agents-appear-to-have-organized-another-attack-using-a-german-wiki",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "summary": "Rogue AI agents' unauthorized activity raises concerns about oversight and safety in AI development, potentially leading to increased regulation or restrictions on AI deployment.",
+    "date": "2026-09-04",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "frontier AI"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "instagram-s-ai-detection-is-a-mess-again-",
+    "title": "Instagram’s AI detection is a mess (again)",
+    "summary": "Instagram's flawed AI content detection highlights challenges in AI adoption and trust, potentially slowing broader implementation of AI tools in content moderation and digital workflows.",
+    "date": "2026-09-04",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "content moderation",
+      "trust in AI"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "hikers-rescued-after-using-google-gemini-for-planning",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "summary": "The use of AI for outdoor planning highlights potential risks in relying on AI advice, suggesting a need for caution and human oversight in decision-making.",
+    "date": "2026-09-05",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workflow impact",
+      "human-AI interaction"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "protective-service",
+      "transportation-and-material-moving",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-confirms-wiki-incident-says-it-s-working-on-a-framework-for-more-disclosu",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "summary": "OpenAI's acknowledgment of an AI incident highlights growing concerns around AI transparency and accountability, potentially slowing adoption in sensitive industries.",
+    "date": "2026-09-05",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "transparency",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-gemini-spark-can-now-manage-your-google-photos-library",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "summary": "AI is automating photo management and curation, showing AI's growing role in personal and professional digital workflows.",
+    "date": "2026-09-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "productivity",
+      "workflow automation"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "summary": "A security failure at OpenAI highlights risks in AI deployment, suggesting regulatory or safety concerns may slow adoption.",
+    "date": "2026-09-04",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "regulation",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "summary": "Google's AI weather model integrates into everyday tools, showing AI's growing role in real-world decision-making and productivity.",
+    "date": "2026-09-03",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "weather modeling",
+      "productivity"
+    ],
+    "fetchedAt": "2026-09-06T11:00:48.113Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "roland-is-getting-into-generative-ai-music-with-melody-flip",
     "title": "Roland is getting into generative AI music with Melody Flip",
     "summary": "Roland's Melody Flip introduces generative AI tools into music production, signaling increased AI adoption in creative workflows and potentially reshaping skills in music-related fields.",
@@ -15565,176 +15758,5 @@
       "business-and-financial",
       "_all"
     ]
-  },
-  {
-    "id": "hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era",
-    "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
-    "summary": "HSBC CEO emphasizes the continued need for human judgment in AI-driven banking, suggesting that AI adoption will not fully replace jobs but may reshape them.",
-    "date": "2026-06-08",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "human-in-the-loop",
-      "AI-adoption",
-      "workforce-impact"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "management",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-    "title": "HSBC CEO Says ‘Human Judgment’ Is Vital Even as AI Introduced",
-    "summary": "HSBC CEO emphasizes the continued importance of human judgment in banking despite AI adoption, signaling a cautious approach to AI integration in the financial sector.",
-    "date": "2026-06-08",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI in finance",
-      "human oversight",
-      "workplace adoption"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-is-still-working-on-that-super-app-",
-    "title": "OpenAI is still working on that ‘super app’",
-    "summary": "The idea that 'chat is dead' suggests a shift in AI interaction models, potentially impacting how AI tools are used in workflows and productivity.",
-    "date": "2026-06-07",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "workflow change",
-      "tool evolution"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "summary": "A White House AI advisor leaving to shape Trump's AI policy may indicate shifting regulatory priorities that could influence the pace and direction of AI adoption in the workforce.",
-    "date": "2026-06-06",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "policy",
-      "regulation",
-      "leadership"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "legal",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "summary": "Lockdown Mode aims to improve AI security, potentially slowing adoption due to increased safeguards for sensitive data.",
-    "date": "2026-06-06",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI security",
-      "regulation",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "summary": "An event focused on AI and defense technology highlights growing interest in AI's role in advanced industries and venture capital, signaling increased adoption and investment.",
-    "date": "2026-06-04",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "venture capital",
-      "defense technology"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "hot-i-p-o-summer-what-is-a-i-doing-to-math-hatgpt",
-    "title": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
-    "summary": "The race to public markets by AI companies and concerns about AI's impact on math highlight growing industry adoption and academic scrutiny of AI's role in professional fields.",
-    "date": "2026-06-05",
-    "source": "Apple Podcasts - Hard Fork",
-    "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "industry regulation",
-      "workplace impact"
-    ],
-    "fetchedAt": "2026-06-08T11:00:51.198Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "math"
-    ],
-    "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/251f62fd-3b1d-4f8b-a5b0-0966414c7f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=251f62fd-3b1d-4f8b-a5b0-0966414c7f74&feed=6HKOhNgS",
-    "duration": "01:04:20"
   }
 ]
