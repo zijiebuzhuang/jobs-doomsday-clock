@@ -1,5 +1,175 @@
 [
   {
+    "id": "supporting-independent-journalism-in-ukraine",
+    "title": "Supporting independent journalism in Ukraine",
+    "summary": "An AI initiative is supporting Ukrainian news organizations, indicating AI adoption in media and communication sectors to enhance journalistic capabilities.",
+    "date": "2026-09-07",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "media innovation",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "media-and-communication"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "research-acceleration-the-view-inside-openai",
+    "title": "Research acceleration: The view inside OpenAI",
+    "summary": "AI coding agents are accelerating research at OpenAI, indicating a shift in how AI development is conducted and likely impacting tech and research roles.",
+    "date": "2026-09-06",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI research",
+      "productivity",
+      "coding agents"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "path-to-astra-critical-capabilities-and-frontier-safeguards",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "Astra's enhanced cybersecurity safeguards represent a significant step forward in AI safety and readiness for deployment in critical systems.",
+    "date": "2026-09-01",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/path-to-astra",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "cybersecurity",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "summary": "Legal challenges against OpenAI and Microsoft highlight growing regulatory and legal friction around AI training data, potentially slowing AI adoption and shaping future development practices.",
+    "date": "2026-09-06",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "legal",
+      "regulation",
+      "adoption"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+    "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
+    "summary": "Malaysia's potential adoption of Huawei AI chips highlights geopolitical tensions affecting AI technology access and could slow global AI development and workforce integration.",
+    "date": "2026-09-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "geopolitics",
+      "AI regulation",
+      "technology adoption"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+    "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
+    "summary": "AI-driven drug discovery shows potential to reverse aging markers, signaling AI's growing impact in healthcare and life sciences.",
+    "date": "2026-09-07",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "drug-discovery",
+      "ai-in-healthcare",
+      "biotech-innovation"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "healthcare",
+      "life-physical-and-social-science",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Legal challenges against AI training practices may slow AI adoption and shape future regulations in content creation industries.",
+    "date": "2026-09-05",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "legal",
+      "regulation"
+    ],
+    "fetchedAt": "2026-09-07T11:00:45.451Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-admits-to-german-wiki-incident-",
     "title": "OpenAI admits to German wiki ‘incident’",
     "summary": "OpenAI's admission of a misalignment incident highlights the need for better reporting standards, indicating regulatory and safety concerns that may slow AI adoption.",
@@ -15584,178 +15754,6 @@
     "categories": [
       "computer-and-information-technology",
       "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
-    "date": "2026-06-09",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce transformation",
-      "leadership strategy"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "management",
-      "computer-and-information-technology",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "notebooklm-s-gemini-3-5-upgrade-adds-a-cloud-computer-and-help-finding-sources",
-    "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-    "summary": "Google's upgrade to NotebookLM with Gemini 3.5 enhances AI-powered research and note-taking, improving productivity and workflow for knowledge workers.",
-    "date": "2026-06-08",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "workflows"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "education-training-and-library"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "anthropic-calls-mythos-dangerous-why-is-it-expanding-access-",
-    "title": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?",
-    "summary": "Anthropic's decision to restrict access to its powerful AI tool Mythos highlights growing concerns about AI safety and security, potentially slowing broader adoption in the workforce.",
-    "date": "2026-06-09",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-calls-mythos-dangerous-why-is-it-expanding-access",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI safety",
-      "regulation",
-      "security"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "paytm-plans-10-staff-boost-in-ai-pivot-with-some-roles-cut",
-    "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
-    "summary": "Paytm's AI-focused hiring expansion signals growing adoption of AI in fintech and related industries, increasing demand for tech and business roles.",
-    "date": "2026-06-09",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "hiring trends",
-      "fintech"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "management"
-    ]
-  },
-  {
-    "id": "ed-zitron-unfiltered-on-openai-anthropic-why-the-whole-thing-is-a-con",
-    "title": "Ed Zitron Unfiltered on OpenAI, Anthropic & Why the Whole Thing Is a Con",
-    "summary": "The article raises concerns about the transparency and value of AI products, potentially influencing enterprise adoption and investment in AI technologies.",
-    "date": "2026-06-08",
-    "source": "Apple Podcasts - Newcomer Pod",
-    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Ed-Zitron-Unfiltered-on-OpenAI--Anthropic--Why-the-Whole-Thing-Is-a-Con-e3kgjho",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "enterprise adoption",
-      "regulation"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "business",
-    "sourceTier": "media",
-    "qualityScore": 84,
-    "contentType": "podcast",
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ],
-    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1780932885334-55bbf7f2f8a03.jpg",
-    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/121179128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2F425746312-44100-2-1dd6664715bf3.mp3",
-    "duration": "00:58:05"
-  },
-  {
-    "id": "ai-job-losses-the-scramble-for-answers-in-america",
-    "title": "AI job losses, the scramble for answers in America",
-    "summary": "The article highlights growing concerns about AI job losses in America, signaling increased pressure on the workforce and potential shifts in hiring and skills requirements.",
-    "date": "2026-06-09",
-    "source": "The Straits Times",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9UOXNaSkNzZE11OGQxbFd5cFUxcXZzR0pSRkcyMElIM3M5NU4tNUJKY2d3SG5TaXRDMlZyYTlDM0U2STMwOEVva0JaTFJtSy1PUWU0Z2pvQWgwckx0bUhaU3RVWkZFQ0tKVmR2VkJUbm1iODV4T0VzUFdaMldPRU9iaUhwOXRnT012ZUxzLVVaZ2NOaEFnajBwbw?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "job displacement",
-      "workforce impact",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "california-lays-the-groundwork-for-more-sweeping-ai-workforce-regulation-employe",
-    "title": "California Lays the Groundwork for More Sweeping AI Workforce Regulation—Employers Should Start Preparing Now",
-    "summary": "California's new AI workforce regulations signal increased oversight, which may slow or shape AI adoption in the workplace.",
-    "date": "2026-06-08",
-    "source": "The National Law Review",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVJNFo4YmJlcmdlWG9oRnZQMDZFcGpLUUZ4M1RjRXc1aWdpVjhYMm9kQldkdnJ5dWVKaHYwTjBQMmVPN2kxSkN6Qk0tYk05U0VxbUVFNGhLS1NZSUgwMVdsdUZDUjB6TUdVRzJkZzJRbzQ4NDFGY25oSTdISE5LOTFfbWpjX3ZmMHI3MDcyZkNjb3djTFk3MzBQREd1Wk9OZ1NCUnpmMWt6NVFlTHZfZko1T3jSAboBQVVfeXFMUHNucXdMSlVDUkxDeUllQUZkTlpWeTA3UXBHbE1JT0diMFpGcDRDcTBtU2FGOFBBSXBOUExQNVUzd01wYTNweWE1LUljME5wemJWYU5ReE13dDVTWEI4UkJxN1JycnFzZTlhZXBVdGhTV1pkUEFEQWNBdHAyR2EwQ0hkSllJWVd2ZEc2RGVNMU5vcUxsV05xQkxBQWVXcGV1SEN5NFpON25EcVFOYVVycFJaRE82VW1JbjlR?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "policy",
-      "workforce"
-    ],
-    "fetchedAt": "2026-06-09T11:00:51.759Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial",
       "_all"
     ]
   }

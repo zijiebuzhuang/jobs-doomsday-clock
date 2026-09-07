@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026-09-07",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.106,
+    "macroReplacementRate": 50.146,
+    "newsAdjustment": -15.106,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "research-acceleration-the-view-inside-openai",
+        "title": "Research acceleration: The view inside OpenAI",
+        "summary": "AI coding agents are accelerating research at OpenAI, indicating a shift in how AI development is conducted and likely impacting tech and research roles.",
+        "date": "2026-09-06",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI research",
+          "productivity",
+          "coding agents"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "supporting-independent-journalism-in-ukraine",
+        "title": "Supporting independent journalism in Ukraine",
+        "summary": "An AI initiative is supporting Ukrainian news organizations, indicating AI adoption in media and communication sectors to enhance journalistic capabilities.",
+        "date": "2026-09-07",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "media innovation",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "media-and-communication"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+        "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
+        "summary": "Malaysia's potential adoption of Huawei AI chips highlights geopolitical tensions affecting AI technology access and could slow global AI development and workforce integration.",
+        "date": "2026-09-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "geopolitics",
+          "AI regulation",
+          "technology adoption"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "path-to-astra-critical-capabilities-and-frontier-safeguards",
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "summary": "Astra's enhanced cybersecurity safeguards represent a significant step forward in AI safety and readiness for deployment in critical systems.",
+        "date": "2026-09-01",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/path-to-astra",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "cybersecurity",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+        "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
+        "summary": "AI-driven drug discovery shows potential to reverse aging markers, signaling AI's growing impact in healthcare and life sciences.",
+        "date": "2026-09-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "drug-discovery",
+          "ai-in-healthcare",
+          "biotech-innovation"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "summary": "Legal challenges against OpenAI and Microsoft highlight growing regulatory and legal friction around AI training data, potentially slowing AI adoption and shaping future development practices.",
+        "date": "2026-09-06",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "legal",
+          "regulation",
+          "adoption"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof",
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "summary": "Legal challenges against AI training practices may slow AI adoption and shape future regulations in content creation industries.",
+        "date": "2026-09-05",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "legal",
+          "regulation"
+        ],
+        "fetchedAt": "2026-09-07T11:00:45.451Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Research acceleration: The view inside OpenAI.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Research acceleration: The view inside OpenAI\" (OpenAI), while the clearest drag comes from \"Malaysia Eyes Huawei Chips for AI Project Despite US Warning\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.106 minutes. Updated 2026-09-07T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-06",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.165,
@@ -19613,215 +19825,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by HSBC CEO Says Bank Still Needs Human Judgment in AI Era.",
         "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT\" (Apple Podcasts - Hard Fork), while the clearest drag comes from \"HSBC CEO Says Bank Still Needs Human Judgment in AI Era\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.409 minutes. Updated 2026-06-08T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-07",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 2.407,
-    "macroReplacementRate": 49.833,
-    "newsAdjustment": -10.593,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "skorea-s-lee-nominates-tech-guru-han-as-pm-to-lead-ai-growth",
-        "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
-        "summary": "South Korea's appointment of a tech industry veteran as prime minister signals increased focus on AI development and its integration into national strategy.",
-        "date": "2026-06-07",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "government-policy",
-          "AI-adoption",
-          "leadership"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-        "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
-        "summary": "The UK's plan to buy AI chips from domestic tech firms could boost the local AI industry and influence the development of AI-driven technologies in various sectors.",
-        "date": "2026-06-07",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "government-policy",
-          "ai-chips",
-          "industry-adoption"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "meta-made-its-own-ai-generated-clickbait-news-feed",
-        "title": "Meta made its own AI-generated clickbait news feed",
-        "summary": "Meta's use of AI to generate clickbait content signals growing adoption of AI in media and content curation, potentially affecting jobs in media and communication.",
-        "date": "2026-06-06",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI content generation",
-          "media and communication",
-          "workplace adoption"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ai-label-14.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "trump-signals-interest-in-us-owning-stakes-in-top-ai-labs",
-        "title": "Trump Signals Interest in US Owning Stakes in Top AI Labs",
-        "summary": "U.S. government interest in owning stakes in AI labs could influence the direction and pace of AI development and its integration into the workforce.",
-        "date": "2026-06-06",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/trump-shows-interest-in-us-owning-stakes-in-top-ai-labs-video",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "government",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
-        "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-        "summary": "The departure of a key AI policy adviser may signal shifts in the pace or direction of AI regulation and implementation in the U.S. government.",
-        "date": "2026-06-06",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "government"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "grindr-growing-from-just-dating-app-to-politics-ai",
-        "title": "Grindr Growing From Just Dating App to Politics, AI",
-        "summary": "Grindr is integrating AI into its dating platform, signaling broader adoption of AI in consumer tech and safety tools.",
-        "date": "2026-06-06",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-06/grindr-growing-from-just-dating-app-to-politics-ai-video",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "consumer tech",
-          "safety tools"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "media-and-communication",
-          "_all"
-        ]
-      },
-      {
-        "id": "the-trump-administration-might-take-an-equity-stake-in-openai",
-        "title": "The Trump administration might take an equity stake in OpenAI",
-        "summary": "A potential equity stake by the Trump administration in OpenAI could introduce regulatory or political constraints on AI development and adoption.",
-        "date": "2026-06-06",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "enterprise"
-        ],
-        "fetchedAt": "2026-06-07T11:00:42.788Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth\" (Bloomberg Technology), while the clearest drag comes from \"Trump AI Policy Adviser Krishnan Is Giving Up White House Role\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.593 minutes. Updated 2026-06-07T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }
