@@ -1,5 +1,166 @@
 [
   {
+    "date": "2026-09-08",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.279,
+    "macroReplacementRate": 50.158,
+    "newsAdjustment": -15.279,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "india-eyes-ai-for-next-finance-leap-after-digital-payments-boom",
+        "title": "India Eyes AI for Next Finance Leap After Digital Payments Boom",
+        "summary": "India is leveraging AI to further transform its financial sector, signaling increased adoption of AI in finance and related industries.",
+        "date": "2026-09-08",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/india-eyes-ai-for-next-finance-leap-after-digital-payments-boom",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "finance",
+          "workforce transformation"
+        ],
+        "fetchedAt": "2026-09-08T11:00:50.382Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+        "title": "ASML, TSMC, Samsung, Intel Back 12-Inch Masks for AI Chips",
+        "summary": "Major chipmakers committing to use advanced AI chip production equipment signals growing adoption of AI technology in semiconductor manufacturing, driving productivity and innovation.",
+        "date": "2026-09-08",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "semiconductor manufacturing",
+          "AI infrastructure",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-08T11:00:50.382Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-said-to-decide-against-decart-purchase",
+        "title": "Anthropic Said to Decide Against Decart Purchase",
+        "summary": "Anthropic's decision not to acquire Decart AI may indicate challenges or strategic reconsiderations in AI acquisition strategies, potentially slowing integration of certain AI capabilities into production workflows.",
+        "date": "2026-09-08",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-08/anthropic-said-to-decide-against-decart-purchase-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "acquisition",
+          "AI strategy",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-08T11:00:50.382Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "mistral-ai-raises-3-billion-with-samsung-leading-the-round",
+        "title": "Mistral AI Raises €3 Billion With Samsung Leading the Round",
+        "summary": "Major funding for Mistral AI signals growing investment in AI capabilities, likely accelerating adoption and competition in the AI industry.",
+        "date": "2026-09-08",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-08/mistral-ai-raises-3-bln-with-samsung-leading-the-round-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "funding",
+          "enterprise-adoption",
+          "model-development"
+        ],
+        "fetchedAt": "2026-09-08T11:00:50.382Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-discovered-lung-drug-reverses-aging-markers-in-study",
+        "title": "AI-Discovered Lung Drug Reverses Aging Markers in Study",
+        "summary": "AI-driven drug discovery shows potential to impact aging research, signaling AI's growing role in healthcare and life sciences.",
+        "date": "2026-09-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "drug-discovery",
+          "healthcare-innovation",
+          "AI-research"
+        ],
+        "fetchedAt": "2026-09-08T11:00:50.382Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by India Eyes AI for Next Finance Leap After Digital Payments Boom.",
+        "body": "This update is split between 4 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"India Eyes AI for Next Finance Leap After Digital Payments Boom\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic Said to Decide Against Decart Purchase\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.279 minutes. Updated 2026-09-08T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-09-07",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.106,
@@ -19612,219 +19773,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Learning to lead in a hybrid human-AI enterprise.",
         "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Learning to lead in a hybrid human-AI enterprise\" (MIT Tech Review), while the clearest drag comes from \"Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.581 minutes. Updated 2026-06-09T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-08",
-    "minutesToMidnight": 3,
-    "exactMinutesToMidnight": 2.591,
-    "macroReplacementRate": 49.821,
-    "newsAdjustment": -10.409,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era",
-        "title": "HSBC CEO Says Bank Still Needs Human Judgment in AI Era",
-        "summary": "HSBC CEO emphasizes the continued need for human judgment in AI-driven banking, suggesting that AI adoption will not fully replace jobs but may reshape them.",
-        "date": "2026-06-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-08/hsbc-ceo-says-bank-still-needs-human-judgment-in-ai-era-video",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "human-in-the-loop",
-          "AI-adoption",
-          "workforce-impact"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "management",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-        "title": "HSBC CEO Says ‘Human Judgment’ Is Vital Even as AI Introduced",
-        "summary": "HSBC CEO emphasizes the continued importance of human judgment in banking despite AI adoption, signaling a cautious approach to AI integration in the financial sector.",
-        "date": "2026-06-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-08/hsbc-ceo-says-human-judgment-is-vital-even-as-ai-introduced",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI in finance",
-          "human oversight",
-          "workplace adoption"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-is-still-working-on-that-super-app-",
-        "title": "OpenAI is still working on that ‘super app’",
-        "summary": "The idea that 'chat is dead' suggests a shift in AI interaction models, potentially impacting how AI tools are used in workflows and productivity.",
-        "date": "2026-06-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workflow change",
-          "tool evolution"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
-        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-        "summary": "A White House AI advisor leaving to shape Trump's AI policy may indicate shifting regulatory priorities that could influence the pace and direction of AI adoption in the workforce.",
-        "date": "2026-06-06",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "leadership"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "legal",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
-        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-        "summary": "Lockdown Mode aims to improve AI security, potentially slowing adoption due to increased safeguards for sensitive data.",
-        "date": "2026-06-06",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI security",
-          "regulation",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "hot-i-p-o-summer-what-is-a-i-doing-to-math-hatgpt",
-        "title": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
-        "summary": "The race to public markets by AI companies and concerns about AI's impact on math highlight growing industry adoption and academic scrutiny of AI's role in professional fields.",
-        "date": "2026-06-05",
-        "source": "Apple Podcasts - Hard Fork",
-        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "industry regulation",
-          "workplace impact"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "life-physical-and-social-science",
-          "math"
-        ],
-        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
-        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/251f62fd-3b1d-4f8b-a5b0-0966414c7f74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=251f62fd-3b1d-4f8b-a5b0-0966414c7f74&feed=6HKOhNgS",
-        "duration": "01:04:20"
-      },
-      {
-        "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
-        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-        "summary": "An event focused on AI and defense technology highlights growing interest in AI's role in advanced industries and venture capital, signaling increased adoption and investment.",
-        "date": "2026-06-04",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "venture capital",
-          "defense technology"
-        ],
-        "fetchedAt": "2026-06-08T11:00:51.198Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by HSBC CEO Says Bank Still Needs Human Judgment in AI Era.",
-        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT\" (Apple Podcasts - Hard Fork), while the clearest drag comes from \"HSBC CEO Says Bank Still Needs Human Judgment in AI Era\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.409 minutes. Updated 2026-06-08T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }

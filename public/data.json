@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:06",
+  "displayTime": "00:02:17",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.106,
+  "exactMinutesToMidnight": -2.279,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.106,
+  "newsAdjustment": -15.279,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.146,
+  "macroReplacementRate": 50.158,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,106 +3448,104 @@
   ],
   "newsFeed": [
     {
-      "id": "research-acceleration-the-view-inside-openai",
-      "title": "Research acceleration: The view inside OpenAI",
-      "summary": "AI coding agents are accelerating research at OpenAI, indicating a shift in how AI development is conducted and likely impacting tech and research roles.",
-      "date": "2026-09-06",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "id": "india-eyes-ai-for-next-finance-leap-after-digital-payments-boom",
+      "title": "India Eyes AI for Next Finance Leap After Digital Payments Boom",
+      "summary": "India is leveraging AI to further transform its financial sector, signaling increased adoption of AI in finance and related industries.",
+      "date": "2026-09-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/india-eyes-ai-for-next-finance-leap-after-digital-payments-boom",
       "effect": "advance",
       "impactScore": 4,
-      "tags": [
-        "AI research",
-        "productivity",
-        "coding agents"
-      ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "supporting-independent-journalism-in-ukraine",
-      "title": "Supporting independent journalism in Ukraine",
-      "summary": "An AI initiative is supporting Ukrainian news organizations, indicating AI adoption in media and communication sectors to enhance journalistic capabilities.",
-      "date": "2026-09-07",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "effect": "advance",
-      "impactScore": 3,
       "tags": [
         "AI adoption",
-        "media innovation",
-        "workforce impact"
+        "finance",
+        "workforce transformation"
       ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-09-08T11:00:50.382Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "media-and-communication"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
     },
     {
-      "id": "malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
-      "title": "Malaysia Eyes Huawei Chips for AI Project Despite US Warning",
-      "summary": "Malaysia's potential adoption of Huawei AI chips highlights geopolitical tensions affecting AI technology access and could slow global AI development and workforce integration.",
-      "date": "2026-09-07",
+      "id": "asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+      "title": "ASML, TSMC, Samsung, Intel Back 12-Inch Masks for AI Chips",
+      "summary": "Major chipmakers committing to use advanced AI chip production equipment signals growing adoption of AI technology in semiconductor manufacturing, driving productivity and innovation.",
+      "date": "2026-09-08",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/malaysia-eyes-huawei-chips-for-ai-project-despite-us-warning",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "geopolitics",
-        "AI regulation",
-        "technology adoption"
+        "semiconductor manufacturing",
+        "AI infrastructure",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
+      "fetchedAt": "2026-09-08T11:00:50.382Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "path-to-astra-critical-capabilities-and-frontier-safeguards",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary": "Astra's enhanced cybersecurity safeguards represent a significant step forward in AI safety and readiness for deployment in critical systems.",
-      "date": "2026-09-01",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/path-to-astra",
+      "id": "anthropic-said-to-decide-against-decart-purchase",
+      "title": "Anthropic Said to Decide Against Decart Purchase",
+      "summary": "Anthropic's decision not to acquire Decart AI may indicate challenges or strategic reconsiderations in AI acquisition strategies, potentially slowing integration of certain AI capabilities into production workflows.",
+      "date": "2026-09-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-08/anthropic-said-to-decide-against-decart-purchase-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "acquisition",
+        "AI strategy",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-08T11:00:50.382Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "mistral-ai-raises-3-billion-with-samsung-leading-the-round",
+      "title": "Mistral AI Raises €3 Billion With Samsung Leading the Round",
+      "summary": "Major funding for Mistral AI signals growing investment in AI capabilities, likely accelerating adoption and competition in the AI industry.",
+      "date": "2026-09-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-08/mistral-ai-raises-3-bln-with-samsung-leading-the-round-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI safety",
-        "cybersecurity",
-        "enterprise AI"
+        "funding",
+        "enterprise-adoption",
+        "model-development"
       ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-09-08T11:00:50.382Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
         "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+      ]
     },
     {
-      "id": "ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
-      "title": "AI-Discovered Drug Reverses Aging Markers in Study, Biotech Says",
-      "summary": "AI-driven drug discovery shows potential to reverse aging markers, signaling AI's growing impact in healthcare and life sciences.",
+      "id": "ai-discovered-lung-drug-reverses-aging-markers-in-study",
+      "title": "AI-Discovered Lung Drug Reverses Aging Markers in Study",
+      "summary": "AI-driven drug discovery shows potential to impact aging research, signaling AI's growing role in healthcare and life sciences.",
       "date": "2026-09-07",
       "source": "Bloomberg Technology",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/ai-discovered-drug-reverses-aging-markers-in-study-biotech-says",
@@ -3555,75 +3553,26 @@
       "impactScore": 4,
       "tags": [
         "drug-discovery",
-        "ai-in-healthcare",
-        "biotech-innovation"
+        "healthcare-innovation",
+        "AI-research"
       ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
+      "fetchedAt": "2026-09-08T11:00:50.382Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "healthcare",
         "life-physical-and-social-science",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "summary": "Legal challenges against OpenAI and Microsoft highlight growing regulatory and legal friction around AI training data, potentially slowing AI adoption and shaping future development practices.",
-      "date": "2026-09-06",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "legal",
-        "regulation",
-        "adoption"
-      ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Legal challenges against AI training practices may slow AI adoption and shape future regulations in content creation industries.",
-      "date": "2026-09-05",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "legal",
-        "regulation"
-      ],
-      "fetchedAt": "2026-09-07T11:00:45.451Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "media-and-communication",
-        "computer-and-information-technology",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-07T12:00:00.000Z",
+  "generatedAt": "2026-09-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job pressure shifts as research and legal tensions rise",
-      "preview": "New AI advances and legal challenges shape the job market.",
-      "body": "Recent news shows a mix of progress and regulatory friction. OpenAI's research advancements and AI drug discovery highlight growing AI capabilities, while legal actions against OpenAI and Microsoft signal potential delays in adoption. Geopolitical factors, like Malaysia's Huawei chip interest, also add uncertainty to global AI development."
+      "title": "AI Advances Outpace Delays in Tech and Healthcare",
+      "preview": "Positive AI developments continue to dominate the news.",
+      "body": "Several major advances in AI adoption were reported, including India's push for AI in finance and significant investments in AI chip manufacturing. However, a delayed acquisition by Anthropic suggests some strategic caution. Overall, the trend remains strongly forward-moving."
     }
   }
 }
