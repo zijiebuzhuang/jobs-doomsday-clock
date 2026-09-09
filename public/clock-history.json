@@ -1,5 +1,244 @@
 [
   {
+    "date": "2026-09-09",
+    "minutesToMidnight": -3,
+    "exactMinutesToMidnight": -2.605,
+    "macroReplacementRate": 50.18,
+    "newsAdjustment": -15.605,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "meta-unveils-ai-assistant-for-personal-tasks",
+        "title": "Meta Unveils AI Assistant for Personal Tasks",
+        "summary": "Meta's AI assistant for personal tasks signals growing AI adoption in consumer-facing workflows, potentially influencing productivity and task automation in various industries.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-09/meta-unveils-ai-assistant-for-personal-tasks-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI tools",
+          "workflow automation",
+          "consumer AI"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-music-startup-suno-launches-new-models-that-pay-labels",
+        "title": "AI Music Startup Suno Launches New Models That Pay Labels",
+        "summary": "AI music startup Suno's new models, developed with major labels, signal growing integration of AI in the music industry, potentially affecting creative and production workflows.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "music industry",
+          "workflow change"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "media-and-communication",
+          "arts-and-design",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
+        "title": "Paytm Bets on Workplace AI Agents in Pivot Beyond Payments",
+        "summary": "Paytm's pivot to workplace AI agents signals growing adoption of AI in enterprise workflows and business operations.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "workplace transformation"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
+        "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
+        "summary": "SoftBank's repayment of a $40B loan for its OpenAI stake signals continued financial commitment to AI and may influence future AI investment and adoption in enterprise sectors.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "funding",
+          "AI-investment"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-to-invest-13-billion-in-ai-infrastructure-in-finland",
+        "title": "Google to Invest €13 Billion in AI Infrastructure in Finland",
+        "summary": "Google's major investment in AI infrastructure in Finland signals increased AI adoption and capability development, likely affecting tech and related industries.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "investment"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
+        "title": "Taiwan’s Exports Surge to Record on Demand for AI Products",
+        "summary": "Increased global demand for AI-related technology products signals growing adoption and investment in AI capabilities.",
+        "date": "2026-09-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "global demand",
+          "technology exports"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "worried-anthropic-researchers-warn-that-ai-could-kill-all-humans-",
+        "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+        "summary": "Concerns about AI safety and potential existential risks may lead to increased regulation or slower adoption of advanced AI systems.",
+        "date": "2026-09-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "risk"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "can-we-defend-against-ai-hacks-dozie-anazia",
+        "title": "Can we defend against AI hacks? | Dozie Anazia",
+        "summary": "AI is being used to enhance cyberattack techniques and defense mechanisms, highlighting the growing need for advanced cybersecurity skills and AI literacy in tech roles.",
+        "date": "2026-09-09",
+        "source": "Apple Podcasts - Possible",
+        "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "cybersecurity",
+          "AI adoption",
+          "workplace security",
+          "AI tools"
+        ],
+        "fetchedAt": "2026-09-09T11:00:46.280Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "protective-service",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/22b2c804-abdd-11f1-acf5-472f7aac42a0/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
+        "duration": "41 min"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by AI Music Startup Suno Launches New Models That Pay Labels.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"AI Music Startup Suno Launches New Models That Pay Labels\" (Bloomberg Technology), while the clearest drag comes from \"Worried Anthropic researchers warn that AI ‘could kill all humans’\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.605 minutes. Updated 2026-09-09T12:00:00.000Z, with the macro replacement estimate at 50.2%."
+      }
+    }
+  },
+  {
     "date": "2026-09-08",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.279,
@@ -19559,220 +19798,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by From data to decisions: how LSEG is scaling trusted AI.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"From data to decisions: how LSEG is scaling trusted AI\" (OpenAI), while the clearest drag comes from \"Microsoft AI chief walks back comments about AI taking over white-collar work\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.731 minutes. Updated 2026-06-10T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-09",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 2.419,
-    "macroReplacementRate": 49.833,
-    "newsAdjustment": -10.581,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "learning-to-lead-in-a-hybrid-human-ai-enterprise",
-        "title": "Learning to lead in a hybrid human-AI enterprise",
-        "summary": "AI agents are set to significantly increase in adoption, prompting leadership teams to rethink hybrid human-AI workforces and their implications.",
-        "date": "2026-06-09",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce transformation",
-          "leadership strategy"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "management",
-          "computer-and-information-technology",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "anthropic-calls-mythos-dangerous-why-is-it-expanding-access-",
-        "title": "Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?",
-        "summary": "Anthropic's decision to restrict access to its powerful AI tool Mythos highlights growing concerns about AI safety and security, potentially slowing broader adoption in the workforce.",
-        "date": "2026-06-09",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-calls-mythos-dangerous-why-is-it-expanding-access",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI safety",
-          "regulation",
-          "security"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "paytm-plans-10-staff-boost-in-ai-pivot-with-some-roles-cut",
-        "title": "Paytm Plans 10% Staff Boost in AI Pivot With Some Roles Cut",
-        "summary": "Paytm's AI-focused hiring expansion signals growing adoption of AI in fintech and related industries, increasing demand for tech and business roles.",
-        "date": "2026-06-09",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-09/paytm-plans-10-staff-increase-in-ai-pivot-with-some-roles-cut",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "hiring trends",
-          "fintech"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "management"
-        ]
-      },
-      {
-        "id": "ai-job-losses-the-scramble-for-answers-in-america",
-        "title": "AI job losses, the scramble for answers in America",
-        "summary": "The article highlights growing concerns about AI job losses in America, signaling increased pressure on the workforce and potential shifts in hiring and skills requirements.",
-        "date": "2026-06-09",
-        "source": "The Straits Times",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdU9UOXNaSkNzZE11OGQxbFd5cFUxcXZzR0pSRkcyMElIM3M5NU4tNUJKY2d3SG5TaXRDMlZyYTlDM0U2STMwOEVva0JaTFJtSy1PUWU0Z2pvQWgwckx0bUhaU3RVWkZFQ0tKVmR2VkJUbm1iODV4T0VzUFdaMldPRU9iaUhwOXRnT012ZUxzLVVaZ2NOaEFnajBwbw?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "job displacement",
-          "workforce impact",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "notebooklm-s-gemini-3-5-upgrade-adds-a-cloud-computer-and-help-finding-sources",
-        "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-        "summary": "Google's upgrade to NotebookLM with Gemini 3.5 enhances AI-powered research and note-taking, improving productivity and workflow for knowledge workers.",
-        "date": "2026-06-08",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "education-training-and-library"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "ed-zitron-unfiltered-on-openai-anthropic-why-the-whole-thing-is-a-con",
-        "title": "Ed Zitron Unfiltered on OpenAI, Anthropic & Why the Whole Thing Is a Con",
-        "summary": "The article raises concerns about the transparency and value of AI products, potentially influencing enterprise adoption and investment in AI technologies.",
-        "date": "2026-06-08",
-        "source": "Apple Podcasts - Newcomer Pod",
-        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Ed-Zitron-Unfiltered-on-OpenAI--Anthropic--Why-the-Whole-Thing-Is-a-Con-e3kgjho",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "enterprise adoption",
-          "regulation"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "business",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ],
-        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1780932885334-55bbf7f2f8a03.jpg",
-        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/121179128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2F425746312-44100-2-1dd6664715bf3.mp3",
-        "duration": "00:58:05"
-      },
-      {
-        "id": "california-lays-the-groundwork-for-more-sweeping-ai-workforce-regulation-employe",
-        "title": "California Lays the Groundwork for More Sweeping AI Workforce Regulation—Employers Should Start Preparing Now",
-        "summary": "California's new AI workforce regulations signal increased oversight, which may slow or shape AI adoption in the workplace.",
-        "date": "2026-06-08",
-        "source": "The National Law Review",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVJNFo4YmJlcmdlWG9oRnZQMDZFcGpLUUZ4M1RjRXc1aWdpVjhYMm9kQldkdnJ5dWVKaHYwTjBQMmVPN2kxSkN6Qk0tYk05U0VxbUVFNGhLS1NZSUgwMVdsdUZDUjB6TUdVRzJkZzJRbzQ4NDFGY25oSTdISE5LOTFfbWpjX3ZmMHI3MDcyZkNjb3djTFk3MzBQREd1Wk9OZ1NCUnpmMWt6NVFlTHZfZko1T3jSAboBQVVfeXFMUHNucXdMSlVDUkxDeUllQUZkTlpWeTA3UXBHbE1JT0diMFpGcDRDcTBtU2FGOFBBSXBOUExQNVUzd01wYTNweWE1LUljME5wemJWYU5ReE13dDVTWEI4UkJxN1JycnFzZTlhZXBVdGhTV1pkUEFEQWNBdHAyR2EwQ0hkSllJWVd2ZEc2RGVNMU5vcUxsV05xQkxBQWVXcGV1SEN5NFpON25EcVFOYVVycFJaRE82VW1JbjlR?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "workforce"
-        ],
-        "fetchedAt": "2026-06-09T11:00:51.759Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Learning to lead in a hybrid human-AI enterprise.",
-        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Learning to lead in a hybrid human-AI enterprise\" (MIT Tech Review), while the clearest drag comes from \"Anthropic Calls Mythos Dangerous. Why Is It Expanding Access?\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.581 minutes. Updated 2026-06-09T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }

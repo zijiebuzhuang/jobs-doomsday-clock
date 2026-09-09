@@ -1,5 +1,202 @@
 [
   {
+    "id": "worried-anthropic-researchers-warn-that-ai-could-kill-all-humans-",
+    "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+    "summary": "Concerns about AI safety and potential existential risks may lead to increased regulation or slower adoption of advanced AI systems.",
+    "date": "2026-09-09",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "risk"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "meta-unveils-ai-assistant-for-personal-tasks",
+    "title": "Meta Unveils AI Assistant for Personal Tasks",
+    "summary": "Meta's AI assistant for personal tasks signals growing AI adoption in consumer-facing workflows, potentially influencing productivity and task automation in various industries.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-09/meta-unveils-ai-assistant-for-personal-tasks-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI tools",
+      "workflow automation",
+      "consumer AI"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-music-startup-suno-launches-new-models-that-pay-labels",
+    "title": "AI Music Startup Suno Launches New Models That Pay Labels",
+    "summary": "AI music startup Suno's new models, developed with major labels, signal growing integration of AI in the music industry, potentially affecting creative and production workflows.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "music industry",
+      "workflow change"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "media-and-communication",
+      "arts-and-design",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
+    "title": "Paytm Bets on Workplace AI Agents in Pivot Beyond Payments",
+    "summary": "Paytm's pivot to workplace AI agents signals growing adoption of AI in enterprise workflows and business operations.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "workplace transformation"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
+    "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
+    "summary": "SoftBank's repayment of a $40B loan for its OpenAI stake signals continued financial commitment to AI and may influence future AI investment and adoption in enterprise sectors.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-adoption",
+      "funding",
+      "AI-investment"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-to-invest-13-billion-in-ai-infrastructure-in-finland",
+    "title": "Google to Invest €13 Billion in AI Infrastructure in Finland",
+    "summary": "Google's major investment in AI infrastructure in Finland signals increased AI adoption and capability development, likely affecting tech and related industries.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "investment"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
+    "title": "Taiwan’s Exports Surge to Record on Demand for AI Products",
+    "summary": "Increased global demand for AI-related technology products signals growing adoption and investment in AI capabilities.",
+    "date": "2026-09-09",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "global demand",
+      "technology exports"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "can-we-defend-against-ai-hacks-dozie-anazia",
+    "title": "Can we defend against AI hacks? | Dozie Anazia",
+    "summary": "AI is being used to enhance cyberattack techniques and defense mechanisms, highlighting the growing need for advanced cybersecurity skills and AI literacy in tech roles.",
+    "date": "2026-09-09",
+    "source": "Apple Podcasts - Possible",
+    "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "AI adoption",
+      "workplace security",
+      "AI tools"
+    ],
+    "fetchedAt": "2026-09-09T11:00:46.280Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "protective-service",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/22b2c804-abdd-11f1-acf5-472f7aac42a0/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
+    "duration": "41 min"
+  },
+  {
     "id": "india-eyes-ai-for-next-finance-leap-after-digital-payments-boom",
     "title": "India Eyes AI for Next Finance Leap After Digital Payments Boom",
     "summary": "India is leveraging AI to further transform its financial sector, signaling increased adoption of AI in finance and related industries.",
@@ -15536,173 +15733,6 @@
     "categories": [
       "computer-and-information-technology",
       "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "summary": "OpenAI's support for the EU Code of Practice on AI content transparency reflects regulatory efforts that may shape how AI is used in professional contexts.",
-    "date": "2026-06-11",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "transparency",
-      "trustworthiness"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "access-openai-models-and-codex-through-your-oracle-cloud-commitment",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "summary": "Oracle's integration of OpenAI models and Codex into its cloud infrastructure accelerates enterprise adoption of AI tools, enhancing productivity and workflow automation.",
-    "date": "2026-06-10",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise adoption",
-      "AI tools",
-      "cloud integration"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
-    "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-    "summary": "New AI model optimization improves real-time AI development capabilities, enabling faster and more efficient text generation for developers.",
-    "date": "2026-06-10",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "development"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Text-Model-768x432.png"
-  },
-  {
-    "id": "the-future-of-ai-regulation-is-courting-the-strangest-most-anxious-bedfellows",
-    "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-    "summary": "AI regulation is becoming a complex and contentious area with diverse stakeholders, which may slow or shape the adoption of AI in the workplace.",
-    "date": "2026-06-10",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "policy",
-      "adoption"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "ai-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-    "title": "AI Sparks Alarm in China With Call to Protect Worker Rights",
-    "summary": "China's state media calls for protecting worker rights amid rapid AI adoption, signaling regulatory concerns that may slow AI integration in the workforce.",
-    "date": "2026-06-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "labor-rights",
-      "workplace-adoption"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-    "title": "Warren Wants Wall Street to Disclose Data on AI Firm Exposure",
-    "summary": "Increased regulatory scrutiny of AI exposure in finance may slow adoption and influence how AI is integrated into financial workflows.",
-    "date": "2026-06-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "finance",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
-    "title": "US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments",
-    "summary": "A US-backed AI hub in the Philippines could drive significant investment and boost AI adoption in the region, signaling growing global interest in AI infrastructure and economic development.",
-    "date": "2026-06-11",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "global AI expansion",
-      "economic impact"
-    ],
-    "fetchedAt": "2026-06-11T11:00:53.073Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
       "_all"
     ]
   }
