@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:36",
-  "minutesToMidnight": -3,
-  "exactMinutesToMidnight": -2.605,
+  "displayTime": "00:02:20",
+  "minutesToMidnight": -2,
+  "exactMinutesToMidnight": -2.334,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.605,
+  "newsAdjustment": -15.334,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.18,
+  "macroReplacementRate": 50.162,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,209 +3448,254 @@
   ],
   "newsFeed": [
     {
-      "id": "meta-unveils-ai-assistant-for-personal-tasks",
-      "title": "Meta Unveils AI Assistant for Personal Tasks",
-      "summary": "Meta's AI assistant for personal tasks signals growing AI adoption in consumer-facing workflows, potentially influencing productivity and task automation in various industries.",
-      "date": "2026-09-09",
+      "id": "alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value",
+      "title": "Alibaba Backs Ex-Staffer’s AI Testing Lab at $2.5 Billion Value",
+      "summary": "Alibaba's significant investment in an AI testing startup signals growing confidence in AI capabilities and their potential to transform work processes and productivity.",
+      "date": "2026-09-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-09/meta-unveils-ai-assistant-for-personal-tasks-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "enterprise AI",
+        "startup funding"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-ai-policy-window-is-open-we-need-to-act-",
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Calls for stronger AI safety evidence and policy action may slow or shape the adoption of AI technologies in the workplace.",
+      "date": "2026-09-09",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/ai-policy-window",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "safety"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai",
+      "title": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai",
+      "summary": "A new low-cost AI model from DeepSeek intensifies competition in the AI industry, potentially increasing pressure on AI companies to reduce costs and improve efficiency.",
+      "date": "2026-09-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI competition",
+        "cost reduction",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
+      "title": "Anthropic Gives EU Access to Mythos Months After Model’s Release",
+      "summary": "Anthropic granting EU cybersecurity agency access to its AI model signals increased adoption and integration of advanced AI in critical infrastructure and regulatory sectors.",
+      "date": "2026-09-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI tools",
-        "workflow automation",
-        "consumer AI"
+        "enterprise-ai",
+        "regulatory-access",
+        "model-release"
       ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "ai-music-startup-suno-launches-new-models-that-pay-labels",
-      "title": "AI Music Startup Suno Launches New Models That Pay Labels",
-      "summary": "AI music startup Suno's new models, developed with major labels, signal growing integration of AI in the music industry, potentially affecting creative and production workflows.",
-      "date": "2026-09-09",
+      "id": "-ai-economy-driving-earnings-strength-says-jpm-s-caffrey",
+      "title": "‘AI Economy’ Driving Earnings Strength, Says JPM’s Caffrey",
+      "summary": "Increased investment and enthusiasm for AI are boosting earnings across industries, signaling growing adoption and economic impact of AI.",
+      "date": "2026-09-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-10/-ai-economy-driving-earnings-strength-jpm-s-caffrey-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "music industry",
-        "workflow change"
-      ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "media-and-communication",
-        "arts-and-design",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
-      "title": "Paytm Bets on Workplace AI Agents in Pivot Beyond Payments",
-      "summary": "Paytm's pivot to workplace AI agents signals growing adoption of AI in enterprise workflows and business operations.",
-      "date": "2026-09-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "workplace transformation"
-      ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
-      "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
-      "summary": "SoftBank's repayment of a $40B loan for its OpenAI stake signals continued financial commitment to AI and may influence future AI investment and adoption in enterprise sectors.",
-      "date": "2026-09-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/softbank-to-repay-40-billion-bridge-loan-for-openai-stake",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "funding",
-        "AI-investment"
-      ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-to-invest-13-billion-in-ai-infrastructure-in-finland",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland",
-      "summary": "Google's major investment in AI infrastructure in Finland signals increased AI adoption and capability development, likely affecting tech and related industries.",
-      "date": "2026-09-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
+        "economic impact",
         "investment"
       ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
-      "title": "Taiwan’s Exports Surge to Record on Demand for AI Products",
-      "summary": "Increased global demand for AI-related technology products signals growing adoption and investment in AI capabilities.",
-      "date": "2026-09-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-09/taiwan-s-exports-surge-to-record-on-demand-for-ai-products",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "global demand",
-        "technology exports"
-      ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "production",
-        "_all"
-      ]
-    },
-    {
-      "id": "worried-anthropic-researchers-warn-that-ai-could-kill-all-humans-",
-      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
-      "summary": "Concerns about AI safety and potential existential risks may lead to increased regulation or slower adoption of advanced AI systems.",
+      "id": "openai-s-sly-mathematical-breakthrough-sends-a-chill-through-academia",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "summary": "OpenAI's mathematical breakthrough highlights AI's growing capability to solve complex problems, signaling increased pressure on fields requiring advanced analytical skills.",
       "date": "2026-09-09",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "mathematics",
+        "workplace impact"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "math",
+        "computer-and-information-technology",
+        "life-physical-and-social-science"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "controlai-s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it-s-an-advers",
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+      "summary": "Concerns over AI safety and control highlight regulatory and ethical challenges that could slow AI adoption in the workplace.",
+      "date": "2026-09-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI safety",
         "regulation",
-        "risk"
+        "workplace adoption"
       ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "The addition of a prominent AI alignment researcher to OpenAI's board may signal increased focus on safety and ethical concerns, potentially slowing AI deployment in the workplace.",
+      "date": "2026-09-09",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI governance",
+        "regulation",
+        "ethics"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-ai-researcher-who-just-quit-anthropic-says-it-s-crunch-time-for-humanity-",
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "summary": "A senior AI researcher's warning about the urgency of making AI safe highlights growing concerns around AI alignment and regulation, potentially slowing adoption.",
+      "date": "2026-09-09",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "research"
+      ],
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "life-physical-and-social-science",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK269_ANTHROPIC_2_A-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "can-we-defend-against-ai-hacks-dozie-anazia",
-      "title": "Can we defend against AI hacks? | Dozie Anazia",
-      "summary": "AI is being used to enhance cyberattack techniques and defense mechanisms, highlighting the growing need for advanced cybersecurity skills and AI literacy in tech roles.",
+      "id": "-gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+      "summary": "A researcher's resignation over AI extinction fears highlights growing concerns about self-improving AI, potentially slowing adoption and increasing regulatory scrutiny.",
       "date": "2026-09-09",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
-      "effect": "advance",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "cybersecurity",
-        "AI adoption",
-        "workplace security",
-        "AI tools"
+        "AI ethics",
+        "regulation",
+        "safety"
       ],
-      "fetchedAt": "2026-09-09T11:00:46.280Z",
+      "fetchedAt": "2026-09-10T11:00:44.914Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "protective-service",
+        "legal",
         "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/22b2c804-abdd-11f1-acf5-472f7aac42a0/image/26ec1c4c8670123fc4f3e08296932175.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT3876855769.mp3",
-      "duration": "41 min"
+      ]
     }
   ],
-  "generatedAt": "2026-09-09T12:00:00.000Z",
+  "generatedAt": "2026-09-10T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Amid Rising Concerns",
-      "preview": "Major tech investments and AI integration signal growing adoption.",
-      "body": "Multiple headlines highlight advancing AI integration across industries, including Meta's personal assistant, Suno's music models, and Google's infrastructure investment. However, concerns about AI safety and cybersecurity risks remain significant. The overall trend reflects a strong push toward AI adoption with lingering challenges."
+      "title": "AI Innovation and Policy Tensions Shape Job Market Outlook",
+      "preview": "New AI advances and policy concerns influence job replacement dynamics.",
+      "body": "Recent developments show strong momentum in AI innovation, with Alibaba and DeepSeek driving advancements. However, calls for stronger AI policies and safety measures introduce delays. Overall, the balance remains cautiously optimistic as AI's economic impact grows."
     }
   }
 }
