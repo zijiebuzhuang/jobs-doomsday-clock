@@ -1,5 +1,290 @@
 [
   {
+    "date": "2026-09-11",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -2.147,
+    "macroReplacementRate": 50.149,
+    "newsAdjustment": -15.147,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
+        "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+        "summary": "A top hedge fund executive raises concerns about AI's potential to displace jobs, suggesting regulatory action may be needed to manage its economic impact.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-on-ai-s-human-extinction-risk-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "economic-impact",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "computer-and-information-technology"
+        ]
+      },
+      {
+        "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
+        "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+        "summary": "A top hedge fund executive raises concerns about AI's potential to cause job losses and proposes a policy solution, highlighting growing awareness of AI's economic impact.",
+        "date": "2026-09-11",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/why-bridgewaters-cio-says-ais-human-extinction-risk-is-real",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "job disruption",
+          "AI ethics"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "65 min"
+      },
+      {
+        "id": "meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "summary": "Meta's AI agent Muse entering the US app market signals growing adoption of AI tools in consumer-facing applications, potentially influencing future workflows and productivity.",
+        "date": "2026-09-10",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "consumer tech",
+          "workplace tools"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "media-and-communication",
+          "_all"
+        ]
+      },
+      {
+        "id": "flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
+        "title": "Flipkart’s Super.money Bets on AI Agents to Outdo Bigger Rivals",
+        "summary": "AI agents are being deployed in digital payments to improve shopping and purchasing workflows, signaling growing AI adoption in the business and financial sectors.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workplace automation",
+          "digital payments"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-weighs-slowing-cutting-edge-ai-development",
+        "title": "OpenAI Weighs Slowing Cutting-Edge AI Development",
+        "summary": "OpenAI's consideration to slow AI development reflects growing concerns about risks, potentially shaping the pace of AI adoption in the workplace.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/openai-weighs-slowing-cutting-edge-ai-development-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
+        "title": "Bridgewater’s Jensen Says AI Will Kill People Before It’s Curbed",
+        "summary": "A top hedge fund executive warns about the potential dangers of AI, signaling increased concern over risks that could slow adoption or lead to regulatory intervention.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "risk",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "adobe-forecast-misses-views-renewing-fears-about-ai-impact",
+        "title": "Adobe Forecast Misses Views, Renewing Fears About AI Impact",
+        "summary": "Adobe's sales miss highlights concerns that AI startups may be disrupting traditional software businesses, signaling potential challenges in the tech and creative industries.",
+        "date": "2026-09-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI disruption",
+          "enterprise software",
+          "market competition"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "arts-and-design",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-says-yemen-group-used-claude-in-missile-development",
+        "title": "Anthropic Says Yemen Group Used Claude in Missile Development",
+        "summary": "The use of AI in military development by non-state actors raises concerns about AI regulation and ethical deployment, potentially slowing adoption in sensitive sectors.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI ethics",
+          "military AI",
+          "regulation"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "legal",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+        "title": "China AI Star Moonshot Eyes $2 Billion Annualized Sales in 2026",
+        "summary": "Moonshot AI's ambitious revenue target highlights growing AI adoption and competitive pressure in the enterprise and tech sectors.",
+        "date": "2026-09-11",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI startup growth",
+          "enterprise AI",
+          "market competition"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+        "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
+        "summary": "Microsoft's expansion of data center capacity signals increased AI adoption and demand, indicating growing pressure on IT and cloud infrastructure roles.",
+        "date": "2026-09-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "data-center",
+          "ai-infrastructure",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-09-11T11:00:47.251Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real.",
+        "body": "This update is split between 4 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Flipkart’s Super.money Bets on AI Agents to Outdo Bigger Rivals\" (Bloomberg Technology), while the clearest drag comes from \"Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -15.147 minutes. Updated 2026-09-11T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-10",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -2.334,
@@ -19661,215 +19946,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Tech Secretary Vows More Help for UK AI Sector.",
         "body": "This update is split between 6 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Tech Secretary Vows More Help for UK AI Sector\" (Bloomberg Technology), while the clearest drag comes from \"Google DeepMind is worried about what happens when millions of agents start to interact\" (MIT Tech Review). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.158 minutes. Updated 2026-06-12T12:00:00.000Z, with the macro replacement estimate at 49.9%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-11",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 2.269,
-    "macroReplacementRate": 49.843,
-    "newsAdjustment": -10.731,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "supporting-europe-s-work-in-ensuring-a-trustworthy-ai-ecosystem",
-        "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-        "summary": "OpenAI's support for the EU Code of Practice on AI content transparency reflects regulatory efforts that may shape how AI is used in professional contexts.",
-        "date": "2026-06-11",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "transparency",
-          "trustworthiness"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-        "title": "AI Sparks Alarm in China With Call to Protect Worker Rights",
-        "summary": "China's state media calls for protecting worker rights amid rapid AI adoption, signaling regulatory concerns that may slow AI integration in the workforce.",
-        "date": "2026-06-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "labor-rights",
-          "workplace-adoption"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-        "title": "Warren Wants Wall Street to Disclose Data on AI Firm Exposure",
-        "summary": "Increased regulatory scrutiny of AI exposure in finance may slow adoption and influence how AI is integrated into financial workflows.",
-        "date": "2026-06-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/warren-wants-wall-street-to-disclose-data-on-ai-firm-exposure",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "finance",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
-        "title": "US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments",
-        "summary": "A US-backed AI hub in the Philippines could drive significant investment and boost AI adoption in the region, signaling growing global interest in AI infrastructure and economic development.",
-        "date": "2026-06-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-11/us-backed-philippines-ai-hub-could-draw-at-least-10-billion-in-investments",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "global AI expansion",
-          "economic impact"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "access-openai-models-and-codex-through-your-oracle-cloud-commitment",
-        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-        "summary": "Oracle's integration of OpenAI models and Codex into its cloud infrastructure accelerates enterprise adoption of AI tools, enhancing productivity and workflow automation.",
-        "date": "2026-06-10",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/openai-on-oracle-cloud",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise adoption",
-          "AI tools",
-          "cloud integration"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation",
-        "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-        "summary": "New AI model optimization improves real-time AI development capabilities, enabling faster and more efficient text generation for developers.",
-        "date": "2026-06-10",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "development"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Text-Model-768x432.png"
-      },
-      {
-        "id": "the-future-of-ai-regulation-is-courting-the-strangest-most-anxious-bedfellows",
-        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "summary": "AI regulation is becoming a complex and contentious area with diverse stakeholders, which may slow or shape the adoption of AI in the workplace.",
-        "date": "2026-06-10",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "policy",
-          "adoption"
-        ],
-        "fetchedAt": "2026-06-11T11:00:53.073Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by AI Sparks Alarm in China With Call to Protect Worker Rights.",
-        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"US-Backed Philippines AI Hub Could Draw at Least $10 Billion in Investments\" (Bloomberg Technology), while the clearest drag comes from \"AI Sparks Alarm in China With Call to Protect Worker Rights\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.731 minutes. Updated 2026-06-11T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }

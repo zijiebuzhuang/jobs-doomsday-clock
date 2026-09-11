@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:20",
+  "displayTime": "00:02:09",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.334,
+  "exactMinutesToMidnight": -2.147,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.334,
+  "newsAdjustment": -15.147,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.162,
+  "macroReplacementRate": 50.149,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,117 +3448,96 @@
   ],
   "newsFeed": [
     {
-      "id": "alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value",
-      "title": "Alibaba Backs Ex-Staffer’s AI Testing Lab at $2.5 Billion Value",
-      "summary": "Alibaba's significant investment in an AI testing startup signals growing confidence in AI capabilities and their potential to transform work processes and productivity.",
-      "date": "2026-09-10",
+      "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
+      "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+      "summary": "A top hedge fund executive raises concerns about AI's potential to displace jobs, suggesting regulatory action may be needed to manage its economic impact.",
+      "date": "2026-09-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/alibaba-backs-ex-staffer-s-ai-testing-lab-at-2-5-billion-value",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-on-ai-s-human-extinction-risk-video",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI investment",
-        "enterprise AI",
-        "startup funding"
+        "regulation",
+        "economic-impact",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "management",
-        "_all"
+        "business-and-financial",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "the-ai-policy-window-is-open-we-need-to-act-",
-      "title": "The AI policy window is open. We need to act.",
-      "summary": "Calls for stronger AI safety evidence and policy action may slow or shape the adoption of AI technologies in the workplace.",
-      "date": "2026-09-09",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/ai-policy-window",
+      "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
+      "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
+      "summary": "A top hedge fund executive raises concerns about AI's potential to cause job losses and proposes a policy solution, highlighting growing awareness of AI's economic impact.",
+      "date": "2026-09-11",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/why-bridgewaters-cio-says-ais-human-extinction-risk-is-real",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "policy",
-        "regulation",
-        "safety"
+        "job disruption",
+        "AI ethics"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai",
-      "title": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai",
-      "summary": "A new low-cost AI model from DeepSeek intensifies competition in the AI industry, potentially increasing pressure on AI companies to reduce costs and improve efficiency.",
-      "date": "2026-09-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI competition",
-        "cost reduction",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
       "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
+        "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "65 min"
     },
     {
-      "id": "anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
-      "title": "Anthropic Gives EU Access to Mythos Months After Model’s Release",
-      "summary": "Anthropic granting EU cybersecurity agency access to its AI model signals increased adoption and integration of advanced AI in critical infrastructure and regulatory sectors.",
+      "id": "meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's AI agent Muse entering the US app market signals growing adoption of AI tools in consumer-facing applications, potentially influencing future workflows and productivity.",
       "date": "2026-09-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "effect": "advance",
       "impactScore": 3,
-      "tags": [
-        "enterprise-ai",
-        "regulatory-access",
-        "model-release"
-      ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "-ai-economy-driving-earnings-strength-says-jpm-s-caffrey",
-      "title": "‘AI Economy’ Driving Earnings Strength, Says JPM’s Caffrey",
-      "summary": "Increased investment and enthusiasm for AI are boosting earnings across industries, signaling growing adoption and economic impact of AI.",
-      "date": "2026-09-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-10/-ai-economy-driving-earnings-strength-jpm-s-caffrey-video",
-      "effect": "advance",
-      "impactScore": 4,
       "tags": [
         "AI adoption",
-        "economic impact",
-        "investment"
+        "consumer tech",
+        "workplace tools"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "media-and-communication",
+        "_all"
+      ]
+    },
+    {
+      "id": "flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
+      "title": "Flipkart’s Super.money Bets on AI Agents to Outdo Bigger Rivals",
+      "summary": "AI agents are being deployed in digital payments to improve shopping and purchasing workflows, signaling growing AI adoption in the business and financial sectors.",
+      "date": "2026-09-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI agents",
+        "workplace automation",
+        "digital payments"
+      ],
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3569,46 +3548,21 @@
       ]
     },
     {
-      "id": "openai-s-sly-mathematical-breakthrough-sends-a-chill-through-academia",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "summary": "OpenAI's mathematical breakthrough highlights AI's growing capability to solve complex problems, signaling increased pressure on fields requiring advanced analytical skills.",
-      "date": "2026-09-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI capabilities",
-        "mathematics",
-        "workplace impact"
-      ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "math",
-        "computer-and-information-technology",
-        "life-physical-and-social-science"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292626872.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "controlai-s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it-s-an-advers",
-      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-      "summary": "Concerns over AI safety and control highlight regulatory and ethical challenges that could slow AI adoption in the workplace.",
-      "date": "2026-09-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "id": "openai-weighs-slowing-cutting-edge-ai-development",
+      "title": "OpenAI Weighs Slowing Cutting-Edge AI Development",
+      "summary": "OpenAI's consideration to slow AI development reflects growing concerns about risks, potentially shaping the pace of AI adoption in the workplace.",
+      "date": "2026-09-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/openai-weighs-slowing-cutting-edge-ai-development-video",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI safety",
         "regulation",
-        "workplace adoption"
+        "safety",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3618,84 +3572,131 @@
       ]
     },
     {
-      "id": "openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "The addition of a prominent AI alignment researcher to OpenAI's board may signal increased focus on safety and ethical concerns, potentially slowing AI deployment in the workplace.",
-      "date": "2026-09-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "id": "bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
+      "title": "Bridgewater’s Jensen Says AI Will Kill People Before It’s Curbed",
+      "summary": "A top hedge fund executive warns about the potential dangers of AI, signaling increased concern over risks that could slow adoption or lead to regulatory intervention.",
+      "date": "2026-09-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI governance",
         "regulation",
-        "ethics"
+        "risk",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "the-ai-researcher-who-just-quit-anthropic-says-it-s-crunch-time-for-humanity-",
-      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "summary": "A senior AI researcher's warning about the urgency of making AI safe highlights growing concerns around AI alignment and regulation, potentially slowing adoption.",
-      "date": "2026-09-09",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "id": "adobe-forecast-misses-views-renewing-fears-about-ai-impact",
+      "title": "Adobe Forecast Misses Views, Renewing Fears About AI Impact",
+      "summary": "Adobe's sales miss highlights concerns that AI startups may be disrupting traditional software businesses, signaling potential challenges in the tech and creative industries.",
+      "date": "2026-09-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI safety",
-        "regulation",
-        "research"
+        "AI disruption",
+        "enterprise software",
+        "market competition"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "life-physical-and-social-science",
+        "arts-and-design",
         "_all"
       ]
     },
     {
-      "id": "-gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving",
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-      "summary": "A researcher's resignation over AI extinction fears highlights growing concerns about self-improving AI, potentially slowing adoption and increasing regulatory scrutiny.",
-      "date": "2026-09-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "id": "anthropic-says-yemen-group-used-claude-in-missile-development",
+      "title": "Anthropic Says Yemen Group Used Claude in Missile Development",
+      "summary": "The use of AI in military development by non-state actors raises concerns about AI regulation and ethical deployment, potentially slowing adoption in sensitive sectors.",
+      "date": "2026-09-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI ethics",
-        "regulation",
-        "safety"
+        "military AI",
+        "regulation"
       ],
-      "fetchedAt": "2026-09-10T11:00:44.914Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "legal",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+      "title": "China AI Star Moonshot Eyes $2 Billion Annualized Sales in 2026",
+      "summary": "Moonshot AI's ambitious revenue target highlights growing AI adoption and competitive pressure in the enterprise and tech sectors.",
+      "date": "2026-09-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI startup growth",
+        "enterprise AI",
+        "market competition"
+      ],
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
+      "summary": "Microsoft's expansion of data center capacity signals increased AI adoption and demand, indicating growing pressure on IT and cloud infrastructure roles.",
+      "date": "2026-09-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "data-center",
+        "ai-infrastructure",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-10T12:00:00.000Z",
+  "generatedAt": "2026-09-11T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Innovation and Policy Tensions Shape Job Market Outlook",
-      "preview": "New AI advances and policy concerns influence job replacement dynamics.",
-      "body": "Recent developments show strong momentum in AI innovation, with Alibaba and DeepSeek driving advancements. However, calls for stronger AI policies and safety measures introduce delays. Overall, the balance remains cautiously optimistic as AI's economic impact grows."
+      "title": "AI Job Replacement Pressure Stabilizes Amid Regulatory Concerns",
+      "preview": "Regulatory concerns and AI adoption updates shape today's job replacement outlook.",
+      "body": "Recent signals show a mixed impact on AI job replacement pressure, with several headlines highlighting regulatory concerns and potential slowdowns. Bridgewater's CIO and OpenAI's cautious approach reflect growing awareness of AI risks, while Meta's AI agent and Flipkart's AI integration signal continued adoption in consumer and business sectors. The overall balance remains stable, with delays outweighing advances."
     }
   }
 }
