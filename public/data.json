@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:02:09",
+  "displayTime": "00:01:59",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -2.147,
+  "exactMinutesToMidnight": -1.983,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -15.147,
+  "newsAdjustment": -14.983,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.149,
+  "macroReplacementRate": 50.137,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,216 +3448,116 @@
   ],
   "newsFeed": [
     {
-      "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
-      "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
-      "summary": "A top hedge fund executive raises concerns about AI's potential to displace jobs, suggesting regulatory action may be needed to manage its economic impact.",
-      "date": "2026-09-11",
+      "id": "china-s-ai-industry-pivots-to-agents-from-models-report-says",
+      "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+      "summary": "China's AI industry is shifting focus from large models to AI agents, signaling increased real-world deployment and commercial adoption of AI in work environments.",
+      "date": "2026-09-12",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-on-ai-s-human-extinction-risk-video",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "economic-impact",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "management",
-        "business-and-financial",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
-      "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
-      "summary": "A top hedge fund executive raises concerns about AI's potential to cause job losses and proposes a policy solution, highlighting growing awareness of AI's economic impact.",
-      "date": "2026-09-11",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/why-bridgewaters-cio-says-ais-human-extinction-risk-is-real",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "job disruption",
-        "AI ethics"
-      ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b614da06-213b-4d27-ae05-b4c101309140/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "65 min"
-    },
-    {
-      "id": "meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's AI agent Muse entering the US app market signals growing adoption of AI tools in consumer-facing applications, potentially influencing future workflows and productivity.",
-      "date": "2026-09-10",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "consumer tech",
-        "workplace tools"
-      ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "media-and-communication",
-        "_all"
-      ]
-    },
-    {
-      "id": "flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
-      "title": "Flipkart’s Super.money Bets on AI Agents to Outdo Bigger Rivals",
-      "summary": "AI agents are being deployed in digital payments to improve shopping and purchasing workflows, signaling growing AI adoption in the business and financial sectors.",
-      "date": "2026-09-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI agents",
-        "workplace automation",
-        "digital payments"
+        "workplace adoption",
+        "industry shift"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "computer-and-information-technology",
         "business-and-financial",
-        "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "openai-weighs-slowing-cutting-edge-ai-development",
-      "title": "OpenAI Weighs Slowing Cutting-Edge AI Development",
-      "summary": "OpenAI's consideration to slow AI development reflects growing concerns about risks, potentially shaping the pace of AI adoption in the workplace.",
+      "id": "openai-s-feud-with-mathematicians-is-only-escalating",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "A growing conflict between AI labs and mathematicians highlights concerns about AI's impact on intellectual work, potentially slowing adoption or prompting regulatory scrutiny.",
       "date": "2026-09-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-11/openai-weighs-slowing-cutting-edge-ai-development-video",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "regulation",
-        "safety",
-        "enterprise-adoption"
+        "AI ethics",
+        "intellectual labor",
+        "regulation"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "math",
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
-      "title": "Bridgewater’s Jensen Says AI Will Kill People Before It’s Curbed",
-      "summary": "A top hedge fund executive warns about the potential dangers of AI, signaling increased concern over risks that could slow adoption or lead to regulatory intervention.",
+      "id": "apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+      "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
+      "summary": "Legal concerns around Apple's always-listening AI features may slow adoption and shape future workplace use of AI assistants.",
       "date": "2026-09-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
         "regulation",
-        "risk",
+        "privacy",
         "enterprise-adoption"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "adobe-forecast-misses-views-renewing-fears-about-ai-impact",
-      "title": "Adobe Forecast Misses Views, Renewing Fears About AI Impact",
-      "summary": "Adobe's sales miss highlights concerns that AI startups may be disrupting traditional software businesses, signaling potential challenges in the tech and creative industries.",
-      "date": "2026-09-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI disruption",
-        "enterprise software",
-        "market competition"
-      ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "arts-and-design",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "anthropic-says-yemen-group-used-claude-in-missile-development",
-      "title": "Anthropic Says Yemen Group Used Claude in Missile Development",
-      "summary": "The use of AI in military development by non-state actors raises concerns about AI regulation and ethical deployment, potentially slowing adoption in sensitive sectors.",
+      "id": "anthropic-says-iran-russia-used-claude-for-weapons-research",
+      "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
+      "summary": "AI models are being misused for military applications, raising concerns about regulation and ethical use in the workplace.",
       "date": "2026-09-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI ethics",
-        "military AI",
-        "regulation"
+        "regulation",
+        "military applications"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "legal",
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
-      "title": "China AI Star Moonshot Eyes $2 Billion Annualized Sales in 2026",
-      "summary": "Moonshot AI's ambitious revenue target highlights growing AI adoption and competitive pressure in the enterprise and tech sectors.",
+      "id": "ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
+      "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
+      "summary": "A major funding round for AI startup Cohere signals growing investment in AI capabilities, which could accelerate adoption across multiple industries.",
       "date": "2026-09-11",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI startup growth",
-        "enterprise AI",
-        "market competition"
+        "funding",
+        "enterprise-adoption",
+        "ai-capabilities"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3668,35 +3568,61 @@
       ]
     },
     {
-      "id": "microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
-      "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
-      "summary": "Microsoft's expansion of data center capacity signals increased AI adoption and demand, indicating growing pressure on IT and cloud infrastructure roles.",
-      "date": "2026-09-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
-      "effect": "advance",
+      "id": "anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "summary": "Concerns over AI model security risks may lead to increased regulation or caution in AI adoption across industries.",
+      "date": "2026-09-11",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "data-center",
-        "ai-infrastructure",
-        "enterprise-adoption"
+        "cybersecurity",
+        "regulation",
+        "AI safety"
       ],
-      "fetchedAt": "2026-09-11T11:00:47.251Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "meta-says-it-s-changing-ai-suggestions-after-posing-invasive-personal-questions",
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "summary": "Meta is adjusting AI prompts after a controversy over invasive questions, highlighting regulatory and ethical concerns that could slow AI adoption in workplace tools.",
+      "date": "2026-09-11",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "regulation",
+        "workplace AI"
+      ],
+      "fetchedAt": "2026-09-12T11:01:10.373Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-11T12:00:00.000Z",
+  "generatedAt": "2026-09-12T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Amid Regulatory Concerns",
-      "preview": "Regulatory concerns and AI adoption updates shape today's job replacement outlook.",
-      "body": "Recent signals show a mixed impact on AI job replacement pressure, with several headlines highlighting regulatory concerns and potential slowdowns. Bridgewater's CIO and OpenAI's cautious approach reflect growing awareness of AI risks, while Meta's AI agent and Flipkart's AI integration signal continued adoption in consumer and business sectors. The overall balance remains stable, with delays outweighing advances."
+      "title": "AI Adoption Faces Mixed Signals Amid New Developments",
+      "preview": "Advances in AI deployment contrast with growing regulatory and ethical concerns.",
+      "body": "Positive momentum continues as China shifts toward AI agents, while Cohere secures major funding. However, legal risks, misuse of AI, and conflicts with experts signal potential delays. Overall, the balance remains cautiously optimistic but increasingly cautious."
     }
   }
 }

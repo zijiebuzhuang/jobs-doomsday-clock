@@ -1,5 +1,174 @@
 [
   {
+    "id": "anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "summary": "Concerns over AI model security risks may lead to increased regulation or caution in AI adoption across industries.",
+    "date": "2026-09-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "cybersecurity",
+      "regulation",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "meta-says-it-s-changing-ai-suggestions-after-posing-invasive-personal-questions",
+    "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+    "summary": "Meta is adjusting AI prompts after a controversy over invasive questions, highlighting regulatory and ethical concerns that could slow AI adoption in workplace tools.",
+    "date": "2026-09-11",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "regulation",
+      "workplace AI"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "china-s-ai-industry-pivots-to-agents-from-models-report-says",
+    "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+    "summary": "China's AI industry is shifting focus from large models to AI agents, signaling increased real-world deployment and commercial adoption of AI in work environments.",
+    "date": "2026-09-12",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "workplace adoption",
+      "industry shift"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-feud-with-mathematicians-is-only-escalating",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "summary": "A growing conflict between AI labs and mathematicians highlights concerns about AI's impact on intellectual work, potentially slowing adoption or prompting regulatory scrutiny.",
+    "date": "2026-09-11",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI ethics",
+      "intellectual labor",
+      "regulation"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "math",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+    "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
+    "summary": "Legal concerns around Apple's always-listening AI features may slow adoption and shape future workplace use of AI assistants.",
+    "date": "2026-09-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "privacy",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-says-iran-russia-used-claude-for-weapons-research",
+    "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
+    "summary": "AI models are being misused for military applications, raising concerns about regulation and ethical use in the workplace.",
+    "date": "2026-09-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI ethics",
+      "regulation",
+      "military applications"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
+    "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
+    "summary": "A major funding round for AI startup Cohere signals growing investment in AI capabilities, which could accelerate adoption across multiple industries.",
+    "date": "2026-09-11",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "enterprise-adoption",
+      "ai-capabilities"
+    ],
+    "fetchedAt": "2026-09-12T11:01:10.373Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "why-bridgewater-s-cio-says-ai-s-human-extinction-risk-is-real",
     "title": "Why Bridgewater's CIO Says AI's Human Extinction Risk Is Real",
     "summary": "A top hedge fund executive raises concerns about AI's potential to displace jobs, suggesting regulatory action may be needed to manage its economic impact.",
@@ -15710,176 +15879,6 @@
       "media-and-communication",
       "arts-and-design",
       "entertainment-and-sports"
-    ]
-  },
-  {
-    "id": "my-yard-is-dying-so-i-made-an-app-for-that",
-    "title": "My yard is dying, so I made an app for that",
-    "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
-    "date": "2026-06-13",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "software development"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order",
-    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-    "summary": "Government action restricting access to AI models highlights regulatory pressure on AI adoption and its impact on workplace capabilities.",
-    "date": "2026-06-13",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "national-security",
-      "AI-adoption"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "siri-won-t-be-your-ai-girlfriend",
-    "title": "Siri won’t be your AI girlfriend",
-    "summary": "Apple's decision to limit Siri's personality reflects growing concerns about AI ethics and user engagement, potentially slowing the adoption of more human-like AI assistants in the workplace.",
-    "date": "2026-06-12",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "AI ethics",
-      "user engagement",
-      "regulation"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "community-and-social-service",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "summary": "India's debate on AI policy and regulation is influenced by Anthropic's decision, signaling potential regulatory friction in AI adoption.",
-    "date": "2026-06-14",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "policy",
-      "regulation",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "global-capitalism-bets-it-all-on-ai-future-alarming-voters",
-    "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
-    "summary": "A major AI company's rapid growth and public filing signal increased investment and adoption of AI in the workplace, signaling a shift in economic and labor dynamics.",
-    "date": "2026-06-13",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "startup growth",
-      "economic impact"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-th",
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "summary": "Government intervention in response to Anthropic's safety concerns may slow the deployment of advanced AI models, affecting AI adoption and regulatory scrutiny in the tech and related industries.",
-    "date": "2026-06-13",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "AI adoption",
-      "safety"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-faces-investigation-from-state-attorneys-general",
-    "title": "OpenAI faces investigation from state attorneys general",
-    "summary": "Regulatory scrutiny of OpenAI may slow AI adoption by highlighting concerns around data handling and policies.",
-    "date": "2026-06-13",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "data-privacy",
-      "AI-adoption"
-    ],
-    "fetchedAt": "2026-06-14T11:00:46.150Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
     ]
   }
 ]
