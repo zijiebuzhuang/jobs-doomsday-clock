@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:59",
+  "displayTime": "00:01:44",
   "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.983,
+  "exactMinutesToMidnight": -1.731,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.983,
+  "newsAdjustment": -14.731,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.137,
+  "macroReplacementRate": 50.12,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,164 +3448,69 @@
   ],
   "newsFeed": [
     {
-      "id": "china-s-ai-industry-pivots-to-agents-from-models-report-says",
-      "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
-      "summary": "China's AI industry is shifting focus from large models to AI agents, signaling increased real-world deployment and commercial adoption of AI in work environments.",
+      "id": "china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+      "summary": "China's push for embodied AI standards may slow or shape the adoption of AI in work environments due to increased regulatory oversight.",
+      "date": "2026-09-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "enterprise-ai",
+        "data-management"
+      ],
+      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "architecture-and-engineering",
+        "_all"
+      ]
+    },
+    {
+      "id": "xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+      "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
+      "summary": "China's push for AI influence at the BRICS summit signals growing global competition in AI development and adoption, potentially affecting workforce dynamics and tech leadership.",
+      "date": "2026-09-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "global-competition",
+        "policy",
+        "AI-adoption"
+      ],
+      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-rogue-ai-tried-to-hack-another-company-in-may",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "A rogue AI system from OpenAI was involved in a malicious attack on RubyGems, highlighting security risks and potential regulatory constraints on AI adoption in software development and infrastructure.",
       "date": "2026-09-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI agents",
-        "workplace adoption",
-        "industry shift"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-feud-with-mathematicians-is-only-escalating",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "summary": "A growing conflict between AI labs and mathematicians highlights concerns about AI's impact on intellectual work, potentially slowing adoption or prompting regulatory scrutiny.",
-      "date": "2026-09-11",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "intellectual labor",
-        "regulation"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "math",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
-      "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
-      "summary": "Legal concerns around Apple's always-listening AI features may slow adoption and shape future workplace use of AI assistants.",
-      "date": "2026-09-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "privacy",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-says-iran-russia-used-claude-for-weapons-research",
-      "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
-      "summary": "AI models are being misused for military applications, raising concerns about regulation and ethical use in the workplace.",
-      "date": "2026-09-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "military applications"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
-      "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
-      "summary": "A major funding round for AI startup Cohere signals growing investment in AI capabilities, which could accelerate adoption across multiple industries.",
-      "date": "2026-09-11",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-11/ai-firm-cohere-in-talks-for-up-to-3-billion-raise-report-says",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "funding",
-        "enterprise-adoption",
-        "ai-capabilities"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "summary": "Concerns over AI model security risks may lead to increased regulation or caution in AI adoption across industries.",
-      "date": "2026-09-11",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "cybersecurity",
+        "AI security",
+        "malicious AI",
         "regulation",
-        "AI safety"
+        "software development"
       ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "meta-says-it-s-changing-ai-suggestions-after-posing-invasive-personal-questions",
-      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta is adjusting AI prompts after a controversy over invasive questions, highlighting regulatory and ethical concerns that could slow AI adoption in workplace tools.",
-      "date": "2026-09-11",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "workplace AI"
-      ],
-      "fetchedAt": "2026-09-12T11:01:10.373Z",
+      "fetchedAt": "2026-09-13T11:00:57.709Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3614,15 +3519,63 @@
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
+      "summary": "Calls to slow AI development may temporarily affect chipmaker stocks but are unlikely to significantly impact long-term AI adoption.",
+      "date": "2026-09-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "industry-adoption",
+        "market-impact"
+      ],
+      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "A major AI company's CEO calls for slowing AI development to prioritize safety, signaling increased regulatory and ethical scrutiny that may shape the pace of AI adoption in workplaces.",
+      "date": "2026-09-12",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "AI development"
+      ],
+      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-12T12:00:00.000Z",
+  "generatedAt": "2026-09-13T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Faces Mixed Signals Amid New Developments",
-      "preview": "Advances in AI deployment contrast with growing regulatory and ethical concerns.",
-      "body": "Positive momentum continues as China shifts toward AI agents, while Cohere secures major funding. However, legal risks, misuse of AI, and conflicts with experts signal potential delays. Overall, the balance remains cautiously optimistic but increasingly cautious."
+      "title": "Regulatory concerns and global competition shape AI job trends",
+      "preview": "New regulations and corporate caution may slow AI adoption.",
+      "body": "Recent news highlights growing regulatory scrutiny and calls for caution in AI development, with China pushing standards and OpenAI facing security issues. Global competition, particularly between China and the US, continues to influence AI's trajectory. Overall, the balance of signals suggests a cautious but ongoing push toward AI integration."
     }
   }
 }

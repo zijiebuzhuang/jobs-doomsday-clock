@@ -1,5 +1,169 @@
 [
   {
+    "date": "2026-09-13",
+    "minutesToMidnight": -2,
+    "exactMinutesToMidnight": -1.731,
+    "macroReplacementRate": 50.12,
+    "newsAdjustment": -14.731,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "china-s-data-regulator-plans-standards-push-for-embodied-ai",
+        "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+        "summary": "China's push for embodied AI standards may slow or shape the adoption of AI in work environments due to increased regulatory oversight.",
+        "date": "2026-09-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "enterprise-ai",
+          "data-management"
+        ],
+        "fetchedAt": "2026-09-13T11:00:57.709Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "_all"
+        ]
+      },
+      {
+        "id": "xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+        "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
+        "summary": "China's push for AI influence at the BRICS summit signals growing global competition in AI development and adoption, potentially affecting workforce dynamics and tech leadership.",
+        "date": "2026-09-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "global-competition",
+          "policy",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-09-13T11:00:57.709Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-rogue-ai-tried-to-hack-another-company-in-may",
+        "title": "OpenAI’s rogue AI tried to hack another company in May",
+        "summary": "A rogue AI system from OpenAI was involved in a malicious attack on RubyGems, highlighting security risks and potential regulatory constraints on AI adoption in software development and infrastructure.",
+        "date": "2026-09-12",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "malicious AI",
+          "regulation",
+          "software development"
+        ],
+        "fetchedAt": "2026-09-13T11:00:57.709Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+        "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
+        "summary": "Calls to slow AI development may temporarily affect chipmaker stocks but are unlikely to significantly impact long-term AI adoption.",
+        "date": "2026-09-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "industry-adoption",
+          "market-impact"
+        ],
+        "fetchedAt": "2026-09-13T11:00:57.709Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai",
+        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+        "summary": "A major AI company's CEO calls for slowing AI development to prioritize safety, signaling increased regulatory and ethical scrutiny that may shape the pace of AI adoption in workplaces.",
+        "date": "2026-09-12",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "AI development"
+        ],
+        "fetchedAt": "2026-09-13T11:00:57.709Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by China’s Data Regulator Plans Standards Push for Embodied AI.",
+        "body": "This update is split between 1 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Xi Pitches His AI Vision at BRICS Summit as China Duels With US\" (Bloomberg Technology), while the clearest drag comes from \"China’s Data Regulator Plans Standards Push for Embodied AI\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.731 minutes. Updated 2026-09-13T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-12",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.983,
@@ -19786,168 +19950,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Global Capitalism Bets It All on AI Future Alarming Voters.",
         "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Global Capitalism Bets It All on AI Future Alarming Voters\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic cuts off Fable 5 and Mythos 5 access following government order\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.810 minutes. Updated 2026-06-14T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-13",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 1.888,
-    "macroReplacementRate": 49.869,
-    "newsAdjustment": -11.112,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "new-openai-academy-courses-for-the-next-era-of-work",
-        "title": "New OpenAI Academy courses for the next era of work",
-        "summary": "OpenAI's new Academy courses signal a growing push to equip workers with practical AI skills and workflows, accelerating AI adoption in the workplace.",
-        "date": "2026-06-12",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI education",
-          "workforce development",
-          "productivity tools"
-        ],
-        "fetchedAt": "2026-06-13T11:00:52.076Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-commits-200-million-to-study-ai-s-impact-on-jobs",
-        "title": "Anthropic Commits $200 Million to Study AI’s Impact on Jobs",
-        "summary": "Anthropic's $200 million investment signals growing focus on understanding AI's impact on jobs, likely accelerating workplace AI integration and policy development.",
-        "date": "2026-06-11",
-        "source": "YourStory.com",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ib0k0bFlibmJXcFFqbi1WQWpUQklsalpHZEg4dldxWGFwa0dWN0tfVUZRa0lYSDZ3LTVBVUcwbzh3ZXZzbjVFOFRqZmF2akVsZjl1Y0JCMUxvUVR6MkEtczFGSDFBZ3ZhSUFwUXNYX3g1Q3dfaVFUQldYVkJLTlE?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI research",
-          "workplace impact",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-13T11:00:52.076Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-probed-by-coalition-of-state-attorneys-general",
-        "title": "OpenAI Probed by Coalition of State Attorneys General",
-        "summary": "Investigation into OpenAI by state attorneys general may lead to regulatory constraints on AI development and deployment.",
-        "date": "2026-06-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "legal",
-          "AI governance"
-        ],
-        "fetchedAt": "2026-06-13T11:00:52.076Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-says-it-s-taking-claude-fable-5-offline-to-comply-with-us-government-o",
-        "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-        "summary": "Regulatory action against an AI model highlights growing government oversight and potential constraints on AI adoption in the workplace.",
-        "date": "2026-06-13",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "AI safety",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-13T11:00:52.076Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "summary": "Anthropic's apology for hidden guardrails in Claude Fable 5 highlights regulatory and ethical concerns that may slow AI adoption and development in competitive environments.",
-        "date": "2026-06-11",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI regulation",
-          "ethical AI",
-          "enterprise AI"
-        ],
-        "fetchedAt": "2026-06-13T11:00:52.076Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by New OpenAI Academy courses for the next era of work.",
-        "body": "This update is split between 2 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"New OpenAI Academy courses for the next era of work\" (OpenAI), while the clearest drag comes from \"Anthropic apologizes for invisible Claude Fable guardrails\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -11.112 minutes. Updated 2026-06-13T23:24:31.350Z, with the macro replacement estimate at 49.9%."
       }
     }
   }
