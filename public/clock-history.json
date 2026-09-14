@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-09-14",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.356,
+    "macroReplacementRate": 50.094,
+    "newsAdjustment": -14.356,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "opinion-the-invisible-unemployment-arising-from-ai-and-advanced-automation",
+        "title": "OPINION – The invisible unemployment arising from AI and advanced automation",
+        "summary": "The article highlights the hidden impact of AI and automation on employment, raising concerns about unmeasured job displacement.",
+        "date": "2026-09-14",
+        "source": "Macau Business",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1IyZGNOWFJyQkh1WFlVOWR3V0F5VnRRaDQ3cUhzcHVPTUJGX3IxT21fZEZBU3ZsS1hid3Q5UEFYN0oyTDFSemZSenNTeTZSNUtxMXBFQndHblFVY3BzMUYxeUM1LUpVek1UY2JxN0g5YzluSG9laEdQVlotc3h4bzNNdmhiS3IySGFrak92S3FZaEJIeW5hQ2VvaW5lLVk4Z3RR?oc=5",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "unemployment",
+          "workforce-impact",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-bosses-risk-clash-with-wall-street-and-trump-over-safety",
+        "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety",
+        "summary": "Regulatory and political pressures may slow AI development, affecting how AI is adopted in the workplace.",
+        "date": "2026-09-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI development"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-solution-to-ai-danger-is-quite-vague-opinion",
+        "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
+        "summary": "A critique of Anthropic's approach to AI safety highlights concerns about the effectiveness of slowing down AI development, potentially affecting regulatory and ethical frameworks around AI adoption.",
+        "date": "2026-09-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-president-on-doing-business-in-the-wake-of-hugging-face",
+        "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
+        "summary": "A security incident involving AI models highlights the need for better alignment and control, potentially slowing adoption and increasing scrutiny of AI development.",
+        "date": "2026-09-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "security",
+          "regulation",
+          "model development"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
+        "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
+        "summary": "A security incident involving AI models highlights risks in AI development and may lead to more cautious approaches in deployment and regulation.",
+        "date": "2026-09-14",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI security",
+          "model development",
+          "regulation"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/1664f593-6ca2-4a3e-bbe6-b4c201317baa/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "63 min"
+      },
+      {
+        "id": "m-g-s-municchi-says-investors-more-wary-about-ai-trade",
+        "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
+        "summary": "Investors are becoming more cautious about AI's financial returns, suggesting potential regulatory or performance-related constraints on AI adoption.",
+        "date": "2026-09-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "investment",
+          "market-impact"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "z-ai-s-cash-burn-drives-alibaba-like-hk-fundraising-spree",
+        "title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
+        "summary": "Z.AI's fundraising activity highlights the growing pressure and financial demands of AI model development, signaling increased investment and competition in the AI sector.",
+        "date": "2026-09-14",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "fundraising",
+          "AI adoption",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-09-14T11:00:52.775Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OPINION – The invisible unemployment arising from AI and advanced automation.",
+        "body": "This update is split between 1 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree\" (Bloomberg Technology), while the clearest drag comes from \"OPINION – The invisible unemployment arising from AI and advanced automation\" (Macau Business). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.356 minutes. Updated 2026-09-14T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-13",
     "minutesToMidnight": -2,
     "exactMinutesToMidnight": -1.731,
@@ -19738,218 +19949,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support.",
         "body": "This update is split between 4 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Kazakhstan, Firebird Ink $10 Billion AI Deal With Nvidia Support\" (Bloomberg Technology), while the clearest drag comes from \"The AI layoff wave is becoming a powder keg\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.678 minutes. Updated 2026-06-15T12:00:00.000Z, with the macro replacement estimate at 49.8%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-14",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 2.19,
-    "macroReplacementRate": 49.848,
-    "newsAdjustment": -10.81,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "global-capitalism-bets-it-all-on-ai-future-alarming-voters",
-        "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
-        "summary": "A major AI company's rapid growth and public filing signal increased investment and adoption of AI in the workplace, signaling a shift in economic and labor dynamics.",
-        "date": "2026-06-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "enterprise AI",
-          "startup growth",
-          "economic impact"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "my-yard-is-dying-so-i-made-an-app-for-that",
-        "title": "My yard is dying, so I made an app for that",
-        "summary": "An individual used an AI model to build an app quickly, highlighting the growing capability of AI in software development and task automation.",
-        "date": "2026-06-13",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "software development"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK_VIBECODING_BACKYARD_ADemidova.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "anthropic-cuts-off-fable-5-and-mythos-5-access-following-government-order",
-        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-        "summary": "Government action restricting access to AI models highlights regulatory pressure on AI adoption and its impact on workplace capabilities.",
-        "date": "2026-06-13",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "national-security",
-          "AI-adoption"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "siri-won-t-be-your-ai-girlfriend",
-        "title": "Siri won’t be your AI girlfriend",
-        "summary": "Apple's decision to limit Siri's personality reflects growing concerns about AI ethics and user engagement, potentially slowing the adoption of more human-like AI assistants in the workplace.",
-        "date": "2026-06-12",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI ethics",
-          "user engagement",
-          "regulation"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "community-and-social-service",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "anthropic-s-safety-warnings-may-have-just-backfired-the-government-has-pulled-th",
-        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-        "summary": "Government intervention in response to Anthropic's safety concerns may slow the deployment of advanced AI models, affecting AI adoption and regulatory scrutiny in the tech and related industries.",
-        "date": "2026-06-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "AI adoption",
-          "safety"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-        "title": "As Anthropic suspends access to new models, India debates its AI future",
-        "summary": "India's debate on AI policy and regulation is influenced by Anthropic's decision, signaling potential regulatory friction in AI adoption.",
-        "date": "2026-06-14",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-faces-investigation-from-state-attorneys-general",
-        "title": "OpenAI faces investigation from state attorneys general",
-        "summary": "Regulatory scrutiny of OpenAI may slow AI adoption by highlighting concerns around data handling and policies.",
-        "date": "2026-06-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "data-privacy",
-          "AI-adoption"
-        ],
-        "fetchedAt": "2026-06-14T11:00:46.150Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Global Capitalism Bets It All on AI Future Alarming Voters.",
-        "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Global Capitalism Bets It All on AI Future Alarming Voters\" (Bloomberg Technology), while the clearest drag comes from \"Anthropic cuts off Fable 5 and Mythos 5 access following government order\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.810 minutes. Updated 2026-06-14T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }

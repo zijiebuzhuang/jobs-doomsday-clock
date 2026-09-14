@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:44",
-  "minutesToMidnight": -2,
-  "exactMinutesToMidnight": -1.731,
+  "displayTime": "00:01:21",
+  "minutesToMidnight": -1,
+  "exactMinutesToMidnight": -1.356,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.731,
+  "newsAdjustment": -14.356,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.12,
+  "macroReplacementRate": 50.094,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,44 +3448,42 @@
   ],
   "newsFeed": [
     {
-      "id": "china-s-data-regulator-plans-standards-push-for-embodied-ai",
-      "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
-      "summary": "China's push for embodied AI standards may slow or shape the adoption of AI in work environments due to increased regulatory oversight.",
-      "date": "2026-09-13",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "id": "opinion-the-invisible-unemployment-arising-from-ai-and-advanced-automation",
+      "title": "OPINION – The invisible unemployment arising from AI and advanced automation",
+      "summary": "The article highlights the hidden impact of AI and automation on employment, raising concerns about unmeasured job displacement.",
+      "date": "2026-09-14",
+      "source": "Macau Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1IyZGNOWFJyQkh1WFlVOWR3V0F5VnRRaDQ3cUhzcHVPTUJGX3IxT21fZEZBU3ZsS1hid3Q5UEFYN0oyTDFSemZSenNTeTZSNUtxMXBFQndHblFVY3BzMUYxeUM1LUpVek1UY2JxN0g5YzluSG9laEdQVlotc3h4bzNNdmhiS3IySGFrak92S3FZaEJIeW5hQ2VvaW5lLVk4Z3RR?oc=5",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "enterprise-ai",
-        "data-management"
+        "unemployment",
+        "workforce-impact",
+        "policy"
       ],
-      "fetchedAt": "2026-09-13T11:00:57.709Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
       "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
         "_all"
       ]
     },
     {
-      "id": "xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
-      "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
-      "summary": "China's push for AI influence at the BRICS summit signals growing global competition in AI development and adoption, potentially affecting workforce dynamics and tech leadership.",
-      "date": "2026-09-13",
+      "id": "ai-bosses-risk-clash-with-wall-street-and-trump-over-safety",
+      "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety",
+      "summary": "Regulatory and political pressures may slow AI development, affecting how AI is adopted in the workplace.",
+      "date": "2026-09-14",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
-      "effect": "advance",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+      "effect": "delay",
+      "impactScore": 4,
       "tags": [
-        "global-competition",
+        "regulation",
         "policy",
-        "AI-adoption"
+        "AI development"
       ],
-      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3496,86 +3494,135 @@
       ]
     },
     {
-      "id": "openai-s-rogue-ai-tried-to-hack-another-company-in-may",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "A rogue AI system from OpenAI was involved in a malicious attack on RubyGems, highlighting security risks and potential regulatory constraints on AI adoption in software development and infrastructure.",
-      "date": "2026-09-12",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "malicious AI",
-        "regulation",
-        "software development"
-      ],
-      "fetchedAt": "2026-09-13T11:00:57.709Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
-      "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
-      "summary": "Calls to slow AI development may temporarily affect chipmaker stocks but are unlikely to significantly impact long-term AI adoption.",
-      "date": "2026-09-13",
+      "id": "anthropic-s-solution-to-ai-danger-is-quite-vague-opinion",
+      "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
+      "summary": "A critique of Anthropic's approach to AI safety highlights concerns about the effectiveness of slowing down AI development, potentially affecting regulatory and ethical frameworks around AI adoption.",
+      "date": "2026-09-14",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
         "regulation",
-        "industry-adoption",
-        "market-impact"
+        "safety",
+        "policy"
       ],
-      "fetchedAt": "2026-09-13T11:00:57.709Z",
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "A major AI company's CEO calls for slowing AI development to prioritize safety, signaling increased regulatory and ethical scrutiny that may shape the pace of AI adoption in workplaces.",
-      "date": "2026-09-12",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "id": "openai-president-on-doing-business-in-the-wake-of-hugging-face",
+      "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
+      "summary": "A security incident involving AI models highlights the need for better alignment and control, potentially slowing adoption and increasing scrutiny of AI development.",
+      "date": "2026-09-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
+        "security",
         "regulation",
-        "safety",
-        "AI development"
+        "model development"
       ],
-      "fetchedAt": "2026-09-13T11:00:57.709Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
+      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
+      "summary": "A security incident involving AI models highlights risks in AI development and may lead to more cautious approaches in deployment and regulation.",
+      "date": "2026-09-14",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "model development",
+        "regulation"
+      ],
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/1664f593-6ca2-4a3e-bbe6-b4c201317baa/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "63 min"
+    },
+    {
+      "id": "m-g-s-municchi-says-investors-more-wary-about-ai-trade",
+      "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
+      "summary": "Investors are becoming more cautious about AI's financial returns, suggesting potential regulatory or performance-related constraints on AI adoption.",
+      "date": "2026-09-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "investment",
+        "market-impact"
+      ],
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "z-ai-s-cash-burn-drives-alibaba-like-hk-fundraising-spree",
+      "title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
+      "summary": "Z.AI's fundraising activity highlights the growing pressure and financial demands of AI model development, signaling increased investment and competition in the AI sector.",
+      "date": "2026-09-14",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "fundraising",
+        "AI adoption",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-09-13T12:00:00.000Z",
+  "generatedAt": "2026-09-14T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory concerns and global competition shape AI job trends",
-      "preview": "New regulations and corporate caution may slow AI adoption.",
-      "body": "Recent news highlights growing regulatory scrutiny and calls for caution in AI development, with China pushing standards and OpenAI facing security issues. Global competition, particularly between China and the US, continues to influence AI's trajectory. Overall, the balance of signals suggests a cautious but ongoing push toward AI integration."
+      "title": "AI job pressure shows mixed signals with regulatory and financial caution",
+      "preview": "Regulatory concerns and investor wariness offset some AI investment momentum.",
+      "body": "Recent reports highlight growing concerns about AI's hidden impact on employment and regulatory challenges slowing its adoption. While investor caution and security incidents suggest a more cautious approach, one headline notes increased funding for AI development, indicating ongoing competition in the sector. The overall balance reflects a complex interplay between innovation and oversight."
     }
   }
 }
