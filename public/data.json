@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:21",
+  "displayTime": "00:01:03",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.356,
+  "exactMinutesToMidnight": -1.055,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.356,
+  "newsAdjustment": -14.055,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.094,
+  "macroReplacementRate": 50.073,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,66 +3448,44 @@
   ],
   "newsFeed": [
     {
-      "id": "opinion-the-invisible-unemployment-arising-from-ai-and-advanced-automation",
-      "title": "OPINION – The invisible unemployment arising from AI and advanced automation",
-      "summary": "The article highlights the hidden impact of AI and automation on employment, raising concerns about unmeasured job displacement.",
-      "date": "2026-09-14",
-      "source": "Macau Business",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1IyZGNOWFJyQkh1WFlVOWR3V0F5VnRRaDQ3cUhzcHVPTUJGX3IxT21fZEZBU3ZsS1hid3Q5UEFYN0oyTDFSemZSenNTeTZSNUtxMXBFQndHblFVY3BzMUYxeUM1LUpVek1UY2JxN0g5YzluSG9laEdQVlotc3h4bzNNdmhiS3IySGFrak92S3FZaEJIeW5hQ2VvaW5lLVk4Z3RR?oc=5",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "unemployment",
-        "workforce-impact",
-        "policy"
-      ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-bosses-risk-clash-with-wall-street-and-trump-over-safety",
-      "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety",
-      "summary": "Regulatory and political pressures may slow AI development, affecting how AI is adopted in the workplace.",
-      "date": "2026-09-14",
+      "id": "ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work",
+      "title": "AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work",
+      "summary": "AI startup Model ML raising over $100 million indicates growing adoption of AI in financial services, reducing manual work for bankers.",
+      "date": "2026-09-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "AI development"
+        "AI adoption",
+        "workplace automation",
+        "financial services"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "anthropic-s-solution-to-ai-danger-is-quite-vague-opinion",
-      "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
-      "summary": "A critique of Anthropic's approach to AI safety highlights concerns about the effectiveness of slowing down AI development, potentially affecting regulatory and ethical frameworks around AI adoption.",
-      "date": "2026-09-14",
+      "id": "hugging-face-says-good-ethics-can-drive-ai-innovation",
+      "title": "Hugging Face Says Good Ethics Can Drive AI Innovation",
+      "summary": "Ethical AI practices are being positioned as a driver of innovation, suggesting a shift toward responsible AI development that could influence workplace standards and hiring for ethical AI roles.",
+      "date": "2026-09-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/hugging-face-says-good-ethics-can-drive-ai-innovation-video",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "safety",
-        "policy"
+        "ethics",
+        "AI innovation",
+        "workplace standards"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3518,20 +3496,68 @@
       ]
     },
     {
-      "id": "openai-president-on-doing-business-in-the-wake-of-hugging-face",
-      "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
-      "summary": "A security incident involving AI models highlights the need for better alignment and control, potentially slowing adoption and increasing scrutiny of AI development.",
-      "date": "2026-09-14",
+      "id": "australia-s-ai-regulation-debate",
+      "title": "Australia’s AI Regulation Debate",
+      "summary": "Australia's push for AI regulation highlights growing global concerns about AI safety and could slow adoption or shape how AI is implemented in the workplace.",
+      "date": "2026-09-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/australia-s-ai-regulation-debate-video",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "security",
         "regulation",
-        "model development"
+        "policy",
+        "AI safety"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-safety-push-raises-antitrust-questions-for-anthropic-openai",
+      "title": "AI Safety Push Raises Antitrust Questions for Anthropic, OpenAI",
+      "summary": "Regulatory and antitrust concerns may slow the pace of AI development and adoption by major companies like Anthropic and OpenAI.",
+      "date": "2026-09-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-safety-push-raises-antitrust-questions-for-anthropic-openai",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI development"
+      ],
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "trump-china-push-back-on-calls-to-slow-ai",
+      "title": "Trump, China Push Back on Calls to Slow AI",
+      "summary": "Political figures and nations resisting calls to slow AI development may delay regulatory actions that could shape AI's workplace impact.",
+      "date": "2026-09-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/trump-china-push-back-on-calls-to-slow-ai-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "global-ai"
+      ],
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3542,47 +3568,43 @@
       ]
     },
     {
-      "id": "openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
-      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
-      "summary": "A security incident involving AI models highlights risks in AI development and may lead to more cautious approaches in deployment and regulation.",
-      "date": "2026-09-14",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
+      "id": "trump-opposes-ai-guardrails-amid-chip-selloff",
+      "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
+      "summary": "Trump's opposition to AI safety regulations creates regulatory uncertainty, potentially slowing the adoption of AI in the tech sector.",
+      "date": "2026-09-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI security",
-        "model development",
-        "regulation"
+        "policy",
+        "regulation",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "_all"
-      ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/1664f593-6ca2-4a3e-bbe6-b4c201317baa/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "63 min"
+      ]
     },
     {
-      "id": "m-g-s-municchi-says-investors-more-wary-about-ai-trade",
-      "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
-      "summary": "Investors are becoming more cautious about AI's financial returns, suggesting potential regulatory or performance-related constraints on AI adoption.",
-      "date": "2026-09-14",
+      "id": "ai-trade-is-in-digestion-phase-jpmorgan-s-sundar-says",
+      "title": "AI Trade Is in 'Digestion' Phase, JPMorgan's Sundar Says",
+      "summary": "JPMorgan's positive outlook on AI suggests continued investment and integration of AI in financial services and related industries.",
+      "date": "2026-09-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/ai-trade-is-in-digestion-phase-jpmorgan-s-sundar-says-video",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "investment",
-        "market-impact"
+        "AI adoption",
+        "financial services",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3593,36 +3615,84 @@
       ]
     },
     {
-      "id": "z-ai-s-cash-burn-drives-alibaba-like-hk-fundraising-spree",
-      "title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
-      "summary": "Z.AI's fundraising activity highlights the growing pressure and financial demands of AI model development, signaling increased investment and competition in the AI sector.",
-      "date": "2026-09-14",
+      "id": "ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
+      "title": "AI Chip Darling Biren Said to Mull $1 Billion Share Sale",
+      "summary": "A potential $1 billion share sale by Biren signals increased investment in AI infrastructure, which could accelerate AI adoption across industries.",
+      "date": "2026-09-15",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "fundraising",
-        "AI adoption",
-        "enterprise AI"
+        "AI infrastructure",
+        "investment",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-14T11:00:52.775Z",
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
+      "title": "AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says",
+      "summary": "Calls for slowing AI development do not deter major tech companies from continuing to invest and spend capital, indicating ongoing AI adoption pressure.",
+      "date": "2026-09-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "funding",
+        "adoption",
+        "regulation"
+      ],
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+      "title": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post",
+      "summary": "A Google DeepMind researcher's warning about AI risks highlights growing concerns about the technology's potential dangers, which could influence regulatory and ethical constraints on AI development and adoption.",
+      "date": "2026-09-15",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI ethics",
+        "regulation",
+        "risk perception"
+      ],
+      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-14T12:00:00.000Z",
+  "generatedAt": "2026-09-15T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI job pressure shows mixed signals with regulatory and financial caution",
-      "preview": "Regulatory concerns and investor wariness offset some AI investment momentum.",
-      "body": "Recent reports highlight growing concerns about AI's hidden impact on employment and regulatory challenges slowing its adoption. While investor caution and security incidents suggest a more cautious approach, one headline notes increased funding for AI development, indicating ongoing competition in the sector. The overall balance reflects a complex interplay between innovation and oversight."
+      "title": "AI Job Replacement Pressure Stabilizes Slightly",
+      "preview": "Positive AI developments contrast with regulatory delays.",
+      "body": "Recent signals show a mix of AI advancement and regulatory pushback, with key headlines like 'AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work' indicating growing adoption. However, concerns over safety and antitrust issues, as highlighted in 'AI Safety Push Raises Antitrust Questions for Anthropic, OpenAI,' may slow broader implementation. Overall, the balance remains cautiously optimistic."
     }
   }
 }
