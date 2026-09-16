@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:03",
+  "displayTime": "00:01:09",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.055,
+  "exactMinutesToMidnight": -1.149,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.055,
+  "newsAdjustment": -14.149,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.073,
+  "macroReplacementRate": 50.08,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,116 +3448,94 @@
   ],
   "newsFeed": [
     {
-      "id": "ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work",
-      "title": "AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work",
-      "summary": "AI startup Model ML raising over $100 million indicates growing adoption of AI in financial services, reducing manual work for bankers.",
+      "id": "how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+      "summary": "NVIDIA's NVLink 6 improves resiliency and performance for large-scale AI operations, enhancing productivity and efficiency in AI training and inference.",
       "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "productivity",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-9-768x432.jpg"
+    },
+    {
+      "id": "meta-s-new-one-subscriptions-put-a-price-on-social-media-and-ai",
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "summary": "Meta's new subscription model for AI features signals increased integration of AI into consumer and business workflows, potentially influencing productivity and skill demands in tech and digital services.",
+      "date": "2026-09-15",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "subscription models",
+        "workplace tools"
+      ],
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "AI agents are now being used to automate setup and maintenance tasks for WhatsApp Business, increasing efficiency and reducing manual work.",
+      "date": "2026-09-15",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workplace automation",
-        "financial services"
+        "workflow automation",
+        "enterprise tools"
       ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "hugging-face-says-good-ethics-can-drive-ai-innovation",
-      "title": "Hugging Face Says Good Ethics Can Drive AI Innovation",
-      "summary": "Ethical AI practices are being positioned as a driver of innovation, suggesting a shift toward responsible AI development that could influence workplace standards and hiring for ethical AI roles.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/hugging-face-says-good-ethics-can-drive-ai-innovation-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "ethics",
-        "AI innovation",
-        "workplace standards"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "australia-s-ai-regulation-debate",
-      "title": "Australia’s AI Regulation Debate",
-      "summary": "Australia's push for AI regulation highlights growing global concerns about AI safety and could slow adoption or shape how AI is implemented in the workplace.",
-      "date": "2026-09-15",
+      "id": "zuckerberg-backs-independent-evaluators-for-ai-safety-over-slowing-development",
+      "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
+      "summary": "Zuckerberg's support for independent AI safety evaluators suggests increased regulatory scrutiny, which may slow AI development and adoption in the workplace.",
+      "date": "2026-09-16",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/australia-s-ai-regulation-debate-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "policy",
-        "AI safety"
+        "AI regulation",
+        "safety",
+        "policy"
       ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-safety-push-raises-antitrust-questions-for-anthropic-openai",
-      "title": "AI Safety Push Raises Antitrust Questions for Anthropic, OpenAI",
-      "summary": "Regulatory and antitrust concerns may slow the pace of AI development and adoption by major companies like Anthropic and OpenAI.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-09-15/ai-safety-push-raises-antitrust-questions-for-anthropic-openai",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI development"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "trump-china-push-back-on-calls-to-slow-ai",
-      "title": "Trump, China Push Back on Calls to Slow AI",
-      "summary": "Political figures and nations resisting calls to slow AI development may delay regulatory actions that could shape AI's workplace impact.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/trump-china-push-back-on-calls-to-slow-ai-video",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "global-ai"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3568,131 +3546,84 @@
       ]
     },
     {
-      "id": "trump-opposes-ai-guardrails-amid-chip-selloff",
-      "title": "Trump Opposes AI Guardrails Amid Chip Selloff",
-      "summary": "Trump's opposition to AI safety regulations creates regulatory uncertainty, potentially slowing the adoption of AI in the tech sector.",
-      "date": "2026-09-15",
+      "id": "softbank-cds-hits-3-year-high-as-openai-risks-stay-in-focus",
+      "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
+      "summary": "SoftBank's increased credit risk reflects concerns about OpenAI, indicating potential regulatory or financial friction affecting AI adoption.",
+      "date": "2026-09-16",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/trump-opposes-ai-guardrails-amid-chip-selloff-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
       "effect": "delay",
       "impactScore": 3,
+      "tags": [
+        "regulation",
+        "enterprise-adoption",
+        "financial-impact"
+      ],
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+      "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
+      "summary": "South Korea's deputy prime minister emphasizes the need to accelerate AI development, signaling strong national commitment to AI adoption and progress.",
+      "date": "2026-09-16",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
         "policy",
-        "regulation",
-        "AI adoption"
+        "national-strategy",
+        "AI-adoption"
       ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "ai-trade-is-in-digestion-phase-jpmorgan-s-sundar-says",
-      "title": "AI Trade Is in 'Digestion' Phase, JPMorgan's Sundar Says",
-      "summary": "JPMorgan's positive outlook on AI suggests continued investment and integration of AI in financial services and related industries.",
-      "date": "2026-09-15",
+      "id": "trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+      "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
+      "summary": "Concerns over China's AI advancement highlight geopolitical tensions that may slow or shape AI development and adoption in the US.",
+      "date": "2026-09-16",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-15/ai-trade-is-in-digestion-phase-jpmorgan-s-sundar-says-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "financial services",
-        "enterprise AI"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
-      "title": "AI Chip Darling Biren Said to Mull $1 Billion Share Sale",
-      "summary": "A potential $1 billion share sale by Biren signals increased investment in AI infrastructure, which could accelerate AI adoption across industries.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/chinese-ai-chip-darling-biren-said-to-mull-1-billion-share-sale",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "investment",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
-      "title": "AI Slowdown Calls Won’t Halt Fundraising, AllianceBernstein Says",
-      "summary": "Calls for slowing AI development do not deter major tech companies from continuing to invest and spend capital, indicating ongoing AI adoption pressure.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/ai-slowdown-calls-won-t-halt-fundraising-alliancebernstein-says",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "funding",
-        "adoption",
-        "regulation"
-      ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
-      "title": "Google DeepMind Staffer Says AI May ‘Kill Us All’ in Exit Post",
-      "summary": "A Google DeepMind researcher's warning about AI risks highlights growing concerns about the technology's potential dangers, which could influence regulatory and ethical constraints on AI development and adoption.",
-      "date": "2026-09-15",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI ethics",
-        "regulation",
-        "risk perception"
+        "geopolitics",
+        "AI regulation",
+        "global competition"
       ],
-      "fetchedAt": "2026-09-15T11:00:45.390Z",
+      "fetchedAt": "2026-09-16T11:00:46.621Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "life-physical-and-social-science",
+        "management",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-15T12:00:00.000Z",
+  "generatedAt": "2026-09-16T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Job Replacement Pressure Stabilizes Slightly",
-      "preview": "Positive AI developments contrast with regulatory delays.",
-      "body": "Recent signals show a mix of AI advancement and regulatory pushback, with key headlines like 'AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work' indicating growing adoption. However, concerns over safety and antitrust issues, as highlighted in 'AI Safety Push Raises Antitrust Questions for Anthropic, OpenAI,' may slow broader implementation. Overall, the balance remains cautiously optimistic."
+      "title": "AI Advancements and Regulatory Concerns Shape Job Dynamics",
+      "preview": "New AI tools boost efficiency, but regulatory delays persist.",
+      "body": "Positive developments in AI infrastructure and automation continue to drive productivity, with NVIDIA and Meta highlighting advancements. However, regulatory concerns, including AI safety evaluations and geopolitical tensions, introduce delays. The overall balance remains mixed, with strong momentum in innovation but growing caution in adoption."
     }
   }
 }

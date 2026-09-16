@@ -1,5 +1,175 @@
 [
   {
+    "id": "how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+    "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+    "summary": "NVIDIA's NVLink 6 improves resiliency and performance for large-scale AI operations, enhancing productivity and efficiency in AI training and inference.",
+    "date": "2026-09-15",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "productivity",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-9-768x432.jpg"
+  },
+  {
+    "id": "meta-s-new-one-subscriptions-put-a-price-on-social-media-and-ai",
+    "title": "Meta’s new One subscriptions put a price on social media and AI",
+    "summary": "Meta's new subscription model for AI features signals increased integration of AI into consumer and business workflows, potentially influencing productivity and skill demands in tech and digital services.",
+    "date": "2026-09-15",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "subscription models",
+      "workplace tools"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "zuckerberg-backs-independent-evaluators-for-ai-safety-over-slowing-development",
+    "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
+    "summary": "Zuckerberg's support for independent AI safety evaluators suggests increased regulatory scrutiny, which may slow AI development and adoption in the workplace.",
+    "date": "2026-09-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-cds-hits-3-year-high-as-openai-risks-stay-in-focus",
+    "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
+    "summary": "SoftBank's increased credit risk reflects concerns about OpenAI, indicating potential regulatory or financial friction affecting AI adoption.",
+    "date": "2026-09-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "enterprise-adoption",
+      "financial-impact"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+    "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
+    "summary": "South Korea's deputy prime minister emphasizes the need to accelerate AI development, signaling strong national commitment to AI adoption and progress.",
+    "date": "2026-09-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "national-strategy",
+      "AI-adoption"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+    "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
+    "summary": "Concerns over China's AI advancement highlight geopolitical tensions that may slow or shape AI development and adoption in the US.",
+    "date": "2026-09-16",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "geopolitics",
+      "AI regulation",
+      "global competition"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "summary": "AI agents are now being used to automate setup and maintenance tasks for WhatsApp Business, increasing efficiency and reducing manual work.",
+    "date": "2026-09-15",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workflow automation",
+      "enterprise tools"
+    ],
+    "fetchedAt": "2026-09-16T11:00:46.621Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
     "id": "ai-firm-seeks-to-raise-100-million-to-cut-bankers-grunt-work",
     "title": "AI Firm Seeks to Raise $100 Million to Cut Bankers’ Grunt Work",
     "summary": "AI startup Model ML raising over $100 million indicates growing adoption of AI in financial services, reducing manual work for bankers.",
@@ -15610,173 +15780,5 @@
     "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
     "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3b7f6933-fbbc-4e6e-a0de-b46d00ff8723/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
     "duration": "66 min"
-  },
-  {
-    "id": "anthropic-got-hit-by-export-rules-nobody-understands",
-    "title": "Anthropic got hit by export rules nobody understands",
-    "summary": "Export controls are restricting access to AI models, creating friction in AI adoption and affecting global collaboration.",
-    "date": "2026-06-17",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "AI adoption",
-      "policy"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "anthropic-ban-forces-investor-rethink-of-political-risk",
-    "title": "Anthropic Ban Forces Investor Rethink of Political Risk",
-    "summary": "Political risks are introducing new challenges for AI investment, potentially slowing the pace of AI adoption and development.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-ban-forces-investors-to-reckon-with-political-risk",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "policy",
-      "investment",
-      "regulation"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "swiss-ai-startup-prem-is-raising-100-million-series-a-round",
-    "title": "Swiss AI Startup Prem Is Raising $100 Million Series A Round",
-    "summary": "A major funding round for a Swiss AI startup indicates growing investment in enterprise AI infrastructure, signaling increased adoption of AI tools in professional sectors like finance and law.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/swiss-ai-startup-prem-is-raising-100-million-series-a-round",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-ai",
-      "funding",
-      "infrastructure"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "legal",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "ai-company-dream-triples-value-to-3-billion-in-funding-round",
-    "title": "AI Company Dream Triples Value to $3 Billion in Funding Round",
-    "summary": "A significant funding round for an AI cybersecurity company signals growing investment in AI-driven security solutions, indicating increased adoption and importance of AI in critical infrastructure and government sectors.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/ai-company-dream-triples-value-to-3-billion-in-funding-round",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI funding",
-      "cybersecurity",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "plurimi-cio-sees-value-in-ai-supply-chain",
-    "title": "Plurimi CIO Sees Value in AI Supply Chain",
-    "summary": "A CIO's investment strategy highlights growing interest in AI infrastructure companies, signaling increased adoption and demand for AI-related technologies.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-18/plurimi-cio-sees-value-in-ai-supply-chain-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI investment",
-      "supply chain",
-      "enterprise adoption"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-for-industry-is-europe-s-hope-to-salvage-manufacturing-edge",
-    "title": "AI for Industry Is Europe’s Hope to Salvage Manufacturing Edge",
-    "summary": "Europe is accelerating AI adoption in manufacturing to improve efficiency and maintain competitive advantage.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/features/2026-06-18/ai-for-industries-europe-s-mistral-siemens-schneider-lead-tech-vanguard",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "manufacturing",
-      "workplace efficiency"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "production",
-      "architecture-and-engineering",
-      "_all"
-    ]
-  },
-  {
-    "id": "star-google-researcher-joins-openai-in-coup-for-chatgpt-creator",
-    "title": "Star Google Researcher Joins OpenAI in Coup for ChatGPT Creator",
-    "summary": "A top Google researcher joining OpenAI signals increased competition and talent movement in AI development, accelerating the race for advanced AI capabilities.",
-    "date": "2026-06-18",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/star-google-researcher-jumps-to-openai-in-coup-for-startup",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "talent migration",
-      "AI competition",
-      "researcher movement"
-    ],
-    "fetchedAt": "2026-06-18T11:00:52.405Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "_all"
-    ]
   }
 ]

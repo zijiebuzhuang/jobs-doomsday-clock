@@ -1,5 +1,217 @@
 [
   {
+    "date": "2026-09-16",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.149,
+    "macroReplacementRate": 50.08,
+    "newsAdjustment": -14.149,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
+        "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+        "summary": "NVIDIA's NVLink 6 improves resiliency and performance for large-scale AI operations, enhancing productivity and efficiency in AI training and inference.",
+        "date": "2026-09-15",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "productivity",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-9-768x432.jpg"
+      },
+      {
+        "id": "meta-s-new-one-subscriptions-put-a-price-on-social-media-and-ai",
+        "title": "Meta’s new One subscriptions put a price on social media and AI",
+        "summary": "Meta's new subscription model for AI features signals increased integration of AI into consumer and business workflows, potentially influencing productivity and skill demands in tech and digital services.",
+        "date": "2026-09-15",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "subscription models",
+          "workplace tools"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "summary": "AI agents are now being used to automate setup and maintenance tasks for WhatsApp Business, increasing efficiency and reducing manual work.",
+        "date": "2026-09-15",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workflow automation",
+          "enterprise tools"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "zuckerberg-backs-independent-evaluators-for-ai-safety-over-slowing-development",
+        "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
+        "summary": "Zuckerberg's support for independent AI safety evaluators suggests increased regulatory scrutiny, which may slow AI development and adoption in the workplace.",
+        "date": "2026-09-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "softbank-cds-hits-3-year-high-as-openai-risks-stay-in-focus",
+        "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
+        "summary": "SoftBank's increased credit risk reflects concerns about OpenAI, indicating potential regulatory or financial friction affecting AI adoption.",
+        "date": "2026-09-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "enterprise-adoption",
+          "financial-impact"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+        "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
+        "summary": "South Korea's deputy prime minister emphasizes the need to accelerate AI development, signaling strong national commitment to AI adoption and progress.",
+        "date": "2026-09-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "national-strategy",
+          "AI-adoption"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+        "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
+        "summary": "Concerns over China's AI advancement highlight geopolitical tensions that may slow or shape AI development and adoption in the US.",
+        "date": "2026-09-16",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "geopolitics",
+          "AI regulation",
+          "global competition"
+        ],
+        "fetchedAt": "2026-09-16T11:00:46.621Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories.",
+        "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Trump Has Few Good Options to Slow China’s Rise as AI Superpower\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.149 minutes. Updated 2026-09-16T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-15",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -1.055,
@@ -19731,246 +19943,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by HSBC Expects Over $100 Million Gains From Using Google AI Tools.",
         "body": "This update leans forward, with 9 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"HSBC Expects Over $100 Million Gains From Using Google AI Tools\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -11.222 minutes. Updated 2026-06-17T12:00:00.000Z, with the macro replacement estimate at 49.9%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-16",
-    "minutesToMidnight": 2,
-    "exactMinutesToMidnight": 2.326,
-    "macroReplacementRate": 49.839,
-    "newsAdjustment": -10.674,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-        "summary": "Salesforce's acquisition of Fin signals increased AI adoption in enterprise customer service and automation, pushing AI capabilities into mainstream business workflows.",
-        "date": "2026-06-15",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-ai",
-          "customer-service-automation",
-          "ai-acquisition"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "office-and-administrative-support"
-        ]
-      },
-      {
-        "id": "plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
-        "title": "Plaud Plans New Wearable as AI Note-Taking Startup Eyes $500 Million in Sales",
-        "summary": "A startup developing AI note-taking wearables plans a new product and expects significant sales, signaling growing adoption of AI in productivity tools.",
-        "date": "2026-06-16",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "wearable tech",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "the-us-government-s-anthropic-models-ban-was-never-about-an-ai-jailbreak",
-        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-        "summary": "U.S. government intervention in AI development highlights regulatory challenges that may slow AI adoption in the workforce.",
-        "date": "2026-06-15",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-upskilling-at-scale-bank-of-america-s-bernard-hampton",
-        "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
-        "summary": "Bank of America is proactively upskilling its global workforce for AI, emphasizing both technical and soft skills to prepare for an AI-driven future.",
-        "date": "2026-06-16",
-        "source": "Apple Podcasts - Me, Myself, and AI",
-        "sourceUrl": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce development",
-          "training"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://megaphone.imgix.net/podcasts/67c493da-3759-11f1-8c32-27e5cd85595a/image/4f78eb458bc7a5069d265894354db2e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO4303104044.mp3?updated=1776100609",
-        "duration": "30 min"
-      },
-      {
-        "id": "spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
-        "title": "SpaceX Cements $60 Billion Deal to Take Over AI Startup Cursor",
-        "summary": "SpaceX's $60 billion acquisition of AI coding startup Cursor signals a major push toward integrating advanced AI tools into software development and engineering workflows.",
-        "date": "2026-06-16",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "enterprise AI",
-          "coding tools",
-          "startup acquisition"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "management"
-        ]
-      },
-      {
-        "id": "anthropic-holds-talks-with-us-in-bid-to-lift-curbs-on-ai-models",
-        "title": "Anthropic Holds Talks With US in Bid to Lift Curbs on AI Models",
-        "summary": "Regulatory pressure from the US government may slow the adoption of advanced AI models, affecting how companies deploy AI in the workplace.",
-        "date": "2026-06-15",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-set-to-meet-trump-officials-over-ai-security-concerns",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "AI models",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
-        "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
-        "summary": "A U.S. administration crackdown on AI development raises concerns about global competition and regulatory pressures on AI adoption.",
-        "date": "2026-06-16",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-16/trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "policy",
-          "regulation",
-          "global-competition"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "all-the-news-about-anthropic-s-new-ai-fight-with-the-white-house",
-        "title": "All the news about Anthropic’s new AI fight with the White House",
-        "summary": "Government restrictions on foreign access to new AI models highlight regulatory challenges that could slow AI adoption and impact global collaboration in tech sectors.",
-        "date": "2026-06-15",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "enterprise-adoption",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-16T11:00:55.559Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Salesforce acquires AI customer service platform Fin for $3.6B.",
-        "body": "This update is split between 4 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Salesforce acquires AI customer service platform Fin for $3.6B\" (TechCrunch - AI), while the clearest drag comes from \"The US government’s Anthropic models ban was never about an AI jailbreak\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -10.674 minutes. Updated 2026-06-16T12:00:00.000Z, with the macro replacement estimate at 49.8%."
       }
     }
   }
