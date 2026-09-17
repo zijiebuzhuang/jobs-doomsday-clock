@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:09",
+  "displayTime": "00:01:17",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.149,
+  "exactMinutesToMidnight": -1.276,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.149,
+  "newsAdjustment": -14.276,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.08,
+  "macroReplacementRate": 50.088,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,70 +3448,116 @@
   ],
   "newsFeed": [
     {
-      "id": "how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories",
-      "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
-      "summary": "NVIDIA's NVLink 6 improves resiliency and performance for large-scale AI operations, enhancing productivity and efficiency in AI training and inference.",
-      "date": "2026-09-15",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+      "id": "india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
+      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
+      "summary": "India's outsourcing industry is moving into higher-value, harder-to-automate services, indicating AI is not displacing jobs but shifting work toward more complex roles.",
+      "date": "2026-09-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "productivity",
-        "enterprise adoption"
+        "outsourcing",
+        "AI adoption",
+        "workforce transformation"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "king-charles-calls-on-nvidia-openai-chiefs-to-control-ai",
+      "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+      "summary": "King Charles' call for AI leaders to ensure control highlights growing regulatory and ethical concerns around AI, potentially slowing adoption and shaping its integration into the workforce.",
+      "date": "2026-09-17",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI governance"
+      ],
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "our-framework-for-reporting-model-misalignment",
+      "title": "Our framework for reporting model misalignment",
+      "summary": "OpenAI's framework for reporting model misalignment highlights efforts to manage AI risks, which may slow adoption due to increased scrutiny and accountability requirements.",
+      "date": "2026-09-16",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "model development"
+      ],
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "production",
         "_all"
       ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image3-9-768x432.jpg"
+      "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "meta-s-new-one-subscriptions-put-a-price-on-social-media-and-ai",
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "summary": "Meta's new subscription model for AI features signals increased integration of AI into consumer and business workflows, potentially influencing productivity and skill demands in tech and digital services.",
-      "date": "2026-09-15",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "effect": "advance",
-      "impactScore": 3,
+      "id": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-indepen",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Efforts to embed independent safety evaluators in AI labs highlight growing concerns about AI oversight and regulation, which could slow adoption and shape workforce requirements.",
+      "date": "2026-09-16",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "effect": "delay",
+      "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "subscription models",
-        "workplace tools"
+        "regulation",
+        "safety",
+        "workplace-impact"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "AI agents are now being used to automate setup and maintenance tasks for WhatsApp Business, increasing efficiency and reducing manual work.",
-      "date": "2026-09-15",
+      "id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic's integration of Claude chat and Cowork into one interface improves AI tool adoption for productivity and collaboration in work environments.",
+      "date": "2026-09-16",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workflow automation",
-        "enterprise tools"
+        "AI tools",
+        "productivity",
+        "workflow change"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3522,108 +3568,62 @@
       ]
     },
     {
-      "id": "zuckerberg-backs-independent-evaluators-for-ai-safety-over-slowing-development",
-      "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
-      "summary": "Zuckerberg's support for independent AI safety evaluators suggests increased regulatory scrutiny, which may slow AI development and adoption in the workplace.",
+      "id": "snap-is-launching-a-new-specs-ai-tool-and-it-s-coming-to-ios-and-mac",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap's new AI tool, Specs Intelligence, introduces an anticipatory AI assistant that could change how users manage work tasks and personal information, signaling growing AI adoption in productivity tools.",
       "date": "2026-09-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
-      "effect": "delay",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "safety",
-        "policy"
+        "AI assistants",
+        "productivity tools",
+        "workplace adoption"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
-      ]
-    },
-    {
-      "id": "softbank-cds-hits-3-year-high-as-openai-risks-stay-in-focus",
-      "title": "SoftBank CDS Hits 3-Year High as OpenAI Risks Stay in Focus",
-      "summary": "SoftBank's increased credit risk reflects concerns about OpenAI, indicating potential regulatory or financial friction affecting AI adoption.",
-      "date": "2026-09-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/softbank-cds-hovers-near-3-year-high-on-openai-funding-concerns",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "enterprise-adoption",
-        "financial-impact"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
-      "title": "South Korea Can’t Afford to Slow AI Progress, Deputy PM Says",
-      "summary": "South Korea's deputy prime minister emphasizes the need to accelerate AI development, signaling strong national commitment to AI adoption and progress.",
+      "id": "google-will-now-let-any-ai-agent-run-your-smart-home",
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google's expansion of AI agent integration into smart homes signals growing adoption of AI in consumer and enterprise workflows, increasing pressure for AI literacy and integration skills.",
       "date": "2026-09-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/south-korea-can-t-afford-to-slow-ai-progress-deputy-pm-says",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "policy",
-        "national-strategy",
-        "AI-adoption"
+        "AI adoption",
+        "smart home",
+        "workplace integration"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
-    },
-    {
-      "id": "trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
-      "title": "Trump Has Few Good Options to Slow China’s Rise as AI Superpower",
-      "summary": "Concerns over China's AI advancement highlight geopolitical tensions that may slow or shape AI development and adoption in the US.",
-      "date": "2026-09-16",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-16/trump-has-few-good-options-to-slow-china-s-rise-as-ai-superpower",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "geopolitics",
-        "AI regulation",
-        "global competition"
       ],
-      "fetchedAt": "2026-09-16T11:00:46.621Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-16T12:00:00.000Z",
+  "generatedAt": "2026-09-17T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advancements and Regulatory Concerns Shape Job Dynamics",
-      "preview": "New AI tools boost efficiency, but regulatory delays persist.",
-      "body": "Positive developments in AI infrastructure and automation continue to drive productivity, with NVIDIA and Meta highlighting advancements. However, regulatory concerns, including AI safety evaluations and geopolitical tensions, introduce delays. The overall balance remains mixed, with strong momentum in innovation but growing caution in adoption."
+      "title": "India shifts AI jobs, regulatory calls slow adoption",
+      "preview": "Regulatory concerns and strategic shifts shape AI job dynamics.",
+      "body": "Recent news shows India's outsourcing sector moving toward higher-value roles, suggesting AI is reshaping rather than replacing jobs. Meanwhile, regulatory calls from King Charles and OpenAI's risk frameworks indicate growing oversight, potentially slowing AI integration. Advances in AI tools like Google's smart home agents and Snap's Specs Intelligence highlight continued adoption in productivity and consumer spaces."
     }
   }
 }
