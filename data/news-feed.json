@@ -1,5 +1,196 @@
 [
   {
+    "id": "the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech",
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "summary": "Concerns about AI-enabled bioweapons highlight the need for regulatory and safety measures in biotech, potentially slowing AI adoption in the field.",
+    "date": "2026-09-18",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI ethics",
+      "regulation",
+      "biotechnology"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
+    "id": "ai-boom-risks-a-corporate-extinction-event-paul",
+    "title": "AI Boom Risks a ‘Corporate Extinction Event’: Paul",
+    "summary": "Companies that fail to adopt AI risk being outcompeted, signaling increased pressure to integrate AI for productivity and survival.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/ai-boom-risks-a-corporate-extinction-event-paul-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace disruption",
+      "productivity"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "computer-and-information-technology"
+    ]
+  },
+  {
+    "id": "global-agency-on-ai-would-be-useful-ireland-s-harris-says",
+    "title": "Global Agency on AI Would Be Useful, Ireland’s Harris Says",
+    "summary": "A call for a global AI agency suggests increased regulatory focus, which could slow or shape the adoption of AI in the workplace.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/global-agency-on-ai-would-be-useful-ireland-s-harris-says",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "global-ai-governance"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "traders-wary-of-rising-ai-risks-market-snapshot",
+    "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
+    "summary": "Concerns over AI risks and calls for self-regulation may slow the pace of AI adoption in the workplace.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/traders-wary-of-rising-ai-risks-market-snapshot-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "AI development",
+      "workplace impact"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-adds-21-billion-to-ai-firepower-in-new-debt-deals",
+    "title": "SoftBank Adds $21 Billion to AI Firepower in New Debt Deals",
+    "summary": "SoftBank's significant debt deals signal increased investment in AI, indicating growing financial commitment to AI development and potential workplace transformation.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "enterprise adoption",
+      "AI infrastructure"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
+    "title": "Traders Eye Xi-Trump Meet for Clues on AI Rivalry, Yuan Outlook",
+    "summary": "The US-China summit highlights geopolitical tensions around AI and economic policies, which may slow or shape the adoption of AI technologies globally.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "geopolitics",
+      "AI regulation",
+      "economic policy"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
+    "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
+    "summary": "SoftBank's increased credit line signals growing financial commitment to AI, likely accelerating AI investment and adoption across industries.",
+    "date": "2026-09-18",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "funding",
+      "enterprise-adoption",
+      "AI-investment"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-deepmind-launches-institute-to-widen-the-agi-debate",
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "summary": "The launch of Google DeepMind's institute signals increased focus on AGI development and collaboration, potentially accelerating AI advancement and its impact on work.",
+    "date": "2026-09-17",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AGI",
+      "research",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-18T11:01:06.587Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
     "id": "our-framework-for-reporting-model-misalignment",
     "title": "Our framework for reporting model misalignment",
     "summary": "OpenAI's framework for reporting model misalignment highlights efforts to manage AI risks, which may slow adoption due to increased scrutiny and accountability requirements.",

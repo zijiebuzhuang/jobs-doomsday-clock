@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:17",
+  "displayTime": "00:01:20",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.276,
+  "exactMinutesToMidnight": -1.332,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.276,
+  "newsAdjustment": -14.332,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.088,
+  "macroReplacementRate": 50.092,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,20 +3448,115 @@
   ],
   "newsFeed": [
     {
-      "id": "india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
-      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
-      "summary": "India's outsourcing industry is moving into higher-value, harder-to-automate services, indicating AI is not displacing jobs but shifting work toward more complex roles.",
-      "date": "2026-09-17",
+      "id": "ai-boom-risks-a-corporate-extinction-event-paul",
+      "title": "AI Boom Risks a ‘Corporate Extinction Event’: Paul",
+      "summary": "Companies that fail to adopt AI risk being outcompeted, signaling increased pressure to integrate AI for productivity and survival.",
+      "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/ai-boom-risks-a-corporate-extinction-event-paul-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "outsourcing",
         "AI adoption",
-        "workforce transformation"
+        "workplace disruption",
+        "productivity"
       ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "google-deepmind-launches-institute-to-widen-the-agi-debate",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The launch of Google DeepMind's institute signals increased focus on AGI development and collaboration, potentially accelerating AI advancement and its impact on work.",
+      "date": "2026-09-17",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AGI",
+        "research",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary": "Concerns about AI-enabled bioweapons highlight the need for regulatory and safety measures in biotech, potentially slowing AI adoption in the field.",
+      "date": "2026-09-18",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI ethics",
+        "regulation",
+        "biotechnology"
+      ],
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "life-physical-and-social-science",
+        "_all"
+      ]
+    },
+    {
+      "id": "global-agency-on-ai-would-be-useful-ireland-s-harris-says",
+      "title": "Global Agency on AI Would Be Useful, Ireland’s Harris Says",
+      "summary": "A call for a global AI agency suggests increased regulatory focus, which could slow or shape the adoption of AI in the workplace.",
+      "date": "2026-09-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/global-agency-on-ai-would-be-useful-ireland-s-harris-says",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "global-ai-governance"
+      ],
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "traders-wary-of-rising-ai-risks-market-snapshot",
+      "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
+      "summary": "Concerns over AI risks and calls for self-regulation may slow the pace of AI adoption in the workplace.",
+      "date": "2026-09-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/traders-wary-of-rising-ai-risks-market-snapshot-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "AI development",
+        "workplace impact"
+      ],
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3472,158 +3567,84 @@
       ]
     },
     {
-      "id": "king-charles-calls-on-nvidia-openai-chiefs-to-control-ai",
-      "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
-      "summary": "King Charles' call for AI leaders to ensure control highlights growing regulatory and ethical concerns around AI, potentially slowing adoption and shaping its integration into the workforce.",
-      "date": "2026-09-17",
+      "id": "softbank-adds-21-billion-to-ai-firepower-in-new-debt-deals",
+      "title": "SoftBank Adds $21 Billion to AI Firepower in New Debt Deals",
+      "summary": "SoftBank's significant debt deals signal increased investment in AI, indicating growing financial commitment to AI development and potential workplace transformation.",
+      "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
-      "effect": "delay",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "AI governance"
+        "funding",
+        "enterprise adoption",
+        "AI infrastructure"
       ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "our-framework-for-reporting-model-misalignment",
-      "title": "Our framework for reporting model misalignment",
-      "summary": "OpenAI's framework for reporting model misalignment highlights efforts to manage AI risks, which may slow adoption due to increased scrutiny and accountability requirements.",
-      "date": "2026-09-16",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+      "id": "traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
+      "title": "Traders Eye Xi-Trump Meet for Clues on AI Rivalry, Yuan Outlook",
+      "summary": "The US-China summit highlights geopolitical tensions around AI and economic policies, which may slow or shape the adoption of AI technologies globally.",
+      "date": "2026-09-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
       "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "model development"
-      ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-indepen",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary": "Efforts to embed independent safety evaluators in AI labs highlight growing concerns about AI oversight and regulation, which could slow adoption and shape workforce requirements.",
-      "date": "2026-09-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "safety",
-        "workplace-impact"
-      ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic's integration of Claude chat and Cowork into one interface improves AI tool adoption for productivity and collaboration in work environments.",
-      "date": "2026-09-16",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflow change"
-      ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "snap-is-launching-a-new-specs-ai-tool-and-it-s-coming-to-ios-and-mac",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap's new AI tool, Specs Intelligence, introduces an anticipatory AI assistant that could change how users manage work tasks and personal information, signaling growing AI adoption in productivity tools.",
-      "date": "2026-09-16",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI assistants",
-        "productivity tools",
-        "workplace adoption"
+        "geopolitics",
+        "AI regulation",
+        "economic policy"
       ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "office-and-administrative-support",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "google-will-now-let-any-ai-agent-run-your-smart-home",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google's expansion of AI agent integration into smart homes signals growing adoption of AI in consumer and enterprise workflows, increasing pressure for AI literacy and integration skills.",
-      "date": "2026-09-16",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "id": "softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
+      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
+      "summary": "SoftBank's increased credit line signals growing financial commitment to AI, likely accelerating AI investment and adoption across industries.",
+      "date": "2026-09-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "smart home",
-        "workplace integration"
+        "funding",
+        "enterprise-adoption",
+        "AI-investment"
       ],
-      "fetchedAt": "2026-09-17T11:00:42.928Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-09-17T12:00:00.000Z",
+  "generatedAt": "2026-09-18T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "India shifts AI jobs, regulatory calls slow adoption",
-      "preview": "Regulatory concerns and strategic shifts shape AI job dynamics.",
-      "body": "Recent news shows India's outsourcing sector moving toward higher-value roles, suggesting AI is reshaping rather than replacing jobs. Meanwhile, regulatory calls from King Charles and OpenAI's risk frameworks indicate growing oversight, potentially slowing AI integration. Advances in AI tools like Google's smart home agents and Snap's Specs Intelligence highlight continued adoption in productivity and consumer spaces."
+      "title": "AI Adoption Faces Dual Pressures of Advancement and Regulation",
+      "preview": "Advances in AI investment clash with growing regulatory concerns.",
+      "body": "Recent signals show a mix of acceleration and caution, with major investments from SoftBank and Google DeepMind driving progress, while concerns over AI risks and bioweapons prompt calls for regulation. Key headlines like 'AI Boom Risks a ‘Corporate Extinction Event’' highlight the urgency of adoption, while others emphasize the need for global oversight."
     }
   }
 }
