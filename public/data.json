@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:20",
+  "displayTime": "00:01:18",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.332,
+  "exactMinutesToMidnight": -1.301,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.332,
+  "newsAdjustment": -14.301,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.092,
+  "macroReplacementRate": 50.09,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,91 +3448,45 @@
   ],
   "newsFeed": [
     {
-      "id": "ai-boom-risks-a-corporate-extinction-event-paul",
-      "title": "AI Boom Risks a ‘Corporate Extinction Event’: Paul",
-      "summary": "Companies that fail to adopt AI risk being outcompeted, signaling increased pressure to integrate AI for productivity and survival.",
+      "id": "what-hollywood-thinks-about-existential-ai-warnings",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "summary": "Entertainment industry groups are pushing back against AI existential warnings, highlighting current AI use in media and emphasizing labor concerns over speculative risks.",
       "date": "2026-09-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/ai-boom-risks-a-corporate-extinction-event-paul-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workplace disruption",
-        "productivity"
-      ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "management",
-        "business-and-financial",
-        "computer-and-information-technology"
-      ]
-    },
-    {
-      "id": "google-deepmind-launches-institute-to-widen-the-agi-debate",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The launch of Google DeepMind's institute signals increased focus on AGI development and collaboration, potentially accelerating AI advancement and its impact on work.",
-      "date": "2026-09-17",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "effect": "advance",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AGI",
-        "research",
-        "policy"
+        "AI regulation",
+        "labor concerns",
+        "entertainment industry"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
+        "media-and-communication",
+        "entertainment-and-sports",
         "_all"
-      ]
-    },
-    {
-      "id": "the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "Concerns about AI-enabled bioweapons highlight the need for regulatory and safety measures in biotech, potentially slowing AI adoption in the field.",
-      "date": "2026-09-18",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "biotechnology"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "life-physical-and-social-science",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "global-agency-on-ai-would-be-useful-ireland-s-harris-says",
-      "title": "Global Agency on AI Would Be Useful, Ireland’s Harris Says",
-      "summary": "A call for a global AI agency suggests increased regulatory focus, which could slow or shape the adoption of AI in the workplace.",
+      "id": "anthropic-to-embed-accenture-evaluators-to-test-ai-safety",
+      "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety",
+      "summary": "Anthropic's partnership with Accenture to test AI safety signals increased adoption of AI in enterprise workflows and highlights the growing need for specialized roles in AI safety and evaluation.",
       "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/global-agency-on-ai-would-be-useful-ireland-s-harris-says",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-to-embed-evaluators-from-accenture-to-test-ai-safety",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "policy",
-        "regulation",
-        "global-ai-governance"
+        "AI safety",
+        "enterprise adoption",
+        "consulting"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3543,44 +3497,68 @@
       ]
     },
     {
-      "id": "traders-wary-of-rising-ai-risks-market-snapshot",
-      "title": "Traders Wary Of Rising AI Risks: Market Snapshot",
-      "summary": "Concerns over AI risks and calls for self-regulation may slow the pace of AI adoption in the workplace.",
+      "id": "former-ftc-technologist-warns-against-an-ai-cartel-",
+      "title": "Former FTC Technologist Warns Against an AI ‘Cartel’",
+      "summary": "A warning against AI cartel formation highlights potential regulatory friction that could slow AI adoption and collaboration.",
       "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/traders-wary-of-rising-ai-risks-market-snapshot-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/former-ftc-technologist-warns-against-an-ai-cartel-video",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "AI development",
-        "workplace impact"
+        "antitrust",
+        "policy"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "softbank-adds-21-billion-to-ai-firepower-in-new-debt-deals",
-      "title": "SoftBank Adds $21 Billion to AI Firepower in New Debt Deals",
-      "summary": "SoftBank's significant debt deals signal increased investment in AI, indicating growing financial commitment to AI development and potential workplace transformation.",
+      "id": "google-joins-openai-anthropic-meta-in-disclosing-ai-hacks",
+      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
+      "summary": "AI security vulnerabilities raise concerns about workplace adoption and may lead to increased regulation or caution in AI deployment.",
       "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-raises-arm-margin-loan-to-25-billion-as-ai-bets-grow",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "regulation",
+        "workplace risks"
+      ],
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-investor-franklin-ai-safety-concerns-won-t-slow-spending",
+      "title": "Anthropic Investor Franklin: AI Safety Concerns Won't Slow Spending",
+      "summary": "Investor confidence in AI infrastructure spending remains strong despite safety concerns, indicating continued adoption and growth in AI capabilities.",
+      "date": "2026-09-18",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/ai-safety-concerns-won-t-slow-spending-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "funding",
-        "enterprise adoption",
-        "AI infrastructure"
+        "AI infrastructure",
+        "investment",
+        "safety concerns",
+        "adoption"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3591,60 +3569,60 @@
       ]
     },
     {
-      "id": "traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
-      "title": "Traders Eye Xi-Trump Meet for Clues on AI Rivalry, Yuan Outlook",
-      "summary": "The US-China summit highlights geopolitical tensions around AI and economic policies, which may slow or shape the adoption of AI technologies globally.",
-      "date": "2026-09-18",
+      "id": "china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+      "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
+      "summary": "Concerns over data privacy and potential sharing with US intelligence agencies may slow AI adoption in China and affect trust in AI tools.",
+      "date": "2026-09-19",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/traders-eye-xi-trump-meet-for-clues-on-ai-rivalry-yuan-outlook",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "geopolitics",
-        "AI regulation",
-        "economic policy"
+        "data privacy",
+        "regulation",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
-      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
-      "summary": "SoftBank's increased credit line signals growing financial commitment to AI, likely accelerating AI investment and adoption across industries.",
+      "id": "openai-sees-burning-through-278-billion-by-2030-ft",
+      "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
+      "summary": "OpenAI's projected massive cash flow loss highlights the high financial investment required for AI development, signaling continued pressure to advance AI capabilities in the workplace.",
       "date": "2026-09-18",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/softbank-boosts-credit-line-to-6-5-billion-as-ai-debts-mount",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "funding",
-        "enterprise-adoption",
-        "AI-investment"
+        "AI funding",
+        "AI development",
+        "financial impact"
       ],
-      "fetchedAt": "2026-09-18T11:01:06.587Z",
+      "fetchedAt": "2026-09-19T11:00:42.663Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-18T12:00:00.000Z",
+  "generatedAt": "2026-09-19T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Faces Dual Pressures of Advancement and Regulation",
-      "preview": "Advances in AI investment clash with growing regulatory concerns.",
-      "body": "Recent signals show a mix of acceleration and caution, with major investments from SoftBank and Google DeepMind driving progress, while concerns over AI risks and bioweapons prompt calls for regulation. Key headlines like 'AI Boom Risks a ‘Corporate Extinction Event’' highlight the urgency of adoption, while others emphasize the need for global oversight."
+      "title": "AI Adoption Faces Mixed Signals Amid Industry Pushback",
+      "preview": "New reports highlight both progress and regulatory concerns in AI integration.",
+      "body": "Recent news shows a mixed landscape, with some signals pushing for faster AI adoption while others raise concerns about safety, regulation, and trust. Anthropic's partnership with Accenture and investor confidence signal momentum, but warnings of AI cartels and data privacy risks suggest ongoing challenges. Overall, the balance remains cautiously optimistic."
     }
   }
 }
