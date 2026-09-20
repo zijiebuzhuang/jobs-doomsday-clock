@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:18",
+  "displayTime": "00:00:57",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.301,
+  "exactMinutesToMidnight": -0.957,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.301,
+  "newsAdjustment": -13.957,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.09,
+  "macroReplacementRate": 50.066,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,181 +3448,253 @@
   ],
   "newsFeed": [
     {
-      "id": "what-hollywood-thinks-about-existential-ai-warnings",
-      "title": "What Hollywood thinks about existential AI warnings",
-      "summary": "Entertainment industry groups are pushing back against AI existential warnings, highlighting current AI use in media and emphasizing labor concerns over speculative risks.",
-      "date": "2026-09-18",
+      "id": "trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+      "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+      "summary": "Trump's decision to name an AI czar signals increased focus on AI development, potentially accelerating its adoption in the workforce.",
+      "date": "2026-09-19",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "adoption"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "does-ai-need-an-antitrust-exemption-so-it-doesn-t-kill-everyone-",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "summary": "Discussion of antitrust exemptions for AI raises concerns about regulatory constraints on AI adoption and its potential impact on business and labor dynamics.",
+      "date": "2026-09-19",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "labor concerns",
-        "entertainment industry"
+        "regulation",
+        "policy",
+        "antitrust"
       ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "media-and-communication",
-        "entertainment-and-sports",
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "anthropic-to-embed-accenture-evaluators-to-test-ai-safety",
-      "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety",
-      "summary": "Anthropic's partnership with Accenture to test AI safety signals increased adoption of AI in enterprise workflows and highlights the growing need for specialized roles in AI safety and evaluation.",
-      "date": "2026-09-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-to-embed-evaluators-from-accenture-to-test-ai-safety",
+      "id": "what-chatgpt-thinks-it-knows-about-you-is-affecting-its-answers-here-s-how-to-ch",
+      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "summary": "Improvements in ChatGPT's memory capabilities enhance productivity tools, potentially affecting workflows and skill requirements across multiple industries.",
+      "date": "2026-09-20",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI safety",
-        "enterprise adoption",
-        "consulting"
+        "AI tools",
+        "productivity",
+        "workflows"
       ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "former-ftc-technologist-warns-against-an-ai-cartel-",
-      "title": "Former FTC Technologist Warns Against an AI ‘Cartel’",
-      "summary": "A warning against AI cartel formation highlights potential regulatory friction that could slow AI adoption and collaboration.",
-      "date": "2026-09-18",
+      "id": "australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+      "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
+      "summary": "Calls for international cooperation in AI development may lead to regulatory constraints or slower adoption of AI technologies.",
+      "date": "2026-09-20",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/former-ftc-technologist-warns-against-an-ai-cartel-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "international-cooperation"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "_all"
+      ]
+    },
+    {
+      "id": "the-ai-regulation-smackdown-isn-t-over",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "AI regulation efforts and discussions among leading AI figures may slow down the pace of AI development and adoption in the workplace.",
+      "date": "2026-09-19",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "antitrust",
-        "policy"
+        "policy",
+        "AI development"
       ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-s-first-embedded-evaluator-is-accenture-",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture's engagement with Anthropic's embedded evaluator signals growing adoption of AI in high-stakes consulting, indicating increased pressure on professional services workflows.",
+      "date": "2026-09-18",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "consulting",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "computer-and-information-technology"
+      ]
+    },
+    {
+      "id": "gemini-went-rogue-hacked-three-companies-and-google-hid-it",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "A security incident involving Google's Gemini AI highlights risks in AI development and potential regulatory or operational delays in AI adoption.",
+      "date": "2026-09-19",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "cybersecurity"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "automattic-s-33-hour-coup-and-can-ai-labs-police-themselves-",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "AI labs are considering self-regulation and coordination, which could shape the pace of AI adoption and influence workplace dynamics.",
+      "date": "2026-09-18",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI development"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
         "_all"
       ]
     },
     {
-      "id": "google-joins-openai-anthropic-meta-in-disclosing-ai-hacks",
-      "title": "Google Joins OpenAI, Anthropic, Meta in Disclosing AI Hacks",
-      "summary": "AI security vulnerabilities raise concerns about workplace adoption and may lead to increased regulation or caution in AI deployment.",
+      "id": "openai-and-microsoft-knew-they-were-starting-a-doom-loop-for-the-web",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Legal and regulatory scrutiny of AI data practices may slow the adoption of AI technologies and shape how companies develop and use AI models.",
       "date": "2026-09-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "legal",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "security-researchers-used-claude-to-help-them-hack-into-openai",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "Security researchers used AI to breach OpenAI, highlighting vulnerabilities in AI system security and potential regulatory or operational delays.",
+      "date": "2026-09-18",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI security",
-        "regulation",
-        "workplace risks"
+        "ethical hacking",
+        "regulation"
       ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-investor-franklin-ai-safety-concerns-won-t-slow-spending",
-      "title": "Anthropic Investor Franklin: AI Safety Concerns Won't Slow Spending",
-      "summary": "Investor confidence in AI infrastructure spending remains strong despite safety concerns, indicating continued adoption and growth in AI capabilities.",
-      "date": "2026-09-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/ai-safety-concerns-won-t-slow-spending-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI infrastructure",
-        "investment",
-        "safety concerns",
-        "adoption"
-      ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
-      "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
-      "summary": "Concerns over data privacy and potential sharing with US intelligence agencies may slow AI adoption in China and affect trust in AI tools.",
-      "date": "2026-09-19",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "data privacy",
-        "regulation",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ]
-    },
-    {
-      "id": "openai-sees-burning-through-278-billion-by-2030-ft",
-      "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
-      "summary": "OpenAI's projected massive cash flow loss highlights the high financial investment required for AI development, signaling continued pressure to advance AI capabilities in the workplace.",
-      "date": "2026-09-18",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI funding",
-        "AI development",
-        "financial impact"
       ],
-      "fetchedAt": "2026-09-19T11:00:42.663Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-19T12:00:00.000Z",
+  "generatedAt": "2026-09-20T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Faces Mixed Signals Amid Industry Pushback",
-      "preview": "New reports highlight both progress and regulatory concerns in AI integration.",
-      "body": "Recent news shows a mixed landscape, with some signals pushing for faster AI adoption while others raise concerns about safety, regulation, and trust. Anthropic's partnership with Accenture and investor confidence signal momentum, but warnings of AI cartels and data privacy risks suggest ongoing challenges. Overall, the balance remains cautiously optimistic."
+      "title": "Regulatory debates and AI advances shape job market dynamics",
+      "preview": "New policies and tech updates create mixed pressure on AI adoption.",
+      "body": "Recent developments show a balance between AI advancement and regulatory caution. Trump's appointment of an AI czar and improvements in ChatGPT suggest momentum, while discussions on antitrust exemptions and international cooperation highlight potential slowdowns. Overall, the mix indicates continued but uneven progress in AI integration."
     }
   }
 }
