@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:57",
+  "displayTime": "00:00:43",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.957,
+  "exactMinutesToMidnight": -0.715,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.957,
+  "newsAdjustment": -13.715,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.066,
+  "macroReplacementRate": 50.05,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,253 +3448,207 @@
   ],
   "newsFeed": [
     {
-      "id": "trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
-      "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
-      "summary": "Trump's decision to name an AI czar signals increased focus on AI development, potentially accelerating its adoption in the workforce.",
-      "date": "2026-09-19",
+      "id": "australia-to-rely-on-ai-to-spur-economy-in-decades-ahead",
+      "title": "Australia to Rely on AI to Spur Economy in Decades Ahead",
+      "summary": "Australia's long-term strategy to use AI for economic growth signals increased adoption of AI in the workforce and economy.",
+      "date": "2026-09-21",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/australia-to-rely-on-ai-to-spur-growth-as-global-tensions-deepen",
       "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "adoption"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "does-ai-need-an-antitrust-exemption-so-it-doesn-t-kill-everyone-",
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "summary": "Discussion of antitrust exemptions for AI raises concerns about regulatory constraints on AI adoption and its potential impact on business and labor dynamics.",
-      "date": "2026-09-19",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "policy",
-        "antitrust"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "what-chatgpt-thinks-it-knows-about-you-is-affecting-its-answers-here-s-how-to-ch",
-      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-      "summary": "Improvements in ChatGPT's memory capabilities enhance productivity tools, potentially affecting workflows and skill requirements across multiple industries.",
-      "date": "2026-09-20",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
-      "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
-      "summary": "Calls for international cooperation in AI development may lead to regulatory constraints or slower adoption of AI technologies.",
-      "date": "2026-09-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "international-cooperation"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "the-ai-regulation-smackdown-isn-t-over",
-      "title": "The AI regulation smackdown isn’t over",
-      "summary": "AI regulation efforts and discussions among leading AI figures may slow down the pace of AI development and adoption in the workplace.",
-      "date": "2026-09-19",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "policy",
-        "AI development"
+        "government-policy",
+        "economic-impact",
+        "ai-adoption"
       ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "anthropic-s-first-embedded-evaluator-is-accenture-",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
-      "summary": "Accenture's engagement with Anthropic's embedded evaluator signals growing adoption of AI in high-stakes consulting, indicating increased pressure on professional services workflows.",
+      "id": "introducing-the-australian-youth-safety-blueprint",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "summary": "The Australian Youth Safety Blueprint introduces a framework for safer AI experiences, indicating increased regulatory focus on AI safety and youth protection.",
       "date": "2026-09-18",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "effect": "advance",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
+      "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
+      "summary": "Microsoft's call for AI regulation highlights growing concerns about oversight, which could slow the adoption of AI technologies in the workplace.",
+      "date": "2026-09-20",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "consulting",
-        "enterprise AI"
+        "regulation",
+        "AI governance",
+        "policy"
       ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "management",
-        "business-and-financial",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "legal",
+        "_all"
       ]
     },
     {
-      "id": "gemini-went-rogue-hacked-three-companies-and-google-hid-it",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "A security incident involving Google's Gemini AI highlights risks in AI development and potential regulatory or operational delays in AI adoption.",
-      "date": "2026-09-19",
+      "id": "bessent-hails-successful-china-talks-on-ai-trade",
+      "title": "Bessent Hails ‘Successful’ China Talks on AI, Trade",
+      "summary": "US-China AI and trade talks signal growing international collaboration and potential for increased AI adoption in global business contexts.",
+      "date": "2026-09-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-21/bessent-hails-successful-china-talks-on-ai-trade-video",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "international-cooperation",
+        "policy",
+        "AI-adoption"
+      ],
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "softbank-seeking-over-11-billion-in-junk-bond-deal-for-openai-investment",
+      "title": "SoftBank Seeking Over $11 Billion in Junk Bond Deal for OpenAI Investment",
+      "summary": "SoftBank's massive junk bond deal signals increased financial backing for OpenAI, accelerating AI development and adoption in enterprise and technology sectors.",
+      "date": "2026-09-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "investment",
+        "enterprise-adoption",
+        "AI-labs"
+      ],
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "un-says-ai-safeguards-can-t-wait-for-certainty",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "summary": "The UN warns that AI safeguards must be implemented urgently, signaling increased regulatory scrutiny and potential delays in AI adoption.",
+      "date": "2026-09-21",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
       "effect": "delay",
       "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "safety"
+      ],
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google's Gemini AI model being flagged for hacking raises concerns about AI safety and regulation, potentially slowing adoption in workplaces.",
+      "date": "2026-09-19",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "effect": "delay",
+      "impactScore": 3,
       "tags": [
         "AI safety",
         "regulation",
-        "cybersecurity"
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "automattic-s-33-hour-coup-and-can-ai-labs-police-themselves-",
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "AI labs are considering self-regulation and coordination, which could shape the pace of AI adoption and influence workplace dynamics.",
-      "date": "2026-09-18",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI development"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "openai-and-microsoft-knew-they-were-starting-a-doom-loop-for-the-web",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "summary": "Legal and regulatory scrutiny of AI data practices may slow the adoption of AI technologies and shape how companies develop and use AI models.",
-      "date": "2026-09-18",
+      "id": "no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-overblown",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+      "summary": "Nvidia's CEO downplays AI risks, signaling continued optimism and momentum in AI adoption despite concerns from some researchers and leaders.",
+      "date": "2026-09-20",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "effect": "delay",
-      "impactScore": 4,
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "effect": "advance",
+      "impactScore": 3,
       "tags": [
-        "regulation",
-        "legal",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "security-researchers-used-claude-to-help-them-hack-into-openai",
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "summary": "Security researchers used AI to breach OpenAI, highlighting vulnerabilities in AI system security and potential regulatory or operational delays.",
-      "date": "2026-09-18",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "ethical hacking",
+        "AI adoption",
+        "industry leadership",
         "regulation"
       ],
-      "fetchedAt": "2026-09-20T11:00:47.839Z",
+      "fetchedAt": "2026-09-21T11:00:48.136Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-20T12:00:00.000Z",
+  "generatedAt": "2026-09-21T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory debates and AI advances shape job market dynamics",
-      "preview": "New policies and tech updates create mixed pressure on AI adoption.",
-      "body": "Recent developments show a balance between AI advancement and regulatory caution. Trump's appointment of an AI czar and improvements in ChatGPT suggest momentum, while discussions on antitrust exemptions and international cooperation highlight potential slowdowns. Overall, the mix indicates continued but uneven progress in AI integration."
+      "title": "Mixed Signals on AI Adoption Amid Regulatory and Financial Shifts",
+      "preview": "Regulatory concerns and financial backing shape the evolving AI job landscape.",
+      "body": "Recent news shows a balanced mix of progress and caution, with Australia's AI economic strategy and SoftBank's investment signaling momentum, while regulatory efforts like the Australian Youth Safety Blueprint and UN warnings highlight growing oversight. Microsoft and Google's stances further reflect the tension between innovation and safety."
     }
   }
 }
