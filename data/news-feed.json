@@ -1,5 +1,174 @@
 [
   {
+    "id": "expanding-openai-academy-with-new-learning-paths",
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "summary": "OpenAI Academy expanding learning paths helps build practical AI skills across multiple roles, increasing workforce readiness for AI integration.",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "education",
+      "skills-development",
+      "AI-training"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "education-training-and-library"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "building-standards-for-the-next-phase-of-ai",
+    "title": "Building standards for the next phase of AI",
+    "summary": "OpenAI's push for global AI standards could lead to more coordinated governance and regulation, potentially slowing adoption but improving safety.",
+    "date": "2026-09-21",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "safety"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device",
+    "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+    "summary": "New NVIDIA TensorRT multi-device integration improves AI model serving across GPUs, enabling more efficient and scalable AI deployment.",
+    "date": "2026-09-21",
+    "source": "NVIDIA Developer - Generative AI",
+    "sourceUrl": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "model optimization",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/grid-robot-arm-cleaning-plate-1-768x432.png"
+  },
+  {
+    "id": "australia-bets-on-ai-to-spur-economic-growth-for-decades",
+    "title": "Australia Bets on AI to Spur Economic Growth For Decades",
+    "summary": "Australia's long-term investment in AI signals growing adoption and potential for increased productivity across industries.",
+    "date": "2026-09-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-22/australia-bets-on-ai-to-spur-economic-growth-for-decades-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "economic-growth",
+      "policy",
+      "infrastructure"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "china-us-discuss-ai-investment-as-trade-talks-continue",
+    "title": "China, US Discuss AI, Investment as Trade Talks Continue",
+    "summary": "International discussions on AI and investment suggest growing global collaboration and potential for increased AI adoption in the workplace.",
+    "date": "2026-09-22",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-22/china-us-discuss-ai-investment-as-trade-talks-continue-video",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "international-collaboration",
+      "investment"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemini",
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "summary": "Google's AI-native Googlebook integrates Gemini into core desktop functions, signaling increased AI adoption in productivity tools and work workflows.",
+    "date": "2026-09-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI integration",
+      "productivity tools",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "OpenAI's formation of a math advisory group indicates growing AI capabilities in solving complex mathematical problems, signaling progress in AI's application to advanced problem-solving tasks.",
+    "date": "2026-09-21",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI research",
+      "mathematics",
+      "workforce impact"
+    ],
+    "fetchedAt": "2026-09-22T11:00:48.557Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "math",
+      "computer-and-information-technology",
+      "life-physical-and-social-science"
+    ]
+  },
+  {
     "id": "introducing-the-australian-youth-safety-blueprint",
     "title": "Introducing the Australian Youth Safety Blueprint",
     "summary": "The Australian Youth Safety Blueprint introduces a framework for safer AI experiences, indicating increased regulatory focus on AI safety and youth protection.",
@@ -15766,220 +15935,6 @@
       "computer-and-information-technology",
       "management",
       "_all"
-    ]
-  },
-  {
-    "id": "introducing-claude-tag",
-    "title": "Introducing Claude Tag",
-    "summary": "Claude Tag introduces a new collaboration tool for teams using Claude, potentially improving productivity and workflow in AI-assisted tasks.",
-    "date": "2026-06-23",
-    "source": "Anthropic",
-    "sourceUrl": "https://www.anthropic.com/news/introducing-claude-tag",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "workflow change",
-      "productivity"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ]
-  },
-  {
-    "id": "helping-build-shared-standards-for-advanced-ai",
-    "title": "Helping build shared standards for advanced AI",
-    "summary": "OpenAI's involvement in building shared AI standards through the Appia Foundation may slow or shape AI adoption through increased regulation and safety focus.",
-    "date": "2026-06-23",
-    "source": "OpenAI",
-    "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "standards",
-      "safety"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "hsbc-wealth-survey-shows-ai-losing-out-to-humans-in-key-areas",
-    "title": "HSBC Wealth Survey Shows AI Losing Out to Humans in Key Areas",
-    "summary": "AI is not yet replacing human advisers in high-net-worth wealth management, indicating ongoing human dominance in complex financial services.",
-    "date": "2026-06-24",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "human-ai-complementarity",
-      "financial-services",
-      "workplace-adoption"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "management",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "sk-hynix-seeks-29-billion-with-us-listing-to-fund-ai-boom",
-    "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
-    "summary": "SK Hynix's US listing to fund AI-related memory chip production signals growing investment in AI infrastructure and supply chain capacity.",
-    "date": "2026-06-24",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "funding"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "production",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-s-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "summary": "Anthropic's Claude Tag enhances workplace productivity by integrating AI into Slack, capturing organizational context and enterprise workflows.",
-    "date": "2026-06-23",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-ai",
-      "workflow-automation",
-      "productivity-tools"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "office-and-administrative-support"
-    ]
-  },
-  {
-    "id": "oracle-sheds-21-000-roles-over-the-past-year-amid-wave-of-ai-layoffs-from-tech-g",
-    "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants",
-    "summary": "Large-scale AI-related layoffs at Oracle signal growing pressure on tech workers due to AI adoption and cost-cutting measures.",
-    "date": "2026-06-23",
-    "source": "CNBC",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZkFBanpNc1VYRWlEZ0ZIaHNyTV9NTzNtZTF6a2FIUGRXRVJ0dTkyNW1GV09XV2tlLXFabU1MLVhnZi1WeXhnbGFhelA0RXJoQmdXcU0xWVpKUXpNdEFfSjk5NktMZFJyZkMxd0lIa09aaVE5TVZWZtIBfkFVX3lxTE91LWZXY0xSeDUzYWh3SFpvWnJqdG1PWXVTNHdLeERReU1SZ0xfZTQ1Q29EeGVSNlJQZUFCMnR2bG1GLV9lUkROR0R1VmVqaXZvOFRsLUNzcS1IS1dFM2RYX3pqdlppN1c4bHNIV281NXpvRU9ZWEc0Q3ZyVmJ3Zw?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI layoffs",
-      "workforce changes",
-      "tech industry"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "oracle-admits-artificial-intelligence-has-cost-21-000-jobs",
-    "title": "Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs",
-    "summary": "Oracle's admission that AI has cost 21,000 jobs signals growing AI adoption and its direct impact on employment across multiple sectors.",
-    "date": "2026-06-23",
-    "source": "Forbes",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2hpQ3dhVFk2Nzl1UHNSLTFHZ21tV1VwOFk4OXhHZ3hjZTE5aERaNTFfUGR1Sk1sN3FlR0s3ODFXdEx3akxTRzRETE54azU3Tmd5NFdSZ2NXaWIyRTY1MENYRFBjZ1JfUEVHQ2tFcm1aNkp5Tk9oV1V5RW9yNTZpVlFJMnJDWE15MnBXOGt5YzRtRmNKREFEZVZOMnJFSThwSGJ4RzVqWDZuS1VHZU90Z195VDZsZ3JWazMyYVRYdnJpb1E?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "job displacement",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "management",
-      "business-and-financial",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "leon-county-applies-for-federal-ai-upskill-grant-aimed-at-preparing-workers-for-",
-    "title": "Leon County applies for federal AI upskill grant aimed at preparing workers for a changing job market",
-    "summary": "Leon County is seeking federal funding to upskill workers for AI-driven changes in the job market, signaling increased focus on workforce preparation for AI adoption.",
-    "date": "2026-06-22",
-    "source": "WTXL ABC 27",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHZhaS1waDZ5ekczeE1teTVzdmFNalJZcHV4NVNKTlJSR2E5clhTTUdOeU1WY3g1bWhpZ0VjVFlSVDkwRjZKZEdKVWJIcWV5Q29TWEswY2tQQUtzOVltMmpaamFtN2puMjg1STV6dXh0cXh3S2YtRGhldnVPSFhHMWwzUHpRb3pubmhJUnRzZU1TRE9PNzV6NWF3WjJoXzFoNG9FMHROV0VyWElPNU1GeUcyVG4wdUdkZjN0dDhQNzROSjB3QWpnNEhFZ0l6OXQ5cktnbjJqZkxaeEhY?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "workforce-development",
-      "policy",
-      "AI-education"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles",
-    "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
-    "summary": "Oracle's job cuts highlight AI's growing role in reshaping corporate workforces and workflows.",
-    "date": "2026-06-22",
-    "source": "Bloomberg.com",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce transformation",
-      "corporate automation"
-    ],
-    "fetchedAt": "2026-06-24T11:00:48.375Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
     ]
   }
 ]

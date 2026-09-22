@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:43",
+  "displayTime": "00:00:59",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.715,
+  "exactMinutesToMidnight": -0.99,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.715,
+  "newsAdjustment": -13.99,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.05,
+  "macroReplacementRate": 50.069,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,207 +3448,181 @@
   ],
   "newsFeed": [
     {
-      "id": "australia-to-rely-on-ai-to-spur-economy-in-decades-ahead",
-      "title": "Australia to Rely on AI to Spur Economy in Decades Ahead",
-      "summary": "Australia's long-term strategy to use AI for economic growth signals increased adoption of AI in the workforce and economy.",
+      "id": "expanding-openai-academy-with-new-learning-paths",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "summary": "OpenAI Academy expanding learning paths helps build practical AI skills across multiple roles, increasing workforce readiness for AI integration.",
       "date": "2026-09-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/australia-to-rely-on-ai-to-spur-growth-as-global-tensions-deepen",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "government-policy",
-        "economic-impact",
-        "ai-adoption"
+        "education",
+        "skills-development",
+        "AI-training"
       ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "introducing-the-australian-youth-safety-blueprint",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "summary": "The Australian Youth Safety Blueprint introduces a framework for safer AI experiences, indicating increased regulatory focus on AI safety and youth protection.",
-      "date": "2026-09-18",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/australian-youth-safety-blueprint",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "safety",
-        "policy"
-      ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
+        "education-training-and-library"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "australia-bets-on-ai-to-spur-economic-growth-for-decades",
+      "title": "Australia Bets on AI to Spur Economic Growth For Decades",
+      "summary": "Australia's long-term investment in AI signals growing adoption and potential for increased productivity across industries.",
+      "date": "2026-09-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-22/australia-bets-on-ai-to-spur-economic-growth-for-decades-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "economic-growth",
+        "policy",
+        "infrastructure"
+      ],
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "building-standards-for-the-next-phase-of-ai",
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI's push for global AI standards could lead to more coordinated governance and regulation, potentially slowing adoption but improving safety.",
+      "date": "2026-09-21",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/building-standards-next-phase-ai",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "safety"
+      ],
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
         "_all"
       ],
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-      "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-      "summary": "Microsoft's call for AI regulation highlights growing concerns about oversight, which could slow the adoption of AI technologies in the workplace.",
-      "date": "2026-09-20",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "AI governance",
-        "policy"
-      ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "bessent-hails-successful-china-talks-on-ai-trade",
-      "title": "Bessent Hails ‘Successful’ China Talks on AI, Trade",
-      "summary": "US-China AI and trade talks signal growing international collaboration and potential for increased AI adoption in global business contexts.",
+      "id": "simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device",
+      "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton",
+      "summary": "New NVIDIA TensorRT multi-device integration improves AI model serving across GPUs, enabling more efficient and scalable AI deployment.",
       "date": "2026-09-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-21/bessent-hails-successful-china-talks-on-ai-trade-video",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "international-cooperation",
-        "policy",
-        "AI-adoption"
-      ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "softbank-seeking-over-11-billion-in-junk-bond-deal-for-openai-investment",
-      "title": "SoftBank Seeking Over $11 Billion in Junk Bond Deal for OpenAI Investment",
-      "summary": "SoftBank's massive junk bond deal signals increased financial backing for OpenAI, accelerating AI development and adoption in enterprise and technology sectors.",
-      "date": "2026-09-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-21/softbank-seeking-over-11-billion-in-junk-bond-deal-video",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "investment",
-        "enterprise-adoption",
-        "AI-labs"
+        "AI infrastructure",
+        "model optimization",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/grid-robot-arm-cleaning-plate-1-768x432.png"
     },
     {
-      "id": "un-says-ai-safeguards-can-t-wait-for-certainty",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "summary": "The UN warns that AI safeguards must be implemented urgently, signaling increased regulatory scrutiny and potential delays in AI adoption.",
+      "id": "google-s-899-googlebook-is-a-bet-that-you-ll-buy-a-new-laptop-for-gemini",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "summary": "Google's AI-native Googlebook integrates Gemini into core desktop functions, signaling increased AI adoption in productivity tools and work workflows.",
       "date": "2026-09-21",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "safety"
-      ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-s-gemini-is-the-latest-ai-model-to-hack-other-companies",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google's Gemini AI model being flagged for hacking raises concerns about AI safety and regulation, potentially slowing adoption in workplaces.",
-      "date": "2026-09-19",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "AI safety",
-        "regulation",
-        "enterprise adoption"
+        "AI integration",
+        "productivity tools",
+        "workplace adoption"
       ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-overblown",
-      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-      "summary": "Nvidia's CEO downplays AI risks, signaling continued optimism and momentum in AI adoption despite concerns from some researchers and leaders.",
-      "date": "2026-09-20",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "id": "openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary": "OpenAI's formation of a math advisory group indicates growing AI capabilities in solving complex mathematical problems, signaling progress in AI's application to advanced problem-solving tasks.",
+      "date": "2026-09-21",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI research",
+        "mathematics",
+        "workforce impact"
+      ],
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "math",
+        "computer-and-information-technology",
+        "life-physical-and-social-science"
+      ]
+    },
+    {
+      "id": "china-us-discuss-ai-investment-as-trade-talks-continue",
+      "title": "China, US Discuss AI, Investment as Trade Talks Continue",
+      "summary": "International discussions on AI and investment suggest growing global collaboration and potential for increased AI adoption in the workplace.",
+      "date": "2026-09-22",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-22/china-us-discuss-ai-investment-as-trade-talks-continue-video",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "industry leadership",
-        "regulation"
+        "policy",
+        "international-collaboration",
+        "investment"
       ],
-      "fetchedAt": "2026-09-21T11:00:48.136Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-22T11:00:48.557Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-09-21T12:00:00.000Z",
+  "generatedAt": "2026-09-22T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Mixed Signals on AI Adoption Amid Regulatory and Financial Shifts",
-      "preview": "Regulatory concerns and financial backing shape the evolving AI job landscape.",
-      "body": "Recent news shows a balanced mix of progress and caution, with Australia's AI economic strategy and SoftBank's investment signaling momentum, while regulatory efforts like the Australian Youth Safety Blueprint and UN warnings highlight growing oversight. Microsoft and Google's stances further reflect the tension between innovation and safety."
+      "title": "AI adoption advances with new standards and tools",
+      "preview": "Positive signals dominate, with few delays noted.",
+      "body": "Most recent news highlights continued AI advancement, including OpenAI's expanded learning paths and NVIDIA's improved model serving. Australia's long-term AI investment and international collaboration also signal growing adoption. However, OpenAI's push for global standards may introduce some regulatory delays."
     }
   }
 }
