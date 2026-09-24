@@ -1,5 +1,287 @@
 [
   {
+    "date": "2026-09-24",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.836,
+    "macroReplacementRate": 50.058,
+    "newsAdjustment": -13.836,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "two-years-of-openai-academy",
+        "title": "Two years of OpenAI Academy",
+        "summary": "OpenAI Academy's two-year milestone highlights increased efforts to expand AI education and skills training across communities.",
+        "date": "2026-09-23",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "education",
+          "skills-training",
+          "workforce-development"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "education-training-and-library",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "meta-debuts-dedicated-muse-charm-gadget-for-ai-assistant-users",
+        "title": "Meta Debuts Dedicated Muse Charm Gadget for AI Assistant Users",
+        "summary": "Meta's new Muse gadget signals deeper integration of AI assistants into daily workflows, increasing AI adoption in work environments.",
+        "date": "2026-09-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI devices",
+          "assistant tools",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
+        "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+        "summary": "This development highlights the growing need for robust testing in AI-powered software deployment, emphasizing the importance of real-world performance evaluation in AI workflows.",
+        "date": "2026-09-23",
+        "source": "NVIDIA Developer - Generative AI",
+        "sourceUrl": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI testing",
+          "software engineering",
+          "inference serving"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-16-768x432.png"
+      },
+      {
+        "id": "ai-is-dominating-the-conversation-at-climate-week",
+        "title": "AI is dominating the conversation at Climate Week",
+        "summary": "AI is becoming a central topic in climate discussions, signaling growing integration of AI into high-level policy and environmental planning.",
+        "date": "2026-09-24",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "climate",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "community-and-social-service"
+        ]
+      },
+      {
+        "id": "openai-agent-hacked-australian-government-website",
+        "title": "OpenAI Agent Hacked Australian Government Website",
+        "summary": "An AI model was used in a cyberattack on an Australian government website, highlighting security risks and potential regulatory responses that could slow AI adoption.",
+        "date": "2026-09-24",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "cybersecurity",
+          "regulation",
+          "AI risks"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-model-hacked-australian-government-health-website-albanese-says",
+        "title": "OpenAI Model Hacked Australian Government Health Website, Albanese Says",
+        "summary": "A cyberattack using an AI model on a government health website highlights security risks and potential regulatory constraints on AI adoption in public sectors.",
+        "date": "2026-09-23",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "cybersecurity",
+          "regulation",
+          "AI security"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "an-openai-agent-hacked-australia-s-health-service-their-government-found-out-mon",
+        "title": "An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.",
+        "summary": "A security breach involving an OpenAI agent highlights vulnerabilities in AI systems and may lead to increased regulatory scrutiny of AI adoption in critical sectors like healthcare.",
+        "date": "2026-09-24",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "security",
+          "regulation",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "healthcare",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "gemini-4-is-almost-ready-says-new-google-deepmind-chief",
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "summary": "Google's upcoming Gemini 4 model signals increased AI capability and faster adoption in enterprise and technology sectors.",
+        "date": "2026-09-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "enterprise adoption",
+          "AI development"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "meta-ditches-the-camera-on-its-newest-smart-glasses",
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "summary": "Meta's decision to remove cameras from its smart glasses reflects growing public concern over surveillance and privacy, potentially slowing AI adoption in wearable tech and related industries.",
+        "date": "2026-09-23",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "privacy",
+          "regulation",
+          "wearable-tech"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "even-americans-who-use-ai-every-day-are-worried-about-it",
+        "title": "Even Americans who use AI every day are worried about it",
+        "summary": "Public concern and demand for AI regulation persist despite daily use, suggesting potential regulatory friction that could shape AI adoption in the workplace.",
+        "date": "2026-09-23",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "public-perception",
+          "adoption"
+        ],
+        "fetchedAt": "2026-09-24T11:00:49.007Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How SWE-Serve Exposes the Gap Between Local Tests and Live Serving.",
+        "body": "This update is split between 5 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How SWE-Serve Exposes the Gap Between Local Tests and Live Serving\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"OpenAI Agent Hacked Australian Government Website\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.836 minutes. Updated 2026-09-24T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-23",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.883,
@@ -19726,194 +20008,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support.",
         "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"California launches AI job impact tracker to monitor workforce effects\" (ABC10). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.094 minutes. Updated 2026-06-26T12:00:00.000Z, with the macro replacement estimate at 49.9%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-25",
-    "minutesToMidnight": 1,
-    "exactMinutesToMidnight": 0.806,
-    "macroReplacementRate": 49.944,
-    "newsAdjustment": -12.194,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "how-agents-are-transforming-work",
-        "title": "How agents are transforming work",
-        "summary": "AI agents are advancing productivity and enabling more complex tasks across a wide range of roles.",
-        "date": "2026-06-25",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/how-agents-are-transforming-work",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI agents",
-          "productivity",
-          "workflow transformation"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
-        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "summary": "A new AI chip optimized for LLM inference could accelerate AI adoption and improve productivity in tech and related fields.",
-        "date": "2026-06-24",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI hardware",
-          "LLM optimization",
-          "enterprise AI"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "congresswoman-denies-staff-used-ai-to-write-defense-funding-amendment",
-        "title": "Congresswoman denies staff used AI to write defense funding amendment",
-        "summary": "A congresswoman denies using AI to draft legislation, highlighting human oversight and regulatory concerns in AI adoption within government work.",
-        "date": "2026-06-24",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "regulation",
-          "government-work"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "legal",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says",
-        "title": "AI Demand Roils Aumovio’s Talks to Buy Chips, CFO Says",
-        "summary": "AI demand is creating supply chain pressures for critical components like memory chips, affecting corporate procurement and potentially influencing tech-driven industries.",
-        "date": "2026-06-25",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-06-25/ai-demand-roils-aumovio-s-talks-to-buy-chips-cfo-says-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "supply-chain",
-          "enterprise-adoption",
-          "hardware"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "summary": "Custom chip development by OpenAI signals increased focus on optimizing AI inference systems, likely improving performance and efficiency in AI-driven workflows.",
-        "date": "2026-06-24",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "model optimization"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-reveals-its-first-ai-processor-jalape-o",
-        "title": "OpenAI reveals its first AI processor: Jalapeño",
-        "summary": "OpenAI's Jalapeño chip represents a major advancement in AI infrastructure, enabling faster and more efficient AI inference for enterprise and consumer applications.",
-        "date": "2026-06-24",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI hardware",
-          "enterprise adoption",
-          "model performance"
-        ],
-        "fetchedAt": "2026-06-25T11:00:52.950Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by How agents are transforming work.",
-        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How agents are transforming work\" (OpenAI), while the clearest drag comes from \"Congresswoman denies staff used AI to write defense funding amendment\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.194 minutes. Updated 2026-06-25T12:00:00.000Z, with the macro replacement estimate at 49.9%."
       }
     }
   }

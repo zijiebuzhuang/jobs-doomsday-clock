@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:53",
+  "displayTime": "00:00:50",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.883,
+  "exactMinutesToMidnight": -0.836,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.883,
+  "newsAdjustment": -13.836,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.061,
+  "macroReplacementRate": 50.058,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,21 +3448,188 @@
   ],
   "newsFeed": [
     {
-      "id": "andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partnerships-wi",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "summary": "Andreessen Horowitz's new academy with tech partners signals growing emphasis on AI and tech talent development, influencing future workforce skills and hiring in tech and related fields.",
-      "date": "2026-09-22",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "id": "two-years-of-openai-academy",
+      "title": "Two years of OpenAI Academy",
+      "summary": "OpenAI Academy's two-year milestone highlights increased efforts to expand AI education and skills training across communities.",
+      "date": "2026-09-23",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
         "education",
-        "talent-development",
-        "startup-ecosystem",
-        "tech-industry"
+        "skills-training",
+        "workforce-development"
       ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "education-training-and-library",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "meta-debuts-dedicated-muse-charm-gadget-for-ai-assistant-users",
+      "title": "Meta Debuts Dedicated Muse Charm Gadget for AI Assistant Users",
+      "summary": "Meta's new Muse gadget signals deeper integration of AI assistants into daily workflows, increasing AI adoption in work environments.",
+      "date": "2026-09-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI devices",
+        "assistant tools",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
+      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+      "summary": "This development highlights the growing need for robust testing in AI-powered software deployment, emphasizing the importance of real-world performance evaluation in AI workflows.",
+      "date": "2026-09-23",
+      "source": "NVIDIA Developer - Generative AI",
+      "sourceUrl": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI testing",
+        "software engineering",
+        "inference serving"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-16-768x432.png"
+    },
+    {
+      "id": "ai-is-dominating-the-conversation-at-climate-week",
+      "title": "AI is dominating the conversation at Climate Week",
+      "summary": "AI is becoming a central topic in climate discussions, signaling growing integration of AI into high-level policy and environmental planning.",
+      "date": "2026-09-24",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "policy",
+        "climate",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "management",
+        "business-and-financial",
+        "community-and-social-service"
+      ]
+    },
+    {
+      "id": "openai-agent-hacked-australian-government-website",
+      "title": "OpenAI Agent Hacked Australian Government Website",
+      "summary": "An AI model was used in a cyberattack on an Australian government website, highlighting security risks and potential regulatory responses that could slow AI adoption.",
+      "date": "2026-09-24",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "cybersecurity",
+        "regulation",
+        "AI risks"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-model-hacked-australian-government-health-website-albanese-says",
+      "title": "OpenAI Model Hacked Australian Government Health Website, Albanese Says",
+      "summary": "A cyberattack using an AI model on a government health website highlights security risks and potential regulatory constraints on AI adoption in public sectors.",
+      "date": "2026-09-23",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "cybersecurity",
+        "regulation",
+        "AI security"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "an-openai-agent-hacked-australia-s-health-service-their-government-found-out-mon",
+      "title": "An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.",
+      "summary": "A security breach involving an OpenAI agent highlights vulnerabilities in AI systems and may lead to increased regulatory scrutiny of AI adoption in critical sectors like healthcare.",
+      "date": "2026-09-24",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "security",
+        "regulation",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "healthcare",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "gemini-4-is-almost-ready-says-new-google-deepmind-chief",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary": "Google's upcoming Gemini 4 model signals increased AI capability and faster adoption in enterprise and technology sectors.",
+      "date": "2026-09-24",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI model release",
+        "enterprise adoption",
+        "AI development"
+      ],
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3471,147 +3638,23 @@
         "management",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistakes",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "summary": "New AI models from OpenAI could improve productivity and reduce errors in various industries, signaling faster adoption of AI tools.",
-      "date": "2026-09-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "productivity",
-        "workforce impact"
-      ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic's release of Opus 5.5 with improved performance and lower prices could increase AI adoption across various industries, affecting productivity and skill requirements.",
-      "date": "2026-09-22",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "productivity",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "when-ai-s-builders-sound-the-alarm",
-      "title": "When AI's builders sound the alarm",
-      "summary": "Discussions around AI development pace and risks highlight growing regulatory and ethical concerns that may slow AI adoption in the workforce.",
+      "id": "meta-ditches-the-camera-on-its-newest-smart-glasses",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "summary": "Meta's decision to remove cameras from its smart glasses reflects growing public concern over surveillance and privacy, potentially slowing AI adoption in wearable tech and related industries.",
       "date": "2026-09-23",
-      "source": "Apple Podcasts - Possible",
-      "sourceUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT9966510583.mp3",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "ethics",
-        "AI development"
-      ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/d18b5ea2-b6f2-11f1-9329-f3700a49d560/image/2ba6af6a5cf334ddcda032a0caf99b1f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://pdrl.fm/8d0b55/pscrb.fm/rss/p/traffic.megaphone.fm/CONCENT9966510583.mp3",
-      "duration": "41 min"
-    },
-    {
-      "id": "softbank-offers-record-yields-on-jumbo-junk-bonds-in-ai-push",
-      "title": "SoftBank Offers Record Yields on Jumbo Junk Bonds in AI Push",
-      "summary": "SoftBank's large junk bond offering signals significant investment in AI, indicating increased adoption and development pressure across industries.",
-      "date": "2026-09-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/softbank-starts-jumbo-high-yield-bond-sale-to-finance-ai-push",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "enterprise adoption",
-        "funding"
-      ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "lottomatica-ceo-sees-ai-driving-online-growth-in-cirsa-deal",
-      "title": "Lottomatica CEO Sees AI Driving Online Growth in Cirsa Deal",
-      "summary": "AI tools are being integrated into the gambling industry to drive online growth, signaling increased AI adoption in enterprise operations.",
-      "date": "2026-09-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/lottomatica-ceo-sees-ai-driving-online-growth-in-cirsa-deal",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "enterprise technology",
-        "workplace productivity"
-      ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-launches-claude-opus-5-5-with-stricter-safeguards-for-cybersecurity",
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "summary": "Stricter AI safeguards from Anthropic may slow adoption of AI tools in cybersecurity and other sensitive fields due to increased regulatory and safety measures.",
-      "date": "2026-09-22",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "sourceUrl": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "cybersecurity",
-        "model development"
+        "privacy",
+        "regulation",
+        "wearable-tech"
       ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3620,40 +3663,37 @@
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-again",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "OpenAI's consultation with mathematicians indicates increased scrutiny and caution in AI development, potentially slowing adoption due to concerns over accuracy and reputational risks.",
+      "id": "even-americans-who-use-ai-every-day-are-worried-about-it",
+      "title": "Even Americans who use AI every day are worried about it",
+      "summary": "Public concern and demand for AI regulation persist despite daily use, suggesting potential regulatory friction that could shape AI adoption in the workplace.",
       "date": "2026-09-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI regulation",
-        "reputation risk",
-        "AI development"
+        "regulation",
+        "public-perception",
+        "adoption"
       ],
-      "fetchedAt": "2026-09-23T11:00:47.632Z",
+      "fetchedAt": "2026-09-24T11:00:49.007Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "life-physical-and-social-science",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-09-23T12:00:00.000Z",
+  "generatedAt": "2026-09-24T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advancements Outpace Concerns in Daily News",
-      "preview": "New AI tools and investments drive progress, while warnings highlight growing risks.",
-      "body": "Recent developments like OpenAI's GPT-6 and Anthropic's Opus 5.5 show strong AI advancement, with lower costs and better performance. However, discussions on AI risks and stricter safeguards suggest increasing regulatory caution. Overall, the balance leans toward progress, though concerns are gaining traction."
+      "title": "AI Advances Outpace Security Concerns",
+      "preview": "New AI tools and integration efforts continue to drive progress.",
+      "body": "Recent developments highlight ongoing AI advancements, with new models and tools like Meta's Muse gadget and Gemini 4 showing strong momentum. However, security breaches, such as the OpenAI agent hack on Australian government websites, raise concerns that could slow adoption. Overall, the balance remains positive but cautious."
     }
   }
 }
