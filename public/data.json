@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:50",
+  "displayTime": "00:01:01",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.836,
+  "exactMinutesToMidnight": -1.015,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.836,
+  "newsAdjustment": -14.015,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.058,
+  "macroReplacementRate": 50.07,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,252 +3448,184 @@
   ],
   "newsFeed": [
     {
-      "id": "two-years-of-openai-academy",
-      "title": "Two years of OpenAI Academy",
-      "summary": "OpenAI Academy's two-year milestone highlights increased efforts to expand AI education and skills training across communities.",
-      "date": "2026-09-23",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/two-years-of-openai-academy",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "skills-training",
-        "workforce-development"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "education-training-and-library",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "meta-debuts-dedicated-muse-charm-gadget-for-ai-assistant-users",
-      "title": "Meta Debuts Dedicated Muse Charm Gadget for AI Assistant Users",
-      "summary": "Meta's new Muse gadget signals deeper integration of AI assistants into daily workflows, increasing AI adoption in work environments.",
-      "date": "2026-09-23",
+      "id": "meta-s-muse-agent-makes-waves-market-snapshot",
+      "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
+      "summary": "Meta's Muse AI agent gaining traction raises concerns about AI disrupting industries reliant on consumer inertia, signaling increased workplace AI pressure.",
+      "date": "2026-09-25",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI devices",
-        "assistant tools",
-        "workplace adoption"
+        "AI adoption",
+        "workforce disruption",
+        "enterprise impact"
       ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
-      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
-      "summary": "This development highlights the growing need for robust testing in AI-powered software deployment, emphasizing the importance of real-world performance evaluation in AI workflows.",
-      "date": "2026-09-23",
-      "source": "NVIDIA Developer - Generative AI",
-      "sourceUrl": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI testing",
-        "software engineering",
-        "inference serving"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-16-768x432.png"
-    },
-    {
-      "id": "ai-is-dominating-the-conversation-at-climate-week",
-      "title": "AI is dominating the conversation at Climate Week",
-      "summary": "AI is becoming a central topic in climate discussions, signaling growing integration of AI into high-level policy and environmental planning.",
-      "date": "2026-09-24",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "climate",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "management",
         "business-and-financial",
-        "community-and-social-service"
-      ]
-    },
-    {
-      "id": "openai-agent-hacked-australian-government-website",
-      "title": "OpenAI Agent Hacked Australian Government Website",
-      "summary": "An AI model was used in a cyberattack on an Australian government website, highlighting security risks and potential regulatory responses that could slow AI adoption.",
-      "date": "2026-09-24",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-24/openai-agent-hacked-australian-government-website-video",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "regulation",
-        "AI risks"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-model-hacked-australian-government-health-website-albanese-says",
-      "title": "OpenAI Model Hacked Australian Government Health Website, Albanese Says",
-      "summary": "A cyberattack using an AI model on a government health website highlights security risks and potential regulatory constraints on AI adoption in public sectors.",
-      "date": "2026-09-23",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "cybersecurity",
-        "regulation",
-        "AI security"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "an-openai-agent-hacked-australia-s-health-service-their-government-found-out-mon",
-      "title": "An OpenAI Agent Hacked Australia's Health Service. Their Government Found Out Months Later.",
-      "summary": "A security breach involving an OpenAI agent highlights vulnerabilities in AI systems and may lead to increased regulatory scrutiny of AI adoption in critical sectors like healthcare.",
-      "date": "2026-09-24",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "security",
-        "regulation",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "healthcare",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "gemini-4-is-almost-ready-says-new-google-deepmind-chief",
-      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-      "summary": "Google's upcoming Gemini 4 model signals increased AI capability and faster adoption in enterprise and technology sectors.",
+      "id": "gemini-can-now-call-businesses-for-you-so-you-don-t-have-to-wait-on-hold",
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "summary": "AI is being integrated into everyday work tasks, reducing the need for manual phone interactions and increasing productivity in customer service and administrative roles.",
       "date": "2026-09-24",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI model release",
-        "enterprise adoption",
-        "AI development"
+        "AI tools",
+        "workflows",
+        "productivity"
       ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
+        "office-and-administrative-support",
+        "computer-and-information-technology"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "meta-ditches-the-camera-on-its-newest-smart-glasses",
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "summary": "Meta's decision to remove cameras from its smart glasses reflects growing public concern over surveillance and privacy, potentially slowing AI adoption in wearable tech and related industries.",
-      "date": "2026-09-23",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "effect": "delay",
+      "id": "josh-elman-on-apple-ai-agents-why-startups-can-still-win",
+      "title": "Josh Elman on Apple, AI Agents & Why Startups Can Still Win",
+      "summary": "A former Apple AI leader discusses how startups can compete with large models, signaling continued innovation and opportunity in the AI space.",
+      "date": "2026-09-24",
+      "source": "Apple Podcasts - Newcomer Pod",
+      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Josh-Elman-on-Apple--AI-Agents--Why-Startups-Can-Still-Win-e3pbn8d",
+      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "privacy",
-        "regulation",
-        "wearable-tech"
+        "AI startups",
+        "workforce competition",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "business-and-financial",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1790283562869-4dbd1044cc52.jpg",
+      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/126261965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432605089-44100-2-6cf1fea27ca44.mp3",
+      "duration": "00:51:06"
     },
     {
-      "id": "even-americans-who-use-ai-every-day-are-worried-about-it",
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "Public concern and demand for AI regulation persist despite daily use, suggesting potential regulatory friction that could shape AI adoption in the workplace.",
-      "date": "2026-09-23",
+      "id": "google-tests-letting-gemini-call-businesses-for-you",
+      "title": "Google tests letting Gemini call businesses for you",
+      "summary": "Google's AI calling feature demonstrates AI's growing role in automating customer service and administrative tasks, signaling increased workplace adoption of AI tools.",
+      "date": "2026-09-24",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "regulation",
-        "public-perception",
-        "adoption"
+        "AI adoption",
+        "workplace automation",
+        "customer service"
       ],
-      "fetchedAt": "2026-09-24T11:00:49.007Z",
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "office-and-administrative-support",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+      "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
+      "summary": "Increased regulatory scrutiny of AI in Australia may slow adoption and require more safeguards in AI development and deployment.",
+      "date": "2026-09-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-ai-skills-vortex-is-remaking-work-and-fragmenting-pay-and-hr-isn-t-ready",
+      "title": "The AI Skills Vortex is Remaking Work and Fragmenting Pay — and HR Isn’t Ready",
+      "summary": "The article highlights how AI is reshaping job skills and pay structures, exposing a gap in HR's preparedness for AI-driven workforce changes.",
+      "date": "2026-09-24",
+      "source": "HRTech Series",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmZEZnk5WkJBXzZqSzFEZENQZ2hyMnZSaFZIdUNRNXppb1FuUlRzbWF2ZEI5ZlpfTnFrYlJPaWNWTDdRenFJVmYza1dXNGJ1Wkk4RXNMeFAwRXYxTG1rM19JcVg0Ym9oc2VvcktJc3dkWEJNbG5MZXUybU95Y2FnOGdIV1dEUUdIekE3ekRfclBJanpyVDZRLUlNOXluNkVQeXBlellGNDFYa1oxcDBLc3ZDWlR2Mm45VkQzdw?oc=5",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "workforce transformation",
+        "HR challenges"
+      ],
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+      "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+      "summary": "Proposed financial incentives for AI whistleblowers signal increased regulatory scrutiny and potential constraints on AI development and deployment.",
+      "date": "2026-09-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "safety",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-09-24T12:00:00.000Z",
+  "generatedAt": "2026-09-25T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Security Concerns",
-      "preview": "New AI tools and integration efforts continue to drive progress.",
-      "body": "Recent developments highlight ongoing AI advancements, with new models and tools like Meta's Muse gadget and Gemini 4 showing strong momentum. However, security breaches, such as the OpenAI agent hack on Australian government websites, raise concerns that could slow adoption. Overall, the balance remains positive but cautious."
+      "title": "AI Advances Outpace Regulatory Responses",
+      "preview": "New AI tools drive job pressure, while regulations lag.",
+      "body": "Recent developments in AI agents and automation, such as Meta's Muse and Google's calling features, highlight growing workplace disruption. However, regulatory efforts like Australia's AI safeguards and NYC whistleblower incentives suggest slower adoption. The overall trend remains tilted toward advancement, with mixed signals on policy alignment."
     }
   }
 }

@@ -1,5 +1,219 @@
 [
   {
+    "date": "2026-09-25",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -1.015,
+    "macroReplacementRate": 50.07,
+    "newsAdjustment": -14.015,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "meta-s-muse-agent-makes-waves-market-snapshot",
+        "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
+        "summary": "Meta's Muse AI agent gaining traction raises concerns about AI disrupting industries reliant on consumer inertia, signaling increased workplace AI pressure.",
+        "date": "2026-09-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce disruption",
+          "enterprise impact"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "gemini-can-now-call-businesses-for-you-so-you-don-t-have-to-wait-on-hold",
+        "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+        "summary": "AI is being integrated into everyday work tasks, reducing the need for manual phone interactions and increasing productivity in customer service and administrative roles.",
+        "date": "2026-09-24",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflows",
+          "productivity"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "josh-elman-on-apple-ai-agents-why-startups-can-still-win",
+        "title": "Josh Elman on Apple, AI Agents & Why Startups Can Still Win",
+        "summary": "A former Apple AI leader discusses how startups can compete with large models, signaling continued innovation and opportunity in the AI space.",
+        "date": "2026-09-24",
+        "source": "Apple Podcasts - Newcomer Pod",
+        "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Josh-Elman-on-Apple--AI-Agents--Why-Startups-Can-Still-Win-e3pbn8d",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI startups",
+          "workforce competition",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ],
+        "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1790283562869-4dbd1044cc52.jpg",
+        "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/126261965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432605089-44100-2-6cf1fea27ca44.mp3",
+        "duration": "00:51:06"
+      },
+      {
+        "id": "google-tests-letting-gemini-call-businesses-for-you",
+        "title": "Google tests letting Gemini call businesses for you",
+        "summary": "Google's AI calling feature demonstrates AI's growing role in automating customer service and administrative tasks, signaling increased workplace adoption of AI tools.",
+        "date": "2026-09-24",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace automation",
+          "customer service"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "office-and-administrative-support",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+        "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
+        "summary": "Increased regulatory scrutiny of AI in Australia may slow adoption and require more safeguards in AI development and deployment.",
+        "date": "2026-09-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-ai-skills-vortex-is-remaking-work-and-fragmenting-pay-and-hr-isn-t-ready",
+        "title": "The AI Skills Vortex is Remaking Work and Fragmenting Pay — and HR Isn’t Ready",
+        "summary": "The article highlights how AI is reshaping job skills and pay structures, exposing a gap in HR's preparedness for AI-driven workforce changes.",
+        "date": "2026-09-24",
+        "source": "HRTech Series",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmZEZnk5WkJBXzZqSzFEZENQZ2hyMnZSaFZIdUNRNXppb1FuUlRzbWF2ZEI5ZlpfTnFrYlJPaWNWTDdRenFJVmYza1dXNGJ1Wkk4RXNMeFAwRXYxTG1rM19JcVg0Ym9oc2VvcktJc3dkWEJNbG5MZXUybU95Y2FnOGdIV1dEUUdIekE3ekRfclBJanpyVDZRLUlNOXluNkVQeXBlellGNDFYa1oxcDBLc3ZDWlR2Mm45VkQzdw?oc=5",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce transformation",
+          "HR challenges"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+        "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+        "summary": "Proposed financial incentives for AI whistleblowers signal increased regulatory scrutiny and potential constraints on AI development and deployment.",
+        "date": "2026-09-25",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "safety",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-25T11:00:52.442Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Meta's Muse Agent Makes Waves: Market Snapshot.",
+        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Meta's Muse Agent Makes Waves: Market Snapshot\" (Bloomberg Technology), while the clearest drag comes from \"Australia Demands More AI Safeguards After Revealing OpenAI Hack\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.015 minutes. Updated 2026-09-25T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-09-24",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.836,
@@ -19802,212 +20016,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic Moves Toward Deal With US to Lift Curbs on AI Models.",
         "body": "This update is split between 4 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"Anthropic Moves Toward Deal With US to Lift Curbs on AI Models\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.164 minutes. Updated 2026-06-27T12:00:00.000Z, with the macro replacement estimate at 49.9%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-26",
-    "minutesToMidnight": 1,
-    "exactMinutesToMidnight": 0.906,
-    "macroReplacementRate": 49.937,
-    "newsAdjustment": -12.094,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-devic",
-        "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
-        "summary": "Advancements in multi-GPU AI inference support improve the scalability and efficiency of generative AI workloads, impacting technical roles and infrastructure development.",
-        "date": "2026-06-25",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "productivity",
-          "computing"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Inference-768x432.jpg"
-      },
-      {
-        "id": "repositioning-retail-for-the-ai-era",
-        "title": "Repositioning retail for the AI era",
-        "summary": "AI is transforming retail through behind-the-scenes decision-making, affecting supply chains, code deployment, and product visibility.",
-        "date": "2026-06-25",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "supply chain",
-          "productivity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "production",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "california-launches-ai-job-impact-tracker-to-monitor-workforce-effects",
-        "title": "California launches AI job impact tracker to monitor workforce effects",
-        "summary": "California's AI job impact tracker signals increased regulatory attention and monitoring of AI's effects on the workforce, potentially slowing or shaping AI adoption.",
-        "date": "2026-06-25",
-        "source": "ABC10",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU3NmMTFodDByYjZ0dnRGTXpmN2lKUDR3YUJsODFoWjVMTzlEMnNNcGpLNzlKMU5PYmMteEZDdFJKTVpYNHZuaFJleFZyYXZSSmJsRl9QV3prVk5fN3pxTFRiTkRXR0ZXZWJQVVRlamFjc3dkMExoMXg3QzRaUkl3OHp3aG56YVVianNYWEFlVmN1VW1sc29EcFFtcjNLdlBqRGRSVE1JWmtKLVNLM0RLSFM0TEtZTlp5MFcxa2pRMTVCX0pDSnNrNTNGTEgyc1VWR1p3cnhERmpBeG5VX2l6REhXUmlmeENCdThnZnJzUnF5QjJWaXc?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "policy",
-          "regulation",
-          "workforce-monitoring"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "california-becomes-the-first-state-to-launch-a-tool-to-monitor-and-track-artific",
-        "title": "California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce",
-        "summary": "California's new AI workforce monitoring tool signals increased regulatory attention and potential constraints on AI adoption in the workplace.",
-        "date": "2026-06-25",
-        "source": "California State Portal | CA.gov",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "workforce-monitoring",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "washington-s-foreign-ban-on-anthropic-s-top-models-may-backfire",
-        "title": "Washington’s Foreign Ban on Anthropic’s Top Models May Backfire",
-        "summary": "A foreign ban on Anthropic's models may boost demand for China's open-source AI, potentially shifting AI development and adoption dynamics.",
-        "date": "2026-06-26",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "ai-development",
-          "global-competition"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-        "summary": "Regulatory concerns lead to a delayed and restricted release of a major AI model, signaling increased scrutiny on AI development and deployment.",
-        "date": "2026-06-25",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "summary": "Regulatory concerns prompt a controlled release of a new AI model, indicating increased scrutiny and potential slowing of AI adoption in the workplace.",
-        "date": "2026-06-25",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "AI development",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-26T11:00:50.053Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support.",
-        "body": "This update is split between 3 advances and 4 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"California launches AI job impact tracker to monitor workforce effects\" (ABC10). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.094 minutes. Updated 2026-06-26T12:00:00.000Z, with the macro replacement estimate at 49.9%."
       }
     }
   }

@@ -1,5 +1,177 @@
 [
   {
+    "id": "gemini-can-now-call-businesses-for-you-so-you-don-t-have-to-wait-on-hold",
+    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+    "summary": "AI is being integrated into everyday work tasks, reducing the need for manual phone interactions and increasing productivity in customer service and administrative roles.",
+    "date": "2026-09-24",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflows",
+      "productivity"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "meta-s-muse-agent-makes-waves-market-snapshot",
+    "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
+    "summary": "Meta's Muse AI agent gaining traction raises concerns about AI disrupting industries reliant on consumer inertia, signaling increased workplace AI pressure.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce disruption",
+      "enterprise impact"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+    "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
+    "summary": "Increased regulatory scrutiny of AI in Australia may slow adoption and require more safeguards in AI development and deployment.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+    "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+    "summary": "Proposed financial incentives for AI whistleblowers signal increased regulatory scrutiny and potential constraints on AI development and deployment.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "safety",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-tests-letting-gemini-call-businesses-for-you",
+    "title": "Google tests letting Gemini call businesses for you",
+    "summary": "Google's AI calling feature demonstrates AI's growing role in automating customer service and administrative tasks, signaling increased workplace adoption of AI tools.",
+    "date": "2026-09-24",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace automation",
+      "customer service"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "office-and-administrative-support",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "josh-elman-on-apple-ai-agents-why-startups-can-still-win",
+    "title": "Josh Elman on Apple, AI Agents & Why Startups Can Still Win",
+    "summary": "A former Apple AI leader discusses how startups can compete with large models, signaling continued innovation and opportunity in the AI space.",
+    "date": "2026-09-24",
+    "source": "Apple Podcasts - Newcomer Pod",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Josh-Elman-on-Apple--AI-Agents--Why-Startups-Can-Still-Win-e3pbn8d",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI startups",
+      "workforce competition",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ],
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1790283562869-4dbd1044cc52.jpg",
+    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/126261965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432605089-44100-2-6cf1fea27ca44.mp3",
+    "duration": "00:51:06"
+  },
+  {
+    "id": "the-ai-skills-vortex-is-remaking-work-and-fragmenting-pay-and-hr-isn-t-ready",
+    "title": "The AI Skills Vortex is Remaking Work and Fragmenting Pay — and HR Isn’t Ready",
+    "summary": "The article highlights how AI is reshaping job skills and pay structures, exposing a gap in HR's preparedness for AI-driven workforce changes.",
+    "date": "2026-09-24",
+    "source": "HRTech Series",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmZEZnk5WkJBXzZqSzFEZENQZ2hyMnZSaFZIdUNRNXppb1FuUlRzbWF2ZEI5ZlpfTnFrYlJPaWNWTDdRenFJVmYza1dXNGJ1Wkk4RXNMeFAwRXYxTG1rM19JcVg0Ym9oc2VvcktJc3dkWEJNbG5MZXUybU95Y2FnOGdIV1dEUUdIekE3ekRfclBJanpyVDZRLUlNOXluNkVQeXBlellGNDFYa1oxcDBLc3ZDWlR2Mm45VkQzdw?oc=5",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce transformation",
+      "HR challenges"
+    ],
+    "fetchedAt": "2026-09-25T11:00:52.442Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
     "id": "two-years-of-openai-academy",
     "title": "Two years of OpenAI Academy",
     "summary": "OpenAI Academy's two-year milestone highlights increased efforts to expand AI education and skills training across communities.",
@@ -15897,173 +16069,6 @@
     "categories": [
       "computer-and-information-technology",
       "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure",
-    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-    "summary": "The deployment of the NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure signals progress in AI agent capabilities, enabling more complex and autonomous workflows in enterprise environments.",
-    "date": "2026-06-26",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "AI agents"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/08/genai-press-project-aiq-3503101-1920x1080-1-768x432-jpg.webp"
-  },
-  {
-    "id": "trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a",
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "summary": "The Trump administration's authorization of Anthropic's Mythos 5 for over 100 US companies and agencies signals increased AI adoption in the workforce, potentially affecting multiple industries.",
-    "date": "2026-06-27",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "enterprise AI",
-      "government use"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
-    "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
-    "summary": "Regulatory discussions around AI models may slow or shape the deployment of advanced AI systems in the workforce.",
-    "date": "2026-06-26",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "policy",
-      "enterprise-adoption"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us",
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "summary": "OpenAI's hiring of Uber India's chief signals increased focus on expanding AI operations in India, indicating growing AI adoption and market investment.",
-    "date": "2026-06-26",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "talent-competition",
-      "market-expansion"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-s-mythos-5-ai-model-cleared-by-us-for-wider-use",
-    "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
-    "summary": "US approval for Anthropic's Mythos 5 AI model indicates regulatory scrutiny and potential constraints on AI adoption in sensitive sectors.",
-    "date": "2026-06-26",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "AI capability",
-      "national security"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "oracle-s-21-000-layoffs-align-with-california-ai-job-tracker-debut",
-    "title": "Oracle's 21,000 layoffs align with California AI job tracker debut",
-    "summary": "Oracle's large-scale layoffs coincide with the launch of a California AI job tracker, signaling increased pressure and transformation in the workforce due to AI adoption.",
-    "date": "2026-06-27",
-    "source": "MSN",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaXBGMzJBcmU2dDFfOExWZ0Q2bjE3YW8yRHVxS3dCWDVVMUtNLUVERUVMVFRRMmk4aG9VNUxRMXluTy1XYTBlUFhpeTdvMUFSWjdPaU1ESmV1bXhSb3dvbzdRZTNnWmlISHBOdDY0WTVWUHFKYkRPRnlGSE53bHlGclpOeFM1eEhlUWdlSktCMUhBSlFpQ3RKRkRPRGVaV2JyRWw1aHJHb2R4el9uX1lpRmFCN0J1Q1dicy1BS1FaMmFVd2poU1E4TFpqZlNTZUlENXNZdkwxYWxnQkNKcFF3Mzg1R1ZLR3VBM2RxRk1faVFpbWFFam5UR3F6OTNhVUE?oc=5",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workforce transformation",
-      "job market pressure"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "california-creates-the-nation-s-first-ai-job-loss-tracker",
-    "title": "California Creates the Nation’s First AI Job-Loss Tracker",
-    "summary": "California's AI job-loss tracker signals increased regulatory attention and potential labor constraints on AI adoption.",
-    "date": "2026-06-26",
-    "source": "Governing",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVJrMzFiRXB5dFBkOWVCT3NCM2ZFVzRsU3NxLUNpc3BSbjJ1Tl9KNVZlS2FJWi15WGxEaGdqZGk4NHFqQUthWVNCY1E1Q3lDRE1mNkNKT1p2dS1yeW1nUWF2SVZVVk1JRW5PNzRiVldDTUI5N0lWa202d25CelVOM0hJTG1QZWgxZGQxbVBzdk1tdURKekRB?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "policy",
-      "regulation",
-      "workforce"
-    ],
-    "fetchedAt": "2026-06-27T11:00:50.428Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
       "_all"
     ]
   }
