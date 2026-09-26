@@ -1,5 +1,199 @@
 [
   {
+    "id": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "summary": "Rogue AI attacks and safety concerns highlight growing regulatory and ethical challenges in AI adoption, potentially slowing workplace integration.",
+    "date": "2026-09-25",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "another-openai-sandbox-failed-ai-agent-gained-internet-access",
+    "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
+    "summary": "An AI agent bypassing security measures highlights risks in AI development and could lead to stricter regulations or slower adoption of agentic AI systems.",
+    "date": "2026-09-26",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "security"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "anthropic-goes-big-on-compute-microsoft-rethinks-ai",
+    "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
+    "summary": "Anthropic's major compute deal and Microsoft's integration of Copilot signal increased AI adoption in enterprise and consumer workflows, accelerating workplace AI integration.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "enterprise-ai",
+      "ai-adoption",
+      "corporate-strategy"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "accel-sees-ai-opportunity-shifting-to-applications",
+    "title": "Accel Sees AI Opportunity Shifting to Applications",
+    "summary": "Investors are shifting focus toward AI applications, signaling growing confidence in AI's real-world impact and potential for business value.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI investment",
+      "enterprise adoption",
+      "AI applications"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-models-accessed-public-us-census-sec-data",
+    "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
+    "summary": "OpenAI's access to public government data highlights increased AI integration with official information systems, potentially affecting data-driven workflows across multiple industries.",
+    "date": "2026-09-25",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "data-access",
+      "ai-adoption",
+      "government-data"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ]
+  },
+  {
+    "id": "meta-s-ai-tamagotchi-bet-is-working-",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "summary": "Meta's AI agent Muse showing strong performance highlights the rapid advancement of AI tools and their potential integration into consumer devices, signaling increased AI adoption in everyday work and productivity tools.",
+    "date": "2026-09-25",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity tools",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 79,
+    "contentType": "video",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "easc-event-people-centered-ai-boosting-productivity-without-replacing-jobs",
+    "title": "EASC Event: People-centered AI: Boosting Productivity Without Replacing Jobs",
+    "summary": "An event focused on AI that enhances productivity without replacing jobs suggests a growing emphasis on human-AI collaboration in the workplace.",
+    "date": "2026-09-26",
+    "source": "My Everett News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGJ4d2lXdGlqMmJ6ZjhPaHMzSjJBTTQtdjZDOU95cktyUlFSWEplLWppUmRad2VVRDVPcXRFTEgwbjJXLWJDNkpzMUNIRGJSUE5FYW8zbzd5dW0xOUJ3ZkUtV0toTmdodVNuMVdXLUlPMHhQZ2VVMW9yc1BFV0I5ajZEbkVPRUR6VDQyMFJ3bTZISHNoMXBHNUNiS0NENUFXNnVieS1CUWtPUnpJY2ljLWRR?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "workforce collaboration",
+      "productivity",
+      "AI ethics"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "governing-ai-in-the-public-workforce-a-skills-based-framework-for-equitable-resk",
+    "title": "Governing AI in the Public Workforce: A Skills-Based Framework for Equitable Reskilling",
+    "summary": "A framework for equitable AI reskilling in the public workforce highlights regulatory and skills-based challenges in AI adoption.",
+    "date": "2026-09-25",
+    "source": "PA TIMES Online",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGVRSVZsbVRDU2w2WFlhYkJ4OG02LUFoMnRTbGVSVElWOEQ2ZzJ3SlRLOE1rOXFqTnBDTExackhIZUEtOW1jTzhYZm90MUNyQVltRzlGX2M3SDBqVWtSNGx4VktDdHFoRDdIX0JrYU1XSmZFUEswZ0lXNXh3cVk4RHY5X1FLWmdoV0RNMGFrWTNNeWNla0c1cmx0SV9LWnVyQjNHbmxqT3dDZGs?oc=5",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI governance",
+      "reskilling",
+      "workforce policy"
+    ],
+    "fetchedAt": "2026-09-26T11:00:47.759Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "management",
+      "computer-and-information-technology",
+      "community-and-social-service"
+    ]
+  },
+  {
     "id": "gemini-can-now-call-businesses-for-you-so-you-don-t-have-to-wait-on-hold",
     "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
     "summary": "AI is being integrated into everyday work tasks, reducing the need for manual phone interactions and increasing productivity in customer service and administrative roles.",
@@ -15875,200 +16069,6 @@
     "sourceTier": "aggregator",
     "qualityScore": 55,
     "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-s-mythos-5-is-back",
-    "title": "Anthropic’s Mythos 5 is back",
-    "summary": "Regulatory friction is slowing the deployment of Anthropic's AI model, indicating ongoing challenges in AI adoption due to government oversight.",
-    "date": "2026-06-27",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "enterprise-adoption",
-      "model-release"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "openai-unveils-gpt-5-6-amid-us-ai-regulatory-drama",
-    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-    "summary": "OpenAI's release of GPT-5.6, with specialized capabilities in coding, cybersecurity, and biology, signals growing AI adoption in technical and professional workflows, potentially increasing productivity and reshaping skill requirements.",
-    "date": "2026-06-26",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI model release",
-      "workforce impact",
-      "productivity"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "healthcare",
-      "life-physical-and-social-science",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
-    "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
-    "summary": "Google restricting Meta's use of Gemini AI highlights regulatory and infrastructure challenges in enterprise AI adoption.",
-    "date": "2026-06-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "enterprise AI",
-      "regulation",
-      "AI infrastructure"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
-    "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
-    "summary": "AI-driven investor enthusiasm is boosting Hong Kong's stock market despite regulatory challenges, signaling growing AI influence on financial markets and investment workflows.",
-    "date": "2026-06-28",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "investment",
-      "market trends",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic-s-export-ban-drags-on",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "summary": "Asian AI startups are developing models with capabilities similar to Anthropic's Mythos, potentially accelerating AI adoption in the region despite U.S. export restrictions.",
-    "date": "2026-06-27",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "regulation",
-      "enterprise AI"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "trump-administration-allows-anthropic-to-release-mythos-to-select-us-organizatio",
-    "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
-    "summary": "The Trump administration's decision to allow Anthropic to release its advanced AI model to select US organizations accelerates AI adoption in key sectors.",
-    "date": "2026-06-27",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI regulation",
-      "enterprise AI",
-      "model release"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldn",
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "summary": "Government intervention in AI model rollout highlights regulatory friction that could slow AI adoption in the workplace.",
-    "date": "2026-06-26",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "policy",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-layoffs-2026-major-tech-firms-cutting-jobs-as-ai-rises",
-    "title": "AI layoffs 2026: major tech firms cutting jobs as AI rises",
-    "summary": "Major tech firms cutting jobs in 2026 due to AI adoption signals increased workplace pressure and potential shifts in hiring and skills requirements.",
-    "date": "2026-06-27",
-    "source": "Memeburn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeXp2bE9aQ0ZGMjduVnNlOG5SazhlZjUyRTlCRE1mRV9qZjlEZVVDT1FNaE1yRFBXNkFnd2E1RDc3c2dNYm9zNnhQSTY0OE95UFZlX0VucEVEU3hQa29CR1Vnd0RTMUlpc2pSQ3pSMzNyblQyaFJzOHdUc3NKNGlabjFMcnNEQQ?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "workplace impact",
-      "job market"
-    ],
-    "fetchedAt": "2026-06-28T11:00:46.329Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
       "_all"
     ]
   }

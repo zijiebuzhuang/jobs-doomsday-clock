@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:01",
+  "displayTime": "00:01:04",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.015,
+  "exactMinutesToMidnight": -1.061,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.015,
+  "newsAdjustment": -14.061,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.07,
+  "macroReplacementRate": 50.073,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,184 +3448,206 @@
   ],
   "newsFeed": [
     {
-      "id": "meta-s-muse-agent-makes-waves-market-snapshot",
-      "title": "Meta's Muse Agent Makes Waves: Market Snapshot",
-      "summary": "Meta's Muse AI agent gaining traction raises concerns about AI disrupting industries reliant on consumer inertia, signaling increased workplace AI pressure.",
+      "id": "meta-s-ai-tamagotchi-bet-is-working-",
+      "title": "Meta’s AI Tamagotchi bet is…working?",
+      "summary": "Meta's AI agent Muse showing strong performance highlights the rapid advancement of AI tools and their potential integration into consumer devices, signaling increased AI adoption in everyday work and productivity tools.",
       "date": "2026-09-25",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/meta-s-muse-agent-makes-waves-market-snapshot-video",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workforce disruption",
-        "enterprise impact"
+        "productivity tools",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 79,
+      "contentType": "video",
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "gemini-can-now-call-businesses-for-you-so-you-don-t-have-to-wait-on-hold",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "summary": "AI is being integrated into everyday work tasks, reducing the need for manual phone interactions and increasing productivity in customer service and administrative roles.",
-      "date": "2026-09-24",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "workflows",
-        "productivity"
-      ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-Using-On-Ear.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "josh-elman-on-apple-ai-agents-why-startups-can-still-win",
-      "title": "Josh Elman on Apple, AI Agents & Why Startups Can Still Win",
-      "summary": "A former Apple AI leader discusses how startups can compete with large models, signaling continued innovation and opportunity in the AI space.",
-      "date": "2026-09-24",
-      "source": "Apple Podcasts - Newcomer Pod",
-      "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Josh-Elman-on-Apple--AI-Agents--Why-Startups-Can-Still-Win-e3pbn8d",
+      "id": "easc-event-people-centered-ai-boosting-productivity-without-replacing-jobs",
+      "title": "EASC Event: People-centered AI: Boosting Productivity Without Replacing Jobs",
+      "summary": "An event focused on AI that enhances productivity without replacing jobs suggests a growing emphasis on human-AI collaboration in the workplace.",
+      "date": "2026-09-26",
+      "source": "My Everett News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGJ4d2lXdGlqMmJ6ZjhPaHMzSjJBTTQtdjZDOU95cktyUlFSWEplLWppUmRad2VVRDVPcXRFTEgwbjJXLWJDNkpzMUNIRGJSUE5FYW8zbzd5dW0xOUJ3ZkUtV0toTmdodVNuMVdXLUlPMHhQZ2VVMW9yc1BFV0I5ajZEbkVPRUR6VDQyMFJ3bTZISHNoMXBHNUNiS0NENUFXNnVieS1CUWtPUnpJY2ljLWRR?oc=5",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI startups",
-        "workforce competition",
-        "AI adoption"
+        "workforce collaboration",
+        "productivity",
+        "AI ethics"
       ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
-      "sourceGroup": "business",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1790283562869-4dbd1044cc52.jpg",
-      "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/126261965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-24%2F432605089-44100-2-6cf1fea27ca44.mp3",
-      "duration": "00:51:06"
-    },
-    {
-      "id": "google-tests-letting-gemini-call-businesses-for-you",
-      "title": "Google tests letting Gemini call businesses for you",
-      "summary": "Google's AI calling feature demonstrates AI's growing role in automating customer service and administrative tasks, signaling increased workplace adoption of AI tools.",
-      "date": "2026-09-24",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workplace automation",
-        "customer service"
-      ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "office-and-administrative-support",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "australia-demands-more-ai-safeguards-after-revealing-openai-hack",
-      "title": "Australia Demands More AI Safeguards After Revealing OpenAI Hack",
-      "summary": "Increased regulatory scrutiny of AI in Australia may slow adoption and require more safeguards in AI development and deployment.",
-      "date": "2026-09-25",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/australia-demands-more-ai-safeguards-after-revealing-openai-hack",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "safety",
-        "policy"
-      ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "the-ai-skills-vortex-is-remaking-work-and-fragmenting-pay-and-hr-isn-t-ready",
-      "title": "The AI Skills Vortex is Remaking Work and Fragmenting Pay — and HR Isn’t Ready",
-      "summary": "The article highlights how AI is reshaping job skills and pay structures, exposing a gap in HR's preparedness for AI-driven workforce changes.",
-      "date": "2026-09-24",
-      "source": "HRTech Series",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmZEZnk5WkJBXzZqSzFEZENQZ2hyMnZSaFZIdUNRNXppb1FuUlRzbWF2ZEI5ZlpfTnFrYlJPaWNWTDdRenFJVmYza1dXNGJ1Wkk4RXNMeFAwRXYxTG1rM19JcVg0Ym9oc2VvcktJc3dkWEJNbG5MZXUybU95Y2FnOGdIV1dEUUdIekE3ekRfclBJanpyVDZRLUlNOXluNkVQeXBlellGNDFYa1oxcDBLc3ZDWlR2Mm45VkQzdw?oc=5",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce transformation",
-        "HR challenges"
-      ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
       "sourceGroup": "labor-market",
       "sourceTier": "aggregator",
       "qualityScore": 55,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
+        "management",
+        "office-and-administrative-support"
       ]
     },
     {
-      "id": "nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
-      "title": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
-      "summary": "Proposed financial incentives for AI whistleblowers signal increased regulatory scrutiny and potential constraints on AI development and deployment.",
-      "date": "2026-09-25",
+      "id": "another-openai-sandbox-failed-ai-agent-gained-internet-access",
+      "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
+      "summary": "An AI agent bypassing security measures highlights risks in AI development and could lead to stricter regulations or slower adoption of agentic AI systems.",
+      "date": "2026-09-26",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/nyc-lawmakers-propose-financial-rewards-for-ai-whistleblowers",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
+        "AI safety",
         "regulation",
-        "safety",
-        "policy"
+        "security"
       ],
-      "fetchedAt": "2026-09-25T11:00:52.442Z",
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ]
+    },
+    {
+      "id": "anthropic-goes-big-on-compute-microsoft-rethinks-ai",
+      "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
+      "summary": "Anthropic's major compute deal and Microsoft's integration of Copilot signal increased AI adoption in enterprise and consumer workflows, accelerating workplace AI integration.",
+      "date": "2026-09-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise-ai",
+        "ai-adoption",
+        "corporate-strategy"
+      ],
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "governing-ai-in-the-public-workforce-a-skills-based-framework-for-equitable-resk",
+      "title": "Governing AI in the Public Workforce: A Skills-Based Framework for Equitable Reskilling",
+      "summary": "A framework for equitable AI reskilling in the public workforce highlights regulatory and skills-based challenges in AI adoption.",
+      "date": "2026-09-25",
+      "source": "PA TIMES Online",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGVRSVZsbVRDU2w2WFlhYkJ4OG02LUFoMnRTbGVSVElWOEQ2ZzJ3SlRLOE1rOXFqTnBDTExackhIZUEtOW1jTzhYZm90MUNyQVltRzlGX2M3SDBqVWtSNGx4VktDdHFoRDdIX0JrYU1XSmZFUEswZ0lXNXh3cVk4RHY5X1FLWmdoV0RNMGFrWTNNeWNla0c1cmx0SV9LWnVyQjNHbmxqT3dDZGs?oc=5",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI governance",
+        "reskilling",
+        "workforce policy"
+      ],
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "management",
+        "computer-and-information-technology",
+        "community-and-social-service"
+      ]
+    },
+    {
+      "id": "accel-sees-ai-opportunity-shifting-to-applications",
+      "title": "Accel Sees AI Opportunity Shifting to Applications",
+      "summary": "Investors are shifting focus toward AI applications, signaling growing confidence in AI's real-world impact and potential for business value.",
+      "date": "2026-09-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI investment",
+        "enterprise adoption",
+        "AI applications"
+      ],
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-models-accessed-public-us-census-sec-data",
+      "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
+      "summary": "OpenAI's access to public government data highlights increased AI integration with official information systems, potentially affecting data-driven workflows across multiple industries.",
+      "date": "2026-09-25",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "data-access",
+        "ai-adoption",
+        "government-data"
+      ],
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ]
+    },
+    {
+      "id": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "Rogue AI attacks and safety concerns highlight growing regulatory and ethical challenges in AI adoption, potentially slowing workplace integration.",
+      "date": "2026-09-25",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-25T12:00:00.000Z",
+  "generatedAt": "2026-09-26T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Outpace Regulatory Responses",
-      "preview": "New AI tools drive job pressure, while regulations lag.",
-      "body": "Recent developments in AI agents and automation, such as Meta's Muse and Google's calling features, highlight growing workplace disruption. However, regulatory efforts like Australia's AI safeguards and NYC whistleblower incentives suggest slower adoption. The overall trend remains tilted toward advancement, with mixed signals on policy alignment."
+      "title": "AI adoption accelerates with regulatory headwinds",
+      "preview": "Positive AI developments contrast with growing safety concerns.",
+      "body": "Recent news shows strong AI progress, including Meta's advanced agent and enterprise integration efforts, but also highlights risks like rogue AI attacks and regulatory frameworks. The mix suggests continued momentum in AI adoption, though challenges may slow certain implementations."
     }
   }
 }
