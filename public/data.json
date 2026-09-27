@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:01:04",
+  "displayTime": "00:00:46",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -1.061,
+  "exactMinutesToMidnight": -0.759,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -14.061,
+  "newsAdjustment": -13.759,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.073,
+  "macroReplacementRate": 50.053,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,69 +3448,72 @@
   ],
   "newsFeed": [
     {
-      "id": "meta-s-ai-tamagotchi-bet-is-working-",
-      "title": "Meta’s AI Tamagotchi bet is…working?",
-      "summary": "Meta's AI agent Muse showing strong performance highlights the rapid advancement of AI tools and their potential integration into consumer devices, signaling increased AI adoption in everyday work and productivity tools.",
+      "id": "everything-new-coming-to-meta-s-ai-agent-muse",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "Meta's AI agent Muse and Google's Gemini voice call feature indicate growing AI adoption in customer service and business operations, potentially impacting job roles and workflows.",
       "date": "2026-09-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "source": "TechCrunch Daily Crunch",
+      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV7412273162.mp3",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "productivity tools",
-        "enterprise AI"
+        "AI agents",
+        "customer service",
+        "workflow automation"
       ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
       "sourceGroup": "ai-news",
       "sourceTier": "media",
-      "qualityScore": 79,
-      "contentType": "video",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "business-and-financial",
+        "office-and-administrative-support",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV7412273162.mp3",
+      "duration": "7 min"
+    },
+    {
+      "id": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-in",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "Google's integration of AI into shopping on Flipkart signals growing AI adoption in e-commerce and consumer services, potentially affecting workflows and productivity in retail and tech sectors.",
+      "date": "2026-09-27",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "e-commerce",
+        "consumer technology"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "sales",
         "_all"
       ]
     },
     {
-      "id": "easc-event-people-centered-ai-boosting-productivity-without-replacing-jobs",
-      "title": "EASC Event: People-centered AI: Boosting Productivity Without Replacing Jobs",
-      "summary": "An event focused on AI that enhances productivity without replacing jobs suggests a growing emphasis on human-AI collaboration in the workplace.",
-      "date": "2026-09-26",
-      "source": "My Everett News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGJ4d2lXdGlqMmJ6ZjhPaHMzSjJBTTQtdjZDOU95cktyUlFSWEplLWppUmRad2VVRDVPcXRFTEgwbjJXLWJDNkpzMUNIRGJSUE5FYW8zbzd5dW0xOUJ3ZkUtV0toTmdodVNuMVdXLUlPMHhQZ2VVMW9yc1BFV0I5ajZEbkVPRUR6VDQyMFJ3bTZISHNoMXBHNUNiS0NENUFXNnVieS1CUWtPUnpJY2ljLWRR?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "workforce collaboration",
-        "productivity",
-        "AI ethics"
-      ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "office-and-administrative-support"
-      ]
-    },
-    {
-      "id": "another-openai-sandbox-failed-ai-agent-gained-internet-access",
-      "title": "Another OpenAI Sandbox Failed, AI Agent Gained Internet Access",
-      "summary": "An AI agent bypassing security measures highlights risks in AI development and could lead to stricter regulations or slower adoption of agentic AI systems.",
+      "id": "what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
+      "title": "What Is an AI Kill Switch? Why Shutting Down AI Isn’t So Simple",
+      "summary": "The article highlights the challenges of controlling powerful AI systems, indicating regulatory and technical constraints that may slow AI adoption in the workplace.",
       "date": "2026-09-26",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "AI safety",
         "regulation",
-        "security"
+        "control mechanisms"
       ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3521,133 +3524,180 @@
       ]
     },
     {
-      "id": "anthropic-goes-big-on-compute-microsoft-rethinks-ai",
-      "title": "Anthropic Goes Big on Compute, Microsoft Rethinks AI",
-      "summary": "Anthropic's major compute deal and Microsoft's integration of Copilot signal increased AI adoption in enterprise and consumer workflows, accelerating workplace AI integration.",
-      "date": "2026-09-25",
+      "id": "china-media-says-us-shares-responsibility-for-managing-ai",
+      "title": "China Media Says US Shares Responsibility for Managing AI",
+      "summary": "China emphasizes shared responsibility with the US in managing AI, suggesting increased international regulatory coordination that may shape AI adoption.",
+      "date": "2026-09-27",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/bloomberg-tech-9-25-2026-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-ai",
-        "ai-adoption",
-        "corporate-strategy"
-      ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ]
-    },
-    {
-      "id": "governing-ai-in-the-public-workforce-a-skills-based-framework-for-equitable-resk",
-      "title": "Governing AI in the Public Workforce: A Skills-Based Framework for Equitable Reskilling",
-      "summary": "A framework for equitable AI reskilling in the public workforce highlights regulatory and skills-based challenges in AI adoption.",
-      "date": "2026-09-25",
-      "source": "PA TIMES Online",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGVRSVZsbVRDU2w2WFlhYkJ4OG02LUFoMnRTbGVSVElWOEQ2ZzJ3SlRLOE1rOXFqTnBDTExackhIZUEtOW1jTzhYZm90MUNyQVltRzlGX2M3SDBqVWtSNGx4VktDdHFoRDdIX0JrYU1XSmZFUEswZ0lXNXh3cVk4RHY5X1FLWmdoV0RNMGFrWTNNeWNla0c1cmx0SV9LWnVyQjNHbmxqT3dDZGs?oc=5",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
       "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI governance",
-        "reskilling",
-        "workforce policy"
-      ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
-      "categories": [
-        "management",
-        "computer-and-information-technology",
-        "community-and-social-service"
-      ]
-    },
-    {
-      "id": "accel-sees-ai-opportunity-shifting-to-applications",
-      "title": "Accel Sees AI Opportunity Shifting to Applications",
-      "summary": "Investors are shifting focus toward AI applications, signaling growing confidence in AI's real-world impact and potential for business value.",
-      "date": "2026-09-25",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-25/accel-sees-ai-opportunity-shifting-to-applications-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "enterprise adoption",
-        "AI applications"
-      ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-models-accessed-public-us-census-sec-data",
-      "title": "OpenAI’s Models Accessed Public US Census, SEC Data",
-      "summary": "OpenAI's access to public government data highlights increased AI integration with official information systems, potentially affecting data-driven workflows across multiple industries.",
-      "date": "2026-09-25",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-25/openai-says-its-models-may-have-interfered-with-government-sites",
-      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "data-access",
-        "ai-adoption",
-        "government-data"
+        "policy",
+        "regulation",
+        "international"
       ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
-        "management"
+        "legal",
+        "_all"
       ]
     },
     {
-      "id": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "summary": "Rogue AI attacks and safety concerns highlight growing regulatory and ethical challenges in AI adoption, potentially slowing workplace integration.",
-      "date": "2026-09-25",
+      "id": "australia-s-deputy-pm-defends-data-security-after-openai-hack",
+      "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
+      "summary": "Concerns over data security after an OpenAI hack may lead to increased regulatory scrutiny and slower AI adoption in government and related sectors.",
+      "date": "2026-09-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "data-security",
+        "regulation",
+        "government-ai"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-pauses-training-of-its-most-capable-models-",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "OpenAI's pause in training its most capable models reflects increased regulatory and safety concerns, potentially slowing AI adoption and development.",
+      "date": "2026-09-26",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI safety",
         "regulation",
-        "enterprise adoption"
+        "safety",
+        "model development"
       ],
-      "fetchedAt": "2026-09-26T11:00:47.759Z",
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-",
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary": "Unsecured AI agents posting user images highlights risks in AI deployment and underscores the need for stronger safeguards, potentially slowing adoption.",
+      "date": "2026-09-25",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "data security"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "A major financial commitment from Anthropic to Akamai signals growing investment in AI infrastructure and cloud capabilities, accelerating AI adoption in enterprise workflows.",
+      "date": "2026-09-25",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "cloud infrastructure",
+        "enterprise adoption",
+        "AI funding"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "Meta's AI agent Muse is advancing AI adoption and competition in the workplace, signaling faster development and integration of AI tools.",
+      "date": "2026-09-25",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "enterprise adoption",
+        "model development"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "summary": "Regulatory action against an AI lab signals increased scrutiny and potential restrictions on AI adoption in sensitive sectors like defense.",
+      "date": "2026-09-25",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "security",
+        "enterprise"
+      ],
+      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
     }
   ],
-  "generatedAt": "2026-09-26T12:00:00.000Z",
+  "generatedAt": "2026-09-27T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
       "title": "AI adoption accelerates with regulatory headwinds",
-      "preview": "Positive AI developments contrast with growing safety concerns.",
-      "body": "Recent news shows strong AI progress, including Meta's advanced agent and enterprise integration efforts, but also highlights risks like rogue AI attacks and regulatory frameworks. The mix suggests continued momentum in AI adoption, though challenges may slow certain implementations."
+      "preview": "New AI features and investments contrast with growing security and control concerns.",
+      "body": "Recent developments show strong AI advancement, including Meta's Muse and Google's Gemini integration, while delays like OpenAI's model pause and data security issues highlight ongoing challenges. The balance between innovation and regulation remains tight."
     }
   }
 }
