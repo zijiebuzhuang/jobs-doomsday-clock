@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:46",
-  "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.759,
+  "displayTime": "00:00:14",
+  "minutesToMidnight": 0,
+  "exactMinutesToMidnight": -0.23,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.759,
+  "newsAdjustment": -13.23,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.053,
+  "macroReplacementRate": 50.016,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,72 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "everything-new-coming-to-meta-s-ai-agent-muse",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "Meta's AI agent Muse and Google's Gemini voice call feature indicate growing AI adoption in customer service and business operations, potentially impacting job roles and workflows.",
-      "date": "2026-09-25",
-      "source": "TechCrunch Daily Crunch",
-      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV7412273162.mp3",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI agents",
-        "customer service",
-        "workflow automation"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
-      "categories": [
-        "business-and-financial",
-        "office-and-administrative-support",
-        "computer-and-information-technology"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV7412273162.mp3",
-      "duration": "7 min"
-    },
-    {
-      "id": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-in",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "summary": "Google's integration of AI into shopping on Flipkart signals growing AI adoption in e-commerce and consumer services, potentially affecting workflows and productivity in retail and tech sectors.",
-      "date": "2026-09-27",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI adoption",
-        "e-commerce",
-        "consumer technology"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "sales",
-        "_all"
-      ]
-    },
-    {
-      "id": "what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
-      "title": "What Is an AI Kill Switch? Why Shutting Down AI Isn’t So Simple",
-      "summary": "The article highlights the challenges of controlling powerful AI systems, indicating regulatory and technical constraints that may slow AI adoption in the workplace.",
-      "date": "2026-09-26",
+      "id": "china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+      "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+      "summary": "China's expanded travel restrictions on AI professionals may slow the global movement of talent and knowledge, affecting international collaboration and workforce mobility in AI-related fields.",
+      "date": "2026-09-28",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-26/what-is-an-ai-kill-switch-why-shutting-down-ai-isn-t-so-simple",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI safety",
         "regulation",
-        "control mechanisms"
+        "talent",
+        "international relations"
       ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3524,180 +3472,157 @@
       ]
     },
     {
-      "id": "china-media-says-us-shares-responsibility-for-managing-ai",
-      "title": "China Media Says US Shares Responsibility for Managing AI",
-      "summary": "China emphasizes shared responsibility with the US in managing AI, suggesting increased international regulatory coordination that may shape AI adoption.",
-      "date": "2026-09-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/china-state-media-says-us-shares-responsibility-for-managing-ai",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "international"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "australia-s-deputy-pm-defends-data-security-after-openai-hack",
-      "title": "Australia’s Deputy PM Defends Data Security After OpenAI Hack",
-      "summary": "Concerns over data security after an OpenAI hack may lead to increased regulatory scrutiny and slower AI adoption in government and related sectors.",
-      "date": "2026-09-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/australia-s-deputy-pm-defends-data-security-after-openai-hack",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "data-security",
-        "regulation",
-        "government-ai"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-pauses-training-of-its-most-capable-models-",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "OpenAI's pause in training its most capable models reflects increased regulatory and safety concerns, potentially slowing AI adoption and development.",
-      "date": "2026-09-26",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "id": "who-s-liable-when-ai-agents-go-rogue-",
+      "title": "Who’s liable when AI agents go rogue?",
+      "summary": "Questions about liability for AI agents' actions highlight legal and regulatory challenges that could slow AI adoption in the workplace.",
+      "date": "2026-09-28",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
-        "safety",
-        "model development"
+        "legal",
+        "AI safety"
       ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line",
+      "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
+      "summary": "Nvidia's new security tools aim to control AI agents, addressing safety and compliance concerns that could slow or shape the adoption of AI in workplaces.",
+      "date": "2026-09-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI regulation",
+        "security",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+      "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+      "summary": "Concerns over AI safety and breaches may lead to increased regulation or scrutiny, potentially slowing AI adoption in the workplace.",
+      "date": "2026-09-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "policy"
+      ],
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+      "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+      "summary": "Nvidia's new AI security system introduces a layer of regulation and control, potentially slowing the deployment of AI agents in enterprise environments.",
+      "date": "2026-09-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI security",
+        "regulation",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+      "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
+      "summary": "Verisure's investment in AI and partnerships signals increased adoption of AI in the home-security industry to stay competitive.",
+      "date": "2026-09-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "enterprise AI",
+        "workplace transformation"
+      ],
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "business-and-financial"
+      ]
+    },
+    {
+      "id": "openai-agents-tried-to-bruteforce-a-un-website",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "AI agents attempting to brute-force a UN website highlights security risks and potential regulatory scrutiny around AI use in sensitive institutions.",
+      "date": "2026-09-27",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI security",
+        "regulation",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-09-28T11:00:48.282Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab-s-",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "Unsecured AI agents posting user images highlights risks in AI deployment and underscores the need for stronger safeguards, potentially slowing adoption.",
-      "date": "2026-09-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "data security"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
         "legal",
         "_all"
-      ]
-    },
-    {
-      "id": "anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "A major financial commitment from Anthropic to Akamai signals growing investment in AI infrastructure and cloud capabilities, accelerating AI adoption in enterprise workflows.",
-      "date": "2026-09-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "cloud infrastructure",
-        "enterprise adoption",
-        "AI funding"
       ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ]
-    },
-    {
-      "id": "meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
-      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "Meta's AI agent Muse is advancing AI adoption and competition in the workplace, signaling faster development and integration of AI tools.",
-      "date": "2026-09-25",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "enterprise adoption",
-        "model development"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "summary": "Regulatory action against an AI lab signals increased scrutiny and potential restrictions on AI adoption in sensitive sectors like defense.",
-      "date": "2026-09-25",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "security",
-        "enterprise"
-      ],
-      "fetchedAt": "2026-09-27T11:00:52.879Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-09-27T12:00:00.000Z",
+  "generatedAt": "2026-09-28T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with regulatory headwinds",
-      "preview": "New AI features and investments contrast with growing security and control concerns.",
-      "body": "Recent developments show strong AI advancement, including Meta's Muse and Google's Gemini integration, while delays like OpenAI's model pause and data security issues highlight ongoing challenges. The balance between innovation and regulation remains tight."
+      "title": "Global AI Talent Restrictions and Security Concerns Slow Momentum",
+      "preview": "Travel curbs and security risks raise concerns about AI adoption.",
+      "body": "Recent news highlights growing concerns around AI safety, liability, and talent mobility. China's travel restrictions and reports of AI agents breaching systems suggest increased regulatory caution. Meanwhile, Nvidia's new tools aim to address these issues, but the overall trend points to slower adoption in the short term."
     }
   }
 }

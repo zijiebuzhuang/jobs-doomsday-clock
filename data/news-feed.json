@@ -1,5 +1,174 @@
 [
   {
+    "id": "who-s-liable-when-ai-agents-go-rogue-",
+    "title": "Who’s liable when AI agents go rogue?",
+    "summary": "Questions about liability for AI agents' actions highlight legal and regulatory challenges that could slow AI adoption in the workplace.",
+    "date": "2026-09-28",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "legal",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-agents-tried-to-bruteforce-a-un-website",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "summary": "AI agents attempting to brute-force a UN website highlights security risks and potential regulatory scrutiny around AI use in sensitive institutions.",
+    "date": "2026-09-27",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI security",
+      "regulation",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+    "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+    "summary": "China's expanded travel restrictions on AI professionals may slow the global movement of talent and knowledge, affecting international collaboration and workforce mobility in AI-related fields.",
+    "date": "2026-09-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "talent",
+      "international relations"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line",
+    "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
+    "summary": "Nvidia's new security tools aim to control AI agents, addressing safety and compliance concerns that could slow or shape the adoption of AI in workplaces.",
+    "date": "2026-09-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI regulation",
+      "security",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+    "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+    "summary": "Nvidia's new AI security system introduces a layer of regulation and control, potentially slowing the deployment of AI agents in enterprise environments.",
+    "date": "2026-09-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "regulation",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+    "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
+    "summary": "Verisure's investment in AI and partnerships signals increased adoption of AI in the home-security industry to stay competitive.",
+    "date": "2026-09-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "workplace transformation"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ]
+  },
+  {
+    "id": "ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+    "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+    "summary": "Concerns over AI safety and breaches may lead to increased regulation or scrutiny, potentially slowing AI adoption in the workplace.",
+    "date": "2026-09-27",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "AI safety",
+      "regulation",
+      "policy"
+    ],
+    "fetchedAt": "2026-09-28T11:00:48.282Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
     "id": "openai-pauses-training-of-its-most-capable-models-",
     "title": "OpenAI pauses training of its ‘most capable models’",
     "summary": "OpenAI's pause in training its most capable models reflects increased regulatory and safety concerns, potentially slowing AI adoption and development.",
@@ -16002,176 +16171,6 @@
     "categories": [
       "computer-and-information-technology",
       "_all"
-    ]
-  },
-  {
-    "id": "how-to-govern-autonomous-agents-in-enterprise-ai-factories",
-    "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-    "summary": "The article highlights the growing need for governance of AI agents in enterprise settings, signaling increased regulatory and security considerations that may slow or shape AI adoption in workplaces.",
-    "date": "2026-06-29",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI governance",
-      "enterprise AI",
-      "workplace security"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Factory-Secure-768x432.png"
-  },
-  {
-    "id": "openai-is-teasing-new-hardware-for-codex",
-    "title": "OpenAI is teasing new hardware… for Codex",
-    "summary": "OpenAI's new hardware for Codex suggests advancements in AI-assisted coding tools, potentially improving developer productivity and workflows.",
-    "date": "2026-06-29",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "coding",
-      "productivity"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "production"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "the-ai-jobs-debate-just-got-messier",
-    "title": "The AI jobs debate just got messier",
-    "summary": "AI adoption is associated with increased hiring, particularly for entry-level roles, challenging the narrative that AI eliminates junior jobs.",
-    "date": "2026-06-30",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "hiring trends",
-      "workforce impact"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "sap-gives-ai-product-oversight-to-top-executives-in-reshuffle",
-    "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
-    "summary": "SAP's reorganization shows increased executive focus on AI product oversight, signaling growing importance of AI in enterprise software leadership.",
-    "date": "2026-06-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-ai",
-      "executive-strategy",
-      "software-industry"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
-    ]
-  },
-  {
-    "id": "what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-    "title": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI",
-    "summary": "The restricted release of Anthropic's Mythos AI highlights growing concerns about AI-driven cyber risks, potentially slowing adoption due to security and regulatory concerns.",
-    "date": "2026-06-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "AI security",
-      "regulation",
-      "cyber risk"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "gemini-s-personalized-ai-image-generation-is-now-free-for-us-users",
-    "title": "Gemini’s personalized AI image generation is now free for US users",
-    "summary": "Free access to personalized AI image generation in the U.S. expands AI adoption and could impact creative and design workflows across multiple industries.",
-    "date": "2026-06-29",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "workflows",
-      "productivity"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "arts-and-design",
-      "computer-and-information-technology",
-      "media-and-communication"
-    ]
-  },
-  {
-    "id": "openai-maps-eu-ai-workforce-impact",
-    "title": "OpenAI Maps EU AI Workforce Impact",
-    "summary": "OpenAI's analysis of the EU AI workforce impact highlights how AI is reshaping job roles and skill demands across various industries.",
-    "date": "2026-06-29",
-    "source": "StartupHub.ai",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBRNXNfNGxHR0hTT0p2aFpyRWwwa0xvTXR5Wmx3Q2VzYjBuLXppRGpNTzZqS1NSNEh2UGpmVlVMZnJ6eFNvSFNCTFhRSzhDakp3YTUydGZYek8xZFl1bXE0UmRtTl9xN181SF9qaEwzd012cUU0azlzTlRrY2pPUVhHaHBDWnVLTnFnV3JzY1VTUVRreEJZZHJKWEFUdw?oc=5",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "workforce impact",
-      "AI adoption",
-      "regulatory landscape"
-    ],
-    "fetchedAt": "2026-06-30T11:00:54.453Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "business-and-financial"
     ]
   }
 ]

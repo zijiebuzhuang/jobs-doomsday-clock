@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-09-28",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.23,
+    "macroReplacementRate": 50.016,
+    "newsAdjustment": -13.23,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+        "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+        "summary": "China's expanded travel restrictions on AI professionals may slow the global movement of talent and knowledge, affecting international collaboration and workforce mobility in AI-related fields.",
+        "date": "2026-09-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "talent",
+          "international relations"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "who-s-liable-when-ai-agents-go-rogue-",
+        "title": "Who’s liable when AI agents go rogue?",
+        "summary": "Questions about liability for AI agents' actions highlight legal and regulatory challenges that could slow AI adoption in the workplace.",
+        "date": "2026-09-28",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line",
+        "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
+        "summary": "Nvidia's new security tools aim to control AI agents, addressing safety and compliance concerns that could slow or shape the adoption of AI in workplaces.",
+        "date": "2026-09-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "security",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+        "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+        "summary": "Concerns over AI safety and breaches may lead to increased regulation or scrutiny, potentially slowing AI adoption in the workplace.",
+        "date": "2026-09-27",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "policy"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+        "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
+        "summary": "Nvidia's new AI security system introduces a layer of regulation and control, potentially slowing the deployment of AI agents in enterprise environments.",
+        "date": "2026-09-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI security",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+        "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
+        "summary": "Verisure's investment in AI and partnerships signals increased adoption of AI in the home-security industry to stay competitive.",
+        "date": "2026-09-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "workplace transformation"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ]
+      },
+      {
+        "id": "openai-agents-tried-to-bruteforce-a-un-website",
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "summary": "AI agents attempting to brute-force a UN website highlights security risks and potential regulatory scrutiny around AI use in sensitive institutions.",
+        "date": "2026-09-27",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI security",
+          "regulation",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-09-28T11:00:48.282Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by China Broadens Travel Curbs to Encompass Family of Top AI Talent.",
+        "body": "This update is split between 1 advances and 6 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Verisure Bets on AI Partnerships to Counter Disruption Concerns\" (Bloomberg Technology), while the clearest drag comes from \"China Broadens Travel Curbs to Encompass Family of Top AI Talent\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.230 minutes. Updated 2026-09-28T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-09-27",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.759,
@@ -19909,190 +20120,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by How to Govern Autonomous Agents in Enterprise AI Factories.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"The AI jobs debate just got messier\" (TechCrunch - AI), while the clearest drag comes from \"How to Govern Autonomous Agents in Enterprise AI Factories\" (NVIDIA Developer - Generative AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.581 minutes. Updated 2026-06-30T12:00:00.000Z, with the macro replacement estimate at 50.0%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-29",
-    "minutesToMidnight": 1,
-    "exactMinutesToMidnight": 0.595,
-    "macroReplacementRate": 49.959,
-    "newsAdjustment": -12.405,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "hp-inc-launches-frontier-strategic-partnership-with-openai",
-        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-        "summary": "HP Inc.'s expanded partnership with OpenAI signals increased AI adoption in enterprise operations, software development, and customer experiences, accelerating AI integration into business workflows.",
-        "date": "2026-06-28",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/hp-frontier-partnership",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "ai-partnerships",
-          "workflow-automation"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "management"
-        ]
-      },
-      {
-        "id": "mapping-europe-s-ai-workforce-opportunity",
-        "title": "Mapping Europe’s AI Workforce Opportunity",
-        "summary": "A report mapping AI's impact on EU jobs highlights which occupations may be automated, grow, or change, providing insight into AI's workforce implications.",
-        "date": "2026-06-29",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI workforce",
-          "job automation",
-          "workplace impact"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
-        "title": "China Pushes All School Levels to Teach AI in Xi’s Tech Drive",
-        "summary": "China's plan to integrate AI into all levels of education signals a long-term strategy to build AI literacy and workforce readiness, accelerating AI adoption in future jobs.",
-        "date": "2026-06-29",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "education",
-          "workforce-development",
-          "policy"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "education-training-and-library",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "google-cloud-to-offer-specialist-ai-models-for-science-research",
-        "title": "Google Cloud to Offer Specialist AI Models for Science Research",
-        "summary": "Google Cloud's offering of specialized AI models for scientific research accelerates AI adoption in fields like drug discovery and materials science, increasing productivity and shifting skill demands.",
-        "date": "2026-06-29",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "scientific-research",
-          "ai-models"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "healthcare",
-          "life-physical-and-social-science",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
-        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-        "summary": "Ford's decision to rehire experienced engineers highlights the limitations of AI in complex engineering tasks and the continued need for human expertise.",
-        "date": "2026-06-28",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "human-in-the-loop",
-          "ai-limitations",
-          "workforce-hiring"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "architecture-and-engineering",
-          "production",
-          "_all"
-        ]
-      },
-      {
-        "id": "california-launches-ai-job-loss-tracker-to-monitor-workforce-impacts",
-        "title": "California launches AI job-loss tracker to monitor workforce impacts",
-        "summary": "California's AI job-loss tracker signals increased regulatory attention and monitoring of AI's impact on the workforce, potentially slowing adoption or shaping implementation.",
-        "date": "2026-06-28",
-        "source": "Local News Matters",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUZxMkNYNWU1cnprbVBrdVB5ZnBPa0dnRnFKS0RWYVp6RDRka2dPMzEzbTU5NExqTEtoNnRsZXdMWGlMWEJrQm5BZVpjOVN0Nmk3cEJvSDh2M24xNG9YU01oZ0pXN2EwVXNZbWNGQmlLTkVRV0JBTUwwcjNrR3ZjajJhQWl0aEtxZ2tQMk4wdHlCMW15eUZzTFlSa1RjNGt2b2xvTGVsQVpYQ01vOUE?oc=5",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "policy",
-          "workforce-impact",
-          "regulation"
-        ],
-        "fetchedAt": "2026-06-29T11:01:17.175Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by HP Inc. launches Frontier strategic partnership with OpenAI.",
-        "body": "This update is split between 4 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"HP Inc. launches Frontier strategic partnership with OpenAI\" (OpenAI), while the clearest drag comes from \"Ford rehires ‘gray beard’ engineers after AI falls short\" (TechCrunch - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.405 minutes. Updated 2026-06-29T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
