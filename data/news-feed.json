@@ -1,5 +1,247 @@
 [
   {
+    "id": "how-we-will-do-better-for-australia",
+    "title": "How we will do better for Australia",
+    "summary": "OpenAI's apology and commitment to stronger cyber defenses in Australia highlight regulatory and security concerns that may slow AI adoption in government and related sectors.",
+    "date": "2026-09-28",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "cybersecurity",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "ai-data-centers-face-scrutiny-in-australia",
+    "title": "AI, Data Centers Face Scrutiny in Australia",
+    "summary": "Regulatory and public scrutiny of AI and data centers in Australia may slow the adoption of AI technologies and influence how AI is implemented in the workforce.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/ai-data-centers-face-scrutiny-in-australia-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "data-centers",
+      "ai-safety"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+    "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
+    "summary": "Top AI executives meeting with a former president highlights growing political and regulatory attention on AI risks, which could slow or shape its adoption in the workplace.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "enterprise"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "trump-to-talk-ai-risks-and-threats-with-tech-ceos",
+    "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
+    "summary": "High-level political discussion on AI risks may lead to increased regulation or policy constraints on AI adoption in the workplace.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "policy",
+      "regulation",
+      "AI adoption"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-china-ai-race-five-key-flashpoints-explained",
+    "title": "US-China AI Race: Five Key Flashpoints Explained",
+    "summary": "Geopolitical competition between the US and China may slow AI collaboration and create regulatory friction that affects global AI development and workplace adoption.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "geopolitics",
+      "regulation",
+      "AI competition"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+    "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
+    "summary": "Globe Telecom's investment in AI for its data-center venture signals growing AI adoption in the telecommunications and financial services sectors.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "enterprise AI",
+      "telecom",
+      "fintech"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ]
+  },
+  {
+    "id": "openai-scraps-debut-of-latest-astra-model",
+    "title": "OpenAI Scraps Debut of Latest Astra Model",
+    "summary": "OpenAI's decision to delay its Astra model highlights ongoing challenges in ensuring AI safety and performance, which could slow the adoption of new AI tools in the workplace.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI development",
+      "safety",
+      "regulation"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-to-help-australia-on-ai-defense-after-government-hack",
+    "title": "OpenAI to Help Australia on AI Defense After Government Hack",
+    "summary": "OpenAI's response to a government hack highlights increased regulatory scrutiny and potential delays in AI adoption due to security and compliance concerns.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "security",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "data-centers-ai-face-skepticism-in-australia",
+    "title": "Data Centers, AI Face Skepticism in Australia",
+    "summary": "Concerns over data security and AI governance in Australia may slow the adoption of AI technologies and influence regulatory frameworks.",
+    "date": "2026-09-29",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "data-security",
+      "governance"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-scraps-debut-of-ai-model-as-it-sets-new-guardrails",
+    "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
+    "summary": "OpenAI's decision to delay its AI model highlights increased regulatory and safety concerns, which may slow AI adoption in workplaces.",
+    "date": "2026-09-28",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "safety",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-09-29T11:00:53.422Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
     "id": "who-s-liable-when-ai-agents-go-rogue-",
     "title": "Who’s liable when AI agents go rogue?",
     "summary": "Questions about liability for AI agents' actions highlight legal and regulatory challenges that could slow AI adoption in the workplace.",
@@ -15978,198 +16220,6 @@
     "categories": [
       "computer-and-information-technology",
       "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "claude-science-is-anthropic-s-newest-flagship-product",
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
-    "date": "2026-06-30",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "scientific research",
-      "workforce adoption"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "healthcare",
-      "life-physical-and-social-science",
-      "computer-and-information-technology"
-    ]
-  },
-  {
-    "id": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip",
-    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "summary": "Google's NotebookLM introduces TikTok-style AI videos, enhancing how users consume and interact with research, signaling AI's growing integration into knowledge work and productivity tools.",
-    "date": "2026-06-30",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI tools",
-      "productivity",
-      "workflows"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "education-training-and-library",
-      "management"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
-    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
-    "summary": "AI is beginning to show measurable impact on employment in tech and finance sectors, signaling growing workplace pressure from AI adoption.",
-    "date": "2026-07-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI labor impact",
-      "workforce changes",
-      "industry trends"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-says-us-lifted-restrictions-on-fable-5",
-    "title": "Anthropic Says US Lifted Restrictions on Fable 5",
-    "summary": "Removal of restrictions on Anthropic's AI models allows broader distribution and adoption, accelerating AI integration into work processes.",
-    "date": "2026-07-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "model-release",
-      "adoption"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
-    "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
-    "summary": "An English furniture maker is preparing for the AI era, signaling that AI adoption is extending into traditional industries like manufacturing and retail.",
-    "date": "2026-07-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "industry transformation",
-      "workforce preparation"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "production",
-      "business-and-financial",
-      "construction-and-extraction"
-    ]
-  },
-  {
-    "id": "google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-    "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
-    "summary": "Increased access to AI tools for African creators may boost productivity and content creation in media, design, and tech sectors.",
-    "date": "2026-07-01",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI adoption",
-      "content creation",
-      "global talent development"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "media-and-communication",
-      "computer-and-information-technology",
-      "arts-and-design"
-    ]
-  },
-  {
-    "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "summary": "Ex-DeepMind researchers are leveraging their AI expertise in finance, showing the growing influence of AI talent in high-skill sectors like quantitative finance.",
-    "date": "2026-06-30",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI talent",
-      "finance",
-      "AI adoption"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "business-and-financial",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "us-lifts-export-restrictions-on-anthropic-s-fable-5-ai-model",
-    "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
-    "summary": "Removal of export restrictions on Anthropic's Fable 5 AI model accelerates its global adoption and use in enterprise and research settings.",
-    "date": "2026-06-30",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI regulation",
-      "enterprise AI",
-      "model distribution"
-    ],
-    "fetchedAt": "2026-07-01T11:01:09.835Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
       "_all"
     ]
   }

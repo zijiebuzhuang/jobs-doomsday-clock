@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:14",
-  "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.23,
+  "displayTime": "23:59:29",
+  "minutesToMidnight": 1,
+  "exactMinutesToMidnight": 0.51,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.23,
+  "newsAdjustment": -12.49,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.016,
+  "macroReplacementRate": 49.965,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,20 +3448,20 @@
   ],
   "newsFeed": [
     {
-      "id": "china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
-      "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-      "summary": "China's expanded travel restrictions on AI professionals may slow the global movement of talent and knowledge, affecting international collaboration and workforce mobility in AI-related fields.",
-      "date": "2026-09-28",
+      "id": "ai-data-centers-face-scrutiny-in-australia",
+      "title": "AI, Data Centers Face Scrutiny in Australia",
+      "summary": "Regulatory and public scrutiny of AI and data centers in Australia may slow the adoption of AI technologies and influence how AI is implemented in the workforce.",
+      "date": "2026-09-29",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/ai-data-centers-face-scrutiny-in-australia-video",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "regulation",
-        "talent",
-        "international relations"
+        "data-centers",
+        "ai-safety"
       ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3472,92 +3472,45 @@
       ]
     },
     {
-      "id": "who-s-liable-when-ai-agents-go-rogue-",
-      "title": "Who’s liable when AI agents go rogue?",
-      "summary": "Questions about liability for AI agents' actions highlight legal and regulatory challenges that could slow AI adoption in the workplace.",
+      "id": "how-we-will-do-better-for-australia",
+      "title": "How we will do better for Australia",
+      "summary": "OpenAI's apology and commitment to stronger cyber defenses in Australia highlight regulatory and security concerns that may slow AI adoption in government and related sectors.",
       "date": "2026-09-28",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "regulation",
-        "legal",
-        "AI safety"
-      ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line",
-      "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
-      "summary": "Nvidia's new security tools aim to control AI agents, addressing safety and compliance concerns that could slow or shape the adoption of AI in workplaces.",
-      "date": "2026-09-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI regulation",
-        "security",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
-      "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
-      "summary": "Concerns over AI safety and breaches may lead to increased regulation or scrutiny, potentially slowing AI adoption in the workplace.",
-      "date": "2026-09-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "policy"
-      ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
-      "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
-      "summary": "Nvidia's new AI security system introduces a layer of regulation and control, potentially slowing the deployment of AI agents in enterprise environments.",
-      "date": "2026-09-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI security",
-        "regulation",
+        "cybersecurity",
         "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "openai-scraps-debut-of-ai-model-as-it-sets-new-guardrails",
+      "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
+      "summary": "OpenAI's decision to delay its AI model highlights increased regulatory and safety concerns, which may slow AI adoption in workplaces.",
+      "date": "2026-09-28",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "enterprise-adoption"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3568,61 +3521,181 @@
       ]
     },
     {
-      "id": "verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
-      "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
-      "summary": "Verisure's investment in AI and partnerships signals increased adoption of AI in the home-security industry to stay competitive.",
-      "date": "2026-09-28",
+      "id": "nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+      "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
+      "summary": "Top AI executives meeting with a former president highlights growing political and regulatory attention on AI risks, which could slow or shape its adoption in the workplace.",
+      "date": "2026-09-29",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+      "effect": "delay",
       "impactScore": 3,
+      "tags": [
+        "policy",
+        "regulation",
+        "enterprise"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "trump-to-talk-ai-risks-and-threats-with-tech-ceos",
+      "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
+      "summary": "High-level political discussion on AI risks may lead to increased regulation or policy constraints on AI adoption in the workplace.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "policy",
+        "regulation",
+        "AI adoption"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "us-china-ai-race-five-key-flashpoints-explained",
+      "title": "US-China AI Race: Five Key Flashpoints Explained",
+      "summary": "Geopolitical competition between the US and China may slow AI collaboration and create regulatory friction that affects global AI development and workplace adoption.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "geopolitics",
+        "regulation",
+        "AI competition"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+      "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
+      "summary": "Globe Telecom's investment in AI for its data-center venture signals growing AI adoption in the telecommunications and financial services sectors.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
         "AI adoption",
         "enterprise AI",
-        "workplace transformation"
+        "telecom",
+        "fintech"
       ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "management"
+      ]
+    },
+    {
+      "id": "openai-scraps-debut-of-latest-astra-model",
+      "title": "OpenAI Scraps Debut of Latest Astra Model",
+      "summary": "OpenAI's decision to delay its Astra model highlights ongoing challenges in ensuring AI safety and performance, which could slow the adoption of new AI tools in the workplace.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "AI development",
+        "safety",
+        "regulation"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
-        "business-and-financial"
+        "_all"
       ]
     },
     {
-      "id": "openai-agents-tried-to-bruteforce-a-un-website",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "AI agents attempting to brute-force a UN website highlights security risks and potential regulatory scrutiny around AI use in sensitive institutions.",
-      "date": "2026-09-27",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "id": "openai-to-help-australia-on-ai-defense-after-government-hack",
+      "title": "OpenAI to Help Australia on AI Defense After Government Hack",
+      "summary": "OpenAI's response to a government hack highlights increased regulatory scrutiny and potential delays in AI adoption due to security and compliance concerns.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI security",
         "regulation",
-        "workplace adoption"
+        "security",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-09-28T11:00:48.282Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "data-centers-ai-face-skepticism-in-australia",
+      "title": "Data Centers, AI Face Skepticism in Australia",
+      "summary": "Concerns over data security and AI governance in Australia may slow the adoption of AI technologies and influence regulatory frameworks.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "data-security",
+        "governance"
+      ],
+      "fetchedAt": "2026-09-29T11:00:53.422Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "legal",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     }
   ],
-  "generatedAt": "2026-09-28T12:00:00.000Z",
+  "generatedAt": "2026-09-29T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Global AI Talent Restrictions and Security Concerns Slow Momentum",
-      "preview": "Travel curbs and security risks raise concerns about AI adoption.",
-      "body": "Recent news highlights growing concerns around AI safety, liability, and talent mobility. China's travel restrictions and reports of AI agents breaching systems suggest increased regulatory caution. Meanwhile, Nvidia's new tools aim to address these issues, but the overall trend points to slower adoption in the short term."
+      "title": "Regulatory Concerns and Geopolitical Tensions Slow AI Adoption",
+      "preview": "New delays in AI deployment reflect growing regulatory and geopolitical pressures.",
+      "body": "Recent signals highlight increased regulatory scrutiny and geopolitical tensions affecting AI adoption. OpenAI's delayed model launches and high-level political discussions on AI risks suggest a cautious approach to implementation. Meanwhile, Globe Telecom's investment in AI signals continued interest in the technology, but overall, the balance of the feed leans toward delays."
     }
   }
 }

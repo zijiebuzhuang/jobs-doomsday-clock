@@ -1,5 +1,289 @@
 [
   {
+    "date": "2026-09-29",
+    "minutesToMidnight": 1,
+    "exactMinutesToMidnight": 0.51,
+    "macroReplacementRate": 49.965,
+    "newsAdjustment": -12.49,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "ai-data-centers-face-scrutiny-in-australia",
+        "title": "AI, Data Centers Face Scrutiny in Australia",
+        "summary": "Regulatory and public scrutiny of AI and data centers in Australia may slow the adoption of AI technologies and influence how AI is implemented in the workforce.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/ai-data-centers-face-scrutiny-in-australia-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "data-centers",
+          "ai-safety"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "how-we-will-do-better-for-australia",
+        "title": "How we will do better for Australia",
+        "summary": "OpenAI's apology and commitment to stronger cyber defenses in Australia highlight regulatory and security concerns that may slow AI adoption in government and related sectors.",
+        "date": "2026-09-28",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "cybersecurity",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "openai-scraps-debut-of-ai-model-as-it-sets-new-guardrails",
+        "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
+        "summary": "OpenAI's decision to delay its AI model highlights increased regulatory and safety concerns, which may slow AI adoption in workplaces.",
+        "date": "2026-09-28",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+        "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
+        "summary": "Top AI executives meeting with a former president highlights growing political and regulatory attention on AI risks, which could slow or shape its adoption in the workplace.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "enterprise"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-to-talk-ai-risks-and-threats-with-tech-ceos",
+        "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
+        "summary": "High-level political discussion on AI risks may lead to increased regulation or policy constraints on AI adoption in the workplace.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "regulation",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "us-china-ai-race-five-key-flashpoints-explained",
+        "title": "US-China AI Race: Five Key Flashpoints Explained",
+        "summary": "Geopolitical competition between the US and China may slow AI collaboration and create regulatory friction that affects global AI development and workplace adoption.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "geopolitics",
+          "regulation",
+          "AI competition"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+        "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
+        "summary": "Globe Telecom's investment in AI for its data-center venture signals growing AI adoption in the telecommunications and financial services sectors.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "enterprise AI",
+          "telecom",
+          "fintech"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "management"
+        ]
+      },
+      {
+        "id": "openai-scraps-debut-of-latest-astra-model",
+        "title": "OpenAI Scraps Debut of Latest Astra Model",
+        "summary": "OpenAI's decision to delay its Astra model highlights ongoing challenges in ensuring AI safety and performance, which could slow the adoption of new AI tools in the workplace.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI development",
+          "safety",
+          "regulation"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-to-help-australia-on-ai-defense-after-government-hack",
+        "title": "OpenAI to Help Australia on AI Defense After Government Hack",
+        "summary": "OpenAI's response to a government hack highlights increased regulatory scrutiny and potential delays in AI adoption due to security and compliance concerns.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "security",
+          "enterprise-adoption"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "data-centers-ai-face-skepticism-in-australia",
+        "title": "Data Centers, AI Face Skepticism in Australia",
+        "summary": "Concerns over data security and AI governance in Australia may slow the adoption of AI technologies and influence regulatory frameworks.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "data-security",
+          "governance"
+        ],
+        "fetchedAt": "2026-09-29T11:00:53.422Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI Scraps Debut of AI Model as It Sets New Guardrails.",
+        "body": "This update is split between 1 advances and 9 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Telecom Giant Globe Bets on AI for Next Billion-Dollar Business\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI Scraps Debut of AI Model as It Sets New Guardrails\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.490 minutes. Updated 2026-09-29T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-09-28",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.23,
@@ -19908,218 +20192,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor.",
         "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -12.975 minutes. Updated 2026-07-01T12:00:00.000Z, with the macro replacement estimate at 50.0%."
-      }
-    }
-  },
-  {
-    "date": "2026-06-30",
-    "minutesToMidnight": 0,
-    "exactMinutesToMidnight": 0.419,
-    "macroReplacementRate": 49.971,
-    "newsAdjustment": -12.581,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "openai-is-teasing-new-hardware-for-codex",
-        "title": "OpenAI is teasing new hardware… for Codex",
-        "summary": "OpenAI's new hardware for Codex suggests advancements in AI-assisted coding tools, potentially improving developer productivity and workflows.",
-        "date": "2026-06-29",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "coding",
-          "productivity"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "production"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "how-to-govern-autonomous-agents-in-enterprise-ai-factories",
-        "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-        "summary": "The article highlights the growing need for governance of AI agents in enterprise settings, signaling increased regulatory and security considerations that may slow or shape AI adoption in workplaces.",
-        "date": "2026-06-29",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI governance",
-          "enterprise AI",
-          "workplace security"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/AI-Factory-Secure-768x432.png"
-      },
-      {
-        "id": "the-ai-jobs-debate-just-got-messier",
-        "title": "The AI jobs debate just got messier",
-        "summary": "AI adoption is associated with increased hiring, particularly for entry-level roles, challenging the narrative that AI eliminates junior jobs.",
-        "date": "2026-06-30",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "hiring trends",
-          "workforce impact"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "gemini-s-personalized-ai-image-generation-is-now-free-for-us-users",
-        "title": "Gemini’s personalized AI image generation is now free for US users",
-        "summary": "Free access to personalized AI image generation in the U.S. expands AI adoption and could impact creative and design workflows across multiple industries.",
-        "date": "2026-06-29",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "workflows",
-          "productivity"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "arts-and-design",
-          "computer-and-information-technology",
-          "media-and-communication"
-        ]
-      },
-      {
-        "id": "openai-maps-eu-ai-workforce-impact",
-        "title": "OpenAI Maps EU AI Workforce Impact",
-        "summary": "OpenAI's analysis of the EU AI workforce impact highlights how AI is reshaping job roles and skill demands across various industries.",
-        "date": "2026-06-29",
-        "source": "StartupHub.ai",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnBRNXNfNGxHR0hTT0p2aFpyRWwwa0xvTXR5Wmx3Q2VzYjBuLXppRGpNTzZqS1NSNEh2UGpmVlVMZnJ6eFNvSFNCTFhRSzhDakp3YTUydGZYek8xZFl1bXE0UmRtTl9xN181SF9qaEwzd012cUU0azlzTlRrY2pPUVhHaHBDWnVLTnFnV3JzY1VTUVRreEJZZHJKWEFUdw?oc=5",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "workforce impact",
-          "AI adoption",
-          "regulatory landscape"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "sap-gives-ai-product-oversight-to-top-executives-in-reshuffle",
-        "title": "SAP Gives AI Product Oversight to Top Executives in Reshuffle",
-        "summary": "SAP's reorganization shows increased executive focus on AI product oversight, signaling growing importance of AI in enterprise software leadership.",
-        "date": "2026-06-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-ai",
-          "executive-strategy",
-          "software-industry"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-        "title": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI",
-        "summary": "The restricted release of Anthropic's Mythos AI highlights growing concerns about AI-driven cyber risks, potentially slowing adoption due to security and regulatory concerns.",
-        "date": "2026-06-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI security",
-          "regulation",
-          "cyber risk"
-        ],
-        "fetchedAt": "2026-06-30T11:00:54.453Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by How to Govern Autonomous Agents in Enterprise AI Factories.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"The AI jobs debate just got messier\" (TechCrunch - AI), while the clearest drag comes from \"How to Govern Autonomous Agents in Enterprise AI Factories\" (NVIDIA Developer - Generative AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.581 minutes. Updated 2026-06-30T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
