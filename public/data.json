@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:29",
-  "minutesToMidnight": 1,
-  "exactMinutesToMidnight": 0.51,
+  "displayTime": "23:59:43",
+  "minutesToMidnight": 0,
+  "exactMinutesToMidnight": 0.279,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.49,
+  "newsAdjustment": -12.721,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.965,
+  "macroReplacementRate": 49.981,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,239 +3448,193 @@
   ],
   "newsFeed": [
     {
-      "id": "ai-data-centers-face-scrutiny-in-australia",
-      "title": "AI, Data Centers Face Scrutiny in Australia",
-      "summary": "Regulatory and public scrutiny of AI and data centers in Australia may slow the adoption of AI technologies and influence how AI is implemented in the workforce.",
+      "id": "openai-launches-dots-its-bubbly-agentic-avatar",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "OpenAI's Dots represent a step forward in AI agents that can operate autonomously, potentially affecting workflows and productivity across multiple industries.",
       "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/ai-data-centers-face-scrutiny-in-australia-video",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "data-centers",
-        "ai-safety"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "how-we-will-do-better-for-australia",
-      "title": "How we will do better for Australia",
-      "summary": "OpenAI's apology and commitment to stronger cyber defenses in Australia highlight regulatory and security concerns that may slow AI adoption in government and related sectors.",
-      "date": "2026-09-28",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "cybersecurity",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "openai-scraps-debut-of-ai-model-as-it-sets-new-guardrails",
-      "title": "OpenAI Scraps Debut of AI Model as It Sets New Guardrails",
-      "summary": "OpenAI's decision to delay its AI model highlights increased regulatory and safety concerns, which may slow AI adoption in workplaces.",
-      "date": "2026-09-28",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "safety",
-        "enterprise-adoption"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
-      "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
-      "summary": "Top AI executives meeting with a former president highlights growing political and regulatory attention on AI risks, which could slow or shape its adoption in the workplace.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "enterprise"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "trump-to-talk-ai-risks-and-threats-with-tech-ceos",
-      "title": "Trump to Talk AI Risks and Threats With Tech CEOs",
-      "summary": "High-level political discussion on AI risks may lead to increased regulation or policy constraints on AI adoption in the workplace.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/trump-to-talk-ai-risks-and-threats-with-tech-ceos-video",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "regulation",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "us-china-ai-race-five-key-flashpoints-explained",
-      "title": "US-China AI Race: Five Key Flashpoints Explained",
-      "summary": "Geopolitical competition between the US and China may slow AI collaboration and create regulatory friction that affects global AI development and workplace adoption.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "geopolitics",
-        "regulation",
-        "AI competition"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
-      "title": "Telecom Giant Globe Bets on AI for Next Billion-Dollar Business",
-      "summary": "Globe Telecom's investment in AI for its data-center venture signals growing AI adoption in the telecommunications and financial services sectors.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/telecom-giant-globe-bets-on-ai-for-next-billion-dollar-business",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "enterprise AI",
-        "telecom",
-        "fintech"
+        "AI agents",
+        "workflow automation",
+        "productivity tools"
       ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI's expansion of Codex with cloud environments and new tools enhances developer productivity and AI integration in software development workflows.",
+      "date": "2026-09-29",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "coding",
+        "productivity",
+        "development"
+      ],
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-latest-features-take-direct-aim-at-the-app-store-model",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI's shift toward an app-store alternative could reshape how AI tools and software are discovered and used, affecting workflows and productivity across tech and other industries.",
+      "date": "2026-09-29",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workflows",
+        "productivity",
+        "enterprise adoption"
+      ],
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-expands-chatgpt-s-plug-ins-with-app-like-interfaces-and-automations",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "summary": "Expanding ChatGPT's plug-ins with app-like interfaces and automations enhances AI integration into workflows, improving productivity and task automation across industries.",
+      "date": "2026-09-29",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "productivity",
+        "workflow automation"
+      ],
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpt",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's office suite launch signals increased AI adoption in workplace productivity tools, challenging traditional software companies.",
+      "date": "2026-09-29",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workplace adoption",
+        "productivity"
+      ],
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ]
+    },
+    {
+      "id": "deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+      "title": "Deloitte UK Partner Pay Grows to $1.5 Million on AI Demand",
+      "summary": "Growing demand for AI consulting services is boosting compensation for Deloitte UK partners, signaling increased AI adoption and expertise in professional services.",
+      "date": "2026-09-29",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "professional services",
+        "consulting",
+        "salary trends"
+      ],
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
         "management"
       ]
     },
     {
-      "id": "openai-scraps-debut-of-latest-astra-model",
-      "title": "OpenAI Scraps Debut of Latest Astra Model",
-      "summary": "OpenAI's decision to delay its Astra model highlights ongoing challenges in ensuring AI safety and performance, which could slow the adoption of new AI tools in the workplace.",
+      "id": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-a",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "summary": "Warnings from AI researchers about superintelligence highlight potential regulatory and safety concerns that could slow AI adoption in the workplace.",
       "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/openai-scraps-debut-of-latest-astra-model-video",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
       "effect": "delay",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
-        "AI development",
-        "safety",
-        "regulation"
+        "AI risks",
+        "regulation",
+        "safety"
       ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ]
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-to-help-australia-on-ai-defense-after-government-hack",
-      "title": "OpenAI to Help Australia on AI Defense After Government Hack",
-      "summary": "OpenAI's response to a government hack highlights increased regulatory scrutiny and potential delays in AI adoption due to security and compliance concerns.",
+      "id": "here-s-why-openai-is-absent-from-nvidia-s-industry-wide-effort-to-end-rogue-ai-a",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI's private collaboration with Nvidia on AI safety highlights growing concerns and regulatory friction around AI agent development.",
       "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "regulation",
-        "security",
-        "enterprise-adoption"
+        "AI regulation",
+        "industry collaboration",
+        "safety constraints"
       ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "data-centers-ai-face-skepticism-in-australia",
-      "title": "Data Centers, AI Face Skepticism in Australia",
-      "summary": "Concerns over data security and AI governance in Australia may slow the adoption of AI technologies and influence regulatory frameworks.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-29/data-centers-ai-face-skepticism-in-australia-video",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "data-security",
-        "governance"
-      ],
-      "fetchedAt": "2026-09-29T11:00:53.422Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3690,12 +3644,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-29T12:00:00.000Z",
+  "generatedAt": "2026-09-30T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "Regulatory Concerns and Geopolitical Tensions Slow AI Adoption",
-      "preview": "New delays in AI deployment reflect growing regulatory and geopolitical pressures.",
-      "body": "Recent signals highlight increased regulatory scrutiny and geopolitical tensions affecting AI adoption. OpenAI's delayed model launches and high-level political discussions on AI risks suggest a cautious approach to implementation. Meanwhile, Globe Telecom's investment in AI signals continued interest in the technology, but overall, the balance of the feed leans toward delays."
+      "title": "OpenAI advances challenge traditional workflows, but safety concerns linger",
+      "preview": "OpenAI's new tools boost productivity, but warnings about AI risks persist.",
+      "body": "OpenAI's recent announcements, including Dots and an app-store alternative, signal strong progress in AI integration across industries. However, concerns about AI safety and regulatory friction, as highlighted by researchers and OpenAI's absence from Nvidia's efforts, suggest ongoing challenges. The overall balance of the feed reflects both innovation and caution."
     }
   }
 }

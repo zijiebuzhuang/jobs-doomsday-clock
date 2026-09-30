@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-09-30",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": 0.279,
+    "macroReplacementRate": 49.981,
+    "newsAdjustment": -12.721,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "openai-launches-dots-its-bubbly-agentic-avatar",
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "summary": "OpenAI's Dots represent a step forward in AI agents that can operate autonomously, potentially affecting workflows and productivity across multiple industries.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workflow automation",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+        "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+        "summary": "OpenAI's expansion of Codex with cloud environments and new tools enhances developer productivity and AI integration in software development workflows.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "coding",
+          "productivity",
+          "development"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-latest-features-take-direct-aim-at-the-app-store-model",
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "summary": "OpenAI's shift toward an app-store alternative could reshape how AI tools and software are discovered and used, affecting workflows and productivity across tech and other industries.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflows",
+          "productivity",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-expands-chatgpt-s-plug-ins-with-app-like-interfaces-and-automations",
+        "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+        "summary": "Expanding ChatGPT's plug-ins with app-like interfaces and automations enhances AI integration into workflows, improving productivity and task automation across industries.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "productivity",
+          "workflow automation"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpt",
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "summary": "OpenAI's office suite launch signals increased AI adoption in workplace productivity tools, challenging traditional software companies.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workplace adoption",
+          "productivity"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+        "title": "Deloitte UK Partner Pay Grows to $1.5 Million on AI Demand",
+        "summary": "Growing demand for AI consulting services is boosting compensation for Deloitte UK partners, signaling increased AI adoption and expertise in professional services.",
+        "date": "2026-09-29",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "professional services",
+          "consulting",
+          "salary trends"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "management"
+        ]
+      },
+      {
+        "id": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-a",
+        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+        "summary": "Warnings from AI researchers about superintelligence highlight potential regulatory and safety concerns that could slow AI adoption in the workplace.",
+        "date": "2026-09-29",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI risks",
+          "regulation",
+          "safety"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "here-s-why-openai-is-absent-from-nvidia-s-industry-wide-effort-to-end-rogue-ai-a",
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "summary": "OpenAI's private collaboration with Nvidia on AI safety highlights growing concerns and regulatory friction around AI agent development.",
+        "date": "2026-09-29",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI regulation",
+          "industry collaboration",
+          "safety constraints"
+        ],
+        "fetchedAt": "2026-09-30T11:00:47.844Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by OpenAI launches Dots, its bubbly agentic avatar.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"OpenAI launches Dots, its bubbly agentic avatar\" (TechCrunch - AI), while the clearest drag comes from \"AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.721 minutes. Updated 2026-09-30T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-09-29",
     "minutesToMidnight": 1,
     "exactMinutesToMidnight": 0.51,
@@ -19958,240 +20196,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push.",
         "body": "This update is split between 5 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI Proposes Giving 5% Stake to US Government: FT\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.018 minutes. Updated 2026-07-02T12:00:00.000Z, with the macro replacement estimate at 50.0%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-01",
-    "minutesToMidnight": 0,
-    "exactMinutesToMidnight": 0.025,
-    "macroReplacementRate": 49.998,
-    "newsAdjustment": -12.975,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
-        "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
-        "summary": "AI is beginning to show measurable impact on employment in tech and finance sectors, signaling growing workplace pressure from AI adoption.",
-        "date": "2026-07-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI labor impact",
-          "workforce changes",
-          "industry trends"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "claude-science-is-anthropic-s-newest-flagship-product",
-        "title": "Claude Science is Anthropic’s newest flagship product",
-        "summary": "Anthropic's Claude Science introduces an AI tool tailored for scientific research, signaling increased AI adoption in life and physical sciences.",
-        "date": "2026-06-30",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "scientific research",
-          "workforce adoption"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "healthcare",
-          "life-physical-and-social-science",
-          "computer-and-information-technology"
-        ]
-      },
-      {
-        "id": "anthropic-says-us-lifted-restrictions-on-fable-5",
-        "title": "Anthropic Says US Lifted Restrictions on Fable 5",
-        "summary": "Removal of restrictions on Anthropic's AI models allows broader distribution and adoption, accelerating AI integration into work processes.",
-        "date": "2026-07-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-01/anthropic-says-us-lifted-restrictions-on-fable-5-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "model-release",
-          "adoption"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
-        "title": "An English Furniture Maker Faces AI Era of Bots Buying Sofas",
-        "summary": "An English furniture maker is preparing for the AI era, signaling that AI adoption is extending into traditional industries like manufacturing and retail.",
-        "date": "2026-07-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/an-english-furniture-maker-faces-ai-era-of-bots-buying-sofas",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "industry transformation",
-          "workforce preparation"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "production",
-          "business-and-financial",
-          "construction-and-extraction"
-        ]
-      },
-      {
-        "id": "google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-        "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
-        "summary": "Increased access to AI tools for African creators may boost productivity and content creation in media, design, and tech sectors.",
-        "date": "2026-07-01",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "content creation",
-          "global talent development"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "arts-and-design"
-        ]
-      },
-      {
-        "id": "google-s-notebooklm-can-sum-up-your-research-in-a-tiktok-style-clip",
-        "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-        "summary": "Google's NotebookLM introduces TikTok-style AI videos, enhancing how users consume and interact with research, signaling AI's growing integration into knowledge work and productivity tools.",
-        "date": "2026-06-30",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "education-training-and-library",
-          "management"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
-        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-        "summary": "Ex-DeepMind researchers are leveraging their AI expertise in finance, showing the growing influence of AI talent in high-skill sectors like quantitative finance.",
-        "date": "2026-06-30",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI talent",
-          "finance",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "us-lifts-export-restrictions-on-anthropic-s-fable-5-ai-model",
-        "title": "US Lifts Export Restrictions on Anthropic’s Fable 5 AI Model",
-        "summary": "Removal of export restrictions on Anthropic's Fable 5 AI model accelerates its global adoption and use in enterprise and research settings.",
-        "date": "2026-06-30",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-30/us-government-lifts-restrictions-on-anthropic-s-fable-5-model",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI regulation",
-          "enterprise AI",
-          "model distribution"
-        ],
-        "fetchedAt": "2026-07-01T11:01:09.835Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor.",
-        "body": "This update leans forward, with 8 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor\" (Bloomberg Technology), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -12.975 minutes. Updated 2026-07-01T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
