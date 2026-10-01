@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:43",
+  "displayTime": "00:00:02",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": 0.279,
+  "exactMinutesToMidnight": -0.034,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.721,
+  "newsAdjustment": -13.034,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.981,
+  "macroReplacementRate": 50.002,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,118 +3448,143 @@
   ],
   "newsFeed": [
     {
-      "id": "openai-launches-dots-its-bubbly-agentic-avatar",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "OpenAI's Dots represent a step forward in AI agents that can operate autonomously, potentially affecting workflows and productivity across multiple industries.",
-      "date": "2026-09-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "id": "forecasting-space-weather-risks-on-power-grids",
+      "title": "Forecasting space weather risks on power grids",
+      "summary": "AI improves prediction of space weather risks, enhancing grid resilience and operational safety in critical infrastructure sectors.",
+      "date": "2026-09-30",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI agents",
-        "workflow automation",
-        "productivity tools"
+        "AI adoption",
+        "workforce impact",
+        "productivity"
       ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
+        "architecture-and-engineering",
         "computer-and-information-technology",
-        "management",
         "_all"
       ]
     },
     {
-      "id": "openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI's expansion of Codex with cloud environments and new tools enhances developer productivity and AI integration in software development workflows.",
-      "date": "2026-09-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "id": "ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+      "title": "AI Job Cuts Reach BMW as Carmaker Slashes Senior Management",
+      "summary": "BMW is using AI to streamline management, signaling increased pressure on corporate hierarchies and management roles due to AI adoption.",
+      "date": "2026-10-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "coding",
-        "productivity",
-        "development"
+        "AI adoption",
+        "workforce restructuring",
+        "enterprise AI"
       ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "computer-and-information-technology",
         "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-s-latest-features-take-direct-aim-at-the-app-store-model",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI's shift toward an app-store alternative could reshape how AI tools and software are discovered and used, affecting workflows and productivity across tech and other industries.",
-      "date": "2026-09-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "workflows",
-        "productivity",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-expands-chatgpt-s-plug-ins-with-app-like-interfaces-and-automations",
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "summary": "Expanding ChatGPT's plug-ins with app-like interfaces and automations enhances AI integration into workflows, improving productivity and task automation across industries.",
-      "date": "2026-09-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflow automation"
-      ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
         "business-and-financial",
         "_all"
       ]
     },
     {
-      "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpt",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's office suite launch signals increased AI adoption in workplace productivity tools, challenging traditional software companies.",
-      "date": "2026-09-29",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "id": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "summary": "A new AI safety agreement led by Trump introduces self-regulation that could shape the pace and direction of AI adoption in the workforce.",
+      "date": "2026-09-30",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "policy",
+        "AI safety"
+      ],
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "google-announces-gemini-4-and-says-it-s-so-capable-that-only-trusted-cyber-defen",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "summary": "Google's restricted release of Gemini 4 highlights advanced AI capabilities in cybersecurity and enterprise workflows, signaling increased AI adoption in critical fields.",
+      "date": "2026-09-30",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workplace adoption",
-        "productivity"
+        "AI model release",
+        "workforce impact",
+        "cybersecurity"
       ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "protective-service"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "the-ai-tamagotchis-are-coming",
+      "title": "The AI Tamagotchis are coming",
+      "summary": "Major AI companies are testing physical devices with AI agents, signaling a shift toward hardware integration that could influence future workplace tools and productivity.",
+      "date": "2026-09-30",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI hardware",
+        "workplace adoption",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "the-battle-to-be-your-personal-ai-agent-is-here",
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "summary": "Competition between AI agents like OpenAI's Dots and Meta's Muse signals growing adoption of AI in personal and professional workflows.",
+      "date": "2026-09-30",
+      "source": "Wired",
+      "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI agents",
+        "workplace adoption",
+        "productivity tools"
+      ],
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3570,86 +3595,61 @@
       ]
     },
     {
-      "id": "deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
-      "title": "Deloitte UK Partner Pay Grows to $1.5 Million on AI Demand",
-      "summary": "Growing demand for AI consulting services is boosting compensation for Deloitte UK partners, signaling increased AI adoption and expertise in professional services.",
-      "date": "2026-09-29",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-29/deloitte-uk-partner-pay-grows-to-1-5-million-on-ai-demand",
+      "id": "openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's Decisions API suggests improved AI decision-making capabilities, potentially accelerating AI adoption in complex workflows.",
+      "date": "2026-09-30",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "professional services",
-        "consulting",
-        "salary trends"
+        "AI tools",
+        "workflow change",
+        "enterprise adoption"
       ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ]
-    },
-    {
-      "id": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-a",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "summary": "Warnings from AI researchers about superintelligence highlight potential regulatory and safety concerns that could slow AI adoption in the workplace.",
-      "date": "2026-09-29",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI risks",
-        "regulation",
-        "safety"
-      ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK485_STK414_AI_SAFETY_B.webp?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "here-s-why-openai-is-absent-from-nvidia-s-industry-wide-effort-to-end-rogue-ai-a",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAI's private collaboration with Nvidia on AI safety highlights growing concerns and regulatory friction around AI agent development.",
-      "date": "2026-09-29",
+      "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google's release of Gemini 4 Argon signals increased AI capability in coding and cybersecurity, potentially boosting productivity and changing skill requirements in tech and security roles.",
+      "date": "2026-09-30",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "effect": "delay",
-      "impactScore": 3,
+      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "AI regulation",
-        "industry collaboration",
-        "safety constraints"
+        "AI model release",
+        "coding",
+        "cybersecurity",
+        "productivity"
       ],
-      "fetchedAt": "2026-09-30T11:00:47.844Z",
+      "fetchedAt": "2026-10-01T11:00:51.367Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "legal",
-        "_all"
+        "management"
       ]
     }
   ],
-  "generatedAt": "2026-09-30T12:00:00.000Z",
+  "generatedAt": "2026-10-01T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "OpenAI advances challenge traditional workflows, but safety concerns linger",
-      "preview": "OpenAI's new tools boost productivity, but warnings about AI risks persist.",
-      "body": "OpenAI's recent announcements, including Dots and an app-store alternative, signal strong progress in AI integration across industries. However, concerns about AI safety and regulatory friction, as highlighted by researchers and OpenAI's absence from Nvidia's efforts, suggest ongoing challenges. The overall balance of the feed reflects both innovation and caution."
+      "title": "AI adoption accelerates with mixed regulatory signals",
+      "preview": "New AI tools and job cuts signal rising pressure in tech and management roles.",
+      "body": "Recent developments show a mix of AI advancements and regulatory efforts, with major companies like Google and BMW highlighting both innovation and workforce shifts. While new AI capabilities in cybersecurity and decision-making are advancing, self-regulation proposals may slow broader adoption. Overall, the balance suggests continued pressure on traditional roles amid rapid technological progress."
     }
   }
 }

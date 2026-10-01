@@ -1,5 +1,201 @@
 [
   {
+    "id": "forecasting-space-weather-risks-on-power-grids",
+    "title": "Forecasting space weather risks on power grids",
+    "summary": "AI improves prediction of space weather risks, enhancing grid resilience and operational safety in critical infrastructure sectors.",
+    "date": "2026-09-30",
+    "source": "Microsoft Research",
+    "sourceUrl": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce impact",
+      "productivity"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "architecture-and-engineering",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal",
+    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "summary": "A new AI safety agreement led by Trump introduces self-regulation that could shape the pace and direction of AI adoption in the workforce.",
+    "date": "2026-09-30",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-announces-gemini-4-and-says-it-s-so-capable-that-only-trusted-cyber-defen",
+    "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+    "summary": "Google's restricted release of Gemini 4 highlights advanced AI capabilities in cybersecurity and enterprise workflows, signaling increased AI adoption in critical fields.",
+    "date": "2026-09-30",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "workforce impact",
+      "cybersecurity"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "protective-service"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "the-ai-tamagotchis-are-coming",
+    "title": "The AI Tamagotchis are coming",
+    "summary": "Major AI companies are testing physical devices with AI agents, signaling a shift toward hardware integration that could influence future workplace tools and productivity.",
+    "date": "2026-09-30",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI hardware",
+      "workplace adoption",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+    "title": "AI Job Cuts Reach BMW as Carmaker Slashes Senior Management",
+    "summary": "BMW is using AI to streamline management, signaling increased pressure on corporate hierarchies and management roles due to AI adoption.",
+    "date": "2026-10-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce restructuring",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "management",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-battle-to-be-your-personal-ai-agent-is-here",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "summary": "Competition between AI agents like OpenAI's Dots and Meta's Muse signals growing adoption of AI in personal and professional workflows.",
+    "date": "2026-09-30",
+    "source": "Wired",
+    "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "workplace adoption",
+      "productivity tools"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "office-and-administrative-support",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "OpenAI's Decisions API suggests improved AI decision-making capabilities, potentially accelerating AI adoption in complex workflows.",
+    "date": "2026-09-30",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "workflow change",
+      "enterprise adoption"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "Google's release of Gemini 4 Argon signals increased AI capability in coding and cybersecurity, potentially boosting productivity and changing skill requirements in tech and security roles.",
+    "date": "2026-09-30",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI model release",
+      "coding",
+      "cybersecurity",
+      "productivity"
+    ],
+    "fetchedAt": "2026-10-01T11:00:51.367Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "management"
+    ]
+  },
+  {
     "id": "ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-dangerous-a",
     "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
     "summary": "Warnings from AI researchers about superintelligence highlight potential regulatory and safety concerns that could slow AI adoption in the workplace.",
@@ -16008,221 +16204,6 @@
     "categories": [
       "computer-and-information-technology",
       "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
-    "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
-    "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
-    "date": "2026-07-02",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI security",
-      "enterprise AI",
-      "workplace adoption"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/02/cybersecurity-ai-featured-768x432.png"
-  },
-  {
-    "id": "the-download-a-startup-has-a-solution-for-ai-s-groupthink-problem",
-    "title": "The Download: a startup has a solution for AI’s groupthink problem",
-    "summary": "A startup is addressing AI's groupthink problem, potentially improving the diversity and quality of AI-generated outputs, which could impact various industries relying on AI for decision-making and content generation.",
-    "date": "2026-07-02",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI development",
-      "workflow improvement",
-      "AI limitations"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "teaching-ai-to-run-with-the-turbines",
-    "title": "Teaching AI to run with the turbines",
-    "summary": "AI is being integrated into critical industrial systems, signaling a major shift in how AI affects operational workflows and infrastructure management.",
-    "date": "2026-07-02",
-    "source": "MIT Tech Review",
-    "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "industrial-ai",
-      "operational-automation",
-      "enterprise-adoption"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "research",
-    "sourceTier": "research",
-    "qualityScore": 94,
-    "categories": [
-      "production",
-      "installation-maintenance-and-repair",
-      "architecture-and-engineering"
-    ]
-  },
-  {
-    "id": "ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
-    "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
-    "summary": "A top economist suggests AI's economic impact may be more uneven than commonly believed, indicating potential challenges or slower adoption in certain sectors.",
-    "date": "2026-07-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "economics",
-      "adoption",
-      "regulation"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "_all"
-    ]
-  },
-  {
-    "id": "the-ai-trade-is-losing-one-of-its-key-signals",
-    "title": "The AI Trade Is Losing One of Its Key Signals",
-    "summary": "A decline in AI sector pricing signals potential challenges in AI adoption or investment returns, which may slow workplace AI integration.",
-    "date": "2026-07-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "investment",
-      "adoption",
-      "market-trends"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "hong-kong-rises-as-crucial-node-in-asia-s-2-trillion-ai-trade",
-    "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
-    "summary": "Hong Kong's growing role in AI trade highlights increased global AI infrastructure and supply chain integration, signaling rising demand for tech and logistics expertise.",
-    "date": "2026-07-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "AI trade",
-      "global supply chain",
-      "tech infrastructure"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex-",
-    "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-    "summary": "Cursor's potential integration of OpenAI and Anthropic models within SpaceX highlights growing AI adoption in enterprise and development workflows.",
-    "date": "2026-07-02",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-adoption",
-      "ai-model-integration",
-      "workplace-technology"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "summary": "Microsoft's new AI deployment company signals increased investment in AI adoption and infrastructure, accelerating AI's integration into enterprise workflows.",
-    "date": "2026-07-02",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "enterprise-ai",
-      "ai-adoption",
-      "corporate-strategy"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "summary": "Proposed donation of OpenAI equity to a U.S. sovereign wealth fund signals potential regulatory or policy influence on AI's financial landscape, possibly slowing or shaping AI adoption.",
-    "date": "2026-07-02",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "regulation",
-      "policy",
-      "enterprise"
-    ],
-    "fetchedAt": "2026-07-03T11:00:48.125Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "business-and-financial",
       "_all"
     ]
   }

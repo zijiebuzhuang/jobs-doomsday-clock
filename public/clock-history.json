@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-10-01",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.034,
+    "macroReplacementRate": 50.002,
+    "newsAdjustment": -13.034,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "forecasting-space-weather-risks-on-power-grids",
+        "title": "Forecasting space weather risks on power grids",
+        "summary": "AI improves prediction of space weather risks, enhancing grid resilience and operational safety in critical infrastructure sectors.",
+        "date": "2026-09-30",
+        "source": "Microsoft Research",
+        "sourceUrl": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce impact",
+          "productivity"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "architecture-and-engineering",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+        "title": "AI Job Cuts Reach BMW as Carmaker Slashes Senior Management",
+        "summary": "BMW is using AI to streamline management, signaling increased pressure on corporate hierarchies and management roles due to AI adoption.",
+        "date": "2026-10-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workforce restructuring",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "management",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal",
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "summary": "A new AI safety agreement led by Trump introduces self-regulation that could shape the pace and direction of AI adoption in the workforce.",
+        "date": "2026-09-30",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "policy",
+          "AI safety"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-announces-gemini-4-and-says-it-s-so-capable-that-only-trusted-cyber-defen",
+        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+        "summary": "Google's restricted release of Gemini 4 highlights advanced AI capabilities in cybersecurity and enterprise workflows, signaling increased AI adoption in critical fields.",
+        "date": "2026-09-30",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "workforce impact",
+          "cybersecurity"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "protective-service"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-ai-tamagotchis-are-coming",
+        "title": "The AI Tamagotchis are coming",
+        "summary": "Major AI companies are testing physical devices with AI agents, signaling a shift toward hardware integration that could influence future workplace tools and productivity.",
+        "date": "2026-09-30",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI hardware",
+          "workplace adoption",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "the-battle-to-be-your-personal-ai-agent-is-here",
+        "title": "The Battle to Be Your Personal AI Agent Is Here",
+        "summary": "Competition between AI agents like OpenAI's Dots and Meta's Muse signals growing adoption of AI in personal and professional workflows.",
+        "date": "2026-09-30",
+        "source": "Wired",
+        "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workplace adoption",
+          "productivity tools"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "office-and-administrative-support",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "summary": "OpenAI's Decisions API suggests improved AI decision-making capabilities, potentially accelerating AI adoption in complex workflows.",
+        "date": "2026-09-30",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflow change",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "summary": "Google's release of Gemini 4 Argon signals increased AI capability in coding and cybersecurity, potentially boosting productivity and changing skill requirements in tech and security roles.",
+        "date": "2026-09-30",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI model release",
+          "coding",
+          "cybersecurity",
+          "productivity"
+        ],
+        "fetchedAt": "2026-10-01T11:00:51.367Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "management"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Forecasting space weather risks on power grids.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Forecasting space weather risks on power grids\" (Microsoft Research), while the clearest drag comes from \"Here’s how tech leaders will self-police AI safety under Trump’s deal\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.034 minutes. Updated 2026-10-01T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-09-30",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": 0.279,
@@ -19961,241 +20199,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Hardware-Rooted AI Security That Won’t Slow You Down.",
         "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Hardware-Rooted AI Security That Won’t Slow You Down\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.197 minutes. Updated 2026-07-03T12:00:00.000Z, with the macro replacement estimate at 50.0%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-02",
-    "minutesToMidnight": 0,
-    "exactMinutesToMidnight": -0.018,
-    "macroReplacementRate": 50.001,
-    "newsAdjustment": -13.018,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "sap-restricts-hiring-travel-to-fund-significant-ai-push",
-        "title": "SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push",
-        "summary": "SAP's decision to restrict hiring and travel to fund AI development signals increased investment in AI, potentially shifting workforce priorities and accelerating AI adoption in enterprise software.",
-        "date": "2026-07-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/sap-restricts-hiring-travel-to-fund-significant-ai-push",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "workforce-allocation",
-          "AI-investment"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "the-download-anthropic-launches-claude-science-and-california-s-carbon-manure-ma",
-        "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "summary": "Anthropic's launch of Claude Science signals increased AI adoption in scientific research, potentially boosting productivity and skill demands in STEM fields.",
-        "date": "2026-07-01",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "scientific research",
-          "productivity"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "life-physical-and-social-science",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "gemini-spark-google-s-agentic-assistant-is-now-available-on-mac",
-        "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-        "summary": "Google's Gemini Spark assistant expanding to Mac represents AI adoption in daily workflows, increasing productivity and shifting task automation for knowledge workers.",
-        "date": "2026-07-01",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI tools",
-          "productivity",
-          "workflows"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-proposes-giving-5-stake-to-us-government-ft",
-        "title": "OpenAI Proposes Giving 5% Stake to US Government: FT",
-        "summary": "Proposed government stake in OpenAI signals increased regulatory scrutiny and potential policy constraints on AI development and adoption.",
-        "date": "2026-07-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "policy",
-          "enterprise"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-proposes-giving-the-us-government-a-5-stake-ft-says",
-        "title": "OpenAI Proposes Giving the US Government a 5% Stake, FT Says",
-        "summary": "OpenAI's potential stake sale to the US government could introduce regulatory and political constraints on AI development and deployment.",
-        "date": "2026-07-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "policy",
-          "enterprise"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "mgx-raises-49-billion-for-ai-deals",
-        "title": "MGX Raises $49 Billion for AI Deals",
-        "summary": "A major AI investment fund launch signals increased capital and focus on AI adoption, likely accelerating AI integration across industries.",
-        "date": "2026-07-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/mgx-raises-49-billion-for-ai-deals-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "investment",
-          "AI funding",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-s-long-sidelined-fable-5-is-greenlit-to-return",
-        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
-        "summary": "The lifting of export controls on Claude Fable 5 allows broader access to advanced AI models, accelerating their adoption in enterprise and cloud environments.",
-        "date": "2026-07-01",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI regulation",
-          "enterprise AI",
-          "model deployment"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "trump-drops-restrictions-on-anthropic-s-mythos-and-fable-models",
-        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-        "summary": "The Trump administration's removal of restrictions on AI models may create uncertainty in AI policy, affecting how companies plan for future AI adoption.",
-        "date": "2026-07-01",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "policy",
-          "enterprise-ai"
-        ],
-        "fetchedAt": "2026-07-02T11:01:24.727Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push.",
-        "body": "This update is split between 5 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"SAP Restricts Hiring, Travel to Fund ‘Significant’ AI Push\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI Proposes Giving 5% Stake to US Government: FT\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.018 minutes. Updated 2026-07-02T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
