@@ -1,5 +1,200 @@
 [
   {
+    "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "Albertsons Companies is integrating AI tools like ChatGPT Enterprise to improve internal workflows and customer experience, signaling increased AI adoption in retail operations.",
+    "date": "2026-10-01",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workflow improvement",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "office-and-administrative-support",
+      "computer-and-information-technology"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-",
+    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "summary": "OpenAI's release of Dots, an AI agent, signals increased competition and advancement in AI-powered personal assistants, potentially impacting workflows and productivity across multiple industries.",
+    "date": "2026-10-01",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI agents",
+      "workplace adoption",
+      "enterprise tools"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "business-and-financial"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "google-s-new-guided-vision-feature-can-help-you-read-the-fine-print",
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "summary": "Google's Guided Vision feature uses AI to provide real-time audio descriptions, enhancing accessibility and potentially influencing workflows in various industries.",
+    "date": "2026-10-01",
+    "source": "The Verge - AI",
+    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI accessibility",
+      "productivity tools",
+      "workplace adoption"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 90,
+    "categories": [
+      "computer-and-information-technology",
+      "healthcare",
+      "_all"
+    ],
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+    "id": "ai-talent-race-between-us-and-china-is-the-next-battleground",
+    "title": "AI Talent Race Between US and China Is the Next Battleground",
+    "summary": "The AI talent race between the US and China highlights global competition for skilled workers, affecting workforce dynamics and career opportunities in tech and related fields.",
+    "date": "2026-10-02",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI Talent",
+      "Global Competition",
+      "Workforce Dynamics"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "life-physical-and-social-science",
+      "_all"
+    ]
+  },
+  {
+    "id": "stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+    "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+    "summary": "Stripe's expansion in Dublin may help offset AI-related job losses, suggesting a balancing effect of AI adoption on employment.",
+    "date": "2026-10-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "job market",
+      "corporate strategy"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+    "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
+    "summary": "Leading AI companies are testing public trust in using AI agents for sensitive tasks, signaling increased workplace adoption of AI capabilities.",
+    "date": "2026-10-01",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workplace tools",
+      "trust and safety"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "summary": "AI writing tools like Opus 5.5 are showing increased reliability, signaling progress in AI's ability to produce consistent and dependable content.",
+    "date": "2026-10-01",
+    "source": "TechCrunch - AI",
+    "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI writing",
+      "productivity",
+      "tool adoption"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "media-and-communication",
+      "office-and-administrative-support"
+    ]
+  },
+  {
+    "id": "chta-releases-updated-ai-workforce-guide-for-caribbean-hospitality",
+    "title": "CHTA releases updated AI Workforce Guide for Caribbean Hospitality",
+    "summary": "The updated AI Workforce Guide for Caribbean Hospitality indicates growing integration of AI in the hospitality sector, signaling increased focus on AI-related skills and workflows.",
+    "date": "2026-10-01",
+    "source": "Hotel Management",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG52QTI2aGU5eUIwSUJmNnR2dDV4WUhvU1FmNUh0SjUta0JqUkdodlhtTjllYlkycEh0VGxSaHhBSkdoV3dOX3o4U1d6YWhtM3N2NlItSjd3cVVHTXJjYl8yeUxxTWtDR1FmN2g3cXdlYS1RdE54OHRYNWYtajFBMENnczMxdG96cE1PQ1pxaTQtZUItWHVOa045UjhFY3dqaEZDck0zMEZkUQ?oc=5",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "AI adoption",
+      "workforce development",
+      "industry-specific AI"
+    ],
+    "fetchedAt": "2026-10-02T11:00:53.980Z",
+    "sourceGroup": "labor-market",
+    "sourceTier": "aggregator",
+    "qualityScore": 55,
+    "categories": [
+      "personal-care-and-service",
+      "food-preparation-and-serving",
+      "computer-and-information-technology"
+    ]
+  },
+  {
     "id": "forecasting-space-weather-risks-on-power-grids",
     "title": "Forecasting space weather risks on power grids",
     "summary": "AI improves prediction of space weather risks, enhancing grid resilience and operational safety in critical infrastructure sectors.",
@@ -16059,151 +16254,6 @@
     "categories": [
       "computer-and-information-technology",
       "business-and-financial",
-      "_all"
-    ]
-  },
-  {
-    "id": "openai-floats-giving-trump-administration-5-percent-cut-of-ai-boom",
-    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-    "summary": "OpenAI's proposal to give the US government a 5% stake in AI could lead to increased regulatory oversight and shape the future of AI adoption in the workplace.",
-    "date": "2026-07-02",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "policy",
-      "enterprise-adoption"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "google-deepmind-unionization-talks-are-off-to-a-rocky-start",
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "summary": "Unionization efforts at Google DeepMind highlight potential labor challenges in AI development and adoption.",
-    "date": "2026-07-03",
-    "source": "Wired",
-    "sourceUrl": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "effect": "delay",
-    "impactScore": 3,
-    "tags": [
-      "labor",
-      "regulation",
-      "workplace"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
-    "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
-    "summary": "An Israeli AI startup is expanding into Latin America, where Trump-aligned leaders may increase demand for its cybersecurity products, signaling growing AI adoption in government and security sectors.",
-    "date": "2026-07-03",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
-    "effect": "advance",
-    "impactScore": 3,
-    "tags": [
-      "cybersecurity",
-      "government",
-      "AI expansion"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ]
-  },
-  {
-    "id": "nvidia-offers-revenue-sharing-model-to-help-ai-growth",
-    "title": "Nvidia Offers Revenue Sharing Model to Help AI Growth",
-    "summary": "Nvidia's revenue sharing model could accelerate AI adoption by making its hardware more accessible to cloud providers.",
-    "date": "2026-07-02",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "cloud computing"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "production",
-      "_all"
-    ]
-  },
-  {
-    "id": "anthropic-is-discussing-a-new-custom-chip-with-samsung",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "summary": "Custom AI chips from Anthropic and OpenAI signal increased investment in specialized hardware, which could boost AI performance and adoption across industries.",
-    "date": "2026-07-02",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI infrastructure",
-      "enterprise adoption",
-      "hardware development"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "management",
-      "_all"
-    ]
-  },
-  {
-    "id": "cloudflare-s-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
-    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-    "summary": "Cloudflare's policy may slow AI companies' access to publisher content, affecting AI training and development.",
-    "date": "2026-07-01",
-    "source": "TechCrunch - AI",
-    "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "AI adoption",
-      "content licensing"
-    ],
-    "fetchedAt": "2026-07-04T11:00:52.234Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
       "_all"
     ]
   }

@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:02",
+  "displayTime": "00:00:24",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.034,
+  "exactMinutesToMidnight": -0.399,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.034,
+  "newsAdjustment": -13.399,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.002,
+  "macroReplacementRate": 50.028,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,168 +3448,144 @@
   ],
   "newsFeed": [
     {
-      "id": "forecasting-space-weather-risks-on-power-grids",
-      "title": "Forecasting space weather risks on power grids",
-      "summary": "AI improves prediction of space weather risks, enhancing grid resilience and operational safety in critical infrastructure sectors.",
-      "date": "2026-09-30",
-      "source": "Microsoft Research",
-      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI adoption",
-        "workforce impact",
-        "productivity"
-      ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "architecture-and-engineering",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
-      "title": "AI Job Cuts Reach BMW as Carmaker Slashes Senior Management",
-      "summary": "BMW is using AI to streamline management, signaling increased pressure on corporate hierarchies and management roles due to AI adoption.",
+      "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "Albertsons Companies is integrating AI tools like ChatGPT Enterprise to improve internal workflows and customer experience, signaling increased AI adoption in retail operations.",
       "date": "2026-10-01",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/ai-job-cuts-reach-bmw-as-carmaker-slashes-senior-management",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workforce restructuring",
+        "workflow improvement",
         "enterprise AI"
       ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "business-and-financial",
+        "office-and-administrative-support",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "ai-talent-race-between-us-and-china-is-the-next-battleground",
+      "title": "AI Talent Race Between US and China Is the Next Battleground",
+      "summary": "The AI talent race between the US and China highlights global competition for skilled workers, affecting workforce dynamics and career opportunities in tech and related fields.",
+      "date": "2026-10-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI Talent",
+        "Global Competition",
+        "Workforce Dynamics"
+      ],
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "management",
-        "business-and-financial",
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
         "_all"
       ]
     },
     {
-      "id": "here-s-how-tech-leaders-will-self-police-ai-safety-under-trump-s-deal",
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "summary": "A new AI safety agreement led by Trump introduces self-regulation that could shape the pace and direction of AI adoption in the workforce.",
-      "date": "2026-09-30",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "id": "stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+      "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+      "summary": "Stripe's expansion in Dublin may help offset AI-related job losses, suggesting a balancing effect of AI adoption on employment.",
+      "date": "2026-10-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
       "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "regulation",
-        "policy",
-        "AI safety"
-      ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-announces-gemini-4-and-says-it-s-so-capable-that-only-trusted-cyber-defen",
-      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "summary": "Google's restricted release of Gemini 4 highlights advanced AI capabilities in cybersecurity and enterprise workflows, signaling increased AI adoption in critical fields.",
-      "date": "2026-09-30",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI model release",
-        "workforce impact",
-        "cybersecurity"
-      ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "protective-service"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "the-ai-tamagotchis-are-coming",
-      "title": "The AI Tamagotchis are coming",
-      "summary": "Major AI companies are testing physical devices with AI agents, signaling a shift toward hardware integration that could influence future workplace tools and productivity.",
-      "date": "2026-09-30",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI hardware",
-        "workplace adoption",
-        "enterprise AI"
+        "AI adoption",
+        "job market",
+        "corporate strategy"
       ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
-      "qualityScore": 90,
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "production",
         "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&strip=all&crop=0,0,100,100"
+      ]
     },
     {
-      "id": "the-battle-to-be-your-personal-ai-agent-is-here",
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary": "Competition between AI agents like OpenAI's Dots and Meta's Muse signals growing adoption of AI in personal and professional workflows.",
-      "date": "2026-09-30",
-      "source": "Wired",
-      "sourceUrl": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "summary": "OpenAI's release of Dots, an AI agent, signals increased competition and advancement in AI-powered personal assistants, potentially impacting workflows and productivity across multiple industries.",
+      "date": "2026-10-01",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI agents",
         "workplace adoption",
-        "productivity tools"
+        "enterprise tools"
       ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
-      "qualityScore": 85,
+      "qualityScore": 90,
       "categories": [
         "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
+        "management",
+        "business-and-financial"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "openai-s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's Decisions API suggests improved AI decision-making capabilities, potentially accelerating AI adoption in complex workflows.",
-      "date": "2026-09-30",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "id": "google-s-new-guided-vision-feature-can-help-you-read-the-fine-print",
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Google's Guided Vision feature uses AI to provide real-time audio descriptions, enhancing accessibility and potentially influencing workflows in various industries.",
+      "date": "2026-10-01",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI accessibility",
+        "productivity tools",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "healthcare",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+      "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
+      "summary": "Leading AI companies are testing public trust in using AI agents for sensitive tasks, signaling increased workplace adoption of AI capabilities.",
+      "date": "2026-10-01",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "workflow change",
-        "enterprise adoption"
+        "AI adoption",
+        "workplace tools",
+        "trust and safety"
       ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3619,37 +3595,60 @@
       ]
     },
     {
-      "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "summary": "Google's release of Gemini 4 Argon signals increased AI capability in coding and cybersecurity, potentially boosting productivity and changing skill requirements in tech and security roles.",
-      "date": "2026-09-30",
+      "id": "opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "summary": "AI writing tools like Opus 5.5 are showing increased reliability, signaling progress in AI's ability to produce consistent and dependable content.",
+      "date": "2026-10-01",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI model release",
-        "coding",
-        "cybersecurity",
-        "productivity"
+        "AI writing",
+        "productivity",
+        "tool adoption"
       ],
-      "fetchedAt": "2026-10-01T11:00:51.367Z",
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
-        "management"
+        "media-and-communication",
+        "office-and-administrative-support"
+      ]
+    },
+    {
+      "id": "chta-releases-updated-ai-workforce-guide-for-caribbean-hospitality",
+      "title": "CHTA releases updated AI Workforce Guide for Caribbean Hospitality",
+      "summary": "The updated AI Workforce Guide for Caribbean Hospitality indicates growing integration of AI in the hospitality sector, signaling increased focus on AI-related skills and workflows.",
+      "date": "2026-10-01",
+      "source": "Hotel Management",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG52QTI2aGU5eUIwSUJmNnR2dDV4WUhvU1FmNUh0SjUta0JqUkdodlhtTjllYlkycEh0VGxSaHhBSkdoV3dOX3o4U1d6YWhtM3N2NlItSjd3cVVHTXJjYl8yeUxxTWtDR1FmN2g3cXdlYS1RdE54OHRYNWYtajFBMENnczMxdG96cE1PQ1pxaTQtZUItWHVOa045UjhFY3dqaEZDck0zMEZkUQ?oc=5",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workforce development",
+        "industry-specific AI"
+      ],
+      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "sourceGroup": "labor-market",
+      "sourceTier": "aggregator",
+      "qualityScore": 55,
+      "categories": [
+        "personal-care-and-service",
+        "food-preparation-and-serving",
+        "computer-and-information-technology"
       ]
     }
   ],
-  "generatedAt": "2026-10-01T12:00:00.000Z",
+  "generatedAt": "2026-10-02T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI adoption accelerates with mixed regulatory signals",
-      "preview": "New AI tools and job cuts signal rising pressure in tech and management roles.",
-      "body": "Recent developments show a mix of AI advancements and regulatory efforts, with major companies like Google and BMW highlighting both innovation and workforce shifts. While new AI capabilities in cybersecurity and decision-making are advancing, self-regulation proposals may slow broader adoption. Overall, the balance suggests continued pressure on traditional roles amid rapid technological progress."
+      "title": "AI Adoption Accelerates Amid Global Talent Competition",
+      "preview": "New AI tools and global competition signal rising adoption pressures.",
+      "body": "Recent developments show continued AI advancement, with companies like OpenAI and Google introducing new tools that enhance workflows. Meanwhile, the US-China AI talent race highlights growing competition for skilled workers. Some signals, like Stripe's hiring in Dublin, suggest potential offsets to job displacement. Overall, the balance remains tilted toward advancement."
     }
   }
 }

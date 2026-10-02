@@ -1,5 +1,242 @@
 [
   {
+    "date": "2026-10-02",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.399,
+    "macroReplacementRate": 50.028,
+    "newsAdjustment": -13.399,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out",
+        "title": "How Albertsons Companies is reimagining retail from the inside out",
+        "summary": "Albertsons Companies is integrating AI tools like ChatGPT Enterprise to improve internal workflows and customer experience, signaling increased AI adoption in retail operations.",
+        "date": "2026-10-01",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workflow improvement",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "business-and-financial",
+          "office-and-administrative-support",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "ai-talent-race-between-us-and-china-is-the-next-battleground",
+        "title": "AI Talent Race Between US and China Is the Next Battleground",
+        "summary": "The AI talent race between the US and China highlights global competition for skilled workers, affecting workforce dynamics and career opportunities in tech and related fields.",
+        "date": "2026-10-02",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI Talent",
+          "Global Competition",
+          "Workforce Dynamics"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      },
+      {
+        "id": "stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+        "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+        "summary": "Stripe's expansion in Dublin may help offset AI-related job losses, suggesting a balancing effect of AI adoption on employment.",
+        "date": "2026-10-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "job market",
+          "corporate strategy"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-",
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "summary": "OpenAI's release of Dots, an AI agent, signals increased competition and advancement in AI-powered personal assistants, potentially impacting workflows and productivity across multiple industries.",
+        "date": "2026-10-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workplace adoption",
+          "enterprise tools"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "business-and-financial"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "google-s-new-guided-vision-feature-can-help-you-read-the-fine-print",
+        "title": "Google’s new Guided Vision feature can help you read the fine print",
+        "summary": "Google's Guided Vision feature uses AI to provide real-time audio descriptions, enhancing accessibility and potentially influencing workflows in various industries.",
+        "date": "2026-10-01",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI accessibility",
+          "productivity tools",
+          "workplace adoption"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "healthcare",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+        "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
+        "summary": "Leading AI companies are testing public trust in using AI agents for sensitive tasks, signaling increased workplace adoption of AI capabilities.",
+        "date": "2026-10-01",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "workplace tools",
+          "trust and safety"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-",
+        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+        "summary": "AI writing tools like Opus 5.5 are showing increased reliability, signaling progress in AI's ability to produce consistent and dependable content.",
+        "date": "2026-10-01",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI writing",
+          "productivity",
+          "tool adoption"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "media-and-communication",
+          "office-and-administrative-support"
+        ]
+      },
+      {
+        "id": "chta-releases-updated-ai-workforce-guide-for-caribbean-hospitality",
+        "title": "CHTA releases updated AI Workforce Guide for Caribbean Hospitality",
+        "summary": "The updated AI Workforce Guide for Caribbean Hospitality indicates growing integration of AI in the hospitality sector, signaling increased focus on AI-related skills and workflows.",
+        "date": "2026-10-01",
+        "source": "Hotel Management",
+        "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG52QTI2aGU5eUIwSUJmNnR2dDV4WUhvU1FmNUh0SjUta0JqUkdodlhtTjllYlkycEh0VGxSaHhBSkdoV3dOX3o4U1d6YWhtM3N2NlItSjd3cVVHTXJjYl8yeUxxTWtDR1FmN2g3cXdlYS1RdE54OHRYNWYtajFBMENnczMxdG96cE1PQ1pxaTQtZUItWHVOa045UjhFY3dqaEZDck0zMEZkUQ?oc=5",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "workforce development",
+          "industry-specific AI"
+        ],
+        "fetchedAt": "2026-10-02T11:00:53.980Z",
+        "sourceGroup": "labor-market",
+        "sourceTier": "aggregator",
+        "qualityScore": 55,
+        "categories": [
+          "personal-care-and-service",
+          "food-preparation-and-serving",
+          "computer-and-information-technology"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by How Albertsons Companies is reimagining retail from the inside out.",
+        "body": "This update is split between 7 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How Albertsons Companies is reimagining retail from the inside out\" (OpenAI), while the clearest drag comes from \"Stripe Expands Hiring in Dublin Helping Offset AI Job Losses\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.399 minutes. Updated 2026-10-02T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-10-01",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.034,
@@ -19942,263 +20179,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by OpenAI floats giving Trump administration 5 percent cut of AI boom.",
         "body": "This update is split between 3 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Offers Revenue Sharing Model to Help AI Growth\" (Bloomberg Technology), while the clearest drag comes from \"OpenAI floats giving Trump administration 5 percent cut of AI boom\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.198 minutes. Updated 2026-07-04T12:00:00.000Z, with the macro replacement estimate at 50.0%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-03",
-    "minutesToMidnight": 0,
-    "exactMinutesToMidnight": -0.197,
-    "macroReplacementRate": 50.014,
-    "newsAdjustment": -13.197,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "the-download-a-startup-has-a-solution-for-ai-s-groupthink-problem",
-        "title": "The Download: a startup has a solution for AI’s groupthink problem",
-        "summary": "A startup is addressing AI's groupthink problem, potentially improving the diversity and quality of AI-generated outputs, which could impact various industries relying on AI for decision-making and content generation.",
-        "date": "2026-07-02",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI development",
-          "workflow improvement",
-          "AI limitations"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
-        "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
-        "summary": "A top economist suggests AI's economic impact may be more uneven than commonly believed, indicating potential challenges or slower adoption in certain sectors.",
-        "date": "2026-07-03",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "economics",
-          "adoption",
-          "regulation"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "hardware-rooted-ai-security-that-won-t-slow-you-down",
-        "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
-        "summary": "New AI security technology from NVIDIA enables more secure and efficient AI adoption, potentially accelerating enterprise use of AI models.",
-        "date": "2026-07-02",
-        "source": "NVIDIA Developer - Generative AI",
-        "sourceUrl": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI security",
-          "enterprise AI",
-          "workplace adoption"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ],
-        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/02/cybersecurity-ai-featured-768x432.png"
-      },
-      {
-        "id": "teaching-ai-to-run-with-the-turbines",
-        "title": "Teaching AI to run with the turbines",
-        "summary": "AI is being integrated into critical industrial systems, signaling a major shift in how AI affects operational workflows and infrastructure management.",
-        "date": "2026-07-02",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "industrial-ai",
-          "operational-automation",
-          "enterprise-adoption"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "production",
-          "installation-maintenance-and-repair",
-          "architecture-and-engineering"
-        ]
-      },
-      {
-        "id": "the-ai-trade-is-losing-one-of-its-key-signals",
-        "title": "The AI Trade Is Losing One of Its Key Signals",
-        "summary": "A decline in AI sector pricing signals potential challenges in AI adoption or investment returns, which may slow workplace AI integration.",
-        "date": "2026-07-03",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-03/the-ai-trade-is-losing-one-of-its-key-signals-taking-stock",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "investment",
-          "adoption",
-          "market-trends"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "hong-kong-rises-as-crucial-node-in-asia-s-2-trillion-ai-trade",
-        "title": "Hong Kong Rises as Crucial Node in Asia’s $2 Trillion AI Trade",
-        "summary": "Hong Kong's growing role in AI trade highlights increased global AI infrastructure and supply chain integration, signaling rising demand for tech and logistics expertise.",
-        "date": "2026-07-02",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/booming-ai-chip-trade-seals-hong-kong-s-role-as-gateway-to-china",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI trade",
-          "global supply chain",
-          "tech infrastructure"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "can-cursor-remain-a-platform-for-openai-and-anthropic-s-models-inside-spacex-",
-        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-        "summary": "Cursor's potential integration of OpenAI and Anthropic models within SpaceX highlights growing AI adoption in enterprise and development workflows.",
-        "date": "2026-07-02",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "ai-model-integration",
-          "workplace-technology"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment",
-        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-        "summary": "Microsoft's new AI deployment company signals increased investment in AI adoption and infrastructure, accelerating AI's integration into enterprise workflows.",
-        "date": "2026-07-02",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-ai",
-          "ai-adoption",
-          "corporate-strategy"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
-        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-        "summary": "Proposed donation of OpenAI equity to a U.S. sovereign wealth fund signals potential regulatory or policy influence on AI's financial landscape, possibly slowing or shaping AI adoption.",
-        "date": "2026-07-02",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "policy",
-          "enterprise"
-        ],
-        "fetchedAt": "2026-07-03T11:00:48.125Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Hardware-Rooted AI Security That Won’t Slow You Down.",
-        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Hardware-Rooted AI Security That Won’t Slow You Down\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.197 minutes. Updated 2026-07-03T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
