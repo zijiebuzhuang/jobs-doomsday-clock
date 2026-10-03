@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:24",
+  "displayTime": "00:00:27",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.399,
+  "exactMinutesToMidnight": -0.447,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.399,
+  "newsAdjustment": -13.447,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.028,
+  "macroReplacementRate": 50.031,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,207 +3448,238 @@
   ],
   "newsFeed": [
     {
-      "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary": "Albertsons Companies is integrating AI tools like ChatGPT Enterprise to improve internal workflows and customer experience, signaling increased AI adoption in retail operations.",
-      "date": "2026-10-01",
+      "id": "chatham-scales-its-capital-markets-expertise-with-openai",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial leverages OpenAI models to significantly improve trade validation efficiency, demonstrating AI's impact on financial workflows and productivity.",
+      "date": "2026-10-02",
       "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/albertsons-reimagining-retail",
+      "sourceUrl": "https://openai.com/index/chatham-financial",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workflow improvement",
-        "enterprise AI"
+        "productivity improvement",
+        "financial technology"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
       "sourceGroup": "official",
       "sourceTier": "official",
       "qualityScore": 100,
       "categories": [
         "business-and-financial",
-        "office-and-administrative-support",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "management"
       ],
       "imageUrl": "https://openai.com/apple-icon.png"
     },
     {
-      "id": "ai-talent-race-between-us-and-china-is-the-next-battleground",
-      "title": "AI Talent Race Between US and China Is the Next Battleground",
-      "summary": "The AI talent race between the US and China highlights global competition for skilled workers, affecting workforce dynamics and career opportunities in tech and related fields.",
+      "id": "man-charged-with-illegally-shipping-nvidia-chips-to-china",
+      "title": "Man Charged With Illegally Shipping Nvidia Chips to China",
+      "summary": "Restrictions on AI chip exports to China highlight regulatory friction affecting global AI adoption and workforce development.",
       "date": "2026-10-02",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
-      "effect": "advance",
-      "impactScore": 3,
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+      "effect": "delay",
+      "impactScore": 4,
       "tags": [
-        "AI Talent",
-        "Global Competition",
-        "Workforce Dynamics"
+        "regulation",
+        "export-controls",
+        "AI-chip-technology"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "life-physical-and-social-science",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
-      "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
-      "summary": "Stripe's expansion in Dublin may help offset AI-related job losses, suggesting a balancing effect of AI adoption on employment.",
+      "id": "openai-s-dot-agent-is-enterprise-software-that-can-also-order-your-dinner",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "OpenAI's Dots agent platform represents a step forward in AI integration into enterprise workflows, blending workplace tools with personal tasks like ordering food.",
+      "date": "2026-10-02",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "enterprise AI",
+        "workflow automation",
+        "AI agents"
+      ],
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "office-and-administrative-support",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "airbnb-adds-ai-search-and-more-social-features",
+      "title": "Airbnb adds AI search and more social features",
+      "summary": "Airbnb's integration of AI search reflects growing adoption of AI in consumer-facing services, signaling increased pressure for AI skills and workflow changes in tech and service industries.",
       "date": "2026-10-01",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+      "source": "TechCrunch Daily Crunch",
+      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6564522853.mp3",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "consumer tech",
+        "productivity tools"
+      ],
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "personal-care-and-service",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6564522853.mp3",
+      "duration": "8 min"
+    },
+    {
+      "id": "a-i-agents-cute-cuddly-and-maybe-catastrophically-dangerous-",
+      "title": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+      "summary": "Major AI companies releasing new personal assistant tools highlight growing adoption of AI in work and daily life, with potential implications for productivity and job roles.",
+      "date": "2026-10-02",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "workplace adoption",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/1c77ec0f-2352-472f-8b35-975ceb4a7da4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=1c77ec0f-2352-472f-8b35-975ceb4a7da4&feed=6HKOhNgS",
+      "duration": "00:53:02"
+    },
+    {
+      "id": "openai-cuts-ties-with-3-safety-researchers-wsj-reports",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "summary": "OpenAI's termination of safety researchers highlights increased internal control and potential regulatory scrutiny around AI development, which may slow or shape the pace of AI adoption.",
+      "date": "2026-10-01",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI adoption",
-        "job market",
-        "corporate strategy"
+        "regulation",
+        "safety",
+        "hiring"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
-      "sourceGroup": "business",
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "summary": "OpenAI's release of Dots, an AI agent, signals increased competition and advancement in AI-powered personal assistants, potentially impacting workflows and productivity across multiple industries.",
-      "date": "2026-10-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI agents",
-        "workplace adoption",
-        "enterprise tools"
-      ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "business-and-financial"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-s-new-guided-vision-feature-can-help-you-read-the-fine-print",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Google's Guided Vision feature uses AI to provide real-time audio descriptions, enhancing accessibility and potentially influencing workflows in various industries.",
-      "date": "2026-10-01",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI accessibility",
-        "productivity tools",
-        "workplace adoption"
-      ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "healthcare",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
-      "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
-      "summary": "Leading AI companies are testing public trust in using AI agents for sensitive tasks, signaling increased workplace adoption of AI capabilities.",
-      "date": "2026-10-01",
+      "id": "lockheed-taps-openai-to-solve-f-35-challenges",
+      "title": "Lockheed Taps OpenAI to Solve F-35 Challenges",
+      "summary": "Lockheed Martin's collaboration with OpenAI highlights AI adoption in advanced engineering and defense systems, signaling increased integration of AI in complex technical workflows.",
+      "date": "2026-10-02",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-02/lockheed-taps-openai-to-solve-f-35-challenges-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workplace tools",
-        "trust and safety"
+        "enterprise AI",
+        "defense tech",
+        "AI adoption"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
+        "architecture-and-engineering",
         "computer-and-information-technology",
-        "management",
-        "_all"
+        "production"
       ]
     },
     {
-      "id": "opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells-",
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "summary": "AI writing tools like Opus 5.5 are showing increased reliability, signaling progress in AI's ability to produce consistent and dependable content.",
+      "id": "chatgpt-can-now-virtually-try-on-clothes-for-you",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "summary": "AI integration into shopping experiences shows growing adoption of AI in consumer-facing workflows, potentially influencing retail and design industries.",
       "date": "2026-10-01",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "sourceUrl": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
       "effect": "advance",
       "impactScore": 3,
       "tags": [
-        "AI writing",
-        "productivity",
-        "tool adoption"
+        "consumer-tech",
+        "ai-adoption",
+        "workflow-change"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "media-and-communication",
-        "office-and-administrative-support"
+        "sales",
+        "arts-and-design"
       ]
     },
     {
-      "id": "chta-releases-updated-ai-workforce-guide-for-caribbean-hospitality",
-      "title": "CHTA releases updated AI Workforce Guide for Caribbean Hospitality",
-      "summary": "The updated AI Workforce Guide for Caribbean Hospitality indicates growing integration of AI in the hospitality sector, signaling increased focus on AI-related skills and workflows.",
-      "date": "2026-10-01",
-      "source": "Hotel Management",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG52QTI2aGU5eUIwSUJmNnR2dDV4WUhvU1FmNUh0SjUta0JqUkdodlhtTjllYlkycEh0VGxSaHhBSkdoV3dOX3o4U1d6YWhtM3N2NlItSjd3cVVHTXJjYl8yeUxxTWtDR1FmN2g3cXdlYS1RdE54OHRYNWYtajFBMENnczMxdG96cE1PQ1pxaTQtZUItWHVOa045UjhFY3dqaEZDck0zMEZkUQ?oc=5",
-      "effect": "advance",
-      "impactScore": 3,
+      "id": "james-manyika-on-ai-regulation",
+      "title": "James Manyika on AI Regulation",
+      "summary": "James Manyika emphasizes the need for collective effort in AI regulation, suggesting increased oversight could shape AI adoption and workplace integration.",
+      "date": "2026-10-02",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-02/james-manyika-on-ai-regulation-video",
+      "effect": "delay",
+      "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "workforce development",
-        "industry-specific AI"
+        "regulation",
+        "policy",
+        "AI governance"
       ],
-      "fetchedAt": "2026-10-02T11:00:53.980Z",
-      "sourceGroup": "labor-market",
-      "sourceTier": "aggregator",
-      "qualityScore": 55,
+      "fetchedAt": "2026-10-03T11:01:14.851Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
-        "personal-care-and-service",
-        "food-preparation-and-serving",
-        "computer-and-information-technology"
+        "computer-and-information-technology",
+        "management",
+        "_all"
       ]
     }
   ],
-  "generatedAt": "2026-10-02T12:00:00.000Z",
+  "generatedAt": "2026-10-03T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Adoption Accelerates Amid Global Talent Competition",
-      "preview": "New AI tools and global competition signal rising adoption pressures.",
-      "body": "Recent developments show continued AI advancement, with companies like OpenAI and Google introducing new tools that enhance workflows. Meanwhile, the US-China AI talent race highlights growing competition for skilled workers. Some signals, like Stripe's hiring in Dublin, suggest potential offsets to job displacement. Overall, the balance remains tilted toward advancement."
+      "title": "AI adoption advances despite regulatory headwinds",
+      "preview": "Positive AI developments contrast with export restrictions and internal shifts.",
+      "body": "Several key advances in AI integration were reported, including OpenAI's expansion into finance, enterprise tools, and defense. However, export controls and internal research cuts signal ongoing regulatory and operational challenges. The overall trend remains forward-moving, with mixed signals on the pace of AI-driven workforce transformation."
     }
   }
 }
