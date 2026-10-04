@@ -1,5 +1,205 @@
 [
   {
+    "id": "helping-small-businesses-put-ai-to-work",
+    "title": "Helping small businesses put AI to work",
+    "summary": "OpenAI's partnership with SBDC helps small businesses adopt AI, increasing AI's influence in local and small business workflows.",
+    "date": "2026-09-30",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce training",
+      "small business"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "disrupting-a-coordinated-model-distillation-campaign",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "summary": "OpenAI's disruption of a model-distillation campaign strengthens AI security, impacting how AI models are protected and potentially affecting development and deployment workflows.",
+    "date": "2026-09-30",
+    "source": "OpenAI",
+    "sourceUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI security",
+      "model protection",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "official",
+    "sourceTier": "official",
+    "qualityScore": 100,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://openai.com/apple-icon.png"
+  },
+  {
+    "id": "self-evolving-coding-rules-for-ai-coding-agents",
+    "title": "Self-Evolving Coding Rules for AI Coding Agents",
+    "summary": "New self-evolving coding rules could improve AI coding agents' performance and adaptability, increasing their utility in software development and related fields.",
+    "date": "2026-09-30",
+    "source": "arXiv - AI Labor",
+    "sourceUrl": "https://arxiv.org/abs/2610.00650v1",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI tools",
+      "coding",
+      "workflows",
+      "productivity"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "architecture-and-engineering",
+      "management"
+    ]
+  },
+  {
+    "id": "-we-re-not-going-to-shoot-ourselves-in-the-foot-over-hack-fallout-says-openai-s-",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "summary": "Security breaches and containment issues at AI companies highlight risks and regulatory concerns that may slow AI adoption in the workplace.",
+    "date": "2026-09-30",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "regulation",
+      "AI safety"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "the-download-openai-s-chief-research-officer-explains-its-hacking-response",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "summary": "OpenAI's response to a hack highlights security concerns and potential regulatory scrutiny affecting AI adoption and development.",
+    "date": "2026-09-30",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "security",
+      "regulation",
+      "enterprise-adoption"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "legal",
+      "_all"
+    ]
+  },
+  {
+    "id": "us-ai-task-force-to-report-on-technology-s-risks-wsj-says",
+    "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
+    "summary": "A new White House AI task force will assess AI risks and government responsibility, signaling increased regulatory scrutiny that could shape the pace of AI adoption in the workforce.",
+    "date": "2026-10-03",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+    "effect": "delay",
+    "impactScore": 4,
+    "tags": [
+      "regulation",
+      "policy",
+      "government"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "_all"
+    ]
+  },
+  {
+    "id": "reid-hoffman-on-chatgpt-data-centers-why-america-needs-ai",
+    "title": "Reid Hoffman on ChatGPT, Data Centers & Why America Needs AI",
+    "summary": "Reid Hoffman discusses the growing importance of AI in shaping the economy and workforce, highlighting its potential to disrupt industries and reshape employment.",
+    "date": "2026-10-02",
+    "source": "Apple Podcasts - Newcomer Pod",
+    "sourceUrl": "https://podcasters.spotify.com/pod/show/newcomer-podcast/episodes/Reid-Hoffman-on-ChatGPT--Data-Centers--Why-America-Needs-AI-e3pp138",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "workforce disruption",
+      "economic impact"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "management"
+    ],
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/42838588/42838588-1790959018738-6e35958d059f.jpg",
+    "mediaUrl": "https://anchor.fm/s/ffef15f0/podcast/play/126698024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2F433184311-44100-2-362fd9666e6f1.mp3",
+    "duration": "00:52:33"
+  },
+  {
+    "id": "meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "summary": "Meta's expansion of AI agent Muse to small businesses signals increased AI adoption in business operations, potentially affecting workflows and skill requirements across multiple industries.",
+    "date": "2026-09-30",
+    "source": "TechCrunch Daily Crunch",
+    "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6591179744.mp3",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "business tools",
+      "workflow change"
+    ],
+    "fetchedAt": "2026-10-04T11:00:50.312Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "business-and-financial",
+      "computer-and-information-technology",
+      "management"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV6591179744.mp3",
+    "duration": "7 min"
+  },
+  {
     "id": "chatham-scales-its-capital-markets-expertise-with-openai",
     "title": "Chatham scales its capital markets expertise with OpenAI",
     "summary": "Chatham Financial leverages OpenAI models to significantly improve trade validation efficiency, demonstrating AI's impact on financial workflows and productivity.",
@@ -16289,77 +16489,6 @@
       "computer-and-information-technology",
       "management",
       "_all"
-    ]
-  },
-  {
-    "id": "claude-science-an-ai-workbench-for-scientists-is-now-available",
-    "title": "Claude Science, an AI workbench for scientists, is now available",
-    "summary": "A new AI workbench for scientists is likely to increase productivity and change workflows in scientific research.",
-    "date": "2026-06-30",
-    "source": "Anthropic",
-    "sourceUrl": "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflows",
-      "productivity"
-    ],
-    "fetchedAt": "2026-07-06T11:01:04.551Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "life-physical-and-social-science",
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "ireland-s-us-exposed-tech-sector-faces-ai-job-disruption",
-    "title": "Ireland's US-Exposed Tech Sector Faces AI Job Disruption",
-    "summary": "AI-driven labor market disruption is affecting Ireland's tech sector, signaling increased pressure on AI adoption and job transformation in the technology industry.",
-    "date": "2026-07-06",
-    "source": "Bloomberg Technology",
-    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-06/ireland-s-us-exposed-tech-sector-faces-ai-job-disruption-video",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI adoption",
-      "labor market disruption",
-      "tech sector"
-    ],
-    "fetchedAt": "2026-07-06T11:01:04.551Z",
-    "sourceGroup": "business",
-    "sourceTier": "editorial",
-    "qualityScore": 85,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ]
-  },
-  {
-    "id": "ai-workforce-retraining-fund-hits-500m-companies-cutting-jobs-are-paying-for-the",
-    "title": "AI Workforce Retraining Fund Hits $500M: Companies Cutting Jobs Are Paying for the Fix",
-    "summary": "A $500M AI workforce retraining fund indicates companies are preparing for job displacement, suggesting regulatory or social pressure to manage AI's impact on employment.",
-    "date": "2026-07-01",
-    "source": "Tech Times",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY21fcElxTEdHVlMyOHhQU2c5cGxIbndobGdob1ExNjJNeW5qME5sckZacTdQYjJvQmJkNUF6T1JMZ3dSMEVPanlvZ0VEUHBoNzZNanhSR1lQVnFnc29feHBoM1FkMnZrM3RWeDNUYjJmZHZudkxmRXNXSzZZZG4wN3JVdDhxVDFhWUgxUms0U0U2ekhIMnpEZ1MtaC04ZmhDX1FRWmd2R2pzQThpR1ItTWd3SGxHcWltOG5rV1FvdWRiOEJHd2xwejlzaw?oc=5",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "workforce-transition",
-      "policy",
-      "retraining"
-    ],
-    "fetchedAt": "2026-07-06T11:01:04.551Z",
-    "sourceGroup": "labor-market",
-    "sourceTier": "aggregator",
-    "qualityScore": 55,
-    "categories": [
-      "management",
-      "business-and-financial",
-      "computer-and-information-technology"
     ]
   }
 ]
