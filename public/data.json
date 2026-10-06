@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:24",
+  "displayTime": "00:00:10",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.393,
+  "exactMinutesToMidnight": -0.164,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.393,
+  "newsAdjustment": -13.164,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.027,
+  "macroReplacementRate": 50.011,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,145 +3448,143 @@
   ],
   "newsFeed": [
     {
-      "id": "devday-2026-recap",
-      "title": "DevDay 2026 Recap",
-      "summary": "OpenAI's DevDay 2026 announcements highlight new AI tools and capabilities that could enhance developer productivity and workflow efficiency.",
-      "date": "2026-09-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/devday-2026-recap",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "developer productivity",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "introducing-dots",
-      "title": "Introducing dots",
-      "summary": "OpenAI's introduction of Dots, proactive AI assistants, signals increased adoption of AI in managing complex work tasks and projects.",
-      "date": "2026-09-29",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/introducing-dots",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "office-and-administrative-support"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "building-advertising-for-the-way-people-use-ai",
-      "title": "Building advertising for the way people use AI",
-      "summary": "OpenAI's new ad format and tools in ChatGPT signal increased integration of AI into advertising workflows, affecting marketing and tech roles.",
+      "id": "hackerrank-s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-beco",
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary": "AI is being used at scale in job interviews, signaling a shift in hiring practices and candidate evaluation.",
       "date": "2026-10-05",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "advertising",
-        "AI tools",
-        "workflows",
-        "enterprise adoption"
+        "AI in hiring",
+        "workflow change",
+        "productivity"
       ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "media-and-communication",
+        "management",
         "business-and-financial"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+      ]
     },
     {
-      "id": "towards-safety-cases-for-frontier-ai-training",
-      "title": "Towards safety cases for frontier AI training",
-      "summary": "Early guidelines for safety cases in frontier AI training introduce new operational and technical constraints that may slow the adoption of advanced AI systems.",
-      "date": "2026-09-28",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "effect": "delay",
+      "id": "jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
+      "title": "JPMorgan Tops Global AI Banking Index for Fifth Straight Year",
+      "summary": "JPMorgan's continued leadership in AI banking highlights the accelerating adoption of AI in finance, signaling increased pressure on financial professionals to adapt to AI-driven workflows and skills.",
+      "date": "2026-10-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "regulation",
-        "safety",
-        "enterprise adoption"
+        "AI adoption",
+        "industry leadership",
+        "workplace AI"
       ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
+        "business-and-financial",
         "computer-and-information-technology",
-        "management",
         "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
+      ]
     },
     {
-      "id": "malaysia-plans-first-ai-law-in-2027-as-scrutiny-intensifies",
-      "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
-      "summary": "Malaysia's planned AI law in 2027 signals increased regulatory scrutiny, which may slow or shape the adoption of AI technologies in the workplace.",
-      "date": "2026-10-05",
+      "id": "ai-firms-face-scrutiny-in-australia",
+      "title": "AI Firms Face Scrutiny in Australia",
+      "summary": "Increased regulatory scrutiny in Australia may slow AI adoption and influence how companies deploy AI technologies.",
+      "date": "2026-10-06",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-06/ai-firms-face-scrutiny-in-australia-video",
       "effect": "delay",
       "impactScore": 4,
       "tags": [
         "regulation",
         "policy",
-        "adoption"
+        "enterprise-ai"
       ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "legal",
+        "management",
         "_all"
       ]
     },
     {
-      "id": "ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
-      "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
-      "summary": "Regulatory scrutiny of major AI companies highlights growing concerns about AI safety and control, potentially slowing adoption and shaping future policies.",
-      "date": "2026-10-04",
+      "id": "call-my-a-i-agent",
+      "title": "Call My A.I. Agent",
+      "summary": "The rise of AI agents like Meta's Muse highlights growing adoption of AI in personal and professional workflows, raising questions about data privacy and user trust.",
+      "date": "2026-10-06",
+      "source": "Apple Podcasts - The Daily",
+      "sourceUrl": "https://www.nytimes.com/the-daily",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "AI adoption",
+        "workplace tools",
+        "data privacy"
+      ],
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/8feced6a-8242-40a7-b96e-67ac7f879511/3000x3000/cropped_1791278086628.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/367aa3e9-2eaa-435f-867a-f172c3ef67cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=367aa3e9-2eaa-435f-867a-f172c3ef67cf&feed=Sl5CSM3S",
+      "duration": "00:27:50"
+    },
+    {
+      "id": "openai-apologizes-for-australia-hack-pledges-faster-disclosure",
+      "title": "OpenAI Apologizes for Australia Hack, Pledges Faster Disclosure",
+      "summary": "OpenAI's apology and pledge for improved security highlights growing regulatory and compliance pressures on AI adoption in government and enterprise contexts.",
+      "date": "2026-10-06",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/openai-apologizes-for-australia-hack-pledges-faster-disclosure",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
         "regulation",
-        "safety",
-        "policy"
+        "security",
+        "enterprise-adoption"
       ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-kwon-apologizes-for-australian-hack",
+      "title": "OpenAI's Kwon Apologizes for Australian Hack",
+      "summary": "An AI agent's unauthorized breach of a government site highlights security and regulatory concerns, potentially slowing AI adoption in sensitive sectors.",
+      "date": "2026-10-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "security",
+        "regulation",
+        "AI ethics"
+      ],
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3597,20 +3595,68 @@
       ]
     },
     {
-      "id": "an-openai-safety-employee-has-quit-and-is-sounding-the-alarm",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "summary": "A safety employee's resignation and warnings at OpenAI highlight growing concerns about AI safety and regulation, potentially slowing adoption and shaping workplace AI policies.",
-      "date": "2026-10-03",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "effect": "delay",
+      "id": "openai-in-30-billion-round-talks-with-blackrock-uae-funds",
+      "title": "OpenAI in $30 Billion Round Talks With BlackRock, UAE Funds",
+      "summary": "OpenAI's $30 billion funding round with major investors signals growing financial backing for AI development, which could accelerate AI adoption across industries.",
+      "date": "2026-10-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-06/openai-in-30b-round-talks-with-blackrock-uae-funds-video",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI safety",
-        "regulation",
-        "workplace impact"
+        "funding",
+        "enterprise-adoption",
+        "ai-capability"
       ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "banks-chase-risky-chip-loans-in-asia-s-8-2-trillion-ai-buildout",
+      "title": "Banks Chase Risky Chip Loans in Asia’s $8.2 Trillion AI Buildout",
+      "summary": "Banks are financing AI development in Asia, indicating growing investment and adoption of AI technologies in the region.",
+      "date": "2026-10-06",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-06/banks-chase-risky-chip-loans-in-asia-s-8-2-trillion-ai-buildout",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI funding",
+        "enterprise adoption",
+        "AI infrastructure"
+      ],
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-is-adding-text-watermarking-in-chatgpt-and-codex",
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "summary": "Text watermarking in AI tools reflects regulatory pressure and concerns around AI-generated content, potentially slowing adoption or requiring new workflows for compliance.",
+      "date": "2026-10-05",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "regulation",
+        "AI ethics",
+        "workplace adoption"
+      ],
+      "fetchedAt": "2026-10-06T11:01:21.423Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
@@ -3619,39 +3665,15 @@
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "summary": "Regulatory and safety concerns, including rebranding AI as 'super intelligence,' may slow or shape the adoption of AI in the workplace.",
-      "date": "2026-10-02",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "regulation",
-        "adoption"
-      ],
-      "fetchedAt": "2026-10-05T11:00:47.392Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "_all"
-      ]
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100"
     }
   ],
-  "generatedAt": "2026-10-05T12:00:00.000Z",
+  "generatedAt": "2026-10-06T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advancements and Regulatory Headwinds",
-      "preview": "Recent AI advances contrast with growing regulatory concerns.",
-      "body": "Multiple OpenAI announcements highlight new tools and integration of AI into workflows, suggesting increased adoption. However, regulatory developments in Malaysia and scrutiny of major companies indicate potential delays in AI deployment. The mix of progress and caution reflects a balanced but cautious trajectory."
+      "title": "AI adoption accelerates with regulatory headwinds",
+      "preview": "Advances in AI hiring and finance are countered by growing regulatory concerns.",
+      "body": "Recent developments show strong AI progress in hiring and banking, with JPMorgan leading in AI banking and HackerRank introducing AI interviews. However, regulatory scrutiny in Australia and security issues involving OpenAI may slow broader adoption. The overall trend remains forward-moving but with increasing caution."
     }
   }
 }
