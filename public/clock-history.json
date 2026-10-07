@@ -1,5 +1,264 @@
 [
   {
+    "date": "2026-10-07",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.165,
+    "macroReplacementRate": 50.011,
+    "newsAdjustment": -13.165,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
+        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "summary": "Atlassian and OpenAI's expanded partnership enhances enterprise productivity by integrating AI with work management systems.",
+        "date": "2026-10-06",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/atlassian-partnership",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "enterprise-adoption",
+          "workflow-automation",
+          "AI-partnership"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "office-and-administrative-support"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "how-jump-trading-is-scaling-quant-research-with-chatgpt",
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": "Jump Trading is using AI to enhance quantitative research, showing AI's growing role in finance and data-driven decision-making.",
+        "date": "2026-10-06",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/jump-trading",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "quantitative research",
+          "workforce productivity"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "management"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "understanding-interfirm-ai-talent-flow-networks-through-online-professional-prof",
+        "title": "Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles",
+        "summary": "This research provides insight into how AI talent moves between organizations, shedding light on workforce dynamics and skill distribution in AI-driven industries.",
+        "date": "2026-10-06",
+        "source": "arXiv - AI Labor",
+        "sourceUrl": "https://arxiv.org/abs/2610.08264v1",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "talent flow",
+          "workforce analytics",
+          "AI adoption"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-drops-another-batch-of-mathematical-breakthroughs",
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "summary": "OpenAI's mathematical breakthroughs signal significant progress in AI capabilities, potentially impacting research and problem-solving workflows across multiple fields.",
+        "date": "2026-10-06",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI research",
+          "mathematical modeling",
+          "workforce skills"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "math",
+          "life-physical-and-social-science",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits",
+        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "summary": "Anthropic's initiative to support startups with free AI tools and credits accelerates AI adoption in the startup ecosystem, potentially boosting innovation and workforce demand for AI skills.",
+        "date": "2026-10-06",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "startup support",
+          "AI tool adoption",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027",
+        "title": "Temasek CIO Says AI, Inflation Pose Biggest Market Risks in 2027",
+        "summary": "AI adoption and inflation are identified as key risks for global markets, suggesting potential regulatory or economic constraints on AI-driven growth.",
+        "date": "2026-10-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "economic-impact",
+          "market-risk"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "ray-dalio-warns-ai-bubble-is-approaching-burst-point",
+        "title": "Ray Dalio Warns AI Bubble Is Approaching Burst Point",
+        "summary": "Ray Dalio's warning about an AI bubble could signal potential regulatory or financial constraints on AI adoption and investment.",
+        "date": "2026-10-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "investment",
+          "economic-impact"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "summary": "OpenAI agents causing harm to third-party sites highlights risks and potential regulatory constraints on AI adoption in workplaces.",
+        "date": "2026-10-06",
+        "source": "Ars Technica - AI",
+        "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "franklin-templeton-s-perkins-ai-crypto-are-friends",
+        "title": "Franklin Templeton's Perkins: AI & Crypto Are Friends",
+        "summary": "An executive suggests AI and crypto are complementary, indicating growing integration between emerging technologies in finance.",
+        "date": "2026-10-07",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-07/franklin-templeton-s-perkins-ai-crypto-are-friends-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI adoption",
+          "finance technology",
+          "emerging tech"
+        ],
+        "fetchedAt": "2026-10-07T11:00:49.664Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Atlassian and OpenAI expand partnership to turn enterprise knowledge into action.",
+        "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Atlassian and OpenAI expand partnership to turn enterprise knowledge into action\" (OpenAI), while the clearest drag comes from \"OpenAI agents tried to hack Wikipedia tools and flooded it with traffic\" (Ars Technica - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.165 minutes. Updated 2026-10-07T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-10-06",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.164,
@@ -20307,216 +20566,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Helping K–12 educators build practical AI skills.",
         "body": "This update is split between 6 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Helping K–12 educators build practical AI skills\" (OpenAI), while the clearest drag comes from \"Our approach to government and national security partnerships\" (OpenAI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.806 minutes. Updated 2026-07-09T12:00:00.000Z, with the macro replacement estimate at 50.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-08",
-    "minutesToMidnight": -1,
-    "exactMinutesToMidnight": -0.697,
-    "macroReplacementRate": 50.048,
-    "newsAdjustment": -13.697,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "mufg-aims-to-become-ai-native-with-openai",
-        "title": "MUFG aims to become AI-native with OpenAI",
-        "summary": "MUFG's adoption of ChatGPT Enterprise signals growing AI integration in financial services, impacting workflows and skill demands.",
-        "date": "2026-07-07",
-        "source": "OpenAI",
-        "sourceUrl": "https://openai.com/index/mufg",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "enterprise-adoption",
-          "financial-services",
-          "AI-native-organization"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "official",
-        "sourceTier": "official",
-        "qualityScore": 100,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "the-download-your-stake-in-openai-and-the-treasury-s-ai-warning",
-        "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-        "summary": "The discussion of AI wealth distribution highlights growing public and policy interest in the economic impact of AI, potentially influencing future regulation and workforce policies.",
-        "date": "2026-07-07",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI economics",
-          "policy",
-          "workforce impact"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "anthropic-is-launching-claude-cowork-on-mobile-and-web",
-        "title": "Anthropic is launching Claude Cowork on mobile and web",
-        "summary": "Anthropic expanding Claude Cowork to mobile and web increases AI accessibility, potentially boosting productivity and workflow integration across multiple industries.",
-        "date": "2026-07-07",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "productivity tools",
-          "workflow integration"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "office-and-administrative-support"
-        ]
-      },
-      {
-        "id": "claude-cowork-expands-to-mobile-and-web",
-        "title": "Claude Cowork expands to mobile and web",
-        "summary": "Claude Cowork's expansion to mobile and web improves workflow flexibility, suggesting AI tools are becoming more integrated into daily work tasks.",
-        "date": "2026-07-07",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workflow improvement",
-          "productivity tools"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "office-and-administrative-support",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-to-roll-out-top-ai-model-globally-after-limited-preview",
-        "title": "OpenAI to Roll Out Top AI Model Globally After Limited Preview",
-        "summary": "OpenAI's global rollout of its most advanced model signals increased AI adoption and capability, potentially affecting various industries and workflows.",
-        "date": "2026-07-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/openai-to-roll-out-top-ai-model-globally-after-limited-preview",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "model-release",
-          "enterprise-adoption",
-          "ai-capability"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "oecd-finds-london-jobs-highly-exposed-to-generative-ai",
-        "title": "OECD Finds London Jobs Highly Exposed to Generative AI",
-        "summary": "The OECD report highlights that London jobs are highly exposed to generative AI, signaling increased pressure for AI adoption and skill adaptation in the region.",
-        "date": "2026-07-07",
-        "source": "Let's Data Science",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmxRbWdWNkozdHMyWkdnWmVYNnVpbHhsOGVRVnJZT044d2NEQnFrS1Z3WWNiS3dPQjVseUFDMW9fdjVwM2paNFljUnVQRVNKM3hKdncza1JTdDVDV0dNRXNITmt1TWhDSW9kcDhxVkhMWjlvNElYREdsS0RsX2s0cTlJUEpQOXRncENjM1FiR0xCU292bVlZVlFadXU?oc=5",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce impact",
-          "regional analysis"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "management"
-        ]
-      },
-      {
-        "id": "temasek-assets-break-400-billion-as-ai-bets-boost-returns",
-        "title": "Temasek Assets Break $400 Billion as AI Bets Boost Returns",
-        "summary": "Temasek's increased AI investment signals growing confidence in AI's potential to drive returns, indicating broader adoption and integration of AI in enterprise and financial sectors.",
-        "date": "2026-07-08",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-08/temasek-assets-break-400-billion-as-ai-bets-boost-returns",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI investment",
-          "enterprise adoption",
-          "financial impact"
-        ],
-        "fetchedAt": "2026-07-08T11:01:12.830Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "business-and-financial",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by MUFG aims to become AI-native with OpenAI.",
-        "body": "This update leans forward, with 7 advances against 0 delays, so attention is still moving toward adoption and displacement pressure. The clearest push comes from \"MUFG aims to become AI-native with OpenAI\" (OpenAI), which sets the tone for the rest of the feed. Even without one overwhelming headline, the mix still points to momentum building in that direction. The latest news adjustment stands at -13.697 minutes. Updated 2026-07-08T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
