@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:10",
-  "minutesToMidnight": 0,
-  "exactMinutesToMidnight": -0.165,
+  "displayTime": "00:00:33",
+  "minutesToMidnight": -1,
+  "exactMinutesToMidnight": -0.558,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.165,
+  "newsAdjustment": -13.558,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.011,
+  "macroReplacementRate": 50.039,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,213 +3448,143 @@
   ],
   "newsFeed": [
     {
-      "id": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-into-action",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary": "Atlassian and OpenAI's expanded partnership enhances enterprise productivity by integrating AI with work management systems.",
-      "date": "2026-10-06",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/atlassian-partnership",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "enterprise-adoption",
-        "workflow-automation",
-        "AI-partnership"
-      ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "management",
-        "office-and-administrative-support"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "how-jump-trading-is-scaling-quant-research-with-chatgpt",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "summary": "Jump Trading is using AI to enhance quantitative research, showing AI's growing role in finance and data-driven decision-making.",
-      "date": "2026-10-06",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/jump-trading",
+      "id": "goldman-says-ai-shift-leaves-middle-managers-in-limbo",
+      "title": "Goldman Says AI Shift Leaves Middle Managers in Limbo",
+      "summary": "AI is reshaping managerial roles on Wall Street, signaling a shift in how middle management functions and the skills required for career progression.",
+      "date": "2026-10-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "quantitative research",
-        "workforce productivity"
+        "workplace transformation",
+        "management roles"
       ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "business-and-financial",
-        "computer-and-information-technology",
-        "management"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "understanding-interfirm-ai-talent-flow-networks-through-online-professional-prof",
-      "title": "Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles",
-      "summary": "This research provides insight into how AI talent moves between organizations, shedding light on workforce dynamics and skill distribution in AI-driven industries.",
-      "date": "2026-10-06",
-      "source": "arXiv - AI Labor",
-      "sourceUrl": "https://arxiv.org/abs/2610.08264v1",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "talent flow",
-        "workforce analytics",
-        "AI adoption"
-      ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "research",
-      "sourceTier": "research",
-      "qualityScore": 94,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
+        "management",
+        "computer-and-information-technology"
       ]
     },
     {
-      "id": "openai-drops-another-batch-of-mathematical-breakthroughs",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI's mathematical breakthroughs signal significant progress in AI capabilities, potentially impacting research and problem-solving workflows across multiple fields.",
-      "date": "2026-10-06",
+      "id": "chatgpt-s-intelligent-ui-update-fills-its-responses-with-pictures-charts-and-but",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "summary": "ChatGPT's new Intelligent UI enhances user interaction with AI by incorporating visuals and interactivity, potentially improving productivity and task execution across various industries.",
+      "date": "2026-10-07",
       "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI research",
-        "mathematical modeling",
-        "workforce skills"
+        "AI tools",
+        "productivity",
+        "workflows"
       ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 90,
       "categories": [
-        "math",
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "google-invests-millions-in-mark-zuckerberg-s-efforts-to-create-a-virtual-cell-",
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "summary": "Major investment in AI-driven biomedical research signals growing AI adoption in healthcare and life sciences, potentially transforming research workflows and skill demands.",
+      "date": "2026-10-07",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI research",
+        "healthcare",
+        "biotechnology"
+      ],
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "healthcare",
         "life-physical-and-social-science",
-        "computer-and-information-technology"
+        "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297765991.jpg?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&strip=all&crop=0,0,100,100"
     },
     {
-      "id": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-credits",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "Anthropic's initiative to support startups with free AI tools and credits accelerates AI adoption in the startup ecosystem, potentially boosting innovation and workforce demand for AI skills.",
-      "date": "2026-10-06",
+      "id": "chatgpt-is-getting-college-planning-tools",
+      "title": "ChatGPT is getting college planning tools",
+      "summary": "OpenAI's College Planner integrates AI into the college application process, signaling AI's growing role in education and career preparation.",
+      "date": "2026-10-07",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "education",
+        "AI tools",
+        "career planning"
+      ],
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "education-training-and-library",
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "The new visual interface for ChatGPT enhances user interaction and could improve productivity across various industries by making AI more accessible and intuitive.",
+      "date": "2026-10-07",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
       "effect": "advance",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "startup support",
-        "AI tool adoption",
-        "enterprise AI"
+        "AI tools",
+        "user experience",
+        "productivity"
       ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "business-and-financial",
+        "office-and-administrative-support",
         "_all"
       ]
     },
     {
-      "id": "temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027",
-      "title": "Temasek CIO Says AI, Inflation Pose Biggest Market Risks in 2027",
-      "summary": "AI adoption and inflation are identified as key risks for global markets, suggesting potential regulatory or economic constraints on AI-driven growth.",
-      "date": "2026-10-07",
+      "id": "jpmorgan-private-bank-says-ai-set-to-drive-strong-earnings",
+      "title": "JPMorgan Private Bank Says AI Set to Drive Strong Earnings",
+      "summary": "JPMorgan's AI-focused equity strategy highlights growing confidence in AI's impact on financial markets and tech sectors, signaling increased investment and adoption.",
+      "date": "2026-10-08",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/temasek-cio-says-ai-inflation-pose-biggest-market-risks-in-2027",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "policy",
-        "economic-impact",
-        "market-risk"
-      ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "ray-dalio-warns-ai-bubble-is-approaching-burst-point",
-      "title": "Ray Dalio Warns AI Bubble Is Approaching Burst Point",
-      "summary": "Ray Dalio's warning about an AI bubble could signal potential regulatory or financial constraints on AI adoption and investment.",
-      "date": "2026-10-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-07/ray-dalio-warns-ai-bubble-is-approaching-burst-point",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "regulation",
-        "investment",
-        "economic-impact"
-      ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "business-and-financial",
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "OpenAI agents causing harm to third-party sites highlights risks and potential regulatory constraints on AI adoption in workplaces.",
-      "date": "2026-10-06",
-      "source": "Ars Technica - AI",
-      "sourceUrl": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "enterprise adoption"
-      ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "_all"
-      ]
-    },
-    {
-      "id": "franklin-templeton-s-perkins-ai-crypto-are-friends",
-      "title": "Franklin Templeton's Perkins: AI & Crypto Are Friends",
-      "summary": "An executive suggests AI and crypto are complementary, indicating growing integration between emerging technologies in finance.",
-      "date": "2026-10-07",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-07/franklin-templeton-s-perkins-ai-crypto-are-friends-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-08/jpmorgan-private-bank-ai-set-to-drive-strong-earnings-video",
       "effect": "advance",
-      "impactScore": 3,
+      "impactScore": 4,
       "tags": [
         "AI adoption",
-        "finance technology",
-        "emerging tech"
+        "financial sector",
+        "market trends"
       ],
-      "fetchedAt": "2026-10-07T11:00:49.664Z",
+      "fetchedAt": "2026-10-08T11:00:52.799Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3665,12 +3595,12 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-07T12:00:00.000Z",
+  "generatedAt": "2026-10-08T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue Amid Rising Risk Warnings",
-      "preview": "Positive AI developments contrast with growing concerns about risks.",
-      "body": "Multiple advances in AI integration and capabilities were reported, including new partnerships and research breakthroughs. However, warnings from industry leaders about potential bubbles and risks highlight a cautious outlook. The overall feed shows strong momentum but with increasing awareness of possible constraints."
+      "title": "AI Advances Continue to Shape Managerial and Industry Roles",
+      "preview": "New AI tools and strategies signal growing impact across industries.",
+      "body": "Recent reports highlight AI's expanding influence, particularly in reshaping managerial roles and enhancing user interaction through visual interfaces. JPMorgan's confidence in AI-driven earnings and Goldman's insights on middle management underscore the accelerating adoption of AI in finance and beyond. Overall, the trend suggests a steady increase in AI's role in both professional and educational contexts."
     }
   }
 }
