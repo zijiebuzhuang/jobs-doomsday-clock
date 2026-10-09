@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:33",
+  "displayTime": "00:01:06",
   "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.558,
+  "exactMinutesToMidnight": -1.106,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.558,
+  "newsAdjustment": -14.106,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.039,
+  "macroReplacementRate": 50.077,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,159 +3448,257 @@
   ],
   "newsFeed": [
     {
-      "id": "goldman-says-ai-shift-leaves-middle-managers-in-limbo",
-      "title": "Goldman Says AI Shift Leaves Middle Managers in Limbo",
-      "summary": "AI is reshaping managerial roles on Wall Street, signaling a shift in how middle management functions and the skills required for career progression.",
-      "date": "2026-10-08",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-08/young-bankers-to-manage-ai-agents-from-start-goldman-exec-says",
+      "id": "sophos-cuts-threat-investigation-time-by-96-with-openai-daybreak",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "AI-powered threat investigation tools are significantly improving cybersecurity workflows and reducing manual effort.",
+      "date": "2026-10-09",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/sophos",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI adoption",
-        "workplace transformation",
-        "management roles"
+        "cybersecurity",
+        "productivity"
       ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "why-jpmorgan-is-the-most-ai-advanced-bank",
+      "title": "Why JPMorgan Is the Most AI-Advanced Bank",
+      "summary": "JPMorgan's leadership in AI adoption highlights how financial institutions are leveraging AI to transform workflows and hiring, even as they maintain headcount.",
+      "date": "2026-10-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/why-jpmorgan-is-the-most-ai-advanced-bank-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "financial services",
+        "workforce transformation"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "business-and-financial",
-        "management",
+        "computer-and-information-technology",
+        "management"
+      ]
+    },
+    {
+      "id": "china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai",
+      "title": "China Is Trouncing the US in Consumer Adoption of Generative AI",
+      "summary": "China's faster consumer adoption of generative AI may signal increasing global pressure on AI integration in work processes and skills development.",
+      "date": "2026-10-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "global competition",
+        "workforce readiness"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "anthropic-launches-free-ai-security-scans-for-open-source-projects",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's free AI security scans for open-source projects show increased adoption of AI in software development and security workflows, enhancing productivity and vulnerability detection.",
+      "date": "2026-10-08",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI tools",
+        "security",
+        "open-source"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "how-ai-is-upending-the-world-of-mathematics",
+      "title": "How AI Is Upending the World of Mathematics",
+      "summary": "AI is now solving complex mathematical problems and challenging traditional education models, signaling a major shift in how math is taught and applied.",
+      "date": "2026-10-09",
+      "source": "Apple Podcasts - Odd Lots",
+      "sourceUrl": "https://omny.fm/shows/odd-lots/how-ai-is-upending-the-world-of-mathematics",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "education impact",
+        "workplace skills"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "business",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "education-training-and-library",
+        "math",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f49c2ca3-dfe7-4a67-bc11-b4dd01463f66/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "duration": "60 min"
+    },
+    {
+      "id": "ai-in-banking-risk-and-reward-bloomberg-tech-europe-10-9-2026",
+      "title": "AI in Banking: Risk and Reward | Bloomberg Tech: Europe 10/9/2026",
+      "summary": "AI is increasingly being adopted in banking, improving efficiency but also introducing new risks, signaling growing workplace AI integration in financial services.",
+      "date": "2026-10-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/ai-in-banking-risk-and-reward-bloomberg-tech-europe-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "banking",
+        "workplace transformation"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "how-ai-is-upending-the-world-of-mathematics",
+      "title": "How AI Is Upending the World of Mathematics",
+      "summary": "AI is now solving complex mathematical problems and disrupting math education, signaling a major shift in how math is taught and applied in professional settings.",
+      "date": "2026-10-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI capabilities",
+        "education impact",
+        "professional workflows"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "math",
+        "education-training-and-library",
         "computer-and-information-technology"
       ]
     },
     {
-      "id": "chatgpt-s-intelligent-ui-update-fills-its-responses-with-pictures-charts-and-but",
-      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-      "summary": "ChatGPT's new Intelligent UI enhances user interaction with AI by incorporating visuals and interactivity, potentially improving productivity and task execution across various industries.",
-      "date": "2026-10-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI tools",
-        "productivity",
-        "workflows"
-      ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "business-and-financial",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "google-invests-millions-in-mark-zuckerberg-s-efforts-to-create-a-virtual-cell-",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "summary": "Major investment in AI-driven biomedical research signals growing AI adoption in healthcare and life sciences, potentially transforming research workflows and skill demands.",
-      "date": "2026-10-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI research",
-        "healthcare",
-        "biotechnology"
-      ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "healthcare",
-        "life-physical-and-social-science",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2243532165.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "chatgpt-is-getting-college-planning-tools",
-      "title": "ChatGPT is getting college planning tools",
-      "summary": "OpenAI's College Planner integrates AI into the college application process, signaling AI's growing role in education and career preparation.",
-      "date": "2026-10-07",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "education",
-        "AI tools",
-        "career planning"
-      ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "education-training-and-library",
-        "computer-and-information-technology",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/College-planner_updated.png?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-      "summary": "The new visual interface for ChatGPT enhances user interaction and could improve productivity across various industries by making AI more accessible and intuitive.",
-      "date": "2026-10-07",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-      "effect": "advance",
-      "impactScore": 3,
-      "tags": [
-        "AI tools",
-        "user experience",
-        "productivity"
-      ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "office-and-administrative-support",
-        "_all"
-      ]
-    },
-    {
-      "id": "jpmorgan-private-bank-says-ai-set-to-drive-strong-earnings",
-      "title": "JPMorgan Private Bank Says AI Set to Drive Strong Earnings",
-      "summary": "JPMorgan's AI-focused equity strategy highlights growing confidence in AI's impact on financial markets and tech sectors, signaling increased investment and adoption.",
-      "date": "2026-10-08",
+      "id": "openai-expects-70-billion-in-annualized-revenue-by-end-of-2026",
+      "title": "OpenAI Expects $70 Billion in Annualized Revenue by End of 2026",
+      "summary": "OpenAI's projected $70 billion in annualized revenue signals significant growth in enterprise AI adoption and commercial viability, indicating increased pressure on workplaces to integrate AI capabilities.",
+      "date": "2026-10-09",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-08/jpmorgan-private-bank-ai-set-to-drive-strong-earnings-video",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-09/openai-expects-70-billion-in-annualized-revenue-by-end-of-2026",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI adoption",
-        "financial sector",
-        "market trends"
+        "enterprise-adoption",
+        "revenue-growth",
+        "ai-commercialization"
       ],
-      "fetchedAt": "2026-10-08T11:00:52.799Z",
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "AI's ability to design genetic blueprints for viruses signals growing capabilities in bioengineering and AI-driven scientific research.",
+      "date": "2026-10-09",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI in science",
+        "genetic engineering",
+        "AI innovation"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
+      "categories": [
+        "life-physical-and-social-science",
+        "healthcare",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-expects-70-bln-annualized-revenue-by-end-of-2026",
+      "title": "OpenAI Expects $70 Bln Annualized Revenue by End of 2026",
+      "summary": "OpenAI's projected $70 billion revenue indicates rapid growth and commercial success of AI, signaling increased adoption and investment in AI technologies.",
+      "date": "2026-10-09",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/openai-expects-70-bln-annualized-revenue-by-end-of-2026-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "revenue",
+        "adoption",
+        "enterprise"
+      ],
+      "fetchedAt": "2026-10-09T11:01:07.773Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-10-08T12:00:00.000Z",
+  "generatedAt": "2026-10-09T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advances Continue to Shape Managerial and Industry Roles",
-      "preview": "New AI tools and strategies signal growing impact across industries.",
-      "body": "Recent reports highlight AI's expanding influence, particularly in reshaping managerial roles and enhancing user interaction through visual interfaces. JPMorgan's confidence in AI-driven earnings and Goldman's insights on middle management underscore the accelerating adoption of AI in finance and beyond. Overall, the trend suggests a steady increase in AI's role in both professional and educational contexts."
+      "title": "AI Advances Continue to Shape Workplace Dynamics",
+      "preview": "New AI tools and adoption trends signal ongoing pressure on job roles.",
+      "body": "Multiple headlines highlight AI's growing influence across industries, from cybersecurity to banking and mathematics. JPMorgan's leadership in AI adoption and OpenAI's revenue projections suggest increasing integration of AI in professional workflows. While some developments focus on efficiency gains, others point to broader shifts in skill requirements and job functions."
     }
   }
 }
