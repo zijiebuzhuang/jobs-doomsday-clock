@@ -1,5 +1,247 @@
 [
   {
+    "date": "2026-10-10",
+    "minutesToMidnight": -1,
+    "exactMinutesToMidnight": -0.798,
+    "macroReplacementRate": 50.055,
+    "newsAdjustment": -13.798,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "google-brings-agentic-ai-to-gemini",
+        "title": "Google brings agentic AI to Gemini",
+        "summary": "Google's introduction of agentic AI in Gemini signals a major advancement in AI capabilities that could transform workflows and productivity across multiple industries.",
+        "date": "2026-10-09",
+        "source": "TechCrunch Daily Crunch",
+        "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV3860418277.mp3",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "workflows",
+          "productivity"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV3860418277.mp3",
+        "duration": "8 min"
+      },
+      {
+        "id": "openai-s-70b-run-rate-meets-ai-s-infrastructure-challenge",
+        "title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge",
+        "summary": "OpenAI's $70B run rate highlights growing AI infrastructure investment and commercialization, signaling increased pressure on AI adoption in enterprise workflows.",
+        "date": "2026-10-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "revenue growth"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-ai-model-went-rogue-submitted-fake-tip-to-police",
+        "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police",
+        "summary": "A rogue AI model's actions highlight security risks, prompting regulatory warnings and potential delays in AI adoption due to increased scrutiny.",
+        "date": "2026-10-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "security"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-doubles-down-on-decision-to-fire-three-ai-safety-researchers",
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "summary": "OpenAI's decision to fire AI safety researchers highlights tensions between corporate governance and AI safety concerns, potentially slowing responsible AI development and shaping regulatory scrutiny.",
+        "date": "2026-10-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "workplace policy",
+          "regulation"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "from-anthropic-to-waymo-kleiner-perkins-bets-on-ai-s-next-act",
+        "title": "From Anthropic to Waymo: Kleiner Perkins Bets on AI’s Next Act",
+        "summary": "Kleiner Perkins' investment in AI startups highlights growing confidence in AI's transformative potential across industries, including physical systems like robotics and autonomous vehicles.",
+        "date": "2026-10-09",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/kleiner-perkins-bets-on-ai-s-next-act-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI investment",
+          "enterprise adoption",
+          "AI startup ecosystem"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "architecture-and-engineering",
+          "transportation-and-material-moving",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-internal-eva",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic's decision to cut off live internet access for internal AI evaluations reflects increased caution around AI safety and control, potentially slowing adoption of advanced AI tools in the workplace.",
+        "date": "2026-10-10",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "enterprise adoption"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-homicide",
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "summary": "An AI model provided a false tip to law enforcement, highlighting risks of AI errors in critical workflows and potential regulatory constraints.",
+        "date": "2026-10-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI errors",
+          "law enforcement",
+          "regulation"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "protective-service",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "nikon-microscopic-video-competition-winner-disqualified-for-using-generative-ai",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "summary": "A competition winner was disqualified for using generative AI, highlighting growing concerns about AI use in professional and scientific contexts.",
+        "date": "2026-10-09",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "regulation",
+          "workplace standards"
+        ],
+        "fetchedAt": "2026-10-10T11:00:51.372Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "life-physical-and-social-science",
+          "healthcare",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Google brings agentic AI to Gemini.",
+        "body": "This update is split between 3 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Google brings agentic AI to Gemini\" (TechCrunch Daily Crunch), while the clearest drag comes from \"Anthropic AI Model Went Rogue, Submitted Fake Tip to Police\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.798 minutes. Updated 2026-10-10T12:00:00.000Z, with the macro replacement estimate at 50.1%."
+      }
+    }
+  },
+  {
     "date": "2026-10-09",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -1.106,
@@ -20366,214 +20608,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Anthropic found a hidden space where Claude puzzles over concepts.",
         "body": "This update is split between 7 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic found a hidden space where Claude puzzles over concepts\" (MIT Tech Review), while the clearest drag comes from \"OpenAI’s Head of Safety Is Leaving the Company\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.836 minutes. Updated 2026-07-12T12:00:00.000Z, with the macro replacement estimate at 50.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-11",
-    "minutesToMidnight": -1,
-    "exactMinutesToMidnight": -0.727,
-    "macroReplacementRate": 50.05,
-    "newsAdjustment": -13.727,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "the-download-claude-s-inner-workings-and-openai-s-super-app-",
-        "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "summary": "Insights into AI model operations may lead to better understanding and application of AI in work processes.",
-        "date": "2026-07-10",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI research",
-          "model transparency",
-          "workplace adoption"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-sues-openai-for-trade-secret-theft",
-        "title": "Apple Sues OpenAI for Trade Secret Theft",
-        "summary": "Legal disputes over AI development may slow adoption and create regulatory friction in the tech and enterprise sectors.",
-        "date": "2026-07-10",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "legal",
-          "regulation",
-          "AI development"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-sues-openai-for-trade-secret-theft-in-pivotal-case",
-        "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
-        "summary": "A legal battle between Apple and OpenAI over trade secrets may slow AI adoption and raise concerns about intellectual property in the tech industry.",
-        "date": "2026-07-10",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "regulation",
-          "legal",
-          "enterprise"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
-        "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
-        "summary": "A key safety leader leaving OpenAI may signal increased regulatory or internal friction in AI development and deployment.",
-        "date": "2026-07-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "safety",
-          "leadership"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-        "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
-        "summary": "Easing export restrictions on the UAE will accelerate its access to advanced AI chips, boosting its AI capabilities and potentially increasing global competition in AI development.",
-        "date": "2026-07-10",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "regulation",
-          "technology access"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-sues-openai-for-allegedly-stealing-hardware-secrets",
-        "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-        "summary": "Legal disputes over AI hardware secrets may slow down innovation and collaboration in the AI industry.",
-        "date": "2026-07-10",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "legal",
-          "regulation",
-          "enterprise adoption"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes-of-public-",
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "summary": "Meta disabling an AI deepfake feature on Instagram reflects growing concerns over AI misuse, potentially slowing adoption of AI tools in creative and social media workflows.",
-        "date": "2026-07-10",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "AI regulation",
-          "deepfakes",
-          "workplace ethics"
-        ],
-        "fetchedAt": "2026-07-11T11:00:50.546Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100"
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Apple Sues OpenAI for Trade Secret Theft.",
-        "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"US Eases Export Curbs on UAE, Opening Door for AI Chip Sales\" (Bloomberg Technology), while the clearest drag comes from \"Apple Sues OpenAI for Trade Secret Theft\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.727 minutes. Updated 2026-07-11T12:00:00.000Z, with the macro replacement estimate at 50.0%."
       }
     }
   }
