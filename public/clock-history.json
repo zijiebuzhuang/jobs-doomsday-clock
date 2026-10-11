@@ -1,5 +1,293 @@
 [
   {
+    "date": "2026-10-11",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.259,
+    "macroReplacementRate": 50.018,
+    "newsAdjustment": -13.259,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai",
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": "Pollo AI leverages advanced OpenAI models to streamline creative workflows, enabling faster production of visual and video content for campaigns.",
+        "date": "2026-10-08",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/pollo-ai",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "creative workflow",
+          "content creation"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "media-and-communication",
+          "arts-and-design",
+          "computer-and-information-technology"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "google-brings-agentic-ai-to-gemini-starting-with-businesses",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "summary": "Google's agentic AI in Gemini represents a major step forward in AI-driven task automation and workplace integration for businesses.",
+        "date": "2026-10-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI agents",
+          "workflow automation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "the-race-for-ai-supremacy-raises-safety-concerns",
+        "title": "The Race for AI Supremacy Raises Safety Concerns",
+        "summary": "Concerns about AI safety and control by a small group of researchers raise regulatory and ethical challenges that could slow AI adoption in the workplace.",
+        "date": "2026-10-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "AI development"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+        "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+        "summary": "Proposed AI liability rules could slow adoption by creating legal uncertainty around responsibility for AI failures.",
+        "date": "2026-10-10",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "legal",
+          "safety"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "ai-agent-makers-are-promising-privacy-will-they-deliver-",
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "summary": "Concerns over AI privacy practices may slow adoption or influence regulatory approaches in AI development.",
+        "date": "2026-10-10",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "privacy",
+          "regulation",
+          "enterprise-ai"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "summary": "Anthropic is restricting internet access for internal AI evaluations due to safety concerns, indicating increased regulatory and safety friction in AI development.",
+        "date": "2026-10-10",
+        "source": "The Verge - AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "regulation",
+          "safety",
+          "AI development"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 90,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+      },
+      {
+        "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec",
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "summary": "Fired OpenAI safety researchers' dispute highlights concerns about AI safety culture and potential regulatory or internal friction affecting AI development.",
+        "date": "2026-10-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI safety",
+          "regulation",
+          "workplace culture"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "life-physical-and-social-science",
+          "_all"
+        ]
+      },
+      {
+        "id": "openai-s-revenue-is-reportedly-20-billion-less-than-previously-projected",
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "summary": "A significant drop in OpenAI's revenue projection may signal challenges in monetizing AI, potentially slowing adoption or investment in AI-driven workflows.",
+        "date": "2026-10-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "financial-performance",
+          "AI-adoption",
+          "enterprise-ai"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "summary": "Anthropic's updated usage policy introduces restrictions on AI misuse, which may slow the adoption of AI tools in certain industries due to increased regulatory scrutiny.",
+        "date": "2026-10-08",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "AI ethics",
+          "policy"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ]
+      },
+      {
+        "id": "anthropic-s-quest-to-give-a-i-morals",
+        "title": "Anthropic’s Quest to Give A.I. Morals",
+        "summary": "Anthropic's efforts to imbue AI with moral frameworks highlight growing ethical and regulatory concerns that may shape the development and adoption of AI in the workplace.",
+        "date": "2026-10-09",
+        "source": "Apple Podcasts - Hard Fork",
+        "sourceUrl": "https://www.nytimes.com/column/hard-fork",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "ethics",
+          "regulation",
+          "AI development"
+        ],
+        "fetchedAt": "2026-10-11T11:00:51.782Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/05ad1bfb-bd47-4120-a5fa-98c2f4787a3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=05ad1bfb-bd47-4120-a5fa-98c2f4787a3d&feed=6HKOhNgS",
+        "duration": "00:44:20"
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Pollo AI turns creative ideas into campaigns with OpenAI.",
+        "body": "This update is split between 2 advances and 8 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Pollo AI turns creative ideas into campaigns with OpenAI\" (OpenAI), while the clearest drag comes from \"The Race for AI Supremacy Raises Safety Concerns\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.259 minutes. Updated 2026-10-11T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-10-10",
     "minutesToMidnight": -1,
     "exactMinutesToMidnight": -0.798,
@@ -20326,288 +20614,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Hyundai Motor Workers Strike Over Bonuses, Robot Job Security.",
         "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why AI Might Actually Create More Work for Lawyers\" (Apple Podcasts - Odd Lots), while the clearest drag comes from \"Hyundai Motor Workers Strike Over Bonuses, Robot Job Security\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.016 minutes. Updated 2026-07-13T12:00:00.000Z, with the macro replacement estimate at 50.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-12",
-    "minutesToMidnight": -1,
-    "exactMinutesToMidnight": -0.836,
-    "macroReplacementRate": 50.058,
-    "newsAdjustment": -13.836,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "summary": "Anthropic's development of the Jacobian lens provides deeper insight into how large language models operate, advancing AI transparency and potentially influencing AI tool development and integration in work processes.",
-        "date": "2026-07-09",
-        "source": "MIT Tech Review",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI research",
-          "model transparency",
-          "workplace adoption"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "research",
-        "sourceTier": "research",
-        "qualityScore": 94,
-        "categories": [
-          "computer-and-information-technology",
-          "life-physical-and-social-science",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
-        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-        "summary": "OpenAI's focus on family-oriented AI experiences signals growing integration of AI into personal and caregiving roles, potentially influencing future workforce needs in healthcare and support services.",
-        "date": "2026-07-11",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "workforce development",
-          "product design"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "healthcare",
-          "personal-care-and-service",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-sues-openai-over-ai-talent-fight",
-        "title": "Apple Sues OpenAI Over AI Talent Fight",
-        "summary": "Apple's lawsuit against OpenAI highlights the growing competition for AI talent and hardware, signaling increased pressure in AI development and workforce dynamics.",
-        "date": "2026-07-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "talent competition",
-          "intellectual property",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
-        "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
-        "summary": "A Chinese AI founder advocates for open access to frontier AI, influencing the direction of AI development and accessibility.",
-        "date": "2026-07-12",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI policy",
-          "open-source",
-          "AI ethics"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-        "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
-        "summary": "A high-profile engineer moving from Apple to OpenAI highlights growing competition in AI hardware development and signals increased pressure on tech companies to invest in AI capabilities.",
-        "date": "2026-07-11",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI talent competition",
-          "AI hardware",
-          "industry adoption"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "google-will-now-tell-you-if-an-ad-was-made-with-ai",
-        "title": "Google will now tell you if an ad was made with AI",
-        "summary": "Google's AI ad labeling initiative increases transparency and accountability in AI-generated advertising, signaling broader adoption of AI in marketing and digital workflows.",
-        "date": "2026-07-09",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "transparency",
-          "advertising",
-          "AI regulation"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "media-and-communication",
-          "business-and-financial",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-ai-ads-label.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "openai-s-head-of-safety-is-leaving-the-company",
-        "title": "OpenAI’s Head of Safety Is Leaving the Company",
-        "summary": "OpenAI's leadership change in safety could signal increased focus on regulatory and ethical considerations, potentially slowing AI deployment.",
-        "date": "2026-07-11",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "regulation",
-          "safety",
-          "leadership"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-is-suing-openai-for-allegedly-stealing-hardware-secrets",
-        "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-        "summary": "Legal disputes over AI company intellectual property may slow down collaboration and talent movement in the tech industry.",
-        "date": "2026-07-10",
-        "source": "Wired",
-        "sourceUrl": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "legal",
-          "regulation",
-          "talent"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "_all"
-        ]
-      },
-      {
-        "id": "openai-launches-its-new-family-of-models-with-gpt-5-6",
-        "title": "OpenAI launches its new family of models with GPT-5.6",
-        "summary": "OpenAI's new model family with enhanced cybersecurity features signals growing AI capabilities that could impact IT and security roles.",
-        "date": "2026-07-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "model-release",
-          "cybersecurity",
-          "enterprise-adoption"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "legal",
-          "_all"
-        ]
-      },
-      {
-        "id": "apple-sues-openai-over-alleged-trade-secret-theft",
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "summary": "Legal disputes between major tech companies may slow AI adoption or increase regulatory scrutiny.",
-        "date": "2026-07-10",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "effect": "delay",
-        "impactScore": 3,
-        "tags": [
-          "legal",
-          "regulation",
-          "AI adoption"
-        ],
-        "fetchedAt": "2026-07-12T11:01:57.741Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Anthropic found a hidden space where Claude puzzles over concepts.",
-        "body": "This update is split between 7 advances and 3 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Anthropic found a hidden space where Claude puzzles over concepts\" (MIT Tech Review), while the clearest drag comes from \"OpenAI’s Head of Safety Is Leaving the Company\" (Wired). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.836 minutes. Updated 2026-07-12T12:00:00.000Z, with the macro replacement estimate at 50.1%."
       }
     }
   }

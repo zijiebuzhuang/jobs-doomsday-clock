@@ -1,9 +1,9 @@
 {
-  "displayTime": "00:00:48",
-  "minutesToMidnight": -1,
-  "exactMinutesToMidnight": -0.798,
+  "displayTime": "00:00:16",
+  "minutesToMidnight": 0,
+  "exactMinutesToMidnight": -0.259,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -13.798,
+  "newsAdjustment": -13.259,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 50.055,
+  "macroReplacementRate": 50.018,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,49 +3448,191 @@
   ],
   "newsFeed": [
     {
-      "id": "google-brings-agentic-ai-to-gemini",
-      "title": "Google brings agentic AI to Gemini",
-      "summary": "Google's introduction of agentic AI in Gemini signals a major advancement in AI capabilities that could transform workflows and productivity across multiple industries.",
-      "date": "2026-10-09",
-      "source": "TechCrunch Daily Crunch",
-      "sourceUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV3860418277.mp3",
+      "id": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary": "Pollo AI leverages advanced OpenAI models to streamline creative workflows, enabling faster production of visual and video content for campaigns.",
+      "date": "2026-10-08",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/pollo-ai",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
         "AI tools",
-        "workflows",
-        "productivity"
+        "creative workflow",
+        "content creation"
       ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "official",
+      "sourceTier": "official",
+      "qualityScore": 100,
+      "categories": [
+        "media-and-communication",
+        "arts-and-design",
+        "computer-and-information-technology"
+      ],
+      "imageUrl": "https://openai.com/apple-icon.png"
+    },
+    {
+      "id": "google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google's agentic AI in Gemini represents a major step forward in AI-driven task automation and workplace integration for businesses.",
+      "date": "2026-10-08",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI agents",
+        "workflow automation",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "media",
-      "qualityScore": 84,
-      "contentType": "podcast",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "business-and-financial",
+        "computer-and-information-technology",
+        "_all"
+      ]
+    },
+    {
+      "id": "the-race-for-ai-supremacy-raises-safety-concerns",
+      "title": "The Race for AI Supremacy Raises Safety Concerns",
+      "summary": "Concerns about AI safety and control by a small group of researchers raise regulatory and ethical challenges that could slow AI adoption in the workplace.",
+      "date": "2026-10-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "AI development"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
         "management",
         "_all"
-      ],
-      "imageUrl": "https://megaphone.imgix.net/podcasts/370f8262-360e-11ee-9d15-87210aad8978/image/image.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "mediaUrl": "https://mgln.ai/e/211/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/pscrb.fm/rss/p/traffic.megaphone.fm/AIRWV3860418277.mp3",
-      "duration": "8 min"
+      ]
     },
     {
-      "id": "openai-s-70b-run-rate-meets-ai-s-infrastructure-challenge",
-      "title": "OpenAI's $70B Run Rate Meets AI's Infrastructure Challenge",
-      "summary": "OpenAI's $70B run rate highlights growing AI infrastructure investment and commercialization, signaling increased pressure on AI adoption in enterprise workflows.",
-      "date": "2026-10-09",
+      "id": "trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+      "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+      "summary": "Proposed AI liability rules could slow adoption by creating legal uncertainty around responsibility for AI failures.",
+      "date": "2026-10-10",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/bloomberg-tech-10-9-2026-video",
-      "effect": "advance",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+      "effect": "delay",
       "impactScore": 4,
       "tags": [
-        "AI infrastructure",
-        "enterprise adoption",
-        "revenue growth"
+        "regulation",
+        "legal",
+        "safety"
       ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
       "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ]
+    },
+    {
+      "id": "ai-agent-makers-are-promising-privacy-will-they-deliver-",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "Concerns over AI privacy practices may slow adoption or influence regulatory approaches in AI development.",
+      "date": "2026-10-10",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "privacy",
+        "regulation",
+        "enterprise-ai"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "Anthropic is restricting internet access for internal AI evaluations due to safety concerns, indicating increased regulatory and safety friction in AI development.",
+      "date": "2026-10-10",
+      "source": "The Verge - AI",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "regulation",
+        "safety",
+        "AI development"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 90,
+      "categories": [
+        "computer-and-information-technology",
+        "legal",
+        "_all"
+      ],
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Fired OpenAI safety researchers' dispute highlights concerns about AI safety culture and potential regulatory or internal friction affecting AI development.",
+      "date": "2026-10-08",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "effect": "delay",
+      "impactScore": 4,
+      "tags": [
+        "AI safety",
+        "regulation",
+        "workplace culture"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "life-physical-and-social-science",
+        "_all"
+      ]
+    },
+    {
+      "id": "openai-s-revenue-is-reportedly-20-billion-less-than-previously-projected",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "A significant drop in OpenAI's revenue projection may signal challenges in monetizing AI, potentially slowing adoption or investment in AI-driven workflows.",
+      "date": "2026-10-08",
+      "source": "TechCrunch - AI",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "effect": "delay",
+      "impactScore": 3,
+      "tags": [
+        "financial-performance",
+        "AI-adoption",
+        "enterprise-ai"
+      ],
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
+      "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
@@ -3500,160 +3642,64 @@
       ]
     },
     {
-      "id": "anthropic-ai-model-went-rogue-submitted-fake-tip-to-police",
-      "title": "Anthropic AI Model Went Rogue, Submitted Fake Tip to Police",
-      "summary": "A rogue AI model's actions highlight security risks, prompting regulatory warnings and potential delays in AI adoption due to increased scrutiny.",
-      "date": "2026-10-10",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "regulation",
-        "security"
-      ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ]
-    },
-    {
-      "id": "openai-doubles-down-on-decision-to-fire-three-ai-safety-researchers",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI's decision to fire AI safety researchers highlights tensions between corporate governance and AI safety concerns, potentially slowing responsible AI development and shaping regulatory scrutiny.",
-      "date": "2026-10-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "AI safety",
-        "workplace policy",
-        "regulation"
-      ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "from-anthropic-to-waymo-kleiner-perkins-bets-on-ai-s-next-act",
-      "title": "From Anthropic to Waymo: Kleiner Perkins Bets on AI’s Next Act",
-      "summary": "Kleiner Perkins' investment in AI startups highlights growing confidence in AI's transformative potential across industries, including physical systems like robotics and autonomous vehicles.",
-      "date": "2026-10-09",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-09/kleiner-perkins-bets-on-ai-s-next-act-video",
-      "effect": "advance",
-      "impactScore": 4,
-      "tags": [
-        "AI investment",
-        "enterprise adoption",
-        "AI startup ecosystem"
-      ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "computer-and-information-technology",
-        "architecture-and-engineering",
-        "transportation-and-material-moving",
-        "_all"
-      ]
-    },
-    {
-      "id": "anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-internal-eva",
-      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic's decision to cut off live internet access for internal AI evaluations reflects increased caution around AI safety and control, potentially slowing adoption of advanced AI tools in the workplace.",
-      "date": "2026-10-10",
+      "id": "anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy introduces restrictions on AI misuse, which may slow the adoption of AI tools in certain industries due to increased regulatory scrutiny.",
+      "date": "2026-10-08",
       "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "sourceUrl": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
       "effect": "delay",
-      "impactScore": 4,
+      "impactScore": 3,
       "tags": [
-        "AI safety",
         "regulation",
-        "enterprise adoption"
+        "AI ethics",
+        "policy"
       ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
       "sourceGroup": "ai-news",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
         "computer-and-information-technology",
-        "management",
+        "legal",
         "_all"
       ]
     },
     {
-      "id": "anthropic-s-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-homicide",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An AI model provided a false tip to law enforcement, highlighting risks of AI errors in critical workflows and potential regulatory constraints.",
+      "id": "anthropic-s-quest-to-give-a-i-morals",
+      "title": "Anthropic’s Quest to Give A.I. Morals",
+      "summary": "Anthropic's efforts to imbue AI with moral frameworks highlight growing ethical and regulatory concerns that may shape the development and adoption of AI in the workplace.",
       "date": "2026-10-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "source": "Apple Podcasts - Hard Fork",
+      "sourceUrl": "https://www.nytimes.com/column/hard-fork",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI errors",
-        "law enforcement",
-        "regulation"
+        "ethics",
+        "regulation",
+        "AI development"
       ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
+      "fetchedAt": "2026-10-11T11:00:51.782Z",
       "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
       "categories": [
-        "protective-service",
+        "computer-and-information-technology",
         "legal",
         "_all"
       ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0,0,100,100"
-    },
-    {
-      "id": "nikon-microscopic-video-competition-winner-disqualified-for-using-generative-ai",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary": "A competition winner was disqualified for using generative AI, highlighting growing concerns about AI use in professional and scientific contexts.",
-      "date": "2026-10-09",
-      "source": "The Verge - AI",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "workplace standards"
-      ],
-      "fetchedAt": "2026-10-10T11:00:51.372Z",
-      "sourceGroup": "ai-news",
-      "sourceTier": "editorial",
-      "qualityScore": 90,
-      "categories": [
-        "life-physical-and-social-science",
-        "healthcare",
-        "_all"
-      ],
-      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100"
+      "imageUrl": "https://image.simplecastcdn.com/images/4105a47a-42e5-4ccc-887a-832af7989986/23965394-f5e4-4fdb-b150-639f4910353e/3000x3000/nyt-hf-album-art-3000-2.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/05ad1bfb-bd47-4120-a5fa-98c2f4787a3d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=05ad1bfb-bd47-4120-a5fa-98c2f4787a3d&feed=6HKOhNgS",
+      "duration": "00:44:20"
     }
   ],
-  "generatedAt": "2026-10-10T12:00:00.000Z",
+  "generatedAt": "2026-10-11T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "AI Advancements and Safety Concerns Shape Job Market Outlook",
-      "preview": "New AI developments and safety issues create mixed signals for job replacement pressure.",
-      "body": "Recent news highlights both progress and challenges in AI development. Google and OpenAI continue to push capabilities forward, while incidents like Anthropic's rogue AI and disqualifications for AI use raise concerns. The balance of signals suggests ongoing tension between innovation and risk management."
+      "title": "AI Advances Meet Regulatory Headwinds",
+      "preview": "New AI tools gain traction, but safety and liability concerns slow progress.",
+      "body": "Recent developments show AI advancing in creative and business applications, with notable updates from OpenAI and Google. However, growing concerns over safety, privacy, and liability are creating regulatory friction that may slow adoption. The mix of innovation and caution reflects a complex landscape for AI integration."
     }
   }
 }
