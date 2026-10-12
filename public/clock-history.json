@@ -1,5 +1,218 @@
 [
   {
+    "date": "2026-10-12",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": 0.124,
+    "macroReplacementRate": 49.991,
+    "newsAdjustment": -12.876,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "imf-chief-alarmed-at-slow-moving-tsunami-of-ai-for-jobs-taxes",
+        "title": "IMF Chief Alarmed at ‘Slow-Moving Tsunami’ of AI for Jobs, Taxes",
+        "summary": "IMF warns of AI's disruptive impact on labor and taxation, urging proactive policy changes to adapt.",
+        "date": "2026-10-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-12/imf-chief-alarmed-at-slow-moving-tsunami-of-ai-for-jobs-taxes",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "policy",
+          "labor-market",
+          "regulation"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "_all"
+        ]
+      },
+      {
+        "id": "lg-s-cho-on-latest-ai-powered-forecasting-tools",
+        "title": "LG's Cho on Latest AI-Powered Forecasting Tools",
+        "summary": "LG's AI-powered forecasting tool highlights growing AI adoption in financial services, signaling increased use of AI for market analysis and decision-making.",
+        "date": "2026-10-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-12/lg-s-cho-on-latest-ai-powered-forecasting-tools-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI tools",
+          "financial sector",
+          "workforce impact"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "management"
+        ]
+      },
+      {
+        "id": "disrupting-ai-enabled-false-front-operations",
+        "title": "Disrupting AI-enabled “false front” operations",
+        "summary": "OpenAI disrupting AI-enabled influence operations highlights growing concerns about AI misuse and potential regulatory actions that could slow adoption.",
+        "date": "2026-10-08",
+        "source": "OpenAI",
+        "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "effect": "delay",
+        "impactScore": 4,
+        "tags": [
+          "AI regulation",
+          "misuse of AI",
+          "geopolitical impact"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "official",
+        "sourceTier": "official",
+        "qualityScore": 100,
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://openai.com/apple-icon.png"
+      },
+      {
+        "id": "nate-soares-on-how-ai-really-could-kill-us-all",
+        "title": "Nate Soares on How AI Really Could Kill Us All",
+        "summary": "A discussion on AI doomsday scenarios highlights growing concerns about the risks of superintelligent AI, which may influence regulatory and safety measures affecting AI adoption.",
+        "date": "2026-10-12",
+        "source": "Apple Podcasts - Odd Lots",
+        "sourceUrl": "https://omny.fm/shows/odd-lots/nate-soares-on-how-ai-really-could-kill-us-all",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI ethics",
+          "regulation",
+          "risk"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "legal",
+          "_all"
+        ],
+        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "duration": "76 min"
+      },
+      {
+        "id": "tiktok-s-chew-and-microsoft-s-althoff-warn-about-runaway-ai-hype",
+        "title": "TikTok’s Chew and Microsoft’s Althoff Warn About Runaway AI Hype",
+        "summary": "Tech leaders caution against overestimating AI's current capabilities, suggesting regulatory or practical constraints may slow its adoption.",
+        "date": "2026-10-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-12/tiktok-s-chew-and-microsoft-s-althoff-warn-about-runaway-ai-hype",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "AI hype",
+          "adoption delay"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "mirae-asset-s-ceo-on-india-s-ai-advantage",
+        "title": "Mirae Asset's CEO on India's AI Advantage",
+        "summary": "India's growing appeal as an AI investment hub signals increasing global recognition of its potential in AI-driven productivity, which could influence workforce and career trends.",
+        "date": "2026-10-12",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-12/mirae-asset-s-ceo-on-india-s-ai-advantage-video",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "AI investment",
+          "global AI trends",
+          "productivity"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "business-and-financial",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "A faulty AI model sent a false homicide tip to police, highlighting risks of AI deployment and potential regulatory or operational slowdowns.",
+        "date": "2026-10-09",
+        "source": "TechCrunch - AI",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "AI reliability",
+          "regulation",
+          "public safety"
+        ],
+        "fetchedAt": "2026-10-12T11:01:25.002Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "legal",
+          "protective-service",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by IMF Chief Alarmed at ‘Slow-Moving Tsunami’ of AI for Jobs, Taxes.",
+        "body": "This update is split between 2 advances and 5 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"LG's Cho on Latest AI-Powered Forecasting Tools\" (Bloomberg Technology), while the clearest drag comes from \"IMF Chief Alarmed at ‘Slow-Moving Tsunami’ of AI for Jobs, Taxes\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -12.876 minutes. Updated 2026-10-12T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-10-11",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": -0.259,
@@ -20398,222 +20611,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI.",
         "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan\" (Bloomberg Technology), while the clearest drag comes from \"Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.043 minutes. Updated 2026-07-14T12:00:00.000Z, with the macro replacement estimate at 50.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-13",
-    "minutesToMidnight": -1,
-    "exactMinutesToMidnight": -1.016,
-    "macroReplacementRate": 50.07,
-    "newsAdjustment": -14.016,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "hyundai-motor-workers-strike-over-bonuses-robot-job-security",
-        "title": "Hyundai Motor Workers Strike Over Bonuses, Robot Job Security",
-        "summary": "Worker concerns about AI and robot job displacement highlight growing labor resistance to AI adoption in manufacturing.",
-        "date": "2026-07-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/hyundai-hymtf-workers-strike-over-bonuses-ai-robot-job-security",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "labor-concerns",
-          "ai-adoption",
-          "workforce-impact"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "production",
-          "installation-maintenance-and-repair",
-          "_all"
-        ]
-      },
-      {
-        "id": "why-ai-might-actually-create-more-work-for-lawyers",
-        "title": "Why AI Might Actually Create More Work for Lawyers",
-        "summary": "AI adoption in the legal profession may shift work responsibilities but not necessarily replace lawyers, highlighting AI's impact on professional workflows.",
-        "date": "2026-07-13",
-        "source": "Apple Podcasts - Odd Lots",
-        "sourceUrl": "https://omny.fm/shows/odd-lots/why-ai-might-actually-create-more-work-for-lawyers",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "workforce transformation",
-          "professional services"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "business",
-        "sourceTier": "media",
-        "qualityScore": 84,
-        "contentType": "podcast",
-        "categories": [
-          "legal",
-          "computer-and-information-technology",
-          "_all"
-        ],
-        "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-        "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bf18344e-5dd0-4852-be82-b483013dfb22/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-        "duration": "55 min"
-      },
-      {
-        "id": "meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
-        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-        "summary": "Meta's Muse Spark 1.1 introduces AI capabilities that enhance coding workflows, signaling increased AI adoption in software development and enterprise tech roles.",
-        "date": "2026-07-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI tools",
-          "coding",
-          "enterprise adoption",
-          "productivity"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "management",
-          "business-and-financial"
-        ]
-      },
-      {
-        "id": "waze-is-getting-a-bunch-of-new-ai-powered-features",
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "summary": "Waze integrating AI into its features shows AI adoption in consumer tech, potentially influencing future workplace tools and user expectations for AI-driven interfaces.",
-        "date": "2026-07-13",
-        "source": "The Verge - AI",
-        "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI integration",
-          "workplace tools",
-          "productivity"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 90,
-        "categories": [
-          "computer-and-information-technology",
-          "transportation-and-material-moving",
-          "_all"
-        ],
-        "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&strip=all&crop=0,0,100,100"
-      },
-      {
-        "id": "bill-gates-names-four-jobs-he-says-will-survive-ai-automation",
-        "title": "Bill Gates names four jobs he says will survive AI automation",
-        "summary": "Bill Gates' commentary on jobs that will survive AI automation provides insight into how AI may reshape workforce expectations and skill demands.",
-        "date": "2026-07-09",
-        "source": "MSN",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzBQcl9rZmtpUjNKQ1Y5M0w1NU9QNWJHMUluQUtqb0xQZUlrNDNTS0xmSlRiQkFwdk0waW1MR0hLNGhIemdDZ1d2N3JLLWRDQmkwVnNycm1JaUhOZ1pVYWlQUENtZWVJSDY3Y1lQVnZYeURqZjN5cnJFNFMzcFZpRnBCeTIwT2NwajFma1RCSm9GUXVXeWlqRVliMEQ?oc=5",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "job resilience",
-          "career planning"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "management",
-          "community-and-social-service",
-          "healthcare"
-        ]
-      },
-      {
-        "id": "south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
-        "title": "South Korea to Tap Record AI Tax Windfall to Fund Future Growth",
-        "summary": "South Korea's AI-driven semiconductor tax windfall could accelerate AI adoption and investment across industries.",
-        "date": "2026-07-13",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-13/south-korea-to-tap-record-ai-tax-windfall-to-fund-future-growth",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI funding",
-          "government policy",
-          "semiconductor industry"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial",
-        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "summary": "Legal disputes over AI copyright practices may slow AI adoption and increase regulatory scrutiny in content-related industries.",
-        "date": "2026-07-09",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "copyright",
-          "regulation",
-          "legal"
-        ],
-        "fetchedAt": "2026-07-13T11:01:00.700Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "media-and-communication",
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Hyundai Motor Workers Strike Over Bonuses, Robot Job Security.",
-        "body": "This update is split between 5 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Why AI Might Actually Create More Work for Lawyers\" (Apple Podcasts - Odd Lots), while the clearest drag comes from \"Hyundai Motor Workers Strike Over Bonuses, Robot Job Security\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.016 minutes. Updated 2026-07-13T12:00:00.000Z, with the macro replacement estimate at 50.1%."
       }
     }
   }
