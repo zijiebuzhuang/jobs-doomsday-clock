@@ -1,9 +1,9 @@
 {
-  "displayTime": "23:59:53",
+  "displayTime": "00:00:08",
   "minutesToMidnight": 0,
-  "exactMinutesToMidnight": 0.124,
+  "exactMinutesToMidnight": -0.14,
   "baseMinutesToMidnight": 13,
-  "newsAdjustment": -12.876,
+  "newsAdjustment": -13.14,
   "categoryAdjustments": {
     "healthcare": -0.35,
     "life-physical-and-social-science": -0.35,
@@ -31,7 +31,7 @@
     "building-and-grounds-cleaning": -0.35
   },
   "replacementRate": 49.1,
-  "macroReplacementRate": 49.991,
+  "macroReplacementRate": 50.01,
   "totalJobs": 143066500,
   "occupationCount": 341,
   "occupations": [
@@ -3448,119 +3448,101 @@
   ],
   "newsFeed": [
     {
-      "id": "imf-chief-alarmed-at-slow-moving-tsunami-of-ai-for-jobs-taxes",
-      "title": "IMF Chief Alarmed at ‘Slow-Moving Tsunami’ of AI for Jobs, Taxes",
-      "summary": "IMF warns of AI's disruptive impact on labor and taxation, urging proactive policy changes to adapt.",
-      "date": "2026-10-12",
+      "id": "moderna-google-deepmind-biocon-on-ai-in-science",
+      "title": "Moderna, Google DeepMind, Biocon on AI in Science",
+      "summary": "Leading organizations in biotech and AI discuss how AI is transforming scientific discovery, signaling increased integration of AI in research and development workflows.",
+      "date": "2026-10-13",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-12/imf-chief-alarmed-at-slow-moving-tsunami-of-ai-for-jobs-taxes",
-      "effect": "delay",
-      "impactScore": 4,
-      "tags": [
-        "policy",
-        "labor-market",
-        "regulation"
-      ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
-      "categories": [
-        "_all"
-      ]
-    },
-    {
-      "id": "lg-s-cho-on-latest-ai-powered-forecasting-tools",
-      "title": "LG's Cho on Latest AI-Powered Forecasting Tools",
-      "summary": "LG's AI-powered forecasting tool highlights growing AI adoption in financial services, signaling increased use of AI for market analysis and decision-making.",
-      "date": "2026-10-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-12/lg-s-cho-on-latest-ai-powered-forecasting-tools-video",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video",
       "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI tools",
-        "financial sector",
-        "workforce impact"
+        "AI in science",
+        "workforce transformation",
+        "R&D innovation"
       ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "business-and-financial",
+        "life-physical-and-social-science",
         "computer-and-information-technology",
-        "management"
+        "_all"
       ]
     },
     {
-      "id": "disrupting-ai-enabled-false-front-operations",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "summary": "OpenAI disrupting AI-enabled influence operations highlights growing concerns about AI misuse and potential regulatory actions that could slow adoption.",
-      "date": "2026-10-08",
-      "source": "OpenAI",
-      "sourceUrl": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "effect": "delay",
+      "id": "mathematicians-latest-problem-what-if-a-i-can-do-our-job-",
+      "title": "Mathematicians’ Latest Problem: What if A.I. Can Do Our Job?",
+      "summary": "AI's growing ability to solve complex mathematical problems raises concerns about the future of human roles in math and related fields.",
+      "date": "2026-10-13",
+      "source": "Apple Podcasts - The Daily",
+      "sourceUrl": "https://www.nytimes.com/the-daily",
+      "effect": "advance",
       "impactScore": 4,
       "tags": [
-        "AI regulation",
-        "misuse of AI",
-        "geopolitical impact"
+        "AI capability",
+        "workforce impact",
+        "problem-solving"
       ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
-      "sourceGroup": "official",
-      "sourceTier": "official",
-      "qualityScore": 100,
-      "categories": [
-        "computer-and-information-technology",
-        "legal",
-        "_all"
-      ],
-      "imageUrl": "https://openai.com/apple-icon.png"
-    },
-    {
-      "id": "nate-soares-on-how-ai-really-could-kill-us-all",
-      "title": "Nate Soares on How AI Really Could Kill Us All",
-      "summary": "A discussion on AI doomsday scenarios highlights growing concerns about the risks of superintelligent AI, which may influence regulatory and safety measures affecting AI adoption.",
-      "date": "2026-10-12",
-      "source": "Apple Podcasts - Odd Lots",
-      "sourceUrl": "https://omny.fm/shows/odd-lots/nate-soares-on-how-ai-really-could-kill-us-all",
-      "effect": "delay",
-      "impactScore": 3,
-      "tags": [
-        "AI ethics",
-        "regulation",
-        "risk"
-      ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
       "sourceGroup": "business",
       "sourceTier": "media",
       "qualityScore": 84,
       "contentType": "podcast",
       "categories": [
+        "math",
         "computer-and-information-technology",
-        "legal",
         "_all"
       ],
-      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "mediaUrl": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f6fd1a43-7c77-47c2-ae42-b4e0016e2d9b/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "duration": "76 min"
+      "imageUrl": "https://image.simplecastcdn.com/images/f2d639a1-37c3-47ac-a417-dcd92c371c0d/4b4b9fc3-a1ac-465a-9b81-b7d14da3a453/3000x3000/cropped_1791861747507.jpg?aid=rss_feed",
+      "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=Sl5CSM3S",
+      "duration": "00:33:17"
     },
     {
-      "id": "tiktok-s-chew-and-microsoft-s-althoff-warn-about-runaway-ai-hype",
-      "title": "TikTok’s Chew and Microsoft’s Althoff Warn About Runaway AI Hype",
-      "summary": "Tech leaders caution against overestimating AI's current capabilities, suggesting regulatory or practical constraints may slow its adoption.",
-      "date": "2026-10-12",
+      "id": "connecting-data-at-scale-with-ai-dropbox-s-ali-dasdan",
+      "title": "Connecting Data at Scale With AI: Dropbox's Ali Dasdan",
+      "summary": "Dropbox is leveraging AI to connect and utilize organizational data, improving productivity and demonstrating widespread AI adoption among developers.",
+      "date": "2026-10-13",
+      "source": "Apple Podcasts - Me, Myself, and AI",
+      "sourceUrl": "https://sloanreview.mit.edu/audio-series/me-myself-and-ai/",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI adoption",
+        "productivity",
+        "workflow transformation",
+        "enterprise AI"
+      ],
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
+      "sourceGroup": "ai-news",
+      "sourceTier": "media",
+      "qualityScore": 84,
+      "contentType": "podcast",
+      "categories": [
+        "computer-and-information-technology",
+        "management",
+        "_all"
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/7d0116a0-9b37-11f1-a717-67178f429787/image/2a0294c0644ee2f68a5644f42d863849.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9534820149.mp3",
+      "duration": "22 min"
+    },
+    {
+      "id": "raimondo-warns-against-going-it-alone-in-global-ai-race",
+      "title": "Raimondo Warns Against Going It Alone in Global AI Race",
+      "summary": "Calls for international collaboration in AI development may slow or shape the pace of AI adoption due to regulatory and security considerations.",
+      "date": "2026-10-13",
       "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-12/tiktok-s-chew-and-microsoft-s-althoff-warn-about-runaway-ai-hype",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/raimondo-warns-against-going-it-alone-in-global-ai-race",
       "effect": "delay",
       "impactScore": 3,
       "tags": [
+        "policy",
         "regulation",
-        "AI hype",
-        "adoption delay"
+        "global-cooperation"
       ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
       "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
@@ -3571,60 +3553,107 @@
       ]
     },
     {
-      "id": "mirae-asset-s-ceo-on-india-s-ai-advantage",
-      "title": "Mirae Asset's CEO on India's AI Advantage",
-      "summary": "India's growing appeal as an AI investment hub signals increasing global recognition of its potential in AI-driven productivity, which could influence workforce and career trends.",
-      "date": "2026-10-12",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-12/mirae-asset-s-ceo-on-india-s-ai-advantage-video",
-      "effect": "advance",
+      "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "summary": "Concerns about AI model security risks highlight potential regulatory or operational delays in AI adoption.",
+      "date": "2026-10-13",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "effect": "delay",
       "impactScore": 3,
       "tags": [
-        "AI investment",
-        "global AI trends",
-        "productivity"
+        "regulation",
+        "security",
+        "adoption"
       ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
-      "sourceGroup": "business",
-      "sourceTier": "editorial",
-      "qualityScore": 85,
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
+      "sourceGroup": "research",
+      "sourceTier": "research",
+      "qualityScore": 94,
       "categories": [
-        "business-and-financial",
         "computer-and-information-technology",
         "_all"
       ]
     },
     {
-      "id": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "A faulty AI model sent a false homicide tip to police, highlighting risks of AI deployment and potential regulatory or operational slowdowns.",
-      "date": "2026-10-09",
-      "source": "TechCrunch - AI",
-      "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "effect": "delay",
-      "impactScore": 3,
+      "id": "blackstone-s-gray-says-ai-infrastructure-is-right-place-to-be-",
+      "title": "Blackstone's Gray Says AI Infrastructure Is 'Right Place to Be'",
+      "summary": "Blackstone's investment in AI infrastructure signals growing confidence in AI adoption and its long-term potential in enterprise environments.",
+      "date": "2026-10-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/blackstone-s-gray-ai-infrastructure-right-place-to-be-video",
+      "effect": "advance",
+      "impactScore": 4,
       "tags": [
-        "AI reliability",
-        "regulation",
-        "public safety"
+        "AI infrastructure",
+        "enterprise adoption",
+        "investment"
       ],
-      "fetchedAt": "2026-10-12T11:01:25.002Z",
-      "sourceGroup": "ai-news",
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
+      "sourceGroup": "business",
       "sourceTier": "editorial",
       "qualityScore": 85,
       "categories": [
-        "legal",
-        "protective-service",
+        "computer-and-information-technology",
+        "business-and-financial",
+        "_all"
+      ]
+    },
+    {
+      "id": "alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+      "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+      "summary": "Alibaba's new AI glasses signal growing integration of AI into consumer gadgets, reflecting broader AI adoption in technology and product development.",
+      "date": "2026-10-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+      "effect": "advance",
+      "impactScore": 3,
+      "tags": [
+        "consumer-electronics",
+        "ai-adoption",
+        "enterprise-technology"
+      ],
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "production",
+        "_all"
+      ]
+    },
+    {
+      "id": "in-full-blackstone-s-gray-on-india-s-modi-ai-buildout",
+      "title": "In Full: Blackstone's Gray on India's Modi, AI Buildout",
+      "summary": "Blackstone's investment in AI infrastructure in India signals growing institutional confidence in AI adoption and its potential impact on global and local economies.",
+      "date": "2026-10-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/in-full-blackstone-s-gray-on-india-s-modi-ai-buildout-video",
+      "effect": "advance",
+      "impactScore": 4,
+      "tags": [
+        "AI infrastructure",
+        "investment",
+        "global AI adoption"
+      ],
+      "fetchedAt": "2026-10-13T11:00:57.416Z",
+      "sourceGroup": "business",
+      "sourceTier": "editorial",
+      "qualityScore": 85,
+      "categories": [
+        "computer-and-information-technology",
+        "business-and-financial",
         "_all"
       ]
     }
   ],
-  "generatedAt": "2026-10-12T12:00:00.000Z",
+  "generatedAt": "2026-10-13T12:00:00.000Z",
   "signalSummaries": {
     "dailyPulse": {
-      "title": "IMF Warns of AI Job Disruption, While Adoption Grows",
-      "preview": "Mixed signals on AI's impact with both delays and advances noted.",
-      "body": "Recent news highlights growing concerns over AI's effect on jobs, with the IMF warning of a 'slow-moving tsunami' and several reports pointing to increased adoption in finance and investment. However, multiple headlines also signal potential slowdowns due to misuse risks, regulatory scrutiny, and overhyped expectations. The balance remains tense as AI's role in the workforce continues to evolve."
+      "title": "AI Integration Advances Despite Regulatory Concerns",
+      "preview": "Positive AI developments face some regulatory headwinds.",
+      "body": "Multiple headlines highlight AI's growing integration into science, math, and enterprise workflows, with notable investments from Blackstone and Alibaba. However, calls for international collaboration and concerns over model security suggest potential delays in adoption. The overall trend remains forward-leaning, with a mix of progress and caution shaping the landscape."
     }
   }
 }

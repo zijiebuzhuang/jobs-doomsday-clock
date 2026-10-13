@@ -1,5 +1,247 @@
 [
   {
+    "date": "2026-10-13",
+    "minutesToMidnight": 0,
+    "exactMinutesToMidnight": -0.14,
+    "macroReplacementRate": 50.01,
+    "newsAdjustment": -13.14,
+    "categoryAdjustments": {
+      "healthcare": -0.35,
+      "life-physical-and-social-science": -0.35,
+      "architecture-and-engineering": -0.35,
+      "management": -0.35,
+      "business-and-financial": -0.35,
+      "construction-and-extraction": -0.35,
+      "production": -0.35,
+      "installation-maintenance-and-repair": -0.35,
+      "education-training-and-library": -0.35,
+      "office-and-administrative-support": -0.35,
+      "transportation-and-material-moving": -0.35,
+      "personal-care-and-service": -0.35,
+      "sales": -0.35,
+      "media-and-communication": -0.35,
+      "computer-and-information-technology": -0.35,
+      "community-and-social-service": -0.35,
+      "arts-and-design": -0.35,
+      "entertainment-and-sports": -0.35,
+      "protective-service": -0.35,
+      "food-preparation-and-serving": -0.35,
+      "legal": -0.35,
+      "math": -0.35,
+      "farming-fishing-and-forestry": -0.35,
+      "building-and-grounds-cleaning": -0.35
+    },
+    "newsFeed": [
+      {
+        "id": "moderna-google-deepmind-biocon-on-ai-in-science",
+        "title": "Moderna, Google DeepMind, Biocon on AI in Science",
+        "summary": "Leading organizations in biotech and AI discuss how AI is transforming scientific discovery, signaling increased integration of AI in research and development workflows.",
+        "date": "2026-10-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI in science",
+          "workforce transformation",
+          "R&D innovation"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "life-physical-and-social-science",
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "mathematicians-latest-problem-what-if-a-i-can-do-our-job-",
+        "title": "Mathematicians’ Latest Problem: What if A.I. Can Do Our Job?",
+        "summary": "AI's growing ability to solve complex mathematical problems raises concerns about the future of human roles in math and related fields.",
+        "date": "2026-10-13",
+        "source": "Apple Podcasts - The Daily",
+        "sourceUrl": "https://www.nytimes.com/the-daily",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI capability",
+          "workforce impact",
+          "problem-solving"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "math",
+          "computer-and-information-technology",
+          "_all"
+        ],
+        "imageUrl": "https://image.simplecastcdn.com/images/f2d639a1-37c3-47ac-a417-dcd92c371c0d/4b4b9fc3-a1ac-465a-9b81-b7d14da3a453/3000x3000/cropped_1791861747507.jpg?aid=rss_feed",
+        "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=Sl5CSM3S",
+        "duration": "00:33:17"
+      },
+      {
+        "id": "connecting-data-at-scale-with-ai-dropbox-s-ali-dasdan",
+        "title": "Connecting Data at Scale With AI: Dropbox's Ali Dasdan",
+        "summary": "Dropbox is leveraging AI to connect and utilize organizational data, improving productivity and demonstrating widespread AI adoption among developers.",
+        "date": "2026-10-13",
+        "source": "Apple Podcasts - Me, Myself, and AI",
+        "sourceUrl": "https://sloanreview.mit.edu/audio-series/me-myself-and-ai/",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI adoption",
+          "productivity",
+          "workflow transformation",
+          "enterprise AI"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "ai-news",
+        "sourceTier": "media",
+        "qualityScore": 84,
+        "contentType": "podcast",
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ],
+        "imageUrl": "https://megaphone.imgix.net/podcasts/7d0116a0-9b37-11f1-a717-67178f429787/image/2a0294c0644ee2f68a5644f42d863849.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9534820149.mp3",
+        "duration": "22 min"
+      },
+      {
+        "id": "raimondo-warns-against-going-it-alone-in-global-ai-race",
+        "title": "Raimondo Warns Against Going It Alone in Global AI Race",
+        "summary": "Calls for international collaboration in AI development may slow or shape the pace of AI adoption due to regulatory and security considerations.",
+        "date": "2026-10-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/raimondo-warns-against-going-it-alone-in-global-ai-race",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "policy",
+          "regulation",
+          "global-cooperation"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "management",
+          "_all"
+        ]
+      },
+      {
+        "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-",
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "summary": "Concerns about AI model security risks highlight potential regulatory or operational delays in AI adoption.",
+        "date": "2026-10-13",
+        "source": "MIT Tech Review",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "effect": "delay",
+        "impactScore": 3,
+        "tags": [
+          "regulation",
+          "security",
+          "adoption"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "research",
+        "sourceTier": "research",
+        "qualityScore": 94,
+        "categories": [
+          "computer-and-information-technology",
+          "_all"
+        ]
+      },
+      {
+        "id": "blackstone-s-gray-says-ai-infrastructure-is-right-place-to-be-",
+        "title": "Blackstone's Gray Says AI Infrastructure Is 'Right Place to Be'",
+        "summary": "Blackstone's investment in AI infrastructure signals growing confidence in AI adoption and its long-term potential in enterprise environments.",
+        "date": "2026-10-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/blackstone-s-gray-ai-infrastructure-right-place-to-be-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "enterprise adoption",
+          "investment"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      },
+      {
+        "id": "alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+        "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+        "summary": "Alibaba's new AI glasses signal growing integration of AI into consumer gadgets, reflecting broader AI adoption in technology and product development.",
+        "date": "2026-10-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+        "effect": "advance",
+        "impactScore": 3,
+        "tags": [
+          "consumer-electronics",
+          "ai-adoption",
+          "enterprise-technology"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "production",
+          "_all"
+        ]
+      },
+      {
+        "id": "in-full-blackstone-s-gray-on-india-s-modi-ai-buildout",
+        "title": "In Full: Blackstone's Gray on India's Modi, AI Buildout",
+        "summary": "Blackstone's investment in AI infrastructure in India signals growing institutional confidence in AI adoption and its potential impact on global and local economies.",
+        "date": "2026-10-13",
+        "source": "Bloomberg Technology",
+        "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/in-full-blackstone-s-gray-on-india-s-modi-ai-buildout-video",
+        "effect": "advance",
+        "impactScore": 4,
+        "tags": [
+          "AI infrastructure",
+          "investment",
+          "global AI adoption"
+        ],
+        "fetchedAt": "2026-10-13T11:00:57.416Z",
+        "sourceGroup": "business",
+        "sourceTier": "editorial",
+        "qualityScore": 85,
+        "categories": [
+          "computer-and-information-technology",
+          "business-and-financial",
+          "_all"
+        ]
+      }
+    ],
+    "signalSummaries": {
+      "dailyPulse": {
+        "title": "Daily signal pulse",
+        "preview": "A quick read on the latest pulse, led by Moderna, Google DeepMind, Biocon on AI in Science.",
+        "body": "This update is split between 6 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Moderna, Google DeepMind, Biocon on AI in Science\" (Bloomberg Technology), while the clearest drag comes from \"Raimondo Warns Against Going It Alone in Global AI Race\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.140 minutes. Updated 2026-10-13T12:00:00.000Z, with the macro replacement estimate at 50.0%."
+      }
+    }
+  },
+  {
     "date": "2026-10-12",
     "minutesToMidnight": 0,
     "exactMinutesToMidnight": 0.124,
@@ -20429,188 +20671,6 @@
         "title": "Daily signal pulse",
         "preview": "A quick read on the latest pulse, led by How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo.",
         "body": "This update is split between 2 advances and 2 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo\" (NVIDIA Developer - Generative AI), while the clearest drag comes from \"SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage\" (The Verge - AI). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -13.760 minutes. Updated 2026-07-15T12:00:00.000Z, with the macro replacement estimate at 50.1%."
-      }
-    }
-  },
-  {
-    "date": "2026-07-14",
-    "minutesToMidnight": -1,
-    "exactMinutesToMidnight": -1.043,
-    "macroReplacementRate": 50.072,
-    "newsAdjustment": -14.043,
-    "categoryAdjustments": {
-      "healthcare": -0.35,
-      "life-physical-and-social-science": -0.35,
-      "architecture-and-engineering": -0.35,
-      "management": -0.35,
-      "business-and-financial": -0.35,
-      "construction-and-extraction": -0.35,
-      "production": -0.35,
-      "installation-maintenance-and-repair": -0.35,
-      "education-training-and-library": -0.35,
-      "office-and-administrative-support": -0.35,
-      "transportation-and-material-moving": -0.35,
-      "personal-care-and-service": -0.35,
-      "sales": -0.35,
-      "media-and-communication": -0.35,
-      "computer-and-information-technology": -0.35,
-      "community-and-social-service": -0.35,
-      "arts-and-design": -0.35,
-      "entertainment-and-sports": -0.35,
-      "protective-service": -0.35,
-      "food-preparation-and-serving": -0.35,
-      "legal": -0.35,
-      "math": -0.35,
-      "farming-fishing-and-forestry": -0.35,
-      "building-and-grounds-cleaning": -0.35
-    },
-    "newsFeed": [
-      {
-        "id": "philippine-outsourcing-group-cuts-revenue-and-jobs-forecasts-on-ai",
-        "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
-        "summary": "AI adoption is causing a major shift in the outsourcing industry, leading to reduced revenue and job forecasts in the Philippines.",
-        "date": "2026-07-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
-        "effect": "delay",
-        "impactScore": 4,
-        "tags": [
-          "AI adoption",
-          "outsourcing",
-          "workforce impact"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "office-and-administrative-support",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "ai-workforce-opportunities-congress-examines-jobs",
-        "title": "AI Workforce Opportunities: Congress Examines Jobs",
-        "summary": "Congress examining AI workforce opportunities suggests growing attention to how AI impacts job markets and labor policies.",
-        "date": "2026-07-13",
-        "source": "Legis1",
-        "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVNFAyS0dmYkl5QTRGOGRYWm5RMVF1ZWcxbFBQUWY4WWZMYmZxVjdKZDRveWEwSE0wQm1sWVU3eWJncGhGY3BtWVJTRFJqa1VpSnFDY0tSMTJ4dVdyNG00U1p0a19Ycml1eE9xZmNOTWlvbTlRTFI4ek5TRjR2UQ?oc=5",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "policy",
-          "workforce",
-          "regulation"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "labor-market",
-        "sourceTier": "aggregator",
-        "qualityScore": 55,
-        "categories": [
-          "_all"
-        ]
-      },
-      {
-        "id": "waze-adds-new-ai-powered-features-and-customization-updates",
-        "title": "Waze adds new AI-powered features and customization updates",
-        "summary": "Waze's integration of Google's Gemini AI highlights growing AI adoption in consumer navigation tools, reflecting broader industry trends in AI-driven product enhancement.",
-        "date": "2026-07-13",
-        "source": "TechCrunch - AI",
-        "sourceUrl": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "productivity",
-          "navigation"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "ai-news",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      },
-      {
-        "id": "nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-        "title": "Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan",
-        "summary": "A major AI infrastructure financing in Asia signals growing demand for GPU-backed computing, reflecting increased adoption of AI technologies in enterprise and data center operations.",
-        "date": "2026-07-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/nvidia-partner-gmi-cloud-seeks-635-million-gpu-backed-bank-loan",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "AI infrastructure",
-          "enterprise adoption",
-          "GPU demand"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "business-and-financial",
-          "_all"
-        ]
-      },
-      {
-        "id": "finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
-        "title": "Finland’s NestAI Builds Sovereign AI Tools for Europe Militaries",
-        "summary": "Finland's NestAI is developing sovereign AI tools for military use, signaling increased adoption of AI in defense and related technical fields.",
-        "date": "2026-07-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/finland-s-nestai-builds-sovereign-ai-tools-for-europe-militaries",
-        "effect": "advance",
-        "impactScore": 4,
-        "tags": [
-          "military",
-          "ai-development",
-          "sovereign-ai"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "architecture-and-engineering",
-          "_all"
-        ]
-      },
-      {
-        "id": "sk-hynix-shares-rebound-after-early-rout-as-ai-jitters-persist",
-        "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
-        "summary": "SK Hynix's stock rebound highlights the ongoing influence of AI demand on semiconductor markets, reflecting growing pressure for AI infrastructure.",
-        "date": "2026-07-14",
-        "source": "Bloomberg Technology",
-        "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
-        "effect": "advance",
-        "impactScore": 3,
-        "tags": [
-          "AI adoption",
-          "market volatility",
-          "semiconductor industry"
-        ],
-        "fetchedAt": "2026-07-14T11:01:00.531Z",
-        "sourceGroup": "business",
-        "sourceTier": "editorial",
-        "qualityScore": 85,
-        "categories": [
-          "computer-and-information-technology",
-          "_all"
-        ]
-      }
-    ],
-    "signalSummaries": {
-      "dailyPulse": {
-        "title": "Daily signal pulse",
-        "preview": "A quick read on the latest pulse, led by Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI.",
-        "body": "This update is split between 5 advances and 1 delays, so the overall tone is mixed rather than one-way. The strongest push forward comes from \"Nvidia Partner GMI Cloud Seeks $635 Million GPU-Backed Bank Loan\" (Bloomberg Technology), while the clearest drag comes from \"Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI\" (Bloomberg Technology). Taken together, the feed looks more like a tug-of-war than a clean trend, with both adoption momentum and institutional resistance active at once. The latest news adjustment stands at -14.043 minutes. Updated 2026-07-14T12:00:00.000Z, with the macro replacement estimate at 50.1%."
       }
     }
   }

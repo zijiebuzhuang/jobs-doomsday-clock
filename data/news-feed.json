@@ -1,5 +1,205 @@
 [
   {
+    "id": "open-models-have-real-benefits-do-they-outweigh-the-risks-",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "summary": "Concerns about AI model security risks highlight potential regulatory or operational delays in AI adoption.",
+    "date": "2026-10-13",
+    "source": "MIT Tech Review",
+    "sourceUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "regulation",
+      "security",
+      "adoption"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "research",
+    "sourceTier": "research",
+    "qualityScore": 94,
+    "categories": [
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "moderna-google-deepmind-biocon-on-ai-in-science",
+    "title": "Moderna, Google DeepMind, Biocon on AI in Science",
+    "summary": "Leading organizations in biotech and AI discuss how AI is transforming scientific discovery, signaling increased integration of AI in research and development workflows.",
+    "date": "2026-10-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/moderna-google-deepmind-biocon-on-ai-in-science-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI in science",
+      "workforce transformation",
+      "R&D innovation"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "life-physical-and-social-science",
+      "computer-and-information-technology",
+      "_all"
+    ]
+  },
+  {
+    "id": "raimondo-warns-against-going-it-alone-in-global-ai-race",
+    "title": "Raimondo Warns Against Going It Alone in Global AI Race",
+    "summary": "Calls for international collaboration in AI development may slow or shape the pace of AI adoption due to regulatory and security considerations.",
+    "date": "2026-10-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/raimondo-warns-against-going-it-alone-in-global-ai-race",
+    "effect": "delay",
+    "impactScore": 3,
+    "tags": [
+      "policy",
+      "regulation",
+      "global-cooperation"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ]
+  },
+  {
+    "id": "blackstone-s-gray-says-ai-infrastructure-is-right-place-to-be-",
+    "title": "Blackstone's Gray Says AI Infrastructure Is 'Right Place to Be'",
+    "summary": "Blackstone's investment in AI infrastructure signals growing confidence in AI adoption and its long-term potential in enterprise environments.",
+    "date": "2026-10-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/blackstone-s-gray-ai-infrastructure-right-place-to-be-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "enterprise adoption",
+      "investment"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+    "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+    "summary": "Alibaba's new AI glasses signal growing integration of AI into consumer gadgets, reflecting broader AI adoption in technology and product development.",
+    "date": "2026-10-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets",
+    "effect": "advance",
+    "impactScore": 3,
+    "tags": [
+      "consumer-electronics",
+      "ai-adoption",
+      "enterprise-technology"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "production",
+      "_all"
+    ]
+  },
+  {
+    "id": "in-full-blackstone-s-gray-on-india-s-modi-ai-buildout",
+    "title": "In Full: Blackstone's Gray on India's Modi, AI Buildout",
+    "summary": "Blackstone's investment in AI infrastructure in India signals growing institutional confidence in AI adoption and its potential impact on global and local economies.",
+    "date": "2026-10-13",
+    "source": "Bloomberg Technology",
+    "sourceUrl": "https://www.bloomberg.com/news/videos/2026-10-13/in-full-blackstone-s-gray-on-india-s-modi-ai-buildout-video",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI infrastructure",
+      "investment",
+      "global AI adoption"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "editorial",
+    "qualityScore": 85,
+    "categories": [
+      "computer-and-information-technology",
+      "business-and-financial",
+      "_all"
+    ]
+  },
+  {
+    "id": "mathematicians-latest-problem-what-if-a-i-can-do-our-job-",
+    "title": "Mathematicians’ Latest Problem: What if A.I. Can Do Our Job?",
+    "summary": "AI's growing ability to solve complex mathematical problems raises concerns about the future of human roles in math and related fields.",
+    "date": "2026-10-13",
+    "source": "Apple Podcasts - The Daily",
+    "sourceUrl": "https://www.nytimes.com/the-daily",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI capability",
+      "workforce impact",
+      "problem-solving"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "business",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "math",
+      "computer-and-information-technology",
+      "_all"
+    ],
+    "imageUrl": "https://image.simplecastcdn.com/images/f2d639a1-37c3-47ac-a417-dcd92c371c0d/4b4b9fc3-a1ac-465a-9b81-b7d14da3a453/3000x3000/cropped_1791861747507.jpg?aid=rss_feed",
+    "mediaUrl": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f2fde62d-0af2-4554-ace2-22f8de6e143c/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f2fde62d-0af2-4554-ace2-22f8de6e143c&feed=Sl5CSM3S",
+    "duration": "00:33:17"
+  },
+  {
+    "id": "connecting-data-at-scale-with-ai-dropbox-s-ali-dasdan",
+    "title": "Connecting Data at Scale With AI: Dropbox's Ali Dasdan",
+    "summary": "Dropbox is leveraging AI to connect and utilize organizational data, improving productivity and demonstrating widespread AI adoption among developers.",
+    "date": "2026-10-13",
+    "source": "Apple Podcasts - Me, Myself, and AI",
+    "sourceUrl": "https://sloanreview.mit.edu/audio-series/me-myself-and-ai/",
+    "effect": "advance",
+    "impactScore": 4,
+    "tags": [
+      "AI adoption",
+      "productivity",
+      "workflow transformation",
+      "enterprise AI"
+    ],
+    "fetchedAt": "2026-10-13T11:00:57.416Z",
+    "sourceGroup": "ai-news",
+    "sourceTier": "media",
+    "qualityScore": 84,
+    "contentType": "podcast",
+    "categories": [
+      "computer-and-information-technology",
+      "management",
+      "_all"
+    ],
+    "imageUrl": "https://megaphone.imgix.net/podcasts/7d0116a0-9b37-11f1-a717-67178f429787/image/2a0294c0644ee2f68a5644f42d863849.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "mediaUrl": "https://pdst.fm/e/traffic.megaphone.fm/AMMTO9534820149.mp3",
+    "duration": "22 min"
+  },
+  {
     "id": "disrupting-ai-enabled-false-front-operations",
     "title": "Disrupting AI-enabled “false front” operations",
     "summary": "OpenAI disrupting AI-enabled influence operations highlights growing concerns about AI misuse and potential regulatory actions that could slow adoption.",
@@ -16593,105 +16793,5 @@
       "management",
       "business-and-financial"
     ]
-  },
-  {
-    "id": "how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo",
-    "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-    "summary": "AI agents are becoming more capable of managing complex ML workflows, increasing productivity and changing the skills required for research roles.",
-    "date": "2026-07-14",
-    "source": "NVIDIA Developer - Generative AI",
-    "sourceUrl": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "AI tools",
-      "workflow automation",
-      "reinforcement learning",
-      "productivity"
-    ],
-    "fetchedAt": "2026-07-15T11:01:03.889Z",
-    "sourceGroup": "official",
-    "sourceTier": "official",
-    "qualityScore": 100,
-    "categories": [
-      "computer-and-information-technology",
-      "life-physical-and-social-science",
-      "_all"
-    ],
-    "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/agentic-ai-rl-gym-768x432.png"
-  },
-  {
-    "id": "openai-may-announce-a-chatgpt-smart-speaker-this-year",
-    "title": "OpenAI may announce a ChatGPT smart speaker this year",
-    "summary": "OpenAI's potential smart speaker could integrate AI into everyday work and personal environments, increasing AI's presence in daily workflows.",
-    "date": "2026-07-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-    "effect": "advance",
-    "impactScore": 4,
-    "tags": [
-      "consumer-products",
-      "ai-hardware",
-      "workplace-adoption"
-    ],
-    "fetchedAt": "2026-07-15T11:01:03.889Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "office-and-administrative-support",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "spacexai-s-grok-programming-tool-was-uploading-its-users-entire-codebase-to-clou",
-    "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-    "summary": "A security flaw in SpaceXAI's Grok coding tool raised concerns about data privacy and could slow AI adoption in development workflows.",
-    "date": "2026-07-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "data-security",
-      "AI-tools",
-      "regulation"
-    ],
-    "fetchedAt": "2026-07-15T11:01:03.889Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&strip=all&crop=0,0,100,100"
-  },
-  {
-    "id": "google-s-demis-hassabis-says-it-s-time-for-a-global-ai-watchdog-led-by-the-us",
-    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-    "summary": "Calls for a global AI watchdog led by the US may shape future AI regulation and adoption in workplaces.",
-    "date": "2026-07-14",
-    "source": "The Verge - AI",
-    "sourceUrl": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-    "effect": "delay",
-    "impactScore": 4,
-    "tags": [
-      "regulation",
-      "policy",
-      "AI governance"
-    ],
-    "fetchedAt": "2026-07-15T11:01:03.889Z",
-    "sourceGroup": "ai-news",
-    "sourceTier": "editorial",
-    "qualityScore": 90,
-    "categories": [
-      "computer-and-information-technology",
-      "legal",
-      "_all"
-    ],
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0,0,100,100"
   }
 ]
